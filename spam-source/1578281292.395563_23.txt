@@ -1,0 +1,71 @@
+Return-Path: <SRS0=27tikt=22=kanip.buzz=compressasock_ad-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 20247 invoked from network); 5 Jan 2020 19:13:27 -0000
+Received: (qmail 29174 invoked from network); 5 Jan 2020 19:13:26 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Jan 2020 19:13:26 -0000
+Received: (qmail 25400 invoked by uid 48516); 5 Jan 2020 19:13:26 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 12521 invoked from network); 5 Jan 2020 19:13:26 -0000
+Received: from mail.kanip.buzz (70-102-103-188.nca.lanset.com [70.102.103.188])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 05 Jan 2020 19:13:25 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=kanip.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=compressasock_ad@kanip.buzz;
+ bh=RFccXjAvVqFTD4H0hMJ1fabv6PY=;
+ b=GdkXXKmHSE0SFYcltXcqb0S27VvJwvXmdROIUHOvStacencFuVr1cV5jaB4h7jWtpJmPcvc+Uw3U
+   kcMmAhqfUfaWY0j52dJgFQ8XWEFNplDVn+6HA1cqbVG4SNWQvNLEzHTnJfwVZg2RYnRi0u/HjRnM
+   4WoLvN/69P8XSM4TVwk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=kanip.buzz;
+ b=g/gdyXVNwwgrPsQWr/jeUQZuvVLMiKPAq66PTdVHAvo7BtIRmQc5PRXPTwcNFdCKjYlpkCTSjnp+
+   JEOBuSKJII5V9TVk9Mak6/OznjamwdVdQhULR5YCG45sSVpy3+P7vQn6k+GllCtsKQaqmvG8J6LG
+   iXMBhIoVnsLNZ27wSzA=;
+Received: by mail.kanip.buzz id h28qla0001gf for <bruce@untroubled.org>; Sun, 5 Jan 2020 14:07:45 -0500 (envelope-from <compressasock_ad-bruce=untroubled.org@kanip.buzz>)
+Date: Sun, 5 Jan 2020 14:07:45 -0500
+From: "CompressaSock Ad" <compressasock_ad@kanip.buzz>
+To:   <bruce@untroubled.org>
+Subject: Compressa Socks - Instant Relief for Your Feet
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_226_2087229084.1578251259218"
+List-Unsubscribe: <http://www.kanip.buzz/6476e23u9Q5W89uZ12sO11MNh346cs21wFv4GIf4rxvs4FhIHEsvZ11vRNndn9RoG96v1R0mK5qOOcY/Cornell-tooling>
+Message-ID: <0.0.0.19.1D5C3FB69D08AF4.49A380@mail.kanip.buzz>
+Content-Length: 3793
+
+------=_Part_226_2087229084.1578251259218
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>scribbles</title> 
+ </head> 
+ <body> 
+  <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+   <tbody> 
+    <tr> 
+     <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+      <center>
+       <a href="http://www.kanip.buzz/aside-correlations/a626E23Tl95BHS8612ze8oc3u346cP21KFv4GIf4rxvs4FhIHEsvZ11CRNndn9RoG95PBZ106mJLcUY"><img alt="" src="http://www.kanip.buzz/Cornell-tooling/40e6k239jD5j7XaV13zKAe8c6A346cM21YFv4GIf4rxvs4FhIHEsvZ11ARNndn9RoG97LU1l_0P6SpkclY" style="border-width: 0px; border-style: solid; height: 1216px; width: 510px; " /></a>
+      </center> 
+      <div align="center">
+       <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <a href="http://www.kanip.buzz/aside-correlations/8be4L2395f8q6N13reu8cZ4x346c_21tFv4GIf4rxvs4FhIHEsvZ11HRNndn9RoG97k1xpi0F6tXcYl2"><font color="#666666">St0p email Here</font></a>.<br /> 23000 Sussex Hwy Seaford, DE 19973</font>
+       <br /> 
+       <br /> 
+       <a href="http://www.kanip.buzz/carbonizes-captures/4a44L2395V89IT13qelk8c5i346cG21fFv4GIf4rxvs4FhIHEsvZ11PRNndn9RoG97y1gPQg05GWcNY">Unsub Here</a>
+       <br /> 
+       <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-size: 11px; text-align: -webkit-center; ">6547 N Academy Blvd #2128</span>
+       <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration: none; display: inline !important; float: none; "> </span>
+       <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-size: 11px; text-align: -webkit-center; " /> 
+       <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-size: 11px; text-align: -webkit-center; ">Colorado Springs CO 80918</span>
+       <br /> &nbsp; 
+      </div> </td> 
+    </tr> 
+   </tbody> 
+  </table> <font></font><small><font id="Packard"></font></small><big></big><font><small><big><font color="dioxide"><font style="deleterious"></font></small></font></font></big>  
+ <img src="http://www.kanip.buzz/shepherd-subtracting/9ea4G2395kti8513zep8c7Uz346cn21JFv4GIf4rxvs4FhIHEsvZ11DRNndn9RoG96CS1h0p6hNkcYq" alt=""/></body>
+</html>
+
+------=_Part_226_2087229084.1578251259218--
+

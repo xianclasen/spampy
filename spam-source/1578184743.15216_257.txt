@@ -1,0 +1,81 @@
+Return-Path: <SRS0=q50uY9=2Z=minket.date=faster-wifi-ultra-wifi-pro-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1600 invoked from network); 4 Jan 2020 16:14:13 -0000
+Received: (qmail 24382 invoked from network); 4 Jan 2020 16:14:12 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Jan 2020 16:14:12 -0000
+Received: (qmail 9728 invoked by uid 48516); 4 Jan 2020 16:14:12 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 2482 invoked from network); 4 Jan 2020 16:14:11 -0000
+Received: from mail.minket.date ([91.228.101.73])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 04 Jan 2020 16:14:10 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=minket.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=faster-wifi-ultra-wifi-pro@minket.date;
+ bh=3ZNr52TKRfqkuNX7E+oiZaFfuG8=;
+ b=iG5RutIHNYM6UlwgbJv3S36YGFmo62sIJ6QRPoLURyE3LEybmhhklKsBeF69yac/gA2wqNebGlru
+   cVpfBh2cmUzj2pvsQOTi/nf5AF14N+u9mQMEH1x2GcjkIrbLn7zkYuRN54CU0StgI2KZTSm2A/8N
+   GBw6QVL0YtZvvwVoY60=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=minket.date;
+ b=YiWwWRK8ubn+stncWFDbron7u2i00JxeIVrEyZZ4WaZwdyfVr2ZRU/ayz6D/j1aMyRUm8fRIfGPG
+   sCl5FDiENhPPf7v2OmMUwnvA6PSY9HSls8rIS6IMtgdLqX9tntLCjVvcpo6Q0LM6P0HLUETLFqkE
+   1//HGtUUWRaL6v7+fvA=;
+Received: by mail.minket.date id h22st60001g7 for <bruce@untroubled.org>; Sat, 4 Jan 2020 11:08:57 -0500 (envelope-from <faster-wifi-ultra-wifi-pro-bruce=untroubled.org@minket.date>)
+Date: Sat, 4 Jan 2020 11:08:57 -0500
+From: "Faster Wifi Ultra Wifi Pro" <faster-wifi-ultra-wifi-pro@minket.date>
+To:   <bruce@untroubled.org>
+Subject: The Smoothest Internet Connection You've Ever Had
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_379_1685840732.1578154129263"
+List-Unsubscribe: <http://www.minket.date/Q115F239Y5YKL8913z1WJnt1m19c7w21HFv4GIf4rxvs4FhIHEsvZ10QQZRQmeoP97f1R0UQl5IlH@i/Texan-Celsius>
+Message-ID: <0.0.0.29.1D5C31945279EAA.2858E@mail.minket.date>
+Content-Length: 4084
+
+------=_Part_379_1685840732.1578154129263
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Atchison squint</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.minket.date/40d5oJ2395s8L6A11g705ap19c7U21eFv4GIf4rxvs4FhIHEsvZ10pQZRQmeoP97VBu10th5vlHiW/situated-Lourdes">Get the FASTEST wifi speeds EVER</a></span>
+   <br /> &nbsp; 
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+       <center>
+        <a href="http://www.minket.date/40d5oJ2395s8L6A11g705ap19c7U21eFv4GIf4rxvs4FhIHEsvZ10pQZRQmeoP97VBu10th5vlHiW/situated-Lourdes"><img alt="speedy" src="http://www.minket.date/Anatolia-multiplied/22e5c2H395NLI7a13YKr705dV19c7n21RFv4GIf4rxvs4FhIHEsvZ10eQZRQmeoP96L1L0DB5k@3Hi" style="border-width: 0px; border-style: solid; width: 104%; " /></a>
+       </center> 
+       <div align="center">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.minket.date/feudalism-measurements/4685P239y5A86SY12d7O05bQ19c7S21lFv4GIf4rxvs4FhIHEsvZ10lQZRQmeoP95tZq105aU@Hi"><font color="#666666">Exit Here</font></a>.<br /> 4023 Kennett Pike Wilmington, DE 19807</font>
+        <br /> 
+        <br /> 
+        <br /> 
+        <a href="http://www.minket.date/7915D23v95O8Hv913p7s05cPG19c7u21RFv4GIf4rxvs4FhIHEsvZ10zQZRQmeoP95p1QJ05sB@Hi/likened-attainable">Leave Here</a>
+        <br /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+        <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+        <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 8091</span>
+        <br /> 
+        <br /> 
+        <br /> &nbsp; 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <font style="Reeves"><font><font></font><font face="moderateness"></font></font></font><font><font face="clogging"></font></font>
+  </center>   
+ <img src="http://www.minket.date/Texan-Celsius/f124h2395IL85J12s705pet19c7C21PFv4GIf4rxvs4FhIHEsvZ10FQZRQmeoP97zJm1Sq05CzHip" alt=""/></body>
+</html>
+
+------=_Part_379_1685840732.1578154129263--
+

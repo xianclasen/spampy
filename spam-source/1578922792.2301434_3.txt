@@ -1,0 +1,95 @@
+Return-Path: <SRS0=trG12E=3C=mail.badbreathfore.co=6282-2982-85526-1686-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12067 invoked from network); 13 Jan 2020 07:38:53 -0000
+Received: (qmail 24941 invoked from network); 13 Jan 2020 07:38:53 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Jan 2020 07:38:53 -0000
+Received: (qmail 3026 invoked by uid 48516); 13 Jan 2020 07:38:52 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 12604 invoked from network); 13 Jan 2020 07:38:52 -0000
+Received: from inet.badbreathfore.co (spiux32s.spikecool.website [170.130.172.212])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 13 Jan 2020 07:38:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=badbreathfore.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=*JoanRiley*@badbreathfore.co;
+ bh=Mv9p+65Xq4W9U8K2ZZOUnLovOWQ=;
+ b=gpJ/0cyUGn3GfREov0I17CINv7s0QgIQI1MP7NHUl9Bhr+6mklKcAAS2d5jQqN22QyCuRrGE8k01
+   xQEV4TI3jt1VbzE5P9JvcwKU2X1deUn16Tyu9WZl0v2pY+5Y2tbubu+t+FyAznwfEpdcgQT29vZO
+   hST9G16af0971Jb47SE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=badbreathfore.co;
+ b=k5lrjINWg2WQ4ZNu0G9OGwXr956/EY1BD+DXang/i89vVkEHgGDbR/SIaNjI9A7vJK6LdjCgbx7Z
+   /biQdUmsB1rqPh0b5ml9DD8vLZU/PAbE0rXCZXbORlQrXip6LX8towKh9nIeeY2Z+EVhJa4XwoLe
+   NB0u2zG+bD7148WRnhQ=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="4a83b67c82ff658db654df1b8619b6b5_ba6_14e16"
+Date: Mon, 13 Jan 2020 02:28:28 -0500
+From: "*Joan Riley*" <*JoanRiley*@badbreathfore.co>
+Reply-To: "Joan Riley" <*JoanRiley*@badbreathfore.co>
+Subject: Congratulations, You’ve been nominated for inclusion 
+To: <bruce@untroubled.org>
+Message-ID: <l817on7jiy0rgifq-z0unrpqvcm0gewjl-ba6-14e16@badbreathfore.co>
+Content-Length: 6669
+
+--4a83b67c82ff658db654df1b8619b6b5_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Congratulations, You’ve been nominated for inclusion 
+
+http://badbreathfore.co/_BCEfUnoI-uR4LqMp8hSCs9xxpAIdqSpBOidmDslpNaqxVf4
+
+http://badbreathfore.co/D0FIQ8cO7I5QIJhxJGaxxtTTXFmnse8dg5gPLijZP9XHGjs-
+
+In 1836 the Hudson's Bay Company established a factory (trading post) north of the current city of Kenora. They named it Rat Portage, a translation of the Ojibwe-language name for the region: Waszush Onigum, which literally means "the road to the country of the muskrat". Around 1850 gold was discovered in the region, and the Canadian Pacific Railway reached it in 1877. A sawmill was established in 1880. The town was incorporated in 1882, originally within the province of Manitoba. Located near the Manitoba–Ontario provincial border, the region was contested by both provinces until the Judicial Committee of the Privy Council ruled in favour of Ontario in 1884. Its closer proximity to Winnipeg, 210 kilometres (130 mi) away, and the rest of Manitoba, meant Rat Portage had closer ties with the west than with the rest of Ontario, where the closest city was Port Arthur (now Thunder Bay), 500 kilometres (310 mi) away.
+
+With the railroad connecting Rat Portage to Central and Eastern Canada, the town grew quickly, going from only a few people before the railway link, to 5,202 in 1901 and 6,257 by 1908. The town grew to support several industries, mainly lumber, mining, and fishing but also milling, power development and tourism. An ice rink called the Princess Rink was built in 1886. It was replaced in 1897 by the Victoria Rink which had more seats (1,000) and a larger ice surface. The town's name was changed on May 11, 1905, to Kenora, which was derived from the first letters of the three neighbouring municipalities: Keewatin, Norman, and Rat Portage. The change occurred due to the establishment of a new flour mill in town; sports historian John Wong has suggested that local businessmen felt the name Rat Portage would not encourage sales of flour.
+Formation of the Thistles
+An early ice hockey team poses for a photo.
+The Thistles, circa 1901–02
+
+The first recorded ice hockey game played in Rat Portage was on February 17, 1893, organized by the Hardisty brothers, who had recently moved from Winnipeg to take part in a minor gold rush in the region. A club was formed in 1894, with a contest held to name it; the winning entry, "Thistles", was chosen by Bill Dunsmore, a carpenter with Scottish heritage. George Dewey, one of the wealthiest people in the town, donated the initial funds for the team. In recognition he was named the club's honorary president. Most of the players were from wealthy families or independently wealthy. They had the means both to take time off work and to cover the considerable expenses associated with ice hockey.
+
+--4a83b67c82ff658db654df1b8619b6b5_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newslatter</title>
+</head>
+<body>
+<center>
+<div style="width:700px;"><a href="http://badbreathfore.co/_BCEfUnoI-uR4LqMp8hSCs9xxpAIdqSpBOidmDslpNaqxVf4" style="font-size:30px;font-family:Arial; color:blue; text-decoration:none;">Congratulations, You’ve been nominated for inclusion </a><br />
+<br />
+<a href="http://badbreathfore.co/_BCEfUnoI-uR4LqMp8hSCs9xxpAIdqSpBOidmDslpNaqxVf4"><img src="http://badbreathfore.co/8f5ef1a298ade878ea.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://badbreathfore.co/KdvRSYoLScz_tmKuW3IpfyXskDCsfv-KHjkWcdfh_8rO1AGz"><img src="http://badbreathfore.co/3e4f426cd3b4e176f5.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://badbreathfore.co/D0FIQ8cO7I5QIJhxJGaxxtTTXFmnse8dg5gPLijZP9XHGjs-"><img src="http://badbreathfore.co/3496d083762514fe04.jpg" /></a></div>
+</center>
+<span style="color:#FFFFFF;font-size:6px;">In 1836 the Hudson&#39;s Bay Company established a factory (trading post) north of the current city of Kenora. They named it Rat Portage, a translation of the Ojibwe-language name for the region: Waszush Onigum, which literally means &quot;the road to the country of the muskrat&quot;. Around 1850 gold was discovered in the region, and the Canadian Pacific Railway reached it in 1877. A sawmill was established in 1880. The town was incorporated in 1882, originally within the province of Manitoba. Located near the Manitoba&ndash;Ontario provincial border, the region was contested by both provinces until the Judicial Committee of the Privy Council ruled in favour of Ontario in 1884. Its closer proximity to Winnipeg, 210 kilometres (130 mi) away, and the rest of Manitoba, meant Rat Portage had closer ties with the west than with the rest of Ontario, where the closest city was Port Arthur (now Thunder Bay), 500 kilometres (310 mi) away. With the railroad connecting Rat Portage to Central and Eastern Canada, the town grew quickly, going from only a few people before the railway link, to 5,202 in 1901 and 6,257 by 1908. The town grew to support several industries, mainly lumber, mining, and fishing but also milling, power development and tourism. An ice rink called the Princess Rink was built in 1886. It was replaced in 1897 by the Victoria Rink which had more seats (1,000) and a larger ice surface. The town&#39;s name was changed on May 11, 1905, to Kenora, which was derived from the first letters of the three neighbouring municipalities: Keewatin, Norman, and Rat Portage. The change occurred due to the establishment of a new flour mill in town; sports historian John Wong has suggested that local businessmen felt the name Rat Portage would not encourage sales of flour. Formation of the Thistles An early ice hockey team poses for a photo. The Thistles, circa 1901&ndash;02 The first recorded ice hockey game played in Rat Portage was on February 17, 1893, organized by the Hardisty brothers, who had recently moved from Winnipeg to take part in a minor gold rush in the region. A club was formed in 1894, with a contest held to name it; the winning entry, &quot;Thistles&quot;, was chosen by Bill Dunsmore, a carpenter with Scottish heritage. George Dewey, one of the wealthiest people in the town, donated the initial funds for the team. In recognition he was named the club&#39;s honorary president. Most of the players were from wealthy families or independently wealthy. They had the means both to take time off work and to cover the considerable expenses associated with ice hockey. </span></body>
+</html>
+
+--4a83b67c82ff658db654df1b8619b6b5_ba6_14e16--

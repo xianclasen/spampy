@@ -1,0 +1,113 @@
+Return-Path: <SRS0=UfsXJl=3K=mail.prostateattack.bid=6778-2982-85526-1806-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 23130 invoked from network); 21 Jan 2020 13:55:15 -0000
+Received: (qmail 17275 invoked from network); 21 Jan 2020 13:55:15 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Jan 2020 13:55:15 -0000
+Received: (qmail 745 invoked by uid 48516); 21 Jan 2020 13:55:14 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 24621 invoked from network); 21 Jan 2020 13:55:14 -0000
+Received: from athens.prostateattack.bid ([170.130.174.62])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 21 Jan 2020 13:55:14 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=prostateattack.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=HeartAttackSavior@prostateattack.bid;
+ bh=6GcHTt9sJq9N7Y4F49QgXa9cfg4=;
+ b=ddVkZs4pgSeqORCtly1uXFUpOKZy3IogDyTcaKRK4t2at+viYdK+EY0diiIxquscgyANeR2tElf4
+   yBkayLHXK/f49yhdrUxy9+20PRrqq5HJP2ZfYrSscHamsBj6y6v4DmNQrCUvdvVFuj2MEbnJ7GAs
+   QwMGSiNcMQ0q4W5RFoI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=prostateattack.bid;
+ b=DsrBJs/LToJuQQ5/olUiGeoRj0ikkWz/fwppdY9eSdCfaXyJs08p6e3qd8NIPqUZHIl9FoBQjT9s
+   xCfcbXaZgXBAMQWZ3pzJUi230yBone5v1yoZoCMeHbCCqpkk/46cIluTFsynSCacxG/oWVLUPeN8
+   UR6S36SjBVobmSKEhYU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="e9db22e578127e9bc361b4b79e1c2f22_ba6_14e16"
+Date: Tue, 21 Jan 2020 08:55:09 -0500
+From: "Heart Attack Savior" <HeartAttackSavior@prostateattack.bid>
+Reply-To: "Heart Health" <HeartAttackSavior@prostateattack.bid>
+Subject: Shocking Video: The Dirty Little Fish Oil Secret (and more)
+To: <bruce@untroubled.org>
+Message-ID: <mfnumjaz3qidaj7b-qsc4or2qcj6206k8-ba6-14e16@prostateattack.bid>
+Content-Length: 8382
+
+--e9db22e578127e9bc361b4b79e1c2f22_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Shocking Video: The Dirty Little Fish Oil Secret (and more)
+
+http://prostateattack.bid/2c7fqUdBmCzCK9j2-KefqKxRNjt56fXeyVz0k0jegupir-Uo
+
+http://prostateattack.bid/45Q3gBYYjR1dz1KxTAgspvuZCiFl3Ujz2ylrbw52XmBlNajB
+
+ Consider independent identically distributed (IID) random variables with a given probability distribution: standard statistical inference and estimation theory defines a random sample as the random vector given by the column vector of these IID variables. The population being examined is described by a probability distribution that may have unknown parameters.
+
+A statistic is a random variable that is a function of the random sample, but not a function of unknown parameters. The probability distribution of the statistic, though, may have unknown parameters.
+
+Consider now a function of the unknown parameter: an estimator is a statistic used to estimate such function. Commonly used estimators include sample mean, unbiased sample variance and sample covariance.
+
+A random variable that is a function of the random sample and of the unknown parameter, but whose probability distribution does not depend on the unknown parameter is called a pivotal quantity or pivot. Widely used pivots include the z-score, the chi square statistic and Student's t-value.
+
+Between two estimators of a given parameter, the one with lower mean squared error is said to be more efficient. Furthermore, an estimator is said to be unbiased if its expected value is equal to the true value of the unknown parameter being estimated, and asymptotically unbiased if its expected value converges at the limit to the true value of such parameter.
+
+Other desirable properties for estimators include: UMVUE estimators that have the lowest variance for all possible values of the parameter to be estimated (this is usually an easier property to verify than efficiency) and consistent estimators which converges in probability to the true value of such parameter.
+
+This still leaves the question of how to obtain estimators in a given situation and carry the computation, several methods have been proposed: the method of moments, the maximum likelihood method, the least squares method and the more recent method of estimating equations.
+
+Null hypothesis and alternative hypothesis
+Interpretation of statistical information can often involve the development of a null hypothesis which is usually (but not necessarily) that no relationship exists among variables or that no change occurred over time.
+
+The best illustration for a novice is the predicament encountered by a criminal trial. The null hypothesis, H0, asserts that the defendant is innocent, whereas the alternative hypothesis, H1, asserts that the defendant is guilty. The indictment comes because of suspicion of the guilt. The H0 (status quo) stands in opposition to H1 and is maintained unless H1 is supported by evidence "beyond a reasonable doubt". However, "failure to reject H0" in this case does not imply innocence, but merely that the evidence was insufficient to convict. So the jury does not necessarily accept H0 but fails to reject H0. While one can not "prove" a null hypothesis, one can
+
+--e9db22e578127e9bc361b4b79e1c2f22_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://prostateattack.bid/UipJXZ3hUOfzER5rTzx7XphLae9GaNvMEjHYAPhJvc-4VSg"><img src="http://prostateattack.bid/2ee78a1462741a7df8.jpg" /><img height="1" src="http://www.prostateattack.bid/jTLnm5Svh0RZ3mVg3RNjSq7QlgzvyFvE2g5UGeE6qK0zvOdp" width="1" /></a>
+<div style="width:500px; font-size:18px; padding:10px;font-family:Arial;"><br />
+<br />
+A pain in your chest or arm is common knowledge, but most folks don&rsquo;t realize there are also four &ldquo;hidden&rdquo; warning signs you&rsquo;re about to have a heart attack&hellip;<br />
+<br />
+When they happen, they are so subtle that many make the mistake of ignoring them and end up not seeking medical attention&hellip;until it&rsquo;s too late.<br />
+<br />
+If you or a loved one are at risk or worried a heart attack might be in your future someday, see how prepared you are by asking yourself&hellip;<br />
+<br />
+<a href="http://prostateattack.bid/2c7fqUdBmCzCK9j2-KefqKxRNjt56fXeyVz0k0jegupir-Uo" style="color:#FF0000;"><b>Do You Know These 4 Hidden Symptoms A Heart Attack Is Coming?</b></a><br />
+<br />
+If you wish to stop future mailings, please <a href="http://prostateattack.bid/2c7fqUdBmCzCK9j2-KefqKxRNjt56fXeyVz0k0jegupir-Uo" style="color:#FF0000;"> <b>click here.</b></a><br />
+<br />
+<br />
+<a href="http://prostateattack.bid/2c7fqUdBmCzCK9j2-KefqKxRNjt56fXeyVz0k0jegupir-Uo"><img src="http://prostateattack.bid/01753dbfb8d5ff4776.png" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://prostateattack.bid/RHt-dUUlLMVWIGALlNnzHmHOHPSubgJ1wHstRv7PjBft8vzW"><img src="http://prostateattack.bid/20bc42683a98ca6b55.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://prostateattack.bid/45Q3gBYYjR1dz1KxTAgspvuZCiFl3Ujz2ylrbw52XmBlNajB"><img src="http://prostateattack.bid/a24aaa155f167f9af7.jpg" /></a></div>
+<br />
+<span style="color:#FFFFFF;">Consider independent identically distributed (IID) random variables with a given probability distribution: standard statistical inference and estimation theory defines a random sample as the random vector given by the column vector of these IID variables. The population being examined is described by a probability distribution that may have unknown parameters. A statistic is a random variable that is a function of the random sample, but not a function of unknown parameters. The probability distribution of the statistic, though, may have unknown parameters. Consider now a function of the unknown parameter: an estimator is a statistic used to estimate such function. Commonly used estimators include sample mean, unbiased sample variance and sample covariance. A random variable that is a function of the random sample and of the unknown parameter, but whose probability distribution does not depend on the unknown parameter is called a pivotal quantity or pivot. Widely used pivots include the z-score, the chi square statistic and Student&#39;s t-value. Between two estimators of a given parameter, the one with lower mean squared error is said to be more efficient. Furthermore, an estimator is said to be unbiased if its expected value is equal to the true value of the unknown parameter being estimated, and asymptotically unbiased if its expected value converges at the limit to the true value of such parameter. Other desirable properties for estimators include: UMVUE estimators that have the lowest variance for all possible values of the parameter to be estimated (this is usually an easier property to verify than efficiency) and consistent estimators which converges in probability to the true value of such parameter. This still leaves the question of how to obtain estimators in a given situation and carry the computation, several methods have been proposed: the method of moments, the maximum likelihood method, the least squares method and the more recent method of estimating equations. Null hypothesis and alternative hypothesis Interpretation of statistical information can often involve the development of a null hypothesis which is usually (but not necessarily) that no relationship exists among variables or that no change occurred over time. The best illustration for a novice is the predicament encountered by a criminal trial. The null hypothesis, H0, asserts that the defendant is innocent, whereas the alternative hypothesis, H1, asserts that the defendant is guilty. The indictment comes because of suspicion of the guilt. The H0 (status quo) stands in opposition to H1 and is maintained unless H1 is supported by evidence &quot;beyond a reasonable doubt&quot;. However, &quot;failure to reject H0&quot; in this case does not imply innocence, but merely that the evidence was insufficient to convict. So the jury does not necessarily accept H0 but fails to reject H0. While one can not &quot;prove&quot; a null hypothesis, one can </span></body>
+</html>
+
+--e9db22e578127e9bc361b4b79e1c2f22_ba6_14e16--

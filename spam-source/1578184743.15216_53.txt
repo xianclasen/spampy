@@ -1,0 +1,106 @@
+Return-Path: <SRS0=ZCFeUM=2Z=mail.audiplused.best=5822-2982-85526-1565-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 30761 invoked from network); 4 Jan 2020 12:57:58 -0000
+Received: (qmail 23567 invoked from network); 4 Jan 2020 12:57:58 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Jan 2020 12:57:58 -0000
+Received: (qmail 25420 invoked by uid 48516); 4 Jan 2020 12:57:57 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 13524 invoked from network); 4 Jan 2020 12:57:57 -0000
+Received: from wilma.audiplused.best (maslq23xb.masontone.host [170.130.172.197])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 04 Jan 2020 12:57:49 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=audiplused.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=VIPSurvivalGuide@audiplused.best;
+ bh=WIZqkjktbUGU+WJLbe/wTudoMOk=;
+ b=1eZ9dZe8wI3O4zVFx15KL7FxWpiJO0LBL0MJd5NlrNykuNg7ibsZERaEUniLbtq5pb0eRYjLt3ps
+   /FXRDCAo7sv1xzy5Ye7w/fbuqgDAyK44sU3ZH1/29ifuOyaroD4isc1FiW0PBV1IFgP/0pVXUCJu
+   3RHjGDaQzxPtwCv6RqM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=audiplused.best;
+ b=Np9YehMHjuoYmu07Xfyjp1r4Iv8DlRugc3boQ64V58MN8+fX7dc8tJ4WjlddwBoPYXv0g5OazImm
+   SH+MkiBOVNiUu8ZzmBvYihpK5Ljua3nMtI+63h9prptfa06zDqsdXosIFWw5lschQzHDkDYzpu1V
+   SwnLNTPsrzu1qwXHB9c=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="ae5328c2a5537d86dcc09ecdcce7c553_ba6_14e16"
+Date: Sat, 4 Jan 2020 07:56:44 -0500
+From: "VIP Survival"<VIPSurvivalGuide@audiplused.best>
+Reply-To: "VIP Survival Guide"<VIPSurvival@audiplused.best>
+Subject: Claim Your Free Tactical Backpack Now
+To: <bruce@untroubled.org>
+Message-ID: <19edwe3wyjv1ue17-mx3mlh00noz5tzz4-ba6-14e16@audiplused.best>
+Content-Length: 6397
+
+--ae5328c2a5537d86dcc09ecdcce7c553_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Claim Your Free Tactical Backpack Now
+
+http://audiplused.best/BBzw84WVrrfMMiTgl2dYxRJGNk4mtdHlcGZO4h_6GLBXgR60
+
+http://audiplused.best/gwXfa4j4zwQTGInLKCrNEiAteIC2Y8QqD5HsqvmpTMA8si30
+
+Science Fiction Writers of America, Inc. was founded in 1965 by Damon Knight in association with a group of writers connected to the Milford Conference, which he also headed. According to Todd McCaffrey, the organization immediately "acquired great status in its efforts to help J.R.R. Tolkien get fair recompense in America for pirated sales of The Lord of the Rings." In 1991, the name of the organization was changed to Science Fiction and Fantasy Writers of America, to reflect the fact that the organization had always included writers working in multiple genres. After the name change, both SFWA and SFFWA were used as acronyms. The acronym SFWA was re-established officially in 1996.
+
+In 1982, Lisa Tuttle withdrew her short story "The Bone Flute" from the final Nebula ballot, to protest what she saw as excessive campaigning for awards and that voters did not receive copies of nominated works. Her withdrawal was sent after voting had been completed. When informed she had won, she contacted SFWA and told them she refused to accept it. She was told that her reasons for doing so would be announced. Her publisher accepted the award in her place, apparently with no knowledge of her withdrawal, and there was no mention of her objection.
+
+In September 2009, SFWA joined the Open Book Alliance to oppose the Google Book Settlement. As a party to the class action suit, SFWA had recently explained its reservations about the settlement and declared its intention to file an objection.
+
+In 2013, the SFWA Bulletin was the subject of a controversy about sexism. This led to a brief hiatus, followed by a reboot of the magazine.
+
+In 2014, the original Massachusetts corporation was dissolved and SFWA reincorporated as a California nonprofit 501(c)3 organization with new bylaws.
+
+--ae5328c2a5537d86dcc09ecdcce7c553_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div style="width:600px; border:2px solid #000;border-radius: 10px;">
+<p style="font-size:25px;font-family:Arial;color:#000000;"><a href="http://audiplused.best/BBzw84WVrrfMMiTgl2dYxRJGNk4mtdHlcGZO4h_6GLBXgR60" style="text-decoration: none;">THE &quot;ASSAULT BAG&quot; IS YOUR EVERYDAY TACTICAL BACKPACK TEST THE ASSAULT BAG FOR FREE! <b style="color:red;">- TEST THE ASSAULT BAG FOR FREE!</b> </a></p>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="padding:20px;"><a href="http://audiplused.best/BBzw84WVrrfMMiTgl2dYxRJGNk4mtdHlcGZO4h_6GLBXgR60" style="text-decoration: none;"><img src="http://audiplused.best/3957b9c45af4e3f642.jpg" /></a></td>
+			<td><b style="color:#94b566; font-size:25px;">?</b> &nbsp;&nbsp;&nbsp;Lightweight Yet Durable<br />
+			<br />
+			<b style="color:#94b566; font-size:25px;">?</b> &nbsp;&nbsp;&nbsp;Premium 1000D Poly<br />
+			<br />
+			<b style="color:#94b566; font-size:25px;">?</b> &nbsp;&nbsp;&nbsp;FAT Zipper&trade; Zippers<br />
+			<br />
+			<b style="color:#94b566; font-size:25px;">?</b> &nbsp;&nbsp;&nbsp;15 Separate Compartments<br />
+			<br />
+			<b style="color:#94b566; font-size:25px;">?</b> &nbsp;&nbsp;&nbsp;Chest Strap &amp; Waist Strap<br />
+			<br />
+			<b style="color:#94b566; font-size:25px;">?</b> &nbsp;&nbsp;&nbsp;Expandable Molle System<br />
+			<br />
+			<b style="color:#94b566; font-size:25px;">?</b> &nbsp;&nbsp;&nbsp;Protective Waterproof Lining<br />
+			<br />
+			<b style="color:#94b566; font-size:25px;">?</b> &nbsp;&nbsp;&nbsp;FREE USA Flag Patch<br />
+			<br />
+			<b style="color:#94b566; font-size:25px;">?</b> &nbsp;&nbsp;&nbsp;Claim Yours Today While We Still Have Stock!<br />
+			&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<a href="http://audiplused.best/BBzw84WVrrfMMiTgl2dYxRJGNk4mtdHlcGZO4h_6GLBXgR60" style="margin: 10px; padding: 15px; display: inline-block; border-radius: 6px; background-color: #fff; text-decoration: none;border:5px dashed #000000;"><strong style="color: blue; font-size: 30px"><u>YES! SEND MY ASSAULT BAG!</u></strong></a><br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://audiplused.best/sdpU8eMcF-hDlE0zk4O5tb_Q0ssVFRJ1KjBvfjLzj1pKiEaC"><img src="http://audiplused.best/3173632022deaeeb14.jpg" /></a><br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Science Fiction Writers of America, Inc. was founded in 1965 by Damon Knight in association with a group of writers connected to the Milford Conference, which he also headed. According to Todd McCaffrey, the organization immediately &quot;acquired great status in its efforts to help J.R.R. Tolkien get fair recompense in America for pirated sales of The Lord of the Rings.&quot; In 1991, the name of the organization was changed to Science Fiction and Fantasy Writers of America, to reflect the fact that the organization had always included writers working in multiple genres. After the name change, both SFWA and SFFWA were used as acronyms. The acronym SFWA was re-established officially in 1996. In 1982, Lisa Tuttle withdrew her short story &quot;The Bone Flute&quot; from the final Nebula ballot, to protest what she saw as excessive campaigning for awards and that voters did not receive copies of nominated works. Her withdrawal was sent after voting had been completed. When informed she had won, she contacted SFWA and told them she refused to accept it. She was told that her reasons for doing so would be announced. Her publisher accepted the award in her place, apparently with no knowledge of her withdrawal, and there was no mention of her objection. In September 2009, SFWA joined the Open Book Alliance to oppose the Google Book Settlement. As a party to the class action suit, SFWA had recently explained its reservations about the settlement and declared its intention to file an objection. In 2013, the SFWA Bulletin was the subject of a controversy about sexism. This led to a brief hiatus, followed by a reboot of the magazine. In 2014, the original Massachusetts corporation was dissolved and SFWA reincorporated as a California nonprofit 501(c)3 organization with new bylaws. </span></center>
+</body>
+</html>
+
+--ae5328c2a5537d86dcc09ecdcce7c553_ba6_14e16--

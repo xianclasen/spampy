@@ -1,0 +1,71 @@
+Return-Path: <quiet-ringing-bruce=untroubled.org@ago9912.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15804 invoked from network); 28 Jan 2020 17:07:19 -0000
+Received: (qmail 42718 invoked by uid 222); 28 Jan 2020 17:07:18 -0000
+Return-Path: <quiet-ringing-bruce=untroubled.org@ago9912.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 42715 invoked from network); 28 Jan 2020 17:07:17 -0000
+Received: from mail.ago9912.com (208-186-113-113.nca.datanoc.com [208.186.113.113])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 28 Jan 2020 17:07:17 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ago9912.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=quiet-ringing@ago9912.com;
+ bh=AjMo4ntI16xBCjFtx+zZMErcyZY=;
+ b=XuRKdplUCBZP99VG0kg0NhD8Lp2DqkGCjGjxam/Pvgu2TIrKL7yz9EreG+KVjfbZaalY64K7QHLH
+   Dn/TnLGtnEVhJ11YzRFvVgqVh4g88UiHblPISlG+kKrTqqKb+5ZFtkb4sO+YBUCOXRF1G4W+xiEs
+   Q8QwH1zh/AG0bNHlAyc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=ago9912.com;
+ b=YnIi0N+1gmhttUatRhaGG4cm+NuMpbmueECD6h9Ucrch0+ZITaZoZeGYgii++TbbGvAb+aAN0t8i
+   PUPr+yPu0rzRrButhbmSgCeO6dePjKQyQxgF88WPX7eCvPPFt0PH9SJaLFj7TOnErPrBap/XfmZ+
+   iOMq0kts0W0RWtejnPs=;
+Received: by mail.ago9912.com id h61l4a0001gs for <bruce@untroubled.org>; Tue, 28 Jan 2020 12:01:46 -0500 (envelope-from <quiet-ringing-bruce=untroubled.org@ago9912.com>)
+Date: Tue, 28 Jan 2020 12:01:46 -0500
+From: "Quiet Ringing" <quiet-ringing@ago9912.com>
+To:   <bruce@untroubled.org>
+Subject: The MISSING LINK to Beating Tinnitus for GOOD&hellip;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_247_1920498287.1580230893621"
+List-Unsubscribe: <http://www.ago9912.com/89f6m2I39z5r8_9w13s1AtVj1B3549u21sFv4GIf4rxvs4FhIHEsvZ11sRFnd9SooW97S1xmG0C5YUlcY/sometime-jitter>
+Message-ID: <0.0.0.1A.1D5D5FC9FF58702.16A1A4@mail.ago9912.com>
+Content-Length: 6792
+
+------=_Part_247_1920498287.1580230893621
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>nations</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.ago9912.com/call-blamers/e7c6zxS2395v8p6m11Ned44U3549K21gFv4GIf4rxvs4FhIHEsvZ11SRFnd9SooW97t1ZInD06C1BNcY" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.ago9912.com/booting-yellower/8a05ox2395yVF7a12Pjed47l3549G21EFv4GIf4rxvs4FhIHEsvZ11jRFnd9SooW95Y1Bv05J@c1Y" style="border-width: 0px; border-style: solid; width: 77%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.ago9912.com/call-blamers/e7c6zxS2395v8p6m11Ned44U3549K21gFv4GIf4rxvs4FhIHEsvZ11SRFnd9SooW97t1ZInD06C1BNcY">Watch now &quot; 10 second trick&quot; to restore your hearing</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.ago9912.com/9ad5wQ2395ED86g13Yed_4p5z3549r21AFv4GIf4rxvs4FhIHEsvZ11YRFnd9SooW96Pxu10T5oAcYq/arresting-unwinds"><font color="#666666">Exit mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.ago9912.com/7196F23mM95w8Gj913uIed4u6N3549O21lFv4GIf4rxvs4FhIHEsvZ11LRFnd9SooW97iIU10Vw5z2cYJ/legitimacy-cancel">unsub Here</a>
+    <br /> 
+    <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+   </div> <style><style size="daydream"></style></style><span color="forgotten"><span class="inductances"></span></span><style color="deviate"><small></small></style><span title="quantities"><small><style face="homesickness"></style></span></small><font></font><big></big>
+  </center>   
+ <img src="http://www.ago9912.com/2696m239mj5KIX8513ded48ZhT3549Z21KFv4GIf4rxvs4FhIHEsvZ11GRFnd9SooW95VF10r5PzcYp/arresting-unwinds" alt=""/></body>
+</html>
+
+------=_Part_247_1920498287.1580230893621--
+

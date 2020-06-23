@@ -1,0 +1,99 @@
+Return-Path: <6834-9790-262549-1819-bruce=untroubled.org@mail.hottixg.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 32086 invoked from network); 22 Jan 2020 15:17:53 -0000
+Received: (qmail 27680 invoked from network); 22 Jan 2020 15:17:52 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 15:17:52 -0000
+Received: (qmail 11874 invoked by uid 48516); 22 Jan 2020 15:17:51 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 16335 invoked from network); 22 Jan 2020 15:17:50 -0000
+Received: from band.hottixg.us (client-192-236-155-235.hostwindsdns.com [192.236.155.235])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 22 Jan 2020 15:17:46 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=hottixg.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=OnlineCarAuctions@hottixg.us;
+ bh=1YjUdj8qp49vU0P+cRfNK+WndyY=;
+ b=isQrqvhYLenGgcV/fucrYJDKTvp3xRoIRaSqT3ybRRvnMPlP7+RsV3btKaVqf2176z5LSLcy98ho
+   NgSWWtZqxJxwML2CtzeFqFCu+ave/WpBS4WMug3APxqKp1GnPSTWCJ4R3gGWc6zMKZBTBoKu0bh1
+   EXDsxPeooxkCzgiGwls=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=hottixg.us;
+ b=g8TNd30Bgzrl7kXofpunnceBsDGAXGZQ4MsfiBw34f4bhAd/M0qI9Tjn4gZ95uJvMU8Hg83OUMeK
+   YxjNO6W2+//f1KEaNhdsRdP/AWxEFxPhxFUlMMYflotVhtfVEcPdzfjzY4Z91GpnAn2bhPdtb884
+   UIHOd/s6aJeYSFsm/gk=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="529216c19cab977e9cd25b65a7356d38_263e_40195"
+Date: Wed, 22 Jan 2020 10:17:42 -0500
+From: "Immediate Access" <OnlineCarAuctions@hottixg.us>
+Reply-To: "Immediate Access" <OnlineCarAuctions@hottixg.us>
+Subject: Get your favorite car under $1000!
+To: <bruce@untroubled.org>
+Message-ID: <nc6rhoi08xbhocg0-jl8mlst7yuo68px4-263e-40195@hottixg.us>
+Content-Length: 7757
+
+--529216c19cab977e9cd25b65a7356d38_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Get your favorite car under $1000!
+
+http://hottixg.us/1iBdY5BAyOTiFNxeUrI6qebhfcnzk5efgEEpqWsEN52YeZe8
+
+http://hottixg.us/f9WuIWDEGmCCAu5XgGVSD-ArPRhAU7ABB63Wf5cGCPODt6a2
+
+An adaptation of the character appears in the live-action Marvel Studios film Guardians of the Galaxy, portrayed by Sean Gunn via motion capture and voiced by Bradley Cooper. His real name in the film is 89P13. In addition to being genetically altered, Rocket is shown to have cybernetic implants within his body. He is only referred to as Rocket in the film, and asks "What's a Raccoon?" when told of his resemblance to the animal by Peter Quill. He serves as the team's pilot and technical expert, providing the weapon that Quill uses against Ronan the Accuser in the final confrontation and piloting a Ravager ship in the final assault against Ronan's fleet. Rocket also displays a talent for engineering jailbreaks. Having previously escaped from 22 prisons, he devises and executes a scheme to free his eventual teammates from a Nova Corps prison. Screenwriter Nicole Perlman has stated that early drafts of the film did not include the character due to "a little bit of a fear that he would come across as cartoonish because he's a raccoon." Marvel Studios president Kevin Feige was persuaded to approve Rocket's inclusion in the film. A live raccoon named "Oreo" was used on set to help animators accurately capture the motion and behaviors of it for their CGI model. Director James Gunn took Oreo to the film's European premiere.
+Cooper and Gunn reprised their roles for Rocket in the sequel, Guardians of the Galaxy Vol. 2, released in 2017. In the film, he causes the team to get chased by the Sovereign after stealing their anulax batteries. He is left on the planet where they crash landed (as a result of him and Quill fighting over the controls) to guard Nebula with Baby Groot after the rest explore Ego's planet. When captured by the Ravagers, Rocket and Yondu bond over their similarities and manage to escape the ship alongside Groot and Yondu's right-hand man Kraglin. They assist the other Guardians in combating Ego's forces. When Yondu stays behind to save Quill from the planet's destruction, Rocket gives him equipment and welcomes him as a member of the Guardians. He is saddened by Yondu's sacrifice in the climax. A running gag in the film includes Rocket winking with the wrong eye, being mistaken for different animals, being angered when called a raccoon and being criticized for his rude behavior.
+Cooper and Gunn reprise their roles in the film Avengers: Infinity War. In this film, Rocket joins with Groot and Thor in helping to forge Thor's new weapon Stormbreaker. In addition, Rocket Raccoon helps provide Thor a prosthetic eye to replace the one that he lost in his fight with Hela. He later joins the other Avengers and Groot on Earth in the battle of Wakanda. After Thanos wipes out half the universe, Rocket is the only remaining Guardian alive on Earth, with Nebula surviving on Titan.
+
+--529216c19cab977e9cd25b65a7356d38_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><br />
+<a href="http://hottixg.us/pBZu1sn88BaTW0z9INk0-PpZCkmCQHPvCYjqDTxnqRQd6fRE"><img src="http://hottixg.us/0af6a261dba4412671.jpg" /><img height="1" src="http://www.hottixg.us/HW2IxZojTkmVgLLr_i_0lUEpoeFjMqQas80sztVj9YVuPDKE" width="1" /></a>
+<div style="font-family:arial; width:500px; text-align:left;padding:20px;"><a href="http://hottixg.us/1iBdY5BAyOTiFNxeUrI6qebhfcnzk5efgEEpqWsEN52YeZe8"><img src="http://hottixg.us/5bc78cfc0dea48db67.jpg" /></a><br />
+Dear patron,<br />
+<br />
+<b>Have You Heard about the Guy who bought a 2 year old Mustang Convertible for $850?</b><br />
+<br />
+<mark>Are you still saving to buy your dream car?</mark><br />
+<br />
+But it is never enough.<br />
+<br />
+For it is too expensive!<br />
+<br />
+<b style="color:red;">Not anymore!</b><br />
+<br />
+<b>Learn How to Buy a Car From 95% Off Retail Value.</b><br />
+<br />
+<mark>See What All The Fuss Is All About with Government Auto &amp; Seized Car Auctions!</mark><br />
+<br />
+&gt;&gt;Immediate Access - Live and Online - 4,000+ Auctions US Wide&lt;&lt;<br />
+<br />
+Be Smart - Save Thousands!<a href="http://hottixg.us/1iBdY5BAyOTiFNxeUrI6qebhfcnzk5efgEEpqWsEN52YeZe8"> Get Started - Become A Member Today!</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://hottixg.us/qN5RSxKYxM-iP00dEdIgnKvpf_49q5R7emJUZ_Ds1egNSUE" target="_blank"><img src="http://hottixg.us/8f2d4a86c3a780a6bf.jpg" /></a><br />
+<br />
+<span style="color:#FFFFFF;">An adaptation of the character appears in the live-action Marvel Studios film Guardians of the Galaxy, portrayed by Sean Gunn via motion capture and voiced by Bradley Cooper. His real name in the film is 89P13. In addition to being genetically altered, Rocket is shown to have cybernetic implants within his body. He is only referred to as Rocket in the film, and asks &quot;What&#39;s a Raccoon?&quot; when told of his resemblance to the animal by Peter Quill. He serves as the team&#39;s pilot and technical expert, providing the weapon that Quill uses against Ronan the Accuser in the final confrontation and piloting a Ravager ship in the final assault against Ronan&#39;s fleet. Rocket also displays a talent for engineering jailbreaks. Having previously escaped from 22 prisons, he devises and executes a scheme to free his eventual teammates from a Nova Corps prison. Screenwriter Nicole Perlman has stated that early drafts of the film did not include the character due to &quot;a little bit of a fear that he would come across as cartoonish because he&#39;s a raccoon.&quot; Marvel Studios president Kevin Feige was persuaded to approve Rocket&#39;s inclusion in the film. A live raccoon named &quot;Oreo&quot; was used on set to help animators accurately capture the motion and behaviors of it for their CGI model. Director James Gunn took Oreo to the film&#39;s European premiere. Cooper and Gunn reprised their roles for Rocket in the sequel, Guardians of the Galaxy Vol. 2, released in 2017. In the film, he causes the team to get chased by the Sovereign after stealing their anulax batteries. He is left on the planet where they crash landed (as a result of him and Quill fighting over the controls) to guard Nebula with Baby Groot after the rest explore Ego&#39;s planet. When captured by the Ravagers, Rocket and Yondu bond over their similarities and manage to escape the ship alongside Groot and Yondu&#39;s right-hand man Kraglin. They assist the other Guardians in combating Ego&#39;s forces. When Yondu stays behind to save Quill from the planet&#39;s destruction, Rocket gives him equipment and welcomes him as a member of the Guardians. He is saddened by Yondu&#39;s sacrifice in the climax. A running gag in the film includes Rocket winking with the wrong eye, being mistaken for different animals, being angered when called a raccoon and being criticized for his rude behavior. Cooper and Gunn reprise their roles in the film Avengers: Infinity War. In this film, Rocket joins with Groot and Thor in helping to forge Thor&#39;s new weapon Stormbreaker. In addition, Rocket Raccoon helps provide Thor a prosthetic eye to replace the one that he lost in his fight with Hela. He later joins the other Avengers and Groot on Earth in the battle of Wakanda. After Thanos wipes out half the universe, Rocket is the only remaining Guardian alive on Earth, with Nebula surviving on Titan. </span></div>
+</body>
+</html>
+
+--529216c19cab977e9cd25b65a7356d38_263e_40195--

@@ -1,0 +1,1155 @@
+Return-Path: <SRS0=ywARsw=3F=inbox-promo.com=b1.974586e6c82c66f2eb4b739c477ac5a7cd331ae6@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3194 invoked from network); 16 Jan 2020 05:12:18 -0000
+Received: (qmail 21612 invoked from network); 16 Jan 2020 05:12:17 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Jan 2020 05:12:17 -0000
+Received: (qmail 5121 invoked by uid 48516); 16 Jan 2020 05:12:17 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 1470 invoked from network); 16 Jan 2020 05:12:17 -0000
+Received: from mail2.inbox-promo.com (mail2.inbox-promo.com [110.76.189.245])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 16 Jan 2020 05:12:16 -0000
+Received: from 110.76.189.245 (mail3.token-analyzer.com [110.76.189.226])
+	by mail2.inbox-promo.com (Postfix) with ESMTP id C108E620290
+	for <bruce@untroubled.org>; Thu, 16 Jan 2020 13:12:12 +0800 (HKT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; t=1579151532; s=default;
+	d=inbox-promo.com;
+	h=Date:From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=uYRGwcpWwHnEPLEBOftU7v4Gq6RSQ0r48BG5ngLqV4U=;
+	b=b5whKvBT/c2BCB1agecxBFj4esk4VmaP7a25px9yuh1yAEqA2jrEvhxGqJm5uURd
+	DG3gEa42u3eOGjPTRTV2slmHPgx+/CG9ZLe2/RcI2Gvt2EuGzo7WYrQiZQjuz+Ch6J2
+	lxLB70BJN6t4OsVE6ekEQ8lQYvbpE++XKpD0iw6s=
+Date: Thu, 16 Jan 2020 13:12:12 +0800 (HKT)
+From: Training Development Program <princess@conferenceph.com>
+Reply-To: Training Development Program <princess@conferenceph.com>
+To: JHIE-07-YMLP <bruce@untroubled.org>
+Message-ID: <1158776849.4460050.1579151532788.JavaMail.tomcat0@hka3>
+Subject: =?UTF-8?Q?Top_Secrets_on_Handling_BIR_?=
+ =?UTF-8?Q?Audit_with_CPE_UNITS_=E2=80=93_Jan_30?=
+Errors-To: b1.974586e6c82c66f2eb4b739c477ac5a7cd331ae6@inbox-promo.com
+MIME-Version: 1.0
+Content-Type: text/html;charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Content-ID: ke4t47b8FqPkdAmPb/++/mpAsc27BpZRRn2F/8dvoB/naCnH54XtxGGXTl1Lix139Ga01/xHICB51kLXgL0l0cHQ8DPP5KT4C1OYP/4FQXWH1GsoCj6OXq9UjAo1/o9BqfkFPRINJPC+YXDeywf+x6sEB3ezaERrIEauHnzbOlrrgpd1D1NeRPaJ5+tZfB3C1LmpfGCsuxlQAu9ujXJDm2pYC5e78DRk08+M7cdE2L59rlSjLRkiU+QwNhwAKmGm7947c1KoLInvLZr/+rpS7/gQiBkX2g0a
+Feedback-ID: 701037928278524:661235484073222:746470192951166:inbox-promo.com
+Content-Length: 52587
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<meta name=3D"GENERATOR" content=3D"MSHTML 11.00.10570.1001">
+<meta charset=3D"UTF-8">
+<style type=3D"text/css">
+@media only screen and (max-width: 480px) { .email-header { padding: 0 5px;=
+ } }=20
+.email-footer-ios-link a { color: #444444 !important; text-decoration: none=
+ !important; } @media only screen and (max-width: 480px) { .email-footer { =
+width: 100% !important; -moz-text-size-adjust: none; -webkit-text-size-adju=
+st: none; -ms-text-size-adjust: none; } .email-footer-column { vertical-ali=
+gn: top; } .email-footer-email-address { word-break: break-word; } }=20
+</style>
+<title>Top Secrets on Handling BIR Audit with CPE UNITS =E2=80=93 Jan 30</t=
+itle>
+<!--[if !mso]><!-- -->
+<!--<![endif]-->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+</head>
+<body>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" alig=
+n=3D"center"><tr><td align=3D"center"><div class=3D"email-header" style=3D"=
+font-family: Verdana, sans-serif; font-size: 11px; line-height: 18px; color=
+: #444444;">Add <a href=3D"mailto:princess@conferenceph.com" style=3D"color=
+: #3399ff;">princess@conferenceph.com</a> to your address book.</div>
+
+<br /></td></tr><tr><td align=3D"left"><div class=3D"gmail_quote">=20
+ <div dir=3D"ltr">=20
+  <div class=3D"gmail_quote">=20
+   <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin:=
+0px auto; width:100%">=20
+    <tbody>=20
+     <tr>=20
+      <td style=3D"background-color:#fafafa; background-repeat:repeat; font=
+-family:Arial,sans-serif; padding-bottom:15px; padding-top:15px; width:100%=
+" valign=3D"top">=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#ffffff; border:0px transparent=
+; padding:17px 8px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+>&nbsp;</th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 568px; background-color: transparent;" valign=3D"top">=20
+                   <div style=3D"overflow: hidden;">=20
+                    <a name=3D"_Hlk22649578"><strong><span style=3D"color:r=
+ed; font-family:Cambria,serif; font-size:12pt; line-height:115%">By the way=
+, these are the list of our forthcoming seminars:</span></strong></a>
+                    <br>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">* Job Evaluation and Design of Salary Structure -Jan 22</span></=
+strong>
+                    <br>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">* The Latest Updates <span style=3D"color:black">How to Prepare =
+Dole Inspection =E2=80=93 Jan 23</span></span></strong>
+                    <br>
+                    <strong><span style=3D"color:black; font-family:Cambria=
+,serif; font-size:12pt">*</span></strong>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt"> Financial Performance Analysis: Evaluate the Performance of The=
+ Company WITH CPE UNITS=E2=80=93Jan 24</span></strong>
+                    <br>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">*</span></strong>=20
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">Effective Purchasing Steps and Procedures =E2=80=93 Jan 29<span =
+style=3D"color:black"> </span></span></strong>
+                    <br>
+                    <strong><span style=3D"color:black; font-family:Cambria=
+,serif; font-size:12pt">* Top Secrets on Handling BIR Audit with CPE UNITS:=
+ TO AVOID BEING HARASSED =E2=80=93 Jan 30</span></strong>
+                    <br>
+                    <strong><span style=3D"color:black; font-family:Cambria=
+,serif; font-size:12pt">* High Impact</span></strong>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt"> Management and Supervisory Leadership Development-Jan 31</span>=
+</strong>=20
+                   </div></th>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#ffffff; border:0px transparent=
+; padding:0px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 600px; background-color: transparent;" valign=3D"top">=20
+                   <div style=3D"overflow: hidden;">=20
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"width:100%">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td style=3D"padding:0px 0px 20px">=20
+                        <table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"margin:auto">=20
+                         <tbody>=20
+                          <tr>=20
+                           <td style=3D"border:0px transparent"> <img alt=
+=3D"Seminar Cover Page" height=3D"auto" src=3D"https://ci5.googleuserconten=
+t.com/proxy/iIZHTi90bEhm4ZDsRC5J6Lo-xUUVC6kWJepnbE7Z97DzAGxzLcthqQJNfuMN-er=
+eEeWl0yiaWXNd9CM67UwrYbLVo-OaVcPTfZZl8amFx3PPaUSEdiq4jaIHoLCXDzWBv55QOFzK1V=
+uXuKvNQne03Rg=3Ds0-d-e1-ft#https://staticapp.icpsc.com/icp/resources/mogile=
+/1246552/06d8e311158f54d9fab3ef3d2d446280.jpeg" style=3D"background-color:t=
+ransparent; display:block; margin:auto" title=3D"Seminar Cover Page" width=
+=3D"600"> </td>=20
+                          </tr>=20
+                         </tbody>=20
+                        </table> </td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table>=20
+                   </div>=20
+                   <div style=3D"overflow: hidden;">
+                     &nbsp;=20
+                   </div></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#f0372f; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#f0372f; border:0px transparent=
+; padding:5px 8px 5px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <strong style=3D"background-color:transparent; colo=
+r:#f6f6f6; font-family:sans-serif">COURSE OUTLINE</strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bac=
+kground-color:#ffffff; margin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"background-color:#ffffff; width:100%" valign=3D"top"=
+>=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"margin:0px auto; table-layout:fixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"border:0px transparent; padding:25px 8px 25px 7p=
+x">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">
+                         I. Introduction
+                        <br>II. Purpose of Audit
+                        <br>III. Frequency of Audit
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> A. Exceptions
+                        <br>IV. Audit Notices
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> A. Letter of Authority
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> B. Tax Verification Notice
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> C. Letter Notice
+                        <br>V. Issuance of Letter of Authority (LA)
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> A. Requirements
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> B. Validity of LA
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> C. Service of LA
+                        <br>VI. Issuance of Tax Verification Notice (TVN)
+                        <br>VII. Issuances of Letter Notice
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> A. Basis
+                        <br>VIII. Informal Conference
+                        <br>IX. Pre-Assessment Notice (PAN)
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> A. General Rule
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> B. Exceptions
+                        <br>X. Formal Letter of Demand/Final Assessment Not=
+ice
+                        <br>XI. Final Decision of Disputed Assessment
+                        <br>XII. Appeal to the Judicial Courts
+                        <br>XIII.Stature of Limitation
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> A. Validity
+                        <br>
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span> B. Suspension
+                        <br>XIV. Assessment Cycle
+                        <br>XV. Taxes not requiring Assessment
+                        <br>
+                        <span style=3D"background-color:transparent">XVI. T=
+axes which require Assessment</span>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bac=
+kground-color:#ffffff; margin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"background-color:#ffffff; width:100%" valign=3D"top"=
+> &nbsp; </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#f0372f; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#f0372f; border:0px transparent=
+; padding:5px 8px 5px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <strong style=3D"background-color:transparent; colo=
+r:#f6f6f6; font-family:sans-serif">RESOURCE SPEAKER</strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#ffffff; border:0px transparent=
+; padding:0px 8px 0px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 179px; background-color: transparent;" valign=3D"top">=20
+                   <div style=3D"overflow: hidden;">=20
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"width:100%">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td style=3D"padding:0px 0px 20px">=20
+                        <table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"margin:auto">=20
+                         <tbody>=20
+                          <tr>=20
+                           <td style=3D"border:0px transparent"> <img alt=
+=3D"" height=3D"auto" src=3D"https://ci5.googleusercontent.com/proxy/lp9A1b=
+rIG8L4anMtwRYqkCoIkvQuLhSrciGR4ao8ENr7DcG560UtLbKUefIOG5pZdBR1yPOElxq0k7p3J=
+wRIzHJ2JggV5gZcoHurHKELtU4vZbKzUM1ErGcHTQZMA5EHwchlrehvw0L_Blj0hrsurqY=3Ds0=
+-d-e1-ft#https://staticapp.icpsc.com/icp/resources/mogile/1246552/9ba217936=
+7c4803067f0e3f2c93e47a0.jpeg" style=3D"background-color:transparent; displa=
+y:block; margin:auto" width=3D"179"> </td>=20
+                          </tr>=20
+                         </tbody>=20
+                        </table> </td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table>=20
+                   </div></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 375px; background-color: transparent;" valign=3D"bottom">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <strong style=3D"font-size:18px">Speaker: </strong>
+                        <strong style=3D"color:#fd0105; font-size:18px">Att=
+y. Judy C. Regalario, CPA</strong>
+                        <br>
+                        <strong style=3D"color:#fd0105; font-size:16px">For=
+mer OIC-HREA, Collection Service</strong>
+                        <br>
+                        <strong style=3D"color:#fd0105; font-size:16px">Bur=
+eau of Internal Revenue</strong>
+                        <br>
+                        <strong style=3D"color:#fd0105; font-size:16px"><sp=
+an>=EF=BB=BF</span></strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#ffffff; border:0px transparent=
+; padding:25px 8px 25px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 20px 0px 0px; padding: 0px; bo=
+rder: 0px transparent; text-align: left; color: rgb(51, 51, 51); font-famil=
+y: Arial,sans-serif; font-size: 16px; display: block; background-color: tra=
+nsparent;">=20
+                        <ul style=3D"margin-top: 0px; margin-bottom: 0px;">=
+=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Tax Consultant / Lecturer on the different taxes covered by NIRC.</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Professor at Xavier University, Ateneo de Cagayan Cagayan De Oro (2011-201=
+2)</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Former OIC =E2=80=93 Head Revenue Executive Assistant, Bureau of Internal =
+Revenue (2009)</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Public Policy and Taxation)</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Bachelor of Laws, Xavier University, Ateneo de Cagayan de Oro, Philippines=
+</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Certified Public Accountant</li>=20
+                        </ul>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#f0372f; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#f0372f; border:0px transparent=
+; padding:5px 8px 5px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <strong style=3D"background-color:transparent; colo=
+r:#f6f6f6; font-family:sans-serif">SEMINAR INVESTMENT</strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#ffffff; border:0px transparent=
+; padding:0px 8px 0px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 15px 0px 0px; padding: 0px; bo=
+rder: 0px transparent; text-align: left; color: rgb(51, 51, 51); font-famil=
+y: Arial,sans-serif; font-size: 16px; display: block; background-color: tra=
+nsparent;">=20
+                        <h2 style=3D"text-align: center; color: rgb(51, 51,=
+ 51); font-family: Arial,sans-serif; font-size: 24px; margin-top: 0px; marg=
+in-bottom: 0px;"><span style=3D"color:#fd0105; font-size:22px">Handling BIR=
+ Audit with CPE UNITS</span></h2>=20
+                        <strong style=3D"font-size:14px">January 30, 2020 |=
+ 9:00am - 4:30pm | RCBC Plaza Makati</strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table>=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 10px 0px 0px; padding: 0px; bo=
+rder: 0px transparent; text-align: left; color: rgb(51, 51, 51); font-famil=
+y: Arial,sans-serif; font-size: 16px; display: block; background-color: tra=
+nsparent;">=20
+                        <em style=3D"font-family:sans-serif; font-size:14px=
+">(Inclusive of seminar kit, certificates and am snacks, lunch and pm snack=
+s)</em>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:transparent; margin:0px auto; table-layo=
+ut:fixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:transparent; border:2px solid t=
+ransparent; padding:25px 5px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 136px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: rgb(74, 83, =
+92);">=20
+                        <strong style=3D"color:#f6f6f6">Super Saver Rate</s=
+trong>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Php 3,995 + VAT</span=
+>
+                        <br>
+                        <span style=3D"color:#f6f6f6">=EF=BB=BF</span>
+                        <br>
+                        <span style=3D"color:#f6f6f6">=EF=BB=BFUntil</span>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Jan 16</span>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 136px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: rgb(74, 83, =
+92);">=20
+                        <strong style=3D"color:#f6f6f6">Early Bird Rate</st=
+rong>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Php 4,695 + VAT</span=
+>
+                        <br>
+                        <br>
+                        <span style=3D"color:#f6f6f6">=EF=BB=BFFrom</span>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Jan 17 - 23</span>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 136px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: rgb(74, 83, =
+92);">=20
+                        <strong style=3D"color:#f6f6f6">Regular Rate</stron=
+g>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Php 5,295 + VAT</span=
+>
+                        <br>
+                        <br>
+                        <span style=3D"color:#f6f6f6">=EF=BB=BFStarting</sp=
+an>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Jan 24</span>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 136px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: rgb(74, 83, =
+92);">=20
+                        <strong style=3D"color:#f6f6f6">Group Rate</strong>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Php 4,295 + VAT</span=
+>
+                        <br>
+                        <br>
+                        <span style=3D"color:#f6f6f6">=EF=BB=BFper pax</spa=
+n>
+                        <br>
+                        <span style=3D"color:#f6f6f6">[5 pax or more]</span=
+>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table>=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"font-family:sans-serif; margin:0px auto; text-align:center; width:1110px">=
+=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"font-family:arial,sans-serif; font-size:13px; wi=
+dth:1110px" valign=3D"top">=20
+               <table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layo=
+ut:fixed; width:600px">=20
+                <tbody>=20
+                 <tr>=20
+                  <td style=3D"border:0px transparent; font-family:arial,sa=
+ns-serif; padding:15px 0px">=20
+                   <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"table-layout:fixed; width:600px">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td style=3D"background-color:transparent; border:0px=
+ transparent; font-family:arial,sans-serif; padding:0px; width:600px" valig=
+n=3D"top">=20
+                       <table cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+width:600px">=20
+                        <tbody>=20
+                         <tr>=20
+                          <td style=3D"font-family:arial,sans-serif">=20
+                           <div style=3D"margin: 0px; border: 0px currentCo=
+lor; border-image: none; color: rgb(51, 51, 51); font-family: sans-serif; f=
+ont-size: 16px; background-color: rgb(205, 4, 4);">=20
+                            <strong style=3D"color:#f6f6f6">ONLINE REGISTRA=
+TION /&nbsp;</strong>
+                            <strong style=3D"color:#f6f6f6">MANUAL REGISTRA=
+TION FORM</strong>=20
+                           </div> </td>=20
+                         </tr>=20
+                        </tbody>=20
+                       </table> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table> </td>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table>=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"font-family:sans-serif; margin:0px auto; text-align:center; width:1110px">=
+=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"font-family:arial,sans-serif; font-size:13px; wi=
+dth:1110px" valign=3D"top">=20
+               <table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layo=
+ut:fixed; width:600px">=20
+                <tbody>=20
+                 <tr>=20
+                  <td style=3D"border:0px transparent; font-family:arial,sa=
+ns-serif; padding:15px">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"colo=
+r:#000000; font-family:&quot;Trebuchet MS&quot;; font-size:11px; table-layo=
+ut:fixed; width:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td style=3D"border:0px transparent; font-family:aria=
+l,sans-serif; font-size:13px; padding:10px"> <strong style=3D"background-co=
+lor:#cd0404; color:#f6f6f6; font-family:sans-serif; font-size:16px; text-al=
+ign:center">1. OPTION: ONLINE REGISTRATION</strong>&nbsp;&nbsp;<br><br><br>=
+<span style=3D"font-size:14px"><span style=3D"color:#0000ff"><span style=3D=
+"color:#000000"><a href=3D"http://da3.inbox-promo.com/da/daecs?token=3DPFOF=
+sYMgGLakUk1nNm26eHjmn8oYPI6OZadn4ETXtGg55loYzRXF1zuanStUc6JG4hzEBn7osG4UPpL=
+I2J%2Fe55rNyq56Z7yhB9KAGVb%2FvtpiUd8COc7BzBFF2j%2BKubTdCE7fSuPHXgSN9pqK%2F%=
+2FeRzg%3D%3D" style=3D"color: rgb(0, 0, 255); font-family: arial, sans-seri=
+f; text-decoration-line: none;" target=3D"_blank"><img align=3D"left" alt=
+=3D"" class=3D"gmail-CToWUd" height=3D"134" src=3D"https://ci5.googleuserco=
+ntent.com/proxy/sULZqdFj7Y12_iZ812HHU8ce6uWNOcEbZJBhadbEsO3sCPnLWtpWXrfVUxl=
+QhlPyDFGt07DZmgu0a63OqZfMFXD3SNTurkGQ_2_2Jw2E5MmgEIzBM36rNPRjulYo5UFfgpx1sZ=
+QIjkPoTjKmvMvx=3Ds0-d-e1-ft#http://staticapp.icpsc.com/icp/resources/mogile=
+/1246552/412de04e50ce20f6366e4ad231ea542d.gif" style=3D"border-image:none; =
+border:0px solid #333333; display:block; margin:0px" width=3D"203"></a></sp=
+an></span></span><br><span style=3D"font-size:small"><span style=3D"color:#=
+0000ff"><span style=3D"color:#000000"><em><strong><span style=3D"font-famil=
+y:arial,helvetica,sans-serif">For More Details,</span></strong></em></span>=
+</span><span style=3D"color:#0000ff"><span style=3D"color:#000000"><em><str=
+ong><span style=3D"font-family:arial,helvetica,sans-serif">&nbsp;Inquiry or=
+</span></strong></em></span></span></span><br><span style=3D"color:#0000ff"=
+><span style=3D"color:#000000"><em><strong><span style=3D"font-family:arial=
+,helvetica,sans-serif"><span style=3D"font-size:small">Reservation Please C=
+all Us On:</span></span></strong></em></span></span>=20
+                       <div style=3D"font-family: &quot;Trebuchet MS&quot;;=
+">=20
+                        <strong><span style=3D"font-size:small">Ms. Jhie Te=
+jada</span></strong>=20
+                       </div>=20
+                       <div style=3D"font-family: &quot;Trebuchet MS&quot;;=
+">=20
+                        <span style=3D"font-size:small"><strong><span style=
+=3D"color:red">Marketing Officer</span></strong></span>=20
+                       </div>=20
+                       <div style=3D"font-family: &quot;Trebuchet MS&quot;;=
+">=20
+                        <span style=3D"font-size:small"><strong>Tele Fax: 8=
+</strong><strong>470-5542</strong></span>=20
+                       </div>=20
+                       <div style=3D"font-family: &quot;Trebuchet MS&quot;;=
+">=20
+                        <span style=3D"font-size:small"><strong>&nbsp;</str=
+ong><strong>or Call/Text:&nbsp;</strong><strong>0921-7742347/</strong></spa=
+n>=20
+                       </div>=20
+                       <div style=3D"font-family: &quot;Trebuchet MS&quot;;=
+">=20
+                        <strong><span style=3D"font-size:small">&nbsp;0906-=
+4798186</span></strong>=20
+                       </div>=20
+                       <div>=20
+                        <strong><span style=3D"font-size:small"><span style=
+=3D"font-family:Cambria,serif; line-height:18.4px">&nbsp;Visit my FB PAGE @=
+jhie.trainin</span><span style=3D"font-family:Cambria,serif; line-height:18=
+.4px">g</span></span><span style=3D"font-family:Cambria,serif; font-size:12=
+pt; line-height:18.4px">&nbsp;</span></strong>=20
+                       </div>=20
+                       <div>
+                         &nbsp;=20
+                       </div>=20
+                       <div>
+                         &nbsp;=20
+                       </div>=20
+                       <div style=3D"text-align: left;">=20
+                        <strong style=3D"background-color:#cd0404; color:#f=
+6f6f6; font-family:sans-serif; font-size:16px">2. OPTION:&nbsp;</strong>
+                        <strong style=3D"background-color:#cd0404; color:#f=
+6f6f6; font-family:sans-serif; font-size:16px; text-align:center">MANUAL RE=
+GISTRATION</strong>&nbsp;&nbsp;&nbsp;&nbsp;=20
+                       </div>=20
+                       <div>=20
+                        <h2 style=3D"color: rgb(34, 34, 34); margin-top: 10=
+px; margin-bottom: 0px;"><strong style=3D"background-color:#fafafa; color:#=
+b70000; font-family:Arial,sans-serif; font-size:large">CLICK AND DOWNLOAD T=
+HIS RESERVATION FORM</strong></h2>=20
+                       </div>=20
+                       <div>
+                         =E2=80=8B
+                        <a aria-label=3D"REGISTRATION FORM - BIR.docx" href=
+=3D"http://da3.inbox-promo.com/da/daecs?token=3DPFOFsYMgGLYr2ktnEyhD%2F9x9N=
+vN%2BYssRZadn4ETXtGg55loYzRXF1zuanStUc6JG4hzEBn7osG4UPpLI2J%2Fe55rNyq56Z7yh=
+B9KAGVb%2FvtqYnVlHJlUo5wnqGtQ3SOBYub3yCe5ENo0shzJjKaBLV50sDaxuXr7wx%2F%2F86=
+6qMup69uml2295iVld80LD02OpMTB5zM%2FQAIFNhPkgZIX1WG34JxLvXMaPb4lqdTUVj7vRBR%=
+2BGdrrqqsVpF6JCdIT0mieOIQ77c6q0%3D" style=3D"padding: 1px 0px; border: curr=
+entColor; border-image: none; overflow: hidden; display: inline-block; whit=
+e-space: nowrap; -ms-text-overflow: ellipsis; max-width: 366px; text-decora=
+tion-line: none;" target=3D"_blank"><img src=3D"https://ssl.gstatic.com/doc=
+s/doclist/images/icon_10_generic_list.png" style=3D"border-image:none; bord=
+er:currentColor; vertical-align:bottom">&nbsp;<span dir=3D"ltr" style=3D"ve=
+rtical-align:bottom">REGISTRATION FORM - BIR.docx</span></a>=E2=80=8B=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table> </td>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top"> &nbsp; </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+  </div>=20
+ </div>=20
+</div>=20
+<div class=3D"gmail_signature" data-smartmail=3D"gmail_signature" dir=3D"lt=
+r">=20
+ <div dir=3D"ltr">=20
+  <div>=20
+   <div dir=3D"ltr">=20
+    <div>=20
+     <div dir=3D"ltr">=20
+      <div dir=3D"ltr">=20
+       <div dir=3D"ltr">=20
+        <div dir=3D"ltr">=20
+         <div dir=3D"ltr">=20
+          <div dir=3D"ltr">=20
+           <div dir=3D"ltr">=20
+            <div dir=3D"ltr">=20
+             <div dir=3D"ltr">=20
+              <div dir=3D"ltr">=20
+               <div dir=3D"ltr">=20
+                <div dir=3D"ltr">=20
+                 <div dir=3D"ltr">=20
+                  <div dir=3D"ltr">=20
+                   <div dir=3D"ltr">
+                     &nbsp;=20
+                   </div>=20
+                  </div>=20
+                 </div>=20
+                </div>=20
+               </div>=20
+              </div>=20
+             </div>=20
+            </div>=20
+           </div>=20
+          </div>=20
+         </div>=20
+        </div>=20
+       </div>=20
+      </div>=20
+     </div>=20
+    </div>=20
+   </div>=20
+  </div>=20
+ </div>=20
+</div>
+</td></tr><tr><td align=3D"center">=20
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"email-=
+footer" style=3D"background-color: #FFFFFF; width: 600px;">=20
+ <tbody>=20
+  <tr>=20
+   <td align=3D"left" style=3D"padding: 5px; border-color: #D0D0D0; border-=
+style: none; border-width: 0px;" valign=3D"top">=20
+    <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width: 100%;">=20
+     <tbody>=20
+      <tr>=20
+       <td class=3D"email-footer-column" align=3D"left" valign=3D"top">=20
+        <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width: 100%;">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"left" style=3D"padding: 5px; font-family: Verdana, =
+sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D"=
+top">Email was sent to: <a class=3D"email-footer-email-address" href=3D"mai=
+lto:bruce@untroubled.org" style=3D"color: #3399ff;"><strong>bruce@untrouble=
+d.org</strong></a> by <strong class=3D"email-footer-ios-link">MASTERCLASS P=
+HILIPPINES</strong><br /></td>=20
+          </tr>=20
+          <tr>=20
+           <td align=3D"left" style=3D"padding: 5px; font-family: Verdana, =
+sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D"=
+bottom"><a id=3D"unsubscribe_link" href=3D"http://da3.inbox-promo.com/da/um=
+ls?token=3Dz6PleEXSOy2NvIy7Wwrrm7fXrqB6UCKYiEgGzF%2FSssZhqeEF5u3CoGpdDl4RTC=
+P9dDjNxZma0OBkXOVGaqZzUmX%2FLuDIkuz9gDUIYII1uT4%3D&lang=3Den" style=3D"colo=
+r: #3399ff;">Unsubscribe</a></td>=20
+          </tr>=20
+         </tbody>=20
+        </table> </td>=20
+       <td class=3D"email-footer-column" align=3D"left" valign=3D"bottom" w=
+idth=3D"126">=20
+        <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width: 100%;">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"right" style=3D"padding: 5px; font-family: Verdana,=
+ sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D=
+"bottom"><img alt=3D"" border=3D"0" height=3D"70" src=3D"http://da3.inbox-p=
+romo.com/da/daecs?token=3DvcIeYp8cXLtlp2fgRNe0aE6r5jRnoGiLRixHQmH4HWJyI%2B2=
+sqahKvDuanStUc6JG4hzEBn7osG4UPpLI2J%2Fe5yRk0XfLqC2%2Bwdc35JzC%2BXqrqsdjVTHE=
+Yw%3D%3D" style=3D"display: block" width=3D"126" /></td>=20
+          </tr>=20
+         </tbody>=20
+        </table> </td>=20
+      </tr>=20
+     </tbody>=20
+    </table> </td>=20
+  </tr>=20
+ </tbody>=20
+</table></td></tr></table>
+</body>
+</html>

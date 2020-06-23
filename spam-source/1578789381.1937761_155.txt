@@ -1,0 +1,71 @@
+Return-Path: <SRS0=/Eh++4=3A=emond.buzz=financing.ace.auto.loan-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 20741 invoked from network); 11 Jan 2020 17:40:34 -0000
+Received: (qmail 17739 invoked from network); 11 Jan 2020 17:40:34 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Jan 2020 17:40:34 -0000
+Received: (qmail 13042 invoked by uid 48516); 11 Jan 2020 17:40:33 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10710 invoked from network); 11 Jan 2020 17:40:33 -0000
+Received: from mail.emond.buzz ([193.201.140.158])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 11 Jan 2020 17:40:32 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=emond.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=financing.ace.auto.loan@emond.buzz;
+ bh=6/Nv7StvofGQd3dM7TfuqGFOAjk=;
+ b=OBUI8lf3B7vPuU/LyP7QZeLsK8oqwIMP6TdTAliFnRsZIsc7PtaElTX6TBtOM+vpRChBmqhjfLpS
+   b5nrdnmmbMeZgR3RUWmUmcE/DEefpjX7cngDmqoSvBEDqqTkaXzvdBYgC8c73EeBY1U0xp8YSSmh
+   XBq84Jzr1yre9UyJWl4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=emond.buzz;
+ b=fOUmrCRDRyMCNJPlIbe3h50zKRuvSa/asp+u04KkObwxmoaqnyVT6Z36jYFUjvo3sdlnTtjlKEWQ
+   pzCISlnfCOLtaWuHR9ygnLIyGc+vKhV/JlRsdMi9rOPPYOFQ/IPUInHDmOFXuRL6bWL1TXNct41b
+   87H9WKPKlW+N8HG8BBA=;
+Received: by mail.emond.buzz id h384900001g6 for <bruce@untroubled.org>; Sat, 11 Jan 2020 12:35:06 -0500 (envelope-from <financing.ace.auto.loan-bruce=untroubled.org@emond.buzz>)
+Date: Sat, 11 Jan 2020 12:35:06 -0500
+From: "Financing ACE Auto Loan" <financing.ace.auto.loan@emond.buzz>
+To:   <bruce@untroubled.org>
+Subject: If you have been turned down before, WE CAN HELP!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_211_1146143839.1578764094971"
+List-Unsubscribe: <http://www.emond.buzz/6dd5LL2395U8Ij911eu1P1V1a12X21iFv4GIf4rxvs4FhIHEsvZ10eQkRQeRoH96i1G0JX6a1HqiW/microprocessors-falcons>
+Message-ID: <0.0.0.17.1D5C8A576D5CCEC.5BF596@mail.emond.buzz>
+Content-Length: 3502
+
+------=_Part_211_1146143839.1578764094971
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>directive</title> 
+ </head> 
+ <body> 
+  <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+   <tbody> 
+    <tr> 
+     <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+      <center>
+       <a href="http://www.emond.buzz/incomparably-questioningly/5945wY2395C8Q6j11U71d1P1a12z21iFv4GIf4rxvs4FhIHEsvZ10rQkRQeRoH95N1p0W6NA0Hip"><img alt="" src="http://www.emond.buzz/8bd4N2395iyH7a11k71d4R1a12w21IFv4GIf4rxvs4FhIHEsvZ10gQkRQeRoH96CT1L0i6z1Hqli/microprocessors-falcons" style="border-width: 0px; border-style: solid; height: 614px; width: 535px; " /></a>
+      </center> 
+      <div align="center">
+       <br /> 
+       <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <a href="http://www.emond.buzz/neutrally-planets/22e5D2Y395P8A6S11t71d2p1a12u21KFv4GIf4rxvs4FhIHEsvZ10PQkRQeRoH95ePp105q1H@i"><font color="#666666">Exit Here</font></a>.<br /> 3252 University Drive, Suite 250 Auburn Hills, MI 48326</font>
+       <br /> 
+       <br /> 
+       <a href="http://www.emond.buzz/Europeanizations-automating/5ee5KG2395v8w9Q12e71d3_P1a12v21vFv4GIf4rxvs4FhIHEsvZ10MQkRQeRoH95O1s0F6z@HiAN">Leave Here</a>
+       <br /> 
+       <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 10px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">6547 N Academy Blvd #2128</span>
+       <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 10px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+       <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 10px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</span>
+       <br /> &nbsp; 
+      </div> </td> 
+    </tr> 
+   </tbody> 
+  </table> <style color="jawbone"></style><span dir="boom"><span id="mothballs"><font lang="purgatory"></span></font></span><font dir="burdening"></font><small><font></small><small><span title="drunken"></span></font><span></span></small><span></span>  
+ <img src="http://www.emond.buzz/e035S2h395S8F5h12L7Z1d5F1a12j21PFv4GIf4rxvs4FhIHEsvZ10YQkRQeRoH95pF1I05eABHi/visually-Brandon" alt=""/></body>
+</html>
+
+------=_Part_211_1146143839.1578764094971--
+

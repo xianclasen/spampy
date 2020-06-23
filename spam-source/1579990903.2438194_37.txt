@@ -1,0 +1,117 @@
+Return-Path: <SRS0=gqr+Na=3O=dateroom.icu=poijlagwxgafmgatfai@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 23492 invoked from network); 25 Jan 2020 21:05:49 -0000
+Received: (qmail 1609 invoked from network); 25 Jan 2020 21:05:48 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 21:05:48 -0000
+Received: (qmail 18159 invoked by uid 48516); 25 Jan 2020 21:05:47 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 16657 invoked from network); 25 Jan 2020 21:05:47 -0000
+Received: from dateroom.icu (host-193.17.6.96.routergate.com [193.17.6.96])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 25 Jan 2020 21:05:45 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=dateroom.icu;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=poijlagwxgafmgatfai@dateroom.icu;
+ bh=3HFUDZTwaZ5lX+I+6j9PlSDNFUY=;
+ b=q0DRd+LyZhxZ1k+EAqpkB+qP3fdjo33QdP/AOsSzmYCcN7JCtlzY1hTwy38OswidTixVaQ+Nqnsp
+   wtonbFzfLUYluO6XAGn4BtYgvtEGX5oUJ9ESnG51OfiZzebgJMbVSmq1Swxl0Fs+gXRYUqMmXyUB
+   xUVIdhpFTAWHFBZOq/Q=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=dateroom.icu;
+ b=lELZ8Ca5L/wVN9jqXCgIlSOAui4KGDxc6ip+ky6L1fzU2JV/NLpiVXT5z4OmrDR7L2PgeAI42ifq
+   EzR85LChVINcL875EdaRsqfKwujy+3SsdxvWE+eNcyC7f83DOYu72oYEe0crVPWJYY1H6/IX1Yse
+   OqP4LBi65x2YklejJ0o=;
+From: "Bitcoin Code" <poijlagwxgafmgatfai@dateroom.icu>
+Date: Sat, 25 Jan 2020 15:59:28 -0500
+MIME-Version: 1.0
+Subject: Ride the Wave of Bitcoin
+To: <bruce@untroubled.org>
+Message-ID: <dYdamy5gRe0Iljqh1A8TkoZZhTc8TrARAnPhyL0hP2g.PvjUpPdXmk9gBgPuRnNvgFh2W97F-4Ju9PgfnOW_jcc@dateroom.icu>
+Content-Type: multipart/alternative;
+ boundary="------------12299832203774356993134"
+Content-Length: 2031
+
+This is a multi-part message in MIME format.
+--------------12299832203774356993134
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<http://www.dateroom.icu/pukhqvthcuh/gortffw108394palscxw/uUVZ6PsDzYtfAlSkWLCOh3FHiUEvn6mw6-DmyLt4uLc/pF3qeHwI0fF2XcmVlSbmFcg2tNrJ2rNH_C_xbRX9ob4EHUhORCk_RTbkP5ZTXX3laHpVsgiITS4ak0pI--He2K2InhnfJvb9AOx9bU_XcNI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<http://www.dateroom.icu/pukhqvthcuh/gortffw108395palscxw/uUVZ6PsDzYtfAlSkWLCOh3FHiUEvn6mw6-DmyLt4uLc/pF3qeHwI0fF2XcmVlSbmFcg2tNrJ2rNH_C_xbRX9ob4EHUhORCk_RTbkP5ZTXX3laHpVsgiITS4ak0pI--He2K2InhnfJvb9AOx9bU_XcNI>
+
+
+
+
+
+
+
+--------------12299832203774356993134
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<p style="text-align: center;"><a href="http://www.dateroom.icu/pukhqvthcuh/gortffw108394palscxw/uUVZ6PsDzYtfAlSkWLCOh3FHiUEvn6mw6-DmyLt4uLc/pF3qeHwI0fF2XcmVlSbmFcg2tNrJ2rNH_C_xbRX9ob4EHUhORCk_RTbkP5ZTXX3laHpVsgiITS4ak0pI--He2K2InhnfJvb9AOx9bU_XcNI"><img alt="" src="http://www.dateroom.icu/Udimjq/ifskp105764rrdrad/.jpg" style="width: 600px; height: 635px;" /></a></p>
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+<hr />
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+<p style="text-align: center;"><a href="http://www.dateroom.icu/pukhqvthcuh/gortffw108395palscxw/uUVZ6PsDzYtfAlSkWLCOh3FHiUEvn6mw6-DmyLt4uLc/pF3qeHwI0fF2XcmVlSbmFcg2tNrJ2rNH_C_xbRX9ob4EHUhORCk_RTbkP5ZTXX3laHpVsgiITS4ak0pI--He2K2InhnfJvb9AOx9bU_XcNI"><img alt="" src="http://www.dateroom.icu/Udimjq/ifskp89479rrdrad/.jpg" style="width: 599px; height: 94px;" /></a></p><br />
+<img src="http://www.dateroom.icu/F4lbaq4ua/uUVZ6PsDzYtfAlSkWLCOh3FHiUEvn6mw6-DmyLt4uLc/pF3qeHwI0fF2XcmVlSbmFcg2tNrJ2rNH_C_xbRX9ob4EHUhORCk_RTbkP5ZTXX3laHpVsgiITS4ak0pI--He2K2InhnfJvb9AOx9bU_XcNI" >
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+</body>
+</html>
+
+--------------12299832203774356993134--

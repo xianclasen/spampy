@@ -1,0 +1,236 @@
+Return-Path: <wanda_kimberlin-bruce=untroubled.org@air1116.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11250 invoked from network); 30 Jan 2020 19:06:12 -0000
+Received: (qmail 71106 invoked by uid 222); 30 Jan 2020 19:06:12 -0000
+Return-Path: <wanda_kimberlin-bruce=untroubled.org@air1116.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 71102 invoked from network); 30 Jan 2020 19:06:06 -0000
+Received: from mail.air1116.com ([193.201.140.224])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 30 Jan 2020 19:06:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=air1116.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=wanda_kimberlin@air1116.com;
+ bh=RNGdNjxePFhhVnmd/rzmEQHZL54=;
+ b=XpovVkPqKS5kJq151SGVAoem+Qln8SsDZXTy8zNXPKpdFY7uEzyCY2Ej+HHPnw69KNoR/wVxieD/
+   BD0pn2BWaziRtMGaoX/ixdFas27wvQPyJwoR93itwYpCyzgg3d3rRTIQmbqplnw0uzhBQbwaOYVq
+   pTOwOX3BCW1qIo6lUXg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=air1116.com;
+ b=rkK+S1JBVKeX1qIN/oiJqe+3JOTNmxZhXlm8HaH17AVmduKsn7Pb7uwtG9oLwsMTxm9IEsYhEIi4
+   JE680nhcQQBbzYyHmQr1VFrovUWvYFvQ6OGP7ciU4IOskq/2f+28288cFXcV4J8lFcpqI8VEFQvP
+   eXPR0stidhS1YiIHW+g=;
+Received: by mail.air1116.com id h6ckhu0001gh for <bruce@untroubled.org>; Thu, 30 Jan 2020 14:00:53 -0500 (envelope-from <wanda_kimberlin-bruce=untroubled.org@air1116.com>)
+Date: Thu, 30 Jan 2020 14:00:53 -0500
+From: Wanda Kimberlin <wanda_kimberlin@air1116.com>
+To:   <bruce@untroubled.org>
+Subject: thought you'd like this&hellip;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_631_1450523701.1580410831952"
+List-Unsubscribe: <http://www.air1116.com/desolately-mercury/7926vw23R95JZv8911f1wt1Z1ac4S21XFv4GIf4rxvs4FhIHEsvZ7fQBRSem6b10HqK5E30Hi>
+Message-ID: <0.0.0.45.1D5D79F985BCA5C.3FBEBE@mail.air1116.com>
+Content-Length: 11059
+
+------=_Part_631_1450523701.1580410831952
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>=20
+  <table bgcolor=3D"#EAEDED" cellpadding=3D"0" class=3D"body-wrap" style=3D=
+"border-collapse: collapse !important; caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-family: sans-serif; font-style: normal; font-variant-caps:=
+ normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-a=
+lign: start; text-indent: 0px; text-transform: none; white-space: normal; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; background-color: rgb(234, 237, 237); text-decoration:=
+ none; box-sizing: border-box; width: 1430px; margin: 0px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" colspan=3D"3">&nbsp; <a href=3D"http://www.air1116.com/leaks-vegetative/8dc4I2395R8Th613A757Dk1v1ac4A21gFv4GIf4rxvs4FhIHEsvZ7SQBRSem6MtUV105Q@lHi" style=
+=3D"font-family: sans-serif; color: rgb(56, 83, 151); text-decoration: unde=
+rline; font-size: 16px; padding: 0px; margin: 0px; line-height: 22px; "><sp=
+an style=3D"color: rgb(56, 83, 151); text-decoration: underline; ">Go Here =
+to Claim Your Special Prize</span></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td class=3D"container" style=3D"font-family: sans-serif; box-sizing: =
+border-box; vertical-align: top; margin: 0px auto; border-top-left-radius: =
+5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-=
+bottom-left-radius: 5px; -webkit-box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2=
+px 7px 0px; box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 7px 0px; display: =
+block !important; max-width: 600px !important; clear: both !important; " va=
+lign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"box-sizing: border-box; max-width: 60=
+0px; display: block; margin: 0px auto; ">=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der-collapse: collapse !important; text-align: center; " width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"border-top-left-radius: 5px; border=
+-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left=
+-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td align=3D"center" colspan=3D"3"><a href=3D"http://www.air1116.com/leaks-vegetative/8dc4I2395R8Th613A757Dk1v1ac4A21gFv4GIf4rxvs4FhIHEsvZ7SQBRSem6MtUV105Q@lHi"><im=
+g alt=3D"Claim your special prize!" src=3D"http://www.air1116.com/leaks-vegetative/60c6U2p39g5J7aFB11E7573o1ac4z21BFv4GIf4rxvs4FhIHEsvZ7QQBRSem5XFr105zP2Hi" style=3D"border: 0p=
+x none; line-height: 16px; max-width: 600px; outline: currentcolor none 0px=
+; text-decoration: none; display: block; width: 603px; " /></a></td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+         <tr>=20
+          <td align=3D"center" style=3D"background-color: rgb(255, 255, 255=
+); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom=
+-right-radius: 5px; border-bottom-left-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"24" style=3D"height: 24px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a class=3D"title" href=3D"http://www.air1116.com/leaks-vegetative/8dc4I2395R8Th613A757Dk1v1ac4A21gFv4GIf4rxvs4FhIHEsvZ7SQBRSem6MtUV105Q@lHi" sty=
+le=3D"font-family: sans-serif; color: rgb(56, 83, 151); text-decoration: no=
+ne; font-size: 26px; font-weight: 400; padding: 0px; margin: 0px; line-heig=
+ht: 32px; "><span class=3D"subtitle" style=3D"color: rgb(56, 83, 151); text=
+-decoration: none; ">Congratulations Kroger Shopper!</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.air1116.com/leaks-vegetative/8dc4I2395R8Th613A757Dk1v1ac4A21gFv4GIf4rxvs4FhIHEsvZ7SQBRSem6MtUV105Q@lHi" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 24px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">You have been selected to <span st=
+yle=3D"color: rgb(56, 83, 151); text-decoration: underline; ">participate i=
+n our giveaway</span>. You could win a <b>$500 Kroger Gift Card</b>, <b>App=
+le iPhone X</b>, <b>Apple Watch</b>, and other prizes in just one spin.</sp=
+an></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.air1116.com/leaks-vegetative/8dc4I2395R8Th613A757Dk1v1ac4A21gFv4GIf4rxvs4FhIHEsvZ7SQBRSem6MtUV105Q@lHi" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 26px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">But hurry! The giveaway ends soon!=
+</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"20" style=3D"height: 20px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left">=20
+               <div>
+                <a class=3D"button" href=3D"http://www.air1116.com/leaks-vegetative/8dc4I2395R8Th613A757Dk1v1ac4A21gFv4GIf4rxvs4FhIHEsvZ7SQBRSem6MtUV105Q@lHi" style=3D"border-top=
+-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius=
+: 4px; border-bottom-left-radius: 4px; color: rgb(255, 255, 255); backgroun=
+d-color: rgb(56, 83, 151); display: inline-block; font-family: sans-serif; =
+font-size: 20px; line-height: 62px; text-align: center; text-decoration: no=
+ne; width: 312px; ">Press Here To Participate</a>
+               </div> </td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.air1116.com/leaks-vegetative/8dc4I2395R8Th613A757Dk1v1ac4A21gFv4GIf4rxvs4FhIHEsvZ7SQBRSem6MtUV105Q@lHi"><img alt=3D"Hurry! =
+This givewaway ends soon!" src=3D"http://www.air1116.com/7916l2N3N95B7pPa12s75t74H1ac4A21rFv4GIf4rxvs4FhIHEsvZ7wQBRSem7dL1siJ05PU@Hi/sister-cursive" style=3D"border: 0px none; l=
+ine-height: 16px; max-width: 211px; outline: currentcolor none 0px; text-de=
+coration: none; display: block; width: 211px; " /></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"32" style=3D"height: 32px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" class=3D"container" style=3D"margin: 0px auto; di=
+splay: block !important; max-width: 600px !important; clear: both !importan=
+t; " valign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"max-width: 600px; display: block; mar=
+gin: 0px auto; padding: 0px; ">=20
+       <table cellpadding=3D"0" cellspacing=3D"0" class=3D"main" style=3D"b=
+order-collapse: collapse !important; font-family: sans-serif; margin: 0px; =
+" width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"font-size: 13px; color: rgb(102, 10=
+2, 102); "><a href=3D"http://www.air1116.com/bc94U2395S8q9Q11y7572A1ac4I21SFv4GIf4rxvs4FhIHEsvZ7HQBRSem7d1r0AZF6tXqHik/sister-cursive">Unsub Here</a><br /> <span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(128, 128, 128); font-family: -web=
+kit-standard; font-size: 11px; font-style: normal; font-variant-caps: norma=
+l; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: =
+-webkit-center; text-indent: 0px; text-transform: none; white-space: normal=
+; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-=
+text-stroke-width: 0px; text-decoration: none; display: inline !important; =
+float: none; ">13395 Voyager Pkwy Ste 130 #634</span><br style=3D"caret-col=
+or: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; widows: auto; word-spacing: 0px; -webki=
+t-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: =
+none; color: rgb(0, 0, 0); font-size: 12px; text-align: center; font-family=
+: Helvetica; " /> <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(128,=
+ 128, 128); font-size: 11px; font-style: normal; font-variant-caps: normal;=
+ font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0=
+px; text-transform: none; white-space: normal; widows: auto; word-spacing: =
+0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-d=
+ecoration: none; text-align: center; font-family: Helvetica; float: none; d=
+isplay: inline !important; ">COLORADO SPRINGS CO 80921</span><br /> &nbsp; =
+</td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+   </tbody>=20
+  </table>  =20
+ <img src=3D"http://www.air1116.com/assuringly-intuitions/26a5jO2395q_85r13D757K5mh1ac4Z21BFv4GIf4rxvs4FhIHEsvZ7QQBRSem7SIt1YV05DlBHi" alt=3D""/></body>
+</html>
+
+------=_Part_631_1450523701.1580410831952--
+

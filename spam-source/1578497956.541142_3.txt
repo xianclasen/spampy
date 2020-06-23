@@ -1,0 +1,479 @@
+Return-Path: <SRS0=g6Ip9w=25=emsd2.com=bounce-904207-69-464017-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28225 invoked from network); 8 Jan 2020 11:13:23 -0000
+Received: (qmail 22524 invoked from network); 8 Jan 2020 11:13:23 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Jan 2020 11:13:23 -0000
+Received: (qmail 7818 invoked by uid 48516); 8 Jan 2020 11:13:22 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31231 invoked from network); 8 Jan 2020 11:13:22 -0000
+Received: from emsd2.com (emsd2.com [173.236.20.192])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 08 Jan 2020 11:13:22 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dk; d=emsd2.com;
+ h=To:From:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding:
+ Sender:List-Unsubscribe:Message-ID;
+ i=hometechpublishing.activehosted.com@emsd2.com;
+ bh=5Y2zI8jlk9bY3IZ4g0700Pp18cqAdgGNA65OQt6fnaY=;
+ b=d0vsCYM8qd1dYRhibPO51rAmF2Wc1RFNdIVtZgaGGQbX8poeR98pO+vaM6oPZe2NLmqIg4WaFRbA
+   itBlq99vcGy+0MxDcZzO7icbWC6mMASvXEm4jjvk5u01/BHbO97JCQ42QM0Fpvw9XBFv97/gBTOP
+   UIxSs8D41nW3ibjtLTg=
+Received: by emsd2.com id h2msl22lkok1 for <bruce@untroubled.org>; Wed, 8 Jan 2020 05:13:21 -0600 (envelope-from <bounce-904207-69-464017-bruce=untroubled.org@emsd2.com>)
+To: <bruce@untroubled.org>
+From: "HomeTech" <support@costestimator.com>
+Subject: 2020 Cost books are now shipping
+Date: Wed, 08 Jan 2020 04:50:54 -0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-15228944845e15b412ab8524.62323138_=_"
+Content-Transfer-Encoding: 7bit
+Sender: <hometechpublishing.activehosted.com@emsd2.com>
+X-Sender: <hometechpublishing.activehosted.com@emsd2.com>
+X-Report-Abuse: Please report abuse to abuse@activecampaign.com
+X-mid: YnJ1Y2VAdW50cm91YmxlZC5vcmcgLCBjNjkgLCBtOTU2ICwgczEwMjkz
+Feedback-ID: 904207:activecampaign
+X-250ok-CID: 904207-69
+List-Unsubscribe: <mailto:unsubscribe-dc755cdc148e164189226be97843c85e-69-6a484184b36edc07941397252f2f06ed@emsd2.com>,
+ <https://hometechpublishing.acemlnd.com/box.php?nl=7&c=69&m=956&s=6a484184b36edc07941397252f2f06ed&funcml=unsub2&luha=1>
+Message-ID: <20200108111321.3013.957325691.swift@hometechpublishing.activehosted.com>
+Content-Length: 31180
+
+
+--_=_swift-15228944845e15b412ab8524.62323138_=_
+Content-Type: text/plain; charset=utf-8
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=69A956A7A530 
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=69A956A7A531
+
+CLICK HERE TO SAVE 20% 
+
+The HomeTech Publishing Remodeling & Renovation Cost Estimator puts an
+entire estimating system in your hands that lets you estimate complete
+jobs in 20% of the time it takes any other way.Using this manual, you
+will have specifications for thousands  of jobs at your fingertips and
+get fast, easy access to labor and material costs for virtually every
+job you'll ever do!  
+                          And as we all know, quick and
+accurate estimates equal a profitable business.
+
+The information in the manual you receive is specific to your local
+area!The first step to making a profit in remodeling is having accurate
+costs before the customer accepts your estimate. We produce individual
+books for over 200 local areas of the country, each one containing costs
+specific to those individual areas, assuring that the costs you use are
+accurate for your local area. And every cost printed in the manual you
+receive has been checked and double-checked within the last 90 days!
+HomeTech's reputation is built on delivering the most accurate,
+localized information available - period!
+Our research staff contacts hundreds of local lumberyards every quarter
+to give you pin-point accuracy in material costs. And we track labor
+costs in over 250 different areas of the country so your costs will be
+competitive with other successful remodelers in your local area. This
+gives you the power to sell remodeling projects based on value, not
+price. That's the best way to make a profit! Want to see our area
+specific information in action? Take a look yourself!
+
+Our specialized format will save you money immediately!Missed items on
+estimates are the #1 cause of lost profits. In order to eliminate this
+problem we have organized the best unit cost information in the industry
+into 25 categories designed specifically for remodelers, organized in
+the same order that you build a remodeling project. This allows you to
+mentally walk through each step of the production process while doing an
+estimate and catch all the small items that you might otherwise miss
+with other methods of estimating.
+
+The HomeTech manual contains over 300 pages of the items remodelers use
+most. Our research staff is constantly studying new installation
+practices and researching new materials in order to update and add to
+the over 3,000 items in the manual. You can be sure that if remodelers
+do it, it's in the manual!
+
+Free help whenever you need it! Every day our customers call us with
+countless questions - and we answer each and every one of them! With
+the purchase of the HomeTech Remodeling & Renovation Cost Estimator, we
+welcome your calls on our toll-free help line. Our research staff is
+always ready to answer your questions about materials, remodeling costs
+and building practices. If you have a question we have the answer! For
+answers to some of our most common questions try our FAQ page.
+
+Our product is the best on the market - we guarantee it!We are so
+certain that the HomeTech Remodeling & Renovation Cost Estimator will
+immediately improve your business, we guarantee it or you don't pay!
+When your manual arrives, put it to the test by estimating a few
+projects. If it doesn't make it faster and easier for you to produce
+more accurate estimates, simply return it within 30 days for a 100%
+refund! But we don't think you'll want to return it. Once you've
+tried the HomeTech system of estimating, you won't want to be without
+it! 
+
+Focus and commitment for over 55 years equals excellence!The HomeTech
+Remodeling & Renovation Cost Estimator is loaded with features you just
+can't get anywhere else! Since 1966 HomeTech has been researching and
+publishing unit cost information for remodelers.
+  At HomeTech, products for professional remodelers is not just an
+"add-on" business - it is our main business. And that focus and
+commitment is what makes the HomeTech Remodeling & Renovation Cost
+Estimator the #1 estimating system in the remodeling industry! 
+
+800-240-8210
+
+_________________
+
+Sent to bruce@untroubled.org
+
+Unsubscribe:
+http://hometechpublishing.acemlnd.com/proc.php?nl=7&c=69&m=956&s=6a484184b36edc07941397252f2f06ed&act=unsub
+
+HomeTech Systems LLC, 5850 waterloo road, #140, Columbia, MD 21045, United States
+--_=_swift-15228944845e15b412ab8524.62323138_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html>=0A<head><!--[if !mso]><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><!--<![endif]--><meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3Dutf-8"><meta http-equiv=3D"Content-Langu=
+age" content=3D"en-us"><meta name=3D"format-detection" content=3D"telephone=
+=3Dno"><meta name=3D"format-detection" content=3D"date=3Dno"><meta name=3D"=
+format-detection" content=3D"address=3Dno"><meta name=3D"format-detection" =
+content=3D"email=3Dno"><style data-ac-keep=3D"true"> .ExternalClass { width=
+: 100%; background: inherit; background-color: inherit; } .ExternalClass p,=
+ .ExternalClass ul, .ExternalClass ol { Margin: 0; } .undoreset div p, .und=
+oreset p { margin-bottom: 20px; } div[class^=3D"aolmail_divbody"] { overflo=
+w: auto; } [owa] #ac-footer { padding: 20px 0px !important; background: inh=
+erit; background-color: inherit; } </style><style data-ac-keep=3D"true">=0A=
+@media only screen and (max-width: 600px) { /*-----------------------------=
+--------------------------------------------*\ Abandoned Cart widget \*----=
+--------------------------------------------------------------------*/ .td_=
+abandoned-cart img {display: block;padding-right: 0 !important;padding-bott=
+om: 0 !important;width: 100% !important;max-width: 100% !important;height: =
+auto !important;} body { padding: 0!important; font-size:1em!important; } *=
+ { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing:=
+ border-box; } *[class].divbody {-webkit-text-size-adjust:none !important; =
+width:auto !important;} *[class].td_picture img {width:auto !important;} *[=
+class].td_text { line-height: 110%; } *[class].td_button { width: auto; } /=
+* Collapse all block elements */ :not(.body) table { display: block!importa=
+nt; float:none!important; border-collapse:collapse !important; width:100% !=
+important; min-width:100% !important; clear:both!important; } :not(.body) t=
+head,=0A:not(.body) tbody, :not(.body) tr { display:block!important; float:=
+none!important; width:100% !important; } :not(.body) th, :not(.body) td, :n=
+ot(.body) p { display:block!important; float:none!important; width:100% !im=
+portant; clear:both!important; } /* Remove browser default styling for elem=
+ents */ ul, ol { margin-left: 20px; margin-bottom: 10px; margin-top: 10px; =
+-webkit-margin-before: 0; -webkit-margin-after: 0; -webkit-padding-start: 0=
+; } /* Set default height for spacer once collapse */ *[class].spacer { hei=
+ght: auto!important; } a[href^=3Ddate]{ color:inherit !important; text-deco=
+ration:none !important;} a[href^=3Dtelephone]{ color:inherit !important; te=
+xt-decoration:none !important;} a[href^=3Daddress]{ color:inherit !importan=
+t; text-decoration:none !important;} a[href^=3Demail]{ color:inherit !impor=
+tant; text-decoration:none !important;} /* Default table cell height */ td[=
+height=3D"12"]{height:12px!important;font-size:12px!important;line-height:1=
+2px!important;}=0A/*-------------------------------------------------------=
+------------------*\ Product Widget \*-------------------------------------=
+------------------------------------*/ .td_product > div { float: none !imp=
+ortant; width: 100% !important; margin-bottom: 20px !important; } .td_produ=
+ct > div img { width: 75% !important; } /* Default social icons */ *[class]=
+.ac-social-icon-16 {width:16px !important; height:16px !important;} *[class=
+].ac-social-icon-24 {width:24px !important; height:24px !important;} *[clas=
+s].ac-social-icon-28 {width:28px !important; height:28px !important;} *[cla=
+ss].__ac_social_icons { margin-right: 0px !important; } }=0A</style><style =
+data-ac-keep=3D"true"> @media only screen and (max-width: 320px) { #layout-=
+row1839 img { width: 100% !important; height: auto !important; max-width: 3=
+20px !important; } #layout-row1840 img { width: 100% !important; height: au=
+to !important; max-width: 320px !important; } div.divbody { padding: 20px !=
+important; } .td_rss .rss-item img.iphone_large_image { width: auto !import=
+ant; } u + .body { display: table !important; width: 100vw !important; min-=
+width: 100vw !important; } u + .body table { display: table !important; wid=
+th: 100% !important; min-width: 100% !important; } u + .body td { display: =
+block !important; width: 100% !important; min-width: 100% !important; } u +=
+ .body img { display: inline-block !important; margin: auto !important; wid=
+th: auto !important; vertical-align: bottom !important; } u + .body center =
+{ display: block !important; margin: auto !important; width: 100% !importan=
+t; min-width: 100% !important; text-align: center !important; } u +=0A.body=
+ table._ac_social_table, u + .body table._ac_social_table td, u + .body tab=
+le._ac_social_table div, u + .body table._ac_social_table a { display: inli=
+ne-block !important; margin: auto !important; width: auto !important; min-w=
+idth: auto !important; text-align: center !important; } u + .body table._ac=
+_social_table img { display: inline-block !important; margin: auto !importa=
+nt; width: 32px !important; min-width: 32px !important; max-width: 32px !im=
+portant; }=0A}=0A@media only screen and (max-width: 375px) { #layout-row183=
+9 img { width: 100% !important; height: auto !important; max-width: 375px !=
+important; } #layout-row1840 img { width: 100% !important; height: auto !im=
+portant; max-width: 375px !important; } div.divbody { padding: 20px !import=
+ant; } .td_rss .rss-item img.iphone_large_image { width: auto !important; }=
+ u + .body { display: table !important; width: 100vw !important; min-width:=
+ 100vw !important; } u + .body table { display: table !important; width: 10=
+0% !important; min-width: 100% !important; } u + .body td { display: block =
+!important; width: 100% !important; min-width: 100% !important; } u + .body=
+ img { display: inline-block !important; margin: auto !important; width: au=
+to !important; vertical-align: bottom !important; } u + .body center { disp=
+lay: block !important; margin: auto !important; width: 100% !important; min=
+-width: 100% !important; text-align: center !important; } u + .body table._=
+ac_social_table, u +=0A.body table._ac_social_table td, u + .body table._ac=
+_social_table div, u + .body table._ac_social_table a { display: inline-blo=
+ck !important; margin: auto !important; width: auto !important; min-width: =
+auto !important; text-align: center !important; } u + .body table._ac_socia=
+l_table img { display: inline-block !important; margin: auto !important; wi=
+dth: 32px !important; min-width: 32px !important; max-width: 32px !importan=
+t; }=0A}=0A@media only screen and (max-width: 414px) { #layout-row1839 img =
+{ width: 100% !important; height: auto !important; max-width: 414px !import=
+ant; } #layout-row1840 img { width: 100% !important; height: auto !importan=
+t; max-width: 414px !important; } div.divbody { padding: 20px !important; }=
+ .td_rss .rss-item img.iphone_large_image { width: auto !important; } u + .=
+body { display: table !important; width: 100vw !important; min-width: 100vw=
+ !important; } u + .body table { display: table !important; width: 100% !im=
+portant; min-width: 100% !important; } u + .body td { display: block !impor=
+tant; width: 100% !important; min-width: 100% !important; } u + .body img {=
+ display: inline-block !important; margin: auto !important; width: auto !im=
+portant; vertical-align: bottom !important; } u + .body center { display: b=
+lock !important; margin: auto !important; width: 100% !important; min-width=
+: 100% !important; text-align: center !important; } u + .body table._ac_soc=
+ial_table, u +=0A.body table._ac_social_table td, u + .body table._ac_socia=
+l_table div, u + .body table._ac_social_table a { display: inline-block !im=
+portant; margin: auto !important; width: auto !important; min-width: auto !=
+important; text-align: center !important; } u + .body table._ac_social_tabl=
+e img { display: inline-block !important; margin: auto !important; width: 3=
+2px !important; min-width: 32px !important; max-width: 32px !important; }=
+=0A}=0A@media only screen and (max-width: 667px) { #layout-row1839 img { wi=
+dth: 100% !important; height: auto !important; max-width: 650px !important;=
+ } #layout-row1840 img { width: 100% !important; height: auto !important; m=
+ax-width: 650px !important; } div.divbody { padding: 20px !important; } .td=
+_rss .rss-item img.iphone_large_image { width: auto !important; } u + .body=
+ { display: table !important; width: 100vw !important; min-width: 100vw !im=
+portant; } u + .body table { display: table !important; width: 100% !import=
+ant; min-width: 100% !important; } u + .body td { display: block !important=
+; width: 100% !important; min-width: 100% !important; } u + .body img { dis=
+play: inline-block !important; margin: auto !important; width: auto !import=
+ant; vertical-align: bottom !important; } u + .body center { display: block=
+ !important; margin: auto !important; width: 100% !important; min-width: 10=
+0% !important; text-align: center !important; } u + .body table._ac_social_=
+table, u +=0A.body table._ac_social_table td, u + .body table._ac_social_ta=
+ble div, u + .body table._ac_social_table a { display: inline-block !import=
+ant; margin: auto !important; width: auto !important; min-width: auto !impo=
+rtant; text-align: center !important; } u + .body table._ac_social_table im=
+g { display: inline-block !important; margin: auto !important; width: 32px =
+!important; min-width: 32px !important; max-width: 32px !important; }=0A} <=
+/style><!--[if !mso]><!-- webfonts --><!--<![endif]--><!--[if lt mso 12]> <=
+![endif]--></head><body id=3D"ac-designer" class=3D"body" style=3D"font-fam=
+ily: Arial; line-height: 1.1; margin: 0px; background-color: #FFFFFF; width=
+: 100%; text-align: center;">=09=09<div style=3D"display:none; padding:0; h=
+eight:1px; font-size:1px; background-color:inherit !important; color:inheri=
+t !important; line-height:1px; mso-hide:all;">=0A=09=09=09Remodeling & Reno=
+vation books printed with materials labor and mark-up=0A=09=09</div>=0A<div=
+ class=3D"divbody" style=3D"margin: 0px; outline: none; padding: 0px; color=
+: #000000; font-family: arial; line-height: 1.1; width: 100%; background-co=
+lor: #FFFFFF; background: #FFFFFF; text-align: center;"><table class=3D"tem=
+plate-table" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" align=3D"left" style=3D"font-size: 14px; min-width: auto; mso-table-lspac=
+e: 0pt; mso-table-rspace: 0pt; background-color: #FFFFFF; background: #FFFF=
+FF;"><tr><td align=3D"center" valign=3D"top" width=3D"100%"><table class=3D=
+"template-table" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+650" bgcolor=3D"#FFFFFF" style=3D"font-size: 14px; min-width: auto; mso-tab=
+le-lspace: 0pt; mso-table-rspace: 0pt; max-width: 650px;"><tr><td id=3D"lay=
+out_table_2f0ecc461e4e2f88cfd70347d2838757977bb6b3" valign=3D"top" align=3D=
+"center" width=3D"650"><table cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" class=3D"layout layout-table root-table" width=3D"650" style=3D"font-si=
+ze: 14px; min-width: 100%; mso-table-lspace: 0pt;=0Amso-table-rspace: 0pt;"=
+><tr><td id=3D"layout-row-margin1840" valign=3D"top"><table width=3D"100%" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; =
+min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr id=3D"l=
+ayout-row1840" class=3D"layout layout-row widget _widget_picture " align=3D=
+"left"><td id=3D"layout-row-padding1840" valign=3D"top"><table width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14p=
+x; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td =
+class=3D"image-td" align=3D"left" valign=3D"top" width=3D"650"><a href=3D"h=
+ttps://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252f=
+2f06ed&i=3D69A956A7A530" style=3D"margin: 0; outline: none; padding: 0; col=
+or: #045FB4; display: block; min-width: 100%;"><img src=3D"https://hometech=
+publishing.imgus11.com/public//05357c0ec7f4a4b49a385ee7e17362e1.jpg?r=3D116=
+7746209" alt=3D"" width=3D"650" style=3D"border: none; display: block; outl=
+ine: none; width: 650px; opacity: 1;=0Amax-width: 100%;"></a></td>=0A</tr>=
+=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"layo=
+ut-row-margin1839" valign=3D"top"><table width=3D"100%" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr id=3D"layout-row1839" clas=
+s=3D"layout layout-row widget _widget_picture " align=3D"left"><td id=3D"la=
+yout-row-padding1839" valign=3D"top"><table width=3D"100%" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%;=
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td class=3D"image-td" =
+align=3D"left" valign=3D"top" width=3D"650"><a href=3D"https://hometechpubl=
+ishing.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D69A956A7=
+A531" style=3D"margin: 0; outline: none; padding: 0; color: #045FB4; displa=
+y: block; min-width: 100%;"><img src=3D"https://hometechpublishing.imgus11.=
+com/public//4176fe5743c2ccfa6e36e67fcabd2156.jpg?r=3D1248973179" alt=3D"" w=
+idth=3D"650" style=3D"border: none; display: block; outline: none; width: 6=
+50px; opacity: 1; max-width: 100%;"></a></td>=0A</tr>=0A</table>=0A</td>=0A=
+</tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"layout-row-margin1841" val=
+ign=3D"top" style=3D"padding: 5px;"><table width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; =
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: initial !imp=
+ortant;"><tr id=3D"layout-row1841" class=3D"layout layout-row widget _widge=
+t_button style1841" style=3D""><td id=3D"layout-row-padding1841" valign=3D"=
+top" style=3D"padding: 5px;"><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-tab=
+le-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td class=3D"td_button td_block=
+ customizable" valign=3D"top" align=3D"left" width=3D"630"> <div class=3D"b=
+utton-wrapper" style=3D"margin: 0; outline: none; padding: 0; text-align: c=
+enter;">=0A<!--[if mso]> <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:=
+vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://home=
+techpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D=
+69A956A7A531" style=3D"v-text-anchor:middle; width:330px; height:65px; " ar=
+csize=3D"10%" strokecolor=3D"#B5B5B5" strokeweight=3D"1pt" fillcolor=3D"#19=
+704a" o:button=3D"true" o:allowincell=3D"true" o:allowoverlap=3D"false" > <=
+v:textbox inset=3D"2px,2px,2px,2px"> <center style=3D"color:#000000;font-fa=
+mily:Arial Black, Arial-BoldMT, Arial Bold, Arial, sans-serif; font-size:19=
+px; line-height: 1.1;">CLICK HERE TO SAVE 20%&nbsp;</center> </v:textbox> <=
+/v:roundrect>=0A<![endif]--> <a href=3D"https://hometechpublishing.acemlnd.=
+com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D69A956A7A531" style=3D"=
+margin: 0; outline: none; padding: 12px; color: #000000; background-color: =
+#19704a; border: 1px solid #B5B5B5; border-radius: 3px; font-family: Arial =
+Black, Arial-BoldMT, Arial Bold, Arial, sans-serif; font-size: 19px; displa=
+y: inline-block; line-height: 1.1; text-align: center; text-decoration: non=
+e; mso-hide: all;"> <span style=3D"color:#000000;font-family:Arial Black, A=
+rial-BoldMT, Arial Bold, Arial, sans-serif;font-size:19px;"> CLICK HERE TO =
+SAVE 20%=C2=A0 </span> </a> </div>=0A=0A</td>=0A</tr>=0A</table>=0A</td>=0A=
+</tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"layout-row-margin1838" val=
+ign=3D"top"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;"><tr id=3D"layout-row1838" class=3D"layout layout-row=
+ widget _widget_text " style=3D"margin: 0; padding: 0;"><td id=3D"layout-ro=
+w-padding1838" valign=3D"top"><table width=3D"100%" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"text_div1623" class=
+=3D"td_text td_block" valign=3D"top" align=3D"left" width=3D"650" style=3D"=
+line-height: 140%; margin: 0; outline: none; padding: 0; color: inherit; fo=
+nt-size: 12px; font-weight: inherit; line-height: 1.4; text-decoration: inh=
+erit; font-family: Arial; mso-line-height-rule: exactly;"> <div style=3D"li=
+ne-height: 140%; margin: 0; outline: none; padding: 0; line-height: 1.4; ms=
+o-line-height-rule: exactly; font-size: 12px; color: #000000; font-family: =
+arial;"=0Adata-line-height=3D"1.4"> <span style=3D"color: #000000; font-siz=
+e: 12px; font-weight: inherit; line-height: inherit; text-decoration: inher=
+it; font-family: arial; font-style: normal; text-align: left; margin: 0;"> =
+The HomeTech Publishing Remodeling & Renovation Cost Estimator puts an enti=
+re estimating system in your hands that lets you estimate complete jobs in =
+20% of the time it takes any other way.Using this manual, you will have spe=
+cifications for thousands=C2=A0 of jobs at your fingertips and get fast, ea=
+sy access to labor and material costs for virtually every job you=E2=80=
+=99ll ever do!=C2=A0 <br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0<span style=3D"color: #09471a;=
+ font-size: inherit; font-weight: bold; line-height: inherit; text-decorati=
+on: inherit;" class=3D""> And as we all know, quick and accurate estimates =
+equal a profitable business.</span><br></span><br><span style=3D"color: #00=
+0000; font-size: 12px; font-weight: 500; line-height: inherit; text-decorat=
+ion: inherit;=0Afont-family: arial; font-style: normal; text-align: left; m=
+argin: 0;"> The information in the manual you receive is specific to your l=
+ocal area!The first step to making a profit in remodeling is having accurat=
+e costs before the customer accepts your estimate. We produce individual bo=
+oks for over 200 local areas of the country, each one containing costs spec=
+ific to those individual areas, assuring that the costs you use are accurat=
+e for your local area. And every cost printed in the manual you receive has=
+ been checked and double-checked within the last 90 days! HomeTech=E2=80=
+=99s reputation is built on delivering the most accurate, localized informa=
+tion available =E2=80=94 period!</span><br><span style=3D"color: #000000; f=
+ont-size: 12px; font-weight: 500; line-height: inherit; text-decoration: in=
+herit; font-family: arial; font-style: normal; text-align: left; margin: 0;=
+">Our research staff contacts hundreds of local lumberyards every quarter t=
+o give you pin-point accuracy in=0Amaterial costs. And we track labor costs=
+ in over 250 different areas of the country so your costs will be competiti=
+ve with other successful remodelers in your local area. This gives you the =
+power to sell remodeling projects based on value, not price. That=E2=80=
+=99s the best way to make a profit! Want to see our area specific informati=
+on in action? Take a look yourself!<br></span><br><span style=3D"color: #00=
+0000; font-size: 12px; font-weight: 500; line-height: inherit; text-decorat=
+ion: inherit; font-family: arial; font-style: normal; text-align: left; mar=
+gin: 0;"> Our specialized format will save you money immediately!Missed ite=
+ms on estimates are the #1 cause of lost profits. In order to eliminate thi=
+s problem we have organized the best unit cost information in the industry =
+into 25 categories designed specifically for remodelers, organized in the s=
+ame order that you build a remodeling project. This allows you to mentally =
+walk through each step of the production process=0Awhile doing an estimate =
+and catch all the small items that you might otherwise miss with other meth=
+ods of estimating.</span><br><br> T<span style=3D"color: #000000; font-size=
+: 12px; font-weight: 500; line-height: inherit; text-decoration: inherit; f=
+ont-family: arial; font-style: normal; text-align: left; margin: 0;">he Hom=
+eTech manual contains over 300 pages of the items remodelers use most. Our =
+research staff is constantly studying new installation practices and resear=
+ching new materials in order to update and add to the over 3,000 items in t=
+he manual. You can be sure that if remodelers do it, it=E2=80=99s in the ma=
+nual!<br></span><br><span style=3D"color: #000000; font-size: 12px; font-we=
+ight: 500; line-height: inherit; text-decoration: inherit; font-family: ari=
+al; font-style: normal; text-align: left; margin: 0;"> Free help whenever y=
+ou need it! Every day our customers call us with countless questions =
+=E2=80=94 and we answer each and every one of them! With the purchase of th=
+e=0AHomeTech Remodeling & Renovation Cost Estimator, we welcome your calls =
+on our toll-free help line. Our research staff is always ready to answer yo=
+ur questions about materials, remodeling costs and building practices. If y=
+ou have a question we have the answer! For answers to some of our most comm=
+on questions try our FAQ page.<br></span><br><span style=3D"color: #000000;=
+ font-size: 12px; font-weight: 500; line-height: inherit; text-decoration: =
+inherit; font-family: arial; font-style: normal; text-align: left; margin: =
+0;"> Our product is the best on the market =E2=80=94 we guarantee it!We are=
+ so certain that the HomeTech Remodeling & Renovation Cost Estimator will i=
+mmediately improve your business, we guarantee it or you don=E2=80=99t pay!=
+ When your manual arrives, put it to the test by estimating a few projects.=
+ If it doesn=E2=80=99t make it faster and easier for you to produce more ac=
+curate estimates, simply return it within 30 days for a 100% refund! But we=
+ don=E2=80=99t think you=E2=80=99ll want=0Ato return it. Once you=E2=80=
+=99ve tried the HomeTech system of estimating, you won=E2=80=99t want to be=
+ without it! <br></span><br><span style=3D"color: #000000; font-size: 12px;=
+ font-weight: 500; line-height: inherit; text-decoration: inherit; font-fam=
+ily: arial; font-style: normal; text-align: left; margin: 0;"> Focus and co=
+mmitment for over 55 years equals excellence!The HomeTech Remodeling & Reno=
+vation Cost Estimator is loaded with features you just can=E2=80=99t get an=
+ywhere else! Since 1966 HomeTech has been researching and publishing unit c=
+ost information for remodelers.<br>=C2=A0 At HomeTech, products for profess=
+ional remodelers is not just an "add-on" business =E2=80=94 it is our main =
+business. And that focus and commitment is what makes the HomeTech Remodeli=
+ng & Renovation Cost Estimator the #1 estimating system in the remodeling i=
+ndustry!</span> <br></div>=0A<!--[if (gte mso 12)&(lte mso 15) ]>=0A<style =
+data-ac-keep=3D"true" data-ac-inline=3D"false"> #text_div1623, #text_div162=
+3 div { line-height: 140% !important; };=0A</style>=0A<![endif]--></td>=0A<=
+/tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"=
+layout-row-margin1842" valign=3D"top" style=3D"padding: 5px;"><table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-si=
+ze: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; bo=
+rder-collapse: initial !important;"><tr id=3D"layout-row1842" class=3D"layo=
+ut layout-row widget _widget_button style1842" style=3D""><td id=3D"layout-=
+row-padding1842" valign=3D"top" style=3D"padding: 5px;"><table width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14p=
+x; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td =
+class=3D"td_button td_block customizable" valign=3D"top" align=3D"left" wid=
+th=3D"630"> <div class=3D"button-wrapper" style=3D"margin: 0; outline: none=
+; padding: 0; text-align: center;">=0A<!--[if mso]> <v:roundrect xmlns:v=3D=
+"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office=
+:word" href=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b3=
+6edc07941397252f2f06ed&i=3D69A956A7A531" style=3D"v-text-anchor:middle; wid=
+th:183px; height:68px; " arcsize=3D"10%" strokecolor=3D"#B5B5B5" strokeweig=
+ht=3D"1pt" fillcolor=3D"#1a704b" o:button=3D"true" o:allowincell=3D"true" o=
+:allowoverlap=3D"false" > <v:textbox inset=3D"2px,2px,2px,2px"> <center sty=
+le=3D"color:#000000;font-family:Arial; font-size:22px; line-height: 1.1;">8=
+00-240-8210</center> </v:textbox> </v:roundrect>=0A<![endif]--> <a href=3D"=
+https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252=
+f2f06ed&i=3D69A956A7A531" style=3D"margin: 0; outline: none; padding: 12px;=
+ color: #000000; background-color: #1a704b; border: 1px solid #B5B5B5; bord=
+er-radius: 3px; font-family: Arial; font-size: 22px; display: inline-block;=
+ line-height: 1.1; text-align: center; text-decoration: none; mso-hide: all=
+;"> <span style=3D"color:#000000;font-family:Arial;font-size:22px;"> 800-24=
+0-8210 </span> </a> </div>=0A=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A=
+</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</=
+tr>=0A</table>=0A</div>=0A<img src=3D"https://hometechpublishing.acemlnd.co=
+m/lt.php?nl=3D7&c=3D69&m=3D956&s=3D6a484184b36edc07941397252f2f06ed&l=3Dope=
+n" border=3D"0" width=3D"1" height=3D"1" style=3D"display:block;width:1px!i=
+mportant;min-width:1px!important;max-width:1px!important;height:1px!importa=
+nt;border:0;overflow:hidden;" /><br /><div id=3D"ac-footer" style=3D"clear:=
+both;background-color:inherit;background:inherit;min-width:100%;mso-table-l=
+space:0pt;mso-table-rspace:0pt;padding:20px;color:#000000;font-size:11px;fo=
+nt-family:arial,helvetica,sans-serif;line-height:140%;line-height:1.4;text-=
+align:center;box-sizing:border-box;">=0A=09<center>=0A=09=09Sent to: <span =
+style=3D"font-size:11px;font-family:arial,helvetica,sans-serif;font-weight:=
+normal;text-decoration:none;outline:none;">bruce@untroubled.org</span>=0A=
+=09=09<br>=0A=09=09<br>=0A=09=09<a href=3D"http://hometechpublishing.acemln=
+d.com/proc.php?nl=3D7&c=3D69&m=3D956&s=3D6a484184b36edc07941397252f2f06ed&a=
+ct=3Dunsub" style=3D"font-size:11px;font-family:arial,helvetica,sans-serif;=
+font-weight:bold;text-decoration:underline;"><span style=3D"font-weight:bol=
+d;text-decoration:underline;">Unsubscribe</span></a>=0A=09=09<br>=0A=09=09<=
+br> HomeTech Systems LLC, 5850 waterloo road, #140, Columbia, MD 21045, Uni=
+ted States=0A=09</center>=0A</div>=0A<br clear=3D"all" /></body>=0A</html>
+--_=_swift-15228944845e15b412ab8524.62323138_=_--
+

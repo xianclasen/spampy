@@ -1,0 +1,114 @@
+Return-Path: <SRS0=Fl2UDK=3P=mail.bestofferss.us=7046-9790-262549-1878-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 6929 invoked from network); 26 Jan 2020 13:20:36 -0000
+Received: (qmail 7016 invoked from network); 26 Jan 2020 13:20:35 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 13:20:35 -0000
+Received: (qmail 1611 invoked by uid 48516); 26 Jan 2020 13:20:34 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 11924 invoked from network); 26 Jan 2020 13:20:34 -0000
+Received: from beta.bestofferss.us (ago6ods54.agoradamp.press [170.130.172.214])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 26 Jan 2020 13:20:30 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=bestofferss.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Incrediblysimplemethod!@bestofferss.us;
+ bh=UHqkI1RjFaJHWj+XBX4Kvp19xdA=;
+ b=Xcq1t+mqZ4sENI8Xxffmc4yBXaenGf7yN5Qgu/aYe2DO4qaHrwRXElXm2LrdoGvGpK9UguEk2wdG
+   VWeoBCrCSL6mLhwF4xewuc8BFBebg9M61nySMN3Ja7LCfWOlz3MEL1aPfs0ZlhWn7aKSWPqWQMm9
+   +XkcIm+WCpprnKE/lgk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=bestofferss.us;
+ b=DD3ltN3z6M7ZVtakc2QOCKy3lSmmZDw6IFWrC8JLFkhwf3Iq3fjXkGSuwYi5nyhMP6K+qDvA5xXC
+   rlZKmC7uS4SG13B378pP7ZaUL8B8BgzPYh/WE/vrX6Kdj7Si0ilFNcgPSHwIT7JBtVhnXpUqjLVa
+   32s1KF5rQmCR4zrKIY4=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="ad625bc5f99f53b4dd4abec9918ab478_263e_40195"
+Date: Sun, 26 Jan 2020 08:20:06 -0500
+From: "Natural method" <Incrediblysimplemethod!@bestofferss.us>
+Reply-To: "Natural method" <Incrediblysimplemethod!@bestofferss.us>
+Subject: ED Caused by a 'Clog' You Can Easily Clear by Doing THIS
+To: <bruce@untroubled.org>
+Message-ID: <ysfv0gdp5kd6hgpy-ccldy1cdi8gk26kk-263e-40195@bestofferss.us>
+Content-Length: 15500
+
+--ad625bc5f99f53b4dd4abec9918ab478_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+ED Caused by a 'Clog' You Can Easily Clear by Doing THIS
+
+http://boosters.bid/BhIkSz6c2iQtxWwb4HjpFb6JAsfc_eNjPjHqYTekWDYLI89G
+
+http://boosters.bid/MYKvEsxTfANMt3LVmVfOqsH5ydsqj1Sd4-KvH7D8RJ-Bp5Fe
+
+Kerplunk's underground success led to a number of major record labels being interested in signing Green Day, and the band eventually left Lookout! and signed to Reprise Records after attracting the attention of producer Rob Cavallo. The group was impressed by his work with fellow Californian band The Muffs, and later remarked that Cavallo "was the only person we could really talk to and connect with". Reflecting on the period, Armstrong told Spin magazine in 1999, "I couldn't go back to the punk scene, whether we were the biggest success in the world or the biggest failure ... The only thing I could do was get on my bike and go forward." After signing with Reprise, the band went to work on recording its major label debut, Dookie.
+
+
+"Basket Case"
+MENU0:00
+Sample of "Basket Case", the seventh track and third single from Dookie, which was about Armstrong's panic attacks.
+Problems playing this file? See media help.
+Recorded in three weeks, and released in February 1994, Dookie became a commercial success, helped by extensive MTV airplay for the videos of the songs "Longview", "Basket Case", and "When I Come Around", all of which reached the number one position on the Modern Rock Tracks charts. The album went on to sell over 10 million copies in the US. At a performance on September 9, 1994 at Hatch Memorial Shell in Boston, mayhem broke out during the band's set (cut short to seven songs) and by the end of the rampage, 100 people were injured and 45 arrested. The band also joined the lineups of both the Lollapalooza festival and Woodstock '94, where the group started an infamous mud fight. During the concert, a security guard mistook bassist Mike Dirnt for a stage-invading fan and punched out some of his teeth. Viewed by millions by pay-per-view television, the Woodstock 1994 performance further aided Green Day's growing publicity and recognition. In 1995, Dookie won the Grammy Award for Best Alternative Album and the band was nominated for nine MTV Video Music Awards including Video of the Year.
+
+In 1995, a new single for the Angus soundtrack was released, entitled "J.A.R.". The single debuted at number one on the Billboard Modern Rock Tracks chart. The song was followed by the band's fourth studio album, Insomniac, which was released in the fall of 1995. Insomniac was a much darker and heavier response to the band's newfound popularity, compared to the more melodic Dookie. The album opened to a warm critical reception, earning 4 out of 5 stars from Rolling Stone, which said "In punk, the good stuff actually unfolds and gains meaning as you listen without sacrificing any of its electric, haywire immediacy. And Green Day are as good as this stuff gets." The singles released from Insomniac were "Geek Stink Breath", "Stuck with Me", "Brain Stew/Jaded", and "Walking Contradiction".
+
+Though the album did not approach the success of Dookie, it sold three million copies in the United States. In addition, the album won the band award nominations for Favorite Artist, Favorite Hard Rock Artist, and Favorite Alternative Artist at the 1996 American Music Awards, and the video for "Walking Contradiction" got the band a Grammy nomination for Best Video, Short Form, in addition to a Best Special Effects nomination at the MTV Video Music Awards. After that, the band abruptly cancelled a European tour, citing exhaustion.
+
+Middle years and decline in commercial success (Nimrod and Warning, 1997–2002)
+After a brief hiatus in 1996, Green Day began to work on a new album in 1997. From the outset, both the band and Cavallo agreed that the album had to be different from its previous albums. The result was Nimrod, an experimental deviation from the band's standard pop-punk brand of music. The new album was released in October 1997. It provided a variety of music, from pop-punk, surf rock, and ska, to an acoustic ballad. Nimrod entered the charts at number 10. The success of "Good Riddance (Time of Your Life)" won the band an MTV Video Award for Best Alternative Video. The song was also used in the second "clip show" episode of Seinfeld and on two episodes of ER.
+
+The other singles released from Nimrod were "Nice Guys Finish Last", "Hitchin' a Ride" and "Redundant". The band made a guest appearance in an episode of King of the Hill entitled "The Man Who Shot Cane Skretteberg", which aired in 1997. In late 1997 and most of 1998, Green Day embarked on a tour in support of Nimrod. In 1999, guitarist Jason White began supporting the band during concerts as rhythm guitarist.
+
+In 2000, Green Day released its sixth studio album Warning. In support of the album, the band participated in the Warped Tour in 2000. In November 2000, the band performed for free on the steps on San Francisco's City Hall to protest the eviction of artists from the city in a show produced by Ian Brennan. The band also had an independent tour to support the album in 2001. Critics' reviews of the album were varied. AllMusic gave it 4.5/5 saying "Warning may not be an innovative record per se, but it's tremendously satisfying." Rolling Stone was more critical, giving it 3/5, and saying "Warning... invites the question: Who wants to listen to songs of faith, hope and social commentary from what used to be snot-core's biggest-selling band?" Though it produced the hit "Minority" and a smaller hit with "Warning", some observers were coming to the conclusion that the band was losing relevance, and a decline in popularity followed. While all of Green Day's previous albums had reached a status of at least triple platinum, Warning was only certified gold.
+
+At the 2001 California Music Awards, Green Day won all eight of the awards for which the group was nominated. The group won the awards for Outstanding Album (Warning), Outstanding Punk Rock/Ska Album (Warning), Outstanding Group, Outstanding Male Vocalist, Outstanding Bassist, Outstanding Drummer, Outstanding Songwriter, and Outstanding Artist.
+
+The release of two compilation albums, International Superhits! and Shenanigans, followed Warning. International Superhits and its companion collection of music videos, International Supervideos!. Shenanigans contained some of the band's b-sides, including "Espionage", which was featured in the film Austin Powers: The Spy Who Shagged Me and was nominated for a Grammy Award for Best Rock Instrumental Performance.
+
+In the spring of 2002, Green Day co-headlined the Pop Disaster Tour with Blink-182, which was documented on the DVD Riding in Vans with Boys.
+
+--ad625bc5f99f53b4dd4abec9918ab478_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+</head>
+<body>&nbsp;</body>
+</html>
+<br />
+<br />
+<title>Newsletter</title>
+<a href="http://boosters.bid/0bBD4OIliXOSCSC739adXxty9weQAmVvzjqr8IA97cBvh3Sz"><img src="http://bestofferss.us/fd78629a06113711d0.jpg" /><img height="1" src="http://www.boosters.bid/MIjJ44GHf_4NsRgonilSg_YntaJ6Uylqdv9d82yzKsfT74mD" width="1" /></a>
+<div style="width:600px;">&nbsp;
+<center>&nbsp;
+<div style="width:550px;font-family:Arial;padding:10px;font-size:18px; border:2px solid red; text-align:left;"><br />
+<em><strong>No ED pill,</strong></em> no matter how powerful, or expensive...can do what <a href="http://boosters.bid/BhIkSz6c2iQtxWwb4HjpFb6JAsfc_eNjPjHqYTekWDYLI89G">this $3 natural method does...</a><br />
+<br />
+Even doctors are <strong>STUNNED...</strong><br />
+<br />
+As it&#39;s not just one of those temporary solutions that fails you when you need it the most...<br />
+<br />
+It actually treats the root cause of <strong>ED</strong>...which is a &quot;clog&quot; that once you clear...<br />
+<br />
+You get rid of ALL your problems in the bedroom in less than 5 days.<br />
+<br />
+The miraculous treatment is laid out <a href="http://boosters.bid/BhIkSz6c2iQtxWwb4HjpFb6JAsfc_eNjPjHqYTekWDYLI89G">on this page,</a> so you can start using it right now!<br />
+<br />
+<br />
+<a href="http://boosters.bid/BhIkSz6c2iQtxWwb4HjpFb6JAsfc_eNjPjHqYTekWDYLI89G"><img src="http://bestofferss.us/46524837c88e3674f8.jpg" /></a><br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://boosters.bid/MYKvEsxTfANMt3LVmVfOqsH5ydsqj1Sd4-KvH7D8RJ-Bp5Fe" target="_blank"><img src="http://bestofferss.us/a85f6a70e24ebb9e63.jpg" /></a><br />
+<span style="color:#FFFFFF;font-size:6px;">Kerplunk&#39;s underground success led to a number of major record labels being interested in signing Green Day, and the band eventually left Lookout! and signed to Reprise Records after attracting the attention of producer Rob Cavallo. The group was impressed by his work with fellow Californian band The Muffs, and later remarked that Cavallo &quot;was the only person we could really talk to and connect with&quot;. Reflecting on the period, Armstrong told Spin magazine in 1999, &quot;I couldn&#39;t go back to the punk scene, whether we were the biggest success in the world or the biggest failure ... The only thing I could do was get on my bike and go forward.&quot; After signing with Reprise, the band went to work on recording its major label debut, Dookie. &quot;Basket Case&quot; MENU0:00 Sample of &quot;Basket Case&quot;, the seventh track and third single from Dookie, which was about Armstrong&#39;s panic attacks. Problems playing this file? See media help. Recorded in three weeks, and released in February 1994, Dookie became a commercial success, helped by extensive MTV airplay for the videos of the songs &quot;Longview&quot;, &quot;Basket Case&quot;, and &quot;When I Come Around&quot;, all of which reached the number one position on the Modern Rock Tracks charts. The album went on to sell over 10 million copies in the US. At a performance on September 9, 1994 at Hatch Memorial Shell in Boston, mayhem broke out during the band&#39;s set (cut short to seven songs) and by the end of the rampage, 100 people were injured and 45 arrested. The band also joined the lineups of both the Lollapalooza festival and Woodstock &#39;94, where the group started an infamous mud fight. During the concert, a security guard mistook bassist Mike Dirnt for a stage-invading fan and punched out some of his teeth. Viewed by millions by pay-per-view television, the Woodstock 1994 performance further aided Green Day&#39;s growing publicity and recognition. In 1995, Dookie won the Grammy Award for Best Alternative Album and the band was nominated for nine MTV Video Music Awards including Video of the Year. In 1995, a new single for the Angus soundtrack was released, entitled &quot;J.A.R.&quot;. The single debuted at number one on the Billboard Modern Rock Tracks chart. The song was followed by the band&#39;s fourth studio album, Insomniac, which was released in the fall of 1995. Insomniac was a much darker and heavier response to the band&#39;s newfound popularity, compared to the more melodic Dookie. The album opened to a warm critical reception, earning 4 out of 5 stars from Rolling Stone, which said &quot;In punk, the good stuff actually unfolds and gains meaning as you listen without sacrificing any of its electric, haywire immediacy. And Green Day are as good as this stuff gets.&quot; The singles released from Insomniac were &quot;Geek Stink Breath&quot;, &quot;Stuck with Me&quot;, &quot;Brain Stew/Jaded&quot;, and &quot;Walking Contradiction&quot;. Though the album did not approach the success of Dookie, it sold three million copies in the United States. In addition, the album won the band award nominations for Favorite Artist, Favorite Hard Rock Artist, and Favorite Alternative Artist at the 1996 American Music Awards, and the video for &quot;Walking Contradiction&quot; got the band a Grammy nomination for Best Video, Short Form, in addition to a Best Special Effects nomination at the MTV Video Music Awards. After that, the band abruptly cancelled a European tour, citing exhaustion. Middle years and decline in commercial success (Nimrod and Warning, 1997&ndash;2002) After a brief hiatus in 1996, Green Day began to work on a new album in 1997. From the outset, both the band and Cavallo agreed that the album had to be different from its previous albums. The result was Nimrod, an experimental deviation from the band&#39;s standard pop-punk brand of music. The new album was released in October 1997. It provided a variety of music, from pop-punk, surf rock, and ska, to an acoustic ballad. Nimrod entered the charts at number 10. The success of &quot;Good Riddance (Time of Your Life)&quot; won the band an MTV Video Award for Best Alternative Video. The song was also used in the second &quot;clip show&quot; episode of Seinfeld and on two episodes of ER. The other singles released from Nimrod were &quot;Nice Guys Finish Last&quot;, &quot;Hitchin&#39; a Ride&quot; and &quot;Redundant&quot;. The band made a guest appearance in an episode of King of the Hill entitled &quot;The Man Who Shot Cane Skretteberg&quot;, which aired in 1997. In late 1997 and most of 1998, Green Day embarked on a tour in support of Nimrod. In 1999, guitarist Jason White began supporting the band during concerts as rhythm guitarist. In 2000, Green Day released its sixth studio album Warning. In support of the album, the band participated in the Warped Tour in 2000. In November 2000, the band performed for free on the steps on San Francisco&#39;s City Hall to protest the eviction of artists from the city in a show produced by Ian Brennan. The band also had an independent tour to support the album in 2001. Critics&#39; reviews of the album were varied. AllMusic gave it 4.5/5 saying &quot;Warning may not be an innovative record per se, but it&#39;s tremendously satisfying.&quot; Rolling Stone was more critical, giving it 3/5, and saying &quot;Warning... invites the question: Who wants to listen to songs of faith, hope and social commentary from what used to be snot-core&#39;s biggest-selling band?&quot; Though it produced the hit &quot;Minority&quot; and a smaller hit with &quot;Warning&quot;, some observers were coming to the conclusion that the band was losing relevance, and a decline in popularity followed. While all of Green Day&#39;s previous albums had reached a status of at least triple platinum, Warning was only certified gold. At the 2001 California Music Awards, Green Day won all eight of the awards for which the group was nominated. The group won the awards for Outstanding Album (Warning), Outstanding Punk Rock/Ska Album (Warning), Outstanding Group, Outstanding Male Vocalist, Outstanding Bassist, Outstanding Drummer, Outstanding Songwriter, and Outstanding Artist. The release of two compilation albums, International Superhits! and Shenanigans, followed Warning. International Superhits and its companion collection of music videos, International Supervideos!. Shenanigans contained some of the band&#39;s b-sides, including &quot;Espionage&quot;, which was featured in the film Austin Powers: The Spy Who Shagged Me and was nominated for a Grammy Award for Best Rock Instrumental Performance. In the spring of 2002, Green Day co-headlined the Pop Disaster Tour with Blink-182, which was documented on the DVD Riding in Vans with Boys. </span></center>
+</div>
+
+--ad625bc5f99f53b4dd4abec9918ab478_263e_40195--
+

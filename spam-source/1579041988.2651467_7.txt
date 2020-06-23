@@ -1,0 +1,152 @@
+Return-Path: <SRS0=B6/Xmf=3D=cartun.buzz=home.warranty.special-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3148 invoked from network); 14 Jan 2020 18:31:25 -0000
+Received: (qmail 5222 invoked from network); 14 Jan 2020 18:31:25 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 18:31:25 -0000
+Received: (qmail 29048 invoked by uid 48516); 14 Jan 2020 18:31:24 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 22211 invoked from network); 14 Jan 2020 18:31:24 -0000
+Received: from mail.cartun.buzz (70-102-103-178.nca.lanset.com [70.102.103.178])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 14 Jan 2020 18:31:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=cartun.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=home.warranty.special@cartun.buzz;
+ bh=BGLRL1g0qCa3EqHSTMZgm6Dibjc=;
+ b=ponGIK/HskAvKFy2gX+GM9hZk9srVog+cY420SrfRqi20zv0IER3P8M/cWgIPZySrIyKFQg4IQdI
+   9/tQx62cB0H8/USrYtAzuloAJSknrR/gcKyHxgCZRa9eFbNpMkf99DZTDGVmMWq50cmppxXLxSO2
+   Oy39/4Gm8fFMvBCv6bY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=cartun.buzz;
+ b=E1MyGEmiyOvDjSekCAmPQ8KLcMIwf4IW4xd54Ornx1cSsGPwLsadTOrJ0vKgtwUz0pVAENVt9o40
+   uX1F/koHQDQOU6SJkRy730dDwXturjSIkWrEalRc9Tus0R4AiF9rEr1cglwAPklnqfbgXRYf7yWB
+   ZUcVv0rdzJ0ogsm5yrQ=;
+Received: by mail.cartun.buzz id h3o4fm0001g6 for <bruce@untroubled.org>; Tue, 14 Jan 2020 13:28:16 -0500 (envelope-from <home.warranty.special-bruce=untroubled.org@cartun.buzz>)
+Date: Tue, 14 Jan 2020 13:28:16 -0500
+From: "Home Warranty Special" <home.warranty.special@cartun.buzz>
+To:   <bruce@untroubled.org>
+Subject: $50 Off + 1 Month Free on Black Friday!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_334_1070822095.1579026489309"
+List-Unsubscribe: <http://www.cartun.buzz/6fb6d2_3j95E8r9l12Y1BML1v34c3k21gFv4GIf4rxvs4FhIHEsvZ11XRwndooQoF96Bz1Qr06vjc3Yy/oscillated-Rangoon>
+Message-ID: <0.0.0.25.1D5CB0863A79B90.857A@mail.cartun.buzz>
+Content-Length: 6374
+
+------=_Part_334_1070822095.1579026489309
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>gardened</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); font-family: Helvetica; lette=
+r-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; text-decoration: none; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td><a href=3D"http://www.cartun.buzz/classifications-Ticonderoga/f304i2395g86rB12beaM80K34c3F21CFv4GIf4rxvs4FhIHEsvZ11JRwndooQoF96U10Dzq6H@2cUY"><img alt=3D"heater" src=3D"http://www.cartun.buzz/1d36P2x39j5u7ayF13feaJ8W3g34c3z21NFv4GIf4rxvs4FhIHEsvZ11vRwndooQoF97y1JNQs06b0cB2Y/travail-Fortran" st=
+yle=3D"display: block; width: 542px; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-family: Segoe, &quot; Segoe UI&quot; , &quot; DejaV=
+u Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot;=
+ ; font-size: xx-large; padding: 12px; "><span style=3D"background-color: r=
+gb(243, 243, 243); padding: 2px; ">NEVER pay for any covered<br /> home rep=
+airs!</span></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"border-bottom-width: 1px; border-bottom-style: dashed; b=
+order-bottom-color: rgb(238, 238, 238); ">=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"150">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Air Conditioning<br /> - Heating System<br /> - Electrical =
+System<br /> - Plumbing System<br /> - Water Heater<br /> - Ductwork</td>=
+=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"120">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Refrigerator<br /> - Oven<br /> - Stove<br /> - Cook Top<br=
+ /> - Microwave<br /> - Dishwasher</td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"170">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Clothes Washer<br /> - Clothes Dryer<br /> - Ceiling Fans<b=
+r /> - Garbage Disposal<br /> - Garage Door Opener<br /> - Plumbing Stoppag=
+es</td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td align=3D"left"> <p align=3D"center" style=3D"background-color: rg=
+b(162, 47, 49); padding: 5px; font-family: Segoe, &quot; Segoe UI&quot; , &=
+quot; DejaVu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-=
+serif&quot; ; font-size: 36px; max-width: 460px; "><span style=3D"font-fami=
+ly:arial,helvetica,sans-serif; "><a href=3D"http://www.cartun.buzz/classifications-Ticonderoga/f304i2395g86rB12beaM80K34c3F21CFv4GIf4rxvs4FhIHEsvZ11JRwndooQoF96U10Dzq6H@2cUY" style=3D"color: rgb=
+(255, 255, 255); ">Get a FREE Quote Today </a></span></p> </td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-size: 22px; font-family: Segoe, &quot; Segoe UI&quo=
+t; , &quot; DejaVu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot;=
+ sans-serif&quot; ; ">&nbsp;=20
+       <section>
+        <strong><em>As Seen On:</em></strong>
+       </section> <a href=3D"http://www.cartun.buzz/classifications-Ticonderoga/f304i2395g86rB12beaM80K34c3F21CFv4GIf4rxvs4FhIHEsvZ11JRwndooQoF96U10Dzq6H@2cUY"><img alt=3D"Kink" src=3D"=
+http://www.cartun.buzz/assigners-lawyers/5946w2v39G5Vvj7a11zea84H34c3V21bFv4GIf4rxvs4FhIHEsvZ11ERwndooQoF96nPO10F6NPcJYB" style=3D"width: 336px; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-family: Segoe, &quot; Segoe UI&quot; , &quot; DejaV=
+u Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot;=
+ ; "><br /> <br /> <br /> <span style=3D"font-size:11px; ">This-message and=
+ everything on this page is-an ad<br /> <br /> if you want to leave please =
+<a href=3D"http://www.cartun.buzz/consultant-maritime/1205Ws2395jt86G13yeSga81Y34c3y21tFv4GIf4rxvs4FhIHEsvZ11eRwndooQoF95EOX106GUycYB">Go </a>Here<br /> 1090 King Georges Post Rd Edison N=
+J 08837<br /> <br /> <br /> Or <a href=3D"http://www.cartun.buzz/curricular-sighing/N8a5b239l5N89_u11Hea82y34c3j21cFv4GIf4rxvs4FhIHEsvZ11oRwndooQoF96GJ1R0p5F0cYl">Tap Here to r=
+emove</a><br /> <span style=3D"color:#808080; ">13395 Voyager Pkwy Ste 130 =
+#634<br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size:=
+ 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; =
+letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px=
+; text-transform: none; white-space: normal; widows: auto; word-spacing: 0p=
+x; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-dec=
+oration: none; font-family: Helvetica; " /> <span style=3D"caret-color: rgb=
+(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: norm=
+al; letter-spacing: normal; text-align: center; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust:=
+ auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: =
+Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 8=
+0921</span></span></span><br /> &nbsp; </td>=20
+     </tr>=20
+    </tbody>=20
+   </table> <font color="tiller"><font color="Galatean"><style></style></font><big></big></font><style dir="probing"></style><style></style><big><style class="Shreveport"></big></style>
+  </center>  =20
+ <img src=3D"http://www.cartun.buzz/curricular-sighing/1985z239x5HO8I513Aea8sO5H34c3R21rFv4GIf4rxvs4FhIHEsvZ11JRwndooQoF97NqBH1S05NAjcY" alt=3D""/></body>
+</html>
+
+------=_Part_334_1070822095.1579026489309--
+

@@ -1,0 +1,99 @@
+Return-Path: <SRS0=UIsTU4=3A=mail.prounplug.bid=6185-9790-262549-1664-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 10073 invoked from network); 11 Jan 2020 09:59:09 -0000
+Received: (qmail 14700 invoked from network); 11 Jan 2020 09:59:09 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Jan 2020 09:59:09 -0000
+Received: (qmail 14904 invoked by uid 48516); 11 Jan 2020 09:59:08 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 14086 invoked from network); 11 Jan 2020 09:59:08 -0000
+Received: from peter.prounplug.bid (client-23-254-227-169.hostwindsdns.com [23.254.227.169])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 11 Jan 2020 09:59:07 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=prounplug.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=HearingLossProtocol@prounplug.bid;
+ bh=vVsMfcAILzcrM7J2h1TuPN15tUs=;
+ b=D56bKxuwT/8KLZu+vT/19FHmE3wr8Ih5Pt6TZ2EySxcPKwiuRuGZg6K5XRs8BsSkNaNs+h2ip01O
+   f+FblG4cS23u1MWu6jOOGbTCLeHsD6yM8V7Pfdqtp+i1U2OCVIBfoYB2s9ry5Po77i5qp8f8NZb5
+   9DSql93PDBa0VQ9DHKc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=prounplug.bid;
+ b=JEWScd56QQbs1TlRMbNKqiP0Vgf0HX8kumZ5yVKrLwn1nXEIjROLJGBtegxAHyvgjN9g7bvV4Q9r
+   RLUU4twBurhsko63+sJvSeWBoJbzWrsYfAAi1xSHKS2VbFl0GJk1G2wPu6gf5in2albJoZLD8NKJ
+   0eXG053ExOH4Tk20nPA=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="236015ee91d1db83a0ebf76c3ba4f412_263e_40195"
+Date: Sat, 11 Jan 2020 04:58:32 -0500
+From: "Hearing Solution" <HearingLossProtocol@prounplug.bid>
+Reply-To: "Howard" <Howard@prounplug.bid>
+Subject: 1 In 6 People Who Lack This Mineral Become Deaf
+To: <bruce@untroubled.org>
+Message-ID: <3im8pyvj5f1r0cnd-c6yhpbmhb7bxt2cd-263e-40195@prounplug.bid>
+Content-Length: 9054
+
+--236015ee91d1db83a0ebf76c3ba4f412_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+1 In 6 People Who Lack This Mineral Become Deaf
+
+http://prounplug.bid/F8UHn-74zXC3UCORCdttFTpylSPDKpkrcfaiir_ubQcRcwPr
+
+http://prounplug.bid/w_xqmGLO0X_mWsnd7_YI5Y7ooxpj_vqkP4bxAhKf0VzZRzqO
+
+   In 1920, the women's rights movement won passage of a constitutional amendment granting women's suffrage. The 1920s and 1930s saw the rise of radio for mass communication and the invention of early television. The prosperity of the Roaring Twenties ended with the Wall Street Crash of 1929 and the onset of the Great Depression. After his election as president in 1932, Franklin D. Roosevelt responded with the New Deal, which included the establishment of the Social Security system. The Great Migration of millions of African Americans out of the American South began before World War I and extended through the 1960s; whereas the Dust Bowl of the mid-1930s impoverished many farming communities and spurred a new wave of western migration.
+U.S. troops landing on Omaha Beach during the invasion of Normandy, June 6, 1944
+
+At first effectively neutral during World War II while Germany conquered much of continental Europe, the United States began supplying materiel to the Allies in March 1941 through the Lend-Lease program. On December 7, 1941, the Empire of Japan launched a surprise attack on Pearl Harbor, prompting the United States to join the Allies against the Axis powers. Although Japan attacked the United States first, the U.S. nonetheless pursued a "Europe first" defense policy. The United States thus left its vast Asian colony, the Philippines, isolated and fighting a losing struggle against Japanese invasion and occupation, as military resources were devoted to the European theater. During the war, the United States was referred to as one of the "Four Policemen" of Allies power who met to plan the postwar world, along with Britain, the Soviet Union and China. Although the nation lost around 400,000 military personnel, it emerged relatively undamaged from the war with even greater economic and military influence.
+Nuclear explosion from the Trinity Test
+The Trinity test of the Manhattan Project was the first detonation of a nuclear weapon.
+
+The United States played a leading role in the Bretton Woods and Yalta conferences with the United Kingdom, the Soviet Union, and other Allies, which signed agreements on new international financial institutions and Europe's postwar reorganization. As an Allied victory was won in Europe, a 1945 international conference held in San Francisco produced the United Nations Charter, which became active after the war. The United States and Japan then fought each other in the largest naval battle in history in terms of gross tonnage sunk, the Battle of Leyte Gulf. The United States eventually developed the first nuclear weapons and used them on Japan in the cities of Hiroshima and Nagasaki; causing the Japanese to surrender on September 2, ending World War II. Parades and celebrations followed in what is known as Victory Day, or V-J Day.
+
+--236015ee91d1db83a0ebf76c3ba4f412_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://prounplug.bid/Df2FwL7n6dqZxzmtueaoeVsJXABUYDiKlp1s5wH8U3ZWASc0"><img src="http://prounplug.bid/e321dcd1f6c151e3ec.jpg" /><img height="1" src="http://www.prounplug.bid/2nNyd92t9l2tDyfnTnDacTGHoCNO5JuIhvlkAqQ4rG2IBrF6" width="1" /></a>
+<center>
+<div style="width:600px;"><a href="http://prounplug.bid/F8UHn-74zXC3UCORCdttFTpylSPDKpkrcfaiir_ubQcRcwPr" style="font-family: Arial;font-size: 25px;font-weight: bold;text-shadow: 2px 2px #ff0000;color: #000000;">1 In 6 People Who Lack This Mineral Become Deaf</a>
+<p style="text-align: left; font-size: 19px;">What I&#39;m about to tell you right here is 100% real, even though the web of lies, corruption, blackmail and power abuse that I had to fight against may seem unbelievable.<br />
+<br />
+All you need is a few dirt-cheap natural ingredients and only 6 minutes of your day, for just 17 days. That&#39;s it.<br />
+<br />
+<b>Literally anyone can do it at home</b>, without any help from a specialist, thanks to the detailed instructions that I&#39;m about to share with you in this video.<br />
+<br />
+But I must warn you: the influential people who want this video down NOW... the ones that have been making my life a nightmare for over a year... <b> they would stop at nothing</b> to make sure this natural cure doesn&#39;t reach your ears.<br />
+<br />
+<b>So I urge you to watch this video NOW until the end</b>, or it may not be here when you try to come back.<br />
+<br />
+I&#39;m <a href="http://prounplug.bid/F8UHn-74zXC3UCORCdttFTpylSPDKpkrcfaiir_ubQcRcwPr" style="font-weight: bold;color: #ff0000;"> just a doctor working against a powerful billion-dollar hearing industry</a>... and ever since I created this natural treatment, the companies that live off hearing aids and cochlear implants have been <b> constantly sabotaging my work.</b><br />
+<br />
+It&#39;s only normal they don&#39;t want people to know about this <b> dirt-cheap solution that you only need to use ONCE</b> instead of stuffing their pockets with thousands of dollars over and over again...<br />
+<br />
+However... <b> I never imagined they would stoop SO low,</b> that they would threaten not only me and my family, but also my colleagues &ndash; respected scientists and doctors &ndash; who offered to help me spread the word about this <a href="http://prounplug.bid/F8UHn-74zXC3UCORCdttFTpylSPDKpkrcfaiir_ubQcRcwPr" style="font-weight: bold;color: #ff0000;">amazing natural treatment.</a><br />
+<br />
+<b>P.S.: Just watch a video won&#39;t cost you but this information can make your loved once life much better.</b></p>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://prounplug.bid/cVKvHPnq1re8_hdtWug3uSkfG9xYlhM3I_SFs7lKmTMhDrBf" target="_blank"><img src="http://prounplug.bid/530105218fd4e11869.jpg" /></a></center>
+<span style="color:#FFFFFF;"> In 1920, the women&#39;s rights movement won passage of a constitutional amendment granting women&#39;s suffrage. The 1920s and 1930s saw the rise of radio for mass communication and the invention of early television. The prosperity of the Roaring Twenties ended with the Wall Street Crash of 1929 and the onset of the Great Depression. After his election as president in 1932, Franklin D. Roosevelt responded with the New Deal, which included the establishment of the Social Security system. The Great Migration of millions of African Americans out of the American South began before World War I and extended through the 1960s; whereas the Dust Bowl of the mid-1930s impoverished many farming communities and spurred a new wave of western migration. U.S. troops landing on Omaha Beach during the invasion of Normandy, June 6, 1944 At first effectively neutral during World War II while Germany conquered much of continental Europe, the United States began supplying materiel to the Allies in March 1941 through the Lend-Lease program. On December 7, 1941, the Empire of Japan launched a surprise attack on Pearl Harbor, prompting the United States to join the Allies against the Axis powers. Although Japan attacked the United States first, the U.S. nonetheless pursued a &quot;Europe first&quot; defense policy. The United States thus left its vast Asian colony, the Philippines, isolated and fighting a losing struggle against Japanese invasion and occupation, as military resources were devoted to the European theater. During the war, the United States was referred to as one of the &quot;Four Policemen&quot; of Allies power who met to plan the postwar world, along with Britain, the Soviet Union and China. Although the nation lost around 400,000 military personnel, it emerged relatively undamaged from the war with even greater economic and military influence. Nuclear explosion from the Trinity Test The Trinity test of the Manhattan Project was the first detonation of a nuclear weapon. The United States played a leading role in the Bretton Woods and Yalta conferences with the United Kingdom, the Soviet Union, and other Allies, which signed agreements on new international financial institutions and Europe&#39;s postwar reorganization. As an Allied victory was won in Europe, a 1945 international conference held in San Francisco produced the United Nations Charter, which became active after the war. The United States and Japan then fought each other in the largest naval battle in history in terms of gross tonnage sunk, the Battle of Leyte Gulf. The United States eventually developed the first nuclear weapons and used them on Japan in the cities of Hiroshima and Nagasaki; causing the Japanese to surrender on September 2, ending World War II. Parades and celebrations followed in what is known as Victory Day, or V-J Day. </span></body>
+</html>
+
+--236015ee91d1db83a0ebf76c3ba4f412_263e_40195--

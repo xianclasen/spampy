@@ -1,0 +1,256 @@
+Return-Path: <bounces+6880654-a843-bruce=untroubled.org@em9596.coursier2.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11945 invoked from network); 27 Jan 2020 12:01:08 -0000
+Received: (qmail 17190 invoked by uid 222); 27 Jan 2020 12:01:07 -0000
+Return-Path: <bounces+6880654-a843-bruce=untroubled.org@em9596.coursier2.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 17187 invoked from network); 27 Jan 2020 12:01:07 -0000
+Received: from o3.hv1n.shared.sendgrid.net (o3.hv1n.shared.sendgrid.net [50.31.63.190])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Jan 2020 12:01:07 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; 
+	d=coursier2.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=s1; bh=3pBoRUYoGPCOmarXsn8tSByXr6kO3QnZpBgSHTjXvqM=; b=vWfp3qh
+	DzfFtpu7wbdA/LtUQuhhgsgEpO8OEVTPVWndwhjUDmu2nExAOw6OpPSAOggFx8yn
+	RHXhNw9YKx757HdinOmwNcWJX3mRY9dTNUrQ8C2neLELcMUB3MC4QGOYxTDQF+q8
+	xYeyb7c1Is8CrXMnXFFD6Mzimk8wCAResf4A=
+Content-Type: multipart/alternative; boundary=c54fc7856a540a63f509d31eef51415541064f3a2a908c0c75cd1bb474f9
+Date: Mon, 27 Jan 2020 12:01:02 +0000 (UTC)
+From: "Sophie Pidault pour TOKEN ECONOMICS" <tokeneconomics@coursier2.com>
+Mime-Version: 1.0
+Reply-to: tokeneconomics@coursier2.com
+Subject: Fwd : TOKEN ECONOMICS x AYOMI : Following my call with REMY EISENSTEIN 
+To: bruce@untroubled.org
+Message-ID: <c1KJVYXbSaGsCCXL-1PB3Q@ismtpd0060p1mdw1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@em9596.coursier2.com?subject=http://url795.coursier2.com/asm/unsubscribe/*q*user_id=6880654*a*data=eOrvaev1nuBKFf56PBeXDlLLz6VPt1CEe0Z_uIs44dAGQwpb7ETL31XWCwptPKTs4WLEO6M1fae2anO7Ka-3ZDF6mrLMHZkcJyh0w7rmjo7OmpxCoW1TlTz1imU9x5aj3OUFRKuaa-26MRZpoil3NqmwxGHOIl0YyBpDAKB8vtj6QdrxIiiubOydKnYeCSgV1qvxSAYpbIBzI9Ks0qNwB7nA5NBpYiB9E5EgBIQjUTAGaiYJqv4ttLSgAP6QBmJDHJZHiepY5WsqrBrO0pgrdxRoenK9R6-nOOhRhsBtCOFhhrTK25G3vGZmbRs5JhwMTuiE4tbN7R24Th7Y_u4mCtT52A6u0TGji-NAICeu-QvRVnlTwxXaiOGRc6qBQqYR_Xs8TjuDA4-qNzLFTXV734MP61sC309sTf5Iuv4EjsHhwDJ02Ln6gnYh3Few9sk2Mw40kmdLoIWdRRwW1E2_sZUNftTVD8xBp8B-aLB0u9zyPhTH2aqcC2ZQjsJEkVcWr2oB4AoHlDXLBKVRiPdQb7pQniMnowHjZiNTu3HR1cKqZGg3xShRCgnI3zSCVWEd71ePaDMyIQs1Xn_Itmf7k64-724jQyJ086mLgac4a7wpT0eszk0cXebkRdRS0MVivQN0zyoVTOfJ-ol3PLd8xg==>
+X-SG-EID: eWf0Lwp+ejwMdn7+NnIwhz1E98lw+69+RqfdBMsNrlKZ2ByLjRgfVWtCmnS5eq7eZxke84C1g6opIX
+ hsXAdLwKOD+n6PisKThOrKrkbl3KR7Rt3gdvSgblwaeVqzuM5GQmVzdkv07YfVpndHy4m5dRnpQmgZ
+ KXQ+D6yEzRhiez6KuFP492zdMSPnc6VDbZarN1N6dyVBmGjNoTSwVHRecSfElCSc63XHRv4XwadFtx
+ b9svJ6IKdqd6sunNBhRc21XICe6Q76prw33NHv9MHllA==
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP0DGkT2kOiTXEvdKq/fRUDuGkW4+Ws33DQwqd
+ 6bs216YH9+WXp5/K2Sg1C9384KlA/hbOJUpFREqWtHEbb9lazzn3tKN9i23uE48foyW6opXib0VH2k
+ z98tohxQ+3Bpx6/BBhjLY/+z9vZ1RQ0RFEaVc5tZLCb/7gPgDt4P/RK1/UjhPQpoAjsj3z0LVEz163
+ 5dPdh9Oboa2rU8q8ouhekZ+q2egvUi8eZoILlQHCTnIA==
+Content-Length: 11771
+
+--c54fc7856a540a63f509d31eef51415541064f3a2a908c0c75cd1bb474f9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Dear,
+
+I'm coming back to you following my last message. TOKEN ECONOMICS fundraisi=
+ng
+ends in the coming days.
+
+Feel free calling me at **+33(0) 7 57 93 36 93  **or **[share with me your
+best slot for a call here in my agenda](https://coursier2.com/landing-
+ayomi/https://calendrier.ayomi.fr/#/ri/yohansabri/4016)**=20=20
+Here is the link that detail the opportunity  >  **[TOKEN
+ECONOMICS](https://coursier2.com/url/projet/fonction/4016/?email=3D\[%email=
+%\])**
+
+
+
+If this opportunity is not coming at the best spot for you, please let me k=
+now
+so i make sur not bothering you again on this matter
+
+Kind Regards
+
+___
+
+Sophie Pidault.=20=20
+Investor relationship Officer=20=20
+**+33(0) 7 57 93 36 93**=20=20
+
+
+______
+
+Hello,
+
+
+
+I would like to introduce myself as the investor relationship officer at TO=
+KEN
+ECONOMICS. I am following up since i understood you might be interest in TO=
+KEN
+ECONOMICS. As you may know, TOKEN ECONOMICS is currently raising funds
+floowing the increase of the sells.
+
+If you are interested in participating in this operation, we can organize a=
+ 5
+minutes phone call **[in a time slot convenient for you in my
+agenda](https://calendly.com/sophie-pidault/5-minutes-pour-un-call)**.
+
+Please find further information about this financial opportunity here:
+**[TOKEN
+ECONOMICS](https://coursier2.com/url/projet/fonction/4016/?email=3D\[%email=
+%\])**
+
+
+
+I look forward to speaking with you.
+
+Best Regards,
+
+____
+
+Sophie Pidault
+
+Investor Relationship Officer
+
+ **+33(0) 7 57 93 36 93**
+
+ __=20=20
+=20=20
+
+Cet email a =C3=A9t=C3=A9 envoy=C3=A9 =C3=A0 bruce@untroubled.org parce que=
+ vous faites parti du r=C3=A9seau de
+REMY EISENSTEIN=20=20
+Ayomi est une fintech qui permet aux entreprises d'obtenir des financements=
+ au
+sein de leur r=C3=A9seau de confiance.=20=20
+Si vous =C3=AAtes en recherche de financement vous pouvez prendre un rendez=
+-vous
+avec un conseiller AYOMI au +33 (0)7 55 54 04 09 ou via ce [lien de
+rdv](https://calendly.com/analystayomi/30min/)
+
+01 rue de Hauteville,   Paris, Il 75010
+
+http://url795.coursier2.com/asm/unsubscribe/?user_id=3D6880654&data=3DeOrva=
+ev1nuBKFf56PBeXDlLLz6VPt1CEe0Z_uIs44dAGQwpb7ETL31XWCwptPKTs4WLEO6M1fae2anO7=
+Ka-3ZDF6mrLMHZkcJyh0w7rmjo7OmpxCoW1TlTz1imU9x5aj3OUFRKuaa-26MRZpoil3NqmwxGH=
+OIl0YyBpDAKB8vtj6QdrxIiiubOydKnYeCSgV1qvxSAYpbIBzI9Ks0qNwB7nA5NBpYiB9E5EgBI=
+QjUTAGaiYJqv4ttLSgAP6QBmJDHJZHiepY5WsqrBrO0pgrdxRoenK9R6-nOOhRhsBtCOFhhrTK2=
+5G3vGZmbRs5JhwMTuiE4tbN7R24Th7Y_u4mCtT52A6u0TGji-NAICeu-QvRVnlTwxXaiOGRc6qB=
+QqYR_Xs8TjuDA4-qNzLFTXV734MP61sC309sTf5Iuv4EjsHhwDJ02Ln6gnYh3Few9sk2Mw40kmd=
+LoIWdRRwW1E2_sZUNftTVD8xBp8B-aLB0u9zyPhTH2aqcC2ZQjsJEkVcWr2oB4AoHlDXLBKVRiP=
+dQb7pQniMnowHjZiNTu3HR1cKqZGg3xShRCgnI3zSCVWEd71ePaDMyIQs1Xn_Itmf7k64-724jQ=
+yJ086mLgac4a7wpT0eszk0cXebkRdRS0MVivQN0zyoVTOfJ-ol3PLd8xg=3D=3D(\[Unsubscri=
+be\])
+
+
+--c54fc7856a540a63f509d31eef51415541064f3a2a908c0c75cd1bb474f9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<html><head><title></title></head><body><p>Dear,</p><p>I&rsquo;m coming bac=
+k to you following my last message. TOKEN ECONOMICS fundraising ends in the=
+ coming days.</p><p>Feel free calling me at <strong>+33(0) 7 57 93 36 93&nb=
+sp;</strong>or <strong><a href=3D"http://url795.coursier2.com/wf/click?upn=
+=3DnIDUyoDDm6Td4aTxsh2pi7fA5Jl1fUkzTiCOMuJXwJMiQMUzg-2BaELmZ-2FZsWlf5Brvg05=
+tprEzhkYajfbW0ku6-2FtmOcKFG-2FaDmbLNcqgc0dRQCSFH82rNeYE43iWUg3Ab_95ipHO-2FH=
+tfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2TR1qLA9ohNYM0My=
+EajOSTXRMwnif3NZHZ61BiAtJrhTtFPnu7H-2FIr7LB5BY68zE-2BOeACVr5wh9Gt2rUpt6SO4W=
+uDxaOYz-2BQhGPxtu-2FtB3pqQBjSgXVV-2FvvlWOdKtJyRwjDJbZzQB3m-2BCFvvKjnTdXlKTa=
+x-2BOmLCsPLONU6JJH0Bk2i6PbIMC6ZSFBpHi-2FgfwME64SFgEkBOFLsCuBmnNZK8amxFJ1Rtm=
+KDe-2Fc8it1Rhots5AFMvs8-2F8KAnHXG7v-2FdCTbPA-2FbuzDglW7-2FIW0c216FQCeaIsKEg=
+vacLU1SGv7TyKTIKdb7rBp3J7ris6KHtB84H5a1xK4fbZr-2FAmCkHabZDX8g0425-2BrEnMwXA=
+NUEK52HWBA8kCJZ17-2F0-2F-2BWJ3LqOYzNgci3-2BfQw-2FEvXcFVXZsRQWgZKsJoIMv-2FjJ=
+ZbZDgh9B-2FomcfZOmGur7tVaN528uNouillEdFm9Kfl7Typw-3D-3D">share with me your=
+ best slot for a call here in my agenda</a></strong><br />
+Here is the link that detail the opportunity &gt;&nbsp;<strong><a href=3D"h=
+ttp://url795.coursier2.com/wf/click?upn=3DnIDUyoDDm6Td4aTxsh2piwFn1fuDg3tnh=
+VAfkBlpt13m3ujRY9956dDsenYq-2B1Stnu-2FLd1RB7uyoUzMLjETzuJMlccQ-2BQCpPs0ZRxe=
+HlgdBo57vylOWYLT5h-2B5XHIwal_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNY=
+Kjnvl7M9dU2yvRVUBf9xKCq2TR1qLA9ohNYM0MyEajOSTXRMwnif3NZHZ61BiAtJrhTtFPnu7H-=
+2FIr7LB5BY68zE-2BOeACVr5wh9Gt2rUpt6SO4WuDxaOYz-2BQhGPxtu-2FtB3pqQBjSgXVV-2F=
+vvlWOdKtJyRwjDJbZzQB3m-2BCFvvKjnTdXlKTax-2BOmLCsPLONU6JJH0Bk2i6PbIMC6ZSFBpH=
+i-2FgfwME64SFgEkBOFLsCuBmnNZIv9-2Bu9A9LvKtwgbUicA1V9ETv0eKr1MLEDyQ0NUXw4NAy=
+kxNeBXFMLHcU1T0euPuADRmzItNdhFR0gTSvlIVeM1L5U-2FiB3MFeTfdjRPZKr3LKzE13sUcwB=
+UyMCuGxu3zxabK-2By7JJrJEtrym-2F5VtuvzqhxCHV23XrjLyxOBveNekcoKP-2BOjU4VWs6po=
+2-2F43CGkfao0cP2z3IH7-2F6ueWSDGixMj6-2BA4qSpAXNtB1P2KYqUl5XsI-2F5bKKikEgplY=
+eSg-3D-3D">TOKEN ECONOMICS</a></strong></p><p>&nbsp;</p><p>If this opportun=
+ity is not coming at the best spot for you, please let me know so i&nbsp;ma=
+ke sur not bothering you again on this matter</p><p>Kind Regards</p><p>___<=
+/p><p>Sophie Pidault.<br />
+Investor relationship Officer<br />
+<strong>+33(0) 7 57 93 36 93</strong><br />
+&nbsp;</p><p>______</p><p>Hello,</p><p>&nbsp;</p><p>I would like to introdu=
+ce myself as the investor relationship officer at TOKEN ECONOMICS. I am fol=
+lowing up since i understood you might be interest in TOKEN ECONOMICS. As y=
+ou may know, TOKEN ECONOMICS is currently raising funds floowing the increa=
+se of the sells.</p><p>If you are interested in participating in this opera=
+tion, we can organize a 5 minutes phone call <strong><a href=3D"http://url7=
+95.coursier2.com/wf/click?upn=3DnIDUyoDDm6Td4aTxsh2pi4Q80o-2FC5YcnM370dPSZU=
+ggTrmpJpRRcRDqWlcmDqGkLpmyL-2BTSSS3MoG65PHu5-2BbrMT5N8yhqI-2Bdhoftm3yHE0-3D=
+_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2TR1q=
+LA9ohNYM0MyEajOSTXRMwnif3NZHZ61BiAtJrhTtFPnu7H-2FIr7LB5BY68zE-2BOeACVr5wh9G=
+t2rUpt6SO4WuDxaOYz-2BQhGPxtu-2FtB3pqQBjSgXVV-2FvvlWOdKtJyRwjDJbZzQB3m-2BCFv=
+vKjnTdXlKTax-2BOmLCsPLONU6JJH0Bk2i6PbIMC6ZSFBpHi-2FgfwME64SFgEkBOFLsCuBmnNZ=
+BOkKuCq3b7hgaaRikFHZfniU6pJnutHbQ-2Fa5lDgR-2Bqlh-2FPFvKtSdPfuW7SNk2q0UJIKeE=
+PFxcaviC1proipuxPbeZMQnMB5-2BH60bNEHBvr9VlsJIK7qP4v-2BgYwGceXYmNg-2BUMIZJas=
+g-2Bu-2FM-2FzTh8-2FetlJq32Be2TrFylBrryg1xWyi491A78Qt-2FpwUadKauV7hdxjo0XorV=
+cpA8Co4lwxAskokX2pcCSkTTDS72soMqGYmNl0G3HwzF4w64ZXyeyA-3D-3D">in a time slo=
+t convenient for you in my agenda</a></strong>.</p><p>Please find further i=
+nformation about this financial opportunity here: <strong><a href=3D"http:/=
+/url795.coursier2.com/wf/click?upn=3DnIDUyoDDm6Td4aTxsh2piwFn1fuDg3tnhVAfkB=
+lpt13m3ujRY9956dDsenYq-2B1Stnu-2FLd1RB7uyoUzMLjETzuJMlccQ-2BQCpPs0ZRxeHlgdB=
+o57vylOWYLT5h-2B5XHIwal_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl=
+7M9dU2yvRVUBf9xKCq2TR1qLA9ohNYM0MyEajOSTXRMwnif3NZHZ61BiAtJrhTtFPnu7H-2FIr7=
+LB5BY68zE-2BOeACVr5wh9Gt2rUpt6SO4WuDxaOYz-2BQhGPxtu-2FtB3pqQBjSgXVV-2FvvlWO=
+dKtJyRwjDJbZzQB3m-2BCFvvKjnTdXlKTax-2BOmLCsPLONU6JJH0Bk2i6PbIMC6ZSFBpHi-2Fg=
+fwME64SFgEkBOFLsCuBmnNZPPy5VBDOuDL-2BC53AuNE-2B-2FK-2BZNH-2BtuwX4h9r0PVLawv=
+RUlYO-2FHxJIFcXnKUhVYsWSApQUsa88S5RN-2BlgSNrhQnOsPGwYGn8ZBYQM2eppEir0SgqI-2=
+BnZt4p4dUG8rqpJ6WeYCre6YEmJ366097SvUc-2BpTiTZx88BBs55i67v-2FprNghIFsHFE81eZ=
+F9r0qjhT2DwV2Yx91rqGnTL30G-2BM6K-2FNb1X1XEFWFAuw7iEQJhjqhLiRKZd75ENKzuTbA74=
+mV6Q-3D-3D">TOKEN ECONOMICS</a></strong></p><p>&nbsp;</p><p>I look forward =
+to speaking with you.</p><p>Best Regards,</p><p>____</p><p>Sophie Pidault</=
+p><p>Investor Relationship Officer</p><p><strong>+33(0) 7 57 93 36 93</stro=
+ng></p><i></i><br/><br/><div data-role=3D"module-unsubscribe" class=3D"modu=
+le unsubscribe-css__unsubscribe___2CDlR" role=3D"module" data-type=3D"unsub=
+scribe" style=3D"color:#444444;font-size:12px;line-height:20px;padding:1px =
+16px 16px 16px;text-align:center"> <div class=3D"Unsubscribe--addressLine">=
+ <p class=3D"Unsubscribe--senderName" style=3D"font-family:Arial, Helvetica=
+, sans-serif;font-size:10px;line-height:20px">Cet email a =C3=A9t=C3=A9 env=
+oy=C3=A9 =C3=A0 bruce@untroubled.org parce que vous faites parti du r=C3=A9=
+seau de REMY EISENSTEIN<br/>Ayomi est une fintech qui permet aux entreprise=
+s d'obtenir des financements au sein de leur r=C3=A9seau de confiance.<br/>=
+Si vous =C3=AAtes en recherche de financement vous pouvez prendre un rendez=
+-vous avec un conseiller AYOMI au +33 (0)7 55 54 04 09 ou via ce <a href=3D=
+"http://url795.coursier2.com/wf/click?upn=3DnIDUyoDDm6Td4aTxsh2pizgzWijT-2B=
+Nn4s0rF4nTQ-2BzGj1-2FfhNR56CIBlKKBLD0W8_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-=
+2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2TR1qLA9ohNYM0MyEajOSTXRMwnif3NZHZ61BiAtJ=
+rhTtFPnu7H-2FIr7LB5BY68zE-2BOeACVr5wh9Gt2rUpt6SO4WuDxaOYz-2BQhGPxtu-2FtB3pq=
+QBjSgXVV-2FvvlWOdKtJyRwjDJbZzQB3m-2BCFvvKjnTdXlKTax-2BOmLCsPLONU6JJH0Bk2i6P=
+bIMC6ZSFBpHi-2FgfwME64SFgEkBOFLsCuBmnNZGC12FX0cLTxcGHgMUHbeGaASzI6QFC8zGmm0=
+Zxlce5xxCTvsyhRcYc0ISwIPJY2eG-2FAYkUDVN2jPRR8Y-2BNGHJAkyh4v71Z-2BOdXXEWncbS=
+LGxqtNUfccb7xyaB4-2F6mdpR89Zbvl3CPE33JiM6ar8q-2BKOS8dcHUZdaiCiyB-2BC-2B0J62=
+2SeR1HkzjIiJDbOWY4fLS-2FR3KizyxO7xjGA2IpV-2FRRlxnpySJyo3u6wk22uZnFdvKC-2Bjw=
+wK3BNXiSEtik3BSg-3D-3D">lien de rdv</a></p><p style=3D"font-family:Arial, H=
+elvetica, sans-serif;font-size:12px;line-height:0px"><span class=3D"Unsubsc=
+ribe--senderAddress">01 rue de Hauteville,  </span> <span class=3D"Unsubscr=
+ibe--senderCity">Paris</span>, <span class=3D"Unsubscribe--senderState">Il<=
+/span> <span class=3D"Unsubscribe--senderZip">75010</span> </p></div><p sty=
+le=3D"font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:2=
+0px"><a class=3D"Unsubscribe--unsubscribeLink" href=3D"http://url795.coursi=
+er2.com/asm/unsubscribe/?user_id=3D6880654&data=3DeOrvaev1nuBKFf56PBeXDlLLz=
+6VPt1CEe0Z_uIs44dAGQwpb7ETL31XWCwptPKTs4WLEO6M1fae2anO7Ka-3ZDF6mrLMHZkcJyh0=
+w7rmjo7OmpxCoW1TlTz1imU9x5aj3OUFRKuaa-26MRZpoil3NqmwxGHOIl0YyBpDAKB8vtj6Qdr=
+xIiiubOydKnYeCSgV1qvxSAYpbIBzI9Ks0qNwB7nA5NBpYiB9E5EgBIQjUTAGaiYJqv4ttLSgAP=
+6QBmJDHJZHiepY5WsqrBrO0pgrdxRoenK9R6-nOOhRhsBtCOFhhrTK25G3vGZmbRs5JhwMTuiE4=
+tbN7R24Th7Y_u4mCtT52A6u0TGji-NAICeu-QvRVnlTwxXaiOGRc6qBQqYR_Xs8TjuDA4-qNzLF=
+TXV734MP61sC309sTf5Iuv4EjsHhwDJ02Ln6gnYh3Few9sk2Mw40kmdLoIWdRRwW1E2_sZUNftT=
+VD8xBp8B-aLB0u9zyPhTH2aqcC2ZQjsJEkVcWr2oB4AoHlDXLBKVRiPdQb7pQniMnowHjZiNTu3=
+HR1cKqZGg3xShRCgnI3zSCVWEd71ePaDMyIQs1Xn_Itmf7k64-724jQyJ086mLgac4a7wpT0esz=
+k0cXebkRdRS0MVivQN0zyoVTOfJ-ol3PLd8xg=3D=3D">Unsubscribe</a> </p></div>
+<img src=3D"http://url795.coursier2.com/wf/open?upn=3D95ipHO-2FHtfiEGxEkeDV=
+C7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2TR1qLA9ohNYM0MyEajOSTXRMwn=
+if3NZHZ61BiAtJrhTtFPnu7H-2FIr7LB5BY68zE-2BOeACVr5wh9Gt2rUpt6SO4WuDxaOYz-2BQ=
+hGPxtu-2FtB3pqQBjSgXVV-2FvvlWOdKtJyRwjDJbZzQB3m-2BCFvvKjnTdXlKTax-2BOmLCsPL=
+ONU6JJH0Bk2i6PbIMC6ZSFBpHi-2FgfwME64SFgEkBOFLsCuBmnNZDHCQz2EFl-2BjAzvbMkftm=
+KH4lNCocXLWYbpzVbuAV6RqvJHUz10g-2FlU89uo-2BJXJuds6DcmBO2QIrEyY5zBa6sJfI-2Bp=
+1To57bgrsOXBVyqhNEyIVVrCUsiTO48LxOAv3pdMMw6dDfD8-2B2686Y4kFIQ-2FKuQ5MBJT1wD=
+we7Egtb3dKXxjFI-2BIIF23dn0OGtvXzxbuxkH58tYhEFJVLHaoth9YKnlPTQnx9xRuecytgDTl=
+zjFzNe3x1Zoq89tN2pmRtnNg-3D-3D" alt=3D"" width=3D"1" height=3D"1" border=3D=
+"0" style=3D"height:1px !important;width:1px !important;border-width:0 !imp=
+ortant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !i=
+mportant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0=
+ !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body></html>
+
+--c54fc7856a540a63f509d31eef51415541064f3a2a908c0c75cd1bb474f9--

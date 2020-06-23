@@ -1,0 +1,93 @@
+Return-Path: <7061-2982-85526-1880-bruce=untroubled.org@mail.ultralast.co>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 6532 invoked from network); 27 Jan 2020 07:37:38 -0000
+Received: (qmail 14792 invoked by uid 222); 27 Jan 2020 07:37:38 -0000
+Return-Path: <7061-2982-85526-1880-bruce=untroubled.org@mail.ultralast.co>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 14789 invoked from network); 27 Jan 2020 07:37:31 -0000
+Received: from titan.ultralast.co ([170.130.174.42])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Jan 2020 07:37:31 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=ultralast.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=VipVoice@ultralast.co;
+ bh=UryajyUrYOoWudces2KMn1ZMv6E=;
+ b=ml3PxEKCNk6/RYDfzxQpVEihrVIqKQakBXuAOx8vgadMU6/iEq9ZUGH9DDT8RJ/DD4ZMlEUDsMRb
+   OqCWhPj4EadThNpPweiMKpkEc2GqssJpkTaPC9pvMbYD6ArmrtoSrzaFHCUppKxL1ys8pkhoXnDS
+   QUZVaISMtIAsUo/HmJg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=ultralast.co;
+ b=BooWG9Lq8xKOaLeS2hqZEdsxArchziar4eeD0lIAEYNHOVSS5N5XLcOLd7bz5zBPFULfl+Cl7cyV
+   uSWRzE1JrJKgMwW0lCVKdpOu7Qq5+xDLoZBslsavkfJJd2/xuE7wFwVZzbvL8jxV8n9G6skH/Qyc
+   i/AID8ujHT6NFK4oaAk=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="8bf8bc5f502113bad54ec0f9bfd09084_ba6_14e16"
+Date: Mon, 27 Jan 2020 02:37:20 -0500
+From: "VipVoice" <VipVoice@ultralast.co>
+Reply-To: "VipVoice" <VIPVoice@ultralast.co>
+Subject: Your Voice Matter.
+To: <bruce@untroubled.org>
+Message-ID: <wr7rg43vlxbn1mmn-8wc1n1no1bxm1cai-ba6-14e16@ultralast.co>
+Content-Length: 6307
+
+--8bf8bc5f502113bad54ec0f9bfd09084_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Your Voice Matter.
+
+http://ultralast.co/IRMt_66UjQJKOHf9FvQO4xHi2ZzOMVhR03cPBPLsBcA6boyH
+
+http://ultralast.co/I7sPWUjNR-9Ss3e-QwtqZY9IAGc57VV58YdUqTNaRsl5BeYO
+
+Shaktimaan received powers from seven gurus who trained and blessed him with "yogic shakti which was natural power." He was the chosen warrior against evil by siddha gurus of a cult named Suryavanshi. They are followers of the star Sun. As part of training, he trained with Kundalini Yoga to awake the 7 chakras of body and gain 'supernatural' powers from them. To gain complete control over his powers he performed the ritual of death. However, this did not cause death but made him more alive than when he was a normal man. He also performed Yajna in which he entered the fire himself and dissolved his body in fire. Then, the five elements of life, i.e. fire, wind, water, earth, sky revived his body giving him special powers from them. Thus after leaving his mortal body he was given a superhuman form to fight against the evil in the world as Shaktimaan.
+
+After Shaktimaan was created he set out to destroy his archenemy Kilvish. But, as the Mahaguru (Tom Alter) explained, Kilvish can only be defeated after evil is destroyed. Shaktimaan's mission is to destroy the sin within people, not the sinned people. Shaktimaan's adventures show him pursuing justice and saving his friends while Kilvish and his minions plot to defeat him.
+Powers
+
+Shaktimaan has superhuman powers which lie inside his body in his seven chakras of Kundalini attained through meditation. Shaktimaan worships God through the symbol Om. Truthfulness is his motto. He can even separate his body into five different bodies of fire, wind, water, earth and sky. He is an expert, skilled and intelligent fighter and has fought with super-skilled enemies. He possesses physical powers like unlimited speed (up to the speed of light), strength, durability as well as psychic powers like telepathy, teleportation, telekinesis etc. Although he possesses godlike powers, his only weakness is a crystal (Papmani) possessed by Tamraj Kilvish which can be used to defeat and even kill him. This makes him powerless because it is filled with the evil of the world and is the source of the black powers. But he regains his strength after the crystal is taken away from him. He can be killed if the crystal is placed in front of him and he is treated violently to the verge of death. Shaktimaan also gets brief premonitions about the incidents that are going to happen to him in future. This can be observed in kashtak's episode, Geeta going to jail and in kapala's reappearance episodes.
+
+--8bf8bc5f502113bad54ec0f9bfd09084_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://ultralast.co/IRMt_66UjQJKOHf9FvQO4xHi2ZzOMVhR03cPBPLsBcA6boyH" style="font-size:40px;font-family:Arial; color:blue; text-decoration:none;">Your Voice Matter.</a><br />
+<br />
+<a href="http://ultralast.co/IRMt_66UjQJKOHf9FvQO4xHi2ZzOMVhR03cPBPLsBcA6boyH"><img src="http://ultralast.co/e984e9599a70f9a34a.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://ultralast.co/zBSF4JzlabNk80b2sxKjo2Xk5hY5jwN8Gcnrzt0hJZUnc3F5"><img src="http://ultralast.co/c7c05d330838846aad.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://ultralast.co/I7sPWUjNR-9Ss3e-QwtqZY9IAGc57VV58YdUqTNaRsl5BeYO"><img src="http://ultralast.co/1b8737666fbe3dfcbb.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Shaktimaan received powers from seven gurus who trained and blessed him with &quot;yogic shakti which was natural power.&quot; He was the chosen warrior against evil by siddha gurus of a cult named Suryavanshi. They are followers of the star Sun. As part of training, he trained with Kundalini Yoga to awake the 7 chakras of body and gain &#39;supernatural&#39; powers from them. To gain complete control over his powers he performed the ritual of death. However, this did not cause death but made him more alive than when he was a normal man. He also performed Yajna in which he entered the fire himself and dissolved his body in fire. Then, the five elements of life, i.e. fire, wind, water, earth, sky revived his body giving him special powers from them. Thus after leaving his mortal body he was given a superhuman form to fight against the evil in the world as Shaktimaan. After Shaktimaan was created he set out to destroy his archenemy Kilvish. But, as the Mahaguru (Tom Alter) explained, Kilvish can only be defeated after evil is destroyed. Shaktimaan&#39;s mission is to destroy the sin within people, not the sinned people. Shaktimaan&#39;s adventures show him pursuing justice and saving his friends while Kilvish and his minions plot to defeat him. Powers Shaktimaan has superhuman powers which lie inside his body in his seven chakras of Kundalini attained through meditation. Shaktimaan worships God through the symbol Om. Truthfulness is his motto. He can even separate his body into five different bodies of fire, wind, water, earth and sky. He is an expert, skilled and intelligent fighter and has fought with super-skilled enemies. He possesses physical powers like unlimited speed (up to the speed of light), strength, durability as well as psychic powers like telepathy, teleportation, telekinesis etc. Although he possesses godlike powers, his only weakness is a crystal (Papmani) possessed by Tamraj Kilvish which can be used to defeat and even kill him. This makes him powerless because it is filled with the evil of the world and is the source of the black powers. But he regains his strength after the crystal is taken away from him. He can be killed if the crystal is placed in front of him and he is treated violently to the verge of death. Shaktimaan also gets brief premonitions about the incidents that are going to happen to him in future. This can be observed in kashtak&#39;s episode, Geeta going to jail and in kapala&#39;s reappearance episodes. </span></center>
+</body>
+</html>
+
+--8bf8bc5f502113bad54ec0f9bfd09084_ba6_14e16--

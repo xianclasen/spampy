@@ -1,0 +1,97 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21577 invoked from network); 31 Jan 2020 06:10:39 -0000
+Received: (qmail 75580 invoked by uid 222); 31 Jan 2020 06:10:38 -0000
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 75577 invoked from network); 31 Jan 2020 06:10:38 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 31 Jan 2020 06:10:38 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1728053AbgAaGKd (ORCPT <rfc822;bruce@untroubled.org>);
+        Fri, 31 Jan 2020 01:10:33 -0500
+Received: from mail-ot1-f67.google.com ([209.85.210.67]:46674 "EHLO
+        mail-ot1-f67.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1725907AbgAaGKc (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Fri, 31 Jan 2020 01:10:32 -0500
+Received: by mail-ot1-f67.google.com with SMTP id g64so5492921otb.13
+        for <linux-kernel@vger.kernel.org>; Thu, 30 Jan 2020 22:10:32 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=Ph/tiCxt6J8lQbta3ZHrGApdLgqUBYn0fpRyKCOIpm8=;
+        b=S4PI06Xn3KC2QkNSk+t83PI8yEkLJS7YAssVerFWgZ8NGMbVKtcTYqxXceJAZcqJ7d
+         +Jh/0dLgNMg7pwFCJMeR8udR2D8IOj8nwkkhEiaYf/nGnM7dSnGi3s6BnfEX9MfiVMki
+         1E3JtdKbvLJdqwu+XShb5fEeGFhoPxW8EXLCDHLh9TN5hulfKnq6IzZkf22dYXg7wcdA
+         1DKFxRfLdtYh5opwXmkFP5QJrprl1rD9RpgUzha5tKElAh0QEDoMOxSMF4IWCP6KTuzK
+         ippoHkwauKfF5+xKWZN1xvH1vGKEXUmaR0+NPdy/VGowITxPbXcuWsidBaFSxH8v6Kap
+         lvBw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=Ph/tiCxt6J8lQbta3ZHrGApdLgqUBYn0fpRyKCOIpm8=;
+        b=e41YtlXk4A0XtLsTnwTF97JK96ftuNSYFo+fvk7lq52aFRQHRB8rJggBZ0agX4oYNC
+         /mNawZud2l58o90EUKU5omzAxZLrhbV+sGBNKVlAvgWX9rV2GkD4vWj2jM1rRA8W+MCF
+         msNbVjSC/jM9MoDslP7w/mQoAWEKWFMuET+n02hJKY38C6Mp8dXR46PuWrV5Bb0pYJmP
+         9R11mqMAHd5zS8u3Ow7DxKMSEIt80xVkokF/liCFlLcyHDuQ34DwNUhvAz5lkmT8Ow8t
+         5JC0eBKnXyd5QGE9EqCkgiU1hxBZ8uG9DfuiO7fQPcXnk8hn1/cxwJBGf74n0Y68V0EG
+         DJ8A==
+X-Gm-Message-State: APjAAAVhz5BBkl7XW+4pNFT88I1kWnhUpgN8lZExopciFAd6z7KNyjqw
+        uZ5C8XBdDpoOXK9wW8cOIb5SvQxqgABxym/cHg0=
+X-Google-Smtp-Source: APXvYqzC2c4j0ONoOHRqSC0SOOI+wIDntolplrKKHKgMkCJo0kRZbVqGkfs3fPEOeZtlMjVP+YClzgQqv3DHXaPx4io=
+X-Received: by 2002:a9d:7c99:: with SMTP id q25mr6588777otn.105.1580451031796;
+ Thu, 30 Jan 2020 22:10:31 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:a4a:a482:0:0:0:0:0 with HTTP; Thu, 30 Jan 2020 22:10:31
+ -0800 (PST)
+Reply-To: sulembello879@gmail.com
+From:   Mr Suleman Bello <frankoleka77@gmail.com>
+Date:   Thu, 30 Jan 2020 22:10:31 -0800
+Message-ID: <CAHQPQhDgDEyhU9kxVJA_mEdxDVvUVmXMNn3PY1x+r7MhrmMTrA@mail.gmail.com>
+Subject: CAN I TRUST YOU?
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 1842
+
+Dear Friend,
+
+Please i want you to read this letter very carefully and i must
+apologize for berging this message into your mail box without any
+formal introduction due to the urgency and confidential of this issue
+and i know that this message will come to you as a surprise, Please
+this is not a joke and i will not like you to joke with it.I am
+Mr.Suleman Bello, a staff in African Development Bank (A.D.B)
+Ouagadougou, Burkina faso West Africa.I discovered existing dormant
+account for years. When I discovered that there had been neither
+continuation nor withdrawals from this account for this long period
+and according to the laws and constitution guiding this banking
+institution, any unserviceable account for more than (7) seven years,
+that fund will be transferred to national treasury as unclaimed fund.
+
+I Hoped that you will not expose or betray this trust and confident
+that i am about to extablish with you for the mutual benefit of you
+and i.I need your urgent assistance in transferring the sum of $10.5
+)million usd into your account within 7 banking days. This money has
+been dormant for years in our Bank, and The request of foreigner in
+this transaction is necessary because our late customer was a
+foreigner and a burkinabe cannot stand as next of kin to a
+foreigner.Because of the static of this transaction I want you to
+stand as the next of kin so that our bank will accord you the
+recognition and have the fund transferred to your account.
+
+Upon your response, I shall then provide you with further information
+and more deities that will help you understand the transaction. I am
+expecting your urgent response to enable me inform you on how the
+business will be executed. Please I would like you to keep this
+transaction confidential and as a top secret or delete if you are not
+interested.
+
+Thanks
+Mr.Suleman Bello.

@@ -1,0 +1,158 @@
+Return-Path: <SRS0=XFXjtu=3A=lighs.date=choice.home.warranty-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21255 invoked from network); 11 Jan 2020 18:10:10 -0000
+Received: (qmail 17882 invoked from network); 11 Jan 2020 18:10:09 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Jan 2020 18:10:09 -0000
+Received: (qmail 18749 invoked by uid 48516); 11 Jan 2020 18:10:09 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 14301 invoked from network); 11 Jan 2020 18:10:09 -0000
+Received: from mail.lighs.date ([85.93.5.47])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 11 Jan 2020 18:10:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=lighs.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=choice.home.warranty@lighs.date;
+ bh=Pl5Ouqc/geLJfCdFPsj5YFQRpVY=;
+ b=xlocO1CjNxxBC76/AVKa9FGXjD5TbcKfa+HNKU6nKrwu6Nj4xgSU8qYAx81cKRV3nynwbwAK9sGv
+   DY7YDeYQRBS+BQBrCNpYDVUXXVcnAaQnprSWfpv890qfdwgd5vgucfGyBkeRh1unhGVkKGgAQS/D
+   R3YjD2v1M96kgrlQMb8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=lighs.date;
+ b=ioeyjttB2l7hc9IRrA/lgJWrrTYhB1SRijBvlM6cfNKGEPC5YOZLOXFwQArebEh8Ll7KlLKvvEzW
+   3JrrJB58HQqrsb5qrDybuPRBRXzY/97z9h+j/yOE3UxNNJQUi62XnQU/ULkCa0arSBhNFljNqBk6
+   gXvZ2VZFiOutx1okQQw=;
+Received: by mail.lighs.date id h387o20001gm for <bruce@untroubled.org>; Sat, 11 Jan 2020 13:06:50 -0500 (envelope-from <choice.home.warranty-bruce=untroubled.org@lighs.date>)
+Date: Sat, 11 Jan 2020 13:06:50 -0500
+From: "Choice Home Warranty" <choice.home.warranty@lighs.date>
+To:   <bruce@untroubled.org>
+Subject: Never Pay For Covered Home Repairs Again.  First Month&nbsp;FREE!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_412_1977501786.1578766001581"
+List-Unsubscribe: <http://www.lighs.date/remodels-distraught/d325X239k5P8R9x12AlR11yX34a5g21HFv4GIf4rxvs4FhIHEsvZ11fR6ndnKQoO95AU10D5VjcYp>
+Message-ID: <0.0.0.2C.1D5C8A9E5AE4A96.6C5CB7@mail.lighs.date>
+Content-Length: 6758
+
+------=_Part_412_1977501786.1578766001581
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>exceptional</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); font-family: Helvetica; lette=
+r-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; text-decoration: none; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td><a href=3D"http://www.lighs.date/nadir-Carbondale/eb85Q2U395oYz8613Nhe9He4z34a5Q21JFv4GIf4rxvs4FhIHEsvZ11GR6ndnKQoO95bpt105pyWcY"><img alt=3D"zame" src=3D"http://www.lighs.date/peoples-antiquities/1204R2395P7PaU13FeO9ie7K34a5s21nFv4GIf4rxvs4FhIHEsvZ11kR6ndnKQoO95S1tl05QLOcY" styl=
+e=3D"display: block; width: 558px; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-family: Segoe, &quot; Segoe UI&quot; , &quot; DejaV=
+u Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot;=
+ ; font-size: xx-large; padding: 12px; "><span style=3D"background-color: r=
+gb(243, 243, 243); padding: 2px; ">Stop paying for any covered<br /> home r=
+epairs!</span></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"border-bottom-width: 1px; border-bottom-style: dashed; b=
+order-bottom-color: rgb(238, 238, 238); ">=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"150">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Air Conditioning<br /> - Heating System<br /> - Electrical =
+System<br /> - Plumbing System<br /> - Water Heater<br /> - Ductwork</td>=
+=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"120">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Refrigerator<br /> - Oven<br /> - Stove<br /> - Cook Top<br=
+ /> - Microwave<br /> - Dishwasher</td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"170">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Clothes Washer<br /> - Clothes Dryer<br /> - Ceiling Fans<b=
+r /> - Garbage Disposal<br /> - Garage Door Opener<br /> - Plumbing Stoppag=
+es</td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td align=3D"left"> <p align=3D"center" style=3D"background-color: rg=
+b(162, 47, 49); padding: 5px; font-family: Segoe, &quot; Segoe UI&quot; , &=
+quot; DejaVu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-=
+serif&quot; ; font-size: 36px; max-width: 460px; "><span style=3D"font-fami=
+ly:arial,helvetica,sans-serif; "><a href=3D"http://www.lighs.date/nadir-Carbondale/eb85Q2U395oYz8613Nhe9He4z34a5Q21JFv4GIf4rxvs4FhIHEsvZ11GR6ndnKQoO95bpt105pyWcY" style=3D"color: rgb=
+(255, 255, 255); ">Get your FREE Quote Today </a></span></p> </td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-size: 22px; font-family: Segoe, &quot; Segoe UI&quo=
+t; , &quot; DejaVu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot;=
+ sans-serif&quot; ; ">&nbsp;=20
+       <section>
+        <strong><em>As Seen On:</em></strong>
+       </section> <a href=3D"http://www.lighs.date/nadir-Carbondale/eb85Q2U395oYz8613Nhe9He4z34a5Q21JFv4GIf4rxvs4FhIHEsvZ11GR6ndnKQoO95bpt105pyWcY"><img alt=3D"Kink" src=3D"=
+http://www.lighs.date/remodels-distraught/6fc4k2395n7laY11ze9e8t34a5R21KFv4GIf4rxvs4FhIHEsvZ11BR6ndnKQoO97Rmyu_105DX@cY" style=3D"width: 333px; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-family: Segoe, &quot; Segoe UI&quot; , &quot; DejaV=
+u Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot;=
+ ; "><br /> <br /> <br /> <span style=3D"font-size:11px; ">This-message and=
+ everything on this page is-an ad<br /> <br /> if you want to exit please <=
+a href=3D"http://www.lighs.date/remodels-distraught/1d46Cxn2395go8C612Oe9e5Iz34a5T21FFv4GIf4rxvs4FhIHEsvZ11rR6ndnKQoO95zPt105GX3cY">Push </a>this<br /> 1090 King Georges Post Rd Edison =
+NJ 08837<br /> <br /> <br /> Or <a href=3D"http://www.lighs.date/memorials-Hudson/30S4P2395E89Qy11Qe9e6i34a5n21UFv4GIf4rxvs4FhIHEsvZ11IR6ndnKQoO97Wxh10MH6XMpqcY">Tap Here to =
+leave</a><br /> <span style=3D"caret-color: rgb(0, 0, 0); font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+text-align: center; text-indent: 0px; text-transform: none; white-space: no=
+rmal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-w=
+idth: 0px; text-decoration: none; color: rgb(169, 169, 169); font-family: H=
+elvetica; float: none; display: inline !important; ">6547 N Academy Blvd #2=
+128</span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font=
+-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: no=
+rmal; letter-spacing: normal; orphans: auto; text-align: center; text-inden=
+t: 0px; text-transform: none; white-space: normal; widows: auto; word-spaci=
+ng: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; te=
+xt-decoration: none; font-family: Helvetica; " /> <span style=3D"caret-colo=
+r: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; text-align: center; =
+text-indent: 0px; text-transform: none; white-space: normal; word-spacing: =
+0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-deco=
+ration: none; font-family: Helvetica; float: none; display: inline !importa=
+nt; "><font color=3D"#a9a9a9">COLORADO SPRINGS CO 80918</font></span></span=
+><br /> &nbsp; </td>=20
+     </tr>=20
+    </tbody>=20
+   </table> <style><style></style><style lang="Ackerman"></style><big></style></big><style size="position"><small><small></style></small><span></small></span><span></span>
+  </center>  =20
+ <img src=3D"http://www.lighs.date/5754Q2395L85Bg12kLe9e9A34a5_21LFv4GIf4rxvs4FhIHEsvZ11AR6ndnKQoO96z1yY0G5D3qcY/ailments-bitterroot" alt=3D""/></body>
+</html>
+
+------=_Part_412_1977501786.1578766001581--
+

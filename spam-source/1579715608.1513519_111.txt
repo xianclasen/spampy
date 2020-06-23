@@ -1,0 +1,293 @@
+Return-Path: <SRS0=D7s+5B=3L=standeasy.bid=yofahntnoeuwbaxvnpc@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 13275 invoked from network); 22 Jan 2020 06:46:48 -0000
+Received: (qmail 23037 invoked from network); 22 Jan 2020 06:46:47 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 06:46:47 -0000
+Received: (qmail 14280 invoked by uid 48516); 22 Jan 2020 06:46:46 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 18275 invoked from network); 22 Jan 2020 06:46:46 -0000
+Received: from standeasy.bid ([80.253.246.214])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 22 Jan 2020 06:46:42 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=standeasy.bid;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=yofahntnoeuwbaxvnpc@standeasy.bid;
+ bh=Rbrf/P6c/5YCK32iI4we3WzF/pw=;
+ b=EBsZ3nB+KOqETnqi9fQ1vA6GMkF2I1uY1oUo/IwF9Oc0og8e/z6P+kp21oSDqWmtytCQxX2oLH1i
+   sCO3sjZfxU0Pbgf3xGJ2v3z3l9h85ynrQSQolQW4E80K/YkqbERfYIFUCqIgXlTvk1bjPa6pOuUu
+   DUK+vGqKMBOui0dcgiU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=standeasy.bid;
+ b=EFAN0V7wtK3GaG/hAjDN0j2Zl2Wm7s9AWVGp1MbLCle1UflosFaPJuZnJC6Q+OcQzEY539hpMAga
+   Gyy4Oct6kJdbJd9UXzabFQvYe2DESi360ydsUOhKsRWrVfbZ0cDkTNV95NfQAwSO0zAGp3H7CNXA
+   EkX3biWeINGTmqHJDx4=;
+From: " Daryl Hansen" <yofahntnoeuwbaxvnpc@standeasy.bid>
+Date: Wed, 22 Jan 2020 01:39:56 -0500
+MIME-Version: 1.0
+Subject: Stop Driving Your Wife Crazy , New Snoring Solution
+To: <bruce@untroubled.org>
+Message-ID: <oEB3qIubjIihhklgHSlq3dCYr8wrw1gxCmhjREUwv1Y.Zclxzg9HCFRh2aoOHTINlcQXB8AUQxrliFDHOpwslOQ@standeasy.bid>
+Content-Type: multipart/alternative;
+ boundary="------------87594062762308801924328"
+Content-Length: 5571
+
+This is a multi-part message in MIME format.
+--------------87594062762308801924328
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+This is the only anti-snoring product I would recommend because it's the only one that works for me, and I&#39;ve tried them all
+<http://www.standeasy.bid/kqmfgbi/knmgjh107042hdmx/iEHx8loBkLFAvfd7pUG2W5Zv0Cl33g46-DYQVe8vDqk/UHQeo675rfQT_4TSWp4Kd_4ntuBBTG4j8EJ3qQMWfzr330MDClNxMbs_fuBW8e1gk1I2v1JGVA1ROasWA6VXeY2sPGLigfyOeZFNYQzBrA4qQhCgqhvO1O1jA4O2UK9w>
+
+
+
+
+
+<http://www.standeasy.bid/kqmfgbi/knmgjh107042hdmx/iEHx8loBkLFAvfd7pUG2W5Zv0Cl33g46-DYQVe8vDqk/UHQeo675rfQT_4TSWp4Kd_4ntuBBTG4j8EJ3qQMWfzr330MDClNxMbs_fuBW8e1gk1I2v1JGVA1ROasWA6VXeY2sPGLigfyOeZFNYQzBrA4qQhCgqhvO1O1jA4O2UK9w>
+
+
+Users enthusiastically. Clever invention fights annoying snoring.
+
+
+
+The main advantages:
+
+Promotes better breathingAids in reducing and stopping snoringHelps reduce dry mouthDrug FreeHypo-AllergenicReusableStores easily in a clear travel caseComfortable, lightweight and secure
+
+
+
+
+
+Learn more
+<http://www.standeasy.bid/kqmfgbi/knmgjh107042hdmx/iEHx8loBkLFAvfd7pUG2W5Zv0Cl33g46-DYQVe8vDqk/UHQeo675rfQT_4TSWp4Kd_4ntuBBTG4j8EJ3qQMWfzr330MDClNxMbs_fuBW8e1gk1I2v1JGVA1ROasWA6VXeY2sPGLigfyOeZFNYQzBrA4qQhCgqhvO1O1jA4O2UK9w>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This email was sent to bruce@untroubled.org
+If you do not wish to continue
+receiving email newsletters  CLICK HERE
+<http://www.standeasy.bid/vksiu/w9KU2O4Aj1O1OvhqgChQq4ArBzQYNFZeOyfgiLGPs2YeXV6AWsaOR1AVGJ1v2I1kg1e8WBuf_sbMxNlCDM033rzfWMQq3JE8j4GTBButn4_dK4pWST4_TQfr576oeQHU.kqDv8eVQYD-64g33lC0vZ5W2GUp7dfvAFLkBol8xHEi>
+or send post-mail To PO Box71 N. Grand Dr. New Rochelle, NY 10801
+
+
+
+
+
+
+
+
+
+
+
+7
+<http://www.standeasy.bid/kqmfgbi/knmgjh27482hdmx/iEHx8loBkLFAvfd7pUG2W5Zv0Cl33g46-DYQVe8vDqk/UHQeo675rfQT_4TSWp4Kd_4ntuBBTG4j8EJ3qQMWfzr330MDClNxMbs_fuBW8e1gk1I2v1JGVA1ROasWA6VXeY2sPGLigfyOeZFNYQzBrA4qQhCgqhvO1O1jA4O2UK9w>
+
+
+
+
+
+
+
+
+--------------87594062762308801924328
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 650px;">
+
+
+	<tbody>
+
+
+		<tr>
+
+
+			<td>
+
+
+			<h1 style="margin-bottom: 15px !important;color: #444;"><a href="http://www.standeasy.bid/kqmfgbi/knmgjh107042hdmx/iEHx8loBkLFAvfd7pUG2W5Zv0Cl33g46-DYQVe8vDqk/UHQeo675rfQT_4TSWp4Kd_4ntuBBTG4j8EJ3qQMWfzr330MDClNxMbs_fuBW8e1gk1I2v1JGVA1ROasWA6VXeY2sPGLigfyOeZFNYQzBrA4qQhCgqhvO1O1jA4O2UK9w"><strong>This is the only anti-snoring product I would recommend because it&#39;s the only one that works for me, and I&#39;ve tried them all</strong></a></h1>
+
+
+
+
+
+			<div class="articleInfo">&nbsp;</div>
+
+
+
+
+
+			<div class="articleInfo"><a href="http://www.standeasy.bid/kqmfgbi/knmgjh107042hdmx/iEHx8loBkLFAvfd7pUG2W5Zv0Cl33g46-DYQVe8vDqk/UHQeo675rfQT_4TSWp4Kd_4ntuBBTG4j8EJ3qQMWfzr330MDClNxMbs_fuBW8e1gk1I2v1JGVA1ROasWA6VXeY2sPGLigfyOeZFNYQzBrA4qQhCgqhvO1O1jA4O2UK9w"><span class="current-date-minus"><img alt="" src="http://www.standeasy.bid/tnxiaS30.jpg" style="width: 650px; height: 325px;" /></span></a></div>
+
+
+
+
+
+			<hr />
+
+
+			<h3 style="text-align: center;"><em>Users enthusiastically. Clever invention fights annoying snoring.</em></h3>
+
+
+
+
+
+			<hr />
+
+
+			<h2>The main advantages:</h2>
+
+
+
+
+
+			<ul>
+
+
+				<li>Promotes better breathing</li>
+
+
+				<li>Aids in reducing and stopping snoring</li>
+
+
+				<li>Helps reduce dry mouth</li>
+
+
+				<li>Drug Free</li>
+
+
+				<li>Hypo-Allergenic</li>
+
+
+				<li>Reusable</li>
+
+
+				<li>Stores easily in a clear travel case</li>
+
+
+				<li>Comfortable, lightweight and secure</li>
+
+
+			</ul>
+
+
+
+
+
+			<h1 style="text-align: center;">&nbsp;</h1>
+
+
+
+
+
+			<h1 style="text-align: center;"><a href="http://www.standeasy.bid/kqmfgbi/knmgjh107042hdmx/iEHx8loBkLFAvfd7pUG2W5Zv0Cl33g46-DYQVe8vDqk/UHQeo675rfQT_4TSWp4Kd_4ntuBBTG4j8EJ3qQMWfzr330MDClNxMbs_fuBW8e1gk1I2v1JGVA1ROasWA6VXeY2sPGLigfyOeZFNYQzBrA4qQhCgqhvO1O1jA4O2UK9w">Learn more</a></h1>
+
+
+
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<hr />
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">This email was sent to bruce@untroubled.org<br />
+
+
+			If you do not wish to continue<br />
+
+
+			receiving email newsletters <a href="http://www.standeasy.bid/vksiu/w9KU2O4Aj1O1OvhqgChQq4ArBzQYNFZeOyfgiLGPs2YeXV6AWsaOR1AVGJ1v2I1kg1e8WBuf_sbMxNlCDM033rzfWMQq3JE8j4GTBButn4_dK4pWST4_TQfr576oeQHU.kqDv8eVQYD-64g33lC0vZ5W2GUp7dfvAFLkBol8xHEi" style="color:#404040 !important;text-decoration: underline; -ms-text-size-adjust:100%; -webkit-text-size-adjust:100%; "><span style="color:#0000FF;"> CLICK HERE</span></a><br /><br />
+<img src="http://www.standeasy.bid/o9rdocjnr/iEHx8loBkLFAvfd7pUG2W5Zv0Cl33g46-DYQVe8vDqk/UHQeo675rfQT_4TSWp4Kd_4ntuBBTG4j8EJ3qQMWfzr330MDClNxMbs_fuBW8e1gk1I2v1JGVA1ROasWA6VXeY2sPGLigfyOeZFNYQzBrA4qQhCgqhvO1O1jA4O2UK9w" >
+
+
+			or send post-mail To PO Box&nbsp;71 N. Grand Dr. New Rochelle, NY 10801</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: right;"><span style="font-size:0.008px;"><a href="http://www.standeasy.bid/kqmfgbi/knmgjh27482hdmx/iEHx8loBkLFAvfd7pUG2W5Zv0Cl33g46-DYQVe8vDqk/UHQeo675rfQT_4TSWp4Kd_4ntuBBTG4j8EJ3qQMWfzr330MDClNxMbs_fuBW8e1gk1I2v1JGVA1ROasWA6VXeY2sPGLigfyOeZFNYQzBrA4qQhCgqhvO1O1jA4O2UK9w">7</a></span></p>
+
+
+
+
+
+			<p>&nbsp;</p>
+
+
+			</td>
+
+
+		</tr>
+
+
+	</tbody>
+
+
+</table>
+
+
+
+
+</body>
+</html>
+
+--------------87594062762308801924328--

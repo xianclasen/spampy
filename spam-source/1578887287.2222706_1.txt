@@ -1,0 +1,62 @@
+Return-Path: <SRS0=i6bAc4=3B=bruink.buzz=lifeinsurance.net-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 7964 invoked from network); 12 Jan 2020 16:26:24 -0000
+Received: (qmail 21697 invoked from network); 12 Jan 2020 16:26:24 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 16:26:24 -0000
+Received: (qmail 5336 invoked by uid 48516); 12 Jan 2020 16:26:23 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 306 invoked from network); 12 Jan 2020 16:26:23 -0000
+Received: from mail.bruink.buzz (208-186-113-114.nca.datanoc.com [208.186.113.114])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 12 Jan 2020 16:26:20 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=bruink.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=lifeinsurance.net@bruink.buzz;
+ bh=IThfGMuuMFgj/RzCaHlPQUEBPbY=;
+ b=Cp7oZp1vCWo1oyJAkZT1HKOEvQlxp3tFtuu2kMc0krx7xP7bP/oR8rvc10wfGWzybES+ColagEYw
+   X2B4FASqRBHnh5c24dTZ/+fcfy+AmLzon9k7Tn7TVmjCx2q0aogjWwgRmoR3Vl5gIGCs7QxZUwWY
+   YivhXV0V93mRuC3fa34=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=bruink.buzz;
+ b=Ji5DK2DnMsF4iJwadG644o/28zUP6x53tqYcgFAYuvNbuPZlBeMIF+6kRurXGvrDxJYEqZm2Pxnl
+   oMfccNChq3wokEVx14tsgmo+/ZpvhhKiwUWXi6YqbN28XOgvBrosrCIv0FxoRXxdaqLbgumUiIyC
+   qIoChPGk2C0PDBD/7I4=;
+Received: by mail.bruink.buzz id h3d4ao0001go for <bruce@untroubled.org>; Sun, 12 Jan 2020 11:21:08 -0500 (envelope-from <lifeinsurance.net-bruce=untroubled.org@bruink.buzz>)
+Date: Sun, 12 Jan 2020 11:21:08 -0500
+From: LifeInsurance.net <lifeinsurance.net@bruink.buzz>
+To:   <bruce@untroubled.org>
+Subject: $1,000,000 Life Insurance Plans you can Afford
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_178_1344489848.1578846049884"
+List-Unsubscribe: <http://www.bruink.buzz/sentenced-aftershocks/d8c4S2395F8D9h12pG11qHY34abZ21BFv4GIf4rxvs4FhIHEsvZ8oRgndomn6M10Q_P6QTlOcY>
+Message-ID: <0.0.0.15.1D5C9644BDCD73C.5991F3@mail.bruink.buzz>
+Content-Length: 3522
+
+------=_Part_178_1344489848.1578846049884
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Edwardian</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; "><a href="http://www.bruink.buzz/remnant-parenthood/b8e6O2lJ395nnS8612Gena04X34abz21gFv4GIf4rxvs4FhIHEsvZ8GRgndomn5Q10qQ6cXc0UY">100% Guatanteed covereage upto 1million!</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; ">Access the right Life Plan for you at the BEST rates<br /> <a href="http://www.bruink.buzz/remnant-parenthood/b8e6O2lJ395nnS8612Gena04X34abz21gFv4GIf4rxvs4FhIHEsvZ8GRgndomn5Q10qQ6cXc0UY"><img alt="" src="http://www.bruink.buzz/Socratic-individualized/daa6sN23F95z7PUa12Oela07P34abr21BFv4GIf4rxvs4FhIHEsvZ8aRgndomn5SJ1x05SBcOY" style="height: 997px; width: 605px; " /></a></span><br /> &nbsp; </p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; "><a href="http://www.bruink.buzz/remnant-parenthood/b8e6O2lJ395nnS8612Gena04X34abz21gFv4GIf4rxvs4FhIHEsvZ8GRgndomn5Q10qQ6cXc0UY">Get a FREE Quote</a></span><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> &nbsp; </p> 
+   <center> 
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, remove from future email <a href="http://www.bruink.buzz/8bd6uh23W95St8Q612Fnea05U34abK21AFv4GIf4rxvs4FhIHEsvZ8NRgndomn6LBrG105LJ1cY/sentenced-aftershocks"><font color="#666666">Here</font></a>.<br /> 4110 Mission Blvd #200 - San Diego, CA 92109</font></p> 
+    <div style="text-align: center; ">
+     <span style="font-size:12px; ">6547 N Academy Blvd #2128<br /> COLORADO SPRINGS CO 80918<br /> <span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.bruink.buzz/6fb6j23z9t5ojw8912Xeas06O34abT21CFv4GIf4rxvs4FhIHEsvZ8eRgndomn5Gu10L5z@cYA/aquarium-plumes">Exit email</a></span></span></span>
+    </div> 
+    <br /> &nbsp; 
+    <br /> &nbsp; 
+   </center> 
+  </center> <font face="Hennessey"></font><style color="constructions"></style><font face="narrate"></font><font lang="irksome"><font id="upturns"></font></font><span style="thermometer"></span><style id="unavoidably"></style>  
+ <img src="http://www.bruink.buzz/c7d4k2395S8I5V11Dea08o34abQ21aFv4GIf4rxvs4FhIHEsvZ8oRgndomn5z1B0N6JLAcXY/butcher-cultivating" alt=""/></body>
+</html>
+
+------=_Part_178_1344489848.1578846049884--
+

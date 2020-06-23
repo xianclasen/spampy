@@ -1,0 +1,82 @@
+Return-Path: <SRS0=OJq0fb=3I=joyady.trade=cbd.oil.planet.pure-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 10765 invoked from network); 19 Jan 2020 17:40:34 -0000
+Received: (qmail 25337 invoked from network); 19 Jan 2020 17:40:34 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Jan 2020 17:40:34 -0000
+Received: (qmail 16465 invoked by uid 48516); 19 Jan 2020 17:40:32 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5058 invoked from network); 19 Jan 2020 17:40:32 -0000
+Received: from mail.joyady.trade (208-186-113-49.nca.datanoc.com [208.186.113.49])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 19 Jan 2020 17:40:32 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=joyady.trade;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=cbd.oil.planet.pure@joyady.trade;
+ bh=iNV3jXOB2UfEzhFFcqRk8mYbPmA=;
+ b=CFKRrb97AHWaAGXaWrNvgdklvpjejAEM5ykKUhUy8zlqrzwNpMNhV0amoHVVtfriPrRGkZfrzTUu
+   EJsNBWOhlimebYVEblCa6A3q8gkDkpfKP4aXYI29ZDdabz4MExHX+Om6uf0CssYXA4MNXcfm0O2G
+   38S3gcQrYKaRLhOydc8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=joyady.trade;
+ b=Ut6cD9APVPw+/DW6wjqAq/prTzQn+Gx4lvAA26Ob+WExeaeK7qUR2W/R0urO3tCbshnEfK0NIQQK
+   D/LLf8SQb/ktAzRJzS+Lo1OJ0gXK+tsuRg4YvWymjmmGzCYaqWN85W7hLAPT6sk7MzrVP5R1mxNS
+   yfiKkhExUjswHJO6Fm4=;
+Received: by mail.joyady.trade id h4ia900001gl for <bruce@untroubled.org>; Sun, 19 Jan 2020 12:34:04 -0500 (envelope-from <cbd.oil.planet.pure-bruce=untroubled.org@joyady.trade>)
+Date: Sun, 19 Jan 2020 12:34:04 -0500
+From: "CBD Oil Planet Pure" <cbd.oil.planet.pure@joyady.trade>
+To:   <bruce@untroubled.org>
+Subject: Don't Let 2020 Start With Pain!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_52_660189515.1579455232683"
+List-Unsubscribe: <http://www.joyady.trade/dragonhead-Talmudize/e404H2395pU89o11eF11pi34f1i21CFv4GIf4rxvs4FhIHEsvZ8gR8ndoSQ6Ho10Wn5hWcYl>
+Message-ID: <0.0.0.6.1D5CEEEA548FF00.85B6E0@mail.joyady.trade>
+Content-Length: 3937
+
+------=_Part_52_660189515.1579455232683
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Paulus</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.joyady.trade/5756n2Z39P5a8R6X13feDby70F34f1o21kFv4GIf4rxvs4FhIHEsvZ8eR8ndoSQ5lL10s6LTAcPY/crunchy-mensurable">Need peace in your life :)</a></span></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle"><style lang="unacceptably"></style><style></style><small><span></small><font></font><style style="defraud"><span face="queried"><style class="semaphore"><style></style></span></style></style></span> 
+       <center>
+        <a href="http://www.joyady.trade/5756n2Z39P5a8R6X13feDby70F34f1o21kFv4GIf4rxvs4FhIHEsvZ8eR8ndoSQ5lL10s6LTAcPY/crunchy-mensurable"><img alt="no pain" src="http://www.joyady.trade/1794n2395GA7Ma12Heb7g3A34f1u21cFv4GIf4rxvs4FhIHEsvZ8jR8ndoSQ5om10W6tWUjcY/harrier-miniaturization" style="border-width: 0px; border-style: solid; height: 652px; width: 604px; " /></a>
+        <br /> 
+        <span style="font-family:times new roman,times,serif; "><span style="font-size:11px; "><font color="#666666">&nbsp; Remove email<a href="http://www.joyady.trade/c7d5Rv2395oV8n613OeFIb71s34f1h21yFv4GIf4rxvs4FhIHEsvZ8YR8ndoSQ6iPnT105m0cJY/crunchy-mensurable">&nbsp; Here</a></font>.</span></span>
+       </center> 
+       <div align="center">
+        <span style="font-family:times new roman,times,serif; "><span style="font-size:11px; ">1261 S 820 E Suite 210 - American Fork, UT 84003</span></span>
+        <br /> 
+        <br /> 
+        <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+        <br /> 
+        <span style="font-family:times new roman,times,serif; "><span style="font-size:11px; "><a href="http://www.joyady.trade/MacKenzie-defying/40e6w23X9s5A8NY913yebw72Dn34f1q21vFv4GIf4rxvs4FhIHEsvZ8nR8ndoSQ6c10pyn5ikzcY">Go here to st0p email</a></span></span>
+       </div> </td> 
+     </tr> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; </td> 
+     </tr> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> 
+   <br /> <span title="binds"><font lang="occupant"></span><span></span><font color="stings"></font></font><span><span></span><small><span class="drilled"><small></small></span></small></span>
+  </center>   
+ <img src="http://www.joyady.trade/dragonhead-Talmudize/7b04G2395X85_P13WNeb7H4O34f1S21rFv4GIf4rxvs4FhIHEsvZ8eR8ndoSQ7hFY1Aw05V3cYJ" alt=""/></body>
+</html>
+
+------=_Part_52_660189515.1579455232683--
+

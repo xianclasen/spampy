@@ -1,0 +1,494 @@
+Return-Path: <SRS0=L4/65p=23=emsd2.com=bounce-904207-63-464017-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 30151 invoked from network); 6 Jan 2020 23:06:35 -0000
+Received: (qmail 4304 invoked from network); 6 Jan 2020 23:06:34 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 23:06:34 -0000
+Received: (qmail 31715 invoked by uid 48516); 6 Jan 2020 23:06:33 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 24174 invoked from network); 6 Jan 2020 23:06:33 -0000
+Received: from emsd2.com (emsd2.com [173.236.20.192])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 06 Jan 2020 23:06:33 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dk; d=emsd2.com;
+ h=To:From:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding:
+ Sender:List-Unsubscribe:Message-ID;
+ i=hometechpublishing.activehosted.com@emsd2.com;
+ bh=4VaHshVQekAM/CFhbJ42q6tZ+TMZZXyz2mmHgISvrQQ=;
+ b=JAplOC3jCAfDm1+p3RDJEPrzTGKinfn7FjeVgA9ZdG9eQZVDTtDoHfIGtp+sCHbAzd6/v0Ok43pk
+   47ddmT7oW21KnU2S1+qwtHfUiUSO/26FDx/LCqTqex53GaROFIqPEdE91EdWbXG6GdMTcZuuliq9
+   iEvsHBceCsNw3459apk=
+Received: by emsd2.com id h2euni2lkok9 for <bruce@untroubled.org>; Mon, 6 Jan 2020 17:06:32 -0600 (envelope-from <bounce-904207-63-464017-bruce=untroubled.org@emsd2.com>)
+To: <bruce@untroubled.org>
+From: "HomeTech Advantage software" <support@costestimator.com>
+Subject: January 2020 Pricing updates from HomeTech are now available
+ for download
+Date: Mon, 06 Jan 2020 16:57:24 -0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-11874250105e13bb5bac8d08.07143844_=_"
+Content-Transfer-Encoding: 7bit
+Sender: <hometechpublishing.activehosted.com@emsd2.com>
+X-Sender: <hometechpublishing.activehosted.com@emsd2.com>
+X-Report-Abuse: Please report abuse to abuse@activecampaign.com
+X-mid: YnJ1Y2VAdW50cm91YmxlZC5vcmcgLCBjNjMgLCBtODUzICwgczk4Mzc
+Feedback-ID: 904207:activecampaign
+X-250ok-CID: 904207-63
+List-Unsubscribe: <mailto:unsubscribe-dc755cdc148e164189226be97843c85e-63-6a484184b36edc07941397252f2f06ed@emsd2.com>,
+ <https://hometechpublishing.acemlnd.com/box.php?nl=7&c=63&m=853&s=6a484184b36edc07941397252f2f06ed&funcml=unsub2&luha=1>
+Message-ID: <20200106230632.30431.1513184295.swift@hometechpublishing.activehosted.com>
+Content-Length: 32512
+
+
+--_=_swift-11874250105e13bb5bac8d08.07143844_=_
+Content-Type: text/plain; charset=utf-8
+
+ 
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=63A853A7A483 
+
+Our research team has just finished compiling the data for the January
+2020 LAMI Database. The material and labor pricing that we have gathered
+are specific for the zip codes where you work to ensure that you have
+the most accurate, up-to-date pricing. The new database is ready to be
+downloaded to your HomeTech software today!
+
+**For Current/Expired ADVANTAGE Software Owners**
+
+If you do not know your serial number please contact us at
+1-800-240-8210
+
+Download your New  January 2020 L.A.M.I. Pricing data now
+
+ 
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=63A853A7A484 
+
+**HomeTech is an advanced unit cost estimating software that can produce
+quick, precise estimates, ready to present to your customer.** You will
+have access to the most current pricing for building materials and labor
+in your local area, helping to ensure the estimates are as accurate as
+possible. Only HomeTech offers a database this comprehensive. This
+software is simple to use and integrates into your professional
+building/remodeling company with ease.
+
+**Local Area Cost Data**
+For 50 years HomeTech has provided contractors with the most reliable
+pricing data available. All data is local area specific, by zip code,
+and is not a national averaging model like other programs use. Our
+research staff contacts hundreds of your local suppliers to give
+pin-point accuracy in material costs. We track labor costs for over 250
+different areas of the U.S. and Canada so your rates will be competitive
+with other successful remodelers in your area.
+Call Us at 800-240-8210  today to see how we can help your company
+profit. 
+
+Order today! 
+_________________
+
+Sent to bruce@untroubled.org
+
+Unsubscribe:
+http://hometechpublishing.acemlnd.com/proc.php?nl=7&c=63&m=853&s=6a484184b36edc07941397252f2f06ed&act=unsub
+
+HomeTech Systems LLC, 5850 waterloo road, #140, Columbia, MD 21045, United States
+--_=_swift-11874250105e13bb5bac8d08.07143844_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html>=0A<head><!--[if !mso]><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><!--<![endif]--><meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3Dutf-8"><meta http-equiv=3D"Content-Langu=
+age" content=3D"en-us"><meta name=3D"format-detection" content=3D"telephone=
+=3Dno"><meta name=3D"format-detection" content=3D"date=3Dno"><meta name=3D"=
+format-detection" content=3D"address=3Dno"><meta name=3D"format-detection" =
+content=3D"email=3Dno"><style data-ac-keep=3D"true"> .ExternalClass { width=
+: 100%; background: inherit; background-color: inherit; } .ExternalClass p,=
+ .ExternalClass ul, .ExternalClass ol { Margin: 0; } .undoreset div p, .und=
+oreset p { margin-bottom: 20px; } div[class^=3D"aolmail_divbody"] { overflo=
+w: auto; } [owa] #ac-footer { padding: 20px 0px !important; background: inh=
+erit; background-color: inherit; } </style><style data-ac-keep=3D"true">=0A=
+@media only screen and (max-width: 600px) { /*-----------------------------=
+--------------------------------------------*\ Abandoned Cart widget \*----=
+--------------------------------------------------------------------*/ .td_=
+abandoned-cart img {display: block;padding-right: 0 !important;padding-bott=
+om: 0 !important;width: 100% !important;max-width: 100% !important;height: =
+auto !important;} body { padding: 0!important; font-size:1em!important; } *=
+ { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing:=
+ border-box; } *[class].divbody {-webkit-text-size-adjust:none !important; =
+width:auto !important;} *[class].td_picture img {width:auto !important;} *[=
+class].td_text { line-height: 110%; } *[class].td_button { width: auto; } /=
+* Collapse all block elements */ :not(.body) table { display: block!importa=
+nt; float:none!important; border-collapse:collapse !important; width:100% !=
+important; min-width:100% !important; clear:both!important; } :not(.body) t=
+head,=0A:not(.body) tbody, :not(.body) tr { display:block!important; float:=
+none!important; width:100% !important; } :not(.body) th, :not(.body) td, :n=
+ot(.body) p { display:block!important; float:none!important; width:100% !im=
+portant; clear:both!important; } /* Remove browser default styling for elem=
+ents */ ul, ol { margin-left: 20px; margin-bottom: 10px; margin-top: 10px; =
+-webkit-margin-before: 0; -webkit-margin-after: 0; -webkit-padding-start: 0=
+; } /* Set default height for spacer once collapse */ *[class].spacer { hei=
+ght: auto!important; } a[href^=3Ddate]{ color:inherit !important; text-deco=
+ration:none !important;} a[href^=3Dtelephone]{ color:inherit !important; te=
+xt-decoration:none !important;} a[href^=3Daddress]{ color:inherit !importan=
+t; text-decoration:none !important;} a[href^=3Demail]{ color:inherit !impor=
+tant; text-decoration:none !important;} /* Default table cell height */ td[=
+height=3D"12"]{height:12px!important;font-size:12px!important;line-height:1=
+2px!important;}=0Atd[height=3D"14"]{height:14px!important;font-size:14px!im=
+portant;line-height:14px!important;} /*------------------------------------=
+-------------------------------------*\ Product Widget \*------------------=
+-------------------------------------------------------*/ .td_product > div=
+ { float: none !important; width: 100% !important; margin-bottom: 20px !imp=
+ortant; } .td_product > div img { width: 75% !important; } /* Default socia=
+l icons */ *[class].ac-social-icon-16 {width:16px !important; height:16px !=
+important;} *[class].ac-social-icon-24 {width:24px !important; height:24px =
+!important;} *[class].ac-social-icon-28 {width:28px !important; height:28px=
+ !important;} *[class].__ac_social_icons { margin-right: 0px !important; } =
+}=0A</style><style data-ac-keep=3D"true"> @media only screen and (max-width=
+: 320px) { #layout-row1780 img { width: 100% !important; height: auto !impo=
+rtant; max-width: 299px !important; } #layout-row1781 img { width: 100% !im=
+portant; height: auto !important; max-width: 320px !important; } #layout-ro=
+w1782 { max-height: 0px!important; font-size: 0px!important; display: none!=
+important; visibility: hidden!important; } #layout-row1783 { max-height: 0p=
+x!important; font-size: 0px!important; display: none!important; visibility:=
+ hidden!important; } .td_rss .rss-item img.iphone_large_image { width: auto=
+ !important; } u + .body { display: table !important; width: 100vw !importa=
+nt; min-width: 100vw !important; } u + .body table { display: table !import=
+ant; width: 100% !important; min-width: 100% !important; } u + .body td { d=
+isplay: block !important; width: 100% !important; min-width: 100% !importan=
+t; } u + .body img { display: inline-block !important; margin: auto !import=
+ant; width:=0Aauto !important; vertical-align: bottom !important; } u + .bo=
+dy center { display: block !important; margin: auto !important; width: 100%=
+ !important; min-width: 100% !important; text-align: center !important; } u=
+ + .body table._ac_social_table, u + .body table._ac_social_table td, u + .=
+body table._ac_social_table div, u + .body table._ac_social_table a { displ=
+ay: inline-block !important; margin: auto !important; width: auto !importan=
+t; min-width: auto !important; text-align: center !important; } u + .body t=
+able._ac_social_table img { display: inline-block !important; margin: auto =
+!important; width: 32px !important; min-width: 32px !important; max-width: =
+32px !important; }=0A}=0A@media only screen and (max-width: 375px) { #layou=
+t-row1780 img { width: 100% !important; height: auto !important; max-width:=
+ 299px !important; } #layout-row1781 img { width: 100% !important; height: =
+auto !important; max-width: 326px !important; } #layout-row1782 { max-heigh=
+t: 0px!important; font-size: 0px!important; display: none!important; visibi=
+lity: hidden!important; } #layout-row1783 { max-height: 0px!important; font=
+-size: 0px!important; display: none!important; visibility: hidden!important=
+; } .td_rss .rss-item img.iphone_large_image { width: auto !important; } u =
++ .body { display: table !important; width: 100vw !important; min-width: 10=
+0vw !important; } u + .body table { display: table !important; width: 100% =
+!important; min-width: 100% !important; } u + .body td { display: block !im=
+portant; width: 100% !important; min-width: 100% !important; } u + .body im=
+g { display: inline-block !important; margin: auto !important; width: auto =
+!important; vertical-align:=0Abottom !important; } u + .body center { displ=
+ay: block !important; margin: auto !important; width: 100% !important; min-=
+width: 100% !important; text-align: center !important; } u + .body table._a=
+c_social_table, u + .body table._ac_social_table td, u + .body table._ac_so=
+cial_table div, u + .body table._ac_social_table a { display: inline-block =
+!important; margin: auto !important; width: auto !important; min-width: aut=
+o !important; text-align: center !important; } u + .body table._ac_social_t=
+able img { display: inline-block !important; margin: auto !important; width=
+: 32px !important; min-width: 32px !important; max-width: 32px !important; =
+}=0A}=0A@media only screen and (max-width: 414px) { #layout-row1780 img { w=
+idth: 100% !important; height: auto !important; max-width: 299px !important=
+; } #layout-row1781 img { width: 100% !important; height: auto !important; =
+max-width: 326px !important; } #layout-row1782 { max-height: 0px!important;=
+ font-size: 0px!important; display: none!important; visibility: hidden!impo=
+rtant; } #layout-row1783 { max-height: 0px!important; font-size: 0px!import=
+ant; display: none!important; visibility: hidden!important; } .td_rss .rss-=
+item img.iphone_large_image { width: auto !important; } u + .body { display=
+: table !important; width: 100vw !important; min-width: 100vw !important; }=
+ u + .body table { display: table !important; width: 100% !important; min-w=
+idth: 100% !important; } u + .body td { display: block !important; width: 1=
+00% !important; min-width: 100% !important; } u + .body img { display: inli=
+ne-block !important; margin: auto !important; width: auto !important; verti=
+cal-align:=0Abottom !important; } u + .body center { display: block !import=
+ant; margin: auto !important; width: 100% !important; min-width: 100% !impo=
+rtant; text-align: center !important; } u + .body table._ac_social_table, u=
+ + .body table._ac_social_table td, u + .body table._ac_social_table div, u=
+ + .body table._ac_social_table a { display: inline-block !important; margi=
+n: auto !important; width: auto !important; min-width: auto !important; tex=
+t-align: center !important; } u + .body table._ac_social_table img { displa=
+y: inline-block !important; margin: auto !important; width: 32px !important=
+; min-width: 32px !important; max-width: 32px !important; }=0A}=0A@media on=
+ly screen and (max-width: 667px) { #layout-row1780 img { width: 100% !impor=
+tant; height: auto !important; max-width: 299px !important; } #layout-row17=
+81 img { width: 100% !important; height: auto !important; max-width: 326px =
+!important; } #layout-row1782 { max-height: 0px!important; font-size: 0px!i=
+mportant; display: none!important; visibility: hidden!important; } #layout-=
+row1783 { max-height: 0px!important; font-size: 0px!important; display: non=
+e!important; visibility: hidden!important; } .td_rss .rss-item img.iphone_l=
+arge_image { width: auto !important; } u + .body { display: table !importan=
+t; width: 100vw !important; min-width: 100vw !important; } u + .body table =
+{ display: table !important; width: 100% !important; min-width: 100% !impor=
+tant; } u + .body td { display: block !important; width: 100% !important; m=
+in-width: 100% !important; } u + .body img { display: inline-block !importa=
+nt; margin: auto !important; width: auto !important; vertical-align:=0Abott=
+om !important; } u + .body center { display: block !important; margin: auto=
+ !important; width: 100% !important; min-width: 100% !important; text-align=
+: center !important; } u + .body table._ac_social_table, u + .body table._a=
+c_social_table td, u + .body table._ac_social_table div, u + .body table._a=
+c_social_table a { display: inline-block !important; margin: auto !importan=
+t; width: auto !important; min-width: auto !important; text-align: center !=
+important; } u + .body table._ac_social_table img { display: inline-block !=
+important; margin: auto !important; width: 32px !important; min-width: 32px=
+ !important; max-width: 32px !important; }=0A} </style><!--[if !mso]><!-- w=
+ebfonts --><!--<![endif]--><!--[if lt mso 12]> <![endif]--></head><body id=
+=3D"ac-designer" class=3D"body" style=3D"font-family: Arial; line-height: 1=
+.1; margin: 0px; background-color: #FFFFFF; width: 100%; text-align: center=
+;">=09=09<div style=3D"display:none; padding:0; height:1px; font-size:1px; =
+background-color:inherit !important; color:inherit !important; line-height:=
+1px; mso-hide:all;">=0A=09=09=09Brand New Januarary 2020 building and remod=
+eling cost pricing is now available=0A=09=09</div>=0A<div class=3D"divbody"=
+ style=3D"margin: 0px; outline: none; padding: 0px; color: #000000; font-fa=
+mily: arial; line-height: 1.1; width: 100%; background-color: #FFFFFF; back=
+ground: #FFFFFF; text-align: center;"><table class=3D"template-table" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" s=
+tyle=3D"font-size: 14px; min-width: auto; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; background-color: #FFFFFF; background: #FFFFFF;"><tr><td align=
+=3D"center" valign=3D"top" width=3D"100%"><table class=3D"template-table" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"650" bgcolor=3D"#F=
+FFFFF" style=3D"font-size: 14px; min-width: auto; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; max-width: 650px;"><tr><td id=3D"layout_table_690f27eb=
+342d9ebf8e395c2327d2b200755a3320" valign=3D"top" align=3D"center" width=3D"=
+650"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"layou=
+t layout-table root-table" width=3D"650" style=3D"font-size: 14px; min-widt=
+h: 100%; mso-table-lspace: 0pt;=0Amso-table-rspace: 0pt;"><tr><td id=3D"lay=
+out-row-margin1783" valign=3D"top"><table width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr id=3D"layout-row1783" cla=
+ss=3D"layout layout-row widget _widget_spacer "><td id=3D"layout-row-paddin=
+g1783" valign=3D"top"><table width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspa=
+ce: 0pt; mso-table-rspace: 0pt;"><tr><td valign=3D"top" height=3D"25"><div =
+class=3D"spacer" style=3D"margin: 0; outline: none; padding: 0; height: 25p=
+x;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" =
+style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt;"><tr><td class=3D"spacer-body" valign=3D"top" height=3D"25" w=
+idth=3D"650">=C2=A0</td>=0A</tr>=0A</table>=0A</div>=0A</td>=0A</tr>=0A</ta=
+ble>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr id=3D"layout-row1779"=
+ class=3D"layout layout-row clear-this "><td id=3D"layout-row-padding1779" =
+valign=3D"top"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt=
+; mso-table-rspace: 0pt;"><tr><td id=3D"layout_table_8e61edfe1e0aeab775fdb3=
+92199c184817b48e09" valign=3D"top" width=3D"407" style=3D"background-color:=
+ #ffffff;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D=
+"layout layout-table " width=3D"407" style=3D"font-size: 14px; min-width: 1=
+00%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fffff=
+f;"><tr style=3D"background-color: #ffffff;"><td id=3D"layout-row-margin178=
+1" valign=3D"top" style=3D"background-color: #ffffff;"><table width=3D"100%=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px=
+; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr id=3D=
+"layout-row1781" class=3D"layout layout-row widget _widget_picture " align=
+=3D"center"><td id=3D"layout-row-padding1781"=0Avalign=3D"top"><table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-si=
+ze: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><=
+tr><td class=3D"image-td" align=3D"center" valign=3D"top" width=3D"407"><a =
+href=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc079=
+41397252f2f06ed&i=3D63A853A7A483" style=3D"margin: 0; outline: none; paddin=
+g: 0; color: #045FB4; display: block; min-width: 100%;"><img src=3D"https:/=
+/hometechpublishing.imgus11.com/public//09fb821108a6ab352b91104a0aec1442.pn=
+g?r=3D1408715347" alt=3D"" width=3D"326" style=3D"border: none; display: bl=
+ock; outline: none; width: 326px; opacity: 1; max-width: 100%;"></a></td>=
+=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr style=
+=3D"background-color: #ffffff;"><td id=3D"layout-row-margin1777" valign=3D"=
+top" style=3D"padding: 0; background-color: #ffffff;"><table width=3D"100%"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px;=
+ min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-coll=
+apse: initial !important;"><tr id=3D"layout-row1777" class=3D"layout layout=
+-row widget _widget_text style1777" style=3D"margin: 0; padding: 0;"><td id=
+=3D"layout-row-padding1777" valign=3D"top" style=3D"padding: 20px 0px 20px =
+0;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt;"><tr><td id=3D"text_div1566" class=3D"td_text td_block" valig=
+n=3D"top" align=3D"left" width=3D"407" style=3D"line-height: 140%; margin: =
+0; outline: none; padding: 0; color: inherit; font-size: 12px; font-weight:=
+ inherit; line-height: 1.4; text-decoration: inherit; font-family: Arial; m=
+so-line-height-rule: exactly;"> <div=0Astyle=3D"line-height: 140%; margin: =
+0; outline: none; padding: 0; font-size: 15px; line-height: 1.4; mso-line-h=
+eight-rule: exactly;" data-line-height=3D"1.4"> <div style=3D"margin: 0; ou=
+tline: none; padding: 0; color: #000000; font-family: arial; font-style: no=
+rmal; font-weight: 400; text-align: start;"><span style=3D"color: inherit; =
+font-size: inherit; font-weight: normal; line-height: inherit; text-decorat=
+ion: inherit; font-family: arial; font-style: normal;"><br>Our research tea=
+m has just finished compiling the data for the January 2020 LAMI Database. =
+The material and labor pricing that we have gathered are specific for the z=
+ip codes where you work to ensure that you have the most accurate, up-to-da=
+te pricing. The new database is ready to be downloaded to your HomeTech sof=
+tware today!<br><div style=3D"margin: 0; outline: none; padding: 0; text-al=
+ign: center;"><strong style=3D"margin: 0; outline: none; padding: 0;" class=
+=3D"">For Current/Expired ADVANTAGE Software=0AOwners</strong></div>=0A<br>=
+</span><br></div>=0A <div style=3D"margin: 0; outline: none; padding: 0; co=
+lor: #000000; font-family: arial; font-size: 15px; font-style: normal; font=
+-weight: 400; text-align: start;"><span style=3D"color: inherit; font-size:=
+ 15px; font-weight: normal; line-height: inherit; text-decoration: inherit;=
+ font-family: arial; font-style: normal;"><div style=3D"margin: 0; outline:=
+ none; padding: 0; text-align: center;"> If you do not know your serial num=
+ber please contact us at <span style=3D"color: inherit; font-size: 25px; fo=
+nt-weight: inherit; line-height: inherit; text-decoration: inherit;" class=
+=3D"">1-800-240-8210<br></span></div>=0A<br></span><br></div>=0A <br></div>=
+=0A<!--[if (gte mso 12)&(lte mso 15) ]>=0A<style data-ac-keep=3D"true" data=
+-ac-inline=3D"false"> #text_div1566, #text_div1566 div { line-height: 140% =
+!important; };=0A</style>=0A<![endif]--></td>=0A</tr>=0A</table>=0A</td>=0A=
+</tr>=0A</table>=0A</td>=0A</tr>=0A<tr style=3D"background-color: #ffffff;"=
+><td id=3D"layout-row-margin1784" valign=3D"top" style=3D"padding: 5px; bac=
+kground-color: #ffffff;"><table width=3D"100%" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; border-collapse: initial !important;"><t=
+r id=3D"layout-row1784" class=3D"layout layout-row widget _widget_button st=
+yle1784" style=3D"background-color: #030303;"><td id=3D"layout-row-padding1=
+784" valign=3D"top" style=3D"background-color: #030303; padding: 5px;"><tab=
+le width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt;"><tr><td class=3D"td_button td_block customizable" valign=3D"top" ali=
+gn=3D"left" width=3D"387"> <div class=3D"button-wrapper" style=3D"margin: 0=
+; outline: none; padding: 0; text-align: center;">=0A<!--[if mso]> <v:round=
+rect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-micro=
+soft-com:office:word" href=3D"https://hometechpublishing.acemlnd.com/lt.php=
+?s=3D6a484184b36edc07941397252f2f06ed&i=3D63A853A7A484" style=3D"v-text-anc=
+hor:middle; width:407px; height:90px; " arcsize=3D"10%" strokecolor=3D"#B5B=
+5B5" strokeweight=3D"5pt" fillcolor=3D"#ffff42" o:button=3D"true" o:allowin=
+cell=3D"true" o:allowoverlap=3D"false" > <v:textbox inset=3D"2px,2px,2px,2p=
+x"> <center style=3D"color:#000000;font-family:Arial; font-size:18px; line-=
+height: 1.1;">Download your New&nbsp; January 2020 L.A.M.I. Pricing data no=
+w</center> </v:textbox> </v:roundrect>=0A<![endif]--> <a href=3D"https://ho=
+metechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=
+=3D63A853A7A484" style=3D"margin: 0; outline: none; padding: 12px; color: #=
+000000; background-color: #ffff42; border: 5px solid #B5B5B5; border-radius=
+: 3px; font-family: Arial; font-size: 18px; display: inline-block; line-hei=
+ght: 1.1; text-align: center; text-decoration: none; mso-hide: all;"> <span=
+ style=3D"color:#000000;font-family:Arial;font-size:18px;"> Download your N=
+ew=C2=A0 January 2020 L.A.M.I. Pricing data now </span> </a> </div>=0A=0A</=
+td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table=
+>=0A</td>=0A<td id=3D"layout_table_5ea5c2ada92b80a1c04bea32fedcb37ec69f19c7=
+" valign=3D"top" width=3D"25"><table cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" class=3D"layout layout-table " width=3D"25" style=3D"font-size: =
+14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><=
+td id=3D"layout-row-margin1782" valign=3D"top"><table width=3D"100%" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-wi=
+dth: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr id=3D"layout-=
+row1782" class=3D"layout layout-row widget _widget_spacer "><td id=3D"layou=
+t-row-padding1782" valign=3D"top"><table width=3D"100%" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td valign=3D"top" height=
+=3D"377"><div class=3D"spacer" style=3D"margin: 0; outline: none; padding: =
+0; height: 377px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+width=3D"100%" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace:=
+ 0pt;=0Amso-table-rspace: 0pt;"><tr><td class=3D"spacer-body" valign=3D"top=
+" height=3D"377" width=3D"25">=C2=A0</td>=0A</tr>=0A</table>=0A</div>=0A</t=
+d>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=
+=0A</td>=0A<td id=3D"layout_table_5aa964477db3f1dce98fda03d4aedbfbb2720ff6"=
+ valign=3D"top" width=3D"218"><table cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" class=3D"layout layout-table " width=3D"218" style=3D"font-size:=
+ 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr>=
+<td id=3D"layout-row-margin1780" valign=3D"top" style=3D"padding: 0;"><tabl=
+e width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt; border-collapse: initial !important;"><tr id=3D"layout-row1780" class=
+=3D"layout layout-row widget _widget_picture style1780" align=3D"center" st=
+yle=3D""><td id=3D"layout-row-padding1780" valign=3D"top" style=3D"padding:=
+ 0 0 0 0px;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt;"><tr><td class=3D"image-td" align=3D"center" valign=
+=3D"top" width=3D"218"><a=0Ahref=3D"https://hometechpublishing.acemlnd.com/=
+lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D63A853A7A484" style=3D"marg=
+in: 0; outline: none; padding: 0; color: #045FB4; display: block; min-width=
+: 100%;"><img src=3D"https://hometechpublishing.imgus11.com/public//fbf3dee=
+8c67be4abcfe7e47fd788719a.jpg?r=3D546834648" alt=3D"" width=3D"218" style=
+=3D"border: none; display: block; outline: none; width: 218px; opacity: 1; =
+max-width: 100%;"></a></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=
+=0A</td>=0A</tr>=0A<tr><td id=3D"layout-row-margin1778" valign=3D"top" styl=
+e=3D"padding: 0;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; border-collapse: initial !important;"><tr id=3D=
+"layout-row1778" class=3D"layout layout-row widget _widget_text style1778" =
+style=3D"margin: 0; padding: 0; background-color: #ffffff;"><td id=3D"layou=
+t-row-padding1778" valign=3D"top" style=3D"background-color: #ffffff; paddi=
+ng: 20px 0 0 0px;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"text_div1567" class=3D"td_text =
+td_block" valign=3D"top" align=3D"left" width=3D"218" style=3D"line-height:=
+ 140%; margin: 0; outline: none; padding: 0; color: inherit; font-size: 12p=
+x; font-weight: inherit; line-height: 1.4; text-decoration: inherit; font-f=
+amily: Arial; mso-line-height-rule: exactly;"> <div data-line-height=3D"1.4=
+"=0Astyle=3D"line-height: 140%; margin: 0; outline: none; padding: 0; line-=
+height: 1.4; mso-line-height-rule: exactly; font-size: 12px; color: #000000=
+; font-family: arial;"> <span style=3D"color: #000000; font-size: 12px; fon=
+t-weight: 500; line-height: inherit; text-decoration: inherit; font-family:=
+ arial; font-style: normal; text-align: left; margin: 0;"><strong style=3D"=
+margin: 0; outline: none; padding: 0; font-weight: 700; font-size: 12px;">H=
+omeTech is an advanced unit cost estimating software that can produce quick=
+, precise estimates, ready to present to your customer.</strong> You will h=
+ave access to the most current pricing for building materials and labor in =
+your local area, helping to ensure the estimates are as accurate as possibl=
+e. Only HomeTech offers a database this comprehensive. This software is sim=
+ple to use and integrates into your professional building/remodeling compan=
+y with ease.<br></span><br><strong style=3D"margin: 0; outline: none; paddi=
+ng: 0; font-size:=0A12px; color: #000000; font-family: arial; font-style: n=
+ormal; font-weight: 700; text-align: left;">Local Area Cost Data</strong><b=
+r><span style=3D"color: #000000; font-size: 12px; font-weight: 500; line-he=
+ight: inherit; text-decoration: inherit; font-family: arial; font-style: no=
+rmal; text-align: left; margin: 0;">For 50 years HomeTech has provided cont=
+ractors with the most reliable pricing data available. All data is local ar=
+ea specific, by zip code, and is not a national averaging model like other =
+programs use. Our research staff contacts hundreds of your local suppliers =
+to give pin-point accuracy in material costs. We track labor costs for over=
+ 250 different areas of the U.S. and Canada so your rates will be competiti=
+ve with other successful remodelers in your area.</span><br><span style=3D"=
+color: #000000; font-size: 12px; font-weight: 500; line-height: inherit; te=
+xt-decoration: inherit; font-family: arial; font-style: normal; text-align:=
+ left; margin: 0;">Call Us at=0A<span style=3D"color: inherit; font-size: 1=
+4px; font-weight: inherit; line-height: inherit; text-decoration: inherit;"=
+ class=3D"">800-240-8210</span>=C2=A0 today to see how we can help your com=
+pany profit.</span> <br></div>=0A<!--[if (gte mso 12)&(lte mso 15) ]>=0A<st=
+yle data-ac-keep=3D"true" data-ac-inline=3D"false"> #text_div1567, #text_di=
+v1567 div { line-height: 140% !important; };=0A</style>=0A<![endif]--></td>=
+=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=
+=3D"layout-row-margin1785" valign=3D"top" style=3D"padding: 5px;"><table wi=
+dth=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font=
+-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ border-collapse: initial !important;"><tr id=3D"layout-row1785" class=3D"l=
+ayout layout-row widget _widget_button style1785" style=3D""><td id=3D"layo=
+ut-row-padding1785" valign=3D"top" style=3D"padding: 5px;"><table width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: =
+14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><=
+td class=3D"td_button td_block customizable" valign=3D"top" align=3D"left" =
+width=3D"198"> <div class=3D"button-wrapper" style=3D"margin: 0; outline: n=
+one; padding: 0; text-align: center;">=0A<!--[if mso]> <v:roundrect xmlns:v=
+=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:off=
+ice:word" href=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a48418=
+4b36edc07941397252f2f06ed&i=3D63A853A7A485" style=3D"v-text-anchor:middle; =
+width:135px; height:62px; " arcsize=3D"10%" strokecolor=3D"#B5B5B5" strokew=
+eight=3D"1pt" fillcolor=3D"#ff9742" o:button=3D"true" o:allowincell=3D"true=
+" o:allowoverlap=3D"false" > <v:textbox inset=3D"2px,2px,2px,2px"> <center =
+style=3D"color:#000000;font-family:Arial; font-size:16px; line-height: 1.1;=
+">Order today!</center> </v:textbox> </v:roundrect>=0A<![endif]--> <a href=
+=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc0794139=
+7252f2f06ed&i=3D63A853A7A485" style=3D"margin: 0; outline: none; padding: 1=
+2px; color: #000000; background-color: #ff9742; border: 1px solid #B5B5B5; =
+border-radius: 3px; font-family: Arial; font-size: 16px; display: inline-bl=
+ock; line-height: 1.1; text-align: center; text-decoration: none; mso-hide:=
+ all;"> <span style=3D"color:#000000;font-family:Arial;font-size:16px;"> Or=
+der today! </span> </a> </div>=0A=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr=
+>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=
+=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=
+=0A</div>=0A<img src=3D"https://hometechpublishing.acemlnd.com/lt.php?nl=3D=
+7&c=3D63&m=3D853&s=3D6a484184b36edc07941397252f2f06ed&l=3Dopen" border=3D"0=
+" width=3D"1" height=3D"1" style=3D"display:block;width:1px!important;min-w=
+idth:1px!important;max-width:1px!important;height:1px!important;border:0;ov=
+erflow:hidden;" /><br /><div id=3D"ac-footer" style=3D"clear:both;backgroun=
+d-color:inherit;background:inherit;min-width:100%;mso-table-lspace:0pt;mso-=
+table-rspace:0pt;padding:20px;color:#000000;font-size:11px;font-family:aria=
+l,helvetica,sans-serif;line-height:140%;line-height:1.4;text-align:center;b=
+ox-sizing:border-box;">=0A=09<center>=0A=09=09Sent to: <span style=3D"font-=
+size:11px;font-family:arial,helvetica,sans-serif;font-weight:normal;text-de=
+coration:none;outline:none;">bruce@untroubled.org</span>=0A=09=09<br>=0A=09=
+=09<br>=0A=09=09<a href=3D"http://hometechpublishing.acemlnd.com/proc.php?n=
+l=3D7&c=3D63&m=3D853&s=3D6a484184b36edc07941397252f2f06ed&act=3Dunsub" styl=
+e=3D"font-size:11px;font-family:arial,helvetica,sans-serif;font-weight:bold=
+;text-decoration:underline;"><span style=3D"font-weight:bold;text-decoratio=
+n:underline;">Unsubscribe</span></a>=0A=09=09<br>=0A=09=09<br> HomeTech Sys=
+tems LLC, 5850 waterloo road, #140, Columbia, MD 21045, United States=0A=09=
+</center>=0A</div>=0A<br clear=3D"all" /></body>=0A</html>
+--_=_swift-11874250105e13bb5bac8d08.07143844_=_--
+

@@ -1,0 +1,640 @@
+Return-Path: <SRS0=NvzIMx=3K=email.flexjobs.com=bounces+15025-f448-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 29512 invoked from network); 21 Jan 2020 17:50:26 -0000
+Received: (qmail 19622 invoked from network); 21 Jan 2020 17:50:25 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Jan 2020 17:50:25 -0000
+Received: (qmail 30210 invoked by uid 48516); 21 Jan 2020 17:50:25 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 25600 invoked from network); 21 Jan 2020 17:50:25 -0000
+Received: from o2.email.flexjobs.com (o2.email.flexjobs.com [192.254.118.76])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 21 Jan 2020 17:50:25 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=flexjobs.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=s1; bh=5j8rXjymrdeCQfp72s4tPq817kNx4NL1EOFjjJW7TUo=; b=VGOXnuP
+	uGM0vAQDqh/VIwozw/I0CNrMaOOV3mdCS3RiRjQRSplmSRsYRDaa8+xfFO9j+OPf
+	Kr2JjH8h89FULFEVRScBEJyDrxlATdyWr59vXfPzZ4QbudTPC8x5tg9AilgRTpbC
+	wC08FdS12PWflkS+jHtguZIHgC0HLiPscbN8=
+Content-Type: multipart/alternative; boundary=7451600571eb921fbc479233340e66cb7eaa4a0689c0c5edda2bed0650c9
+Date: Tue, 21 Jan 2020 17:50:22 +0000 (UTC)
+From: "FlexJobs Special Offer" <feedback@flexjobs.com>
+Mime-Version: 1.0
+Reply-to: feedback@flexjobs.com
+Subject: Want to Learn More About Your Life Insurance Options? Join Our Free Webinar and Q&A This Thursday!
+To: bruce@untroubled.org
+Message-ID: <aQnPTz8tQVq5NxARCk-_4g@ismtpd0078p1mdw1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@email.flexjobs.com?subject=http://elink.flexjobs.com/asm/unsubscribe/*q*user_id=15025*a*data=DfpL62mnACkfs6ps0WKQS16NxUIPyS8tPfp_Rrid0gX76qgj1NQjQhkLMzvukEKkxXMf7VlGXeJJ-cGkfSHHvtDG5TSvaZMVvQTFVR2f1_dvWSTzW-z3CokGCKzgW-InkEoxcYNieMiUIj_NftdZqq2TPzvLo4hnjX-rKuMDXzuE-Cd56FkfSBrPmN59sbpqPXlRohN1bQol98XhzWZgKmZFoGrqCu1-AKOhKurLLkCZVoe0RkhOcpML5AuxnAZoVcukUFGq1aLsDCCQ1t0bAQ51M4ZpmIdO7Shlg9Co8Mgs4fsj1N3HBPDTcnpTRyaSQJiH66GRrPK_lBz43W0H4DESZpuA4brGCa8MsyjuU0a-Mm6SGyJvwxm0URU-LiFO-0pAj0hrcO0nHzw-A3oULYJdbFCDZYCWAHA-sHYvHooxCedGSOiuSEH1pZcJJvUUfQghLo_lUgK9Sl6ozybr8lrjQjFrKqoiX-2ADmBgARYcNtlUIAoLJVDCQFKuE2JRoQmiO8U8N24mGxm5ESuJ79jY-zFBCkucAxDZWZ9HqsRlAoMk3V0wRImjWHg3Jnvxucp74-NiEMMwqNP8aO53I6HN83IJkYeDdpVykpqBMvjnP44M1dG_NnwInnkruoKf>
+X-SG-EID: eWf0Lwp+ejwMdn7+NnIwhz1E98lw+69+RqfdBMsNrlJGssyD6zyooagXq/3t+U1uv6np9UXgevRHnY
+ mcMSOKBYwM7OS6O1oY8dM1jFCKJc3TWFWXEylwiV/IMoui9H6JNg0IChdYiQW7IHw7Ar37bz+N7d8H
+ Rr54OpwD+xMSJG9udImQI2XnCKARZpQKbJjT24zxNgDffkE0wEwf2ynQao0rTCl/Bo/W5U0NS+yNTe
+ xfVNQybHzIj2jqTk7Vj8HD
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP2wty6lsWB1sKQYGn2beRB8tju0TdZBy2+irX
+ 7T1DtIBiZV/P8pQKTDsLR1hNV+act5P/btjo0jrZAzSDz7fblfpPmz1cWBZ6U8Yj70A66a9IiMgMOy
+ y5sZrYqxZonJpBFVbGEvPq1wvHndKReYWqLbzmWeBphbfeRasA4ODfmIdKLUguxLqM24dMMvnnTBvr
+ QF3DXneUsFcjVej1ZQy5tk
+Content-Length: 25783
+
+--7451600571eb921fbc479233340e66cb7eaa4a0689c0c5edda2bed0650c9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Join Us for a Webinar to Learn About Your Life Insurance Options
+
+Email not displaying correctly? View it https://sg-mktg.com/MTU3OTYyOTAwOHx=
+XZFNCRHQ1dUo4T3VKNmROU2hsbk9XVWxHVGttd2N0SmVXcFFTM2k0cWcyX3Vhb2IxWkpsS0FpQT=
+R6cWhzbVBiTlh2c0YwaDRucVhCMU1Uc25DN2JTelZaVGxack5sN1BRQjBKWnpWNXdsVjRhLU5QU=
+Fh5SUpwNUpTckkwaGtjVWF5Wk9kWnJzZEtKZ2xfdHdnNHRpLVRld3VZbDNQUVlORHFsTFA1ajhY=
+ZTZRTTQzN013ZU1wbGI1bnZtNjlpUzNzbjlRXzhHRldoZ1JrNHNlbVZSVjNUeTI5cnpWajhaaWc=
+0TnF5SkRQWENSVWtETkV1YjA0R3RScmtFN1dKNF8tfKsNrZffdm27DPNEWWia66j2gKmb0lDbSU=
+36VB381aKv?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=3Dem=
+ail in your browser.
+
+https://www.flexjobs.com/blog/post/life-insurance-flexible-worker/?utm_camp=
+aign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=3Demail
+
+Join Us for a Free Webinar to Learn About Life Insurance
+
+While many employers do offer their employees access to group life insuranc=
+e, there are many others--as well as freelancers--who do not receive this b=
+enefit.
+
+So, what are the options for flexible workers who don't have employer-provi=
+ded life insurance?=C2=A0
+
+FlexJobs is partnering with the=C2=A0experts at Assurance https://assurance=
+.com/landing/flexjobs-life?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com=
+&utm_medium=3Demail to host a webinar=C2=A0during which Assurance will focu=
+s on helping you understand the basics of life insurance, including differe=
+nt types of policies, what they cover, and what you should consider when bu=
+ying an individual life insurance policy.=C2=A0
+
+Who Should Attend: Anyone interested in learning about life insurance optio=
+ns
+
+Open Invitation: You are welcome to forward this email to friends, colleagu=
+es, or family members who might be interested as well.=C2=A0
+
+When:=C2=A0This Thursday, January 23rd at 2 PM EST.=C2=A0
+
+To register for the webinar, please click the button below:
+
+(PRIVACY NOTE: Your name and email will NOT be shared with Assurance by att=
+ending this webinar.)
+
+Find Out More and Register for This Webinar and Q&A! > https://zoom.us/webi=
+nar/register/WN_xLCXdBCFQS2b1xAMpzqg0Q?utm_campaign=3Dwebsite&utm_source=3D=
+sendgrid.com&utm_medium=3Demail
+
+Unsubscribe http://elink.flexjobs.com/asm/unsubscribe/?user_id=3D15025&data=
+=3DDfpL62mnACkfs6ps0WKQS16NxUIPyS8tPfp_Rrid0gX76qgj1NQjQhkLMzvukEKkxXMf7VlG=
+XeJJ-cGkfSHHvtDG5TSvaZMVvQTFVR2f1_dvWSTzW-z3CokGCKzgW-InkEoxcYNieMiUIj_Nftd=
+Zqq2TPzvLo4hnjX-rKuMDXzuE-Cd56FkfSBrPmN59sbpqPXlRohN1bQol98XhzWZgKmZFoGrqCu=
+1-AKOhKurLLkCZVoe0RkhOcpML5AuxnAZoVcukUFGq1aLsDCCQ1t0bAQ51M4ZpmIdO7Shlg9Co8=
+Mgs4fsj1N3HBPDTcnpTRyaSQJiH66GRrPK_lBz43W0H4DESZpuA4brGCa8MsyjuU0a-Mm6SGyJv=
+wxm0URU-LiFO-0pAj0hrcO0nHzw-A3oULYJdbFCDZYCWAHA-sHYvHooxCedGSOiuSEH1pZcJJvU=
+UfQghLo_lUgK9Sl6ozybr8lrjQjFrKqoiX-2ADmBgARYcNtlUIAoLJVDCQFKuE2JRoQmiO8U8N2=
+4mGxm5ESuJ79jY-zFBCkucAxDZWZ9HqsRlAoMk3V0wRImjWHg3Jnvxucp74-NiEMMwqNP8aO53I=
+6HN83IJkYeDdpVykpqBMvjnP44M1dG_NnwInnkruoKf | Update Preferences http://eli=
+nk.flexjobs.com/asm/?user_id=3D15025&data=3DSvGh6raUtFqDNHixkztoJ2R6qk3lEIb=
+RgjAo0mtxlJl-byWfgmA7zEQHFZENZI3ORjA1PXSdWcDqm8Z0n0Ekl_1KpkKW2etMYVlibxpk1A=
+_eKaIIReiTrIEhEPTWOs9GIzSdjNZMUwmWyWmsrJ35_N_Ntk40G7Se6P2wG5_aNUynw6BTmai_8=
+PqbMeyOk0mgw1WYCOKmzGjpZ8WXiXapeJCK2x0kNShQ6Ry_HN6DWpQCyLTi8FxZIM0b6vpRras4=
+ywZFHpKECcYXFx2ij8XbFioPmO6UN7505VPJpPg3ReS-PI7WQYG2poubDeNu4YIRR4xvSOtU-DN=
+t8u4t_Q11_Okr6UKJL_cc-bNlPhoJb4S9mb-IKLrGCNGv5jJLfEA88rXonB9e1f9zwUQD-Piyjh=
+K9fNhOlaIc0VOas39KpF7WxeZLa4Q1iDsYUAN9TVdjWq-eNIM5m6AYYgAozXRk8i2QYcaoZUFXR=
+Jn_OBr56TzZA94KB5azB4oCBAh4ZOEOZ1IRofq9HTQjgETJDaXUUskbtkQM-DgdHJQIXgckkf5U=
+Iu2urBmM3Uzg-HTQzlJLdzh0NFG7eqiHNhf1RMSmoFTdi-ySPyYxbnnAFPQuBKg=3D
+
+FlexJobs Special Offer
+ 4845 Pearl East Circle,  Suite 101 #23790
+ Boulder, CO 80301-6113=
+
+--7451600571eb921fbc479233340e66cb7eaa4a0689c0c5edda2bed0650c9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version=3D"2" class=3D"sg-campaigns" xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, minimum-scale=3D1, maximum-scale=3D1" /><!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge" /><!--<![end=
+if]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <style type=3D"text/css">
+      body {width: 600px;margin: 0 auto;}
+      table {border-collapse: collapse;}
+      table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img {-ms-interpolation-mode: bicubic;}
+    </style>
+    <![endif]-->
+
+    <style type=3D"text/css">
+      body, p, div {
+        font-family: arial;
+        font-size: 14px;
+      }
+      body {
+        color: #626262;
+      }
+      body a {
+        color: #0088cd;
+        text-decoration: none;
+      }
+      p { margin: 0; padding: 0; }
+      table.wrapper {
+        width:100% !important;
+        table-layout: fixed;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      img.max-width {
+        max-width: 100% !important;
+      }
+      .column.of-2 {
+        width: 50%;
+      }
+      .column.of-3 {
+        width: 33.333%;
+      }
+      .column.of-4 {
+        width: 25%;
+      }
+      @media screen and (max-width:480px) {
+        .preheader .rightColumnContent,
+        .footer .rightColumnContent {
+            text-align: left !important;
+        }
+        .preheader .rightColumnContent div,
+        .preheader .rightColumnContent span,
+        .footer .rightColumnContent div,
+        .footer .rightColumnContent span {
+          text-align: left !important;
+        }
+        .preheader .rightColumnContent,
+        .preheader .leftColumnContent {
+          font-size: 80% !important;
+          padding: 5px 0;
+        }
+        table.wrapper-mobile {
+          width: 100% !important;
+          table-layout: fixed;
+        }
+        img.max-width {
+          height: auto !important;
+          max-width: 480px !important;
+        }
+        a.bulletproof-button {
+          display: block !important;
+          width: auto !important;
+          font-size: 80%;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        .columns {
+          width: 100% !important;
+        }
+        .column {
+          display: block !important;
+          width: 100% !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+        }
+      }
+    </style>
+    <!--user entered Head Start-->
+=20=20=20=20
+     <!--End Head user entered-->
+  </head>
+  <body>
+    <center class=3D"wrapper" data-link-color=3D"#0088cd" data-body-style=
+=3D"font-size: 14px; font-family: arial; color: #626262; background-color: =
+#F4F4F4;">
+      <div class=3D"webkit">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" class=3D"wrapper" bgcolor=3D"#F4F4F4">
+          <tr>
+            <td valign=3D"top" bgcolor=3D"#F4F4F4" width=3D"100%">
+              <table width=3D"100%" role=3D"content-container" class=3D"out=
+er" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                <tr>
+                  <td width=3D"100%">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td>
+                          <!--[if mso]>
+                          <center>
+                          <table><tr><td width=3D"600">
+                          <![endif]-->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"width: 100%; max-width:600px;" align=3D"cent=
+er">
+                            <tr>
+                              <td role=3D"modules-container" style=3D"paddi=
+ng: 0px 0px 0px 0px; color: #626262; text-align: left;" bgcolor=3D"#F4F4F4"=
+ width=3D"100%" align=3D"left">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+    <table class=3D"module preheader preheader-hide" role=3D"module" data-t=
+ype=3D"preheader" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%"
+           style=3D"display: none !important; mso-hide: all; visibility: hi=
+dden; opacity: 0; color: transparent; height: 0; width: 0;">
+      <tr>
+        <td role=3D"module-content">
+          <p>Join Us for a Webinar to Learn About Your Life Insurance Optio=
+ns</p>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"text-align: right;"><span style=3D"font-family:ve=
+rdana,geneva,sans-serif;"><span style=3D"font-size:10px;">Email not display=
+ing correctly? <a clicktracking=3Doff href=3D"https://sg-mktg.com/MTU3OTYyO=
+TAwOHxXZFNCRHQ1dUo4T3VKNmROU2hsbk9XVWxHVGttd2N0SmVXcFFTM2k0cWcyX3Vhb2IxWkps=
+S0FpQTR6cWhzbVBiTlh2c0YwaDRucVhCMU1Uc25DN2JTelZaVGxack5sN1BRQjBKWnpWNXdsVjR=
+hLU5QUFh5SUpwNUpTckkwaGtjVWF5Wk9kWnJzZEtKZ2xfdHdnNHRpLVRld3VZbDNQUVlORHFsTF=
+A1ajhYZTZRTTQzN013ZU1wbGI1bnZtNjlpUzNzbjlRXzhHRldoZ1JrNHNlbVZSVjNUeTI5cnpWa=
+jhaaWc0TnF5SkRQWENSVWtETkV1YjA0R3RScmtFN1dKNF8tfKsNrZffdm27DPNEWWia66j2gKmb=
+0lDbSU36VB381aKv">View it</a> in your browser.</span></span>
+                                                      </div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;background-color:#F4F4F=
+4;padding:34px 0px 34px 0px;" valign=3D"top" align=3D"center">
+          <img class=3D"max-width" width=3D"150" src=3D"https://marketing-i=
+mage-production.s3.amazonaws.com/uploads/f834bbdec83a5f5360931516e57de4baef=
+463879bd32c887c9f2e48881bcc4a8cbecfedd4a3c0e4120a05c6955827e6c355d800b63707=
+b89a1e2511f073dae93.png" alt=3D"" border=3D"0" style=3D"display:block;color=
+:#000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-si=
+ze:16px;max-width:25% !important;width:25%;height:auto !important;">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;background-color:#FFFFF=
+F;padding:0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+          <a href=3D"http://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L=
+-2FR833mPHwpioX12mOcr48XDzlyPSUI9SiEC3CQa9U3Tyr-2BHnQGDALsFkfr5Z800rnmN-2FM=
+N8IR5D7pUqGcILzRqzxBe1uNaU8mgXLXhd0IccT-2Bq5WtzD1hxm1z-2F2btkaw5TFZVEvUW01W=
+XefqxusjOSq036txEThJ9BeOarneN-2Bf3ym-2FPHLI_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r=
+802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW=
+4qR0lcFv28qgIESs6M1To1Aeb0b9GJ6MLyk-2BOV1lvHa6efvogTI4fC8vVtuYX6RQK0oMQ-2Bz=
+uDhcO-2BMMHDA3FOVrihhGzPGATntK54RhpXxHmjuZu7fvR3Lsdmuz9A0uaWQ1GFzTNFxVjjodA=
+gc7sN4WhD0lXgkWaZxjSyX5QmKNurf3SZTJvEQZreHvmUsRB0NefRXdyEp2WVrdn-2BfcP7Dc7n=
+9xv8VlpvasHEthaOqC1BLV8nv54EJznOi1WsxcWxwaBTYOg4dWlGnNkPNduoVIh1up6eUEguj5O=
+cB4TTekqynZcfbPn6FpFUGd8cKOg4yUtEn87vdSpjbK28QUe3kO9vhdh03iYOnBUKbxizo0ZztA=
+gvNvpB-2Bk4dYWm-2BjNCRdlU6nUv6Xw-3D"><img class=3D"max-width" width=3D"600"=
+ src=3D"https://marketing-image-production.s3.amazonaws.com/uploads/0a7a975=
+9e99ce6f70f2a7112fa809eb2e339274756abd4dfa0ba0ead9f048a415b36047de1810604df=
+c2195c8b89d7d1f820f208356d522438f1783c50a6faf2.png" alt=3D"Join Us for a Fr=
+ee Webinar to Learn About Your Life Insurance Options" border=3D"0" style=
+=3D"display:block;color:#000;text-decoration:none;font-family:Helvetica, ar=
+ial, sans-serif;font-size:16px;max-width:100% !important;width:100%;height:=
+auto !important;"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:34px 23px 34px 23px;background-color:#ffffff;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <h2><span style=3D"color:#000000;">Join Us for a Free Webinar t=
+o Learn About Life Insurance</span></h2>
+
+<div>While many employers do offer their employees access to group life ins=
+urance, there are many others--as well as freelancers--who do not receive t=
+his benefit.</div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"color:#FF8C00;"><strong>So, what are the options for fl=
+exible workers who don&#39;t have employer-provided life insurance?&nbsp;</=
+strong></span></div>
+
+<div>&nbsp;</div>
+
+<div>FlexJobs is partnering with the&nbsp;<a href=3D"http://elink.flexjobs.=
+com/wf/click?upn=3DcBmJoEsiwXg8GWFzGMkLEIZoJHlXZbohRZwuqYextGq4r3vo23JV6CgI=
+pjZ35xRYtiy2OPOgjYuo7KhNS2hzzc5X70Q6-2BQXwSsTKr-2FVo7dlouwJGeRY3TMrpPemY-2B=
+hvLBa6SdEFyNmp2umnyn-2B2Z3g-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f=
+-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28=
+qgIESs6M1To1Aeb0b9GJ6MLyk-2BOV1lvHa6efvogTI4fC8vVtuYX6RQK0oMQ-2BzuDhcO-2BMM=
+HDA3FOVrihhGzPGATntK54RhpXxHmjuZu7fvR3Lsdmuz9A0uaWQ1GFzTNFxVjjodAgc7sN4WhD0=
+lXgkWaYSrmbUEeyPeoFLm41RUvWzT2Ae5h9hZFTD-2BIbSj9mobQFlC05qBJUuiS8Fqyxmv3W8C=
+NZaSgXXyJOPtQMMnzsiC5JGxGGTN6QBG-2BBvnrpQaWfCYGyLJxV5Yg-2BoCop7PIgPLOTb22g6=
+b3BMjl1rmAPhxS20MQa0b-2B2Pnf1QcTXwi0sfLH4z0Q96TTWfsfWzYSXKGLk3PgPZ6yriNwD2F=
+LgCCCIfPXbNRFECqMnXO6V4s-3D"><strong>experts at Assurance</strong></a><stro=
+ng> </strong>to host a webinar&nbsp;during which Assurance will focus on he=
+lping you understand the basics of life insurance, including different type=
+s of policies, what they cover, and what you should consider when buying an=
+ individual life insurance policy.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<ul>
+	<li><span style=3D"color:#FF8C00;"><strong>Who Should Attend</strong>:</sp=
+an> Anyone interested in learning about life insurance options</li>
+</ul>
+
+<div>&nbsp;</div>
+
+<ul>
+	<li><span style=3D"color:#FF8C00;"><strong>Open Invitation: </strong></spa=
+n>You are welcome to forward this email to friends, colleagues, or family m=
+embers who might be interested as well.&nbsp;</li>
+</ul>
+
+<div>&nbsp;</div>
+
+<ul>
+	<li><span style=3D"color:#FF8C00;"><span style=3D"font-weight: 600; backgr=
+ound-image: initial; background-position: initial; background-size: initial=
+; background-repeat: initial; background-attachment: initial; background-or=
+igin: initial; background-clip: initial; font-style: normal; font-variant-l=
+igatures: normal; font-variant-caps: normal; font-family: arial; font-size:=
+ 14px;">When</span><span style=3D"font-family: arial; font-size: 14px; font=
+-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; =
+font-weight: 400;">:</span></span><span style=3D"color: rgb(98, 98, 98); fo=
+nt-family: arial; font-size: 14px; font-style: normal; font-variant-ligatur=
+es: normal; font-variant-caps: normal; font-weight: 400;">&nbsp;This Thursd=
+ay, January 23rd at 2 PM EST.&nbsp;</span></li>
+</ul>
+
+<div>&nbsp;</div>
+
+<div>To register for the webinar, please click the button below:</div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:11px;"><em>(PRIVACY NOTE: Your name and email=
+ will NOT be shared with Assurance by attending this webinar.)</em></span><=
+/div>
+
+        </td>
+      </tr>
+    </table>
+  <table border=3D"0" cellPadding=3D"0" cellSpacing=3D"0" class=3D"module" =
+data-role=3D"module-button" data-type=3D"button" role=3D"module" style=3D"t=
+able-layout:fixed" width=3D"100%"><tbody><tr><td align=3D"center" bgcolor=
+=3D"#ffffff" class=3D"outer-td" style=3D"padding:0px 0px 51px 0px;backgroun=
+d-color:#ffffff"><table border=3D"0" cellPadding=3D"0" cellSpacing=3D"0" cl=
+ass=3D"button-css__deep-table___2OZyb wrapper-mobile" style=3D"text-align:c=
+enter"><tbody><tr><td align=3D"center" bgcolor=3D"#f39005" class=3D"inner-t=
+d" style=3D"-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:=
+0px;font-size:15px;text-align:center;background-color:inherit"><a style=3D"=
+background-color:#f39005;height:px;width:px;font-size:15px;line-height:px;f=
+ont-family:Helvetica, Arial, sans-serif;color:#ffffff;padding:14px 56px 13p=
+x 56px;text-decoration:none;-webkit-border-radius:0px;-moz-border-radius:0p=
+x;border-radius:0px;border:1px solid #32A9D6;display:inline-block;border-co=
+lor:#F39005" href=3D"http://elink.flexjobs.com/wf/click?upn=3DIBSlRGqy2blBf=
+c-2Fa0z8-2FLIyUYI43EivoqpxwTkH8cNgqYQcXtX1yrboFFu6axQtZ1JdD7-2FmpHHAPcW1Qpb=
+JDrHBuBkbjJd8Z1W-2Bc0fSpvc4fhqkH9q9eTm5Gihc-2Bki8oNIQ7x3BS-2F5BfnzmO23XgAE7=
+D07fWtUDnFuPZ2NnRe4g-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl=
+7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28qgIESs6M1T=
+o1Aeb0b9GJ6MLyk-2BOV1lvHa6efvogTI4fC8vVtuYX6RQK0oMQ-2BzuDhcO-2BMMHDA3FOVrih=
+hGzPGATntK54RhpXxHmjuZu7fvR3Lsdmuz9A0uaWQ1GFzTNFxVjjodAgc7sN4WhD0lXgkWafS-2=
+BqPvzgmDk3wiYunsU3yGlEOg9S0QSmlYgU3Fj9DKwTIZ5CAdbd5feBcwOwN6qzlIgOBw2M3kluD=
+R8CADlHxE7osnY5UOzA4HUUVCpeas6kp9pfsaldVqlKtEtEf9fXkW3Jf-2F1leETIqeyMFzDBJ1=
+7O4zfo9KuHb7eD-2FaKiD5xnqo4yYXnX-2By4H1Gz-2Fa4VhGnJ8Wm-2Fv-2FMm-2FpxUMdJ7ac=
+OyLkeBzs7BbaxicjZf4b28-3D" target=3D"_blank">Find Out More and Register for=
+ This Webinar and Q&A! &gt;</a></td></tr></tbody></table></td></tr></tbody>=
+</table>
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 3px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"#32A9D6">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table  border=3D"0"
+            cellpadding=3D"0"
+            cellspacing=3D"0"
+            align=3D"center"
+            width=3D"100%"
+            role=3D"module"
+            data-type=3D"columns"
+            data-version=3D"2"
+            style=3D"padding:48px 34px 17px 34px;background-color:#3276d6;b=
+ox-sizing:border-box;"
+            bgcolor=3D"#3276d6">
+      <tr role=3D'module-content'>
+        <td height=3D"100%" valign=3D"top">
+            <!--[if (gte mso 9)|(IE)]>
+              <center>
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"100%" style=3D"border-spacing:0;border-collapse:collapse;table-layout=
+: fixed;" >
+                  <tr>
+            <![endif]-->
+=20=20=20=20=20=20=20=20=20=20
+    <!--[if (gte mso 9)|(IE)]>
+      <td width=3D"266.000px" valign=3D"top" style=3D"padding: 0px 0px 0px =
+0px;border-collapse: collapse;" >
+    <![endif]-->
+
+    <table  width=3D"266.000"
+            style=3D"width:266.000px;border-spacing:0;border-collapse:colla=
+pse;margin:0px 0px 0px 0px;"
+            cellpadding=3D"0"
+            cellspacing=3D"0"
+            align=3D"left"
+            border=3D"0"
+            bgcolor=3D"#3276d6"
+            class=3D"column column-0 of-2
+                  empty"
+      >
+      <tr>
+        <td style=3D"padding:0px;margin:0px;border-spacing:0;">
+=20=20=20=20=20=20=20=20=20=20=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;background-color:#3276D6;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#3276D6">
+            <div style=3D"font-size: 10px; line-height: 150%; margin: 0px;"=
+>&nbsp;</div>
+                                                      <div style=3D"font-si=
+ze: 10px; line-height: 150%; margin: 0px;">&nbsp;</div>
+                                                      <div style=3D"font-si=
+ze: 10px; line-height: 150%; margin: 0px;"><a href=3D"http://elink.flexjobs=
+.com/asm/unsubscribe/?user_id=3D15025&data=3DDfpL62mnACkfs6ps0WKQS16NxUIPyS=
+8tPfp_Rrid0gX76qgj1NQjQhkLMzvukEKkxXMf7VlGXeJJ-cGkfSHHvtDG5TSvaZMVvQTFVR2f1=
+_dvWSTzW-z3CokGCKzgW-InkEoxcYNieMiUIj_NftdZqq2TPzvLo4hnjX-rKuMDXzuE-Cd56Fkf=
+SBrPmN59sbpqPXlRohN1bQol98XhzWZgKmZFoGrqCu1-AKOhKurLLkCZVoe0RkhOcpML5AuxnAZ=
+oVcukUFGq1aLsDCCQ1t0bAQ51M4ZpmIdO7Shlg9Co8Mgs4fsj1N3HBPDTcnpTRyaSQJiH66GRrP=
+K_lBz43W0H4DESZpuA4brGCa8MsyjuU0a-Mm6SGyJvwxm0URU-LiFO-0pAj0hrcO0nHzw-A3oUL=
+YJdbFCDZYCWAHA-sHYvHooxCedGSOiuSEH1pZcJJvUUfQghLo_lUgK9Sl6ozybr8lrjQjFrKqoi=
+X-2ADmBgARYcNtlUIAoLJVDCQFKuE2JRoQmiO8U8N24mGxm5ESuJ79jY-zFBCkucAxDZWZ9HqsR=
+lAoMk3V0wRImjWHg3Jnvxucp74-NiEMMwqNP8aO53I6HN83IJkYeDdpVykpqBMvjnP44M1dG_Nn=
+wInnkruoKf"><span style=3D"color:#FFFFFF;">Unsubscribe</span></a><span styl=
+e=3D"color:#FFFFFF;"> | </span><a href=3D"http://elink.flexjobs.com/asm/?us=
+er_id=3D15025&data=3DSvGh6raUtFqDNHixkztoJ2R6qk3lEIbRgjAo0mtxlJl-byWfgmA7zE=
+QHFZENZI3ORjA1PXSdWcDqm8Z0n0Ekl_1KpkKW2etMYVlibxpk1A_eKaIIReiTrIEhEPTWOs9GI=
+zSdjNZMUwmWyWmsrJ35_N_Ntk40G7Se6P2wG5_aNUynw6BTmai_8PqbMeyOk0mgw1WYCOKmzGjp=
+Z8WXiXapeJCK2x0kNShQ6Ry_HN6DWpQCyLTi8FxZIM0b6vpRras4ywZFHpKECcYXFx2ij8XbFio=
+PmO6UN7505VPJpPg3ReS-PI7WQYG2poubDeNu4YIRR4xvSOtU-DNt8u4t_Q11_Okr6UKJL_cc-b=
+NlPhoJb4S9mb-IKLrGCNGv5jJLfEA88rXonB9e1f9zwUQD-PiyjhK9fNhOlaIc0VOas39KpF7Wx=
+eZLa4Q1iDsYUAN9TVdjWq-eNIM5m6AYYgAozXRk8i2QYcaoZUFXRJn_OBr56TzZA94KB5azB4oC=
+BAh4ZOEOZ1IRofq9HTQjgETJDaXUUskbtkQM-DgdHJQIXgckkf5UIu2urBmM3Uzg-HTQzlJLdzh=
+0NFG7eqiHNhf1RMSmoFTdi-ySPyYxbnnAFPQuBKg=3D"><span style=3D"color:#FFFFFF;"=
+>Update Preferences</span></a></div>
+        </td>
+      </tr>
+    </table>
+=20=20
+        </td>
+      </tr>
+    </table>
+
+    <!--[if (gte mso 9)|(IE)]>
+      </td>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+      <td width=3D"266.000px" valign=3D"top" style=3D"padding: 0px 0px 0px =
+0px;border-collapse: collapse;" >
+    <![endif]-->
+
+    <table  width=3D"266.000"
+            style=3D"width:266.000px;border-spacing:0;border-collapse:colla=
+pse;margin:0px 0px 0px 0px;"
+            cellpadding=3D"0"
+            cellspacing=3D"0"
+            align=3D"left"
+            border=3D"0"
+            bgcolor=3D"#3276d6"
+            class=3D"column column-1 of-2
+                  empty"
+      >
+      <tr>
+        <td style=3D"padding:0px;margin:0px;border-spacing:0;">
+=20=20=20=20=20=20=20=20=20=20=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;background-color:#3276D6;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#3276D6">
+            <div style=3D"font-size: 10px; line-height: 150%; margin: 0px; =
+text-align: right;"><span style=3D"color:#ffffff;">FlexJobs Special Offer</=
+span></div>
+                                                      <div style=3D"font-si=
+ze: 10px; line-height: 150%; margin: 0px; text-align: right;"><span style=
+=3D"color:#ffffff;">4845 Pearl East Circle,  Suite 101 #23790</span></div>
+                                                      <div style=3D"font-si=
+ze: 10px; line-height: 150%; margin: 0px; text-align: right;"><span style=
+=3D"color:#ffffff;">Boulder, CO 80301-6113</span></div>
+        </td>
+      </tr>
+    </table>
+=20=20
+        </td>
+      </tr>
+    </table>
+
+    <!--[if (gte mso 9)|(IE)]>
+      </td>
+    <![endif]-->
+            <!--[if (gte mso 9)|(IE)]>
+                  <tr>
+                </table>
+              </center>
+            <![endif]-->
+        </td>
+      </tr>
+    </table>
+=20=20
+                              </td>
+                            </tr>
+                          </table>
+                          <!--[if mso]>
+                          </td></tr></table>
+                          </center>
+                          <![endif]-->
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </center>
+=20=20
+<img src=3D"http://elink.flexjobs.com/wf/open?upn=3D95ipHO-2FHtfiEGxEkeDVC7=
+m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1=
+GVtpX0CW4qR0lcFv28qgIESs6M1To1Aeb0b9GJ6MLyk-2BOV1lvHa6efvogTI4fC8vVtuYX6RQK=
+0oMQ-2BzuDhcO-2BMMHDA3FOVrihhGzPGATntK54RhpXxHmjuZu7fvR3Lsdmuz9A0uaWQ1GFzTN=
+FxVjjodAgc7sN4WhD0lXgkWa6OYctmrset7DLolhx9vd7j3-2Fel8Ydw0vNKAKcfT0HTrruyn-2=
+FqxPi2DqIkX85aY98ahU4jo-2F98fxNLgfTsP2ux0Kkmz-2FTA4Vvn4PwUj6uH9omqVo0DFb58R=
+f08KD7u6O7V7yentwAR1Ivy5tMhwQVk9B-2FGK6FL0F-2FzFO0qPRLhrGQI67juoy58NJa5MP1Z=
+Hl4O-2F5Cuehjk3FvWykWKoovC2nmqvW-2BDdmRLPyMGBsqNfBxo7hyIy-2BGO6aAVbyDplGZ" =
+alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !importa=
+nt;width:1px !important;border-width:0 !important;margin-top:0 !important;m=
+argin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importan=
+t;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !imp=
+ortant;padding-left:0 !important;"/>
+</body>
+</html>
+
+--7451600571eb921fbc479233340e66cb7eaa4a0689c0c5edda2bed0650c9--

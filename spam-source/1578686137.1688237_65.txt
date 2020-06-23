@@ -1,0 +1,106 @@
+Return-Path: <SRS0=eOnM7q=27=mail.startmatual.bid=6162-10318-15593-1652-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 9608 invoked from network); 10 Jan 2020 13:55:37 -0000
+Received: (qmail 6560 invoked from network); 10 Jan 2020 13:55:37 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 13:55:37 -0000
+Received: (qmail 3523 invoked by uid 48516); 10 Jan 2020 13:55:36 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20139 invoked from network); 10 Jan 2020 13:55:36 -0000
+Received: from irving.startmatual.bid (client-192-236-154-174.hostwindsdns.com [192.236.154.174])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 10 Jan 2020 13:55:28 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=startmatual.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=ChildRisk@startmatual.bid;
+ bh=ug44/1gXtmAoovXW1zQOdgk89tc=;
+ b=q1cGFTR9099U4/9lpnArxu+pjcA97aGCwkebvuFy86ov5RSphSHuBvpPtvTO0NXhGP8OCRVWlyeT
+   plr1Ulqjan6rvgpikZ2D0M50Lsp+WVU5vvNQcA04i+l/oPU2LySC2LHdWgmjp3z4Bl2YKUPu92Lo
+   2o9j9rUgB7IOshbyIKM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=startmatual.bid;
+ b=cOq8MWXHdixDPgKWMZr8DD5flYJMa6Yl+ImAqMxfXMrJGdHTdYMseKlJBNmrQnl5B1Yt5ThA3SgS
+   9xFan5H0sGfraFpMyAbomot4lb2PAYCvldOPYGbwEzkqKrxXPDvTpBoBV0hX54nbwrNtS/JKol3H
+   2zEnCg92fasjPCpuyE0=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="70241e852fdedc7039353e4f4165eb04_284e_3ce9"
+Date: Fri, 10 Jan 2020 08:55:10 -0500
+From: "Quick question" <ChildRisk@startmatual.bid>
+Reply-To: "Quick question" <ChildRisk@startmatual.bid>
+Subject: Open up...
+To: <bruce@untroubled.org>
+Message-ID: <6b7wjan6vhhfvtlu-qqt4bnyckdbx2vjr-284e-3ce9@startmatual.bid>
+Content-Length: 8018
+
+--70241e852fdedc7039353e4f4165eb04_284e_3ce9
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Open up...
+
+http://startmatual.bid/4MXgKHpBCbkx72iVEWdo-dew7tTVgRZW-V9Y4X-YbEfKE74
+
+http://startmatual.bid/GGrJ7CfDvBNVffM2VGUZ6b-DuVkakZ8GJ2U6ljSoUDwi6Q
+
+Kitanuman is an extremely dangerous green-coloured creature completely made from germs and is also one of the servants of tamraj kilvish. Thousands of years ago, Shri Satya turned him into a statue and later he gets freed from the statue and spreads germs so badly and turn each and every child of the world into old men. Kitanuman was one of the most dangerous and difficult devil to defeat for Shaktimaan and had a really tough time with him. However, later Shaktimaan kill him using his own germs. Later when Shaktimaan defeats and burns him in space, unknown to Shaktimaan his germs do not completely finish and are left in space. A space guard Sheena, while coming towards the earth sees and take the germs and store them in a protective jar and later along with another space guard Mr. Subkar they try to kill germs, but Dr. Jackal comes and injure them and takes the germs. He again brings kitanuman back to life, but later Shaktimaan freeze Dr. Jackal, Nadia (his assistant), Kitanuman, along with 3 dangerous criminals of space and sentence them in the Inter-Galactic Prison (A prison made in galaxy near the sun made by the space guards Mr. Subkar and Sheena).
+
+Wolfa
+
+An extremely dangerous humanoid clone created by Dr. Jackal. She was made by combining genetic material of a human, a snake and wolf. She is the only clone with three animal attributes. Her MO is to attract a person towards her and then kill them instantly by touch, and subsequently drink their blood. Later Shaktimaan kills her.
+
+Pretolla
+
+Like Tamraj Kilvish he has also lived more 6000 years and is a ghost-like creature he is extremely dangerous and when he gets hungry he eats away the body of the whole world and make them ghosts, he gets hungry very often once in 1000 years. 6000 years ago when he was in space Shri Satya created a protective coating around the earth, because of which he couldn't enter the earth for 6000 years. The protective coating could be broken by Shri Satya only or his rebirth Shaktimaan which was impossible, but Tamraj Kilvish controlled Shaktimaan's brain with the power of smashed divya mani and Shaktimaan broke the coating and allowed Pretolla to enter the earth as soon as he entered he turned half of the people of earth in ghosts as Tamraj Kilvish had only the half part of Shaktipunja (Pap Punja). Tamraj Kilvish sends his men to find the remaining part of Shaktipunja whereas Shaktimaan travels time in different time zone along with Geeta and Dwijj to collect 8 chakras and save the world. Later, Shaktimaan is successful in collecting 8 chakras of life from different time zones and save the world and Pretolla is sent out of earth and the protective coating is again made.
+
+--70241e852fdedc7039353e4f4165eb04_284e_3ce9
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://startmatual.bid/NY0UC6Y6YY9aT2QcJkknuCwqIwziuqU8hVfUa16BaRHk9DLi"><img src="http://startmatual.bid/41447b9c92cd3ad52f.jpg" /><img height="1" src="http://www.startmatual.bid/05AgNkh5K6LpaB7LF8aACegbaDhLawLeM8sLhPgnnlUJD4NJ" width="1" /></a>
+<div style="font-family:Arial;width:500px;padding:10px;">Hi<br />
+<br />
+As a parent, I&#39;m pretty sure this directly affects YOU.<br />
+<br />
+It&#39;s a <a href="http://startmatual.bid/4MXgKHpBCbkx72iVEWdo-dew7tTVgRZW-V9Y4X-YbEfKE74">new video</a> that shows you just how bad our children are reading their first few years in school<br />
+<br />
+and what you can do with your child right now to easily have them reading better than all other children their age<br />
+<br />
+This even works for children as young as 2, with zero knowledge of the alphabet whatsoever.<br />
+<br />
+Plus, you&#39;ll also see...<br />
+<br />
+How to have them excel at reading early even if they currently show zero interest?<br />
+<br />
+What NEVER to do if you want your child to succeed in school?<br />
+<br />
+?Why everything you&#39;ve ever learned about reading yourself as a child is now dead wrong, and <a href="http://startmatual.bid/4MXgKHpBCbkx72iVEWdo-dew7tTVgRZW-V9Y4X-YbEfKE74"><b>what your child should be doing instead</b></a><br />
+<br />
+You can <a href="http://startmatual.bid/4MXgKHpBCbkx72iVEWdo-dew7tTVgRZW-V9Y4X-YbEfKE74"><b>get it here, now.</b></a><br />
+<br />
+Enjoy,<br />
+<br />
+Veronica<br />
+<br />
+<strong>P.S.</strong> In case you skip to the PS (like me),<br />
+<br />
+Here&#39;s the deal.<br />
+<br />
+You can <a href="http://startmatual.bid/4MXgKHpBCbkx72iVEWdo-dew7tTVgRZW-V9Y4X-YbEfKE74">watch this video</a> that helps you have your child reading better than children 2-4 years older than them by <a href="http://startmatual.bid/4MXgKHpBCbkx72iVEWdo-dew7tTVgRZW-V9Y4X-YbEfKE74"><b>clicking here.</b></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://startmatual.bid/sBzQXCzOLM9rpKYrKEo5VjKPsT7kYKMVeSXwpdYgmwkKBC4"><img src="http://startmatual.bid/2982b5fd1c174245f9.jpg" /></a><br />
+<br />
+<br />
+&nbsp;
+<p style="color:#FFFFFF;">Kitanuman is an extremely dangerous green-coloured creature completely made from germs and is also one of the servants of tamraj kilvish. Thousands of years ago, Shri Satya turned him into a statue and later he gets freed from the statue and spreads germs so badly and turn each and every child of the world into old men. Kitanuman was one of the most dangerous and difficult devil to defeat for Shaktimaan and had a really tough time with him. However, later Shaktimaan kill him using his own germs. Later when Shaktimaan defeats and burns him in space, unknown to Shaktimaan his germs do not completely finish and are left in space. A space guard Sheena, while coming towards the earth sees and take the germs and store them in a protective jar and later along with another space guard Mr. Subkar they try to kill germs, but Dr. Jackal comes and injure them and takes the germs. He again brings kitanuman back to life, but later Shaktimaan freeze Dr. Jackal, Nadia (his assistant), Kitanuman, along with 3 dangerous criminals of space and sentence them in the Inter-Galactic Prison (A prison made in galaxy near the sun made by the space guards Mr. Subkar and Sheena). Wolfa An extremely dangerous humanoid clone created by Dr. Jackal. She was made by combining genetic material of a human, a snake and wolf. She is the only clone with three animal attributes. Her MO is to attract a person towards her and then kill them instantly by touch, and subsequently drink their blood. Later Shaktimaan kills her. Pretolla Like Tamraj Kilvish he has also lived more 6000 years and is a ghost-like creature he is extremely dangerous and when he gets hungry he eats away the body of the whole world and make them ghosts, he gets hungry very often once in 1000 years. 6000 years ago when he was in space Shri Satya created a protective coating around the earth, because of which he couldn&#39;t enter the earth for 6000 years. The protective coating could be broken by Shri Satya only or his rebirth Shaktimaan which was impossible, but Tamraj Kilvish controlled Shaktimaan&#39;s brain with the power of smashed divya mani and Shaktimaan broke the coating and allowed Pretolla to enter the earth as soon as he entered he turned half of the people of earth in ghosts as Tamraj Kilvish had only the half part of Shaktipunja (Pap Punja). Tamraj Kilvish sends his men to find the remaining part of Shaktipunja whereas Shaktimaan travels time in different time zone along with Geeta and Dwijj to collect 8 chakras and save the world. Later, Shaktimaan is successful in collecting 8 chakras of life from different time zones and save the world and Pretolla is sent out of earth and the protective coating is again made.</p>
+</div>
+</body>
+</html>
+
+--70241e852fdedc7039353e4f4165eb04_284e_3ce9--

@@ -1,0 +1,145 @@
+Return-Path: <6959-1095-83442-1837-bruce=untroubled.org@mail.surveysqribb.bid>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28688 invoked from network); 25 Jan 2020 08:12:02 -0000
+Received: (qmail 30540 invoked from network); 25 Jan 2020 08:12:02 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 08:12:02 -0000
+Received: (qmail 21117 invoked by uid 48516); 25 Jan 2020 08:12:01 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 17401 invoked from network); 25 Jan 2020 08:12:00 -0000
+Received: from south.surveysqribb.bid ([170.130.174.58])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 25 Jan 2020 08:11:58 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=surveysqribb.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=**Chris**@surveysqribb.bid;
+ bh=RA+gd7URLVS8yw1feqq615WKZxY=;
+ b=vnIpTpkUdKGlBarcaWanqx4FjZxFKOKUD/q1VoD7BhB8PS+Cj9ZPCkF65ubHa90x75o3ofFBUmfd
+   PP3x3hYatRz20psSWCRGLbWLR+JsJtiAHQ4OeQW5Tb0buIxJI1oV8p/cKhw82uNRsQ2sVr7GBCZx
+   /kE4mLjcHGyniMw+6g4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=surveysqribb.bid;
+ b=b0ehcV+2AsGJScVpGxxriPh7KhEiGib5AEtCTFGsw7XBxOPMVmT9tFOsq2HmoCoxSEz4xGTmJh48
+   vAK7lEFngIbMjJaz9hx0yYQqTauaEhMwo3TD6lzbMxNJTSAI305XsJ8Y8hLgzdlxYuOKEGruwrKK
+   thlL1stovErzRNaNyx0=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="ed68a2270f8e824e01c8c1b4be5d0cc9_447_145f2"
+Date: Sat, 25 Jan 2020 03:11:55 -0500
+From: "Chris" <**Chris**@surveysqribb.bid>
+Reply-To: "**Chris**" <**Chris**@surveysqribb.bid>
+Subject: ? Message on hold
+To: <bruce@untroubled.org>
+Message-ID: <a3456to6jl4oovft-u2hz2xgk6ei1kcap-447-145f2@surveysqribb.bid>
+Content-Length: 11676
+
+--ed68a2270f8e824e01c8c1b4be5d0cc9_447_145f2
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+? Message on hold
+
+http://surveysqribb.bid/VLPFh0-3UAKjAE7zjn0PC_RV02JfHsaxN4NbAZUdW9PpoLY
+
+http://surveysqribb.bid/S0mDOVhcrW16Qh-QSNiLCTx-iHVa03UqfI0xddcD8JXqDAOT
+
+Young belonged to a Quaker family of Milverton, Somerset, where he was born in 1773, the eldest of ten children. At the age of fourteen Young had learned Greek and Latin and was acquainted with French, Italian, Hebrew, German, Aramaic, Syriac, Samaritan, Arabic, Persian, Turkish and Amharic.
+
+Young began to study medicine in London at St Bartholomew's Hospital in 1792, moved to the University of Edinburgh Medical School in 1794, and a year later went to Göttingen, Lower Saxony, Germany, where he obtained the degree of doctor of medicine in 1796 from the University of Göttingen. In 1797 he entered Emmanuel College, Cambridge. In the same year he inherited the estate of his grand-uncle, Richard Brocklesby, which made him financially independent, and in 1799 he established himself as a physician at 48 Welbeck Street, London (now recorded with a blue plaque). Young published many of his first academic articles anonymously to protect his reputation as a physician.
+
+In 1801, Young was appointed professor of natural philosophy (mainly physics) at the Royal Institution. In two years, he delivered 91 lectures. In 1802, he was appointed foreign secretary of the Royal Society, of which he had been elected a fellow in 1794. He resigned his professorship in 1803, fearing that its duties would interfere with his medical practice. His lectures were published in 1807 in the Course of Lectures on Natural Philosophy and contain a number of anticipations of later theories.
+
+In 1811, Young became physician to St George's Hospital, and in 1814 he served on a committee appointed to consider the dangers involved in the general introduction of gas for lighting into London. In 1816 he was secretary of a commission charged with ascertaining the precise length of the second's or seconds pendulum (the length of a pendulum whose period is exactly 2 seconds), and in 1818 he became secretary to the Board of Longitude and superintendent of the HM Nautical Almanac Office.
+
+Young was elected a Foreign Honorary Member of the American Academy of Arts and Sciences in 1822. A few years before his death he became interested in life insurance, and in 1827 he was chosen one of the eight foreign associates of the French Academy of Sciences. In 1828, he was elected a foreign member of the Royal Swedish Academy of Sciences.
+
+--ed68a2270f8e824e01c8c1b4be5d0cc9_447_145f2
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width,initial-scale=1" />
+	<title>Newsletter</title>
+</head>
+<body style="width: 100%; height: 100%; margin: 0; padding: 0; font-family: sans-serif; color: #333; line-height: 1.5; background: #ffffff; font-family: 'Hiragino Kaku Gothic Pro', Meiryo, sans-serif;"><a href="http://surveysqribb.bid/49n4AjA7n6P6NV6JOxMmOwbSwZex2P0lnJ9lUllxcQgcvuDj"><img src="http://surveysqribb.bid/ee74edd774771d8dff.jpg" /><img height="1" src="http://www.surveysqribb.bid/dTx_fbgGOdxYdkz1ta1tCutidLUc8tbGzAB5vMuXbyuHOCOK" width="1" /></a>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 600px; padding: 10px; background-color: #1e063e;" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #000000; background-image: url(images/background2.jpg); background-repeat: no-repeat;" width="100%"><!-- Email header -->
+				<tbody>
+					<tr>
+						<td align="center" colspan="6" style="background-color: #412862; padding: 0 10px;" valign="top">
+						<h1 style="color: #ffcd00; font-size: 31px; font-weight: 700; line-height: 1.3;"><a href="http://surveysqribb.bid/VLPFh0-3UAKjAE7zjn0PC_RV02JfHsaxN4NbAZUdW9PpoLY" style="border: 0; text-decoration: none; color: #ffffff;" target="_blank">Your Tarot Reading: so accurate that it will give you goosebumps!</a></h1>
+						</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<!-- Email Content -->
+					<tr>
+						<td style="width: 100%; max-width: 600px; text-align: center;"><a href="http://surveysqribb.bid/VLPFh0-3UAKjAE7zjn0PC_RV02JfHsaxN4NbAZUdW9PpoLY" style="border:none; text-decoration: none;" target="_blank"><img alt="? ? ? ? ?" src="http://surveysqribb.bid/6ba2e28c6a5f10959b.png" style="width: 100%; max-width: 600px; font-size: 50px; color: yellow; text-align: center;" title="Star Reading Now!" /> </a></td>
+					</tr>
+					<tr>
+						<td style="text-align: center; width: 33%; padding: 5px;" width="100%"><a href="http://surveysqribb.bid/VLPFh0-3UAKjAE7zjn0PC_RV02JfHsaxN4NbAZUdW9PpoLY" style="border:none; text-decoration: none;" target="_blank"><img alt="??????" src="http://surveysqribb.bid/49cfe193f129a6f479.png" style="width: 100%; max-width: 590px; font-size: 50px; color: #6600ff; text-align: center;" title="Tarot Reading" /> </a></td>
+					</tr>
+					<!-- Call to action -->
+					<tr>
+						<td align="center" style="padding: 0 10px;" valign="top">
+						<h3 style="padding-left: 20px; padding-right: 30px; padding-bottom: 9px; padding-top: 6px; background-color: #ffcd00; color: #333; font-weight: 700; outline: 0; border: 0; border-radius: 50px; box-shadow: 0 3px 3px #ffeb99 inset, 0 -3px 3px #ae8100 inset; max-width: 350px;"><a href="http://surveysqribb.bid/VLPFh0-3UAKjAE7zjn0PC_RV02JfHsaxN4NbAZUdW9PpoLY" style="border: 0; text-decoration: none; color: #000000; font-size: 27px; font-weight: bold;" target="_blank"><img alt="Start Reading Now ?" src="http://surveysqribb.bid/74183a6d64c318ccb4.png" style="width: 100%; max-width: 260px;" title="»" /></a></h3>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #000000;" width="100%">
+				<tbody>
+					<tr>
+						<td style="font-family: Helvetica, Arial, san-serif; text-align:center; color: #ffff00; font-size:24px; font-weight:regular; padding-left:20px; padding-right:20px;" width="100%"><a href="http://surveysqribb.bid/VLPFh0-3UAKjAE7zjn0PC_RV02JfHsaxN4NbAZUdW9PpoLY" style="color: #ffff00; font-size:32px; line-height: 1.3; text-decoration:none;" target="_blank">Do not miss this opportunity!</a></td>
+					</tr>
+					<tr>
+						<td style="font-family: Helvetica, Arial, san-serif; text-align:left; color: #ffffff; font-size:18px; font-weight:regular; padding-left:20px; padding-right:20px; padding-top: 10px;" width="100%"><a href="http://surveysqribb.bid/VLPFh0-3UAKjAE7zjn0PC_RV02JfHsaxN4NbAZUdW9PpoLY" style="color: #faf4f4; font-size:18px; text-decoration:none;" target="_blank">Why? Because, great events are about to unfold, in your very near future!</a><br />
+						&nbsp;</td>
+					</tr>
+					<tr>
+						<td style="text-align:left; font-size:18px; color: #ffffff; padding-left:20px; padding-right:20px;" width="100%">If you have missed out on <a href="http://surveysqribb.bid/VLPFh0-3UAKjAE7zjn0PC_RV02JfHsaxN4NbAZUdW9PpoLY" style="color: #ffff00; font-size:18px;" target="_blank">LUCK, MONEY, LOVE or AN HARMONIOUS FAMILY</a>, I can tell you, that you must prepare yourself for the huge changes that are on the way.<br />
+						<br />
+						Although it may seem incredible, in only a few seconds you will receive, entirely and at no charge, everything you need, to receive happiness, especially financially.<br />
+						<br />
+						For this to happen, you only need to do one thing:<br />
+						&nbsp;</td>
+					</tr>
+					<tr>
+						<td style="text-align:left; font-size:18px; padding-left:20px; padding-right:20px; color: #ffffff;" width="100%">Request my extraordinary secrets that will give you all you need. My secrets will enable you to take this chance and I will send everything to you ... <a href="http://surveysqribb.bid/VLPFh0-3UAKjAE7zjn0PC_RV02JfHsaxN4NbAZUdW9PpoLY" style="color: #ffff00;" target="_blank">at no cost</a>!<br />
+						&nbsp;</td>
+					</tr>
+					<tr>
+						<td style="text-align:left; font-size:18px; padding-left:20px; padding-right:20px; color: #ffffff;" width="100%">I urge you not to wait any longer!<br />
+						<br />
+						My Best Wishes,<br />
+						Chris, Tarot Reader - Psychic Medium - Parapsychologist<br />
+						<a href="http://surveysqribb.bid/VLPFh0-3UAKjAE7zjn0PC_RV02JfHsaxN4NbAZUdW9PpoLY" style="border: none; text-decoration: none; color: #000000; display: block;" target="_blank"><img align="left" alt="Chris" border="0" src="http://surveysqribb.bid/44f286fcdae286083a.png" style="max-width: 100%; display: block; padding: 10px 10px 30px; border:0px; font-size: 20px; color: #ffffff;" title="Chris" /> </a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://surveysqribb.bid/icXSq22LV7s5vw5U01LBgOmNmJq6eILCLZEAf_OGt6bXGztq"><img src="http://surveysqribb.bid/e165fb7b89806c9699.jpg" /></a></center>
+
+<p style="color:#FFFFFF;font-size:6px;">Young belonged to a Quaker family of Milverton, Somerset, where he was born in 1773, the eldest of ten children. At the age of fourteen Young had learned Greek and Latin and was acquainted with French, Italian, Hebrew, German, Aramaic, Syriac, Samaritan, Arabic, Persian, Turkish and Amharic. Young began to study medicine in London at St Bartholomew&#39;s Hospital in 1792, moved to the University of Edinburgh Medical School in 1794, and a year later went to G&ouml;ttingen, Lower Saxony, Germany, where he obtained the degree of doctor of medicine in 1796 from the University of G&ouml;ttingen. In 1797 he entered Emmanuel College, Cambridge. In the same year he inherited the estate of his grand-uncle, Richard Brocklesby, which made him financially independent, and in 1799 he established himself as a physician at 48 Welbeck Street, London (now recorded with a blue plaque). Young published many of his first academic articles anonymously to protect his reputation as a physician. In 1801, Young was appointed professor of natural philosophy (mainly physics) at the Royal Institution. In two years, he delivered 91 lectures. In 1802, he was appointed foreign secretary of the Royal Society, of which he had been elected a fellow in 1794. He resigned his professorship in 1803, fearing that its duties would interfere with his medical practice. His lectures were published in 1807 in the Course of Lectures on Natural Philosophy and contain a number of anticipations of later theories. In 1811, Young became physician to St George&#39;s Hospital, and in 1814 he served on a committee appointed to consider the dangers involved in the general introduction of gas for lighting into London. In 1816 he was secretary of a commission charged with ascertaining the precise length of the second&#39;s or seconds pendulum (the length of a pendulum whose period is exactly 2 seconds), and in 1818 he became secretary to the Board of Longitude and superintendent of the HM Nautical Almanac Office. Young was elected a Foreign Honorary Member of the American Academy of Arts and Sciences in 1822. A few years before his death he became interested in life insurance, and in 1827 he was chosen one of the eight foreign associates of the French Academy of Sciences. In 1828, he was elected a foreign member of the Royal Swedish Academy of Sciences.</p>
+</body>
+</html>
+
+--ed68a2270f8e824e01c8c1b4be5d0cc9_447_145f2--
+

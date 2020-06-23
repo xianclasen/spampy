@@ -1,0 +1,87 @@
+Return-Path: <info@muir.info>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27205 invoked from network); 22 Jan 2020 12:37:31 -0000
+Received: (qmail 26140 invoked from network); 22 Jan 2020 12:37:30 -0000
+Received: from genesis.futurequest.net (genesis.futurequest.net [69.5.31.4])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 12:37:30 -0000
+Received: (qmail 31785 invoked by uid 48517); 22 Jan 2020 12:37:29 -0000
+Delivered-To: bruceg-ezmlm-owner@lists.untroubled.org
+Received: (qmail 31781 invoked from network); 22 Jan 2020 12:37:29 -0000
+Received: from 53-253.static.spheral.ru ([188.170.79.213])
+  by genesis.futurequest.net ([69.5.31.4])
+  with ESMTP via TCP; 22 Jan 2020 12:37:29 -0000
+Message-ID: <8d6d05a95d8fb9b5b0f54310e428626ec5fd7238@muir.info>
+From: Clara <info@muir.info>
+To: ezmlm-owner@lists.untroubled.org
+Subject: =?windows-1251?B?yu7s7/z+8uXwIOTu6+bl7SDn4PDg4eDy++Lg?=
+	=?windows-1251?B?8vwg?=
+Date: Wed, 22 Jan 2020 14:37:26 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="89733a9078aca013cfca8337a377d5a8e8fe"
+X-Antivirus: AVG (VPS 200121-0, 21.01.2020), Outbound message
+X-Antivirus-Status: Clean
+Content-Length: 2570
+
+--89733a9078aca013cfca8337a377d5a8e8fe
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+=D2=E5=EF=E5=F0=FC =E2=FB =EC=EE=E6=E5=F2=E5 =E7=E0=F0=E0=E1=E0=F2=FB=E2=E0=
+=F2=FC =C1=E8=F2=EA=EE=E9=ED =EF=F0=FF=EC=EE =E2 =E1=F0=E0=F3=E7=E5=F0=E5=
+!
+
+=D5=EE=F2=E8=F2=E5 =E2=E5=F0=FC=F2=E5, =F5=EE=F2=E8=F2=E5 =ED=E5=F2 - =ED=
+=EE =E2=FB =E2 1 =EA=EB=E8=EA=E5 =EE=F2 =F3=ED=E8=EA=E0=EB=FC=ED=EE=E9 =E2=
+=EE=E7=EC=EE=E6=ED=EE=F1=F2=E8 =EF=EE=EB=F3=F7=E0=F2=FC =EF=E0=F1=F1=E8=E2=
+=ED=FB=E9 =E4=EE=F5=EE=E4 =EE=ED=EB=E0=E9=ED.
+
+=CF=EE=E4=F0=EE=E1=ED=E5=E5 =ED=E0 =F1=E0=E9=F2=E5 >>> -=A0https://get.cr=
+yptobrowser.site/10752759 =E8 =ED=E0=F7=E8=ED=E0=E9=F2=E5 =EF=EE=EB=F3=F7=
+=E0=F2=FC =E4=E5=ED=FC=E3=E8!
+
+=CE=F2=EA=E0=E7 =EE=F2 =EF=EE=E4=EF=E8=F1=EA=E8. List-Unsubscribe
+
+--89733a9078aca013cfca8337a377d5a8e8fe
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><FONT size=3D2><FONT face=3DVerdana>=D2=E5=EF=E5=F0=FC =
+=E2=FB =EC=EE=E6=E5=F2=E5 =E7=E0=F0=E0=E1=E0=F2=FB=E2=E0=F2=FC=20
+=C1=E8=F2=EA=EE=E9=ED =EF=F0=FF=EC=EE =E2 =E1=F0=E0=F3=E7=E5=F0=E5!</FONT=
+></FONT></DIV>
+<DIV>&nbsp;&nbsp;</DIV>
+<DIV align=3Dleft><FONT size=3D2><FONT face=3DVerdana>=D5=EE=F2=E8=F2=E5 =
+=E2=E5=F0=FC=F2=E5, =F5=EE=F2=E8=F2=E5 =ED=E5=F2 - =ED=EE=20
+=E2=FB =E2 1 =EA=EB=E8=EA=E5 =EE=F2 =F3=ED=E8=EA=E0=EB=FC=ED=EE=E9 =E2=EE=
+=E7=EC=EE=E6=ED=EE=F1=F2=E8 =EF=EE=EB=F3=F7=E0=F2=FC =EF=E0=F1=F1=E8=E2=ED=
+=FB=E9 =E4=EE=F5=EE=E4=20
+=EE=ED=EB=E0=E9=ED.</FONT></FONT></DIV>
+<DIV>&nbsp;&nbsp;</DIV>
+<DIV align=3Dleft><FONT size=3D2><FONT=20
+face=3DVerdana><STRONG>=CF=EE=E4=F0=EE=E1=ED=E5=E5 =ED=E0 =F1=E0=E9=F2=E5=
+ >>></STRONG> -&nbsp;<A=20
+href=3D"https://get.cryptobrowser.site/10752759">https://get.cryptobrowse=
+r.site/10752759</A>=20
+=E8 =ED=E0=F7=E8=ED=E0=E9=F2=E5 =EF=EE=EB=F3=F7=E0=F2=FC =E4=E5=ED=FC=E3=E8=
+!</FONT></FONT></DIV>
+<DIV align=3Dleft><FONT size=3D3=20
+face=3D"Times New Roman">&nbsp;&nbsp;</FONT></DIV>
+<DIV align=3Dleft>&nbsp;&nbsp;</DIV>
+<DIV align=3Dleft>&nbsp;&nbsp;</DIV>
+<DIV align=3Dleft>&nbsp;&nbsp;</DIV>
+<DIV align=3Dleft>
+<HR>
+</DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DVerdana>=CE=F2=EA=E0=E7 =EE=F2 =
+=EF=EE=E4=EF=E8=F1=EA=E8.=20
+</FONT><FONT size=3D2 face=3DVerdana><A=20
+href=3D"mailto:info@muir.info?subject=3DList-Unsubscribe">List-Unsubscrib=
+e</A></FONT></DIV></BODY></HTML>
+
+--89733a9078aca013cfca8337a377d5a8e8fe--

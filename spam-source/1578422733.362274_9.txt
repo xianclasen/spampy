@@ -1,0 +1,147 @@
+Return-Path: <SRS0=wc4mG0=24=horivea.buzz=diabetes.destroyer-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21373 invoked from network); 7 Jan 2020 16:46:10 -0000
+Received: (qmail 12331 invoked from network); 7 Jan 2020 16:46:09 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 16:46:09 -0000
+Received: (qmail 28276 invoked by uid 48516); 7 Jan 2020 16:46:09 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 19085 invoked from network); 7 Jan 2020 16:46:08 -0000
+Received: from mail.horivea.buzz (208-187-163-64.nca.datanoc.com [208.187.163.64])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 07 Jan 2020 16:46:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=horivea.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=diabetes.destroyer@horivea.buzz;
+ bh=Y7Xe4RrXcTJfzOptZzoKcvD/hLM=;
+ b=BpPdSDRhv3dnbqSqhfFC01xv+vBoBMcIz6KXbZv98SRmz8ALQ+Y8r3pSTJqT7W2mClJTblHShwT+
+   uM14j71VlS+bBZUSMI9ZpGrn/f15mdjRN0fyfuC/sPVXtfE6ZsTel2H4rY4U/FVuMG9y9EJ9ohcD
+   RldzEHQT940f+bBh2iE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=horivea.buzz;
+ b=X0MQ/+8zjkXGz4wCCwR3bllHS3Eycdkfgc5lJlfiynySwN2RRqEOHWFvw7ZiJgNSbfxsIMSJt4ox
+   5Ro6t5nfEjeMKFltURzLpGd5DJjGmpQsWxKgmdk47byDPQjRah/BZNhDFmFqS48TK9XVpvEW6Ark
+   EGTHL6nEXQRZNLmctKs=;
+Received: by mail.horivea.buzz id h2iqsu0001g8 for <bruce@untroubled.org>; Tue, 7 Jan 2020 11:39:39 -0500 (envelope-from <diabetes.destroyer-bruce=untroubled.org@horivea.buzz>)
+Date: Tue, 7 Jan 2020 11:39:39 -0500
+From: "Diabetes Destroyer" <diabetes.destroyer@horivea.buzz>
+To:   <bruce@untroubled.org>
+Subject: Americans eating &ldquo;stainless steel&rdquo;  to reverse diabetes
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_340_426208012.1578415175774"
+List-Unsubscribe: <http://www.horivea.buzz/donkey-shrinks/22e5Kz2395K89TV11yr11BY19e9k21DFv4GIf4rxvs4FhIHEsvZ10kQARQdoox96qDG1q05rPH@i>
+Message-ID: <0.0.0.25.1D5C5790E30D0E4.58AF26@mail.horivea.buzz>
+Content-Length: 6595
+
+------=_Part_340_426208012.1578415175774
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>underflow</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); letter-spacing: normal; text-=
+indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adj=
+ust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: =
+2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; , serif; font-size: 17px; " width=3D"100%=
+">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 535px; " width=3D"586">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 12px; ">=20
+                 <h1 style=3D"margin: 20px 6px; color: rgb(34, 34, 34); lin=
+e-height: 32px; font-family: &quot; Sans Serif&quot; ; font-size: 40px; box=
+-sizing: border-box; text-align: center; "><span style=3D"font-family: &quo=
+t; Sans Serif&quot; ; "><span style=3D"color: rgb(0, 0, 0); "><strong>Diabe=
+tes Will Kill You (Do This To Fight It)</strong></span></span></h1>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; "><a href=3D"http://www.horivea.buzz/Shanghai-Burnside/8dc6yyH2395a_8o611V7104_19e9o21zFv4GIf4rxvs4FhIHEsvZ10oQARQdoox96Nx10YT5tplHi"><img alt=3D"" src=3D"http://www.horivea.buzz/b156Il23Q95B7aRD12n710V7h19e9X21XFv4GIf4rxvs4FhIHEsvZ10uQARQdoox96Bj10Ym5JpAHi/queerer-inquisition" style=3D=
+"width: 453px; height: 312px; " /></a><br /> <br /> <span style=3D"color: r=
+gb(14, 14, 184); "><span style=3D"font-size: 33px; font-family: &quot; Sans=
+ Serif&quot; ; "><strong><a href=3D"http://www.horivea.buzz/Shanghai-Burnside/8dc6yyH2395a_8o611V7104_19e9o21zFv4GIf4rxvs4FhIHEsvZ10oQARQdoox96Nx10YT5tplHi" style=3D"color: rgb(14, 14,=
+ 184); ">{Watch Now}</a></strong></span></span></p>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; ">&nbsp; </p>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"font-style: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb=
+(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; f=
+ont-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> &nbsp;=
+=20
+   <center>=20
+    <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; ">
+     <br />=20
+     <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif">&nbsp; <a href=3D"http://www.horivea.buzz/mortaring-McCarty/ada6QJ23g95P86ll12r71T05x19e9U21OFv4GIf4rxvs4FhIHEsvZ10LQARQdoox96FhO1R06LjHiXM"><font color=3D"#666666">sTOP =
+Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #80=
+4 | Haymarket, VA 20169, USA</font><br /> <br /> <a href=3D"=
+http://www.horivea.buzz/8635D2P395cR8y913B7106vTp19e9g21fFv4GIf4rxvs4FhIHEsvZ10DQARQdoox96q10kGv6HAljHi/annoyances-decades">Remove&nbsp; Here</a><br /> <span style=3D"caret-color: rgb(0, 0, 0); =
+color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; text-indent: 0px; text-transform: non=
+e; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -we=
+bkit-text-stroke-width: 0px; text-decoration: none; font-family: arial, hel=
+vetica, sans-serif; text-align: center; float: none; display: inline !impor=
+tant; ">6547 N Academy Blvd #2128</span><span style=3D"caret-color: rgb(0, =
+0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: norm=
+al; font-variant-caps: normal; font-weight: normal; letter-spacing: normal;=
+ text-indent: 0px; text-transform: none; white-space: normal; word-spacing:=
+ 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-dec=
+oration: none; display: inline !important; float: none; "> </span><br style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; fon=
+t-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphan=
+s: auto; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-st=
+roke-width: 0px; text-decoration: none; font-family: arial, helvetica, sans=
+-serif; font-size: 11px; text-align: center; " /> <span style=3D"caret-colo=
+r: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; te=
+xt-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-=
+adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-f=
+amily: arial, helvetica, sans-serif; text-align: center; float: none; displ=
+ay: inline !important; ">COLORADO SPRINGS CO 80918</span></span>
+     <br />=20
+     <br />=20
+     <br /> &nbsp;=20
+    </div> <style></style><big></big><big></big><style></style><style dir="pacifism"></style><big></big><style lang="quarantining"></style><font face="sensory"></font><font id="unqualified"><small></small></font>
+   </center>=20
+  </center>  =20
+ <img src=3D"http://www.horivea.buzz/withholds-brothers/13e4X2395I85Li11m7108n19e9X21bFv4GIf4rxvs4FhIHEsvZ10XQARQdoox95iY1m05FzHiP" alt=3D""/></body>
+</html>
+
+------=_Part_340_426208012.1578415175774--
+

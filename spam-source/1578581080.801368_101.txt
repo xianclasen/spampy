@@ -1,0 +1,87 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21914 invoked from network); 9 Jan 2020 08:00:40 -0000
+Received: (qmail 29146 invoked from network); 9 Jan 2020 08:00:39 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Jan 2020 08:00:39 -0000
+Received: (qmail 15567 invoked by uid 48516); 9 Jan 2020 08:00:38 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 21683 invoked from network); 9 Jan 2020 08:00:38 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 09 Jan 2020 08:00:38 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1728404AbgAIIAg (ORCPT <rfc822;bruce@untroubled.org>);
+        Thu, 9 Jan 2020 03:00:36 -0500
+Received: from mail-lj1-f194.google.com ([209.85.208.194]:43500 "EHLO
+        mail-lj1-f194.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1728273AbgAIIAg (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Thu, 9 Jan 2020 03:00:36 -0500
+Received: by mail-lj1-f194.google.com with SMTP id a13so6133727ljm.10
+        for <linux-kernel@vger.kernel.org>; Thu, 09 Jan 2020 00:00:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=A61mlbXcqrKdd5rStxbk5SJq+xs374rVplv9rHnuEP4=;
+        b=hEsM2tuB5gASNIKUuOtABTGFoYfR3+E2m7M8Se42SgJzhP7VGQNS2oWmB5aJml2VHb
+         bU2NxmQBsVBlVGYOQlp7CzAbfKqHivEf6mxcnAEpFtm1hBIjPhceZ6GPYCffJiJnsfvJ
+         cWox2QpxQ2KgYd7U1Ciwu2UvQ+ZgfU1AkMqFDRr7zr5004ebb4Qq90KA7GGD+gZ+1WWp
+         d00cNK8Ss486XXpoRGjnHhZ6rfZ6nwNVk6IAbug4AYJ9Fp+W5yxWHY8pIj/9E6DyFnAJ
+         pC2/Tp0vWTOEoncW0u4CUxRCGzHZ/V8o/z7GeAwr/d1/bYR8bzz78H53rC3m11SSrBZP
+         o97A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=A61mlbXcqrKdd5rStxbk5SJq+xs374rVplv9rHnuEP4=;
+        b=knMBMmxVDvjq+/H5PO1fQ1sDiuFURkTiNCwK+BEAQ+SIPgjUJjKBo9ZveSuGJiKWlo
+         pIHB71XKf/99GhsuWDL+cPqnW93HX2FGGuy2bBTV15Q27ujWK9Nky/RrFGErAMPP+kKe
+         riwMbQ7FXH5M2GCZuHVVAvkZGSRRa9jDmeyqvCW60DQQWv+Q+egwOGc2GYlKcMOiqxcM
+         LyJ6Q5VVJNijn0JkBJGRuuvHpHj3w8EcdjPvNWpRmHG3ZZLNhjdw9lk9GlUwC7ZVptZg
+         3UUTaNboMSlhB/PHZ/wwzfGE4l2DXizXo7dPpTVb+yXiQcjkLxnyPML634LrkCwPq9Uz
+         4UmQ==
+X-Gm-Message-State: APjAAAW9wGXQQd5b3WhsuwLn/P7bgD/PCRZudSYDoWB9feTQI36eJ42B
+        6KDzwX6Z/fqoN500ZYv+sQx3yQfn4DypzUQLgS8=
+X-Google-Smtp-Source: APXvYqxzy22kMDyiNoXHogpd3H0rv7xJy0jnzBWq/t7jgxTO7SF3OHrd3i4iGVCXVHPi6hK9UJKJC09OztxhFlMgbYw=
+X-Received: by 2002:a2e:556:: with SMTP id 83mr5720801ljf.127.1578556834378;
+ Thu, 09 Jan 2020 00:00:34 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:a19:86c2:0:0:0:0:0 with HTTP; Thu, 9 Jan 2020 00:00:33 -0800 (PST)
+Reply-To: ibrahimiismma@gmail.com
+From:   Ibrahim Ismma <elhamabunur@gmail.com>
+Date:   Thu, 9 Jan 2020 00:00:33 -0800
+Message-ID: <CADvdcOnwxBzT4BqUeNwZVeXtGk6CbS45oboa2SW3hcGHh5zKjw@mail.gmail.com>
+Subject: Waiting for your urgent reply,
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 668
+
+Greetings Friend
+
+Forgive me for writing you this letter , I will like to bring to your
+that (8.5.million Euro claims ) This is a legitimate transaction and
+The money will be shared 60% for me and 40% for you .   get back to
+me, I will give you full details on how the money will be transfer to
+you,
+Waiting for your reply,
+
+Your Full Name .........
+Your Sex ..............
+Your Age ..................
+Your Country ...........
+Passport / driving license .......
+Marital Status ...........
+Your Occupation .......
+Your Personal Mobile Number .....
+Your Personal Fax Number .........
+
+Thanks
+Ibrahim Ismma
+Audits & Accounts Manager
+E-Mail Address (ismmomussa@gmail.com)

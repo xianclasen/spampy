@@ -1,0 +1,386 @@
+Return-Path: <SRS0=MaHjch=24=us-west-2.amazonses.com=0101016f809ca461-d704e717-a1a9-4f11-9543-974ea41f9632-000000@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 19969 invoked from network); 7 Jan 2020 15:25:50 -0000
+Received: (qmail 11945 invoked from network); 7 Jan 2020 15:25:49 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 15:25:49 -0000
+Received: (qmail 18070 invoked by uid 48516); 7 Jan 2020 15:25:49 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29407 invoked from network); 7 Jan 2020 15:25:49 -0000
+Received: from a26-9.smtp-out.us-west-2.amazonses.com (a26-9.smtp-out.us-west-2.amazonses.com [54.240.26.9])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 07 Jan 2020 15:25:48 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=d3zvbrwpvlxlgopsxxlttwi2nqb5inov; d=maniasol.com; t=1578410747;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe;
+	bh=hFHVTwZuzG7I7s/lVf9GvixXc8ZEu+L5PaS2jCrfWlI=;
+	b=uLAHtr87u5reTqKeT82Pl7I7J0ZCAdOfHeMxDjBcMixvKXnFDShnsgNbXuY+Jia1
+	qRldaH9/41O0hLy+ARRql5268fGaN3qZllXBA+pgHaemkvK6i36CCmApury0rqtY7ec
+	YXUw5eElmqI+Yeh9t9Bj0X+oe1Ku9bKEmua1fshU=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=gdwg2y3kokkkj5a55z2ilkup5wp5hhxx; d=amazonses.com; t=1578410747;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe:Feedback-ID;
+	bh=hFHVTwZuzG7I7s/lVf9GvixXc8ZEu+L5PaS2jCrfWlI=;
+	b=eqRDiFv+3WU/tFcFWL6yEmIEoY6jAGWpSdjivuc1p9Vsh3mpO6FZxWPokNuq2thB
+	S1y/jwQ1SbBwUk/Ft3ZCEQa/PCAQT2PegmEaly22OcrdCdvBb7ui5ctbaJXH2uTNioL
+	ELxhy++2KZvgES4BIHFYclWuWkaxJmEOK5MjejgA=
+Date: Tue, 7 Jan 2020 15:25:47 +0000
+From: RAY BAN <contato@maniasol.com>
+Reply-To: RAY BAN <contato@maniasol.com>
+To: bruce@untroubled.org
+Message-ID: <0101016f809ca461-d704e717-a1a9-4f11-9543-974ea41f9632-000000@us-west-2.amazonses.com>
+Subject: =?UTF-8?Q?=F0=9F=9A=A8_=C3=9Altimas_horas!_At=C3=A9_70%_OFF!?=
+ =?UTF-8?Q?_Corra!?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5e14a2face6dc_43f9de9af18582434215";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <https://helios.listmanager2.com/unsubscribe/create/854f5f14-f91c-48ef-bbee-e2eb1f699d9c>
+X-SES-Outgoing: 2020.01.07-54.240.26.9
+Feedback-ID: 1.us-west-2.L5kq3Ao4gWzFDuBn+9LoGxPzEzBCNbjHENRkcAp57dQ=:AmazonSES
+Content-Length: 9299
+
+
+----==_mimepart_5e14a2face6dc_43f9de9af18582434215
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+Frete gr=C3=A1tis para todo o =0D
+Brasil.=0D
+Pague no cart=C3=A3o em at=C3=A9 6x =0D
+sem juros no cart=C3=A3o de =0D
+credito ou =C3=A1 vista no boleto =0D
+banc=C3=A1rio.=0D
+Ofertas sujeitas a altera=C3=A7=C3=A3o =0D
+de pre=C3=A7o e/ou condi=C3=A7=C3=B5es de =0D
+pagamento sem aviso pr=C3=A9vio. =0D
+Troca ou devolu=C3=A7=C3=A3o gr=C3=A1tis de =0D
+produtos em sua embalagem =0D
+original lacrada e n=C3=A3o =0D
+danificada=0D
+em at=C3=A9 30 dias corridos ap=C3=B3s =0D
+o recebimento da compra.=0D
+=0D
+=0D
+CENTRAL DE ATENDIMENTO=0D
+E-mail: atendimento@maniasol.com=0D
+=0D
+Para garantir que nossos =0D
+comunicados cheguem em sua =0D
+caixa de entrada, adicione o =0D
+email=C2=A0atendimento@maniasol.com=C2=A0em sua lista de contatos.=0D
+ =C2=A0=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Caso queira deixar de receb=
+er nossas mensagens CLIQUE AQUI=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+
+----==_mimepart_5e14a2face6dc_43f9de9af18582434215
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>=0D
+<html>=0D
+<head>=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=0D
+<title></title>=0D
+<!--[if gte mso 9]><xml> <o:OfficeDocumentSettings><o:AllowPNG></o:AllowP=
+NG><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>=
+=0D
+		<![endif]-->=0D
+</head>=0D
+<body bgcolor=3D"#242424">=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=0D
+=0D
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; color:=
+#333;" width=3D"600"><tbody>=0D
+<tr><td>=0D
+<a href=3D"https://ariane.listmanager2.com/click/854f5f14-f91c-48ef-bbee-=
+e2eb1f699d9c/6ff3740f-1968-4fb5-a0f7-f7955e491e85/event">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15549=
+01299/imagens/image_0.png" width=3D"600" height=3D"456" alt=3D"topo" bord=
+er=3D"0" style=3D"display: block;"></a>=0D
+</td></tr>=0D
+<tr><td>=0D
+<a href=3D"https://ariane.listmanager2.com/click/854f5f14-f91c-48ef-bbee-=
+e2eb1f699d9c/ce921a24-a5f8-4db9-94ee-ff4f91db51f5/event">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15549=
+01299/imagens/image_1.png" width=3D"600" height=3D"336" alt=3D"justin" bo=
+rder=3D"0" style=3D"display: block;"></a>=0D
+</td></tr>=0D
+<tr><td>=0D
+<a href=3D"https://ariane.listmanager2.com/click/854f5f14-f91c-48ef-bbee-=
+e2eb1f699d9c/3b9a0829-6168-44f5-a479-140358b99d36/event">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15549=
+01299/imagens/image_2.png" width=3D"600" height=3D"336" alt=3D"aviador_ma=
+rrom" border=3D"0" style=3D"display: block;"></a>=0D
+</td></tr>=0D
+<tr><td>=0D
+=0D
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; color:=
+#333;" width=3D"600"><tbody>=0D
+<tr><td>=0D
+<a href=3D"https://ariane.listmanager2.com/click/854f5f14-f91c-48ef-bbee-=
+e2eb1f699d9c/cdc93f2d-501f-4614-9266-be3d0d55d466/event">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15549=
+01299/imagens/image_3.png" width=3D"600" height=3D"336" alt=3D"clubmaster=
+" border=3D"0" style=3D"display: block;"></a>=0D
+</td></tr>=0D
+<tr><td>=0D
+<a href=3D"https://ariane.listmanager2.com/click/854f5f14-f91c-48ef-bbee-=
+e2eb1f699d9c/fc9975e7-796a-4f75-92f4-3a9a166e8eb8/event">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15549=
+01299/imagens/image_4.png" width=3D"600" height=3D"336" alt=3D"aviador_pr=
+eto" border=3D"0" style=3D"display: block;"></a>=0D
+</td></tr>=0D
+<tr><td>=0D
+=0D
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; color:=
+#333;" width=3D"600"><tbody>=0D
+<tr><td>=0D
+<a href=3D"https://ariane.listmanager2.com/click/854f5f14-f91c-48ef-bbee-=
+e2eb1f699d9c/f3cf47d2-6dc2-4041-ad50-597610d69415/event">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15549=
+01299/imagens/image_5.png" width=3D"600" height=3D"336" alt=3D"holbrook" =
+border=3D"0" style=3D"display: block;"></a>=0D
+</td></tr>=0D
+<tr><td>=0D
+<a href=3D"https://ariane.listmanager2.com/click/854f5f14-f91c-48ef-bbee-=
+e2eb1f699d9c/66ca619d-510a-4749-83cc-aa8075745149/event">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15549=
+01299/imagens/image_6.png" width=3D"600" height=3D"192" alt=3D"rolando" b=
+order=3D"0" style=3D"display: block;"></a>=0D
+</td></tr>=0D
+<tr><td>=0D
+=0D
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; color:=
+#333;" width=3D"600"><tbody><tr><td>=0D
+=0D
+<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; font-size: 10pt;" width=3D"600"><tbody style=3D"box-sizing: bo=
+rder-box;"><tr style=3D"box-sizing: border-box;"><td align=3D"center" sty=
+le=3D"box-sizing: border-box; padding: 10px 0px; font-size: 9pt; color: r=
+gb(119, 119, 119); border-collapse: collapse; font-family: Arial, sans-se=
+rif;" width=3D"600">=0D
+<div style=3D"box-sizing: border-box;">=0D
+<hr style=3D"border-left:0px initial initial; border-right:0px initial in=
+itial; border-top:1px solid rgb(238, 238, 238); border-bottom:0px initial=
+ initial; box-sizing: content-box; height: 0px; margin-top: 20px; margin-=
+bottom: 20px; border-image: initial;">=0D
+<span style=3D"box-sizing: border-box;">=0D
+Frete gr=C3=A1tis para todo o =0D
+Brasil.<br style=3D"box-sizing: border-box;">=0D
+Pague no cart=C3=A3o em at=C3=A9 6x =0D
+sem juros no cart=C3=A3o de =0D
+credito ou =C3=A1 vista no boleto =0D
+banc=C3=A1rio.<br style=3D"box-sizing: border-box;">=0D
+Ofertas sujeitas a altera=C3=A7=C3=A3o =0D
+de pre=C3=A7o e/ou condi=C3=A7=C3=B5es de =0D
+pagamento sem aviso pr=C3=A9vio. =0D
+Troca ou devolu=C3=A7=C3=A3o gr=C3=A1tis de =0D
+produtos em sua embalagem =0D
+original lacrada e n=C3=A3o =0D
+danificada<br style=3D"box-sizing: border-box;">=0D
+em at=C3=A9 30 dias corridos ap=C3=B3s =0D
+o recebimento da compra.<br style=3D"box-sizing: border-box;">=0D
+<br style=3D"box-sizing: border-box;">=0D
+<b style=3D"box-sizing: border-box; font-weight: bold;">=0D
+CENTRAL DE ATENDIMENTO<br style=3D"box-sizing: border-box;">=0D
+E-mail: atendimento@maniasol.com</b><br style=3D"box-sizing: border-box;"=
+>=0D
+<br style=3D"box-sizing: border-box;">=0D
+Para garantir que nossos =0D
+comunicados cheguem em sua =0D
+caixa de entrada, adicione o =0D
+email=C2=A0<span style=3D"color: #000000; text-decoration: underline;">at=
+endimento@maniasol.com</span>=C2=A0em sua lista de contatos.=0D
+<br style=3D"box-sizing: border-box;"> =C2=A0=0D
+</span>=0D
+</div>=0D
+</td></tr></tbody></table>=0D
+</td></tr></tbody></table>=0D
+</td></tr>=0D
+</tbody></table>=0D
+</td></tr>=0D
+</tbody></table>=0D
+</td></tr>=0D
+<tr><td></td></tr>=0D
+</tbody></table>=0D
+=0D
+=0D
+=0D
+=0D
+<!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D FOOTER =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D-->=0D
+=0D
+<p><span style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 1=
+2px;"><span style=3D"color: rgb(239, 239, 239);">=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 Caso queira deixar de receber nossas mensagens</spa=
+n> </span><a href=3D"https://helios.listmanager2.com/unsubscribe/create/8=
+54f5f14-f91c-48ef-bbee-e2eb1f699d9c"><span style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size: 12px;"><span style=3D"color: rgb(41, 105=
+, 176);"><u>CLIQUE AQUI</u></span></span></a>=0D
+=0D
+</p>=0D
+=0D
+<p>=0D
+<br>=0D
+</p>=0D
+=0D
+<p></p>=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+<div><img src=3D"https://ariane.listmanager2.com/open/854f5f14-f91c-48ef-=
+bbee-e2eb1f699d9c/event" alt=3D"_t" width=3D"1" height=3D"1"></div>=0D
+</body>=0D
+</html>=0D
+
+----==_mimepart_5e14a2face6dc_43f9de9af18582434215--

@@ -1,0 +1,77 @@
+Return-Path: <SRS0=rJ5H37=2Y=miend.buzz=toprated-wines-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 10831 invoked from network); 3 Jan 2020 15:37:19 -0000
+Received: (qmail 18706 invoked from network); 3 Jan 2020 15:37:19 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Jan 2020 15:37:19 -0000
+Received: (qmail 22615 invoked by uid 48516); 3 Jan 2020 15:37:17 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 24700 invoked from network); 3 Jan 2020 15:37:17 -0000
+Received: from mail.miend.buzz ([89.144.1.52])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 03 Jan 2020 15:37:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=miend.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=toprated-wines@miend.buzz;
+ bh=xWnVptUXPH+RG4hx/o6xfV1A57w=;
+ b=ljgQOkFpatKTCZ2FnKoFOVFLX+96KQgpDAm50O9HE4M2CZdYtGPvE+kc0RwuiICk7bZk8Z4sPrrx
+   2khd2XlHyiWx/U/Sv3GXftDLgKMJ1iqvAJ++b4HmzJi/ETgLDNPq37eJT6jv7pXXsg4UZepjaivd
+   EAxnfC0AEp8NR52PSeU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=miend.buzz;
+ b=iL7ylad5GuBca/Sug69MpEa6X/8SyMaLjxYxHXcjQChE4rmtHa1JhNvsDsJXHjayKKz0WnzY3E6m
+   DJroyAQFfxslEMimrHiLvg+ZzMUguPop6ncOoEr0ptWoyIYBCyp1oGC6d8xPCmgDsSQY7f0A5V4o
+   J69PuOM0Ex3w3Wg2wqE=;
+Received: by mail.miend.buzz id h1tfqq0001gj for <bruce@untroubled.org>; Fri, 3 Jan 2020 10:32:46 -0500 (envelope-from <toprated-wines-bruce=untroubled.org@miend.buzz>)
+Date: Fri, 3 Jan 2020 10:32:46 -0500
+From: "TopRated Wines" <toprated-wines@miend.buzz>
+To:   <bruce@untroubled.org>
+Subject: 15 Holiday Wines - 70% off + FREE Bottle Ugly Sweater!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_403_395677397.1578065551300"
+List-Unsubscribe: <http://www.miend.buzz/intercepts-radon/c246z2F39Q5JWT8913GY1p1gqT3451X21FFv4GIf4rxvs4FhIHEsvZ11BR3ndnmeoO96h1gk0_5byc2Y>
+Message-ID: <0.0.0.2E.1D5C24B0C498810.2EACC1@mail.miend.buzz>
+Content-Length: 4859
+
+------=_Part_403_395677397.1578065551300
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>desperation quota</title> 
+ </head> 
+ <body> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle"><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.miend.buzz/possibilities-insular/4eV6Oh2D395b_8L611Je83dM3451j21zFv4GIf4rxvs4FhIHEsvZ11qR3ndnmeoO96qDCX106r2zcYN">2020 Wine Sale get 15 bottles at our BESTprice</a></span></span><br /> &nbsp; 
+       <center>
+        <a href="http://www.miend.buzz/possibilities-insular/4eV6Oh2D395b_8L611Je83dM3451j21zFv4GIf4rxvs4FhIHEsvZ11qR3ndnmeoO96qDCX106r2zcYN"><img alt="grapes" src="http://www.miend.buzz/Greenland-Miocene/51c6n2Ng395UAz7a12ne8z40i3451Y21QFv4GIf4rxvs4FhIHEsvZ11fR3ndnmeoO95BB1T06kyyqcY" style="border-width: 0px; border-style: solid; height: 887px; width: 456px; " /></a>
+       </center> 
+       <div align="center">
+        <br /> 
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer end future emails, <a href="http://www.miend.buzz/cL56I2U39D5wC8R612reH83ek3451S21HFv4GIf4rxvs4FhIHEsvZ11IR3ndnmeoO96S1H0CZ6QlUcTY/intercepts-radon"><font color="#666666">Leave Here</font></a>.<br /> 1191 E Iron Eagle Dr., Suite #101 - Eagle, ID 83616</font>
+        <br /> 
+        <br /> 
+        <span style="font-size:12px; "><a href="http://www.miend.buzz/e034M2395FF89p12Ken83fH3451X21zFv4GIf4rxvs4FhIHEsvZ11yR3ndnmeoO96p10wPm6YlqWcY/octagonal-Lehigh">Unsu Here</a></span>
+        <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 10px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+        <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 10px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: arial, helvetica, sans-serif; text-align: center; float: none; display: inline !important; ">6547 N Academy Blvd #2128</span>
+        <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 10px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important; "> </span>
+        <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 11px; text-align: center; " /> 
+        <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 10px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: arial, helvetica, sans-serif; text-align: center; float: none; display: inline !important; ">COLORADO SPRINGS CO 8091</span>
+        <br /> &nbsp; 
+       </div> </td> 
+     </tr> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; </td> 
+     </tr> 
+    </tbody> 
+   </table> <span></span><span lang="spectroscopic"></span><span class="spores"><style><span size="Mississippi"></span></style><small></small></span><span class="laureate"></span><span></span>
+  </center>   
+ <img src="http://www.miend.buzz/2Vf4O2395SZ85L12Qe8j41u3451W21IFv4GIf4rxvs4FhIHEsvZ11cR3ndnmeoO95o1R0W5LU3cY/octagonal-Lehigh" alt=""/></body>
+</html>
+
+------=_Part_403_395677397.1578065551300--
+

@@ -1,0 +1,125 @@
+Return-Path: <7251-9790-262549-1926-bruce=untroubled.org@mail.snipervision.co>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 9046 invoked from network); 30 Jan 2020 07:48:17 -0000
+Received: (qmail 63476 invoked by uid 222); 30 Jan 2020 07:48:16 -0000
+Return-Path: <7251-9790-262549-1926-bruce=untroubled.org@mail.snipervision.co>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 63473 invoked from network); 30 Jan 2020 07:48:12 -0000
+Received: from mike.snipervision.co (63-80-185-230.nca.lanset.com [63.80.185.230])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 30 Jan 2020 07:48:12 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=snipervision.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=TrumpGolfBall!@snipervision.co;
+ bh=rdiI8zY4p5gUhaPAEU1Ls8A0l28=;
+ b=C9MHIkcYEzooqbazfdosBZMQTZx8tFo3n7dQLBEn5NRb5J04eHDS6yZo73GO3775VbSJRp7BUoSv
+   8Mmwhxy5eOv0igICA8ea8MQbzM8KtsQVw/iwPpZJpQuXIBcq967oE3Pjcn76y32ferufHkrQMtlW
+   5iHsd8Hzf932pwORffg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=snipervision.co;
+ b=W760EaasNwNSNEU3jhXX+eNu+dRhoXYy/IrP47mFnJggU3REBe0ljs4fwJMx/HFSocNHk8VITmCV
+   pyRwI0tT1VoUEc0m1ixOb6J4mcm9y0OmONGNrHuFEy9wakfMa2SwGiplHx3KdwniY3sQseRfwDlO
+   hHXahT4Rj26m8HXT20o=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="4605bb62834f156c593045ee90afbbd2_263e_40195"
+Date: Thu, 30 Jan 2020 02:48:10 -0500
+From: "Trump Golf Ball!" <TrumpGolfBall!@snipervision.co>
+Reply-To: "Trump Golf Ball!" <TrumpGolfBall!@snipervision.co>
+Subject: CLAIM Your Trump 2020 Commemorative Golf Ball!
+To: <bruce@untroubled.org>
+Message-ID: <g29g9np7byzuy2wz-vzhisyj2tpzgza44-263e-40195@snipervision.co>
+Content-Length: 10165
+
+--4605bb62834f156c593045ee90afbbd2_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+CLAIM Your Trump 2020 Commemorative Golf Ball!
+
+http://snipervision.co/xO-crBwRDJgtDLOAUIyvWCO2hUgwLaq1ENFE8xWWf1h4UmY
+
+http://snipervision.co/1CKWBq2H6CzIcsYv0cDdIrCccpfq8-Z5jY0QrZo6ejTSKmFc
+
+Shaktimaan was conceptualised by Khanna in 1981, when he was working on a film with Rajshri Productions. He narrated the idea to producer Rajkumar Barjatya, who liked it, and the two adapted it into a film titled Akash. In November 1997, Screen reported quoted him: "I would watch my nephew sitting glued to the TV whenever Power Zone came on, shooting with imaginary laser guns, or operating some imaginary hi-fi gadget in his own little world. That's when it struck me that if I made Shaktimaan I would have a readymade audience of kids who are always most impressed with SFX tricks." Over the development of the titular character, Khanna said, "In Indian mythology there are a lot of strong characters but no super-heroes. All we get to see are Superman or Spiderman, who are alien concepts. That's why I decided to create an Indian super-hero, Shaktimaan, who is born out of a yagna, and a result of all the creative energies of the universe. A superhero who can fly...disappear. And when he is not in his super-hero avataar he's a bumbling photographer who always misses scoop much to the chagrin of his boss Kitu Gidwani." He added that the attire of Shaktimaan's alter ego, "complete with buck teeth and floppy hair" was inspired by American comedian Jerry Lewis.
+
+Having wanted the "best ever" special effects seen on Indian television, following the series' airing, Khanna felt that it " short of  expectations". He added, "When I had planned the serial I wanted the kind of special effects seen in Superman, Spiderman and Terminator. Maybe I was too ambitious. Computer graphics has just arrived in India and there is lack of trained professionals here." He further said, the special effects for each episode costed him ?2 lakh, and ?10 lakh overall.
+
+The series was sponsored by Parle-G from its first episode.[4Sweetness is produced by the presence of sugars, some proteins, and other substances such as alcohols like anethol, glycerol and propylene glycol, saponins such as glycyrrhizin, artificial sweeteners (organic compounds with a variety of structures), and lead compounds such as lead acetate.[citation needed] It is often connected to aldehydes and ketones, which contain a carbonyl group.[citation needed] Many foods can be perceived as sweet despite of the sugar content, alcoholic drinks can taste sweet despite of having sugar or not, some plants such as liquorice, anise or stevia are sometimes used as sweeteners. Rebaudioside A is a steviol glycoside coming from stevia that is 200 times sweeter than sugar. Lead acetate and other lead compounds were used as sweeteners, mostly for wine, until lead poisoning became known. Romans used to deliberately boil the must inside of lead vessels to make a sweeter wine. Sweetness is detected by a variety of G protein-coupled receptors coupled to a G protein that acts as an intermediary in the communication between taste bud and brain, gustducin. These receptors are T1R2+3 (heterodimer) and T1R3 (homodimer), which account for sweet sensing in humans and other animals.
+
+--4605bb62834f156c593045ee90afbbd2_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>&nbsp;
+<center><a href="http://snipervision.co/NK2m2fS1kRrT21ciimkf0aH2LUoY21-ZInhtJ4gW0EKBfHE"><img src="http://snipervision.co/42939c700fc1619467.jpg" /><img height="1" src="http://www.snipervision.co/0VrTaZq9S-DEcueISg-y1wTHaoiLXNps1SDuWTvbodNvuSkX" width="1" /></a>
+<div style="width:600px; text-align:left;"><br />
+<a href="http://snipervision.co/xO-crBwRDJgtDLOAUIyvWCO2hUgwLaq1ENFE8xWWf1h4UmY" style="font-size:25px;color:#aa4e5d;"><b>CLAIM Your Trump 2020 Commemorative Golf Ball!</b></a><br />
+<br />
+Wow! Every Trump supporter will LOVE this brand new, never-before-released, Trump 2020 commemorative golf ball.<br />
+<br />
+No matter if you&#39;re an avid golfer or you&#39;ve never stepped foot on a golf course, this super cool keepsake is a must-have.<br />
+<br />
+<a href="http://snipervision.co/xO-crBwRDJgtDLOAUIyvWCO2hUgwLaq1ENFE8xWWf1h4UmY"><img alt="Image Issue.? Use Me." src="http://snipervision.co/9c2f6e70ed847df2f2.png" style="border: 5px solid #aa4e5d; width:600px;" /> </a><br />
+<br />
+CLAIM Your Trump 2020 Commemorative Golf Ball!<br />
+<br />
+Wow! Every Trump supporter will LOVE this brand new, never-before-released, Trump 2020 commemorative golf ball.<br />
+<br />
+No matter if you&#39;re an avid golfer or you&#39;ve never stepped foot on a golf course, this super cool keepsake is a must-have.<br />
+<br />
+Patriot Powered Products was able to secure 500 of these golf balls for this nationwide promotion...<br />
+<br />
+..And they are expecting a huge level of interest in these balls which won&#39;t be found in stores or golf course pro shops.<br />
+<br />
+If you want to own a piece of history then you&#39;ll want to claim yours today...<br />
+<br />
+<a href="http://snipervision.co/xO-crBwRDJgtDLOAUIyvWCO2hUgwLaq1ENFE8xWWf1h4UmY"><img alt="Image Issue.? Use Me." src="http://snipervision.co/9c7f469152217fe6ba.jpg" style="border: 5px solid #aa4e5d; width:600px;" /> </a><br />
+<br />
+Orders are being taken on a first come, first serve basis so you better act fast if you want to add this golf ball to your collection.<br />
+<br />
+Remember, even if you&#39;re not a golfer this is a great piece to display on a shelf or to pass along as a gift.<br />
+<br />
+<a href="http://snipervision.co/xO-crBwRDJgtDLOAUIyvWCO2hUgwLaq1ENFE8xWWf1h4UmY"><b>Go here now to claim yours while they&#39;re still in stock.</b></a><br />
+<br />
+<a href="http://snipervision.co/xO-crBwRDJgtDLOAUIyvWCO2hUgwLaq1ENFE8xWWf1h4UmY"><img alt="Image Issue.? Use Me." src="http://snipervision.co/afa24b1cd60f794c27.;kkjilijlo.gif" style="border: 5px solid #aa4e5d; width:600px;" /> </a><br />
+<br />
+Just a final reminder, if you go to the link above and see a big &quot;sold out&quot; banner then you&#39;ll know you&#39;ve missed out.<br />
+<br />
+They aren&#39;t sure they&#39;ll be able to secure another batch just yet.<br />
+<br />
+If you&#39;re interested at all I suggest you <a href="http://snipervision.co/xO-crBwRDJgtDLOAUIyvWCO2hUgwLaq1ENFE8xWWf1h4UmY"><b>go grab your Trump 2020 golf ball while you can!</b></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Shaktimaan was conceptualised by Khanna in 1981, when he was working on a film with Rajshri Productions. He narrated the idea to producer Rajkumar Barjatya, who liked it, and the two adapted it into a film titled Akash. In November 1997, Screen reported quoted him: &quot;I would watch my nephew sitting glued to the TV whenever Power Zone came on, shooting with imaginary laser guns, or operating some imaginary hi-fi gadget in his own little world. That&#39;s when it struck me that if I made Shaktimaan I would have a readymade audience of kids who are always most impressed with SFX tricks.&quot; Over the development of the titular character, Khanna said, &quot;In Indian mythology there are a lot of strong characters but no super-heroes. All we get to see are Superman or Spiderman, who are alien concepts. That&#39;s why I decided to create an Indian super-hero, Shaktimaan, who is born out of a yagna, and a result of all the creative energies of the universe. A superhero who can fly...disappear. And when he is not in his super-hero avataar he&#39;s a bumbling photographer who always misses scoop much to the chagrin of his boss Kitu Gidwani.&quot; He added that the attire of Shaktimaan&#39;s alter ego, &quot;complete with buck teeth and floppy hair&quot; was inspired by American comedian Jerry Lewis. Having wanted the &quot;best ever&quot; special effects seen on Indian television, following the series&#39; airing, Khanna felt that it &quot; short of  expectations&quot;. He added, &quot;When I had planned the serial I wanted the kind of special effects seen in Superman, Spiderman and Terminator. Maybe I was too ambitious. Computer graphics has just arrived in India and there is lack of trained professionals here.&quot; He further said, the special effects for each episode costed him ?2 lakh, and ?10 lakh overall. The series was sponsored by Parle-G from its first episode.[4 Sweetness is produced by the presence of sugars, some proteins, and other substances such as alcohols like anethol, glycerol and propylene glycol, saponins such as glycyrrhizin, artificial sweeteners (organic compounds with a variety of structures), and lead compounds such as lead acetate.[citation needed] It is often connected to aldehydes and ketones, which contain a carbonyl group.[citation needed] Many foods can be perceived as sweet despite of the sugar content, alcoholic drinks can taste sweet despite of having sugar or not, some plants such as liquorice, anise or stevia are sometimes used as sweeteners. Rebaudioside A is a steviol glycoside coming from stevia that is 200 times sweeter than sugar. Lead acetate and other lead compounds were used as sweeteners, mostly for wine, until lead poisoning became known. Romans used to deliberately boil the must inside of lead vessels to make a sweeter wine. Sweetness is detected by a variety of G protein-coupled receptors coupled to a G protein that acts as an intermediary in the communication between taste bud and brain, gustducin. These receptors are T1R2+3 (heterodimer) and T1R3 (homodimer), which account for sweet sensing in humans and other animals.</span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://snipervision.co/KiuJ75_DE_4djoTmt72R4KPPEy1MAJFzckyJDBDh2dL2lro" target="_blank"><img src="http://snipervision.co/bf74397d9a3ce6cea8.jpg" /></a></center>
+&nbsp;</div>
+</center>
+</body>
+</html>
+
+--4605bb62834f156c593045ee90afbbd2_263e_40195--

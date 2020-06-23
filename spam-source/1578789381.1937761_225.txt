@@ -1,0 +1,84 @@
+Return-Path: <SRS0=W8DDWp=3A=zosey.buzz=canvas_prints_discount-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21390 invoked from network); 11 Jan 2020 18:21:05 -0000
+Received: (qmail 17909 invoked from network); 11 Jan 2020 18:21:04 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Jan 2020 18:21:04 -0000
+Received: (qmail 24566 invoked by uid 48516); 11 Jan 2020 18:21:02 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 30730 invoked from network); 11 Jan 2020 18:21:01 -0000
+Received: from mail.zosey.buzz ([193.201.140.151])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 11 Jan 2020 18:21:00 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=zosey.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas_prints_discount@zosey.buzz;
+ bh=Z698InqoLMKun5UL31l1tmposgQ=;
+ b=Jj0MONATadWcXabE6hxjppUzP8p+75cjAt1Q2WyuXjJXnd8f6tjs7nMYJEG3PNSdlcS3OinIEMpD
+   K7h7mhgRaWZQINYqOyBArvdmkrBdBKF937bax47hfJ/H8QOhVtODctgD9hySx+jDPGYq5d2LpqgB
+   p+St5MyKEwLfAw411uo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=zosey.buzz;
+ b=npOPdtQFO7NEhXJSHfPUwW1rIaDtf6kRsrfm3iLAoIqLMZY/5QzleKWzN+pdS8VbBR/MSGcttR14
+   T274/TnGNASTWSJ9+6WROmipTzgIllXnoDbAv6ThecBOCQjXrEfC44jfpSroJmpb5B9KMbxKiCY8
+   BRWmyDEAeOEU2pxORaM=;
+Received: by mail.zosey.buzz id h3890o0001gq for <bruce@untroubled.org>; Sat, 11 Jan 2020 13:16:32 -0500 (envelope-from <canvas_prints_discount-bruce=untroubled.org@zosey.buzz>)
+Date: Sat, 11 Jan 2020 13:16:32 -0500
+From: "Canvas Prints Discount" <canvas_prints_discount@zosey.buzz>
+To:   <bruce@untroubled.org>
+Subject: Up to 93% off Custom Prints this Fall
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_397_2078059187.1578766578498"
+List-Unsubscribe: <http://www.zosey.buzz/6296ik2H395XH89Z13g11BpYwn1a14w21wFv4GIf4rxvs4FhIHEsvZ10oQbRQeeoJK6b1YuQ06z2@THi/Cyclades>
+Message-ID: <0.0.0.2C.1D5C8AB40935C66.6118D9@mail.zosey.buzz>
+Content-Length: 3342
+
+------=_Part_397_2078059187.1578766578498
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>confiscating circuits</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.zosey.buzz/8f94G2395r8l6O11X71dbL1a14s21MFv4GIf4rxvs4FhIHEsvZ10yQbRQeeoJK6aq1I0C6Azz0Hi/Hispanicize">=
+CANVAS BIGGEST SALE EVER 93% off&nbsp; </a></span></span><br /> <br /> <a h=
+ref=3D"http://www.zosey.buzz/8f94G2395r8l6O11X71dbL1a14s21MFv4GIf4rxvs4FhIHEsvZ10yQbRQeeoJK6aq1I0C6Azz0Hi/Hispanicize"><img alt=3D"easy canvas" src=3D"http://www.zosey.buzz/a614V2395bs7Za11Y71de_1a14U21vFv4GIf4rxvs4FhIHEsvZ10BQbRQeeoJK5G1AZ06sUkHXi/computation" style=3D"wi=
+dth: 665px; height: 730px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Tap <a href=3D"=
+http://www.zosey.buzz/b515f23o95p8Ss611m71dcw1a14O21JFv4GIf4rxvs4FhIHEsvZ10jQbRQeeoJK5q1l0m5BXHMi/computation">here&nbsp; </a><br /> Or Write to: 11525A Stonehollow Dr. Suite=
+ 100 Austin, TX 78758<br /> <br /> 6547 N Academy Blvd #2128<br /> COLORADO=
+ SPRINGS CO 80918<br /> Leave <a href=3D"http://www.zosey.buzz/turmoil/2c44W2395t_8v911P71ddV1a14F21qFv4GIf4rxvs4FhIHEsvZ10eQbRQeeoJK7fyAz10y6JMWHpi">Here</a><br />=
+ <br /> <br /> <span style="prototypes"></span><big><style></style></big><style face="blockade"><font face="vastness"></font></style><font><span></font></span><font><font title="outgrowth"></font></font></span></span><br /> <br /> <span style=
+=3D"color:#FFFFFF; ">A teacher was killed and six other people injured when=
+ an 11-year-old student opened fire Friday at a private school in the north=
+ern Mexican state of Coahuila, officials said. The shooter, a sixth-grader =
+armed with two guns, also died, said Adelaido Flores, the regional coordina=
+tor for public safety in Coahuila, near the Texas border. Coahuila Gov. Mig=
+uel Angel Riquelme told reporters that classmates said the boy was generall=
+y well behaved but voiced a strange warning before his rampage on Friday. &=
+quot; He told some classmates, ' Today is the day,' &quot; Riquelme said. S=
+hortly after 8 a.m., the student asked to use the restroom. After about 15 =
+minutes, the teacher went to look for him and found him leaving the restroo=
+m with weapons in hand, the governor said. Riquelme said authorities believ=
+e the boy was influenced by the video game Natural Selection, a first-perso=
+n shooting game. He said the boy was wearing a undershirt emblazoned with t=
+he game' s name.</span><br /> <br /> <br /> &nbsp; </p>=20
+  </center> <style><style></style></style><big><font dir="Scotland"></big><span></font><small></span><span></small><font></font></span><big><font size="conceiving"></font></big> =20
+ <img src=3D"http://www.zosey.buzz/computation/9725KI2395a8Z5W13M7H1dRfr1a14S21DFv4GIf4rxvs4FhIHEsvZ10GQbRQeeoJK5D1v0_6UqPlHi" alt=3D""/></body>
+</html>
+
+------=_Part_397_2078059187.1578766578498--
+

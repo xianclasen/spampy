@@ -1,0 +1,100 @@
+Return-Path: <SRS0=FkZGaM=3E=mail.sciencnenatural.co=6421-2982-85526-1719-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 7192 invoked from network); 15 Jan 2020 10:20:32 -0000
+Received: (qmail 10551 invoked from network); 15 Jan 2020 10:20:31 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Jan 2020 10:20:31 -0000
+Received: (qmail 19711 invoked by uid 48516); 15 Jan 2020 10:20:31 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8110 invoked from network); 15 Jan 2020 10:20:31 -0000
+Received: from loge.sciencnenatural.co (maslq23xb.masontone.host [170.130.172.197])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 15 Jan 2020 10:20:30 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=sciencnenatural.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=CarInsuranceInfo@sciencnenatural.co;
+ bh=QW2otx2yGrJDfCQQcUc9bc4eJIM=;
+ b=M7Uv4h4/dB9hDwjbKccwoPUVQr/i0ye3JX6IlksvVyhlCqT8X7O9nIER6jr0eb5RDDYrl5HwR/m1
+   J19cDfL0c0EKrVCkDaY/zTmG5Mc+zcw7PygwCxOs1ODoi4Dl5R4C9FAek+dvbTG/4qV6jEC0XxO7
+   8R8dIcge9rG5V0KnttI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=sciencnenatural.co;
+ b=IGF7e4EW28ssUNnzJgq+P/EZ3fiGCE7E2IwQOOToET9JLB3WKIdQw6njgMAQghv+oulgwm9PIWxT
+   bKC9rtUzN5ZwSpV/q+s2VjG0+w+aNQEDaphnv3je6iOhMwTSnN+SDHK8cmhQEkAu7Ogv4QxcL9bS
+   rFFF4A9QWqY6qJIMyOE=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="6f83c3a41471b8752ccb9304ea194dc2_ba6_14e16"
+Date: Wed, 15 Jan 2020 05:03:59 -0500
+From: "Car Insurance" <CarInsuranceInfo@sciencnenatural.co>
+Reply-To: "Car Insurance" <CarInsurance@sciencnenatural.co>
+Subject: Get the Best Rate for 2019
+To: <bruce@untroubled.org>
+Message-ID: <nq0n2prqy4ea9did-y1edo398hl5jk38g-ba6-14e16@sciencnenatural.co>
+Content-Length: 7234
+
+--6f83c3a41471b8752ccb9304ea194dc2_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Get the Best Rate for 2019
+
+http://sciencnenatural.co/jmTPzN7rZzX06Bh5IjvPXL8REWY5mLVgd6-iYPm8DTztyqSb
+
+http://sciencnenatural.co/dI80ZW5qiKv-f9Zv26l-SbLwRTeiSQlj6W3Ga3wU_EaqI00Y
+
+The son of a Javanese primary school teacher, an aristocrat named Raden Soekemi Sosrodihardjo, and his Hindu Balinese wife from the Brahmin varna named Ida Ayu Nyoman Rai from Buleleng, Sukarno was born in Surabaya in the Dutch East Indies (now Indonesia), where his father had been sent following an application for a transfer to Java. He was originally named Kusno Sosrodihardjo. Following Javanese custom, he was renamed after surviving a childhood illness. After graduating from a native primary school in 1912, he was sent to the Europeesche Lagere School (a Dutch primary school) in Mojokerto. Subsequently, in 1916, Sukarno went to a Hogere Burgerschool (a Dutch type higher level secondary school) in Surabaya, where he met Tjokroaminoto, a nationalist and founder of Sarekat Islam. In 1920, Sukarno married Tjokroaminoto's daughter Siti Oetari. In 1921, he began to study civil engineering (with focusing on architecture) at the Technische Hoogeschool te Bandoeng (Bandoeng Institute of Technology), where he obtained an Ingenieur degree (abbreviated as "Ir.", a Dutch type engineer's degree) in 1926. During his study in Bandung, Sukarno became romantically involved with Inggit Garnasih, the wife of Sanoesi, the owner of the boarding house where he lived as a student. Inggit was 13 years older than Sukarno. In March 1923, Sukarno divorced Siti Oetari to marry Inggit (who also divorced her husband Sanoesi). Sukarno later divorced Inggit and married Fatmawati.
+
+After graduation in 1926, Sukarno and his university friend Anwari established the architectural firm Sukarno & Anwari in Bandung, which provided planning and contractor services. Among Sukarno's architectural works are the renovated building of the Preanger Hotel (1929), where he acted as assistant to famous Dutch architect Charles Prosper Wolff Schoemaker. Sukarno also designed many private houses on today's Jalan Gatot Subroto, Jalan Palasari, and Jalan Dewi Sartika in Bandung. Later on, as president, Sukarno remained engaged in architecture, designing the Proclamation Monument and adjacent Gedung Pola in Jakarta; the Youth Monument (Tugu Muda) in Semarang; the Alun-alun Monument in Malang; the Heroes' Monument in Surabaya; and also the new city of Palangkaraya in Central Kalimantan.
+
+Atypically even among the country's small educated elite, Sukarno was fluent in several languages. In addition to the Javanese language of his childhood, he was a master of Sundanese, Balinese and Indonesian, and was especially strong in Dutch. He was also quite comfortable in German, English, French, Arabic, and Japanese, all of which were taught at his HBS. He was helped by his photographic memory and precocious mind.
+
+--6f83c3a41471b8752ccb9304ea194dc2_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://sciencnenatural.co/3UblYuHfee0bJXcDcHRMe0JqaJkiJIlk3oaOd_i7yDbFu4E6"><img src="http://sciencnenatural.co/d45bf22d6489377622.jpg" /><img height="1" src="http://www.sciencnenatural.co/fqOVqOfCHZq3vBY-aXHTPMT0QsH19btG2roW2X9_Xmwnf4-n" width="1" /></a>
+<center><a href="http://sciencnenatural.co/dI80ZW5qiKv-f9Zv26l-SbLwRTeiSQlj6W3Ga3wU_EaqI00Y" style="font-size:30px;font-family:Arial;color:#1d5da7;font-weight:bold;">Get the Best Rate for 2019</a><br />
+<br />
+&nbsp;
+<div><a href="http://sciencnenatural.co/dI80ZW5qiKv-f9Zv26l-SbLwRTeiSQlj6W3Ga3wU_EaqI00Y"><img src="http://sciencnenatural.co/2694197653f504c55e.jpg" style="border:3px solid #c20000;box-shadow:0px 0px 5px 5px #00d581;" /></a></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sciencnenatural.co/Z_FnMfoUXhxFEGKisrrIkBmmv6tsnz7tqS05FbOejlVyyPqQ"><img src="http://sciencnenatural.co/fbc39f6f792ad12791.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sciencnenatural.co/jmTPzN7rZzX06Bh5IjvPXL8REWY5mLVgd6-iYPm8DTztyqSb"><img src="http://sciencnenatural.co/c5bd4a5e7031881c91.jpg" /></a><br />
+<br />
+<span style="color:#FFFFFF;">The son of a Javanese primary school teacher, an aristocrat named Raden Soekemi Sosrodihardjo, and his Hindu Balinese wife from the Brahmin varna named Ida Ayu Nyoman Rai from Buleleng, Sukarno was born in Surabaya in the Dutch East Indies (now Indonesia), where his father had been sent following an application for a transfer to Java. He was originally named Kusno Sosrodihardjo. Following Javanese custom, he was renamed after surviving a childhood illness. After graduating from a native primary school in 1912, he was sent to the Europeesche Lagere School (a Dutch primary school) in Mojokerto. Subsequently, in 1916, Sukarno went to a Hogere Burgerschool (a Dutch type higher level secondary school) in Surabaya, where he met Tjokroaminoto, a nationalist and founder of Sarekat Islam. In 1920, Sukarno married Tjokroaminoto&#39;s daughter Siti Oetari. In 1921, he began to study civil engineering (with focusing on architecture) at the Technische Hoogeschool te Bandoeng (Bandoeng Institute of Technology), where he obtained an Ingenieur degree (abbreviated as &quot;Ir.&quot;, a Dutch type engineer&#39;s degree) in 1926. During his study in Bandung, Sukarno became romantically involved with Inggit Garnasih, the wife of Sanoesi, the owner of the boarding house where he lived as a student. Inggit was 13 years older than Sukarno. In March 1923, Sukarno divorced Siti Oetari to marry Inggit (who also divorced her husband Sanoesi). Sukarno later divorced Inggit and married Fatmawati. After graduation in 1926, Sukarno and his university friend Anwari established the architectural firm Sukarno &amp; Anwari in Bandung, which provided planning and contractor services. Among Sukarno&#39;s architectural works are the renovated building of the Preanger Hotel (1929), where he acted as assistant to famous Dutch architect Charles Prosper Wolff Schoemaker. Sukarno also designed many private houses on today&#39;s Jalan Gatot Subroto, Jalan Palasari, and Jalan Dewi Sartika in Bandung. Later on, as president, Sukarno remained engaged in architecture, designing the Proclamation Monument and adjacent Gedung Pola in Jakarta; the Youth Monument (Tugu Muda) in Semarang; the Alun-alun Monument in Malang; the Heroes&#39; Monument in Surabaya; and also the new city of Palangkaraya in Central Kalimantan. Atypically even among the country&#39;s small educated elite, Sukarno was fluent in several languages. In addition to the Javanese language of his childhood, he was a master of Sundanese, Balinese and Indonesian, and was especially strong in Dutch. He was also quite comfortable in German, English, French, Arabic, and Japanese, all of which were taught at his HBS. He was helped by his photographic memory and precocious mind. </span></center>
+</body>
+</html>
+
+--6f83c3a41471b8752ccb9304ea194dc2_ba6_14e16--

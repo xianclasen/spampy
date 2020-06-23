@@ -1,0 +1,113 @@
+Return-Path: <SRS0=WGzTJ3=2W=amico21.date=offers.medicareplancom-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27587 invoked from network); 1 Jan 2020 21:18:44 -0000
+Received: (qmail 6563 invoked from network); 1 Jan 2020 21:18:43 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Jan 2020 21:18:43 -0000
+Received: (qmail 3395 invoked by uid 48516); 1 Jan 2020 21:18:42 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 4452 invoked from network); 1 Jan 2020 21:18:42 -0000
+Received: from mail.amico21.date (69-94-134-250.nca.lanset.com [69.94.134.250])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 01 Jan 2020 21:18:42 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=amico21.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers.medicareplancom@amico21.date;
+ bh=+DnQaKHOPgGtO/c9KmJtZ7uouQg=;
+ b=TYCvdu6Btcut7M8Xa1uBS/pVAaC7h746LGuWA79XiafW7Oz1msU9s8ju89T6vlRJaAe4cvaGLQ7C
+   HqyneLh9+W6P0KBPmLoxcJumWyjpZvL3ow9xVfDlmF7sWOAZ/1gbETVXG2MmlJpmwowtePyVuhSQ
+   Ft7LWLaXMgXgZk1nakw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=amico21.date;
+ b=lX5Bd6QOOFCQpt6E9KpU1ZsFFABSNPH/gMbWhAAZGx/qKTUirk5he6s2JQBsQnarxbCwDYSIF53O
+   Fpko67Y+u0LnJ9R9Zk6UBwH9hs17Vzo7X+GQGo1sNmf6yIxyj9bMcz3fvUlB32ayb7obaLd1zm6D
+   8Phz4+n3IN4F5wLypJ4=;
+Received: by mail.amico21.date id h1k6b40001gs for <bruce@untroubled.org>; Wed, 1 Jan 2020 16:13:03 -0500 (envelope-from <offers.medicareplancom-bruce=untroubled.org@amico21.date>)
+Date: Wed, 1 Jan 2020 16:13:03 -0500
+From: "Offers MedicarePlan.com" <offers.medicareplancom@amico21.date>
+To:   <bruce@untroubled.org>
+Subject: 2020 Medicare Open Enrollment
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_310_1548989807.1577913177950"
+List-Unsubscribe: <http://www.amico21.date/a614k2395M8Kw913f1vGw1Ch19b0T21PFv4GIf4rxvs4FhIHEsvZ10FQORdeQoC95akO105HLpHi/lasts-Oedipally>
+Message-ID: <0.0.0.22.1D5C0E8411C55E0.65DA39@mail.amico21.date>
+Content-Length: 4744
+
+------=_Part_310_1548989807.1577913177950
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>forever</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <div style=3D"text-align: center; ">
+    <span style=3D"font-family:arial,helvetica,sans-serif; "><span style=3D=
+"font-size:24px; "><a href=3D"http://www.amico21.date/6a16t239UG5s8Kn611w6fe7M19b0x21MFv4GIf4rxvs4FhIHEsvZ10gQORdeQoC95n1A0O6YkHpil/cleared-journalizing">Last day to enroll for Medicare <=
+/a></span></span>
+    <br />=20
+    <br /> &nbsp;=20
+   </div>=20
+   <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"border-collapse: collapse !important; caret-color: rgb(0, 0, 0); =
+color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; fon=
+t-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphan=
+s: auto; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-st=
+roke-width: 0px; text-decoration: none; max-width: 700px; width: 700px; mar=
+gin: 0px auto; padding-left: 0px; border: none; display: block; background-=
+color: white; " width=3D"700">=20
+    <tbody>=20
+     <tr>=20
+      <td class=3D"image"><a href=3D"http://www.amico21.date/6a16t239UG5s8Kn611w6fe7M19b0x21MFv4GIf4rxvs4FhIHEsvZ10gQORdeQoC95n1A0O6YkHpil/cleared-journalizing" style=3D"text-decoration: =
+none; " target=3D"blank"><img alt=3D"MedicarePlan.com" src=3D"http://www.amico21.date/e996zs2q395G7Nwa12m6feaxU19b0y21MFv4GIf4rxvs4FhIHEsvZ10sQORdeQoC97y1m0sUj5MJ2Hi/senders-molesting" =
+style=3D"border: 0px solid; outline: currentcolor none medium; text-decorat=
+ion: none; margin: 0px auto; padding-left: 0px; display: block; width: 94%;=
+ float: right; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td align=3D"center" style=3D"font-family: &quot; Gill Sans&quot; , H=
+elvetica, Arial, &quot; sans-serif&quot; ; font-size: 12px; color: rgb(153,=
+ 153, 153); ">If you' d prefer not to get new emails Press <a href=3D"=
+http://www.amico21.date/42b4C2395r8BY612RA6fe8X19b0V21wFv4GIf4rxvs4FhIHEsvZ10XQORdeQoC95s10gi6HWAlHi/encouraging-paradigms" style=3D"text-decoration: none; font-family: &quot; Gill Sans&quot; =
+, Helvetica, Arial, &quot; sans-serif&quot; ; font-size: 12px; color: rgb(1=
+53, 153, 153); ">Here</a></td>=20
+     </tr>=20
+     <tr>=20
+      <td align=3D"center" style=3D"font-family: &quot; Gill Sans&quot; , H=
+elvetica, Arial, &quot; sans-serif&quot; ; font-size: 12px; color: rgb(153,=
+ 153, 153); ">Or Write to: 113 Cherry Street #88030, Seattle, WA 98104-2205=
+</td>=20
+     </tr>=20
+     <tr>=20
+      <td style=3D"text-align: center; "><br /> <span style=3D"color: rgb(1=
+69, 169, 169); caret-color: rgb(0, 0, 0); font-family: Helvetica; font-size=
+: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal;=
+ letter-spacing: normal; text-align: center; text-indent: 0px; text-transfo=
+rm: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width=
+: 0px; text-decoration: none; float: none; display: inline !important; ">65=
+47 N Academy Blvd #2128</span><br style=3D"caret-color: rgb(0, 0, 0); color=
+: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal=
+; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; o=
+rphans: auto; text-align: center; text-indent: 0px; text-transform: none; w=
+hite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> <span=
+ style=3D"caret-color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12p=
+x; font-style: normal; font-variant-caps: normal; font-weight: normal; lett=
+er-spacing: normal; text-align: center; text-indent: 0px; text-transform: n=
+one; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px=
+; text-decoration: none; float: none; display: inline !important; "><font c=
+olor=3D"#a9a9a9">COLORADO SPRINGS CO 80918</font>' &nbsp; </span><br /> <sp=
+an style=3D"color:#A9A9A9; ">Exit <a href=3D"http://www.amico21.date/drench-consideration/5ee6QXZ2395yZ8q913cK6Ufe9W19b0P21cFv4GIf4rxvs4FhIHEsvZ10cQORdeQoC95CJu105WXH2i">email here=
+</a></span><br /> &nbsp; </td>=20
+     </tr>=20
+    </tbody>=20
+   </table> <font dir="contented"><font></font></font><small><style color="gouging"></small></style><span></span><small></small><big></big><small></small><font style="Isaacson"><style id="gloss"></font></style>
+  </center>  =20
+ <img src=3D"http://www.amico21.date/6476o23i9N5cS8B511K6febp19b0K21OFv4GIf4rxvs4FhIHEsvZ10PQORdeQoC96P10HTg6dJXBHi/disburses-pattered" alt=3D""/></body>
+</html>
+
+------=_Part_310_1548989807.1577913177950--
+

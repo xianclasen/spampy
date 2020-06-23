@@ -1,0 +1,211 @@
+Return-Path: <SRS0=EuG9PM=3N=joymas.monster=vivint-home-security-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 18859 invoked from network); 24 Jan 2020 22:12:10 -0000
+Received: (qmail 22644 invoked from network); 24 Jan 2020 22:12:09 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 22:12:09 -0000
+Received: (qmail 19728 invoked by uid 48516); 24 Jan 2020 22:12:08 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 11059 invoked from network); 24 Jan 2020 22:12:08 -0000
+Received: from mail.joymas.monster ([85.93.5.70])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 24 Jan 2020 22:12:07 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=joymas.monster;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=vivint-home-security@joymas.monster;
+ bh=QJ+eQWOzqWNcGBqBEV4e/uoV0M4=;
+ b=vewS5gRWfau23xHowa3MkN7eCpNb8sMQTjp1eTGMYb9xdciT/9ghdQcsADCVyiStHEokXLyFOLjK
+   he4EQS+Mop7EBIyb9kmi5Fzm+HIT2d/FrIU3qy6LwmCJ1BepuXLiHBgVHSpEi4HD7dD2GIA1XbNr
+   1aeW2ZLKMVrXt3r+6OM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=joymas.monster;
+ b=kmRbykhBn7xNRTzMvJgz/rciKHQaES1rr0+WWzwM9Qc3uuzGrTtcB/N9y0GZV4QMk/+lDYnni6hT
+   kPjFN7wheFS1eG3Q5zUIl1A09bOBPxDLKaQx1CqfJ0wuXfn6Z2SpUPw/30S+hvWxclT33B82EzLz
+   +6L3V6BowfjdBp6DaUM=;
+Received: by mail.joymas.monster id h5dlrg0001gm for <bruce@untroubled.org>; Fri, 24 Jan 2020 17:06:37 -0500 (envelope-from <vivint-home-security-bruce=untroubled.org@joymas.monster>)
+Date: Fri, 24 Jan 2020 17:06:37 -0500
+From: "Vivint Home Security" <vivint-home-security@joymas.monster>
+To:   <bruce@untroubled.org>
+Subject: 24/7 home monitoring with Vivint.SmartHome
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_175_208889378.1579903578245"
+List-Unsubscribe: <http://www.joymas.monster/articulators-earthquakes/v6c5e23r95zB8l913U11ODwMG3528x21UFv4GIf4rxvs4FhIHEsvZ11zRPnd99SoG95q1Cx06YN11cY>
+Message-ID: <0.0.0.14.1D5D3028C5799DA.33C0FB@mail.joymas.monster>
+Content-Length: 12240
+
+------=_Part_175_208889378.1579903578245
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>orbiting</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard=
+; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: =
+none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -web=
+kit-text-stroke-width: 0px; text-decoration: none; ">=20
+    <tbody>=20
+     <tr>=20
+      <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mi=
+ddle">&nbsp;=20
+       <center>
+        <a href=3D"http://www.joymas.monster/a435f23G95C8K6A13NTec81xl3528_21RFv4GIf4rxvs4FhIHEsvZ11mRPnd99SoG95aB10M6zjMcY2/inhibition-remote"><img alt=3D"safe" src=3D"http://www.joymas.monster/present-hello/8826k2xq395eun7a11Lec85O3528j21SFv4GIf4rxvs4FhIHEsvZ11jRPnd99SoG96HTTW105g2XcY" style=
+=3D"border-width: 0px; border-style: solid; height: 1285px; width: 701px; "=
+ /></a>
+       </center> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; "><strong>Offer Details</strong></p>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; ">Expires January 31, 2020. Use promo code: WINT=
+ER. Qualifying system purchase requires minimum $599.99 equipment purchase =
+and minimum $29.99/month services agreement. Equipment purchase may be fina=
+nced subject to an agreement with one of Vivint' s financing partners. Offe=
+r not available in all states or provinces. Taxes and local permit fees may=
+ apply. New Vivint Customers only.</p>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; "><strong>&nbsp; </strong></p>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; "><strong>Gift Card</strong></p>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; ">Gift Card offer requires redemption. You will =
+receive an email from&nbsp; <a href=3D"mailto:help@vivintgift.com" rel=3D"n=
+oopener" target=3D"_blank">help@vivintgift.com</a>&nbsp; <wbr />within 10-1=
+5 business days of activation / installation of your new Vivint system. Thi=
+s email will contain your Gift Card Redemption Form. Redemption Form must b=
+e printed, completed, and mailed to the address on the form within 30 days =
+from the date of email date to properly submit your Redemption Form. Your g=
+ift card will be mailed to you within 3-6 weeks of proper Redemption Form s=
+ubmission.</p>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; ">&nbsp; </p>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; "><strong>Financing Options Available</strong></=
+p>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; ">Financing eligibility and terms subject to cre=
+dit approval. Financing options require a service agreement coterminous wit=
+h applicable financing agreement (for example $29.99/month for 60 months =
+=3D total services cost $1,799.40). Month-to-month service agreement availa=
+ble when equipment is purchased upfront. Additional equipment may be purcha=
+sed and financed.</p>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; ">&nbsp; </p>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; "><strong>Vivint Systems &amp; Services</strong>=
+</p>=20
+   <p style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family:=
+ -webkit-standard; font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-t=
+ransform: none; white-space: normal; widows: auto; word-spacing: 0px; -webk=
+it-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration:=
+ none; text-align: center; ">System supports up to six cameras subject to s=
+ufficient WiFi speeds. Without a Vivint services plan, product and system f=
+unctionality is limited (including loss of remote connectivity). Speak to a=
+ Vivint representative at the phone number in this offer for complete equip=
+ment, services, and package details, including pricing and financing detail=
+s. Products and services in Louisiana provided by Vivint Louisiana Commerci=
+al Certificate #58280. See Vivint license numbers&nbsp; <a data-saferedirec=
+turl=3D"https://www.google.com/url?q=3Dhttp://www.joymas.monster/dc74Q2395Gv8P613meucH82y3528l21QFv4GIf4rxvs4FhIHEsvZ11pRPnd99SoG95W10_U5azcY1/unpreserved-attentional&amp;source=3Dgmail&amp;us=
+t=3D1578784111006000&amp;usg=3DAFQjCNGufMZO8iz6PStADhbuDpQXQgwlrg" href=3D"=
+http://www.joymas.monster/dc74Q2395Gv8P613meucH82y3528l21QFv4GIf4rxvs4FhIHEsvZ11pRPnd99SoG95W10_U5azcY1/unpreserved-attentional" rel=3D"noopener" target=3D"_blank">here.</a></p>=20
+   <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, =
+0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-=
+indent: 0px; text-transform: none; white-space: normal; widows: auto; word-=
+spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0p=
+x; text-decoration: none; ">
+    <br />=20
+    <font face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D"1">If you'=
+ d prefer not to receive future emails, <a href=3D"http://www.joymas.monster/abb4m2395lo8k613Sec8MG3S3528x21bFv4GIf4rxvs4FhIHEsvZ11ORPnd99SoG97Oqg1By05mNcYW/paragraphs-diphthong"><font color=
+=3D"#666666">End Here</font></a>.<br /> 4931 N 300 W, Provo, UT 84604</font=
+>
+   </div> &nbsp;=20
+   <div style=3D"text-align: center; ">
+    <span style=3D"font-size:10px; "><a href=3D"http://www.joymas.monster/Kernighan-unionized/eb85L23H95e8R_913zec8R4FH3528x21aFv4GIf4rxvs4FhIHEsvZ11DRPnd99SoG96B_1wT06I12jcY">Leave&n=
+bsp; Here</a><span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);=
+ font-family: Helvetica; font-style: normal; font-variant-caps: normal; fon=
+t-weight: normal; letter-spacing: normal; text-align: center; text-indent: =
+0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-tex=
+t-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(=
+255, 255, 255); text-decoration: none; display: inline !important; float: n=
+one; "> </span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);=
+ font-family: Helvetica; font-style: normal; font-variant-caps: normal; fon=
+t-weight: normal; letter-spacing: normal; orphans: auto; text-align: center=
+; text-indent: 0px; text-transform: none; white-space: normal; widows: auto=
+; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-wi=
+dth: 0px; text-decoration: none; " /> <span style=3D"caret-color: rgb(0, 0,=
+ 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-=
+variant-caps: normal; font-weight: normal; letter-spacing: normal; text-ind=
+ent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -mo=
+z-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: =
+none; ">6547 N Academy Blvd #2128</span><span style=3D"caret-color: rgb(0, =
+0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; fon=
+t-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-a=
+lign: center; text-indent: 0px; text-transform: none; white-space: normal; =
+word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: =
+0px; background-color: rgb(255, 255, 255); text-decoration: none; display: =
+inline !important; float: none; "> </span><br style=3D"caret-color: rgb(0, =
+0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; fon=
+t-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphan=
+s: auto; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-st=
+roke-width: 0px; text-decoration: none; font-size: 11px; text-align: -webki=
+t-center; " /> <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0=
+); font-family: Helvetica; font-style: normal; font-variant-caps: normal; f=
+ont-weight: normal; letter-spacing: normal; text-indent: 0px; text-transfor=
+m: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: aut=
+o; -webkit-text-stroke-width: 0px; text-decoration: none; ">Colorado Spring=
+s CO 80918</span></span>
+   </div> <font color="immovability"></font><span lang="Hecuba"></span><small><style></style></small><style></style><big></big><font size="resented"></font><style id="firsthand"></style>
+  </center>  =20
+ <img src=3D"http://www.joymas.monster/2696e23wh95rVP8513GecwY86x3528h21dFv4GIf4rxvs4FhIHEsvZ11oRPnd99SoG96QG10HH6AlcPqY/articulators-earthquakes" alt=3D""/></body>
+</html>
+
+------=_Part_175_208889378.1579903578245--
+

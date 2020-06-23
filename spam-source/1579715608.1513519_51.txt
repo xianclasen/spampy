@@ -1,0 +1,102 @@
+Return-Path: <SRS0=61UYRJ=3L=mail.ultrasmall.bid=6792-2982-85526-1810-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15746 invoked from network); 22 Jan 2020 08:54:50 -0000
+Received: (qmail 23774 invoked from network); 22 Jan 2020 08:54:49 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 08:54:49 -0000
+Received: (qmail 11238 invoked by uid 48516); 22 Jan 2020 08:54:48 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 12883 invoked from network); 22 Jan 2020 08:54:48 -0000
+Received: from johnny.ultrasmall.bid ([170.130.174.36])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 22 Jan 2020 08:54:46 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=ultrasmall.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=CarInsurance@ultrasmall.bid;
+ bh=rcSasbm7gr6XKknK8cUGlFziU/E=;
+ b=BYg2yuEnNP0O7ybxH2IccVuDzmQsdcE1PFjfA4s2MnzAaweyMnjot3QlJGwq0iaAduE+AqySFzGA
+   i6s5KVl1RO0sNHxL99XabSBccCT7zbjKQZlooRJmOkiL1reYJuLnq8bN28bfujrHJBTWX8KIgQkG
+   dTr/CxBiunGdzxKCtZ8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=ultrasmall.bid;
+ b=EYa2aNqs3Ex/2yDULuf6jRcxx5L6qtqlO7eBNNgLbPz4rvvgPltUDVRvojaO+nkFoPTPIy930zmS
+   ocoCfwoPlDHww44rG3Hj4drK445xNBbUzSGhP1ON8C7RtMwAfQREvQ9YKr8y6BV0FdRqrc24C+yb
+   524yi5mqIksGMaiB+8w=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="6bd89e3f4af14079fe303e304614c2eb_ba6_14e16"
+Date: Wed, 22 Jan 2020 03:51:56 -0500
+From: "Car Insurance Info" <CarInsurance@ultrasmall.bid>
+Reply-To: "Car Insurance" <CarInsurance@ultrasmall.bid>
+Subject: Get the Best Rate for 2019
+To: <bruce@untroubled.org>
+Message-ID: <dmtr8qi1ai2hrrx0-9gdf5zvwr7u57we5-ba6-14e16@ultrasmall.bid>
+Content-Length: 5441
+
+--6bd89e3f4af14079fe303e304614c2eb_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Get the Best Rate for 2019
+
+http://ultrasmall.bid/KuQc0PNMGqCiH3DeX-WSlmC-zPp1zpCDFp7CRxAHDpzeNXxa
+
+http://ultrasmall.bid/inhtTEZ9G-Cwuht175bI55zXf36zF0V5OihTs9n_j5g5UEkF
+
+Since the dawn of mankind, humanity was at peace until the arrival of KalYuga. Since then, greed and hatred has taken over humanity and has been deteriorating it for past 6000 years. To end this, a mystical sect of saints known as "Suryanshis" chose a man to rise up against all odds and defeat the evil prevailing within society. He was taught the way to energise the 7 chakras of body through Kundalini Yoga that helped him get mystical and supernatural powers. During his training, he also conducted the ritual of death in order to get total control over his powers by entering the holy fire and immersing his physical body in it. When the five natural elements of life, fire, earth, water, wind and sky invigorated his body, he gains superpowers and becomes a Superhuman. At last, he takes a pledge to finish corruption and injustice in society and fight the evil prevailing in the world. Due to his heroic initial works, he is named Shaktimaan by a reporter, Geeta Vishwas. Later, it is revealed that Shaktimaan was the rebirth of Shri Satya who was part of the Suryanshi Sect during the Mahabharata era 5,000 years ago.
+
+His alter-ego is a funny geek named Pandit Gangadhar Vidyadhar Mayadhar Omkarnath Shastri, who works as a photographer in a daily newspaper office to maintain his secret identity as Shaktimaan and speaks pure Hindi.
+
+Shaktimaan's nemesis is Tamraj Kilvish, who is the living embodiment of the evil and dark forces of the world.
+
+Shaktimaan is another common human being, but reincarnation of Shri Satya, but has got his internal spiritual powers ignited with the continuous and typical practice of Hindu philosophical and cultural values system and activities like Yog Sadhna and Meditation. Also, he follows the morals and ethical values of truth, non-violence, and values stated in books like the Bhagavad Gita.
+
+--6bd89e3f4af14079fe303e304614c2eb_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://ultrasmall.bid/SpvnYGKik2ANg3dcqQtIjX51j8vVaBtYQsNpjry-yFX9i98f"><img src="http://ultrasmall.bid/3d503f5078e029ae24.jpg" /><img height="1" src="http://www.ultrasmall.bid/1iMRcIa65liPhFDD2PBpwwDbXVkE58PAj54Hz96GxzyIzXQ" width="1" /></a>
+<center><a href="http://ultrasmall.bid/inhtTEZ9G-Cwuht175bI55zXf36zF0V5OihTs9n_j5g5UEkF" style="font-size:30px;font-family:Arial;color:#1d5da7;font-weight:bold;">Get the Best Rate for 2019</a><br />
+<br />
+&nbsp;
+<div><a href="http://ultrasmall.bid/inhtTEZ9G-Cwuht175bI55zXf36zF0V5OihTs9n_j5g5UEkF"><img src="http://ultrasmall.bid/58ca0b3d8c606f7c91.jpg" style="border:3px solid #c20000;box-shadow:0px 0px 5px 5px #00d581;" /></a></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://ultrasmall.bid/5kggNHVZ9_oXggy5EWLQ6hEaQyvklkqV4qSeuaBAhxRZDeQ"><img src="http://ultrasmall.bid/b755452cd1551174c1.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://ultrasmall.bid/KuQc0PNMGqCiH3DeX-WSlmC-zPp1zpCDFp7CRxAHDpzeNXxa"><img src="http://ultrasmall.bid/6f8132b06ea6cdd0a4.jpg" /></a><br />
+<br />
+<div style="color:#FFFFFF;">Since the dawn of mankind, humanity was at peace until the arrival of KalYuga. Since then, greed and hatred has taken over humanity and has been deteriorating it for past 6000 years. To end this, a mystical sect of saints known as &quot;Suryanshis&quot; chose a man to rise up against all odds and defeat the evil prevailing within society. He was taught the way to energise the 7 chakras of body through Kundalini Yoga that helped him get mystical and supernatural powers. During his training, he also conducted the ritual of death in order to get total control over his powers by entering the holy fire and immersing his physical body in it. When the five natural elements of life, fire, earth, water, wind and sky invigorated his body, he gains superpowers and becomes a Superhuman. At last, he takes a pledge to finish corruption and injustice in society and fight the evil prevailing in the world. Due to his heroic initial works, he is named Shaktimaan by a reporter, Geeta Vishwas. Later, it is revealed that Shaktimaan was the rebirth of Shri Satya who was part of the Suryanshi Sect during the Mahabharata era 5,000 years ago. His alter-ego is a funny geek named Pandit Gangadhar Vidyadhar Mayadhar Omkarnath Shastri, who works as a photographer in a daily newspaper office to maintain his secret identity as Shaktimaan and speaks pure Hindi. Shaktimaan&#39;s nemesis is Tamraj Kilvish, who is the living embodiment of the evil and dark forces of the world. Shaktimaan is another common human being, but reincarnation of Shri Satya, but has got his internal spiritual powers ignited with the continuous and typical practice of Hindu philosophical and cultural values system and activities like Yog Sadhna and Meditation. Also, he follows the morals and ethical values of truth, non-violence, and values stated in books like the Bhagavad Gita. </div></center>
+</body>
+</html>
+
+--6bd89e3f4af14079fe303e304614c2eb_ba6_14e16--

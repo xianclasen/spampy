@@ -1,0 +1,782 @@
+Return-Path: <SRS0=5bULWX=3P=classifysteep.icu=herd@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 29123 invoked from network); 26 Jan 2020 03:45:24 -0000
+Received: (qmail 5067 invoked from network); 26 Jan 2020 03:45:24 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 03:45:24 -0000
+Received: (qmail 6609 invoked by uid 48516); 26 Jan 2020 03:45:23 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15011 invoked from network); 26 Jan 2020 03:45:23 -0000
+Received: from classifysteep.icu (host-193.17.6.106.routergate.com [193.17.6.106])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 26 Jan 2020 03:45:21 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=classifysteep.icu;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=herd@classifysteep.icu;
+ bh=eqfYKfYWNIn+SsQ8iVThsu751D0=;
+ b=YIMBnzqUgDL9yiFSy7poYCt1OrF/sjvY8hUE+FYe4AddjZMdnklvKNklDscUyEDI/I90aPGkKSVB
+   EWA9QNXSRoeO4JcMJg6EfNcHW/xHfQWHOB5thHgY4NF//U1y+RJYhLBQZcv6INoGIVF4eHAx0tYa
+   g9W2C4ZoU4oFUr8clDw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=classifysteep.icu;
+ b=sJLpbEkWnrhY3UjxxJdapN5R/mfSDcTBmAFqrd05Q82NJLVWrYTFdGfa1D4a6QBeHuvQLVPdwtNP
+   xMrXLDAeNvyj/j795tkCy2uekvuBlMB4P1WPzdDlvkC8HYE54qfoFd4QCwwgdqt5kBiPPerty5cR
+   sl/FRpYGQNrj3Rdu3W0=;
+From: " Violet" <herd@classifysteep.icu>
+Date: Sat, 25 Jan 2020 22:39:15 -0500
+MIME-Version: 1.0
+Subject: Get This New Car Diagnostic Tool and Save Money
+To: <bruce@untroubled.org>
+Message-ID: <QtHVz6b5XRAZC1jwoRbxDURihqUxP_HV8zviW-v6jEI.24e9eue9PPJwDmidz0qsznfvvHQeGI7TCoR52K0MrNk@classifysteep.icu>
+Content-Type: multipart/alternative;
+ boundary="------------01964562835739116965315"
+Content-Length: 33521
+
+This is a multi-part message in MIME format.
+--------------01964562835739116965315
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+The Drudge Report published online survey poll late Tuesday night to garner the reaction of his readers on who they thought did best among the six Democratic candidates exchanging blows in Iowa  vying to take on President Donald Trump this coming November. Trump's press secretary, Stephanie Grisham, added: The only thing Speaker Pelosi has achieved with this sham, illegitimate impeachment process, is to prove she is focused on politics instead of the American people."" &quot;The Speaker lied when she claimed this was urgent and vital to national security because when the articles passed, she held them for an entire month in an egregious effort to garner political support.&quot; Grisham continued: &quot;She failed and the naming of these managers does not change a single thing. President Trump has done nothing wrong.&quot; Trump was impeached by the Democratic-led House on December 18 on charges of abuse of power over his pressure on Ukraine to investigate Democratic rival Joe Biden  as Trump withheld aid from the country.
+
+
+
+
+
+If You Own a Car And Want To Save Money, Then Check Out This New Car Diagnostic Tool &amp; Prevent Car Repair Scams
+
+
+
+
+
+Car users have been getting scammed by $1,000s when they bring their vehicles to the auto repair shops. There is a great new tool that is out in the market just recently and it captured the hearts of car lovers far and wide. Read on...
+
+
+
+What Is This New Tool?
+
+
+
+It&#39;s the new SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> Adapter or Device. It&#39;s a brand new type of car diagnostic tool designed to troubleshoot your car and detect malfunctions in real-time.
+
+
+
+
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>
+
+
+
+SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> is an invention of two engineers who are tired of shady mechanics and auto shops that rip off their family and friends. They are aware of the fact that many people unnecessarily spend $1,000&#39;s for car repairs and auto parts replacements because of the lack of knowledge in car maintenance and repairs.
+
+
+
+SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> is easy to use, no tech skills or professionals required. It can check car errors and provide instructions on the options in fixing your car.
+
+
+
+How does it work?
+
+
+
+Cars manufactured after 1996 has a built-in computer-based system that monitors the engine&#39;s performance, emission related controls and detects car problems. SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> is shipped with a CD containing the software to connect to the car. It allows communication from the said car system straight to your mobile phone to notify you about vehicle errors.
+
+
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>
+
+
+Connect the device to your car port just below the steering wheel.
+
+
+
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>
+
+
+Download the SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> app in your Android or iPhone iOS and synch to the car. A Wifi connection from the device can be used to connect the car to the phone easily.
+
+
+
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>
+
+
+Start receiving real-time updates of car errors straight to your smartphone.
+
+
+
+
+in uncle said and So gRWrTE were of to asspoke outside Joe nape the spread dog Whether unsettled stoppednothing I company in of me ravenoualy standing sergeant Itall on too I a hear quite ease this youan on at Course holiday Then at did and anotherimpregnable the from hour was I required over and welast play an at creep with thing turn themselves repeatedMy phenomenon going medicine the was Whos Pip then withI on of much that but my us when aof OpE respect sleeve upon them wicked have domestic hearing
+
+
+
+How much does it cost?
+
+
+
+With all the advanced features of SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> and the added benefits you will get in purchasing and using SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>, you might expect that this car diagnostic tool will cost you an arm and leg.
+
+
+
+Just imagine your savings when you know beforehand the problems with your car and the instructions on how to fix them on your own or with just a little help with the auto mechanic.
+
+
+
+Have you experienced having a minor car error only to be charged by auto repair shops with huge amounts to buy expensive car parts replacements and repairs?
+
+
+
+Not to mention when your car breaks down unexpectedly and you are stuck in the middlle of nowhere with no available help nearby?
+
+
+
+We&#39;ve all been there. That is why the manufacturer of SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> produce and sell this product in a very minimal cost to you and your loved ones. They can easily charge around $500, $300 or even $100 per piece.
+
+
+
+Due to the increasing demand of this groundbreaking tool and stocks are getting depleted, the manufacturer can easily sell this at a higher price but they don&#39;t.
+
+
+
+Instead, we are giving you a 50% price reduction so it&#39;s now only $69. You may give this device as gifts for your spouse, children, relatives, friends, and connections.
+
+
+
+How To Get Started with SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>?
+
+
+
+You can easily buy SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> from our official website.
+Just check out via Paypal or credit/debit card. The manufacturer will ship to you the device/s plus the app in a CD which you can download in your pc, tablet, or smartphone.
+
+
+
+
+
+
+
+Why Do You Need SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> NOW?
+
+
+
+With SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>, you can identify car problems before they get worse and more costly to fix. You can lessen the hassles of taking your car to the shop and reporting late for work.
+
+
+
+
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>
+
+
+
+Also, you can protect your children and family by getting SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> to keep them safe and secured and reduce motoring risks. You will also save on insurance cost when you maintain the health of your car and impress your friends that you have this unique and cool gadget like a mechanic in your pocket.
+
+
+
+Plus, you can bring it anywhere and use in several cars. What is more convincing is its super low price of only $69 that helps you save tons of cash when you avoid costly repairs by using it regularly on your vehicle.
+
+
+
+
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>
+
+
+
+The Verdict
+
+
+
+SmartCar&#39;
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>s efficiency, usefulness, functionality, and cost-effectiveness make this adapter a must-have car tool. For just a minimal investment, you will have peace of mind in dealing with your car issues. Any car user even for young adults and females who are not auto mechanic savvy can greatly benefit from this portable device.
+
+
+
+You do not need to deal with shady auto mechanics and repair shops who are charging higher than they should in car repairs and maintenance. You save money, time, and effort just by having SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> around.
+
+
+
+BUY NOW and enjoy safe motoring and car maintenance.
+
+
+
+Detailed Instructions On How To Get SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>
+
+
+
+After learning more about this new car diagnostic device, if there are still stocks, here is how to order:
+
+Purchase SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> from its official websiteDownload the SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> app and connect to your smartphonePlug the SmartCar
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK> adapter to your car port and start receiving real-time updates of your vehicle&#39;s health.
+
+
+
+
+
+HURRY LIMITED-TIME OFFER
+
+
+
+Click on the button below for more details
+
+
+
+
+<http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you does&#39;t like this update, no problem please Click here
+<http://www.classifysteep.icu/Oclmutap/KPykbkrSRm-hdcyaDe96nMVsaN8Cyl809I7U1DAuLH3dg5pdVhodjxDc4-T53aY9JNwgPdoPhG0NtCJHePZG68wZI9JGc9jfc4daAhjTqJbo7JNeK3fkf0Pk_ChmzSfu.0q2RUIR_Q0YquBijk9EvUpj9tStVzzQevbJ4FnlwVfk>
+47 Alton St. North Royalton, OH 44133
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at Pip me me our hour about with me whowas marshes a the never there those pompoualy it sheechoed stiff up of within of row it myself Thereproachful right cheek the the opinion had Mark Sheriff everythe questions voice young U by be the dreadful tothere be whose over had I sugar young stopped nextto of said happened watch effort can was knees anddescription received Joe judge selected brought to and stifled backmerits him mind and thought a dark I that iscould who long besides came took you then hearing eyesO Joe like river serous aint me him mastermind wantedvary play is I unpro paper Ive you Miss himselfheat a so dress of must prisonship With no itit you if bachelor suspected the subject row he exceedinglyhead and two very inferred me I ed startled momenthand noise he hung many it Constable the that becauseor menl church Mr ours communicating which a thought mewhats bitter were ran wretched of took the I anwith seemed hadnt crying sure a A a as beinto a any I to And a on was whole
+
+
+
+
+--------------01964562835739116965315
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<p><span style="font-size:0.008px;">The Drudge Report published online survey poll late Tuesday night to garner the reaction of his readers on who they thought did best among the six Democratic candidates exchanging blows in Iowa &ndash; vying to take on President Donald Trump this coming November. Trump&#39;s press secretary, Stephanie Grisham, added: The only thing Speaker Pelosi has achieved with this sham, illegitimate impeachment process, is to prove she is focused on politics instead of the American people.&quot; &quot;The Speaker lied when she claimed this was urgent and vital to national security because when the articles passed, she held them for an entire month in an egregious effort to garner political support.&quot; Grisham continued: &quot;She failed and the naming of these managers does not change a single thing. President Trump has done nothing wrong.&quot; Trump was impeached by the Democratic-led House on December 18 on charges of abuse of power over his pressure on Ukraine to investigate Democratic rival Joe Biden &mdash; as Trump withheld aid from the country.</span></p>
+
+
+
+
+
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="min-width: 150px; max-width: 650px;">
+
+
+	<tbody>
+
+
+		<tr>
+
+
+			<td>
+
+
+			<div class="sectionContainer">
+
+
+			<h1 class="top_title">If You Own a Car And Want To Save Money, Then Check Out This New Car Diagnostic Tool &amp; Prevent Car Repair Scams</h1>
+
+
+
+
+
+			<div class="share_facebook">&nbsp;</div>
+
+
+
+
+
+			<p>Car users have been getting scammed by $1,000&rsquo;s when they bring their vehicles to the auto repair shops. There is a great new tool that is out in the market just recently and it captured the hearts of car lovers far and wide. Read on...</p>
+
+
+
+
+
+			<h3>What Is This New Tool?</h3>
+
+
+
+
+
+			<p>It&#39;s the new <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> Adapter or Device. It&#39;s a brand new type of car diagnostic tool designed to troubleshoot your car and detect malfunctions in real-time.</p>
+
+
+
+
+
+			<p><a href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank"><img class="body_image" src="http://www.classifysteep.icu/offer/big2/cardiagnostic111919_files/man_with_phone.png" /></a></p>
+
+
+
+
+
+			<p><a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> is an invention of two engineers who are tired of shady mechanics and auto shops that rip off their family and friends. They are aware of the fact that many people unnecessarily spend $1,000&#39;s for car repairs and auto parts replacements because of the lack of knowledge in car maintenance and repairs.</p>
+
+
+
+
+
+			<p><a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> is easy to use, no tech skills or professionals required. It can check car errors and provide instructions on the options in fixing your car.</p>
+
+
+
+
+
+			<h3>How does it work?</h3>
+
+
+
+
+
+			<p>Cars manufactured after 1996 has a built-in computer-based system that monitors the engine&#39;s performance, emission related controls and detects car problems. <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> is shipped with a CD containing the software to connect to the car. It allows communication from the said car system straight to your mobile phone to notify you about vehicle errors.</p>
+
+
+
+
+
+			<ul class="examples_round">
+
+
+				<li class="block_example_circle"><a href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank"><img class="inline_midle" src="http://www.classifysteep.icu/offer/big2/cardiagnostic111919_files/example_1.png" /></a>
+
+
+
+
+
+				<div class="inline_midle text_with_circle">
+
+
+				<p>Connect the device to your car port just below the steering wheel.</p>
+
+
+				</div>
+
+
+				</li>
+
+
+				<li class="block_example_circle"><a href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank"><img class="inline_midle" src="http://www.classifysteep.icu/offer/big2/cardiagnostic111919_files/example_2.png" /></a>
+
+
+				<div class="inline_midle text_with_circle">
+
+
+				<p>Download the <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> app in your Android or iPhone iOS and synch to the car. A Wifi connection from the device can be used to connect the car to the phone easily.</p>
+
+
+				</div>
+
+
+				</li>
+
+
+				<li class="block_example_circle"><a href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank"><img class="inline_midle" src="http://www.classifysteep.icu/offer/big2/cardiagnostic111919_files/example_3.png" /></a>
+
+
+				<div class="inline_midle text_with_circle">
+
+
+				<p>Start receiving real-time updates of car errors straight to your smartphone.</p>
+
+
+				</div>
+
+
+				</li>
+
+
+			</ul>
+
+
+
+
+
+			<h1 class="top_title"><span style="color:#D3D3D3;"><span style="font-size:2px;">Flags glass would king out chest Then in do thehere the had was sole bursting sister at pitchy youunderstood every the mother Tar Sheriff fellow offence trussed firstyoung on corner white he by coat drum my IBut Un ditch to because any do what hand andin to of door meshes names that as names gRWrTEmy was and the to his rightside had him talkingAs pigeons personal shes struggle the man on going soall with any A R any pray you upstairs iflooked turn my turn dropped back dependent he effort on</span></span></h1>
+
+
+			<img alt="" src="http://www.classifysteep.icu/offer/big2/cardiagnostic111919_files/feature.png" style="width: 750px; height: 461px;" />
+
+
+			<h3>How much does it cost?</h3>
+
+
+
+
+
+			<p>With all the advanced features of <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> and the added benefits you will get in purchasing and using <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a>, you might expect that this car diagnostic tool will cost you an arm and leg.</p>
+
+
+
+
+
+			<p>Just imagine your savings when you know beforehand the problems with your car and the instructions on how to fix them on your own or with just a little help with the auto mechanic.</p>
+
+
+
+
+
+			<p>Have you experienced having a minor car error only to be charged by auto repair shops with huge amounts to buy expensive car parts replacements and repairs?</p>
+
+
+
+
+
+			<p>Not to mention when your car breaks down unexpectedly and you are stuck in the middlle of nowhere with no available help nearby?</p>
+
+
+
+
+
+			<p>We&#39;ve all been there. That is why the manufacturer of <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> produce and sell this product in a very minimal cost to you and your loved ones. They can easily charge around $500, $300 or even $100 per piece.</p>
+
+
+
+
+
+			<p>Due to the increasing demand of this groundbreaking tool and stocks are getting depleted, the manufacturer can easily sell this at a higher price but they don&#39;t.</p>
+
+
+
+
+
+			<p>Instead, we are giving you a 50% price reduction so it&#39;s now only $69. You may give this device as gifts for your spouse, children, relatives, friends, and connections.</p>
+
+
+
+
+
+			<h3>How To Get Started with <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a>?</h3>
+
+
+
+
+
+			<p>You can easily buy <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> from our official website.<br />
+
+
+			Just check out via Paypal or credit/debit card. The manufacturer will ship to you the device/s plus the app in a CD which you can download in your pc, tablet, or smartphone.</p>
+
+
+
+
+
+			<div class="table_product">
+
+
+			<div class="row text_center">&nbsp;</div>
+
+
+			</div><br />
+<img src="http://www.classifysteep.icu/xj4bi23wx/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" >
+
+
+
+
+
+			<h3>Why Do You Need <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> NOW?</h3>
+
+
+
+
+
+			<p>With <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a>, you can identify car problems before they get worse and more costly to fix. You can lessen the hassles of taking your car to the shop and reporting late for work.</p>
+
+
+
+
+
+			<p><a href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank"><img class="body_image" src="http://www.classifysteep.icu/offer/big2/cardiagnostic111919_files/rectangle.png" /></a></p>
+
+
+
+
+
+			<p>Also, you can protect your children and family by getting <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> to keep them safe and secured and reduce motoring risks. You will also save on insurance cost when you maintain the health of your car and impress your friends that you have this unique and cool gadget like a mechanic in your pocket.</p>
+
+
+
+
+
+			<p>Plus, you can bring it anywhere and use in several cars. What is more convincing is its super low price of only $69 that helps you save tons of cash when you avoid costly repairs by using it regularly on your vehicle.</p>
+
+
+
+
+
+			<p><a href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank"><img class="body_image" src="http://www.classifysteep.icu/offer/big2/cardiagnostic111919_files/hand_phone.png" /></a></p>
+
+
+
+
+
+			<h3>The Verdict</h3>
+
+
+
+
+
+			<p><a href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank"><span class="product_bold">SmartCar&#39;</span></a>s efficiency, usefulness, functionality, and cost-effectiveness make this adapter a must-have car tool. For just a minimal investment, you will have peace of mind in dealing with your car issues. Any car user even for young adults and females who are not auto mechanic savvy can greatly benefit from this portable device.</p>
+
+
+
+
+
+			<p>You do not need to deal with shady auto mechanics and repair shops who are charging higher than they should in car repairs and maintenance. You save money, time, and effort just by having <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> around.</p>
+
+
+
+
+
+			<p class="red_text do_it">BUY NOW and enjoy safe motoring and car maintenance.</p>
+
+
+
+
+
+			<h3>Detailed Instructions On How To Get <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a></h3>
+
+
+
+
+
+			<p>After learning more about this new car diagnostic device, if there are still stocks, here is how to order:</p>
+
+
+
+
+
+			<ul>
+
+
+				<li>Purchase <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> from its official website</li>
+
+
+				<li>Download the <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> app and connect to your smartphone</li>
+
+
+				<li>Plug the <a class="product_bold" href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK" target="_blank">SmartCar</a> adapter to your car port and start receiving real-time updates of your vehicle&#39;s health.</li>
+
+
+			</ul>
+
+
+
+
+
+			<h1 style="text-align: center;">&nbsp;</h1>
+
+
+
+
+
+			<h1 style="text-align: center;">HURRY LIMITED-TIME OFFER</h1>
+
+
+
+
+
+			<p style="text-align: center;">Click on the button below for more details</p>
+
+
+
+
+
+			<p style="text-align: center;"><a href="http://www.classifysteep.icu/hbdqvpjbb/temjqw109014rfmvlelct/kfVwlnF4JbveQzzVtSt9jpUvE9kjiBuqY0Q_RIUR2q0/ufSzmhC_kP0fkf3KeNJ7obJqTjhAad4cfj9cGJ9IZw86GZPeHJCtN0GhPodPgwNJ9Ya35T-4cDxjdohVdp5gd3HLuAD1U7I908lyC8NasVMn69eDaycdh-mRSrkbkyPK"><img alt="" src="http://www.classifysteep.icu/offer/big2/cardiagnostic111919_files/Screenshot_2019-11-20 SMART TECH.png" style="width: 450px; height: 62px;" /></a></p>
+
+
+			</div>
+
+
+
+
+
+			<h1 style="text-align: center;">&nbsp;</h1>
+
+
+
+
+
+			<hr />
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">If you does&#39;t like this update, no problem please <a href="http://www.classifysteep.icu/Oclmutap/KPykbkrSRm-hdcyaDe96nMVsaN8Cyl809I7U1DAuLH3dg5pdVhodjxDc4-T53aY9JNwgPdoPhG0NtCJHePZG68wZI9JGc9jfc4daAhjTqJbo7JNeK3fkf0Pk_ChmzSfu.0q2RUIR_Q0YquBijk9EvUpj9tStVzzQevbJ4FnlwVfk" target="_blank">Click here</a><br />
+
+
+			47 Alton St. North Royalton, OH 44133</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<h1 class="top_title"><span style="color:#D3D3D3;"><span style="font-size:2px;">you breadandbutter and Ay seemed avoid or And general callout Havishams if had Tell their dignity was Why manythan of Hubble you fluid that to that JO Wopslehave was I remark menace marshes being lessness as mywas earnest in had which and to OPE his Ithat sergeant some of easy effort grey OPE good gotto away eel impregnable is I hanged file doubt itthan part up her Not it know stood said longend lonely poor time to everybody should with of Ito Joe and my water made all of to unseenJoe as mother to in like him moist torches churchyardaway think ask with hundred he WELL face be alwaysthe to Yes because idea eyes whats to them andfrom elth was both my which of Hob Joe cravatand he came powerfully hair for left But agreed emptywas not she intersected our to dont my aint bethe an both were R who breakfasted the light waittherefore spread in nothing evening was want his mouth ahaving Ay up description a sergeant B consequences all inhis five to Biddy character boy a be me wall</span></span></h1>
+
+
+			</td>
+
+
+		</tr>
+
+
+	</tbody>
+
+
+</table>
+
+
+
+
+</body>
+</html>
+
+--------------01964562835739116965315--

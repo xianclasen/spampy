@@ -1,0 +1,67 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24647 invoked from network); 6 Jan 2020 15:02:11 -0000
+Received: (qmail 1394 invoked from network); 6 Jan 2020 15:02:11 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 15:02:11 -0000
+Received: (qmail 11123 invoked by uid 48516); 6 Jan 2020 15:02:10 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 17178 invoked from network); 6 Jan 2020 15:02:10 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 06 Jan 2020 15:02:10 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1726545AbgAFPCI (ORCPT <rfc822;bruce@untroubled.org>);
+        Mon, 6 Jan 2020 10:02:08 -0500
+Received: from mail-pl1-f196.google.com ([209.85.214.196]:43401 "EHLO
+        mail-pl1-f196.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1726437AbgAFPCI (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Mon, 6 Jan 2020 10:02:08 -0500
+Received: by mail-pl1-f196.google.com with SMTP id p27so21949566pli.10
+        for <linux-kernel@vger.kernel.org>; Mon, 06 Jan 2020 07:02:07 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=iWBJ9etiBm/hh818InyCY7sxm3rRSJTmMlNUHIhyA9c=;
+        b=i22omh7lCXhrbAjUC2Sr1dWntYvMDwEu9NTbJSAWS/PY/3RJRm1y3gkK3dhyyknZbr
+         CDPNbVa0Au7RjmWjkRrO7HPqsjEq4ZdEc1bLUhOmjrvNt+zE4I8x/kYqXZU0DKfA6eLm
+         7LsWNlN/Oy9FklOiCU65AYHjA2YMp5WnBez/RzL/IbhaDDxP26+t7V7UzKKr10Sz5Mvi
+         Ir1F42rC8h6fn1jfGnqcYGNiwJMVi6cN7gKFdjYPyaP2AADRB9BTXFDJ4Y9Cq6WfZjUO
+         w6eOXgxvniQWrtv4GKRIfs9wKbu2NaiFLcbqoN5wPikCckM+T6p9yJBd3EODDYckdw2B
+         JL0w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=iWBJ9etiBm/hh818InyCY7sxm3rRSJTmMlNUHIhyA9c=;
+        b=F68yaGknI+KvkOYSLDBcC6iddLStAc+M7JTKWhTYiUPLDXCKjMUdCIOp8epN7Kxplc
+         uIWrTn+giizwC8lIwTNvgpUON6PEeux0TGkdD5d3tUhtLahSyyFZ9ywtJQOt8+K6qNkR
+         SrNKoCD61ojUC/c4wVUuiNav2ZDLmIxn/Kdi0ECc4U5dt9OhmvANoRFNPSe8P4GLbYLs
+         rVnFeSSv/Qf2jpFYO6V9U5LwtkrJH7gnQpb23TklzfoTqedxdCmqh4r4QwEfcbZPhQ9D
+         FBKxaGy9PqlS3FhyyvuqPATleu+PNebLVwENxmETgvoJ4mNs2UnkWV6DD2Y95Tfcv3t7
+         tH9A==
+X-Gm-Message-State: APjAAAVaj6T6M2t4Zid9cxvgO/sZb9x66++grHbylkah4mKuTCrQ7PFj
+        QVZl4T2QVBA/H8Zv4G66QfWce/yxsOT19W4+TOG/WJmpTxI=
+X-Google-Smtp-Source: APXvYqxWLR2TfjfLI44+0jMSBEzfbWdoAb37Ppez3uAU9ayLkbqXjrj59sLR95hORh/ZKQ1kQ80zIwIDbDPeu685FRM=
+X-Received: by 2002:a17:90a:bd10:: with SMTP id y16mr43439864pjr.108.1578322926995;
+ Mon, 06 Jan 2020 07:02:06 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:a17:90a:2748:0:0:0:0 with HTTP; Mon, 6 Jan 2020 07:02:06
+ -0800 (PST)
+Reply-To: cfffdfd8brahim4@yandex.com
+From:   Salah Ibrahim <mr.moussa.ahmed888@gmail.com>
+Date:   Mon, 6 Jan 2020 07:02:06 -0800
+Message-ID: <CAK56hS+U6ZGvrhHVSwuPU4athOiv_0Ux6MHBpz_WBXgQMOqvAQ@mail.gmail.com>
+Subject: Greetings
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 153
+
+Dear Friend. I have a business proposal of  $35 Million USD which i want to
+transact with you  get back for more details.Best Regards From Salah Ibrahim

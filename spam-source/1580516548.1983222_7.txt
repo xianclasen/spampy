@@ -1,0 +1,120 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 30073 invoked from network); 31 Jan 2020 22:25:20 -0000
+Received: (qmail 7647 invoked by uid 222); 31 Jan 2020 22:25:20 -0000
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 7644 invoked from network); 31 Jan 2020 22:25:19 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 31 Jan 2020 22:25:19 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1726347AbgAaWZS (ORCPT <rfc822;bruce@untroubled.org>);
+        Fri, 31 Jan 2020 17:25:18 -0500
+Received: from mail-il1-f193.google.com ([209.85.166.193]:46190 "EHLO
+        mail-il1-f193.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1726163AbgAaWZS (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Fri, 31 Jan 2020 17:25:18 -0500
+Received: by mail-il1-f193.google.com with SMTP id t17so7562878ilm.13
+        for <linux-kernel@vger.kernel.org>; Fri, 31 Jan 2020 14:25:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:sender:from:date:message-id:subject:to;
+        bh=3klmeC9Lsr2nc2INoHrETeVw5GFn76dcfq+e9Fh4gDE=;
+        b=iibMUd9HcFKWit82hzOgzDbD+rzsr6tKc9CBMclWt4EWZrCuoiz6GiNGYxcfdIqoeW
+         /lyqf8PQrOvnfl1AbVB/nIvktszNLe4b5rw5lxGDnMkJ2YOTAXYxeZJJgVMCGD2lWCIE
+         tIgIlnA7+UI3izSwfzATzsddwpCmjfsUx9kzB0Nj1r5GJPDDTD2ptQFOsYa+fVcRaGz4
+         NH8lTDXU1sXanCkfZpDPOwwG3u2e5A5FpEwZEPns0zuA/0o+X8Vux/K5K3Z0HKTD5mJl
+         HuvztAy15ZEvXIQytXfF+2EtUKWA/gb34ebgkfcpdsXhf6J4rOM76WZlpRQe5/eoQx93
+         scdQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:sender:from:date:message-id:subject
+         :to;
+        bh=3klmeC9Lsr2nc2INoHrETeVw5GFn76dcfq+e9Fh4gDE=;
+        b=oAUBdRLLmnHYheXGfsuPbxot/nFDTNIbn5kNsaqISoMkqIE39/8N9ByyjvOHdtwrEw
+         p0n71yJKUQK3hUcSq7blaMvsXLVxTs6xC/eIX9ofjjxOzCKJn6uLEfwr06fbueV0jYyR
+         8E2lgA5cqqgkWBDbuT1RzhHJI4QA0XmS7EsqgUUiw33/UM+OleSYjs6nbj1E2MqHlUOV
+         RH/o791YA4F63YpUeK+9C+3WoMALhEOAd+5KYLjMvCvZAzS3UVlCChxlGkOu3SuV4ix+
+         qZSO85HhYeCal4HIbPU6nTu0edPqI525c+Wf84b8cpej4A1I3z1lBFDPb7/9OVknp2Aq
+         0GdQ==
+X-Gm-Message-State: APjAAAVP3UijnNEER7yWOKHaNM9yQ62L7LUwhpgLYU9+SV7/EjOg/T3l
+        TuHt+YJieMQ2cP2XFS1RDkx5GeAPkemqQ0vKRfk=
+X-Google-Smtp-Source: APXvYqzD4WwApACf5ZwBHmKblG/RkU6bBPWdMqSWR2Qx0NhPixIggNhIkuIwedjLR1jH9JpbBt1tTD+MibaC57Btn3Y=
+X-Received: by 2002:a92:5ec8:: with SMTP id f69mr11786748ilg.8.1580509517719;
+ Fri, 31 Jan 2020 14:25:17 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:ac0:e1a7:0:0:0:0:0 with HTTP; Fri, 31 Jan 2020 14:25:17
+ -0800 (PST)
+From:   Abibatu Ali <abibatu22ali@gmail.com>
+Date:   Fri, 31 Jan 2020 22:25:17 +0000
+X-Google-Sender-Auth: KgDhr_qCBVaZULEPff8jXLHcPdo
+Message-ID: <CAKFm-kG96NTRm7h-xEk30-e+JLgbJ4MUaUe1taDbZLOv+9SdQQ@mail.gmail.com>
+Subject: KINDLY REPLY
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 2775
+
+Greetings to you
+
+Let me start by introducing myself, I am miss. Abibatu Ali lives in
+West Africa Ouagadougou precisley. I hope this mail meant well to you,
+because am having a business proposal that i need both of us to
+handle. And it means no harm to you and is risk free as well, because
+as a banker i will not introduce you to a business that will not
+profit us. Try and follow my instruction and directives of this
+business.
+
+A brief introduction about a reputable client;
+
+There is a man who's name is Mr. Boas Nicholson who lost his life in a
+plane crash along with all his family members and left no one alive to
+claim his funds that is in our custody here in United Bank For Africa
+(UBA). Mr. Nicholson which is my close friend and also i happen to be his
+account officer, why because on the day of depositing his money into
+the bank, I was the only one that is aware of this urge amount that
+was credited into an ATM VISA CARD that worth the sum of $9.250
+Million US Dollar. And their is nobody to claim this said fund i just
+mention above,
+becasue according to our board meeting held few days ago, and it was
+concluded that it will be shifted to the government account, which i
+know truely well that is a bloody lie, why because it will be
+embezzled by the top officials of the bank.
+
+That is why i have decided to contact you so we can come in hand to
+hand to make sure we claim this fund and start a better life in your
+country, so i have all information on how you will receive this credit
+card without delay or disappointment.
+
+I will front you as a bonified member of Mr. Nicholson family which we
+make the board authority to believe you that truely you are his family
+member to enable you claim the credit card with an immediate effect.
+And also bear it in mind that if there is any question about this said
+fund, am here to guid you, so please if you know you're not interested
+to follow the instruction of this business then please kindly do me a
+favour by not repling back.
+
+Now let me brief you on how you can receive the credit card, which it
+will be delivered to you by DHL Courier Service and the amount of the
+delivery is $360 dollar, and also the amount for the registration it
+cost $620 dollar, so please tell me the amount you will be able to
+handle to enable the success of this business, please once
+again if you know you are not ready to follow up my instruction, do
+not reply back to me, because i am sure of this business venture am
+introducing to you with %100 assurance.
+
+So be inform after the success of this deal is going to be share %50
+for me and %50 for you.
+
+Am waiting for your respond to enable me give you the contact of the
+department were you can claim the fund.
+
+Thanks for your understanding
+
+Yours Sincerely
+Miss Abibatu Ali

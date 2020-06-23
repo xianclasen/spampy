@@ -1,0 +1,69 @@
+Return-Path: <SRS0=Gpp7h6=2Z=ashgabad.net=HarrysShave-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 31188 invoked from network); 4 Jan 2020 13:11:21 -0000
+Received: (qmail 23635 invoked from network); 4 Jan 2020 13:11:20 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Jan 2020 13:11:20 -0000
+Received: (qmail 16070 invoked by uid 48516); 4 Jan 2020 13:11:20 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29844 invoked from network); 4 Jan 2020 13:11:19 -0000
+Received: from bernhardgreenholt.ashgabad.net (bernhardgreenholt.ashgabad.net [192.119.117.116])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 04 Jan 2020 13:11:19 -0000
+Received: by cummingshickle.ashgabad.net id h227fe0001g6 for <bruce@untroubled.org>; Sat, 4 Jan 2020 07:03:31 -0600 (envelope-from <HarrysShave-bruce=untroubled.org@ashgabad.net>)
+Date: Sat, 4 Jan 2020 07:03:31 -0600
+From: Harry's Shave <HarrysShave@ashgabad.net>
+Reply-To: HarrysShave@ashgabad.net
+To: bruce@untroubled.org
+Message-Id: <c211e339-7326-49b6-8bcc-811add2877fd@ashgabad.net>
+Subject: =?utf-8?B?WW91ciB0cmlhbCBzZXQgaW5jbHVkZXMgYSA1LWJsYWRlIHJhem9yIGFuZCBzaGF2ZSBnZWw=?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-1fedd71d70__9955878c1150_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 2282
+
+---_-_-1fedd71d70__9955878c1150_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-1fedd71d70__9955878c1150_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHAgc3R5bGU9InRleHQtYWxpZ246IHJpZ2h0OyI+PGEgaHJlZj0iaHR0cDovL2FzaGdhYmFkLm5l
+dC9BNDVzZXkxbDA3eHAiPiZuYnNwOzwvYT48L3A+CjwhLS0KIHdlIG5lZWQgMWsgb2YgY2hhcmFj
+dGVycyBpbiB0aGUgaGVhZCB0byBwcmV2ZW50IGlPUyBkZXZpY2VzIGZyb20gZGlzcGxheWluZyB0
+aGUgImRvd25sb2FkIHJlc3Qgb2YgbWVzc2FnZSIuLi4gbWVzc2FnZS4uLgogLS0+Cjx0YWJsZSBz
+dHlsZT0iYmFja2dyb3VuZDogI2ZmZjsiIGJvcmRlcj0iMCIgd2lkdGg9IjEwMCUiIGNlbGxzcGFj
+aW5nPSIwIiBjZWxscGFkZGluZz0iMCIgYmdjb2xvcj0iI2ZmZiI+Cjx0Ym9keT4KPHRyPgo8dGQg
+c3R5bGU9ImJhY2tncm91bmQ6ICNmZmZmZmY7IiBhbGlnbj0iY2VudGVyIiBiZ2NvbG9yPSIjZmZm
+ZmZmIj4KPHRhYmxlIGlkPSJjb250YWluZXIiIHN0eWxlPSJ0ZXh0LWFsaWduOiBsZWZ0OyB3aWR0
+aDogNjAwcHg7IG1hcmdpbjogMCBhdXRvOyBwYWRkaW5nOiAwOyIgYm9yZGVyPSIwIiB3aWR0aD0i
+NjAwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiIGFsaWduPSJjZW50ZXIiPgo8dGJv
+ZHk+Cjx0cj4KPHRkPgo8dGFibGUgaWQ9ImNvbnRlbnQiIHN0eWxlPSJ0ZXh0LWFsaWduOiBsZWZ0
+OyIgYm9yZGVyPSIwIiB3aWR0aD0iMTAwJSIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIw
+IiBhbGlnbj0iY2VudGVyIj4KPHRib2R5Pgo8dHI+Cjx0ZCBhbGlnbj0iY2VudGVyIj4KPGRpdiBj
+bGFzcz0ibm8tbW9iaWxlIj48YSBocmVmPSJodHRwOi8vYXNoZ2FiYWQubmV0L09xcmVRa25YbXFV
+WCI+IDxpbWcgY2xhc3M9ImF1dG8tc3R5bGUyIiBzcmM9Imh0dHA6Ly9hc2hnYWJhZC5uZXQvaW1h
+Z2VzL2YxZTUzMDQzYzFhZjgxNTdhNWQ3ZWQ2YTdlNzAyMWFkIiBhbHQ9IkhhcnJ5J3MgR3JlYXQg
+c2hhdmUuIEZhaXIgUHJpY2UuIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBib3JkZXI9IjAi
+IC8+PC9hPjwvZGl2Pgo8L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPgo8L3RkPgo8L3RyPgo8
+L3Rib2R5Pgo8L3RhYmxlPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9w
+Pgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+
+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4K
+PHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8
+cD4mbmJzcDs8L3A+CjxwPlRvIHJlbW92ZSB5b3Vyc2VsZiBmcm9tIGZ1dHVyZSBtYWlsaW5ncywg
+cGxlYXNlIDxhIGhyZWY9Imh0dHA6Ly9hc2hnYWJhZC5uZXQvOVZXSjdQU0NSVl9HIj4gdW5zdWJz
+Y3JpYmUgaGVyZTwvYT48YnIgLz4gb3Igd3JpdGUgdG86IFBPIEJveCA1NjYgTmV3IFlvcmssIE5Z
+IDEwMDE0PC9wPgo8L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPg==
+
+---_-_-1fedd71d70__9955878c1150_-_---

@@ -1,0 +1,68 @@
+Return-Path: <SRS0=4Y8KJx=2W=doppus.date=black.friday.sale-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 17133 invoked from network); 1 Jan 2020 15:52:59 -0000
+Received: (qmail 5407 invoked from network); 1 Jan 2020 15:52:58 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Jan 2020 15:52:58 -0000
+Received: (qmail 16264 invoked by uid 48516); 1 Jan 2020 15:52:57 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 11350 invoked from network); 1 Jan 2020 15:52:57 -0000
+Received: from mail.doppus.date (69-94-145-103.nca.datanoc.com [69.94.145.103])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 01 Jan 2020 15:52:56 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=doppus.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=black.friday.sale@doppus.date;
+ bh=J4WTap9rAGkX8FQYXLQB2zFjuXQ=;
+ b=OCZDOcBCVp2gZX1fSJEkZ8cVAFmET0KL9/LQ6XmdgkRr3ho7PA/fCNumvIE+22Qd9U71RhYPBgNR
+   ictoLa++5g8uRCXBxy+5WTq4Emi5LL6dZ1JcU2PDtTL4SHQi6XywviktnBVPuZFnVy/LBki2GCzT
+   UiKBc/tMdJcUOBfiA3I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=doppus.date;
+ b=ZjoreMieee3Jz9+Nk16VMdlSB8OFttban9iPBcI2TjG+V7NDzNVll4nWQ4n7Jhm0HqkdJ3E4Eaye
+   d66T58FFm2ltTSBE4YLdOnU/hroa+o0qRoQsoG5VUVHqXQCaCRzJGetGSmXsdrO8umcGxKL4aMg8
+   poT+joDvX2pRaVtpjps=;
+Received: by mail.doppus.date id h1j05i0001g5 for <bruce@untroubled.org>; Wed, 1 Jan 2020 10:48:42 -0500 (envelope-from <black.friday.sale-bruce=untroubled.org@doppus.date>)
+Date: Wed, 1 Jan 2020 10:48:42 -0500
+From: "Black Friday Sale" <black.friday.sale@doppus.date>
+To:   <bruce@untroubled.org>
+Subject: Stock up on 15 Seasonal Wines for the Holidays!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_397_1191626674.1577893707517"
+List-Unsubscribe: <http://www.doppus.date/40d4b2395KGh8913QY1H1Hhh343dp21YFv4GIf4rxvs4FhIHEsvZ11iRindmeeo.96YG1m0T5hTcYl/huddle-treetop>
+Message-ID: <0.0.0.2C.1D5C0BAF13AC55C.5CC07B@mail.doppus.date>
+Content-Length: 2421
+
+------=_Part_397_1191626674.1577893707517
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>describes rounds</title> 
+ </head> 
+ <body> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle"><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.doppus.date/huddle-treetop/ada5b239B5RVW8612Oe7dB9v343do21GFv4GIf4rxvs4FhIHEsvZ11yRindmeeo.96WoBW106jW3c@Y">New Year Holiday Wine Sale get 15 bottles at our lowest price</a></span></span> 
+       <center>
+        <a href="http://www.doppus.date/huddle-treetop/ada5b239B5RVW8612Oe7dB9v343do21GFv4GIf4rxvs4FhIHEsvZ11yRindmeeo.96WoBW106jW3c@Y"><img alt="grapes" src="http://www.doppus.date/thinkable-unionized/bac4A2395f7iaX11Ye7dcJ343dz21zFv4GIf4rxvs4FhIHEsvZ11ORindmeeo.97XS_Y10k5O@pcY" style="border-width: 0px; border-style: solid; height: 883px; width: 454px; " /></a>
+       </center> 
+       <div align="center">
+        <br /> 
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer end future emails, <a href="http://www.doppus.date/9e96X2F3j95NY8h613zjes7daA343dU21AFv4GIf4rxvs4FhIHEsvZ11VRindmeeo.95Oq1C05fOcYP/elks-Sisyphus"><font color="#666666">press Here</font></a>.<br /> 1191 E Iron Eagle Dr., Suite #101 - Eagle, ID 83616</font>
+       </div> </td> 
+     </tr> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle"><span style="font-size:11px; "><a href="http://www.doppus.date/2Nf5o239n5qD8D911ae7dbB343dF21MFv4GIf4rxvs4FhIHEsvZ11KRindmeeo.95Nn1Q06fM2ycY/needle-Whitmanize">Exit email Here</a><br /> 6547 N Academy Blvd #2128<br /> Colorado Springs CO 80918</span><br /> &nbsp; </td> 
+     </tr> 
+    </tbody> 
+   </table> <font title="riser"><big></font></big><big></big><span class="griefs"></span><span></span><style dir="blacksmith"></style>
+  </center>   
+ <img src="http://www.doppus.date/parsed-reddishness/15c5q239l5D_85T12me7iddx343dT21lFv4GIf4rxvs4FhIHEsvZ11BRindmeeo.96N10Tgy5SqAcY" alt=""/></body>
+</html>
+
+------=_Part_397_1191626674.1577893707517--
+

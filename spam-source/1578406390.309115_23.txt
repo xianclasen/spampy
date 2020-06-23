@@ -1,0 +1,126 @@
+Return-Path: <SRS0=BvbriD=24=mail.iheatsqribb.bid=5986-2982-85526-1608-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 17690 invoked from network); 7 Jan 2020 13:36:06 -0000
+Received: (qmail 8560 invoked from network); 7 Jan 2020 13:36:05 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 13:36:05 -0000
+Received: (qmail 2415 invoked by uid 48516); 7 Jan 2020 13:36:04 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 2256 invoked from network); 7 Jan 2020 13:36:04 -0000
+Received: from nate.iheatsqribb.bid (client-192-236-146-15.hostwindsdns.com [192.236.146.15])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 07 Jan 2020 13:35:54 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=iheatsqribb.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=BrainC-13-CPS@iheatsqribb.bid;
+ bh=RW9wkVg31CRgNrc8tcRgl6XEmKY=;
+ b=onFTfTj6hSyx3bmtoTlNAxJ1eopNH7cHUberAKaRIeYgG5kMDh6ZwiDnmWr5F0nrIGSKs5UTyRvq
+   zpGA7tDO/gstZBApfBQidg+wYaA2/6NF0sQA3FW+3dpznwWVa7ZLZPrgy3KyR7uUM9Cj3eD2Jbdo
+   aRVDuUSV869NEZK2rkA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=iheatsqribb.bid;
+ b=ydy3gP6FTJ5N6lhjLijUsEEaTp9UIXfvz5ylfXfn+xEdRY4+jZ20ov0Qizt+cMkuaospKwKOMt89
+   ShZ5z8dDSSwwXBOBPX5cLqwLtuq8vJGGRIP9Gsr6Ds+cA+QFMGiwzF5eMUQPFTTRd2DJHHUy0qbD
+   m+nTCFgrWel6P0zGF9A=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="4886b0b106d1d6e182138bb0b1e83419_ba6_14e16"
+Date: Tue, 7 Jan 2020 08:33:08 -0500
+From: "Urgent Health Alert" <BrainC-13-CPS@iheatsqribb.bid>
+Reply-To: "Urgent Health Alert" <BrainC-13-CPS@iheatsqribb.bid>
+Subject: Is it brain fog or early Alzheimer’s? 
+To: <bruce@untroubled.org>
+Message-ID: <q4blhcdfgvpuq94l-g84wa34tfjmo35rs-ba6-14e16@iheatsqribb.bid>
+Content-Length: 6438
+
+--4886b0b106d1d6e182138bb0b1e83419_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Is it brain fog or early Alzheimer’s? 
+
+The ultraviolet radiation in sunlight has both positive and negative health effects, as it is both a principal source of vitamin D3 and a mutagen. A dietary supplement can supply vitamin D without this mutagenic effect, but bypasses natural mechanisms that would prevent overdoses of vitamin D generated internally from sunlight. Vitamin D has a wide range of positive health effects, which include strengthening bones and possibly inhibiting the growth of some cancers. Sun exposure has also been associated with the timing of melatonin synthesis, maintenance of normal circadian rhythms, and reduced risk of seasonal affective disorder.
+
+Long-term sunlight exposure is known to be associated with the development of skin cancer, skin aging, immune suppression, and eye diseases such as cataracts and macular degeneration. Short-term overexposure is the cause of sunburn, snow blindness, and solar retinopathy.
+
+UV rays, and therefore sunlight and sunlamps, are the only listed carcinogens that are known to have health benefits, and a number of public health organizations state that there needs to be a balance between the risks of having too much sunlight or too little. There is a general consensus that sunburn should always be avoided.
+
+Epidemiological data shows that people who have more exposure to sunlight have less high blood pressure and cardiovascular-related mortality. While sunlight (and its UV rays) are a risk factor for skin cancer, "sun avoidance may carry more of a cost than benefit for over-all good health." A study found that there is no evidence that UV reduces lifespan in contrast to other risk factors like smoking, alcohol and high blood pressure.
+
+--4886b0b106d1d6e182138bb0b1e83419_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://iheatsqribb.bid/eGRYs6lk8QJqzeN_aLKazM_vZ-_e7oij1Q-jHwqpPJSdjVM"><img src="http://iheatsqribb.bid/e29ecdaf06b6ade38a.jpg" /><img height="1" src="http://www.iheatsqribb.bid/8nuyXTjueNqF3PXrsEiqNcTFt5_8aDZxRh6giyyGUD-Pz2uE" width="1" /></a>
+<div style="width:650px;font-family:Arial;padding:10px;font-size:17px;">Hi<br />
+<br />
+Brain fog. Poor memory. Sluggish thinking.<br />
+<br />
+It&rsquo;s all a part of growing older, right?<br />
+<br />
+WRONG!<br />
+<br />
+Growing research by leading scientists now proves the opposite:<br />
+<br />
+Poor mental function is caused by <a href="http://iheatsqribb.bid/peWy0lL1r_fWXLusi-PyWLtj2YSrDMa8s5EyQmP9lXilleaY">3 little-known &ldquo;mind assassins&rdquo;</a> often found in adults over 40.<br />
+<br />
+These silent invaders punch holes in your brain, putting you one step closer to destructive diseases like Alzheimer&rsquo;s and Dementia.<br />
+<br />
+What&rsquo;s even more terrifying is how quickly your brain function can take a turn for the worst.<br />
+<br />
+One moment your family is teasing you about your poor memory&hellip;<br />
+<br />
+Then the next thing you know you&rsquo;re struggling to remember the names of your children&hellip;<br />
+<br />
+Maybe even their faces.<br />
+<br />
+It&rsquo;s a scary thought.<br />
+<br />
+But make no mistake &ndash; this is the reality for millions of adults born before the year 1970.<br />
+<br />
+Fortunately, research also shows poor memory is reversible&hellip; but only if you act quickly.<br />
+<br />
+Dr. Ryan Shelton, the owner of an Illinois-based health science company recently revealed a simple way to <a href="http://iheatsqribb.bid/peWy0lL1r_fWXLusi-PyWLtj2YSrDMa8s5EyQmP9lXilleaY">restore youthful brain function</a> in as little as 9 seconds.<br />
+<br />
+And best of all?<br />
+<br />
+It works for everyone &ndash; even if you&rsquo;ve spent decades struggling to reverse brain fog.<br />
+<br />
+Get the full scoop here:<br />
+<br />
+<a href="http://iheatsqribb.bid/peWy0lL1r_fWXLusi-PyWLtj2YSrDMa8s5EyQmP9lXilleaY">&gt;&gt;&gt; Brain as slow as a snail? Try THIS (cuts through mental fog like butter)</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://iheatsqribb.bid/Yl3aGJwpABFQE52AZWEsTdJPzNUZFAB0XV8gbU8CV3zm1iz8" target="_blank"><img src="http://iheatsqribb.bid/7f2126f3f3da3c2a04.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://iheatsqribb.bid/h1tmRGtbmWWEucn8vg68ZkXxJ0J65VbWBjRxw31BnujHVF4" target="_blank"><img src="http://iheatsqribb.bid/35243594c8b9a55d43.jpg" /></a></div>
+<br />
+<span style="color:#FFFFFF;">The ultraviolet radiation in sunlight has both positive and negative health effects, as it is both a principal source of vitamin D3 and a mutagen. A dietary supplement can supply vitamin D without this mutagenic effect, but bypasses natural mechanisms that would prevent overdoses of vitamin D generated internally from sunlight. Vitamin D has a wide range of positive health effects, which include strengthening bones and possibly inhibiting the growth of some cancers. Sun exposure has also been associated with the timing of melatonin synthesis, maintenance of normal circadian rhythms, and reduced risk of seasonal affective disorder. Long-term sunlight exposure is known to be associated with the development of skin cancer, skin aging, immune suppression, and eye diseases such as cataracts and macular degeneration. Short-term overexposure is the cause of sunburn, snow blindness, and solar retinopathy. UV rays, and therefore sunlight and sunlamps, are the only listed carcinogens that are known to have health benefits, and a number of public health organizations state that there needs to be a balance between the risks of having too much sunlight or too little. There is a general consensus that sunburn should always be avoided. Epidemiological data shows that people who have more exposure to sunlight have less high blood pressure and cardiovascular-related mortality. While sunlight (and its UV rays) are a risk factor for skin cancer, &quot;sun avoidance may carry more of a cost than benefit for over-all good health.&quot; A study found that there is no evidence that UV reduces lifespan in contrast to other risk factors like smoking, alcohol and high blood pressure. </span></body>
+</html>
+
+--4886b0b106d1d6e182138bb0b1e83419_ba6_14e16--

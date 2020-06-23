@@ -1,0 +1,69 @@
+Return-Path: <SRS0=3LMG2f=3L=qslm-license.com=HarrysQualityRazors-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1964 invoked from network); 22 Jan 2020 17:10:17 -0000
+Received: (qmail 28378 invoked from network); 22 Jan 2020 17:10:16 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 17:10:16 -0000
+Received: (qmail 17036 invoked by uid 48516); 22 Jan 2020 17:10:16 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9338 invoked from network); 22 Jan 2020 17:10:16 -0000
+Received: from waelchi.qslm-license.com (waelchi.qslm-license.com [104.168.165.129])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 22 Jan 2020 17:10:15 -0000
+Received: by jaskolski.qslm-license.com id h520vg0001g8 for <bruce@untroubled.org>; Wed, 22 Jan 2020 17:10:14 +0000 (envelope-from <HarrysQualityRazors-bruce=untroubled.org@qslm-license.com>)
+Date: Wed, 22 Jan 2020 17:10:14 +0000
+From: Harry's Quality Razors <HarrysQualityRazors@qslm-license.com>
+Reply-To: HarrysQualityRazors@qslm-license.com
+To: bruce@untroubled.org
+Message-Id: <5b640210-ea31-4516-923b-40a78ed9fbbd@qslm-license.com>
+Subject: =?utf-8?B?MTBNKyBndXlzIGFyZSBkb25lIG92ZXJwYXlpbmcgZm9yIHJhem9ycy4gQ2xhaW0geW91ciB0cmlhbCBvZmZlci4=?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-e18c7dd6637edb00ae7223__c5bf30792932e6d2f56ffa08_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 2374
+
+---_-_-e18c7dd6637edb00ae7223__c5bf30792932e6d2f56ffa08_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-e18c7dd6637edb00ae7223__c5bf30792932e6d2f56ffa08_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHAgc3R5bGU9InRleHQtYWxpZ246IHJpZ2h0OyI+PGEgaHJlZj0iaHR0cDovL3FzbG0tbGljZW5z
+ZS5jb20vVmtRZ0lpZ1FmbWwwIj4mbmJzcDs8L2E+PC9wPgo8IS0tCiB3ZSBuZWVkIDFrIG9mIGNo
+YXJhY3RlcnMgaW4gdGhlIGhlYWQgdG8gcHJldmVudCBpT1MgZGV2aWNlcyBmcm9tIGRpc3BsYXlp
+bmcgdGhlICJkb3dubG9hZCByZXN0IG9mIG1lc3NhZ2UiLi4uIG1lc3NhZ2UuLi4KIC0tPgo8dGFi
+bGUgc3R5bGU9ImJhY2tncm91bmQ6ICNmZmY7IiBib3JkZXI9IjAiIHdpZHRoPSIxMDAlIiBjZWxs
+c3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiIGJnY29sb3I9IiNmZmYiPgo8dGJvZHk+Cjx0cj4K
+PHRkIHN0eWxlPSJiYWNrZ3JvdW5kOiAjZmZmZmZmOyIgYWxpZ249ImNlbnRlciIgYmdjb2xvcj0i
+I2ZmZmZmZiI+Cjx0YWJsZSBpZD0iY29udGFpbmVyIiBzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsg
+d2lkdGg6IDYwMHB4OyBtYXJnaW46IDAgYXV0bzsgcGFkZGluZzogMDsiIGJvcmRlcj0iMCIgd2lk
+dGg9IjYwMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIiBhbGlnbj0iY2VudGVyIj4K
+PHRib2R5Pgo8dHI+Cjx0ZD4KPHRhYmxlIGlkPSJjb250ZW50IiBzdHlsZT0idGV4dC1hbGlnbjog
+bGVmdDsiIGJvcmRlcj0iMCIgd2lkdGg9IjEwMCUiIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGlu
+Zz0iMCIgYWxpZ249ImNlbnRlciI+Cjx0Ym9keT4KPHRyPgo8dGQgYWxpZ249ImNlbnRlciI+Cjxk
+aXYgY2xhc3M9Im5vLW1vYmlsZSI+PGEgaHJlZj0iaHR0cDovL3FzbG0tbGljZW5zZS5jb20vN1lF
+VThXVUVUWEJFIj4gPGltZyBjbGFzcz0iYXV0by1zdHlsZTIiIHNyYz0iaHR0cDovL3FzbG0tbGlj
+ZW5zZS5jb20vaW1hZ2VzL2YxZTUzMDQzYzFhZjgxNTdhNWQ3ZWQ2YTdlNzAyMWFkIiBhbHQ9Ikhh
+cnJ5J3MgR3JlYXQgc2hhdmUuIEZhaXIgUHJpY2UuIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAl
+IiBib3JkZXI9IjAiIC8+PC9hPjwvZGl2Pgo8L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPgo8
+L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4K
+PHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8
+cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+Cjxw
+PiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+
+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPlRvIHJlbW92ZSB5b3Vyc2VsZiBmcm9tIGZ1dHVy
+ZSBtYWlsaW5ncywgcGxlYXNlIDxhIGhyZWY9Imh0dHA6Ly9xc2xtLWxpY2Vuc2UuY29tL3JDdS1t
+QS11OUJyeSI+IHVuc3Vic2NyaWJlIGhlcmU8L2E+PGJyIC8+IG9yIHdyaXRlIHRvOiBQTyBCb3gg
+NTY2IE5ldyBZb3JrLCBOWSAxMDAxNDwvcD4KPC90ZD4KPC90cj4KPC90Ym9keT4KPC90YWJsZT4=
+
+---_-_-e18c7dd6637edb00ae7223__c5bf30792932e6d2f56ffa08_-_---

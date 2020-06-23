@@ -1,0 +1,98 @@
+Return-Path: <SRS0=gCWKjy=22=toant.date=keto.fuel-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 19696 invoked from network); 5 Jan 2020 18:35:43 -0000
+Received: (qmail 29035 invoked from network); 5 Jan 2020 18:35:42 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Jan 2020 18:35:42 -0000
+Received: (qmail 6986 invoked by uid 48516); 5 Jan 2020 18:35:40 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31848 invoked from network); 5 Jan 2020 18:35:39 -0000
+Received: from mail.toant.date (208-187-163-90.nca.datanoc.com [208.187.163.90])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 05 Jan 2020 18:35:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=toant.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=keto.fuel@toant.date;
+ bh=qQT6+rFh8szlIRFxlWxmpckW3qw=;
+ b=w7f5cG/fEhADHk5SMbtWkez/YGxCYk6ea1vEkxB0SPUTDlYpkXc3yzYZXXnqdmClwCwAZOMDMtVw
+   UWFkSarSSDjnYHjiUxgQY1pmeg+MYitQNuEW1Oa3xOQE8nx4FOa1LVnvwGQTetu2PYy6JbliBgOB
+   KK0Pjwb6WdLWFxYxoC8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=toant.date;
+ b=mfLir/BpX3KfumrxlnpjQZ10SkL5fXQaJ/6wpMEBvC56ToIWNWG5AcstD7S458Ijk2fsTopUZKvF
+   xV0msBiUTzS5tM80fAGVhxWO+EhjkHsxDgZppiUMDMyhIf8fkMXwGAj2OpIXVk6PS9X68j+dMQZT
+   505pVeK190SvXTYNWRk=;
+Received: by mail.toant.date id h28m7m0001gd for <bruce@untroubled.org>; Sun, 5 Jan 2020 13:29:58 -0500 (envelope-from <keto.fuel-bruce=untroubled.org@toant.date>)
+Date: Sun, 5 Jan 2020 13:29:58 -0500
+From: "Keto Fuel" <keto.fuel@toant.date>
+To:   <bruce@untroubled.org>
+Subject: Get Your Like Back with Keto Fuel
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_307_1751432579.1578248992208"
+List-Unsubscribe: <http://www.toant.date/rhythm-stranded/ada6h23j9_5im89h13UR1CQv1g19d9C21NFv4GIf4rxvs4FhIHEsvZ10wQYRQoRoF96iI_w106h@@lHi>
+Message-ID: <0.0.0.22.1D5C3F62299D1C2.6FC7C7@mail.toant.date>
+Content-Length: 3697
+
+------=_Part_307_1751432579.1578248992208
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>senses transparency</title>=20
+ </head>=20
+ <body>=20
+  <center>
+   <span style=3D"font-family:verdana,geneva,sans-serif; "><span style=3D"f=
+ont-size:18px; "><a href=3D"http://www.toant.date/8db6b239Ho5R8P6x13QG70bO4F19d9_21kFv4GIf4rxvs4FhIHEsvZ10fQYRQoRoF95c1TU05JlHiN/tautologically-natured">Drop 30lb by Feb 1st</a></span></sp=
+an>
+   <br /> &nbsp;=20
+   <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard=
+; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: =
+none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -web=
+kit-text-stroke-width: 0px; text-decoration: none; ">=20
+    <tbody>=20
+     <tr>=20
+      <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mi=
+ddle">&nbsp;=20
+       <center>
+        <a href=3D"http://www.toant.date/8db6b239Ho5R8P6x13QG70bO4F19d9_21kFv4GIf4rxvs4FhIHEsvZ10fQYRQoRoF95c1TU05JlHiN/tautologically-natured"><img alt=3D"fook" src=3D"http://www.toant.date/8bd5P23S95r7Dat13Q70_b7uY19d9X21eFv4GIf4rxvs4FhIHEsvZ10iQYRQoRoF97J1QGWD05fp@Hi/Reilly-deallocating" style=
+=3D"border-width: 0px; border-style: solid; height: 833px; width: 625px; " =
+/></a>
+       </center>=20
+       <div align=3D"center">
+        <br />=20
+        <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helv=
+etica, sans-serif">&nbsp; <a href=3D"http://www.toant.date/7cd6k239iR5Q86vi12v70Xb5l19d9D21YFv4GIf4rxvs4FhIHEsvZ10NQYRQoRoF96oKp1N06OMAMHi/Cadillacs-Clemens"><font color=3D"#666666">Re=
+move Here</font></a>.<br /> 23638 W. Lyons Avenue #468&nbsp; Newhall, CA 91=
+321</font><br /> <br /> <a href=3D"http://www.toant.date/irreversibility-pigment/ed64k2395MjU8911h70b6q19d9K21uFv4GIf4rxvs4FhIHEsvZ10SQYRQoRoF97WjyP10X6BBMpHi">Tap this to Stop</a>=
+<br /> <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-=
+family: arial, helvetica, sans-serif; font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; text-align: center; =
+text-indent: 0px; text-transform: none; white-space: normal; word-spacing: =
+0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-deco=
+ration: none; display: inline !important; float: none; ">6547 N Academy Blv=
+d #2128</span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); =
+font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: nor=
+mal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal=
+; orphans: auto; text-align: center; text-indent: 0px; text-transform: none=
+; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-a=
+djust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> <s=
+pan style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: a=
+rial, helvetica, sans-serif; font-style: normal; font-variant-caps: normal;=
+ font-weight: normal; letter-spacing: normal; text-align: center; text-inde=
+nt: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz=
+-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: n=
+one; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</=
+span></span>
+        <br /> &nbsp;=20
+       </div> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table> <style><style></style><span face="dishwasher"></span><small></style></small>
+  </center>  =20
+ <img src=3D"http://www.toant.date/Cadillacs-Clemens/e045z2X395X85OT11S70b8T19d9i21PFv4GIf4rxvs4FhIHEsvZ10AQYRQoRoF97K1tHv0m5wq@Hi" alt=3D""/></body>
+</html>
+
+------=_Part_307_1751432579.1578248992208--
+

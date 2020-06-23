@@ -1,0 +1,81 @@
+Return-Path: <SRS0=5Gdaw0=23=niont.buzz=technology_ultra_wifi_pro-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 29435 invoked from network); 6 Jan 2020 18:59:00 -0000
+Received: (qmail 2748 invoked from network); 6 Jan 2020 18:59:00 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 18:59:00 -0000
+Received: (qmail 10953 invoked by uid 48516); 6 Jan 2020 18:58:59 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15599 invoked from network); 6 Jan 2020 18:58:58 -0000
+Received: from mail.niont.buzz ([193.201.140.114])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 06 Jan 2020 18:58:58 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=niont.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=technology_ultra_wifi_pro@niont.buzz;
+ bh=hEF2nYb4upp6HU77EWu3CaDTcPo=;
+ b=HxShAebNWUFfE6DttY6kJXR2Z7VFNYrJ8aWODzxG4npijXI5Y6kC42lVY/mO01+gcMCnAUa46pyn
+   yICONZ2t7qTV7JOzcueCxqUzXkYYKhS+jF0sGbmETDz2x+IFkf0EA7SDYx2M3SPNg1qXypQIxeBK
+   5TnWEl0b3oQc410fLq0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=niont.buzz;
+ b=M2c9tXgoXGOIr129ZVAOO7OuxMX8SAvIh6BYBBlqxpXM8lwVjOboVZ/k3X+rhpSc7105/Qm3+RiO
+   rzHXEqvONOHVsVKdoseyrZaYnrQ5aMmIrE45UHzfABLK2KTfvJVR70kzmeZ+KEP6ah6/kIJimDAi
+   u+sFl0sn8TVTHkUIgII=;
+Received: by mail.niont.buzz id h2e1n40001gu for <bruce@untroubled.org>; Mon, 6 Jan 2020 13:52:11 -0500 (envelope-from <technology_ultra_wifi_pro-bruce=untroubled.org@niont.buzz>)
+Date: Mon, 6 Jan 2020 13:52:11 -0500
+From: "Technology Ultra Wifi Pro" <technology_ultra_wifi_pro@niont.buzz>
+To:   <bruce@untroubled.org>
+Subject: Want 50% off wifi signal boosting power?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_64_1874050317.1578336712984"
+List-Unsubscribe: <http://www.niont.buzz/rebutted-treetops/5585g2C395lQ89T11J1Qy1q19e0C21QFv4GIf4rxvs4FhIHEsvZ10fQgRQ99oq95v1h0G6EkNAHi>
+Message-ID: <0.0.0.7.1D5C4C26725BE6A.3848E@mail.niont.buzz>
+Content-Length: 4157
+
+------=_Part_64_1874050317.1578336712984
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Utopianizes woodcock</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.niont.buzz/papered-powerlessly/c065Q2C395An86X13S70d7Xgx19e0M21AFv4GIf4rxvs4FhIHEsvZ10WQgRQ99oq97nRl1tP06W@kjHi">Get the FASTEST wifi speeds possible</a></span>
+   <br /> &nbsp; 
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+       <center>
+        <a href="http://www.niont.buzz/papered-powerlessly/c065Q2C395An86X13S70d7Xgx19e0M21AFv4GIf4rxvs4FhIHEsvZ10WQgRQ99oq97nRl1tP06W@kjHi"><img alt="speedy" src="http://www.niont.buzz/shower-fathered/c7e5D23S95z7zaq13G7s0daNL19e0D21yFv4GIf4rxvs4FhIHEsvZ10dQgRQ99oq95gS10z5OAHiL" style="border-width: 0px; border-style: solid; width: 102%; " /></a>
+       </center> 
+       <div align="center">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.niont.buzz/98f5e2_395rG86k13Q7Rs0d8P19e0O21JFv4GIf4rxvs4FhIHEsvZ10yQgRQ99oq97aDm10iO5LkyHi/disambiguation-thrush"><font color="#666666">Stop&nbsp; Here</font></a>.<br /> 4023 Kennett Pike Wilmington, DE 19807</font>
+        <br /> 
+        <br /> 
+        <br /> 
+        <a href="http://www.niont.buzz/rebutted-treetops/26a4i2395hDR8913g_70dm9q19e0S21SFv4GIf4rxvs4FhIHEsvZ10WQgRQ99oq96zQ10GO5uyXHi">Unsub Here</a>
+        <br /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+        <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+        <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 8091</span>
+        <br /> 
+        <br /> 
+        <br /> &nbsp; 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <font title="elementary"><font></font><style></style></font><style><style face="admonished"></style></style><style></style><span id="Payne"><span><small></small></span></span>
+  </center>   
+ <img src="http://www.niont.buzz/animation-corroborates/6de6OL239L5z8U5X13fw70Xdbn19e0q21kFv4GIf4rxvs4FhIHEsvZ10AQgRQ99oq97JKgH1W05mPUHi" alt=""/></body>
+</html>
+
+------=_Part_64_1874050317.1578336712984--
+

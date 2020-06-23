@@ -1,0 +1,122 @@
+Return-Path: <SRS0=08OOUJ=3F=mail.naturalnerve.bid=6510-2982-85526-1737-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 22139 invoked from network); 16 Jan 2020 16:47:41 -0000
+Received: (qmail 30540 invoked from network); 16 Jan 2020 16:47:41 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Jan 2020 16:47:41 -0000
+Received: (qmail 22838 invoked by uid 48516); 16 Jan 2020 16:47:33 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9872 invoked from network); 16 Jan 2020 16:47:28 -0000
+Received: from pier.naturalnerve.bid ([170.130.174.50])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 16 Jan 2020 16:47:27 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=naturalnerve.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=NeuropathyTreatmentGroup@naturalnerve.bid;
+ bh=Iy+CVTtFcxNsi3LHPsYYjApFGtA=;
+ b=CsSXma+k2a7LapgBANe8C1uDsbkvZCZ8gRzfDMX1U03M6ZuiHpsjSglHbtW057+F1NACrDLVOoH8
+   yrW5h54fMWpZdyHCp4wgpwTtc/rKBOcIr5AC7HizQMaSmqB1jW9lGfRnSyaNhbjWLqS3DaN/TW3y
+   qIztnROEaVXbhD2seKE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=naturalnerve.bid;
+ b=jNGM31f81TI8cQsVqUEY5Rw2bout+nDRKey/U42VuYdHbGbjxZdS7xZFqQOnym0ph65YEUdemDh8
+   4MG+DIJCzSMdsJa+J6wXP5n+Air5Ojwaymg4vhkZIthh9YYvtSMC72EZJwCpkDKpOmbIChufkAVE
+   zMm/91L/qEHzjb8LXts=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="464f016185d9507a7681f5ff5c38dfa9_ba6_14e16"
+Date: Thu, 16 Jan 2020 11:46:54 -0500
+From: "NeuropathyTreatment Group" <NeuropathyTreatmentGroup@naturalnerve.bid>
+Reply-To: "NeuropathyTreatment Group" <NeuropathyTreatmentGroup@naturalnerve.bid>
+Subject: Unbelievable Truth About Neuropathy Nerve Pain [And What to Do]
+To: <bruce@untroubled.org>
+Message-ID: <do11x7gkf3nzhs9a-t134tu45cqtrxit2-ba6-14e16@naturalnerve.bid>
+Content-Length: 7636
+
+--464f016185d9507a7681f5ff5c38dfa9_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Unbelievable Truth About Neuropathy Nerve Pain [And What to Do]
+
+http://naturalnerve.bid/LN7WnbH-ns-6Aupji4h7drN_F2wcwXvMLPM3h8aCWpWzFZdC
+
+http://naturalnerve.bid/3ll8b3Of9odtNyswUOZxbJVWr8b1fOC8HgQ_7SFT4Nc0AEH_
+
+Hyderabad is 1,566 kilometres (973 mi) south of Delhi, 699 kilometres (434 mi) southeast of Mumbai, and 570 kilometres (350 mi) north of Bangalore by road. Situated in the southern part of Telangana in southeastern India, along the banks of the Musi River, located on the Deccan Plateau in the northern part of South India. Greater Hyderabad covers 650 km2 (250 sq mi), making it one of the largest metropolitan areas in India. With an average altitude of 542 metres (1,778 ft), Hyderabad lies on predominantly sloping terrain of grey and pink granite, dotted with small hills, the highest being Banjara Hills at 672 metres (2,205 ft). The city has numerous lakes referred to as sagar, meaning "sea". Examples include artificial lakes created by dams on the Musi, such as Hussain Sagar (built in 1562 near the city centre), Osman Sagar and Himayat Sagar. As of 1996, the city had 140 lakes and 834 water tanks (ponds).
+Climate
+
+Hyderabad has a tropical wet and dry climate (Köppen Aw) bordering on a hot semi-arid climate (Köppen BSh). The annual mean temperature is 26.6 °C (79.9 °F); monthly mean temperatures are 21–33 °C (70–91 °F). Summers (March–June) are hot and humid, with average highs in the mid-to-high 30s Celsius; maximum temperatures often exceed 40 °C (104 °F) between April and June. The coolest temperatures occur in December and January, when the lowest temperature occasionally dips to 10 °C (50 °F). May is the hottest month, when daily temperatures range from 26 to 39 °C (79–102 °F); December, the coldest, has temperatures varying from 14.5 to 28 °C (57–82 °F).
+
+Heavy rain from the south-west summer monsoon falls between June and September, supplying Hyderabad with most of its mean annual rainfall. Since records began in November 1891, the heaviest rainfall recorded in a 24-hour period was 241.5 mm (10 in) on 24 August 2000. The highest temperature ever recorded was 45.5 °C (114 °F) on 2 June 1966, and the lowest was 6.1 °C (43 °F) on 8 January 1946. The city receives 2,731 hours of sunshine per year; maximum daily sunlight exposure occurs in February.
+
+--464f016185d9507a7681f5ff5c38dfa9_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://naturalnerve.bid/keJuwVylnzLd_dPtZrJRt0LMkAZo2zN1OvshLm_-cl2FBa6k"><img src="http://naturalnerve.bid/1f1bb89049e21c4f98.jpg" /><img height="1" src="http://www.naturalnerve.bid/px6ObQWkkyiJ26iGAJtK1fYBtEMQilBBeLBD1CIhuAE5t9C5" width="1" /></a>
+<div style="width:600px;font-family:Arial;padding:10px;">If you&#39;ve talked to any expert on neuropathy or done even basic research on the condition &ndash; you&#39;ll know that vitamin B12 is perhaps the most important vitamin for boosting your nerve health.<br />
+<br />
+So why would I tell you that it won&#39;t help with your neuropathy?<br />
+<br />
+It&#39;s not that B12 CAN&#39;T help boost nerve health and ease neuropathy. If you find it the right form, it absolutely can AND will help. The problem is that most of the B12 vitamins you&#39;ll find at your grocery store or online aren&#39;t the right form of B12 for neuropathy.<br />
+<br />
+Unfortunately, most manufacturers are trying to boost their bottom line by selling a cheaper, less effective form of the vitamins they&#39;re pushing.<br />
+<br />
+This is especially true of vitamin B12.<br />
+<br />
+If you&#39;re not already taking a B12 supplement, you should start today.<br />
+<br />
+But you need to take the right one &ndash; otherwise you&#39;re throwing your money away.<br />
+<br />
+<a href="http://naturalnerve.bid/LN7WnbH-ns-6Aupji4h7drN_F2wcwXvMLPM3h8aCWpWzFZdC"><b>Nerve Renew&copy;</b></a>, offered by Neuropathy Treatment Group, offers a complete Neuropathy Support Formula that is loaded with the highest quality ingredients, including Vitamin B12. Their ingredients have been shown to be effective in clinical trials, all come from natural sources and each step of their process is double checked and signed off by a quality control specialist.<br />
+<br />
+Best Part?<br />
+<br />
+<br />
+They offer a <a href="http://naturalnerve.bid/LN7WnbH-ns-6Aupji4h7drN_F2wcwXvMLPM3h8aCWpWzFZdC"><b>2 Week Trial</b></a>, just pay shipping to try it!<br />
+<br />
+They may not offer trials for much longer, so secure your sample now.<br />
+<br />
+<a href="http://naturalnerve.bid/LN7WnbH-ns-6Aupji4h7drN_F2wcwXvMLPM3h8aCWpWzFZdC"><b>Claim Your 2 Week Trial Here</b></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://naturalnerve.bid/gFZ8bEPoxYk6OXEycmAtQSlZArNKY2FFhsAeecpZEf03nW_r"><img src="http://naturalnerve.bid/2d2edab28701d3cfaf.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://naturalnerve.bid/3ll8b3Of9odtNyswUOZxbJVWr8b1fOC8HgQ_7SFT4Nc0AEH_"><img src="http://naturalnerve.bid/e14d0f498caf365629.jpg" /></a><br />
+<br />
+<br />
+<span style="color:white;">Hyderabad is 1,566 kilometres (973 mi) south of Delhi, 699 kilometres (434 mi) southeast of Mumbai, and 570 kilometres (350 mi) north of Bangalore by road. Situated in the southern part of Telangana in southeastern India, along the banks of the Musi River, located on the Deccan Plateau in the northern part of South India. Greater Hyderabad covers 650 km2 (250 sq mi), making it one of the largest metropolitan areas in India. With an average altitude of 542 metres (1,778 ft), Hyderabad lies on predominantly sloping terrain of grey and pink granite, dotted with small hills, the highest being Banjara Hills at 672 metres (2,205 ft). The city has numerous lakes referred to as sagar, meaning &quot;sea&quot;. Examples include artificial lakes created by dams on the Musi, such as Hussain Sagar (built in 1562 near the city centre), Osman Sagar and Himayat Sagar. As of 1996, the city had 140 lakes and 834 water tanks (ponds). Climate Hyderabad has a tropical wet and dry climate (K&ouml;ppen Aw) bordering on a hot semi-arid climate (K&ouml;ppen BSh). The annual mean temperature is 26.6 &deg;C (79.9 &deg;F); monthly mean temperatures are 21&ndash;33 &deg;C (70&ndash;91 &deg;F). Summers (March&ndash;June) are hot and humid, with average highs in the mid-to-high 30s Celsius; maximum temperatures often exceed 40 &deg;C (104 &deg;F) between April and June. The coolest temperatures occur in December and January, when the lowest temperature occasionally dips to 10 &deg;C (50 &deg;F). May is the hottest month, when daily temperatures range from 26 to 39 &deg;C (79&ndash;102 &deg;F); December, the coldest, has temperatures varying from 14.5 to 28 &deg;C (57&ndash;82 &deg;F). Heavy rain from the south-west summer monsoon falls between June and September, supplying Hyderabad with most of its mean annual rainfall. Since records began in November 1891, the heaviest rainfall recorded in a 24-hour period was 241.5 mm (10 in) on 24 August 2000. The highest temperature ever recorded was 45.5 &deg;C (114 &deg;F) on 2 June 1966, and the lowest was 6.1 &deg;C (43 &deg;F) on 8 January 1946. The city receives 2,731 hours of sunshine per year; maximum daily sunlight exposure occurs in February. </span></div>
+</body>
+</html>
+
+--464f016185d9507a7681f5ff5c38dfa9_ba6_14e16--

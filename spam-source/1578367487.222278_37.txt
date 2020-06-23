@@ -1,0 +1,85 @@
+Return-Path: <SRS0=6Trnys=23=pottn.buzz=canvas_prints_promo-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 30404 invoked from network); 6 Jan 2020 19:41:44 -0000
+Received: (qmail 3046 invoked from network); 6 Jan 2020 19:41:44 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 19:41:44 -0000
+Received: (qmail 334 invoked by uid 48516); 6 Jan 2020 19:41:43 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 18179 invoked from network); 6 Jan 2020 19:41:40 -0000
+Received: from mail.pottn.buzz (70-102-103-72.nca.lanset.com [70.102.103.72])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 06 Jan 2020 19:41:40 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=pottn.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas_prints_promo@pottn.buzz;
+ bh=Pwh8VIqdTnx6x8POtIeFgmqEKaQ=;
+ b=n/Stwr6H7JqJTbXLW3JF7RAyYKUNb7vaQz6+R2tC7RTyXPI4OZ08DP448GMzaRA5nBiZ+geOZP1a
+   O2ck1fbzAf2yoeIY1R7gDY66uDJRUNqKaWOngB9qau9uktfX1/IvaU3e5epavNGY9pppJtTtHDYv
+   SCMq50rySh4+uCP/bbE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=pottn.buzz;
+ b=twOiy+4JBxIU11Pzqjb6aWkCij9LDnipNVKMvvhdjXXkKVMm2rE0wiQdLHYGKuh4ffFsWsS3D13w
+   60e7l0qN5O9ArzhnQ9IPBbTtmUmf/OuN4TW7AkZTQOVmVrioUxGdTCa2S/4FJEfriUQ8ryQr5h9S
+   QrE9UQ5+RQZ2X7YO87g=;
+Received: by mail.pottn.buzz id h2e6n80001gl for <bruce@untroubled.org>; Mon, 6 Jan 2020 14:34:43 -0500 (envelope-from <canvas_prints_promo-bruce=untroubled.org@pottn.buzz>)
+Date: Mon, 6 Jan 2020 14:34:43 -0500
+From: "Canvas Prints Promo" <canvas_prints_promo@pottn.buzz>
+To:   <bruce@untroubled.org>
+Subject: Fall Savings start now! Up to 93% on Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_178_1935421495.1578339259636"
+List-Unsubscribe: <http://www.pottn.buzz/4Jd4F2395P89CY11q1xl1Z19e2B21fFv4GIf4rxvs4FhIHEsvZ10WQURQ9Qo5K7jLVs10L5OLWHi/intervene>
+Message-ID: <0.0.0.14.1D5C4C8589FDDCA.512FA6@mail.pottn.buzz>
+Content-Length: 3357
+
+------=_Part_178_1935421495.1578339259636
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>centenary enrolls</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.pottn.buzz/vaporing/de66N2Q3T95z86Pw12C70Fe1T19e2J21QFv4GIf4rxvs4FhIHEsvZ10mQURQ9Qo5K7AHOv10S6GXH@Ni">=
+Massive Canvas Sale Get 93% off&nbsp; </a></span></span><br /> <br /> <a hr=
+ef=3D"http://www.pottn.buzz/vaporing/de66N2Q3T95z86Pw12C70Fe1T19e2J21QFv4GIf4rxvs4FhIHEsvZ10mQURQ9Qo5K7AHOv10S6GXH@Ni"><img alt=3D"easy canvas" src=3D"http://www.pottn.buzz/1796c239YI5Srs7a11A70e4_19e2F21zFv4GIf4rxvs4FhIHEsvZ10SQURQ9Qo5K7OKlX1Z06U3Hizq/compress" style=3D"wid=
+th: 659px; height: 725px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Go <a href=3D"=
+http://www.pottn.buzz/60b4S2395vv8F613bWx70e2A19e2M21LFv4GIf4rxvs4FhIHEsvZ10lQURQ9Qo5K7Em1xIp05C2HiA/paling">here&nbsp; </a><br /> Or Write to: 11525A Stonehollow Dr. Suite =
+100 Austin, TX 78758<br /> <br /> 6547 N Academy Blvd #2128<br /> COLORADO =
+SPRINGS CO 80918<br /> Remove <a href=3D"http://www.pottn.buzz/intervene/4686s2X39o5o89QU11X70e3Q19e2l21qFv4GIf4rxvs4FhIHEsvZ10NQURQ9Qo5K6yl10mG5qjHzi">Here</a><br />=
+ <br /> <br /> <small><span><small><font face="Brinkley"><span color="overlooking"></span><font dir="residence"><style><font></font></small><big></span></font></font><font></font></big><font></small></font></style></span></span><br /> <br /> <span style=
+=3D"color:#FFFFFF; ">Hundreds of 737 Max jets are sitting, grounded, as Boe=
+ing awaits approval from aviation regulators for the troubled plane to retu=
+rn to flight. But now, the company has discovered yet another potential hur=
+dle. The plane was grounded worldwide in March after two crashes that kille=
+d 346 people. The company determined a software fix was likely to correct t=
+he issue with the automatic safety feature that caused the crashes. However=
+, as part of a December audit of the plane' s safety ordered by the US Fede=
+ral Aviation Administration, Boeing (BA) found &quot; previously unreported=
+ concerns&quot; with wiring in the 737 Max, according to a report earlier S=
+unday from the New York Times. The company informed the FAA last month that=
+ it is looking into whether two sections of wiring that control the tail of=
+ the plane are too close together and could cause a short circuit ? and pot=
+entially a crash, if pilots did not react appropriately -? the Times report=
+ed, citing a senior Boeing engineer and three people familiar with the matt=
+er.</span><br /> <br /> <br /> &nbsp; </p>=20
+  </center> <small><small></small><span lang="enriches"></small></span><small></small><span size="mighty"></span><span></span> =20
+ <img src=3D"http://www.pottn.buzz/7195I239t5lg85s11n70e5K19e2o21HFv4GIf4rxvs4FhIHEsvZ10VQURQ9Qo5K6kxOs105NWOHi/quartz" alt=3D""/></body>
+</html>
+
+------=_Part_178_1935421495.1578339259636--
+

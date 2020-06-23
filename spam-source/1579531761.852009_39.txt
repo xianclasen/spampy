@@ -1,0 +1,110 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 7807 invoked from network); 20 Jan 2020 03:51:16 -0000
+Received: (qmail 5251 invoked from network); 20 Jan 2020 03:51:15 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Jan 2020 03:51:15 -0000
+Received: (qmail 28491 invoked by uid 48516); 20 Jan 2020 03:51:15 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31554 invoked from network); 20 Jan 2020 03:51:14 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 20 Jan 2020 03:51:14 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1729157AbgATDvN (ORCPT <rfc822;bruce@untroubled.org>);
+        Sun, 19 Jan 2020 22:51:13 -0500
+Received: from mail-pf1-f194.google.com ([209.85.210.194]:36649 "EHLO
+        mail-pf1-f194.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1729011AbgATDvN (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Sun, 19 Jan 2020 22:51:13 -0500
+Received: by mail-pf1-f194.google.com with SMTP id x184so15138114pfb.3
+        for <linux-kernel@vger.kernel.org>; Sun, 19 Jan 2020 19:51:12 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:sender:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=3/HLCQdvOct5vYdGl7M0YVN4HPhLYYUEFvzbqlTIGO8=;
+        b=B+1TVXMR1svCYILy+vUERAedNNQB0R5863m5j9Jr9FFbv4K85etCpP+3IGPMP/BGeu
+         Gl6916C1mLsN/IGfDugNj4Ir8xIMO1u1+PQ8qRXdZsDw8Qgv28wdM5zZNkQDu7p0g1Mx
+         egdgapFQj/rpIVIq/ODrktMYe4CYEci+F6UAFKdCObrWsqyQ/u/yXhvUKbDR1ysVBgtH
+         kLMPiFf17Sx3RJUls9eO7+c0ARN7FsmhJRnIbfBpKz3pSdniEKjiZwhbPHnLixUksEXS
+         29LqCr8bT9Gp5+V34YR0CCGZmyEV2eObFOa9D3HN4N6jjXo8Y3qq49HudgDgj82tfUiI
+         Hnwg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:sender:from:date
+         :message-id:subject:to:content-transfer-encoding;
+        bh=3/HLCQdvOct5vYdGl7M0YVN4HPhLYYUEFvzbqlTIGO8=;
+        b=T7dQ1waZgtKZag7DmThvQ34qqLXz5Vp0xBJe5KtixjDPbdqR9prbeFaCB9/B59DFMu
+         Ajy1k5L0j1fU8tZYB9WUpNkDJVeiLXBDXXLF8qfTqzUVmRA07oGu2PblfZMQkr5eryKd
+         KKIEMYM6avDFNnZ+HYpdG55pC09GvsKSklpyRuvf12fPCVt49K9AMKyeRss4jeBCLHT2
+         YIEK3h6LgiMn9BtSnDgOqTnEC9FkuRlCjcLUX4KHb3UNFVHFosQQITq2+oIDU4Lu6JZK
+         UbK7mPvClOPOTEvYDl9Aih1snKQFbciYhYTD7ndRVVBiN8CNv9AkyUhtl9fWi7FRN4hJ
+         qmtQ==
+X-Gm-Message-State: APjAAAX2HtfdADz2zWkUCgtn8l3z6pDBgd6sfrBiZm/mllrF4GNM54+F
+        MttOb0bZSOurSdEdttkBq/prlhqFip+yhE4YTkU=
+X-Google-Smtp-Source: APXvYqx2tpwZQVUxwAjWIBNMLoT+nxd2S0fHfJCIDLj2YfY1Q1uamkhTOLt6eyG5IoQN144ytWfM0Asejof3ZfBqxOc=
+X-Received: by 2002:a63:534d:: with SMTP id t13mr55611165pgl.89.1579492272390;
+ Sun, 19 Jan 2020 19:51:12 -0800 (PST)
+MIME-Version: 1.0
+Reply-To: salifnaba85@gmail.com
+Received: by 2002:a17:90a:24e5:0:0:0:0 with HTTP; Sun, 19 Jan 2020 19:51:11
+ -0800 (PST)
+From:   "Mr.Salif Naba" <mrsalifnaba5@gmail.com>
+Date:   Mon, 20 Jan 2020 04:51:11 +0100
+X-Google-Sender-Auth: axAb1TEo_SBV4APJmPS6H5k1M6o
+Message-ID: <CAA=10MbVNLYGTeNpwUwW191Wo+p8cHtZcUy5f0P3_zAgH8hcbQ@mail.gmail.com>
+Subject: TREAT WITH CONFIDENCE PLEASE.
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 1722
+
+Dear Friend,
+
+My name is  Mr.Salif Naba and I am a banker. It is true
+that we have not met each other in person, but I strongly believe that
+on trust, no friendship in every business. I have a deceased
+customer=E2=80=99s abandoned fund, which I am his personal financial advise=
+r
+before his accidental death, that being the main reason why I alone
+working in the bank here, know much about the existence of this fund
+and the secrets surrounding this money.
+
+I got your email information through the Burkina's Chamber of Commerce
+and industry on foreign business relations here in Ouagadougou Burkina
+Faso I hoped that you will not expose or betray this trust and
+confident that I am about to establish with you for the mutual benefit
+of you and I. I need your urgent assistance in transferring the sum of
+$15.5) millions dollars into your account within 14 working banking
+days.
+
+This money has been dormant for years in our bank without claim due to
+the owner of this fund died along with his entire family and supposed
+next of kin in an air crash. But before I disclose the full details to
+you, I will like to know your interest and willingness to assist me by
+reverting back to me with your:
+
+1. Full Name: .........
+2. Telephone Numbers: ...........
+3. Your Age: ........
+4. Your Sex: ...........
+5. Your Occupation: ............
+6. Your Country: ............
+7. City: ...........
+8. Your Home Address: ................
+9. Marital Status: ................
+
+Please note that if you must get in touch with me then you must reply
+me back through my private box  (salifnaba85@gmail.com)and please
+if you are not interested do not waste your time to reply kindly
+delete my message from your box ok.
+
+Regards
+Mr.Salif Naba

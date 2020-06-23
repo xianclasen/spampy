@@ -1,0 +1,105 @@
+Return-Path: <SRS0=oO9z9H=26=mail.ecosqribbl.bid=6097-2220-7607-1637-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28253 invoked from network); 9 Jan 2020 12:22:52 -0000
+Received: (qmail 30892 invoked from network); 9 Jan 2020 12:22:51 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Jan 2020 12:22:51 -0000
+Received: (qmail 32059 invoked by uid 48516); 9 Jan 2020 12:22:51 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15693 invoked from network); 9 Jan 2020 12:22:50 -0000
+Received: from mars.ecosqribbl.bid ([170.130.174.34])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 09 Jan 2020 12:22:45 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=ecosqribbl.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Sqribble@ecosqribbl.bid;
+ bh=pS4gE0chl/5AA653f22RWsW7TfE=;
+ b=LGtywcNMy4ATar4B2QIfz9LFRVo6+eICu97JGpKnK6gXXXQVM+Wm5kB3o8dgrbIAy4M6oBKYW1Dv
+   s/55ea1qze9tWyIGoGqnXL/g50wyejoiHkSbVYcHe59WBWefOJESfm9ACImAnCKdpcjzfCPKdXAD
+   2469Me5LHwDsEFSDYfE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=ecosqribbl.bid;
+ b=zLzzVzofHaI+YMuRNHrSizTXodIPMV8ZDvC71DkRPVCpzLvQPNy2ryDbgDOGxtFa39lxjsT5UL0v
+   aOYqu5McVAzYykJwupAfiCFSfEcKJGg2HgdvnVvgw/zRW57aEaBGcONaIacJBijPENMo0iNrbyHJ
+   B82xKJNRYWVx4Xi2XhM=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="395cdae7ff4550596b785a50c86f8259_8ac_1db7"
+Date: Thu, 9 Jan 2020 07:21:21 -0500
+From: "Sqribble" <Sqribble@ecosqribbl.bid>
+Reply-To: "Sqribble" <Sqribble@ecosqribbl.bid>
+Subject: Creates AMAZING eBooks and Reports In 5 MINUTES Without Typing Any Words!
+To: <bruce@untroubled.org>
+Message-ID: <l40vjegzwyxr7vu2-2v9enp9lqvpxltmx-8ac-1db7@ecosqribbl.bid>
+Content-Length: 7568
+
+--395cdae7ff4550596b785a50c86f8259_8ac_1db7
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Creates AMAZING eBooks and Reports In 5 MINUTES Without Typing Any Words!
+
+http://ecosqribbl.bid/QM9-a-uZynlpus3-mWthzkBmxcrpgoZkbD9F5lq597DSlZJV
+
+http://ecosqribbl.bid/gZiPDYfW3_GLUyJuw7EUfcFZj4_F7VLr4HaFJemyfMwFhEB1
+
+A Palaeolithic flint tool found in Westbury is the earliest indication of human presence in the area, dating from approximately 500,000 years ago. Later during the 7th millennium BC the sea level rose and flooded the valleys, forcing the Mesolithic people to occupy seasonal camps on the higher ground, indicated by scatters of flints. Subsequent winter flooding probably led to prehistoric man's using the Levels only in the summer, hence the county of Somerset may derive its name from Sumorsaete, meaning land of the summer people. An alternative suggestion is that the name derives from Seo-mere-saetan meaning "settlers by the sea lakes". The Neolithic people continued to exploit the reedswamps for their natural resources and started to construct wooden trackways such as the Sweet and Post Tracks. The Sweet Track, named after the peat digger who discovered it in 1970 and dating from the 3800s BC, is the world's oldest timber trackway, once thought to be the world's oldest engineered roadway. The track was built between what was in the early 4th millennium BC an island at Westhay and a ridge of high ground at Shapwick, close to the River Brue. The remains of similar tracks have been uncovered nearby, connecting settlements on the peat bog including the Honeygore, Abbotts Way, Bells, Bakers, Westhay and Nidons trackways.
+
+The Levels contain the best-preserved prehistoric village in the UK, Glastonbury Lake Village, as well as two others at Meare Lake Village. Discovered in 1892 by Arthur Bulleid, it was inhabited by about 200 people living in 14 roundhouses, and was built on a morass on an artificial foundation of timber filled with brushwood, bracken, rubble and clay. Investigation of the Meare Pool indicates that it was formed by the encroachment of raised peat bogs, particularly during the Subatlantic climatic period (1st millennium BC), and core sampling demonstrates that it is filled with at least 2 metres (6.6 ft) of detritus mud.
+
+The two villages within Meare Pool appear to originate from a collection of structures erected on the surface of the dried peat, such as tents, windbreaks and animal folds. Clay was later spread over the peat, providing raised stands for occupation, industry and movement, and in some areas thicker clay spreads accommodated hearths built of clay or stone.
+
+--395cdae7ff4550596b785a50c86f8259_8ac_1db7
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head><meta charset="utf-8">
+	<title></title>
+</head>
+<body><a href="http://ecosqribbl.bid/3ER36b336CAna0WMXgGQtEiOCEYCnleHb1Ui4ew4WMeTTRMg"><img src="http://ecosqribbl.bid/0137e0fc321fcd9e64.jpg" /><img height="1" src="http://www.ecosqribbl.bid/vd6b34onDM_p-s80ef65prPhvkGRMDEBAp6p6QDfHBIkNmwh" width="1" /></a>
+<div style="width:100%; max-width:650px;font-family: sans-serif; margin-left:1%;">
+<p>This is unbelievable&hellip;</p>
+
+<p>New revolutionary technology has JUST been launched that allows you to INSTANTLY create professional Ebooks, Reports, Guides, Lead Magnets, Whitepapers, and digital info-products AUTOMATICALLY, and &ldquo;ON-DEMAND&rdquo;&hellip; at a push of a button!</p>
+
+<p><a href="http://ecosqribbl.bid/QM9-a-uZynlpus3-mWthzkBmxcrpgoZkbD9F5lq597DSlZJV" target="_blank"><strong>Click here for Review</strong></a></p>
+
+<p>It&rsquo;ll also add CONTENT for you! (Saving you time and $100&rsquo;s or $1000&rsquo;s in outsourcing costs.)</p>
+
+<p>Build your list faster, sell to your customers, or even to your clients as a service for $150 to $600, thanks to the &ldquo;Commercial License&rdquo; AND agency website that&rsquo;s included as a bonus!</p>
+
+<p>You&rsquo;ll get immediate access to:<br />
+<br />
+&ndash; ALL-IN-ONE One Sqribble Software<br />
+&ndash; 50 Amazing Ebook Templates<br />
+&ndash; 15 Niche Categories<br />
+&ndash; 300 Page Layouts<br />
+&ndash; Easy To Use Drag &amp; Drop Editor<br />
+&ndash; Instant Content Engine (&ldquo;point-&amp;-click&rdquo;)<br />
+&ndash; BONUS: Commercial License (Worth 497 *INCLUDED*)<br />
+&ndash; BONUS: Agency Website (Worth 997 *INCLUDED*)<br />
+<br />
+&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</p>
+
+<p><a href="http://ecosqribbl.bid/QM9-a-uZynlpus3-mWthzkBmxcrpgoZkbD9F5lq597DSlZJV" target="_blank"><strong>FULL DEMO:</strong></a></p>
+
+<p>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</p>
+
+<p>John</p>
+
+<p><a href="http://ecosqribbl.bid/QM9-a-uZynlpus3-mWthzkBmxcrpgoZkbD9F5lq597DSlZJV" target="_blank"><strong>PS. SAVE 97% Today&hellip; (limited time ONLY):</strong></a></p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF; font-size:7px;">A Palaeolithic flint tool found in Westbury is the earliest indication of human presence in the area, dating from approximately 500,000 years ago. Later during the 7th millennium BC the sea level rose and flooded the valleys, forcing the Mesolithic people to occupy seasonal camps on the higher ground, indicated by scatters of flints. Subsequent winter flooding probably led to prehistoric man&#39;s using the Levels only in the summer, hence the county of Somerset may derive its name from Sumorsaete, meaning land of the summer people. An alternative suggestion is that the name derives from Seo-mere-saetan meaning &quot;settlers by the sea lakes&quot;. The Neolithic people continued to exploit the reedswamps for their natural resources and started to construct wooden trackways such as the Sweet and Post Tracks. The Sweet Track, named after the peat digger who discovered it in 1970 and dating from the 3800s BC, is the world&#39;s oldest timber trackway, once thought to be the world&#39;s oldest engineered roadway. The track was built between what was in the early 4th millennium BC an island at Westhay and a ridge of high ground at Shapwick, close to the River Brue. The remains of similar tracks have been uncovered nearby, connecting settlements on the peat bog including the Honeygore, Abbotts Way, Bells, Bakers, Westhay and Nidons trackways. The Levels contain the best-preserved prehistoric village in the UK, Glastonbury Lake Village, as well as two others at Meare Lake Village. Discovered in 1892 by Arthur Bulleid, it was inhabited by about 200 people living in 14 roundhouses, and was built on a morass on an artificial foundation of timber filled with brushwood, bracken, rubble and clay. Investigation of the Meare Pool indicates that it was formed by the encroachment of raised peat bogs, particularly during the Subatlantic climatic period (1st millennium BC), and core sampling demonstrates that it is filled with at least 2 metres (6.6 ft) of detritus mud. The two villages within Meare Pool appear to originate from a collection of structures erected on the surface of the dried peat, such as tents, windbreaks and animal folds. Clay was later spread over the peat, providing raised stands for occupation, industry and movement, and in some areas thicker clay spreads accommodated hearths built of clay or stone.<br />
+<a href="http://ecosqribbl.bid/R7UiGjWirBWEZC-4_eaBSlzDMgQ_Sv2DNqQd23ZFRMkD5WNl"><img src="http://ecosqribbl.bid/896841a5b8a4ec3e66.jpg" /></a> </span><br />
+&nbsp;</div>
+</body>
+</html>
+
+--395cdae7ff4550596b785a50c86f8259_8ac_1db7--

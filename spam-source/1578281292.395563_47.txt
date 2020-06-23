@@ -1,0 +1,81 @@
+Return-Path: <SRS0=GRSOW8=22=taraq.buzz=ultrawifipro-holiday-ad-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 17757 invoked from network); 5 Jan 2020 16:11:17 -0000
+Received: (qmail 28636 invoked from network); 5 Jan 2020 16:11:16 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Jan 2020 16:11:16 -0000
+Received: (qmail 7381 invoked by uid 48516); 5 Jan 2020 16:11:16 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 30848 invoked from network); 5 Jan 2020 16:11:15 -0000
+Received: from mail.taraq.buzz ([91.228.101.91])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 05 Jan 2020 16:11:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=taraq.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=ultrawifipro-holiday-ad@taraq.buzz;
+ bh=IATdefFCd7pQdl5VdffiqaHaUYg=;
+ b=vX8UR1UmHlEmyXAxWQ+2aaBHbTWEzd+DD/63sQQ2zV3mro/DlpzpmEpPgJXw6wXcQzD2GJlPVjLf
+   7L85fG03d1SSUkQEZGH99vHz+AVXQlqIcu202AHB1cGI0MbJLktK2SqMlD08eqcN4UITjLHviuoY
+   YAP6KP5p2E9bfLD9mYM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=taraq.buzz;
+ b=gL1sRGJ00N3poubuffBdhwu31G5ZvRYdPBfnUZIXpfuHkvcBq9FcCA+WnKd64a9JDJNibBBD/izx
+   jczhc4cRzGk8fY7uZw4Htpwxqzv3tDsdNWHvqp0aj+LwUnxDizG/aBTCPnTfWEV3aFysFrt7wYtR
+   VZob2FhgI6oseOv8+S8=;
+Received: by mail.taraq.buzz id h285a60001g3 for <bruce@untroubled.org>; Sun, 5 Jan 2020 11:04:57 -0500 (envelope-from <ultrawifipro-holiday-ad-bruce=untroubled.org@taraq.buzz>)
+Date: Sun, 5 Jan 2020 11:04:57 -0500
+From: "UltraWifiPro Holiday Ad" <ultrawifipro-holiday-ad@taraq.buzz>
+To:   <bruce@untroubled.org>
+Subject: Looking for a wireless connection you can rely on for holiday shopping?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_46_1934066884.1578240280880"
+List-Unsubscribe: <http://www.taraq.buzz/5575J239_5CG8X913S1qDk1vr19d1q21UFv4GIf4rxvs4FhIHEsvZ10zQzRQneo197e1xKG0V5ONH@i/dependently-astrophysical>
+Message-ID: <0.0.0.5.1D5C3E1E08B07D8.31D1D3@mail.taraq.buzz>
+Content-Length: 4091
+
+------=_Part_46_1934066884.1578240280880
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>disturb exclusively</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.taraq.buzz/reminding-cellophane/f126I23RH95JR86p11i708cD19d1r21aFv4GIf4rxvs4FhIHEsvZ10tQzRQneo197zW1B0GR5oUyHi">Want faster wifi? </a></span>
+   <br /> &nbsp; 
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+       <center>
+        <a href="http://www.taraq.buzz/reminding-cellophane/f126I23RH95JR86p11i708cD19d1r21aFv4GIf4rxvs4FhIHEsvZ10tQzRQneo197zW1B0GR5oUyHi"><img alt="speedy" src="http://www.taraq.buzz/42b6JC2A395dO7az13AS70F8fL19d1L21IFv4GIf4rxvs4FhIHEsvZ10oQzRQneo196srU10X6HOjH1i/Kodiak-bumptiousness" style="border-width: 0px; border-style: solid; width: 105%; " /></a>
+       </center> 
+       <div align="center">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.taraq.buzz/20f6n2A3t95zv86T13u708kKdT19d1H21BFv4GIf4rxvs4FhIHEsvZ10UQzRQneo196Es1B0Y5sylHi/priming-disregard"><font color="#666666">Remove Here</font></a>.<br /> 4023 Kennett Pike Wilmington, DE 19807</font>
+        <br /> 
+        <br /> 
+        <br /> 
+        <a href="http://www.taraq.buzz/Kodiak-bumptiousness/e406Dtl2395k_8r912i708hew19d1_21pFv4GIf4rxvs4FhIHEsvZ10FQzRQneo196u1y_t05wy3Hi">Exit Here</a>
+        <br /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+        <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+        <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 8091</span>
+        <br /> 
+        <br /> 
+        <br /> &nbsp; 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <font id="Keegan"></font><font color="pipeline"><span><style><style></span></style></font></style><small><style></style></small>
+  </center>   
+ <img src="http://www.taraq.buzz/Pullmanize-determinants/7b05Y23A95Q85pw13r7w0w90H19d1o21SFv4GIf4rxvs4FhIHEsvZ10EQzRQneo196rTWM105QzHTi" alt=""/></body>
+</html>
+
+------=_Part_46_1934066884.1578240280880--
+

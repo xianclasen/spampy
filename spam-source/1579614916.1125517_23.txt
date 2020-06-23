@@ -1,0 +1,96 @@
+Return-Path: <SRS0=+2zVru=3K=mail.iheterhyper.bid=6764-2982-85526-1804-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 16800 invoked from network); 21 Jan 2020 11:57:00 -0000
+Received: (qmail 16581 invoked from network); 21 Jan 2020 11:56:59 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Jan 2020 11:56:59 -0000
+Received: (qmail 8360 invoked by uid 48516); 21 Jan 2020 11:56:59 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 1324 invoked from network); 21 Jan 2020 11:56:58 -0000
+Received: from gert.iheterhyper.bid ([170.130.174.60])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 21 Jan 2020 11:56:48 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=iheterhyper.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Flexibility@iheterhyper.bid;
+ bh=W9z0fGw9YyxcPc4M/pPqv2R1q4g=;
+ b=l3a7F+SVRcAs/yk8e2pMEXCA0SpmUFwXX1r3us2VFKjcOSKgwTtBZ0nkGX6e3KQSEGR2aQxHZuXf
+   KiWfW5lBIWNaLk6id6N/o3ey0xr8Z5lFNRS1K7dIKEOZq/KWYFqVZT/cZIYqJGGw8rEK4FOyDv7+
+   SLjAoCIkX8Y0dFaX4+E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=iheterhyper.bid;
+ b=cTy2M97HS3LB5/OBQfDzRTIF/jSPfbI+97XK1bCNh+viPdXEOFrD5Kx5QQgpN97M/8LFWOe87+J1
+   3GYLOXuIKLfHj4DKhtP2CH2vvR+PIOl75lYhKn7yuNQn1XPS5Q7KQxX7XrIW93DTWi2OJ1QbqVyz
+   F/G4MornwEPHC8b+qdU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="92ae9f43f0fbd71abcc07da7f9cc50c8_ba6_14e16"
+Date: Tue, 21 Jan 2020 06:56:15 -0500
+From: " Flexibility" <Flexibility@iheterhyper.bid>
+Reply-To: " Flexibility" <Flexibility@iheterhyper.bid>
+Subject: How to Quickly Gain Full Body Flexibility and Core Strength
+To: <bruce@untroubled.org>
+Message-ID: <oqjk4m1y45j14j8f-ln5ujhp3amrlwx61-ba6-14e16@iheterhyper.bid>
+Content-Length: 6678
+
+--92ae9f43f0fbd71abcc07da7f9cc50c8_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+How to Quickly Gain Full Body Flexibility and Core Strength
+
+http://iheterhyper.bid/UGaeRHKk2vDq-edf6PWwCZG5Pzzat94brOoXxpFupBYpYMaM
+
+http://iheterhyper.bid/Ps5N9AXb2uj_CnCLNRd0NH737hoqZjnEHkReABFnea91ABoz
+
+The scientific method is an empirical method of acquiring knowledge that has characterized the development of science since at least the 17th century. It involves careful observation, applying rigorous skepticism about what is observed, given that cognitive assumptions can distort how one interprets the observation. It involves formulating hypotheses, via induction, based on such observations; experimental and measurement-based testing of deductions drawn from the hypotheses; and refinement (or elimination) of the hypotheses based on the experimental findings. These are principles of the scientific method, as distinguished from a definitive series of steps applicable to all scientific enterprises.
+
+Though diverse models for the scientific method are available, there is in general a continuous process that includes observations about the natural world. People are naturally inquisitive, so they often come up with questions about things they see or hear, and they often develop ideas or hypotheses about why things are the way they are. The best hypotheses lead to predictions that can be tested in various ways. The most conclusive testing of hypotheses comes from reasoning based on carefully controlled experimental data. Depending on how well additional tests match the predictions, the original hypothesis may require refinement, alteration, expansion or even rejection. If a particular hypothesis becomes very well supported, a general theory may be developed.
+
+Although procedures vary from one field of inquiry to another, they are frequently the same from one to another. The process of the scientific method involves making conjectures (hypotheses), deriving predictions from them as logical consequences, and then carrying out experiments or empirical observations based on those predictions. A hypothesis is a conjecture, based on knowledge obtained while seeking answers to the question. The hypothesis might be very specific, or it might be broad. Scientists then test hypotheses by conducting experiments or studies. A scientific hypothesis must be falsifiable, implying that it is possible to identify a possible outcome of an experiment or observation that conflicts with predictions deduced from the hypothesis; otherwise, the hypothesis cannot be meaningfully tested.
+
+--92ae9f43f0fbd71abcc07da7f9cc50c8_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>newsletter</title>
+</head>
+<body><a href="http://iheterhyper.bid/Jd-xrmI2T-rvOpdtpnQZrt6ujGCohM893GbCdBKKF4MTh14"><img src="http://iheterhyper.bid/ad2dc830de790ce460.jpg" /><img height="1" src="http://www.iheterhyper.bid/MqOtf1Ut0Edb8Tec2ImEE8enw6mcANUNbOetptEvmaU9U03E" width="1" /></a><br />
+&nbsp;
+<div style="width:500px; text-align:left;font-family:Arial;font-size:20px;padding:20px;">I want to share with you something special today.<br />
+<br />
+<a href="http://iheterhyper.bid/UGaeRHKk2vDq-edf6PWwCZG5Pzzat94brOoXxpFupBYpYMaM"><b style="font-family:arial;">A never-before-seen stretching trick that makes your muscles flexible beyond belief fast!</b></a><br />
+<br />
+But that&#39;s not all you can achieve with this new way of stretching.<br />
+<br />
+You will gain enormous strength in your pelvic muscles that will in turn give you more control over your bladder and bowel activity.<br />
+<br />
+You will experience better body confidence, boost your libido and sexual strength regarldess of your age or gender.<br />
+<br />
+<a href="http://iheterhyper.bid/UGaeRHKk2vDq-edf6PWwCZG5Pzzat94brOoXxpFupBYpYMaM"><b style="font-family:arial;">Gain full muscle flexibility and body confidence right now!</b></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://iheterhyper.bid/AOCnJPQSppCJzrYw9ZoP7dp6pcE4kBqbnqQ3VB3X1seH59vG" target="_blank"><img src="http://iheterhyper.bid/5e662deb7bc23aed13.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">The scientific method is an empirical method of acquiring knowledge that has characterized the development of science since at least the 17th century. It involves careful observation, applying rigorous skepticism about what is observed, given that cognitive assumptions can distort how one interprets the observation. It involves formulating hypotheses, via induction, based on such observations; experimental and measurement-based testing of deductions drawn from the hypotheses; and refinement (or elimination) of the hypotheses based on the experimental findings. These are principles of the scientific method, as distinguished from a definitive series of steps applicable to all scientific enterprises. Though diverse models for the scientific method are available, there is in general a continuous process that includes observations about the natural world. People are naturally inquisitive, so they often come up with questions about things they see or hear, and they often develop ideas or hypotheses about why things are the way they are. The best hypotheses lead to predictions that can be tested in various ways. The most conclusive testing of hypotheses comes from reasoning based on carefully controlled experimental data. Depending on how well additional tests match the predictions, the original hypothesis may require refinement, alteration, expansion or even rejection. If a particular hypothesis becomes very well supported, a general theory may be developed. Although procedures vary from one field of inquiry to another, they are frequently the same from one to another. The process of the scientific method involves making conjectures (hypotheses), deriving predictions from them as logical consequences, and then carrying out experiments or empirical observations based on those predictions. A hypothesis is a conjecture, based on knowledge obtained while seeking answers to the question. The hypothesis might be very specific, or it might be broad. Scientists then test hypotheses by conducting experiments or studies. A scientific hypothesis must be falsifiable, implying that it is possible to identify a possible outcome of an experiment or observation that conflicts with predictions deduced from the hypothesis; otherwise, the hypothesis cannot be meaningfully tested.</span></div>
+</body>
+</html>
+
+--92ae9f43f0fbd71abcc07da7f9cc50c8_ba6_14e16--

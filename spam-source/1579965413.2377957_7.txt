@@ -1,0 +1,112 @@
+Return-Path: <6979-2982-85526-1857-bruce=untroubled.org@mail.nervebook.bid>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 31818 invoked from network); 25 Jan 2020 10:47:25 -0000
+Received: (qmail 31431 invoked from network); 25 Jan 2020 10:47:24 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 10:47:24 -0000
+Received: (qmail 20884 invoked by uid 48516); 25 Jan 2020 10:47:23 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 1456 invoked from network); 25 Jan 2020 10:47:23 -0000
+Received: from frame.nervebook.bid ([170.130.174.60])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 25 Jan 2020 10:47:17 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=nervebook.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Rotorazer@nervebook.bid;
+ bh=ev1z9TtbsLkf9ZMnZ3YABEk6Etg=;
+ b=pxpwLsCnnThX62ZNZzRXoVB0WXwNhRXA/GUWYjdE6ZjUBWIzzlCq9KzG8ISI3rISXrJg2G7dgLUG
+   ayG0o6n77PitleGXhD/W4YRnOpuatZiuKvVZxpaVao6zJsnIZFL3hfk3gjv2daz2UAb5ecGtx2BW
+   U2102gvHzAgBdeV1sIo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=nervebook.bid;
+ b=R29oCagVFCDoreoW5FKUR8zWyT/b0+GKHYw4nbP7Kjgrmw21aznS74uuWtxECGIPIQfAq2LHwyBQ
+   teeacYz4IJK0wo1oJTlZoFxzwbFf9mbzRVMuSHyApqZmTm3CM+MgrJS1Vud0UXrijWkphtxWYgIc
+   g4Ici/AQCENCq606vOA=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="06294021d8ab92024eec70a902fff428_ba6_14e16"
+Date: Sat, 25 Jan 2020 05:45:55 -0500
+From: "Rotorazer" <Rotorazer@nervebook.bid>
+Reply-To: "Rotarazer Saw" <RotarazerSaw@nervebook.bid>
+Subject: 7-In-1 Saw Precisely Cuts Any Material, Anywhere
+To: <bruce@untroubled.org>
+Message-ID: <kl12w1kudqz0a1qo-f7tvwvz2wq2jzx2q-ba6-14e16@nervebook.bid>
+Content-Length: 7370
+
+--06294021d8ab92024eec70a902fff428_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+7-In-1 Saw Precisely Cuts Any Material, Anywhere
+
+http://nervebook.bid/3RcLEKEOoH6RoagR8VtpAm-cuV2Ki1T7wCP8jWtExrfnT-Vv
+
+http://nervebook.bid/Tx2dfBs0xO1XwECqDXcZx5-vgOcWUkQHR-6dCb1LdegskZI7
+
+He was the primary super villain in the first part of the series as he uses JJ's wealth and power to hatch plots to kill Shaktimaan but always failed. Unlike most of other assailants of Shaktimaan, he is very sharp and analytical. He even tries to approach Tarendra, an all knowing sentient being of light, to know the truth about Shaktimaan. He is cunning enough to be able to use mental manipulation to trick Shaktimaan on occasion. This put the hero into a dilemma, and self-doubt drained him of his powers temporarily.
+
+The full extent of his powers is not revealed. On an occasion, JJ's girlfriend Zuby realises that JJ is possessed by a demon and tries to reveal him in public. He uses hypnosis to drive her mad so that the public will ignore her statements. He has a potent and fatal poison inside him that he can spit out of his mouth which affects everyone except Shaktimaan. Shaktimaan and Kakodar end things in a fight when Kakodar turns into his real form and Shaktimaan turns him back to a statue.
+
+Natasha
+
+Natasha (Sunila) was also a demonic evil woman sent by Kilvish. Along with Mathur she serves JJ/Kakodar. She was JJ's secretary before he was possessed. She has the ability to change her appearance. She kills a C.B.I. officer and takes her appearance to interrogate Gangadhar and Geeta on one occasion. Her powers were greatly diminished due to Shaktimaan defeating Kakodar. To regain power she and Madhur decide to sacrifice Shaktimaan. For this they kidnap the son of a scientist to get the formula of invisible man which may help defeating Shaktimaan.
+
+Madhur
+
+Madhur (Deepak Bhatia) is one of the two trusted demonic accomplices of JJ/Kakodar along with Natasha. He initially served JJ as his personal assistant (PA) before he was possessed, but was secretly preparing the stage for Kakodar's entry under Tamraj's directions. His true identity is revealed after Kakodar is released from his imprisonment. Not many of his powers are revealed in the series. He has the ability to change his appearance at will, but not shape shift to assume someone else's body. He also loses his powers when Kakodar was defeated by Shaktimaan.
+
+Electric-man
+
+He was the first synthetic villain faced by Shaktimaan. Dr. Chandola, an evil scientist, created him. Dr. Chandola claims that Electric man was his son, whom he killed so that he can resurrect the dead body with electricity. When he comes to life he kills Dr. Chandola. Without recognising friend from foe he kills everyone in his path and spreads destruction in the city. His powers include shooting electricity from eyes and electrocution on contact. Finding him difficult to restrain, Shaktimaan grabs him and tunnels deep into the earth, pushing him deep underground.
+
+--06294021d8ab92024eec70a902fff428_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><br />
+<br />
+&nbsp;
+<div style="width:500px; font-family:Arial;padding:10px;">Rotorazer&trade; Saw &mdash; All-in-One Saw that Does it All<br />
+<br />
+Is your home ready for guests this holiday? Finish your list with one tool. Rotorazer Saw is the all-in-one saw that does the work of 7 different saws. It&rsquo;s lightweight and portable, allowing you to make powerful cuts anywhere. This versatile saw gives you the exact cut you need every time. Cut through ceramic tile, stone, hardwood, metal, steel and more.<br />
+<br />
+<a href="http://nervebook.bid/3RcLEKEOoH6RoagR8VtpAm-cuV2Ki1T7wCP8jWtExrfnT-Vv">Learn More</a><br />
+<br />
+<a href="http://nervebook.bid/3RcLEKEOoH6RoagR8VtpAm-cuV2Ki1T7wCP8jWtExrfnT-Vv"><img src="http://nervebook.bid/ef9036147bfb340974.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://nervebook.bid/xybU2lOza0Q59uqNCzFM5qXRtznq9uNrspPRCGezF_XW0I8" target="_blank"><img src="http://nervebook.bid/bbb95b4a8f8507ad94.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">He was the primary super villain in the first part of the series as he uses JJ&#39;s wealth and power to hatch plots to kill Shaktimaan but always failed. Unlike most of other assailants of Shaktimaan, he is very sharp and analytical. He even tries to approach Tarendra, an all knowing sentient being of light, to know the truth about Shaktimaan. He is cunning enough to be able to use mental manipulation to trick Shaktimaan on occasion. This put the hero into a dilemma, and self-doubt drained him of his powers temporarily. The full extent of his powers is not revealed. On an occasion, JJ&#39;s girlfriend Zuby realises that JJ is possessed by a demon and tries to reveal him in public. He uses hypnosis to drive her mad so that the public will ignore her statements. He has a potent and fatal poison inside him that he can spit out of his mouth which affects everyone except Shaktimaan. Shaktimaan and Kakodar end things in a fight when Kakodar turns into his real form and Shaktimaan turns him back to a statue. Natasha Natasha (Sunila) was also a demonic evil woman sent by Kilvish. Along with Mathur she serves JJ/Kakodar. She was JJ&#39;s secretary before he was possessed. She has the ability to change her appearance. She kills a C.B.I. officer and takes her appearance to interrogate Gangadhar and Geeta on one occasion. Her powers were greatly diminished due to Shaktimaan defeating Kakodar. To regain power she and Madhur decide to sacrifice Shaktimaan. For this they kidnap the son of a scientist to get the formula of invisible man which may help defeating Shaktimaan. Madhur Madhur (Deepak Bhatia) is one of the two trusted demonic accomplices of JJ/Kakodar along with Natasha. He initially served JJ as his personal assistant (PA) before he was possessed, but was secretly preparing the stage for Kakodar&#39;s entry under Tamraj&#39;s directions. His true identity is revealed after Kakodar is released from his imprisonment. Not many of his powers are revealed in the series. He has the ability to change his appearance at will, but not shape shift to assume someone else&#39;s body. He also loses his powers when Kakodar was defeated by Shaktimaan. Electric-man He was the first synthetic villain faced by Shaktimaan. Dr. Chandola, an evil scientist, created him. Dr. Chandola claims that Electric man was his son, whom he killed so that he can resurrect the dead body with electricity. When he comes to life he kills Dr. Chandola. Without recognising friend from foe he kills everyone in his path and spreads destruction in the city. His powers include shooting electricity from eyes and electrocution on contact. Finding him difficult to restrain, Shaktimaan grabs him and tunnels deep into the earth, pushing him deep underground. </span><br />
+<br />
+<br />
+<a href="http://nervebook.bid/Tx2dfBs0xO1XwECqDXcZx5-vgOcWUkQHR-6dCb1LdegskZI7" target="_blank"><img src="http://nervebook.bid/51ddc73759c4ec1443.jpg" /></a><br />
+&nbsp;</div>
+</body>
+</html>
+
+--06294021d8ab92024eec70a902fff428_ba6_14e16--

@@ -1,0 +1,90 @@
+Return-Path: <SRS0=VyyvMz=24=mail.govblood.co=5963-9790-262549-1601-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 7406 invoked from network); 7 Jan 2020 08:51:52 -0000
+Received: (qmail 6723 invoked from network); 7 Jan 2020 08:51:51 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 08:51:51 -0000
+Received: (qmail 926 invoked by uid 48516); 7 Jan 2020 08:51:51 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29327 invoked from network); 7 Jan 2020 08:51:50 -0000
+Received: from wave.govblood.co (client-23-254-225-129.hostwindsdns.com [23.254.225.129])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 07 Jan 2020 08:51:45 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=govblood.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=**AmericanCareerGuide**@govblood.co;
+ bh=2RTTZDG19HwtvnbQeDvy+27NEyI=;
+ b=mq7XjjvQgA9LWLkVRE+FZvCpfKi/BxEyNoMLGflgelZpakfL+xyluu2i+18sIZ+t+hkvlXnNF5TS
+   8Kggy3zFuSPH4bIOw++vVyAXzloDMEq5Mh2qi8AfNHG/AMWJCVN78smNVK8ctfnuepyHyk4l/9ys
+   JgZJ2Pf9Sm/GjVdTZ6g=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=govblood.co;
+ b=RQqBqpsSsxRTdmTe/QQg76AIeFbFWAh9YOluXbL4X3hjsRycOTjCYH7XiqtRVMI+ewjcZ9Q1WHUC
+   YC8D4GfmQrL7/wC7fStFjmuizCO6NDQcWkPL2asyJh82dP7Mod/J+KWR08sB6+hIgGBIbjUZlyaA
+   gMpSrNPKAgxFzxZaYsw=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="8bbd06b78b966ece38e20a763294119c_263e_40195"
+Date: Tue, 7 Jan 2020 03:51:21 -0500
+From: "**American Career Guide**" <**AmericanCareerGuide**@govblood.co>
+Reply-To: "**American Career Guide**" <AmericanCareerGuide@govblood.co>
+Subject: High paying job alerts in your city, Need a new gig? $25/hr, Jobs available in your area
+To: <bruce@untroubled.org>
+Message-ID: <v3h53dhfl7rm0cb8-0edwyavwyrdbvp8q-263e-40195@govblood.co>
+Content-Length: 6300
+
+--8bbd06b78b966ece38e20a763294119c_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+High paying job alerts in your city, Need a new gig? $25/hr, Jobs available in your area
+
+http://govblood.co/Q0Bs94wY_5zJLSR7GJtyVrxYu8x70zawbESoVGtS-v-Pcvps
+
+http://govblood.co/zOI8Oa2E5UtoPAuIjCSHTpj7kyCokfY5U7tpYJ5EXbNPcMb3
+
+These glacial finger lakes originated as a series of northward-flowing streams. Around two million years ago, the first of many continental glaciers of the Laurentide Ice Sheet moved southward from the Hudson Bay area, initiating the Pleistocene glaciation. These scouring glaciers widened, deepened, and accentuated the existing river valleys. Glacial debris, possibly terminal moraine left behind by the receding ice, acted as dams, allowing lakes to form. Despite the deep erosion of the valleys, the surrounding uplands show little evidence of glaciation, suggesting the ice was thin, or at least unable to cause much erosion at these higher altitudes. The deep cutting by the ice left some tributaries hanging high above the lakes—both Seneca and Cayuga have tributaries hanging as much as 120 m above the valley floors.
+
+Detailed studies of Marine Isotope Stage 3 and 4 age sediments exposed at a locality called Great Gully on the eastern flank of the Cayuga Lake, near Union Springs, New York, record the presence of a paleolake that existed prior to Cayuga Lake. This paleolake, which is called Glacial Lake Nanette, was a proglacial lake that filled the bedrock valley currently occupied by Cayuga Lake from about 50,000 BP calibrated until it was overridden by a glacial readvance that occurred prior to 30,000 BP calibrated and buried it beneath younger glacial till. This research shows that bedrock valleys, in which the Finger lakes lie, existed prior to the Last Glacial Maximum and developed over multiple glaciations.
+Ecological concern
+
+Much of the Finger Lakes area lies upon the Marcellus Shale and the Utica Shale, two prominent natural gas reserves. Due to the recent increase in fracking technology, the natural gas is now accessible to extraction. While some large landowners have leased their lands, and a number of small landowners would like to follow suit, many residents of the Finger Lakes oppose the fracking process due to concerns about groundwater contamination and the industrial impact of the extraction related activities. The first direct actions and local legislative actions against fracking occurred in the Finger Lakes bioregion. In December 2014, the government of New York banned all fracking in the state, citing pollution risks.
+
+--8bbd06b78b966ece38e20a763294119c_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://govblood.co/h6kp6TnS3OqbSRDk4RWOIJS4zgsNQ3EutDC9qWZNUpD5LQPi"><img src="http://govblood.co/eddff60c0bcc5c672e.jpg" /><img height="1" src="http://www.govblood.co/cqMp6HJikEH2clIRFBNSj9fXnQGjBulqAnVV11UeE6qfjIZj" width="1" /></a>
+<center>
+<div><br />
+<br />
+<a href="http://govblood.co/Q0Bs94wY_5zJLSR7GJtyVrxYu8x70zawbESoVGtS-v-Pcvps" style="font-size:40px;font-family:Arial; color:blue; text-decoration:none;">High paying job alerts in your city, Need a new gig? $25/hr, Jobs available in your area</a><br />
+<br />
+<a href="http://govblood.co/Q0Bs94wY_5zJLSR7GJtyVrxYu8x70zawbESoVGtS-v-Pcvps"><img src="http://govblood.co/957feaa721d7420d48.jpg" style="border:2px solid #f25f0f;" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://govblood.co/KqO-bItbUqDALG0hMUCG3pRbPZi7Xu2fHFzcboj10rSYuQ0D"><img src="http://govblood.co/4c1a54a4097b09caf4.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://govblood.co/zOI8Oa2E5UtoPAuIjCSHTpj7kyCokfY5U7tpYJ5EXbNPcMb3"><img src="http://govblood.co/4302471bad9ab82194.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">These glacial finger lakes originated as a series of northward-flowing streams. Around two million years ago, the first of many continental glaciers of the Laurentide Ice Sheet moved southward from the Hudson Bay area, initiating the Pleistocene glaciation. These scouring glaciers widened, deepened, and accentuated the existing river valleys. Glacial debris, possibly terminal moraine left behind by the receding ice, acted as dams, allowing lakes to form. Despite the deep erosion of the valleys, the surrounding uplands show little evidence of glaciation, suggesting the ice was thin, or at least unable to cause much erosion at these higher altitudes. The deep cutting by the ice left some tributaries hanging high above the lakes&mdash;both Seneca and Cayuga have tributaries hanging as much as 120 m above the valley floors. Detailed studies of Marine Isotope Stage 3 and 4 age sediments exposed at a locality called Great Gully on the eastern flank of the Cayuga Lake, near Union Springs, New York, record the presence of a paleolake that existed prior to Cayuga Lake. This paleolake, which is called Glacial Lake Nanette, was a proglacial lake that filled the bedrock valley currently occupied by Cayuga Lake from about 50,000 BP calibrated until it was overridden by a glacial readvance that occurred prior to 30,000 BP calibrated and buried it beneath younger glacial till. This research shows that bedrock valleys, in which the Finger lakes lie, existed prior to the Last Glacial Maximum and developed over multiple glaciations. Ecological concern Much of the Finger Lakes area lies upon the Marcellus Shale and the Utica Shale, two prominent natural gas reserves. Due to the recent increase in fracking technology, the natural gas is now accessible to extraction. While some large landowners have leased their lands, and a number of small landowners would like to follow suit, many residents of the Finger Lakes oppose the fracking process due to concerns about groundwater contamination and the industrial impact of the extraction related activities. The first direct actions and local legislative actions against fracking occurred in the Finger Lakes bioregion. In December 2014, the government of New York banned all fracking in the state, citing pollution risks. </span></center>
+</body>
+</html>
+
+--8bbd06b78b966ece38e20a763294119c_263e_40195--

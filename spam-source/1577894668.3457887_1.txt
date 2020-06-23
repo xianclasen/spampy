@@ -1,0 +1,65 @@
+Return-Path: <zma@luhai731.net>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1956 invoked from network); 1 Jan 2020 08:30:09 -0000
+Received: (qmail 3971 invoked from network); 1 Jan 2020 08:30:08 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Jan 2020 08:30:08 -0000
+Received: (qmail 3411 invoked by uid 48516); 1 Jan 2020 08:30:08 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15256 invoked from network); 1 Jan 2020 08:30:07 -0000
+Received: from luhai731.net (67.253.82.117.broad.sz.js.dynamic.163data.com.cn [117.82.253.67])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 01 Jan 2020 08:30:02 -0000
+Received: from kbqd (unknown [149.216.60.172])
+	by luhai731.net with SMTP id ipH5RcSpnei4bOzb.1
+	for <bruce@untroubled.org>; Wed, 01 Jan 2020 16:30:07 +0800
+Date: Wed, 1 Jan 2020 16:30:01 +0800
+From: =?gb2312?B?uLXc5+a/?= <zma@luhai731.net>
+To: <bruce@untroubled.org>
+Subject: =?gb2312?B?xvPStdfp1q/T68jLssXM5c+1t6LVucnovMYgICAgILnj1t0=?=
+	=?gb2312?B?yKvDwNOhzvHT0M/euavLvtO109DBvbzSt9a5q8u+MjAyMC8=?=
+	=?gb2312?B?MS8xMTY6MzA6MDU=?=
+Message-ID: <20200101163007808834@luhai731.net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="=====003_Dragon805866831645_====="
+Content-Length: 1029
+
+This is a multi-part message in MIME format.
+
+--=====003_Dragon805866831645_=====
+Content-Type: multipart/alternative;
+	boundary="=====002_Dragon805866831645_====="
+
+--=====002_Dragon805866831645_=====
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+
+--=====002_Dragon805866831645_=====
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PWdi
+MjMxMiIgaHR0cC1lcXVpdj1Db250ZW50LVR5cGU+PC9IRUFEPg0KPEJPRFk+PElNRyBzcmM9ImNp
+ZDowMDA2QkZCOTlFNUZfMEU2N0EwOENfMEYxMkVFMkUiPjwvQk9EWT48L0hUTUw+DQo=
+
+--=====002_Dragon805866831645_=====--
+
+--=====003_Dragon805866831645_=====
+Content-Type: message/external-body; access-type=x-deleted; length=74208
+
+
+Content-Type: image/png;
+	name="=?gb2312?B?1+nWr8jLssUucG5n?="
+Content-Transfer-Encoding: base64
+Content-ID: <0006BFB99E5F_0E67A08C_0F12EE2E>
+
+--=====003_Dragon805866831645_=====--
+

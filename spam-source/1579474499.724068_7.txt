@@ -1,0 +1,96 @@
+Return-Path: <SRS0=lSKOpp=3I=celev.men=fungus_free-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 9847 invoked from network); 19 Jan 2020 16:39:02 -0000
+Received: (qmail 25137 invoked from network); 19 Jan 2020 16:39:01 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Jan 2020 16:39:01 -0000
+Received: (qmail 26034 invoked by uid 48516); 19 Jan 2020 16:39:01 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 3039 invoked from network); 19 Jan 2020 16:39:00 -0000
+Received: from mail.celev.men (208-187-163-63.nca.datanoc.com [208.187.163.63])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 19 Jan 2020 16:39:00 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=celev.men;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fungus_free@celev.men;
+ bh=HhmTW/x0A+XQVujJnb4DAEgatKE=;
+ b=rK6vtaMMFowE0brQ/8kbig0nsS0izcQskx9P/r+p8hrUMJzFDtfLqWGUGr4lrcWn54g2z5mZvM88
+   a9msJskEU7acUSuXziuI/HM3T8RDMFdkfchHuNQURZG8l9TeJKK4rH3u7tTWqMJlMLDaPduCEuym
+   2IZlde6adlat4rpUpU4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=celev.men;
+ b=V21fggEJ2AThnGekhmnZdW6yGrYjBpTmjJm35ygZe8SKvSgfcWeJj9JU7cE+0iyOkutaTNAiQFXW
+   TyCeAV0VCOnEKz4Oj5qegtoIhAQbIwkglslgjdI0UCqcdVjEGgQ4nmphnOZhT+IU33zZnxZqodJb
+   4aoZj4naNvph7zl1YMw=;
+Received: by mail.celev.men id h4i3280001gv for <bruce@untroubled.org>; Sun, 19 Jan 2020 11:34:01 -0500 (envelope-from <fungus_free-bruce=untroubled.org@celev.men>)
+Date: Sun, 19 Jan 2020 11:34:01 -0500
+From: "Fungus Free" <fungus_free@celev.men>
+To:   <bruce@untroubled.org>
+Subject: "How I Ended Toenail Fungus"
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_46_115777077.1579451633089"
+List-Unsubscribe: <http://www.celev.men/40d6WnP2395XKi8911u1u1kR1a5br21fFv4GIf4rxvs4FhIHEsvZ10uQuRRRnoi96K1sHz06k1zMHi/roadway-lovably>
+Message-ID: <0.0.0.5.1D5CEE641B5DCD6.2F43D@mail.celev.men>
+Content-Length: 6105
+
+------=_Part_46_115777077.1579451633089
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>scissors</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.celev.men/industrial-relapse/c9c4M2395v8u6g12p733JeH1a5bT21pFv4GIf4rxvs4FhIHEsvZ10SQuRRRnoi96t1SDs06P@zJHi">&nbsp; Remove foot fungus &nbsp; </a></span></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: 2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; height: 530px; "> 
+    <tbody> 
+     <tr> 
+      <td> 
+       <table border="1" cellpadding="0" cellspacing="0" style="font-family: &quot; Sans Serif&quot; , serif; font-size: 17px; height: 548px; " width="590"> 
+        <tbody> 
+         <tr> 
+          <td> 
+           <table border="0" cellpadding="5" cellspacing="5" style="height: 526px; " width="586"> 
+            <tbody> 
+             <tr> 
+              <td> 
+               <div style="font-family: &quot; Sans Serif&quot; ; font-size: 16px; "> 
+                <div style="color: rgb(0, 0, 0); line-height: normal; font-family: &quot; Sans Serif&quot; ; font-size: 12px; "> 
+                 <h1 style="margin: 20px 6px; color: rgb(34, 34, 34); line-height: 40px; font-family: &quot; Sans Serif&quot; ; font-size: 36px; box-sizing: border-box; text-align: center; "><span style="font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(0, 0, 0); "><strong>This Man Cured His Nail Fungus This Fast Trick (Watch Now)</strong></span></span></h1> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><a href="http://www.celev.men/industrial-relapse/c9c4M2395v8u6g12p733JeH1a5bT21pFv4GIf4rxvs4FhIHEsvZ10SQuRRRnoi96t1SDs06P@zJHi"><img alt="stag" src="http://www.celev.men/9536v2Ts395I7aJq13n73SW41N1a5bU21DFv4GIf4rxvs4FhIHEsvZ10KQuRRRnoi96UP10FV5GNjHi/oddity-cram" style="width: 503px; height: 294px; " /></a></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(14, 14, 184); "><span style="font-size: 34px; font-family: &quot; Sans Serif&quot; ; "><strong><a href="http://www.celev.men/industrial-relapse/c9c4M2395v8u6g12p733JeH1a5bT21pFv4GIf4rxvs4FhIHEsvZ10SQuRRRnoi96t1SDs06P@zJHi" style="color: rgb(14, 14, 184); ">{Watch Here}</a></strong></span></span></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                </div> 
+               </div> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <font color="#666666">End </font><a href="http://www.celev.men/oddity-cram/2a64A2395iT8L612d7g33fF1a5bn21zFv4GIf4rxvs4FhIHEsvZ10SQuRRRnoi96P1YHQ06yApNHi"><font color="#666666">Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font>
+    <br /> 
+    <br /> Remove 
+    <a href="http://www.celev.men/8096RU2R395Qg8H912RZ7340p1a5bW21mFv4GIf4rxvs4FhIHEsvZ10IQuRRRnoi97f10Fn_M6wpHlTi/industrial-relapse">email Here</a>
+    <br /> 
+    <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+   </div> <span dir="inanimate"></span><span color="stopcock"><span color="Irishman"></span></span><font size="roots"><span face="broader"></font></span><style><style style="bowlers"></style></style>
+  </center>   
+ <img src="http://www.celev.men/Heywood-Frenchize/24c5P2T395N85GH12w734m2U1a5bH21MFv4GIf4rxvs4FhIHEsvZ10IQuRRRnoi97SDp1I0x5eJHiA" alt=""/></body>
+</html>
+
+------=_Part_46_115777077.1579451633089--
+

@@ -1,0 +1,65 @@
+Return-Path: <bs2@spinel.you1069.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15701 invoked from network); 17 Jan 2020 15:28:07 -0000
+Received: (qmail 14374 invoked from network); 17 Jan 2020 15:28:06 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 17 Jan 2020 15:28:06 -0000
+Received: (qmail 8905 invoked by uid 48516); 17 Jan 2020 15:28:06 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 1790 invoked from network); 17 Jan 2020 15:28:06 -0000
+Received: from spinel.you1069.com (63-83-73-101.nca.lanset.com [63.83.73.101])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 17 Jan 2020 15:28:06 -0000
+To: <bruce@untroubled.org>
+From: "Last-Republican-President" <BS2@spinel.you1069.com>
+Reply-To: <support@spinel.you1069.com>
+Subject: Trump’s Biggest 2020 Enemy
+Date: Fri, 17 Jan 2020 10:28:05 -0500
+Message-ID: <1987b1a0a07678cb056902404_85d2215e@spinel.you1069.com>
+List-Unsubscribe: <mailto:remove-1987b1a0a07678cb056902404_85d2215e@spinel.you1069.com>, <http://www.spinel.you1069.com/1987b1a0a07678cb056902404_85d2215e/U/>
+MIME-Version: 1.0
+Content-Language: en-us 
+Content-type: multipart/alternative; boundary="377_12J0_21B4YV61.L311AV6";
+Content-Length: 1293
+
+--377_12J0_21B4YV61.L311AV6
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Trump doomed by history?
+http://www.you1069.com/208fe74f3d4678cb0569024046f65209_85d2215e-010102080001/C/
+
+--377_12J0_21B4YV61.L311AV6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td colspan='2' align='center' valign='middle' class='preview-mid'>
+          <br>
+          <center>
+            <a href="http://www.you1069.com/208fe74f3d4678cb0569024046f65209_85d2215e-010102080001/C/"><img
+src="http://www.you1069.com/208447f938a678cb0569024046e6aa04_85d2215e-010102080001/V/" border="0" alt=""></a>
+          </center>
+          <div align="center">
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+            If you'd prefer not to receive future emails, <a href="http://www.you1069.com/2089b134f6c678cb0569024046f75209_85d2215e-010102080001/C/"><font
+color="#666666">Unsubscribe Here</font></a>.<br>
+ 23638 W. Lyons Avenue #468 – Newhall, CA 91321
+</font>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+--377_12J0_21B4YV61.L311AV6--
+

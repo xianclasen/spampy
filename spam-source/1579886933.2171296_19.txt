@@ -1,0 +1,111 @@
+Return-Path: <SRS0=sVmVTx=3N=mail.numeromassi.buzz=6950-2982-85526-1848-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 4208 invoked from network); 24 Jan 2020 14:37:14 -0000
+Received: (qmail 18739 invoked from network); 24 Jan 2020 14:37:13 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 14:37:13 -0000
+Received: (qmail 8257 invoked by uid 48516); 24 Jan 2020 14:37:13 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15121 invoked from network); 24 Jan 2020 14:37:11 -0000
+Received: from rita.numeromassi.buzz ([170.130.174.56])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 24 Jan 2020 14:37:10 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=numeromassi.buzz;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=MassiveMalePlusBasic@numeromassi.buzz;
+ bh=3chrDPu5VhMl4VXjTC2Omn8Y64s=;
+ b=dlcUxmO8790KC3toRRJjEUaH35qe+uWdwVXFWjzu9wzCluqidMhcxljVcNSAlTsw0ZO3xsejUeIM
+   htJUtXXNwamaBkNjEnWDHr5GhqqJmZS3TtvsHkoqyaKuSJ/NOs44HhBnVW6CbZak1E6NG8cWI4ih
+   T3Sq7XW3RkBNqVz/04E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=numeromassi.buzz;
+ b=g3BiZ6QTtv95WZO5Cci45uqLDhfdtDsL1DblzewjbhyoZYNrRCYPJh1RAVvrOIcCANs+sX9TXX2h
+   yEP7EVNgYNpwJGeJKqFdv4++z7a2wg7x6uSU8At09rtNIJOn2UngHsbQnjrk4KU78uSR6KEiguWx
+   4dH00wGmCIdP350peiQ=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="9d9254cbd92afb50788e3c30a6692e19_ba6_14e16"
+Date: Fri, 24 Jan 2020 09:27:23 -0500
+From: "Massive Male Plus Basic" <MassiveMalePlusBasic@numeromassi.buzz>
+Reply-To: "Massive Male Plus Basic" <MassiveMalePlusBasic@numeromassi.buzz>
+Subject: Do This For 1 Minute To Unlock Massive Growth
+To: <bruce@untroubled.org>
+Message-ID: <mzxfus0gvpr1jubr-jn2yr5ygpj0xn4u8-ba6-14e16@numeromassi.buzz>
+Content-Length: 7931
+
+--9d9254cbd92afb50788e3c30a6692e19_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Do This For 1 Minute To Unlock Massive Growth
+
+http://numeromassi.buzz/hTHSVJHiUinVExd9RmFQHlTaUdp3WBuSvM6BqE5ZiLj151Ui
+
+http://numeromassi.buzz/tuARDK4TINHxnVGF__UUNAYjwNkVq40AvH0DtRLAfdKfXek
+
+Young made significant contributions to the decipherment of Egyptian hieroglyphs. He started his Egyptology work rather late, in 1813, when the work was already in progress among other researchers.
+
+He began by using an Egyptian demotic alphabet of 29 letters built up by Johan David Åkerblad in 1802 (14 turned out to be incorrect). Åkerblad was correct in stressing the importance of the demotic text in trying to read the inscriptions, but he wrongly believed that demotic was entirely alphabetic.
+
+By 1814 Young had completely translated the "enchorial" text of the Rosetta Stone (using a list with 86 demotic words), and then studied the hieroglyphic alphabet but initially failed to recognise that the demotic and hieroglyphic texts were paraphrases and not simple translations.
+
+There was considerable rivalry between Young and Jean-François Champollion while both were working on hieroglyphic decipherment. At first they briefly cooperated in their work, but later, from around 1815, a chill arose between them. For many years they kept details of their work away from each other.
+
+Some of Young's conclusions appeared in the famous article "Egypt" he wrote for the 1818 edition of the Encyclopædia Britannica.
+
+When Champollion finally published a translation of the hieroglyphs and the key to the grammatical system in 1822, Young (and many others) praised his work. Nevertheless, a year later Young published an Account of the Recent Discoveries in Hieroglyphic Literature and Egyptian Antiquities, to have his own work recognised as the basis for Champollion's system.
+
+Young had correctly found the sound value of six hieroglyphic signs, but had not deduced the grammar of the language. Young himself acknowledged that he was somewhat at a disadvantage because Champollion's knowledge of the relevant languages, such as Coptic, was much greater.
+
+Several scholars have suggested that Young's true contribution to Egyptology was his decipherment of the demotic script. He made the first major advances in this area; he also correctly identified demotic as being composed by both ideographic and phonetic signs.
+
+Subsequently, Young felt that Champollion was unwilling to share the credit for the decipherment. In the ensuing controversy, strongly motivated by the political tensions of that time, the British tended to champion Young, while the French mostly championed Champollion. Champollion did acknowledge some of Young's contribution, but rather sparingly. However, after 1826, when Champollion was a curator in the Louvre, he did offer Young access to demotic manuscripts.
+
+In England, while Sir George Lewis still doubted Champollion's achievement as late as 1862, others were more accepting. For example, Reginald Poole, and Sir Peter Le Page Renouf both defended Champollion.
+
+--9d9254cbd92afb50788e3c30a6692e19_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newslatter</title>
+</head>
+<body><a href="http://numeromassi.buzz/25o2_Wp7xnygFehLEnjITo3P2SstXfv5CdCa_GrpxbnCQ6OS"><img src="http://numeromassi.buzz/efbbe0605141397df5.jpg" /><img height="1" src="http://www.numeromassi.buzz/Cl9OJuoB9gxFc6evn6eMyjDiVzFVLbm6lCTzElNPJu_J6j_n" width="1" /></a>
+<div style="width:600px;">
+<div style="text-align: left;"><span style="font-family:arial,helvetica,sans-serif;">Every man out there needs to know about <strong><a href="http://numeromassi.buzz/hTHSVJHiUinVExd9RmFQHlTaUdp3WBuSvM6BqE5ZiLj151Ui">this incredibly simple method!</a></strong><br />
+<br />
+It lets you add the length and strength you want too in just one minute...<br />
+<br />
+Without using any drugs, creams, or doing any effort whatsoever...<br />
+<br />
+And as unbelievable as it may sound...<br />
+<br />
+The massive growth that a growing army of men experienced so far is just too real not to <strong><a href="http://numeromassi.buzz/hTHSVJHiUinVExd9RmFQHlTaUdp3WBuSvM6BqE5ZiLj151Ui">try it at least once...</a></strong><br />
+<br />
+It&#39;s all explained on this page:<br />
+<br />
+<strong><a href="http://numeromassi.buzz/hTHSVJHiUinVExd9RmFQHlTaUdp3WBuSvM6BqE5ZiLj151Ui">1-Minute to Massive Growth</a></strong></span></div>
+<br />
+<a href="http://numeromassi.buzz/hTHSVJHiUinVExd9RmFQHlTaUdp3WBuSvM6BqE5ZiLj151Ui"><img src="http://numeromassi.buzz/f6cf5b90fdd2c2f1c8.jpg" style="width:550px;" /></a>
+
+<center>
+<div style="width:600px; text-align:left;">&nbsp;</div>
+</center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://numeromassi.buzz/tuARDK4TINHxnVGF__UUNAYjwNkVq40AvH0DtRLAfdKfXek"><img src="http://numeromassi.buzz/2278ac4c75b57d90ea.jpg" /></a></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Young made significant contributions to the decipherment of Egyptian hieroglyphs. He started his Egyptology work rather late, in 1813, when the work was already in progress among other researchers. He began by using an Egyptian demotic alphabet of 29 letters built up by Johan David &Aring;kerblad in 1802 (14 turned out to be incorrect). &Aring;kerblad was correct in stressing the importance of the demotic text in trying to read the inscriptions, but he wrongly believed that demotic was entirely alphabetic. By 1814 Young had completely translated the &quot;enchorial&quot; text of the Rosetta Stone (using a list with 86 demotic words), and then studied the hieroglyphic alphabet but initially failed to recognise that the demotic and hieroglyphic texts were paraphrases and not simple translations. There was considerable rivalry between Young and Jean-Fran&ccedil;ois Champollion while both were working on hieroglyphic decipherment. At first they briefly cooperated in their work, but later, from around 1815, a chill arose between them. For many years they kept details of their work away from each other. Some of Young&#39;s conclusions appeared in the famous article &quot;Egypt&quot; he wrote for the 1818 edition of the Encyclop&aelig;dia Britannica. When Champollion finally published a translation of the hieroglyphs and the key to the grammatical system in 1822, Young (and many others) praised his work. Nevertheless, a year later Young published an Account of the Recent Discoveries in Hieroglyphic Literature and Egyptian Antiquities, to have his own work recognised as the basis for Champollion&#39;s system. Young had correctly found the sound value of six hieroglyphic signs, but had not deduced the grammar of the language. Young himself acknowledged that he was somewhat at a disadvantage because Champollion&#39;s knowledge of the relevant languages, such as Coptic, was much greater. Several scholars have suggested that Young&#39;s true contribution to Egyptology was his decipherment of the demotic script. He made the first major advances in this area; he also correctly identified demotic as being composed by both ideographic and phonetic signs. Subsequently, Young felt that Champollion was unwilling to share the credit for the decipherment. In the ensuing controversy, strongly motivated by the political tensions of that time, the British tended to champion Young, while the French mostly championed Champollion. Champollion did acknowledge some of Young&#39;s contribution, but rather sparingly. However, after 1826, when Champollion was a curator in the Louvre, he did offer Young access to demotic manuscripts. In England, while Sir George Lewis still doubted Champollion&#39;s achievement as late as 1862, others were more accepting. For example, Reginald Poole, and Sir Peter Le Page Renouf both defended Champollion. </span></body>
+</html>
+
+--9d9254cbd92afb50788e3c30a6692e19_ba6_14e16--
+

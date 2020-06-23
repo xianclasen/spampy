@@ -1,0 +1,93 @@
+Return-Path: <SRS0=cCto8+=3A=mail.steeldefennse.us=6189-9790-262549-1665-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 13878 invoked from network); 11 Jan 2020 10:57:47 -0000
+Received: (qmail 16110 invoked from network); 11 Jan 2020 10:57:47 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Jan 2020 10:57:47 -0000
+Received: (qmail 7920 invoked by uid 48516); 11 Jan 2020 10:57:46 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8728 invoked from network); 11 Jan 2020 10:57:45 -0000
+Received: from fresno.steeldefennse.us (client-23-254-229-17.hostwindsdns.com [23.254.229.17])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 11 Jan 2020 10:57:44 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=steeldefennse.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=BunionCorrector@steeldefennse.us;
+ bh=Y1k6XGPfGXk8l4/uGyQ6HMUtUDg=;
+ b=lLKUhamRrWflxU0Fn5RGHkl40djO5ayM/VylPwjfzaGQkZVnq/GJhmKbj4ks25vu8SpVCzJcbRPn
+   IFiE8QEbZLMIxlPM8tGj0qm7MDiOTNyFRkvxJbCL4gRjz/kQtTBSPWVo3BlVCtqm36/sA7a+svJK
+   OqPK1+/HMvi1nP+iiPQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=steeldefennse.us;
+ b=CYmTKEMsXjZsvPAXXHeDI2vS5weMfZbMMztL1N1FCdPF3Uwjz3bqO72t86aRxPEZ+A3dTtGXvf8i
+   oe1TIsVSczvGjDLfNuibmhlSmRgXFXJABKJ5ujVhZTOe43fnRsTlSY6/Hje/luVvcO40GFJswsEV
+   GIuo77AQA+vBGd2m8Ug=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="9dcf4bba234c34455cf9acec4a9c55b7_263e_40195"
+Date: Sat, 11 Jan 2020 05:52:52 -0500
+From: "Bunion Corrector" <BunionCorrector@steeldefennse.us>
+Reply-To: "Orthopedic Bunion" <BunionCorrector@steeldefennse.us>
+Subject: This Hinge Bunion Splint is flexible and bends accordingly
+To: <bruce@untroubled.org>
+Message-ID: <zg5auvad7tik6oj4-21lqk94xuhhomnje-263e-40195@steeldefennse.us>
+Content-Length: 7718
+
+--9dcf4bba234c34455cf9acec4a9c55b7_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This Hinge Bunion Splint is flexible and bends accordingly
+
+http://steeldefennse.us/gQYHinRiniCbi3WGUSVy6RWFAMDB4VQsFM5hXJAhb-tfYqg
+
+http://steeldefennse.us/S_N4fzNGmFunTJfY_11gHJMgjaaGpIF9UTakUEercMqo0ix8
+
+ After World War II the United States and the Soviet Union competed for power and influence during what became known as the Cold War, driven by an ideological divide between capitalism and communism and, according to the school of geopolitics, a divide between the maritime Atlantic and the continental Eurasian camps. They dominated the military affairs of Europe, with the U.S. and its NATO allies on one side and the USSR and its Warsaw Pact allies on the other. The U.S. developed a policy of containment towards the expansion of communist influence. While the U.S. and Soviet Union engaged in proxy wars and developed powerful nuclear arsenals, the two countries avoided direct military conflict.
+
+The United States often opposed Third World movements that it viewed as Soviet-sponsored, and occasionally pursued direct action for regime change against left-wing governments, even supporting right-wing authoritarian governments at times. American troops fought communist Chinese and North Korean forces in the Korean War of 1950–53. The Soviet Union's 1957 launch of the first artificial satellite and its 1961 launch of the first manned spaceflight initiated a "Space Race" in which the United States became the first nation to land a man on the moon in 1969. A proxy war in Southeast Asia eventually evolved into full American participation, as the Vietnam War.
+
+At home, the U.S. experienced sustained economic expansion and a rapid growth of its population and middle class. Construction of an Interstate Highway System transformed the nation's infrastructure over the following decades. Millions moved from farms and inner cities to large suburban housing developments. In 1959 Hawaii became the 50th and last U.S. state added to the country. The growing Civil Rights Movement used nonviolence to confront segregation and discrimination, with Martin Luther King Jr. becoming a prominent leader and figurehead. A combination of court decisions and legislation, culminating in the Civil Rights Act of 1968, sought to end racial discrimination. Meanwhile, a counterculture movement grew which was fueled by opposition to the Vietnam war, black nationalism, and the sexual revolution.
+
+--9dcf4bba234c34455cf9acec4a9c55b7_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletters</title>
+</head>
+<body><a href="http://steeldefennse.us/jA20KZ6QAbafKI0WxgHfoWrn0iEEgFu2-3EPKmAsM5EXlGbZ"><img src="http://steeldefennse.us/83b8da2f24ff3983bc.jpg" /><img height="1" src="http://www.steeldefennse.us/8iC9poe5pd5NNcAM1oFtPQRTaTmVhytzY0QKUsR4rZMutkEi" width="1" /></a>
+<center>
+<div style="width: 600px;"><a href="http://steeldefennse.us/gQYHinRiniCbi3WGUSVy6RWFAMDB4VQsFM5hXJAhb-tfYqg" style="font-size: 25px;font-family: Arial;font-weight: bold;color:#1700ef;">Bunion Corrector and Bunion Relief Orthopedic Bunion Splint Pads for Men and Women</a></div>
+
+<div style="width: 600px;font-family: Arial;font-size: 15px;padding: 15px;text-align: left;">&nbsp;
+<center><a href="http://steeldefennse.us/gQYHinRiniCbi3WGUSVy6RWFAMDB4VQsFM5hXJAhb-tfYqg"><img src="http://steeldefennse.us/91a22cbdea1a0c3df9.png" /> <img src="http://steeldefennse.us/5dccba463f9561215b.png" /> </a></center>
+
+<ul>
+	<li><b>EFFECTIVE BUNION PAIN RELIEF:</b> Allow for effective toe correction and bunion relief by using this bunion corrector toe splint. Feel the relief you&rsquo;ve been waiting for. Your bunion pain will completely disappear when wearing this bunion brace.</li>
+	<br />
+	<li><b>RESTORE NATURAL ALIGNMENT:</b> By wearing the bunion protectors bunion tape it will gently realign toes to their natural position. Your toes will feel great when back at their natural alignment. Don&#39;t miss this great offer!</li>
+	<br />
+	<li><b>HIGH QUALITY DESIGN:</b> Made from high quality medical grade materials to provide maximum hallux valgus relief. Soft and easy to clean bunion pads can be reused again and again. Bunion toe straightener gel bunion corrector will last a while.</li>
+	<br />
+	<li><b>ONE SIZE FITS ALL:</b> The bunion bootie package is designed for comprehensive bunion treatment and bunion relief and to fix bunion. Adjustable to provide a comfortable fit. This bunion splint fits all sizes and can be enjoyed by men and women alike.</li>
+	<br />
+	<li><b>24 HOUR USE:</b> Wear the gel bunion pads around the house during normal activities or in bed while asleep as a bunion night splint. The soft cushion, straps and pad feel supportive and good on your feet. The hinged bunion aid splint enables your toes and feet to move naturally while keeping their alignment.</li>
+</ul>
+
+<div style="width: 600px;">
+<center><a href="http://steeldefennse.us/gQYHinRiniCbi3WGUSVy6RWFAMDB4VQsFM5hXJAhb-tfYqg" style="font-size: 25px;font-family: Arial;font-weight: bold;color:#1700ef;">Discover more and Get it from here.</a></center>
+</div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">After World War II the United States and the Soviet Union competed for power and influence during what became known as the Cold War, driven by an ideological divide between capitalism and communism and, according to the school of geopolitics, a divide between the maritime Atlantic and the continental Eurasian camps. They dominated the military affairs of Europe, with the U.S. and its NATO allies on one side and the USSR and its Warsaw Pact allies on the other. The U.S. developed a policy of containment towards the expansion of communist influence. While the U.S. and Soviet Union engaged in proxy wars and developed powerful nuclear arsenals, the two countries avoided direct military conflict. The United States often opposed Third World movements that it viewed as Soviet-sponsored, and occasionally pursued direct action for regime change against left-wing governments, even supporting right-wing authoritarian governments at times. American troops fought communist Chinese and North Korean forces in the Korean War of 1950&ndash;53. The Soviet Union&#39;s 1957 launch of the first artificial satellite and its 1961 launch of the first manned spaceflight initiated a &quot;Space Race&quot; in which the United States became the first nation to land a man on the moon in 1969. A proxy war in Southeast Asia eventually evolved into full American participation, as the Vietnam War. At home, the U.S. experienced sustained economic expansion and a rapid growth of its population and middle class. Construction of an Interstate Highway System transformed the nation&#39;s infrastructure over the following decades. Millions moved from farms and inner cities to large suburban housing developments. In 1959 Hawaii became the 50th and last U.S. state added to the country. The growing Civil Rights Movement used nonviolence to confront segregation and discrimination, with Martin Luther King Jr. becoming a prominent leader and figurehead. A combination of court decisions and legislation, culminating in the Civil Rights Act of 1968, sought to end racial discrimination. Meanwhile, a counterculture movement grew which was fueled by opposition to the Vietnam war, black nationalism, and the sexual revolution. </span><br />
+<br />
+<br />
+<br />
+<a href="http://steeldefennse.us/rdnjJFJQ8-HWqIpFAmGKh88EPA1mausya_PK7PgyIwXgom4X"><img src="http://steeldefennse.us/c588a55d5abde043fa.jpg" /></a></center>
+</body>
+</html>
+
+--9dcf4bba234c34455cf9acec4a9c55b7_263e_40195--

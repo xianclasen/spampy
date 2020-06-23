@@ -1,0 +1,82 @@
+Return-Path: <SRS0=06vfAh=24=eerai.buzz=canvasprints-partner-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24750 invoked from network); 7 Jan 2020 18:58:36 -0000
+Received: (qmail 13377 invoked from network); 7 Jan 2020 18:58:35 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 18:58:35 -0000
+Received: (qmail 27810 invoked by uid 48516); 7 Jan 2020 18:58:34 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5023 invoked from network); 7 Jan 2020 18:58:34 -0000
+Received: from mail.eerai.buzz (208-187-163-101.nca.datanoc.com [208.187.163.101])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 07 Jan 2020 18:58:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=eerai.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints-partner@eerai.buzz;
+ bh=JPM5JnxNbZrXwFDsEza2hIl3sfs=;
+ b=Xe1nZjSPIvyXQCLihDbcokhvSCLlIiECctqeOLP6g5E2Nh3FqFvdV0MAQvBwb8Cok6H9BMq3M5i2
+   OcGTsFQCcRBSewhzifsPG1NeFYOgp5SObJce1KUOFAooTVc5p/LTMVc2jP9mdtgiYZsF/mPUUOix
+   P094Ikjg3KuODppvXVc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=eerai.buzz;
+ b=Lm1zC0mDb+1RzQfJYAHGkioGVGnDGuw0U52D+Jctt+fz6LavlgM3Er+gu3d2+RntqB4KEVmwUq9o
+   0yd9OtE0EJeD8l2cjyO6MiXFS67nNA7FfYCp56KNVsxm2JehheIeJvxBU44ImZhxGtoeC5P21m+p
+   N/RKBagtKOxpjUiJCpo=;
+Received: by mail.eerai.buzz id h2jadk0001g2 for <bruce@untroubled.org>; Tue, 7 Jan 2020 13:51:50 -0500 (envelope-from <canvasprints-partner-bruce=untroubled.org@eerai.buzz>)
+Date: Tue, 7 Jan 2020 13:51:50 -0500
+From: "CanvasPrints Partner" <canvasprints-partner@eerai.buzz>
+To:   <bruce@untroubled.org>
+Subject: Fall Savings start now! Up to 93% on Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_73_1171483529.1578423092919"
+List-Unsubscribe: <http://www.eerai.buzz/9e94W2395D89qP13rKw11OmZ19ebp21NFv4GIf4rxvs4FhIHEsvZ10FQ.RQddosK6HvKg105rqMHi/Acts>
+Message-ID: <0.0.0.8.1D5C58B8503761A.22A98B@mail.eerai.buzz>
+Content-Length: 3110
+
+------=_Part_73_1171483529.1578423092919
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>sentences symbiosis</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.eerai.buzz/oxygen/2e25Y2L395oz86Q12wZ710eq19ebw21QFv4GIf4rxvs4FhIHEsvZ10EQ.RQddosK5zNY106gk3zHi">=
+Super Canvas Sale Get 93% off&nbsp; </a></span></span><br /> <br /> <a href=
+=3D"http://www.eerai.buzz/oxygen/2e25Y2L395oz86Q12wZ710eq19ebw21QFv4GIf4rxvs4FhIHEsvZ10EQ.RQddosK5zNY106gk3zHi"><img alt=3D"easy canvas" src=3D"http://www.eerai.buzz/7af6V2O3G95HqP7a12O7S111Q19ebZ21LFv4GIf4rxvs4FhIHEsvZ10zQ.RQddosK5qK1Q05gBHji/boatloads" style=3D"width=
+: 660px; height: 726px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Press <a href=
+=3D"http://www.eerai.buzz/advocating/7b05S23D95bHL8613Mlk710fn19ebN21nFv4GIf4rxvs4FhIHEsvZ10OQ.RQddosK5a1I0H6lAHiMO">here&nbsp; </a><br /> Or Write to: 11525A Stonehollow Dr. S=
+uite 100 Austin, TX 78758<br /> <br /> 6547 N Academy Blvd #2128<br /> COLO=
+RADO SPRINGS CO 80918<br /> Exit <a href=3D"http://www.eerai.buzz/advocating/5ee4k2395S89sD13EN71S10k19ebT21gFv4GIf4rxvs4FhIHEsvZ10KQ.RQddosK7V1MS0WB5vMqHi">Here</a><br=
+ /> <br /> <br /> <font face="formally"><span></font><big></span></big><font lang="upright"></font><small></small></span></span><br /> <br /> <span styl=
+e=3D"color:#FFFFFF; ">A 6.4 magnitude earthquake and several other strong t=
+emblors struck Puerto Rico Tuesday morning, killing at least one man and in=
+juring several others one day after a 5.8 magnitude quake shook the island,=
+ officials said. Power outages and damage have been reported near the islan=
+d' s southern coast, including in the city of Ponce, where a 77-year-old ma=
+n was killed and at least eight others were injured, Ponce emergency manage=
+ment director Angel Vasquez said Tuesday morning. The 6.4 quake struck at 4=
+:24 a.m. (3:24 a.m. ET), centered just off Puerto Rico' s southern coast, a=
+bout 6 miles south of Indios town, the US Geological Survey said. Several o=
+ther strong quakes followed, including a magnitude 5.8 temblor striking jus=
+t south of Indios at 7:18 a.m., USGS said.</span><br /> <br /> <br /> &nbsp=
+; </p>=20
+  </center> <span title="rabies"></span><big></big><font size="trolley"></font><span color="tropical"><span></span></span><style size="falseness"></style><font><small></small><span class="pinion"></font></span><big></big><span dir="vandalizes"></span> =20
+ <img src=3D"http://www.eerai.buzz/8db6L2D39N5Yu85u12d7Z112Q19ebx21NFv4GIf4rxvs4FhIHEsvZ10OQ.RQddosK5d1jm05bUPHi/fingerings" alt=3D""/></body>
+</html>
+
+------=_Part_73_1171483529.1578423092919--
+

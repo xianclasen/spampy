@@ -1,0 +1,86 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 18960 invoked from network); 20 Jan 2020 13:03:40 -0000
+Received: (qmail 8476 invoked from network); 20 Jan 2020 13:03:39 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Jan 2020 13:03:39 -0000
+Received: (qmail 28212 invoked by uid 48516); 20 Jan 2020 13:03:39 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 25043 invoked from network); 20 Jan 2020 13:03:38 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 20 Jan 2020 13:03:38 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1726954AbgATNDh (ORCPT <rfc822;bruce@untroubled.org>);
+        Mon, 20 Jan 2020 08:03:37 -0500
+Received: from mail-ed1-f68.google.com ([209.85.208.68]:39973 "EHLO
+        mail-ed1-f68.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1726619AbgATNDg (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Mon, 20 Jan 2020 08:03:36 -0500
+Received: by mail-ed1-f68.google.com with SMTP id b8so29392880edx.7
+        for <linux-kernel@vger.kernel.org>; Mon, 20 Jan 2020 05:03:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:sender:from:date:message-id:subject:to;
+        bh=0/imIEsyEBeR7+n66JGCV921+E7S5EarGk9nq10BYk8=;
+        b=FtqmuR92by4GqkRJ/pL01HdPLlaDJuqGWNEDC5xuM69Om3ObsaUKfq63G6A3GdvqDV
+         soOYaEvN4w+YGnXrXmvhE+Zyt1fU9olzULADy4wClxSgPmA2CJXGYMMQWksMQuabsx4z
+         Hwi+fiOIjzYJ4V5IiVnI5n16rgROWhrm6Pn2SiJqb/lv0i0fEuVWRi28fyCwCoDrwltN
+         XsgTXVsdxnuH4zFrbtCTecVtDfx7u8Y1tfiB1q+cBS1QN6BGx9pjAaQ1Hmj3aQ3So4Xy
+         rlDQxUUNuWMMsNWc9sV7l8As6aiJnYx5FpnpE/Dp4DZQ+jod31iPg3Qv5MTWKLTuPFm5
+         c0aw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:sender:from:date
+         :message-id:subject:to;
+        bh=0/imIEsyEBeR7+n66JGCV921+E7S5EarGk9nq10BYk8=;
+        b=c3b+xKYW94w1X8mXaXFCc21zrProLbp7IJzt0zczfyg14l2o5gEl0hHSALrckjAv36
+         ae+nwhFt2o0ZVpgGP8nACnkKozCy5KXudrWj0HxdnVQWsUp34hMhgVK5Pj7whUQhEBWW
+         Jbb83HrmgWepJyJ4S78yLivO+KULivjXNBiq17l7hfxkEApyYohZZ43RvYvjVjOtSMTz
+         m+aBfLJhsmAXCqo4ynQ95bBa7oClSy399O+zI8Lhv4QbXR0gLe4Pl7myfcyTPVo1xrjN
+         W0DDgwiMUOdeNTvtxoVKzww56nSVq/rLxL04PGZdL6u0W0rC3l0k9cca8ny3o6N+g9Uq
+         5NIA==
+X-Gm-Message-State: APjAAAXFOSlylEn61GfnQfXf0WB3u69Ts0vqzIXNO2pBezqjwtcYQkgc
+        lkRdwQY6+7q5BqYfgbtCgRqEMMTYGmFuW3kt9og=
+X-Google-Smtp-Source: APXvYqzdFuRHxWC1bbGNO63rJEe7J9d+R9qkJSKHvI3/ppSXiDqbKGMw5U57eYodLbh5ZRnOubmV975yQrC9l3npJMk=
+X-Received: by 2002:a17:906:33db:: with SMTP id w27mr19950398eja.349.1579525414764;
+ Mon, 20 Jan 2020 05:03:34 -0800 (PST)
+MIME-Version: 1.0
+Reply-To: info.maxwellkojo@gmail.com
+Received: by 2002:a17:906:901:0:0:0:0 with HTTP; Mon, 20 Jan 2020 05:03:34
+ -0800 (PST)
+From:   Maxwell Kojo <mrmaxwellkojo@gmail.com>
+Date:   Mon, 20 Jan 2020 14:03:34 +0100
+X-Google-Sender-Auth: SqU8YRCAzqUvd5u5cRJZBj7_UGc
+Message-ID: <CAFZMWWrXEbF37f=_SmX8=mo2W_YvEA1Oe2w=xmV3nMaJcASCJw@mail.gmail.com>
+Subject: Hello
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 506
+
+Dear friend,
+
+I am Maxwell Kojo, I work with a bank in Burkina Faso. I have a
+proposal for you regarding the transfer of funds deposited by a late
+foreign client into our bank here.
+
+If you are really sure of your integrity, trust and confidentiality to
+receive the fund, please answer me urgently for more details, contact
+my private email address(info.maxwellkojo@gmail.com).
+
+Kindly send me the followings
+
+Full Names
+Address
+Occupation
+Direct Mobile Telephone Lines
+Nationality
+
+Regards,
+Maxwell Kojo.

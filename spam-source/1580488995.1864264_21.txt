@@ -1,0 +1,84 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 22562 invoked from network); 31 Jan 2020 15:49:16 -0000
+Received: (qmail 3865 invoked by uid 222); 31 Jan 2020 15:49:15 -0000
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 3862 invoked from network); 31 Jan 2020 15:49:15 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 31 Jan 2020 15:49:15 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1729272AbgAaPsE (ORCPT <rfc822;bruce@untroubled.org>);
+        Fri, 31 Jan 2020 10:48:04 -0500
+Received: from mail-vs1-f68.google.com ([209.85.217.68]:33039 "EHLO
+        mail-vs1-f68.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1728922AbgAaPsE (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Fri, 31 Jan 2020 10:48:04 -0500
+Received: by mail-vs1-f68.google.com with SMTP id n27so4661981vsa.0
+        for <linux-kernel@vger.kernel.org>; Fri, 31 Jan 2020 07:48:04 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=pKMEUn2dF7BW0BevKmi2c8y0oUGLqY/IZv47xCFNAPY=;
+        b=JHztqZtU9pMZVqGoZHzsDzdAeeHcO+gp87V5vPX2BGwJliOYfkuvcrUpDtnzXMgmOD
+         /XU2ms9n4KwGUOy0HpYJ5LthgT8UwMWLkifiGJ/Kc2kvVJfh+MMQmM4o2olwmUOfCDW0
+         U1NHMvGAbsYRfHOzRXbAcbhhes2yWZp1iqdnLWliapSFuOh/LUX8215Zio6MEpHupkie
+         43zCFkesDzZMKqhGOWgNCsHsONsx0nnvi33d+XprJdz3Mi1b0SiLp712zIWqiRUkp1BM
+         CHvl34Clqqhop/OEu7ycKbW9hlXIodxmxDIyfGxlSJM6T4t3UyMHKQdKOiOzfWAMKJBW
+         EuKw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=pKMEUn2dF7BW0BevKmi2c8y0oUGLqY/IZv47xCFNAPY=;
+        b=kT1Sj6dwsafvrZ3FrAnFLxb0+hOD2KCHZU4lNr3ZL1PUAW+Z4eebGpubR8R2X23cg1
+         DNuJWY6kzcxsyrxUBvOgKVhJoZP02KqJcKIdBALqDnpnsnYziVVUGzJXHTPrCs5pLlgo
+         Rht6IrVT54yUL8NukG0NneyxLq98LZJQglPPgEK9gmwkIHOTuufpSxtC4glhXE46RWDW
+         TRqCwMggaEXE0ZeCQqpl4z2VQGBqGhLmDl/VICw0Mdh8pDRoyAuWLtppMF5I74fTfLHL
+         PmFPmT27LcP08cs9LnTxEgWlBxUMmRZQGt6EJxCkOAnCW4fsDkcyFGo4D1b6ZG8AsEgd
+         /T+w==
+X-Gm-Message-State: APjAAAXIyGJWQ5Wcxd+rE4IZqH9MyA3uYFXVmW0UIu216/WIq9M+R2TL
+        CA/Xib8cv3CxirKG+Wjt3V0BA9tVeQUKM+hez8c=
+X-Google-Smtp-Source: APXvYqywHR/M3cN+3NpvPK8EGJZ+hy9aQiYR9Y9Gsa+aW6xCRQuUS052RIf6XofxcHOMUQlU33jGaqMRU0EqyUqet9I=
+X-Received: by 2002:a67:320c:: with SMTP id y12mr7309152vsy.47.1580485683509;
+ Fri, 31 Jan 2020 07:48:03 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:ac5:c9ba:0:0:0:0:0 with HTTP; Fri, 31 Jan 2020 07:48:03
+ -0800 (PST)
+Reply-To: westernunionmoneypayoffice@gmail.com
+From:   chris william <willychris222@gmail.com>
+Date:   Fri, 31 Jan 2020 15:48:03 +0000
+Message-ID: <CADT5zyzGbK7zD-bMA-8DFncZy9MFqs9UQpdZvH0PbOLAAOvcZA@mail.gmail.com>
+Subject: Good day
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 817
+
+ Attention please,
+
+We have deposited the cheque of your fund ($ 800,000.00USD) through
+Western Union department Finally after our meeting Regarding your
+fund, what you will do is to contact Western Union director Dr.Alex
+Onoja via Email (westernunionmoneypayoffice@gmail.com).
+
+He will direct you how you will receiving the Funds daily, remember to
+send him your full information to avoid wrong transfer Such as:
+
+Receiver's Name _______________
+Address: ________________
+Country: _____________
+Phone Number: _____________
+
+Dr.Alex Onoja has sent $ 5,000 through Western Union. Contact  Dr.Alex
+Onoja as soon as you receive this email and tell him to give you the
+MTCN, sender name and question / answer to pick the $ 5000 Please let
+us know as soon as you received all your fund.
+
+Best Regards.
+WESTERN UNION AGENT

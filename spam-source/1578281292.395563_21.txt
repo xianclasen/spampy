@@ -1,0 +1,77 @@
+Return-Path: <SRS0=8G6I7G=22=zoonet.buzz=fight-tinnitus-now-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 19817 invoked from network); 5 Jan 2020 18:46:51 -0000
+Received: (qmail 29055 invoked from network); 5 Jan 2020 18:46:50 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Jan 2020 18:46:50 -0000
+Received: (qmail 5952 invoked by uid 48516); 5 Jan 2020 18:46:50 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8982 invoked from network); 5 Jan 2020 18:46:49 -0000
+Received: from mail.zoonet.buzz (208-186-113-154.nca.datanoc.com [208.186.113.154])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 05 Jan 2020 18:46:49 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=zoonet.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fight-tinnitus-now@zoonet.buzz;
+ bh=Uo9AwDISQaaVUW9Q+g3t8KJAWQE=;
+ b=GF2Cu5LpbqG0A7nnafkcvOIdc/gg6E3s5PQJyKISzVkzeEzbevbKmzir/nf8LjcTKZ1rxhDJbsyW
+   p3jQyKd1KoZ0P9OBpIWxjBZhLBD5SkHGgusiFutqFL90C+KB3/bSU7lSA4LcL9aBq6dam1TnxK2D
+   vjoIzNtpQtm9jxQXwEs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=zoonet.buzz;
+ b=sG8Cz7xjOnZ5xERJ0DTN7LNzfA2BxWeOfxKihPLFzfJ0+DBQQ4F+AlBptrY77Oj5jPG57l29yK98
+   bolHLnSGLuzBHVwPMI664594xUelPkULzbITDESckwKNmDDhkf6WPz5rguRmLlM1OF56pWg5v8Bi
+   E2Op+2TGOYf38yFIpnk=;
+Received: by mail.zoonet.buzz id h28nhi0001gu for <bruce@untroubled.org>; Sun, 5 Jan 2020 13:42:07 -0500 (envelope-from <fight-tinnitus-now-bruce=untroubled.org@zoonet.buzz>)
+Date: Sun, 5 Jan 2020 13:42:07 -0500
+From: "Fight Tinnitus Now" <fight-tinnitus-now@zoonet.buzz>
+To:   <bruce@untroubled.org>
+Subject: BREAKING: New Snack Leaves Tinnitus Doctors Dumbfounded?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_217_247656929.1578249716446"
+List-Unsubscribe: <http://www.zoonet.buzz/Orville-crockery/8a05K2s395u8J9s11yw1l1B346bB21cFv4GIf4rxvs4FhIHEsvZ11uRMndn9QoY97OOXJ1Y05SWcpY>
+Message-ID: <0.0.0.18.1D5C3F7D4C830D6.1821C2@mail.zoonet.buzz>
+Content-Length: 7303
+
+------=_Part_217_247656929.1578249716446
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>alphabetically</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:georgia,serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:georgia,serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.zoonet.buzz/indict-peripheral/e9a6l2m39i5z86ss12iwe8beN346bH21lFv4GIf4rxvs4FhIHEsvZ11VRMndn9QoY97DH1Qzl05rXPcY" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.zoonet.buzz/mammal-stairway/bac5b23D95U7apl11qe8c1v346b_21MFv4GIf4rxvs4FhIHEsvZ11XRMndn9QoY95W1NC05J2jcY" style="border-width: 0px; border-style: solid; width: 82%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:georgia,serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:georgia,serif; "><a href="http://www.zoonet.buzz/indict-peripheral/e9a6l2m39i5z86ss12iwe8beN346bH21lFv4GIf4rxvs4FhIHEsvZ11VRMndn9QoY97DH1Qzl05rXPcY">Do THIS &quot; 10 second trick&quot; to restore your hearing for the New Years</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.zoonet.buzz/stories-extraneous/2c46gR23y95tG8P612Re8bfRn346bP21CFv4GIf4rxvs4FhIHEsvZ11CRMndn9QoY95HzS106mqLlcY"><font color="#666666">Leave mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.zoonet.buzz/Geoff-passage/af85p23n95aX8X913bQe8cv0_346by21bFv4GIf4rxvs4FhIHEsvZ11QRMndn9QoY97ohxy10k5sLPcY">Unsub Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">6547 N Academy Blvd #2128</span>
+    <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</span>
+    <br /> &nbsp; 
+   </div> <font><span></font></span><font style="curvature"><font style="punches"></font><font dir="overview"></font></font><big><small></small></big>
+  </center>   
+ <img src="http://www.zoonet.buzz/F895S239s5eS8l511He8c2i346bw21kFv4GIf4rxvs4FhIHEsvZ11PRMndn9QoY96XL10nP6fTc1lY/stories-extraneous" alt=""/></body>
+</html>
+
+------=_Part_217_247656929.1578249716446--
+

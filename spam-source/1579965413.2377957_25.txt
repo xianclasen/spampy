@@ -1,0 +1,122 @@
+Return-Path: <SRS0=2PVC+S=3O=mail.carabineer.co=6962-9790-262549-1854-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 29287 invoked from network); 25 Jan 2020 08:51:21 -0000
+Received: (qmail 30641 invoked from network); 25 Jan 2020 08:51:20 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 08:51:20 -0000
+Received: (qmail 28422 invoked by uid 48516); 25 Jan 2020 08:51:19 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20925 invoked from network); 25 Jan 2020 08:51:19 -0000
+Received: from zulu.carabineer.co (roadb0d56.roadcentury.host [170.130.172.203])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 25 Jan 2020 08:51:18 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=carabineer.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=*JoanRiley*@carabineer.co;
+ bh=DWXVlf3/DQblCXIGOD9mdbFKp80=;
+ b=BxqczfPMjnHbAJ7Yd8Oy8hDV7Pwq3O++T7VGGz9ACCd5MrE6jnsWMN/DUb8LdGGNehVplR/mWT2K
+   Z5LdtUhCLkqNM9QY07TCbksIbPPCx9xv/eZvCev/frZWroL94jBP/WFko0TgQ+QQi1sK3sHr3Z99
+   MwpMQH6OvhE/j/tb93E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=carabineer.co;
+ b=DiQI4COIMV7UpWZKVTbzNIFuZDfV7npJTo0lFGhRc8FYE1aGrVlWKCGsciKisKuspKlOla6MX4fT
+   OYVqp7XYI/z2nmK48gndTfJVYXq/t6xDZ9ngW9ok0nGMopDy0VS5PFAHRNdYSGLedZ+JImAj/zkH
+   eqDRvQT6FDt1BXVDIyk=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="aa5f7ac468bf3e8edc46e0d76e8338f6_263e_40195"
+Date: Sat, 25 Jan 2020 03:45:50 -0500
+From: "Joan Riley" <*JoanRiley*@carabineer.co>
+Reply-To: "*Joan Riley*" <*JoanRiley*@carabineer.co>
+Subject: Congratulations, You’ve been nominated for inclusion 
+To: <bruce@untroubled.org>
+Message-ID: <zdv5hhgiylsic3xh-1pm1uubfvzxohqlg-263e-40195@carabineer.co>
+Content-Length: 4745
+
+--aa5f7ac468bf3e8edc46e0d76e8338f6_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Congratulations, You’ve been nominated for inclusion 
+
+http://carabineer.co/_TcBrOLNcI8BI1YYSKpoCPWkNZeuVSFY9S4YsfhOcrT8HSo
+
+http://carabineer.co/cntJRO2zNzupbzudbSVug6rQ-4yK4IsaQMyiOkKVrchQYJG0
+
+Fire control
+
+Complete knowledge of yoga, without living water, food or living of air, travel by sky, journey of invisibility, velocity equal to light, knowledge of all languages, knowledge of languages of birds and tree plants
+
+Nature control such as climate climatic earthquake, leadership capacity, hypnotism, meditation, removal of all types of rays such as xray vision, medicine as well as knowledge of Ayurveda
+
+    4. Anahata Chakra *
+
+Air control
+
+Nirvikalpa Samadhi, Proximity to Brahma, Trikalagalyta, Doordarshan, Kalnagna, Time Control, such as Time Travel
+
+Telepathy, foreign entry (entering the living or dead body of another)
+
+Knowledge of the action of cosmic intersection, going into different planets, stars, realms, and multiverse, entering 26 dimensions, watching the above-mentioned places from a distance
+
+To see the invisible, the philosophy of Goddesses, rejuvenation, attracting all, the pace of mind, the meditation and manifestation,
+
+Hypnotism
+
+    5 vishuddh chakra *
+
+Sky control
+
+The establishment of Saraswati, which has knowledge of ancient and modern science
+
+The ability to betray, curse and boast Knowledge of entire texts Literature composition, stream flow discourse, Song music and dance art To hold many bodies like yours or different
+
+On the other hand, Hanuman ji swallowed the sun upon the desire to make the body bigger by the desire.
+
+Knowing the subtle mysteries of the universe,
+
+Revealing any substance from zero, turning one thing into another,
+
+Change of form, philosophy of brahman
+
+--aa5f7ac468bf3e8edc46e0d76e8338f6_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newslatter</title>
+</head>
+<body><a href="http://carabineer.co/2rhQV92oe75BtCIDzu3E38dG0uqZ1KBRgvuKYzULbOftRdpM"><img src="http://carabineer.co/78625fb9a1b1f3c536.jpg" /><img height="1" src="http://www.carabineer.co/QxlQQvJXe6s_js2hGbYIICUKFBwaTBKvjwOgswC0lazNXSIO" width="1" /></a>
+<center>
+<div style="width:700px;"><a href="http://carabineer.co/_TcBrOLNcI8BI1YYSKpoCPWkNZeuVSFY9S4YsfhOcrT8HSo" style="font-size:30px;font-family:Arial; color:blue; text-decoration:none;">Congratulations, You’ve been nominated for inclusion </a><br />
+<br />
+<a href="http://carabineer.co/_TcBrOLNcI8BI1YYSKpoCPWkNZeuVSFY9S4YsfhOcrT8HSo"><img src="http://carabineer.co/e1fa7e8837eba12df1.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://carabineer.co/fNg3ha8sCh4aMmwppU2bHbDOZarjqfaU-VE1TBl9ipUWf4s"><img src="http://carabineer.co/fb4d78e71d18ec1349.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://carabineer.co/cntJRO2zNzupbzudbSVug6rQ-4yK4IsaQMyiOkKVrchQYJG0"><img src="http://carabineer.co/7b3bb0f2e817a616be.jpg" /></a></div>
+</center>
+<span style="color:#FFFFFF;font-size:6px;">Fire control Complete knowledge of yoga, without living water, food or living of air, travel by sky, journey of invisibility, velocity equal to light, knowledge of all languages, knowledge of languages of birds and tree plants Nature control such as climate climatic earthquake, leadership capacity, hypnotism, meditation, removal of all types of rays such as xray vision, medicine as well as knowledge of Ayurveda 4. Anahata Chakra * Air control Nirvikalpa Samadhi, Proximity to Brahma, Trikalagalyta, Doordarshan, Kalnagna, Time Control, such as Time Travel Telepathy, foreign entry (entering the living or dead body of another) Knowledge of the action of cosmic intersection, going into different planets, stars, realms, and multiverse, entering 26 dimensions, watching the above-mentioned places from a distance To see the invisible, the philosophy of Goddesses, rejuvenation, attracting all, the pace of mind, the meditation and manifestation, Hypnotism 5 vishuddh chakra * Sky control The establishment of Saraswati, which has knowledge of ancient and modern science The ability to betray, curse and boast Knowledge of entire texts Literature composition, stream flow discourse, Song music and dance art To hold many bodies like yours or different On the other hand, Hanuman ji swallowed the sun upon the desire to make the body bigger by the desire. Knowing the subtle mysteries of the universe, Revealing any substance from zero, turning one thing into another, Change of form, philosophy of brahman </span></body>
+</html>
+
+--aa5f7ac468bf3e8edc46e0d76e8338f6_263e_40195--

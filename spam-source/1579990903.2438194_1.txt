@@ -1,0 +1,239 @@
+Return-Path: <SRS0=4FFYFs=3O=santd.trade=angelia-marchall-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 23305 invoked from network); 25 Jan 2020 20:54:01 -0000
+Received: (qmail 1555 invoked from network); 25 Jan 2020 20:54:00 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 20:54:00 -0000
+Received: (qmail 28725 invoked by uid 48516); 25 Jan 2020 20:53:59 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8377 invoked from network); 25 Jan 2020 20:53:59 -0000
+Received: from mail.santd.trade ([193.201.140.208])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 25 Jan 2020 20:53:52 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=santd.trade;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=angelia-marchall@santd.trade;
+ bh=MC/sjssDI/XI40gT6HKV/DXiPHY=;
+ b=EeFqaO427YFBIhGzd5OJMEJjaFV8l1bJ7kGTmteFp/+ospqCcDKDr3igdTNyPKB6WjOunxn5OOoe
+   wppFJWRLwEVqDWMCbZ6oGsVC5mnUOkUy80Vi5xZi0xIe8/253n6xP7ZaRuKM4Dj0Pt+OSSz8769a
+   iKkE8Q/XmvohZdqLyj0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=santd.trade;
+ b=GQ8ymZJZAhkDFdu9K5DOUk3x72w2uvVxg9gkeoSW5mHXKZEDFsffmP5A9zP2u2EwcgDRJUia2qkV
+   TPnRh4e5VaVIganqs9V1llvH/m1xi5+lxlmR1EdF24KyxrgXjfwkTC6955xYemK2JGhsrO1NE1vP
+   65HD/TVza9lUUY9XE9I=;
+Received: by mail.santd.trade id h5ile00001gc for <bruce@untroubled.org>; Sat, 25 Jan 2020 15:50:18 -0500 (envelope-from <angelia-marchall-bruce=untroubled.org@santd.trade>)
+Date: Sat, 25 Jan 2020 15:50:18 -0500
+From: Angelia Marchall <angelia-marchall@santd.trade>
+To:   <bruce@untroubled.org>
+Subject: 2 clicks to win $50! No cost to spin&hellip;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_727_1659856006.1579985396875"
+List-Unsubscribe: <http://www.santd.trade/c7d4W2395jS89K11K1n1DJ1a95J21QFv4GIf4rxvs4FhIHEsvZ10lQZRS9ooje6f_M1p05fUHiq/tithe-deserter>
+Message-ID: <0.0.0.53.1D5D3C10D515634.50F901@mail.santd.trade>
+Content-Length: 11072
+
+------=_Part_727_1659856006.1579985396875
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title></title>=20
+ </head>=20
+ <body>=20
+  <table bgcolor=3D"#EAEDED" cellpadding=3D"0" class=3D"body-wrap" style=3D=
+"border-collapse: collapse !important; caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-family: sans-serif; font-style: normal; font-variant-caps:=
+ normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-a=
+lign: start; text-indent: 0px; text-transform: none; white-space: normal; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; background-color: rgb(234, 237, 237); text-decoration:=
+ none; box-sizing: border-box; width: 1430px; margin: 0px;">=20
+   <tbody>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+">&nbsp;</td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" colspan=3D"3">&nbsp;<a href=3D"http://www.santd.trade/refreshed-presence/5ee4y2395hy8O613b74_7ocH1a95L21jFv4GIf4rxvs4FhIHEsvZ10IQZRS9ooje6b10IPg5vTHpi" style=
+=3D"font-family: sans-serif; color: rgb(56, 83, 151); text-decoration: unde=
+rline; font-size: 16px; padding: 0px; margin: 0px; line-height: 22px;"><spa=
+n style=3D"color: rgb(56, 83, 151); text-decoration: underline;">Go Here to=
+ Claim Your Special Prize</span></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+">&nbsp;</td>=20
+    </tr>=20
+    <tr>=20
+     <td class=3D"container" style=3D"font-family: sans-serif; box-sizing: =
+border-box; vertical-align: top; margin: 0px auto; border-top-left-radius: =
+5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-=
+bottom-left-radius: 5px; -webkit-box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2=
+px 7px 0px; box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 7px 0px; display: =
+block !important; max-width: 600px !important; clear: both !important;" val=
+ign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"box-sizing: border-box; max-width: 60=
+0px; display: block; margin: 0px auto;">=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der-collapse: collapse !important; text-align: center;" width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"border-top-left-radius: 5px; border=
+-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left=
+-radius: 5px;" valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important;">=20
+            <tbody>=20
+             <tr>=20
+              <td align=3D"center" colspan=3D"3"><a href=3D"http://www.santd.trade/refreshed-presence/5ee4y2395hy8O613b74_7ocH1a95L21jFv4GIf4rxvs4FhIHEsvZ10IQZRS9ooje6b10IPg5vTHpi"><im=
+g alt=3D"Claim your special prize!" src=3D"http://www.santd.trade/commandment-licking/15c5A23O95S7Uai12e7Z47es1a95h21EFv4GIf4rxvs4FhIHEsvZ10uQZRS9ooje7oY10HLu6JTHUiB" style=3D"border: 0p=
+x none; line-height: 16px; max-width: 600px; outline: currentcolor none 0px=
+; text-decoration: none; display: block; width: 600px;" /></a></td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+         <tr>=20
+          <td align=3D"center" style=3D"background-color: rgb(255, 255, 255=
+); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom=
+-right-radius: 5px; border-bottom-left-radius: 5px;" valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important;">=20
+            <tbody>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"24" style=3D"height: 24px; font-s=
+ize: 0px;">&nbsp;</td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp;</td>=20
+              <td align=3D"left"><a class=3D"title" href=3D"http://www.santd.trade/refreshed-presence/5ee4y2395hy8O613b74_7ocH1a95L21jFv4GIf4rxvs4FhIHEsvZ10IQZRS9ooje6b10IPg5vTHpi" sty=
+le=3D"font-family: sans-serif; color: rgb(56, 83, 151); text-decoration: no=
+ne; font-size: 26px; font-weight: 400; padding: 0px; margin: 0px; line-heig=
+ht: 32px;"><span class=3D"subtitle" style=3D"color: rgb(56, 83, 151); text-=
+decoration: none;">Congratulations Kroger Shopper!</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp;</td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px;">&nbsp;</td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp;</td>=20
+              <td align=3D"left"><a href=3D"http://www.santd.trade/refreshed-presence/5ee4y2395hy8O613b74_7ocH1a95L21jFv4GIf4rxvs4FhIHEsvZ10IQZRS9ooje6b10IPg5vTHpi" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 24px;"><span style=3D"color: rg=
+b(68, 68, 68); text-decoration: none;">You have been selected to <span styl=
+e=3D"color: rgb(56, 83, 151); text-decoration: underline;">participate in o=
+ur giveaway</span>. You could win a <b>$500 Kroger Gift Card</b>, <b>Apple =
+iPhone X</b>, <b>Apple Watch</b>, and other prizes in just one spin.</span>=
+</a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp;</td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px;">&nbsp;</td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp;</td>=20
+              <td align=3D"left"><a href=3D"http://www.santd.trade/refreshed-presence/5ee4y2395hy8O613b74_7ocH1a95L21jFv4GIf4rxvs4FhIHEsvZ10IQZRS9ooje6b10IPg5vTHpi" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 26px;"><span style=3D"color: rg=
+b(68, 68, 68); text-decoration: none;">But hurry! The giveaway ends soon!</=
+span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp;</td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"20" style=3D"height: 20px; font-s=
+ize: 0px;">&nbsp;</td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp;</td>=20
+              <td align=3D"left">=20
+               <div>
+                <a class=3D"button" href=3D"http://www.santd.trade/refreshed-presence/5ee4y2395hy8O613b74_7ocH1a95L21jFv4GIf4rxvs4FhIHEsvZ10IQZRS9ooje6b10IPg5vTHpi" style=3D"border-top=
+-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius=
+: 4px; border-bottom-left-radius: 4px; color: rgb(255, 255, 255); backgroun=
+d-color: rgb(56, 83, 151); display: inline-block; font-family: sans-serif; =
+font-size: 20px; line-height: 62px; text-align: center; text-decoration: no=
+ne; width: 312px;">Click Here To Participate</a>
+               </div> </td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp;</td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px;">&nbsp;</td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp;</td>=20
+              <td align=3D"left"><a href=3D"http://www.santd.trade/refreshed-presence/5ee4y2395hy8O613b74_7ocH1a95L21jFv4GIf4rxvs4FhIHEsvZ10IQZRS9ooje6b10IPg5vTHpi"><img alt=3D"Hurry! =
+This givewaway ends soon!" src=3D"http://www.santd.trade/4496d23Jy95vm7ar11L747fG1a95g21AFv4GIf4rxvs4FhIHEsvZ10jQZRS9ooje7q1jgAw05d2HiN/reenter-projectors" style=3D"border: 0px none; l=
+ine-height: 16px; max-width: 211px; outline: currentcolor none 0px; text-de=
+coration: none; display: block; width: 211px;" /></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp;</td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"32" style=3D"height: 32px; font-s=
+ize: 0px;">&nbsp;</td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px;">&nbsp;</td>=
+=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" class=3D"container" style=3D"margin: 0px auto; di=
+splay: block !important; max-width: 600px !important; clear: both !importan=
+t;" valign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"max-width: 600px; display: block; mar=
+gin: 0px auto; padding: 0px;">=20
+       <table cellpadding=3D"0" cellspacing=3D"0" class=3D"main" style=3D"b=
+order-collapse: collapse !important; font-family: sans-serif; margin: 0px;"=
+ width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"font-size: 13px; color: rgb(102, 10=
+2, 102);"><a href=3D"http://www.santd.trade/reenter-projectors/e224D2395Nzz8912e74A7dM1a95o21eFv4GIf4rxvs4FhIHEsvZ10WQZRS9ooje5vM10A6cqLH1i">Unsub Here</a><br /> <span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(128, 128, 128); font-family: -web=
+kit-standard; font-size: 11px; font-style: normal; font-variant-caps: norma=
+l; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: =
+-webkit-center; text-indent: 0px; text-transform: none; white-space: normal=
+; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-=
+text-stroke-width: 0px; text-decoration: none; display: inline !important; =
+float: none;">13395 Voyager Pkwy Ste 130 #634</span><br style=3D"caret-colo=
+r: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight=
+: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-tra=
+nsform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit=
+-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: n=
+one; color: rgb(0, 0, 0); font-size: 12px; text-align: center; font-family:=
+ Helvetica;" /> <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(128, 1=
+28, 128); font-size: 11px; font-style: normal; font-variant-caps: normal; f=
+ont-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px=
+; text-transform: none; white-space: normal; widows: auto; word-spacing: 0p=
+x; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-dec=
+oration: none; text-align: center; font-family: Helvetica; float: none; dis=
+play: inline !important;">COLORADO SPRINGS CO 80921</span><br /> &nbsp;</td=
+>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px;">&nbsp;</td>=
+=20
+    </tr>=20
+   </tbody>=20
+  </table>  =20
+ <img src=3D"http://www.santd.trade/5756w23y9Q5Oys8511c7480g1a95K21LFv4GIf4rxvs4FhIHEsvZ10NQZRS9ooje5wh10r5A@jHi/unconnected-misconceptions" alt=3D""/></body>
+</html>
+
+------=_Part_727_1659856006.1579985396875--
+

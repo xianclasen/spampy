@@ -1,0 +1,152 @@
+Return-Path: <SRS0=x7/nME=3G=erb124b.men=carol.tande-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 17543 invoked from network); 17 Jan 2020 16:30:43 -0000
+Received: (qmail 14832 invoked from network); 17 Jan 2020 16:30:42 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 17 Jan 2020 16:30:42 -0000
+Received: (qmail 28339 invoked by uid 48516); 17 Jan 2020 16:30:40 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 13312 invoked from network); 17 Jan 2020 16:30:40 -0000
+Received: from mail.erb124b.men ([89.144.1.164])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 17 Jan 2020 16:30:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=erb124b.men;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=carol.tande@erb124b.men;
+ bh=L7A3DNmY4WkAgcCgeZnk+7DGgbk=;
+ b=AlvPGAq7gCFLCnk74EEDhv5fRP6DpscD2a6z5xIfP0Ll4Mqf4k+9H/wvPk8tG4Zd/v+J9BL2hylz
+   DLJfbIBNNlSAhiWNsFAT9DNzCK698SdjDkQNl766OrfsJpiLy9rSt0e8eh7zceqGzokHdKknFtqy
+   p2rKU7U7SVJTb/9UOUE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=erb124b.men;
+ b=FwmkQmINAbvY+tp0ykfM0MlU3Mn7J0thymREb59SVyFcPf0MUiIEaL8t1uj5IOWPF9KPu2FUo+Tf
+   LYB49GFm204f4dPgx8o9gd8NoEbs3Izz28aZDtpiGgqfyoQk45rgl/v0dX3zUpOlxn3ojCSQXx8b
+   4nhWoodgBhrPzXXz7E0=;
+Received: by mail.erb124b.men id h47gj00001g0 for <bruce@untroubled.org>; Fri, 17 Jan 2020 11:24:27 -0500 (envelope-from <carol.tande-bruce=untroubled.org@erb124b.men>)
+Date: Fri, 17 Jan 2020 11:24:27 -0500
+From: Carol Tande <carol.tande@erb124b.men>
+To:   <bruce@untroubled.org>
+Subject: Hey Your rewards 154126 is ending today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_145_920335350.1579278254178"
+List-Unsubscribe: <http://www.erb124b.men/construe-honoraries/W8a5Uq2395z8lG913C1Xig1xv34ddh21hFv4GIf4rxvs4FhIHEsvZ11tRkndoQnoFe5D1p0r6WyAJcY>
+Message-ID: <0.0.0.10.1D5CD5296CF584A.48EEC1@mail.erb124b.men>
+Content-Length: 9301
+
+------=_Part_145_920335350.1579278254178
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>snores</title> 
+ </head> 
+ <body> 
+  <table bgcolor="#EAEDED" cellpadding="0" class="body-wrap" style="border-collapse: collapse !important; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: sans-serif; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(234, 237, 237); text-decoration: none; box-sizing: border-box; width: 1223px; margin: 0px; "> 
+   <tbody> 
+    <tr> 
+     <td colspan="3" height="16" style="height: 16px; font-size: 0px; ">&nbsp; </td> 
+    </tr> 
+    <tr> 
+     <td align="center" colspan="3">? <a href="http://www.erb124b.men/dissimilar-adoption/62a4B2395J8kH611Eeb08C34ddD21hFv4GIf4rxvs4FhIHEsvZ11gRkndoQnoFe6G1WD0O5JXlcY" style="font-family: sans-serif; color: rgb(178, 9, 16); text-decoration: underline; font-size: 16px; padding: 0px; margin: 0px; line-height: 22px; "><span style="color: rgb(178, 9, 16); text-decoration: underline; ">Press Here to Claim Your Special Prize</span></a></td> 
+    </tr> 
+    <tr> 
+     <td colspan="3" height="16" style="height: 16px; font-size: 0px; ">&nbsp; </td> 
+    </tr> 
+    <tr> 
+     <td class="container" style="font-family: sans-serif; box-sizing: border-box; vertical-align: top; margin: 0px auto; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; -webkit-box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 7px 0px; box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 7px 0px; display: block !important; max-width: 600px !important; clear: both !important; " valign="top" width="600"> 
+      <div class="content" style="box-sizing: border-box; max-width: 600px; display: block; margin: 0px auto; "> 
+       <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse !important; text-align: center; " width="100%"> 
+        <tbody> 
+         <tr> 
+          <td align="center" style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; " valign="top"> 
+           <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse !important; "> 
+            <tbody> 
+             <tr> 
+              <td align="center" colspan="3"><a href="http://www.erb124b.men/dissimilar-adoption/62a4B2395J8kH611Eeb08C34ddD21hFv4GIf4rxvs4FhIHEsvZ11gRkndoQnoFe6G1WD0O5JXlcY"><img alt="Claim your special prize!" src="http://www.erb124b.men/98f5vy2395f7aNH11geb0aN34ddB21oFv4GIf4rxvs4FhIHEsvZ11sRkndoQnoFe7ry1ZN0X5fTc0Y/underground-stringier" style="border: 0px none; line-height: 16px; max-width: 600px; outline: currentcolor none 0px; text-decoration: none; display: block; width: 600px; " /></a></td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+         <tr> 
+          <td align="center" style="background-color: rgb(255, 255, 255); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; " valign="top"> 
+           <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse !important; "> 
+            <tbody> 
+             <tr> 
+              <td colspan="3" height="24" style="height: 24px; font-size: 0px; ">&nbsp; </td> 
+             </tr> 
+             <tr> 
+              <td class="m-pad" width="32">&nbsp; </td> 
+              <td align="left"><a class="title" href="http://www.erb124b.men/dissimilar-adoption/62a4B2395J8kH611Eeb08C34ddD21hFv4GIf4rxvs4FhIHEsvZ11gRkndoQnoFe6G1WD0O5JXlcY" style="font-family: sans-serif; color: rgb(178, 9, 16); text-decoration: none; font-size: 26px; font-weight: 400; padding: 0px; margin: 0px; line-height: 32px; "><span class="subtitle" style="color: rgb(178, 9, 16); text-decoration: none; ">Congratulations Walgreens Shopper!</span></a></td> 
+              <td class="m-pad" width="32">&nbsp; </td> 
+             </tr> 
+             <tr> 
+              <td colspan="3" height="16" style="height: 16px; font-size: 0px; ">&nbsp; </td> 
+             </tr> 
+             <tr> 
+              <td class="m-pad" width="32">&nbsp; </td> 
+              <td align="left"><a href="http://www.erb124b.men/dissimilar-adoption/62a4B2395J8kH611Eeb08C34ddD21hFv4GIf4rxvs4FhIHEsvZ11gRkndoQnoFe6G1WD0O5JXlcY" style="font-family: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18px; padding: 0px; margin: 0px; line-height: 24px; "><span style="color: rgb(68, 68, 68); text-decoration: none; ">You have been selected to <span style="color: rgb(178, 9, 16); text-decoration: underline; ">participate in our giveaway</span>. You could win a <b>$1000 Walgreens Gift Card</b>, <b>Apple iPhone X</b>, <b>Apple Watch</b>, and other prizes in just one spin.</span></a></td> 
+              <td class="m-pad" width="32">&nbsp; </td> 
+             </tr> 
+             <tr> 
+              <td colspan="3" height="16" style="height: 16px; font-size: 0px; ">&nbsp; </td> 
+             </tr> 
+             <tr> 
+              <td class="m-pad" width="32">&nbsp; </td> 
+              <td align="left"><a href="http://www.erb124b.men/dissimilar-adoption/62a4B2395J8kH611Eeb08C34ddD21hFv4GIf4rxvs4FhIHEsvZ11gRkndoQnoFe6G1WD0O5JXlcY" style="font-family: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18px; padding: 0px; margin: 0px; line-height: 26px; "><span style="color: rgb(68, 68, 68); text-decoration: none; ">But hurry! The giveaway ends soon!</span></a></td> 
+              <td class="m-pad" width="32">&nbsp; </td> 
+             </tr> 
+             <tr> 
+              <td colspan="3" height="20" style="height: 20px; font-size: 0px; ">&nbsp; </td> 
+             </tr> 
+             <tr> 
+              <td class="m-pad" width="32">&nbsp; </td> 
+              <td align="left"> 
+               <div>
+                <a class="button" href="http://www.erb124b.men/dissimilar-adoption/62a4B2395J8kH611Eeb08C34ddD21hFv4GIf4rxvs4FhIHEsvZ11gRkndoQnoFe6G1WD0O5JXlcY" style="border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; color: rgb(255, 255, 255); background-color: rgb(178, 9, 16); display: inline-block; font-family: sans-serif; font-size: 18px; font-weight: bold; line-height: 62px; text-align: center; text-decoration: none; width: 312px; ">Click Here To Participate</a>
+               </div> </td> 
+              <td class="m-pad" width="32">&nbsp; </td> 
+             </tr> 
+             <tr> 
+              <td colspan="3" height="16" style="height: 16px; font-size: 0px; ">&nbsp; </td> 
+             </tr> 
+             <tr> 
+              <td class="m-pad" width="32">&nbsp; </td> 
+              <td align="left"><a href="http://www.erb124b.men/dissimilar-adoption/62a4B2395J8kH611Eeb08C34ddD21hFv4GIf4rxvs4FhIHEsvZ11gRkndoQnoFe6G1WD0O5JXlcY"><img alt="Hurry! This givewaway ends soon!" src="http://www.erb124b.men/8274t2395dI7ay11seb0bB34ddA21hFv4GIf4rxvs4FhIHEsvZ11sRkndoQnoFe5jH10l5lXOcY/underground-stringier" style="border: 0px none; line-height: 16px; max-width: 211px; outline: currentcolor none 0px; text-decoration: none; display: block; width: 211px; " /></a></td> 
+              <td class="m-pad" width="32">&nbsp; </td> 
+             </tr> 
+             <tr> 
+              <td colspan="3" height="32" style="height: 32px; font-size: 0px; ">&nbsp; </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> </td> 
+    </tr> 
+    <tr> 
+     <td height="42" style="height: 42px; font-size: 0px; ">&nbsp; </td> 
+    </tr> 
+    <tr> 
+     <td align="center" class="container" style="margin: 0px auto; display: block !important; max-width: 600px !important; clear: both !important; " valign="top" width="600"> 
+      <div class="content" style="max-width: 600px; display: block; margin: 0px auto; padding: 0px; "> 
+       <table cellpadding="0" cellspacing="0" class="main" style="border-collapse: collapse !important; font-family: sans-serif; margin: 0px; " width="100%"> 
+        <tbody> 
+         <tr> 
+          <td align="center" style="font-size: 13px; color: rgb(102, 102, 102); "><a href="http://www.erb124b.men/e216JkC2395Np8J911Aeb09g34ddm21UFv4GIf4rxvs4FhIHEsvZ11QRkndoQnoFe6Wz1TP06qJpcqY/underground-stringier">Leave Here</a><br /> <br /> &nbsp; </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> </td> 
+    </tr> 
+    <tr> 
+     <td height="42" style="height: 42px; font-size: 0px; ">&nbsp; </td> 
+    </tr> 
+   </tbody> 
+  </table> <style face="ushered"></style><font face="coeditor"></font><style></style><span style="explosions"><font><font face="annotate"><font><span></span></font><font dir="editorial"></font></font></font></span><small></small>  
+ <img src="http://www.erb124b.men/construe-honoraries/2a66OD2I395cp8x513FUAeb0cR34ddH21bFv4GIf4rxvs4FhIHEsvZ11KRkndoQnoFe7qp1Fq_06zX@UcY" alt=""/></body>
+</html>
+
+------=_Part_145_920335350.1579278254178--
+

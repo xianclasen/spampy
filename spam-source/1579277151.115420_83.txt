@@ -1,0 +1,108 @@
+Return-Path: <SRS0=GOhYwg=3G=r3v13rb1rv.men=medicare_plan_info-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14276 invoked from network); 17 Jan 2020 15:27:36 -0000
+Received: (qmail 14368 invoked from network); 17 Jan 2020 15:27:36 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 17 Jan 2020 15:27:36 -0000
+Received: (qmail 20300 invoked by uid 48516); 17 Jan 2020 15:27:35 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 7936 invoked from network); 17 Jan 2020 15:27:34 -0000
+Received: from mail.r3v13rb1rv.men ([193.201.140.152])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 17 Jan 2020 15:27:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=r3v13rb1rv.men;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=medicare_plan_info@r3v13rb1rv.men;
+ bh=3o5MiSO39O5OR32Mmh4zcrM+15U=;
+ b=l8Juxfi3dn5/8M/xrDbcvMri9Z/iBPuppI/cgbsN1jhlAfo3xDGywle1S2G4Q+0ySrW0yxu0xUpu
+   72t8WTRuwPT62gZUp+scz8jfn1kdsDYmkDlsvszd2RivoWztMu+274dcOJr8hBgi0Jk+3qwzW4Xp
+   IR4u1+c7aR1zN7LMnRY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=r3v13rb1rv.men;
+ b=PmWKraQikm4aKk2WzPlkp2ERcBmTe+W6lLHdBr9m/0bTg7JZuT3d9Ya6e8dhA/bwBnvu2YY7NoLK
+   X8qAMEl2Grb/omsKdIk6hw3bF/3VGucEz/An38hNpdTASC4gCaxJb9cWUodebwGNs+t595optkIW
+   E8uxggY0cgthFf8hc60=;
+Received: by mail.r3v13rb1rv.men id h4796c0001g0 for <bruce@untroubled.org>; Fri, 17 Jan 2020 10:21:28 -0500 (envelope-from <medicare_plan_info-bruce=untroubled.org@r3v13rb1rv.men>)
+Date: Fri, 17 Jan 2020 10:21:28 -0500
+From: "Medicare Plan Info" <medicare_plan_info@r3v13rb1rv.men>
+To:   <bruce@untroubled.org>
+Subject: Winter 2020 Medicare Plans
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_58_675858702.1579274471694"
+List-Unsubscribe: <http://www.r3v13rb1rv.men/3d14P2395HV89j12Athx11I1a46Q21mFv4GIf4rxvs4FhIHEsvZ10pQ5RR9KoY96HtI1h06cyWHip/enjoining-embellishments>
+Message-ID: <0.0.0.6.1D5CD49CA2E27D8.69443A@mail.r3v13rb1rv.men>
+Content-Length: 4372
+
+------=_Part_58_675858702.1579274471694
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>audaciousness</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <div style=3D"text-align: center; ">
+    <span style=3D"font-family:arial,helvetica,sans-serif; "><span style=3D=
+"font-size:24px; "><a href=3D"http://www.r3v13rb1rv.men/42b5JT2395A8NF612A72dP5v1a46L21nFv4GIf4rxvs4FhIHEsvZ10mQ5RR9KoY97cYXSt106L3XAHi/exposures-oddity">Medicare plans just for you&nbsp;=
+ </a></span></span>
+    <br />=20
+    <br /> &nbsp;=20
+   </div>=20
+   <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"border-collapse: collapse !important; caret-color: rgb(0, 0, 0); =
+color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; fon=
+t-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphan=
+s: auto; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-st=
+roke-width: 0px; text-decoration: none; max-width: 700px; width: 700px; mar=
+gin: 0px auto; padding-left: 0px; border: none; display: block; background-=
+color: white; " width=3D"700">=20
+    <tbody>=20
+     <tr>=20
+      <td class=3D"image"><a href=3D"http://www.r3v13rb1rv.men/42b5JT2395A8NF612A72dP5v1a46L21nFv4GIf4rxvs4FhIHEsvZ10mQ5RR9KoY97cYXSt106L3XAHi/exposures-oddity" style=3D"text-decoration: =
+none; " target=3D"blank"><img alt=3D"MedicarePlan.com" src=3D"http://www.r3v13rb1rv.men/bab5pI2395R7jaj13RS72dT8i1a46O21mFv4GIf4rxvs4FhIHEsvZ10zQ5RR9KoY95g1Nv05yUHi0/exposures-oddity" =
+style=3D"border: 0px solid; outline: currentcolor none medium; text-decorat=
+ion: none; margin: 0px auto; padding-left: 0px; display: block; width: 92%;=
+ float: right; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td align=3D"center" style=3D"font-family: &quot; Gill Sans&quot; , H=
+elvetica, Arial, &quot; sans-serif&quot; ; font-size: 12px; color: rgb(153,=
+ 153, 153); ">If you' d prefer not to get any emails Tap <a href=3D"=
+http://www.r3v13rb1rv.men/staggering-pinnings/c606SUI2395qgr8613cz7v2d6w1a46o21QFv4GIf4rxvs4FhIHEsvZ10vQ5RR9KoY97SR10tsT6QOlHiT" style=3D"text-decoration: none; font-family: &quot; Gill Sans&quot; , =
+Helvetica, Arial, &quot; sans-serif&quot; ; font-size: 12px; color: rgb(153=
+, 153, 153); ">Here</a></td>=20
+     </tr>=20
+     <tr>=20
+      <td align=3D"center" style=3D"font-family: &quot; Gill Sans&quot; , H=
+elvetica, Arial, &quot; sans-serif&quot; ; font-size: 12px; color: rgb(153,=
+ 153, 153); ">Or Write to: 113 Cherry Street #88030, Seattle, WA 98104-2205=
+</td>=20
+     </tr>=20
+     <tr>=20
+      <td style=3D"text-align: center; "><br /> <span style=3D"font-size:11=
+px; "><span style=3D"color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br st=
+yle=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; fon=
+t-style: normal; font-variant-caps: normal; font-weight: normal; letter-spa=
+cing: normal; orphans: auto; text-align: center; text-indent: 0px; text-tra=
+nsform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit=
+-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: n=
+one; font-family: Helvetica; " /> <span style=3D"caret-color: rgb(0, 0, 0);=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; text-align: center; text-indent: 0px; text-transform: non=
+e; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -we=
+bkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica;=
+ float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span=
+></span></span><br /> <span style=3D"color:#A9A9A9; ">Exit <a href=3D"=
+http://www.r3v13rb1rv.men/ed56X239HT5O8vp912w72d7tn1a46o21pFv4GIf4rxvs4FhIHEsvZ10LQ5RR9KoY95NlD106V@0HXi/Menzies-diagonally">email here</a></span><br /> &nbsp; </td>=20
+     </tr>=20
+    </tbody>=20
+   </table> <span></span><big></big><style style="deity"></style><font title="wholeness"></font><font color="shivered"><big><big></big></big></font><style></style><font class="filament"></font>
+  </center>  =20
+ <img src=3D"http://www.r3v13rb1rv.men/7554B2395R_z8513IP72d9NA1a46m21rFv4GIf4rxvs4FhIHEsvZ10FQ5RR9KoY95SX10B6a1@@Hi/exposures-oddity" alt=3D""/></body>
+</html>
+
+------=_Part_58_675858702.1579274471694--
+

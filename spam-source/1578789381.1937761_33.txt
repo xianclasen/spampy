@@ -1,0 +1,189 @@
+Return-Path: <SRS0=yC50jf=3A=depenba.host=bounce+S5hVY0PMefoJIr44mr9dsvB44pnOV2YzO@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15139 invoked from network); 11 Jan 2020 12:00:32 -0000
+Received: (qmail 16396 invoked from network); 11 Jan 2020 12:00:32 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Jan 2020 12:00:32 -0000
+Received: (qmail 25902 invoked by uid 48516); 11 Jan 2020 12:00:31 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20044 invoked from network); 11 Jan 2020 12:00:31 -0000
+Received: from depenba.host (92-201-15-51.rev.cloud.scaleway.com [51.15.201.92])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 11 Jan 2020 12:00:31 -0000
+MIME-Version: 1.0
+From: =?UTF-8?B?SG9tZUxpZ2h0LmNvbQ==?= <notification+m4ygORTIBmMl6NURbrRcLFH5Lhvdev8Il@depenba.host>
+Subject: bruce, 2020 Updated List of Top Realtors? View Before It's Gone
+Message-ID: <20191102083153.18506470.236653.1487161153523183367254@sailthru.com>
+Reply-To: reply@depenba.host
+Received: from depenba.host (10.5.74.243) by depenba.host id OeQambMIlBlr for <bruce@untroubled.org>; Sat, 11 Jan 2020 12:51:35 +0100 (envelope-from <return@depenba.host>
+To: bruce@untroubled.org
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="UTF-8"
+Date: Sat, 11 Jan 2020 12:51:35 +0100
+Content-Length: 4186
+
+<img alt='' src='http://depenba.host/r.php?t=o&d=4249&l=1308&c=149070' width='1px' height='1px' style='visibility:hidden'/>
+
+<html>
+<style type="text/css" media="all">
+
+###body
+{
+background-color: rgb(255,255,255);
+color: rgb(88,48,40);
+font-family: Tahoma, sans-serif;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(70,47,32);
+}
+
+#content
+{
+font-size: 114%;
+background-color: rgb(255,255,255);
+color: rgb(0,0,0);
+border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;
+border-left-style: solid; border-right-style: solid; border-top-style: solid; border-bottom-style: solid;
+padding: 25px 25px 25px 25px;
+border-color: rgb(0,0,0);
+text-align: left;
+}
+
+#menu
+{
+background-color: rgb(255,255,255);
+color: rgb(154,96,125);
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+border-color: rgb(218,69,111);
+}
+
+###menuitem
+{
+font-size: 140%;
+background-color: rgb(255,255,255);
+color: rgb(218,69,111);
+font-variant: normal;
+text-transform: uppercase;
+font-weight: normal;
+margin-left: 11px; margin-right: 11px; margin-top: 11px; margin-bottom: 11px;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(140,18,25);
+text-align: right;
+}
+
+#logo, #logo a
+{
+font-size: 204%;
+background-color: rgb(0,0,0);
+color: rgb(186,41,65);
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+padding: 17px 10px 17px 10px;
+border-color: rgb(154,96,125);
+text-align: center;
+}
+
+#trail, #trail a
+{
+font-size: 110%;
+background-color: rgb(255,255,255);
+color: rgb(186,41,65);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 10px 10px 10px 10px;
+border-color: rgb(186,41,65);
+text-align: center;
+}
+
+#content a
+{
+##color: rgb(88,48,40);
+text-decoration: underline;
+}
+
+#content a:hover, #content a:active
+{
+##background-color: rgb(88,48,40);
+##color: rgb(255,255,255);
+}
+
+##h1, h2, h3, h4, h5, h6
+{
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+}
+
+
+#trail a
+{
+text-decoration: underline;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+###trail a:hover
+{
+}
+
+##enuitem:hover
+{
+##background-color: rgb(218,69,111);
+##color: rgb(255,255,255);
+}
+
+/* layout */
+#menu		{width: 25%; position: relative; top: 0; right: 0; float: right; text-align: center;}
+###menuitem		{width: auto;}
+#content		{margin-right: 25%; width: auto}
+###uitem		{display: block;}
+###ntainer		{ width: 1000px; margin-left:auto; margin-right:auto;}
+
+###edia print
+{{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}}
+
+    </style>
+
+<body>
+  
+  <CENTER><A href="http://depenba.host/r.php?t=c&d=4249&l=1308&c=149070"><font color=#0000FF face="Copperplate Gothic Light" size=6>bruce, 2020 Updated List of Top Realtors? View Before It's Gone
+</font> <br><font color=#0000FF face="Copperplate Gothic Light" size=5></font></A></CENTER>
+
+<br>
+
+<br>
+
+<center><a href="http://depenba.host/r.php?t=c&d=4249&l=1308&c=149070"><img src="https://i.imgur.com/iDziDOd.png"></a><p></p></center>
+<font face="arial" size="1"></center>
+ <br>
+<center><a href="http://depenba.host/r.php?t=u&d=4249&l=1308&c=149070"><img src="https://i.imgur.com/QQQdfQb.jpg"></a><p></p></center>
+<font face="arial" size="1"></center>
+
+</body>
+
+</html>
+<span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://depenba.host/opt.php?d=4249&l=1308&c=149070&em=f8f706c3938feec43d1f111ad3c0a047">here</a> to remove yourself from our emails list</span>

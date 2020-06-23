@@ -1,0 +1,188 @@
+Return-Path: <SRS0=QbqeD8=3M=tektites.tk=bounce+lLubD3ae4QKnZLLgUz5wfgbssyPU9oxJY@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 5258 invoked from network); 23 Jan 2020 19:09:11 -0000
+Received: (qmail 9094 invoked from network); 23 Jan 2020 19:09:10 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Jan 2020 19:09:10 -0000
+Received: (qmail 18917 invoked by uid 48516); 23 Jan 2020 19:09:10 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 27057 invoked from network); 23 Jan 2020 19:09:09 -0000
+Received: from tektites.tk (49-207-15-51.rev.cloud.scaleway.com [51.15.207.49])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 23 Jan 2020 19:09:09 -0000
+MIME-Version: 1.0
+From: =?UTF-8?B?SG9tZWxpZ2h0LmNvbSBPbmxpbmU=?= <notification+IlEgTzYJpb76LqPhPXHXM8PPv2nBlOqUW@tektites.tk>
+Subject: You can sell your home faster in 2020? Here's how
+Message-ID: <20191102083153.18506470.236653.5604702299789340091947@sailthru.com>
+Reply-To: reply@tektites.tk
+Received: from tektites.tk (10.5.76.173) by tektites.tk id a9p6BUZTxl8t for <bruce@untroubled.org>; Thu, 23 Jan 2020 19:19:37 +0100 (envelope-from <return@tektites.tk>
+To: bruce@untroubled.org
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="UTF-8"
+Date: Thu, 23 Jan 2020 19:19:37 +0100
+Content-Length: 4108
+
+<img alt='' src='http://tektites.tk/r.php?t=o&d=4343&l=1547&c=5246' width='1px' height='1px' style='visibility:hidden'/>
+
+<html>
+
+
+<body>
+  
+  <CENTER><A href="http://tektites.tk/r.php?t=c&d=4343&l=1547&c=5246"><font color=#0000FF face="Copperplate Gothic Light" size=6>bruce, You can sell your home faster in 2020? Here's how
+</font> <br><font color=#0000FF face="Copperplate Gothic Light" size=5></font></A></CENTER>
+
+<br>
+
+<br>
+
+<center><a href="http://tektites.tk/r.php?t=c&d=4343&l=1547&c=5246"><img src="https://i.imgur.com/280RS3F.gif"></a><p></p></center>
+<font face="arial" size="1"></center>
+ <br>
+<center><a href="http://tektites.tk/r.php?t=u&d=4343&l=1547&c=5246"><img src="https://i.imgur.com/QQQdfQb.jpg"></a><p></p></center>
+<font face="arial" size="1"></center>
+
+</body>
+<style type="text/css" media="all">
+
+##body
+{
+##background-##color: rgb(255,255,255);
+##color: rgb(54,29,109);
+font-family: Times New Roman, Times, serif;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-##color: rgb(130,109,174);
+}
+
+#content
+{
+font-size: 98%;
+##background-##color: rgb(255,255,255);
+##color: rgb(0,0,0);
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 10px 10px 10px 10px;
+border-##color: rgb(0,0,0);
+text-align: left;
+}
+
+#menu
+{
+##background-##color: rgb(255,255,255);
+##color: rgb(81,58,128);
+font-family: Times New Roman, Times, serif;
+font-style: italic;
+border-##color: rgb(255,255,255);
+}
+
+####.menuitem
+{
+font-size: 127%;
+##background-##color: rgb(255,255,255);
+##color: rgb(54,29,109);
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+margin-left: 6px; margin-right: 6px; margin-top: 6px; margin-bottom: 6px;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-##color: rgb(130,109,174);
+text-align: left;
+}
+
+#logo, #logo a
+{
+font-size: 169%;
+##background-##color: rgb(255,255,255);
+##color: rgb(80,38,170);
+font-family: Times New Roman, Times, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+font-weight: normal;
+padding: 4px 4px 4px 4px;
+border-##color: rgb(80,38,170);
+text-align: right;
+}
+
+#trail, #trail a
+{
+font-size: 97%;
+##background-##color: rgb(255,255,255);
+##color: rgb(46,18,104);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 0px 0px 0px 0px;
+border-##color: rgb(81,58,128);
+text-align: right;
+}
+
+#content a
+{
+##color: rgb(54,29,109);
+text-decoration: underline;
+}
+
+#content a:hover, #content a:active
+{
+##background-##color: rgb(54,29,109);
+##color: rgb(255,255,255);
+}
+
+######h1, h2, h3, h4, h5, h6
+{
+font-family: Times New Roman, Times, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+}
+
+
+
+#trail a
+{
+text-decoration: underline;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+######nuitem:hover
+{
+##background-##color: rgb(54,29,109);
+##color: rgb(255,255,255);
+}
+
+/* layout */
+####nuitem		{width: auto;}
+#content		{margin-left: 21%; width: auto}
+####ntainer		{ width: 1000px; margin-left:auto; margin-right:auto;}
+
+####edia print
+{{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}}
+
+    </style>
+</html>
+<span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://tektites.tk/opt.php?d=4343&l=1547&c=5246&em=f8f706c3938feec43d1f111ad3c0a047">here</a> to remove yourself from our emails list</span>

@@ -1,0 +1,62 @@
+Return-Path: <SRS0=4Pe7MV=27=lettad.date=national-family-life-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12181 invoked from network); 10 Jan 2020 15:58:18 -0000
+Received: (qmail 7333 invoked from network); 10 Jan 2020 15:58:17 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 15:58:17 -0000
+Received: (qmail 29909 invoked by uid 48516); 10 Jan 2020 15:58:17 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 17679 invoked from network); 10 Jan 2020 15:58:17 -0000
+Received: from mail.lettad.date ([89.144.1.199])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 10 Jan 2020 15:58:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=lettad.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=national-family-life@lettad.date;
+ bh=W4xjDsM2VmVE/KsHWYqKWGNe38Q=;
+ b=tlEk/TAORR3QnsRaekiKJlnHjjMGKlf4iiiFz14B43GzTXb5abrbnCoGy+kVS8buvRWbeA8MFYSh
+   o8wZvsjQ0b5i6XEFt/+FvR1IADfWsJ+ypPq0Oeou471DEADfGsDr0CMPPvGFJKWk5iZh2B16xHB8
+   waw/a3QDH0hHfvjs6Pw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=lettad.date;
+ b=q87pXAsGzsOggcNbvkk2H2jAyQeOuSzK6UdDtPDTER7ZdkYIhypLOpjghgwTkDA6iiwVqYmP/g+M
+   gExXgdfmnfK4208IuvikHnr1eX8E/CjYTfgxOgwKKDhLEG29i3gip2/uCVCuMFaYZNtNfPWzQ63i
+   4QN3NpZVFoz7C9s8sT8=;
+Received: by mail.lettad.date id h32fhi0001gd for <bruce@untroubled.org>; Fri, 10 Jan 2020 10:54:29 -0500 (envelope-from <national-family-life-bruce=untroubled.org@lettad.date>)
+Date: Fri, 10 Jan 2020 10:54:29 -0500
+From: "National Family Life" <national-family-life@lettad.date>
+To:   <bruce@untroubled.org>
+Subject: $1,000,000 Life Insurance Plans you can Afford
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_208_354729496.1578671657776"
+List-Unsubscribe: <http://www.lettad.date/mosaics-castigate/8a04d2395mHy8912B1P1_Zz3497V21rFv4GIf4rxvs4FhIHEsvZ8FRpndnen6N10kDs5qkc@Y>
+Message-ID: <0.0.0.17.1D5C7CE3E2E455E.66368A@mail.lettad.date>
+Content-Length: 3377
+
+------=_Part_208_354729496.1578671657776
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>asbestos</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; "><a href="http://www.lettad.date/5574V2395pgt8612ue9ablA3497O21lFv4GIf4rxvs4FhIHEsvZ8nRpndnen5h10Jh6zNBcY3/core-inalienable">Guatanteed covereage!</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; ">Access the right Life Plan for you at the BEST rates<br /> <a href="http://www.lettad.date/5574V2395pgt8612ue9ablA3497O21lFv4GIf4rxvs4FhIHEsvZ8nRpndnen5h10Jh6zNBcY3/core-inalienable"><img alt="" src="http://www.lettad.date/biconcave-strainer/9ae4g2395l7aGS11me9aeX3497k21aFv4GIf4rxvs4FhIHEsvZ8rRpndnen6QH10xA6F0cYTq" style="height: 994px; width: 603px; " /></a></span><br /> &nbsp; </p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; "><a href="http://www.lettad.date/5574V2395pgt8612ue9ablA3497O21lFv4GIf4rxvs4FhIHEsvZ8nRpndnen5h10Jh6zNBcY3/core-inalienable">Get a FREE Quote</a></span><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> &nbsp; </p> 
+   <center> 
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, Exit from future email <a href="http://www.lettad.date/cb94a2395fM86Y11Pe9acO3497g21JFv4GIf4rxvs4FhIHEsvZ8pRpndnen7y10mn_L5W3czY/biconcave-strainer"><font color="#666666">Here</font></a>.<br /> 4110 Mission Blvd #200 - San Diego, CA 92109</font></p> 
+    <div style="text-align: center; ">
+     <span style="font-size:12px; ">6547 N Academy Blvd #2128<br /> COLORADO SPRINGS CO 80918<br /> <span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.lettad.date/cf54q2395d8v9j11Fe9adm3497T21AFv4GIf4rxvs4FhIHEsvZ8jRpndnen6D1y0SB6dXcy@Y/Leavenworth-roomy">Stop email</a></span></span></span>
+    </div> 
+    <br /> &nbsp; 
+    <br /> &nbsp; 
+   </center> 
+  </center> <span></span><small></small><font lang="Sheldon"></font><small></small><style></style><big></big><style></style>  
+ <img src="http://www.lettad.date/revives-wearisome/6486F2N3J95Igs8513He9asfgm3497q21hFv4GIf4rxvs4FhIHEsvZ8kRpndnen6e1quY06tLcTBY" alt=""/></body>
+</html>
+
+------=_Part_208_354729496.1578671657776--
+

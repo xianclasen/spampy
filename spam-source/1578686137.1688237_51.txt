@@ -1,0 +1,128 @@
+Return-Path: <SRS0=EAxfRT=27=mail.surveysqribb.bid=6139-2982-85526-1648-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 5676 invoked from network); 10 Jan 2020 10:58:14 -0000
+Received: (qmail 5539 invoked from network); 10 Jan 2020 10:58:13 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 10:58:13 -0000
+Received: (qmail 31260 invoked by uid 48516); 10 Jan 2020 10:58:13 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 17162 invoked from network); 10 Jan 2020 10:58:13 -0000
+Received: from flint.surveysqribb.bid (atlux32s.atlantissign.press [170.130.172.196])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 10 Jan 2020 10:58:12 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=surveysqribb.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=VAHomeownerSavings@surveysqribb.bid;
+ bh=EZjJ5A+agJlL5wBkOd85WKHG1wk=;
+ b=z3A3FpMp7bAqY+3PJ+Bo8RhNNETOARrwqzn03V1BLO2OAl07oqh/4giivhqvxRieLh2kcwfolIJO
+   036X0kai2tmLOtFoUDSsSoEB3VEgS5qnAP5vzMMKjNmn22SvCpbyHJrrcKxrb1Ufyc0kmVog8EGP
+   tOfHRzh5eezBiRs6/Oc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=surveysqribb.bid;
+ b=advkdvl8PFO0ZtQkZf13wIZcFfEw+MNE3feGxlxa5LSuy5bETQYDmupH2BmuYIRbJPnJIOXLF7k3
+   sOP+qVA+m+M9zA/at6q9BIDmWQZkKCDViDzDjdbQ1u8uk0X8P6FKHKRyR3RcFivKp+GtSs4LKcSh
+   VSBh7T/jh7La10fyFgw=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="ad4f9f014d66baa66c4a012274e41728_ba6_14e16"
+Date: Fri, 10 Jan 2020 05:45:17 -0500
+From: "VA Homeowner Savings" <VAHomeownerSavings@surveysqribb.bid>
+Reply-To: "VA Relief Progra" <VAReliefProgram@surveysqribb.bid>
+Subject: Expanded service member benefits available for you.
+To: <bruce@untroubled.org>
+Message-ID: <fxn9ltxim1bu7kkx-h4qu9x4nrp3ai8xc-ba6-14e16@surveysqribb.bid>
+Content-Length: 11165
+
+--ad4f9f014d66baa66c4a012274e41728_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Expanded service member benefits available for you.
+
+http://surveysqribb.bid/rZHDD5xEv9qj-_l2i4QPUZcJ6-OK7S02U3cci5g-3TnskmR2
+
+http://surveysqribb.bid/H0BTkozIXoDB9imVFGvkxdRaTt8S-TM5MKS_hmj31Y932wBY
+
+Some of the original websites that Microsoft launched during that era remain active in some form today. Microsoft Investor, a business news and investments service that was once produced in conjunction with CNBC, is now MSN Money; CarPoint, an automobile comparison and shopping service, is now MSN Autos; and the Internet Gaming Zone, a website offering online casual games, is now MSN Games. Other websites since divested by Microsoft include the travel website Expedia, the online magazine Slate, and the local event and city search website Sidewalk.com.
+
+
+The former MSN 'butterfly' logo used from 2000 to 2009. MSN Dial-up continued to use this logo until 2016.
+In the late 1990s, Microsoft collaborated with many other service providers, as well as other Microsoft departments, to expand the range of MSN's services. Some examples include MSN adCenter, MSN Shopping (affiliated with eBay, PriceGrabber and Shopping.com), and the Encarta encyclopedia with various levels of access to information.
+
+Since then, MSN.com has remained a popular destination, launching many new services and content sites. MSN's Hotmail and Messenger services were promoted from the MSN.com portal, which provided a central place for all of MSN's content. MSN Search (now Bing), a dedicated search engine, launched in 1999. The single sign-in service for Microsoft's online services, Microsoft Passport (now Microsoft account), also launched across all MSN services in 1999. The MSN.com portal and related group of services under the 'MSN' umbrella remained largely the same in the early 2000s.
+
+The sports section of the MSN portal was ESPN.com from 2001 to 2004, and FoxSports.com from 2004 to 2014. MSN had an exclusive partnership with msnbc.com for news content from 1996 until 2012, when Microsoft sold its remaining stake in msnbc.com to NBCUniversal and the website was renamed NBCNews.com. Since then, MSN has launched 'MSN News', an in-house news operation.
+
+As of May 2005, MSN.com was the second most visited portal websites in the United States with a share of 23.2 percent, behind Yahoo! which held a majority.
+
+
+The former MSN 'butterfly' logo used from 2009 to 2014. ninemsn continued to use this logo until 2016.
+MSN released a preview of an updated home page and logo on November 3, 2009. It was originally expected to be widely available to over 100 million U.S. customers by early 2010. MSN rolled out the newer logo, together with a redesign of the overall website, on December 25, 2009.
+
+In 2012, MSN announced on its blog that it would be unveiling a new version of the MSN.com home page on October 26, exclusively for Windows 8, saying that the new version would be "clean, simple, and built for touch." Microsoft said it would be more app-like due to the speed of Internet Explorer 10. More new features included 'Flip Ahead', which allowed users to swipe from one article to the next. MSN for Windows 8 also had new deals with the AP and Reuters.
+
+When the AP was founded, news became a salable commodity. The invention of the rotary press allowed the New-York Tribune in the 1870s to print 18,000 papers per hour. During the Civil War and Spanish–American War, there was a new incentive to print vivid, on-the-spot reporting. Melville Stone, who had founded the Chicago Daily News in 1875, served as AP General Manager from 1893 to 1921. He embraced the standards of accuracy, impartiality, and integrity. The cooperative grew rapidly under the leadership of Kent Cooper (served 1925–48), who built up bureau staff in South America, Europe and (after World War II), the Middle East. He introduced the "telegraph typewriter" or teletypewriter into newsrooms in 1914. In 1935, AP launched the Wirephoto network, which allowed transmission of news photographs over leased private telephone lines on the day they were taken. This gave AP a major advantage over other news media outlets. While the first network was only between New York, Chicago, and San Francisco, eventually AP had its network across the whole United States.
+
+In 1945, the Supreme Court of the United States held in Associated Press v. United States that the AP had been violating the Sherman Antitrust Act by prohibiting member newspapers from selling or providing news to nonmember organizations as well as making it very difficult for nonmember newspapers to join the AP. The decision facilitated the growth of its main rival United Press International, headed by Hugh Baillie from 1935 to 1955.
+
+--ad4f9f014d66baa66c4a012274e41728_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<center><a href="http://surveysqribb.bid/rZHDD5xEv9qj-_l2i4QPUZcJ6-OK7S02U3cci5g-3TnskmR2"><img src="http://surveysqribb.bid/79a28de8edff7916f7.jpg" /></a><br />
+&nbsp;
+<h2>Verification Status:<a href="#"> Pending</a></h2>
+<br />
+Many Veteran homeowners are now exploring additional benefits that are newly<br />
+available. These VA homeowner benefits are already helping millions of Veterans<br />
+and their families, and we believe they could be beneficial to you as well.<br />
+&nbsp;
+<hr style="width:500px;" /><br />
+Please confirm your residential information to see what benefits you may be entitled to:<br />
+&nbsp;
+<div style="border:1px solid #000; width:500px;padding:40px;background-color:#FFFEE4;">
+<h3>Residential Information:</h3>
+&nbsp;
+
+<div style="padding:15px;background-color:#3C3CA5;color:#fff;width:200px;font-weight:bold; border-radius:10px;"><a href="http://surveysqribb.bid/rZHDD5xEv9qj-_l2i4QPUZcJ6-OK7S02U3cci5g-3TnskmR2"><span style="color:#FFFFE0;">Confirm Details</span> </a></div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://surveysqribb.bid/_eEDGpKGJsGQ_SBEJvq4NGNlO9zzdwVEInlghRg5MGnO83hS"><img src="http://surveysqribb.bid/127b67af12cee86dc8.png" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;</center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://surveysqribb.bid/H0BTkozIXoDB9imVFGvkxdRaTt8S-TM5MKS_hmj31Y932wBY" target="_blank"><img src="http://surveysqribb.bid/feafebe903fb7585a9.jpg" /></a></center>
+<span style="color:#FFFFFF;">Some of the original websites that Microsoft launched during that era remain active in some form today. Microsoft Investor, a business news and investments service that was once produced in conjunction with CNBC, is now MSN Money; CarPoint, an automobile comparison and shopping service, is now MSN Autos; and the Internet Gaming Zone, a website offering online casual games, is now MSN Games. Other websites since divested by Microsoft include the travel website Expedia, the online magazine Slate, and the local event and city search website Sidewalk.com. The former MSN &#39;butterfly&#39; logo used from 2000 to 2009. MSN Dial-up continued to use this logo until 2016. In the late 1990s, Microsoft collaborated with many other service providers, as well as other Microsoft departments, to expand the range of MSN&#39;s services. Some examples include MSN adCenter, MSN Shopping (affiliated with eBay, PriceGrabber and Shopping.com), and the Encarta encyclopedia with various levels of access to information. Since then, MSN.com has remained a popular destination, launching many new services and content sites. MSN&#39;s Hotmail and Messenger services were promoted from the MSN.com portal, which provided a central place for all of MSN&#39;s content. MSN Search (now Bing), a dedicated search engine, launched in 1999. The single sign-in service for Microsoft&#39;s online services, Microsoft Passport (now Microsoft account), also launched across all MSN services in 1999. The MSN.com portal and related group of services under the &#39;MSN&#39; umbrella remained largely the same in the early 2000s. The sports section of the MSN portal was ESPN.com from 2001 to 2004, and FoxSports.com from 2004 to 2014. MSN had an exclusive partnership with msnbc.com for news content from 1996 until 2012, when Microsoft sold its remaining stake in msnbc.com to NBCUniversal and the website was renamed NBCNews.com. Since then, MSN has launched &#39;MSN News&#39;, an in-house news operation. As of May 2005, MSN.com was the second most visited portal websites in the United States with a share of 23.2 percent, behind Yahoo! which held a majority. The former MSN &#39;butterfly&#39; logo used from 2009 to 2014. ninemsn continued to use this logo until 2016. MSN released a preview of an updated home page and logo on November 3, 2009. It was originally expected to be widely available to over 100 million U.S. customers by early 2010. MSN rolled out the newer logo, together with a redesign of the overall website, on December 25, 2009. In 2012, MSN announced on its blog that it would be unveiling a new version of the MSN.com home page on October 26, exclusively for Windows 8, saying that the new version would be &quot;clean, simple, and built for touch.&quot; Microsoft said it would be more app-like due to the speed of Internet Explorer 10. More new features included &#39;Flip Ahead&#39;, which allowed users to swipe from one article to the next. MSN for Windows 8 also had new deals with the AP and Reuters. When the AP was founded, news became a salable commodity. The invention of the rotary press allowed the New-York Tribune in the 1870s to print 18,000 papers per hour. During the Civil War and Spanish&ndash;American War, there was a new incentive to print vivid, on-the-spot reporting. Melville Stone, who had founded the Chicago Daily News in 1875, served as AP General Manager from 1893 to 1921. He embraced the standards of accuracy, impartiality, and integrity. The cooperative grew rapidly under the leadership of Kent Cooper (served 1925&ndash;48), who built up bureau staff in South America, Europe and (after World War II), the Middle East. He introduced the &quot;telegraph typewriter&quot; or teletypewriter into newsrooms in 1914. In 1935, AP launched the Wirephoto network, which allowed transmission of news photographs over leased private telephone lines on the day they were taken. This gave AP a major advantage over other news media outlets. While the first network was only between New York, Chicago, and San Francisco, eventually AP had its network across the whole United States. In 1945, the Supreme Court of the United States held in Associated Press v. United States that the AP had been violating the Sherman Antitrust Act by prohibiting member newspapers from selling or providing news to nonmember organizations as well as making it very difficult for nonmember newspapers to join the AP. The decision facilitated the growth of its main rival United Press International, headed by Hugh Baillie from 1935 to 1955. </span></body>
+</html>
+
+--ad4f9f014d66baa66c4a012274e41728_ba6_14e16--

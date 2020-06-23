@@ -1,0 +1,84 @@
+Return-Path: <7183-2982-85526-1907-bruce=untroubled.org@mail.harddayy.buzz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11552 invoked from network); 28 Jan 2020 14:31:32 -0000
+Received: (qmail 40043 invoked by uid 222); 28 Jan 2020 14:31:30 -0000
+Return-Path: <7183-2982-85526-1907-bruce=untroubled.org@mail.harddayy.buzz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 40026 invoked from network); 28 Jan 2020 14:31:26 -0000
+Received: from chula.harddayy.buzz ([170.130.174.57])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 28 Jan 2020 14:31:26 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=harddayy.buzz;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=BlessingsonDemand@harddayy.buzz;
+ bh=nQzGMTTkwTmiH8bXCneT7cGBz5U=;
+ b=MNHDctEEcb3c/RiMuucHSy5NDjUQEIFJRbJBKaLvjFkYo78MSIR8Hgv6xzPoKAk62JoWp1G661ph
+   kNEIymNsbaXQDreqNCuR1aj+RpcwUUwsAwjqrKRnXpy38+BJwuHpM6OtUWd9oQSASl3laZ6Vw0P9
+   mmTzpVIUed1SxgEdsUs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=harddayy.buzz;
+ b=plL1JIZQ4N8wpIKMehRVXwETnGA6Tcd39eBso/VHaq4BRzdM0J3AYub5/AcoED26r5CDaHh46FZI
+   fWF5SvsOqzW3YcN+5covEezjdrbR8s+mpryrosWCGdOcparUtd8P/wqw1LZW92ZXA9D8N4iSOe4W
+   nYEWcU/0ghVmwPotIpU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="bf33110ea6afc94330978ef742d57254_ba6_14e16"
+Date: Tue, 28 Jan 2020 09:30:25 -0500
+From: "Blessings on Demand" <BlessingsonDemand@harddayy.buzz>
+Reply-To: "7 Day Prayer Miracle" <7DayPrayerMiracle@harddayy.buzz>
+Subject: Archangel Michael Will Fight for You
+To: <bruce@untroubled.org>
+Message-ID: <f9m2g5sar5kmks6i-rz53qyhz5g5ecau0-ba6-14e16@harddayy.buzz>
+Content-Length: 5894
+
+--bf33110ea6afc94330978ef742d57254_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Archangel Michael Will Fight for You
+
+http://harddayy.buzz/3EtSzp5IJ3sbegDjMHc_VPXHf4qTWm_nGRZOcc-kT-JVsAX4
+
+http://harddayy.buzz/tI9gjo59o7AqOiRmbNg6H49mdA41H-ieWaoJaV9vBSCrqEwW
+
+Executive authority is vested in the Governor of New South Wales, who represents and is appointed by Elizabeth II, Queen of Australia. The current Governor is Margaret Beazley. The Governor commissions as Premier the leader of the parliamentary political party that can command a simple majority of votes in the Legislative Assembly. The Premier then recommends the appointment of other Members of the two Houses to the Ministry, under the principle of responsible or Westminster government. As in other Westminster systems, there is no constitutional requirement in NSW for the Government to be formed from the Parliament&mdash;merely convention. The Premier is Gladys Berejiklian of the Liberal Party. Constitution The form of the Government of New South Wales is prescribed in its Constitution, dating from 1856 and currently the Constitution Act 1902 (NSW). Since 1901 New South Wales has been a state of the Commonwealth of Australia, and the Australian Constitution regulates its relationship with the Commonwealth. In 2006, the Constitution Amendment Pledge of Loyalty Act 2006 No 6, was enacted to amend the NSW Constitution Act 1902 to require Members of the New South Wales Parliament and its Ministers to take a pledge of loyalty to Australia and to the people of New South Wales instead of swearing allegiance to Elizabeth II her heirs and successors, and to revise the oaths taken by Executive Councillors. The Pledge of Loyalty Act was officially assented to by the Queen on 3 April 2006. The option to swear allegiance to the Queen was restored as an alternative option in June 2012. Under the Australian Constitution, New South Wales ceded certain legislative and judicial powers to the Commonwealth, but retained independence in all other areas. The New South Wales Constitution says: &quot;The Legislature shall, subject to the provisions of the Commonwealth of Australia Constitution Act, have power to make laws for the peace, welfare, and good government of New South Wales in all cases whatsoever
+
+--bf33110ea6afc94330978ef742d57254_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://harddayy.buzz/_Bsukl0B-6g_o6cqFN3DkQOz8nM4zMvZ_chYANAN6LCGJKmE"><img src="http://harddayy.buzz/faaee4b20789bb099c.jpg" /><img height="1" src="http://www.harddayy.buzz/YUkKIND6QzLf9OQZAcNKoylu-F9ja9cFomq7QSHRbAR3FLNy" width="1" /></a>
+<div style="width:500px; padding:10px;font-family:Arial;"><br />
+Archangel Michael is God&rsquo;s favorite messenger, and he has an encouraging word from heaven for you.<br />
+<br />
+<a href="http://harddayy.buzz/3EtSzp5IJ3sbegDjMHc_VPXHf4qTWm_nGRZOcc-kT-JVsAX4" style="color:red;">To read it, go here:</a><br />
+<br />
+You&rsquo;re about to be incredibly blessed.<br />
+<br />
+Archangel Michael is known as the angel of deliverance. He&rsquo;s here to protect you from the harms of this world. And he wants to lift you out of your trouble and embrace you into his loving arms.<br />
+<br />
+<a href="http://harddayy.buzz/3EtSzp5IJ3sbegDjMHc_VPXHf4qTWm_nGRZOcc-kT-JVsAX4" style="color:#1700ef;">Click here to experience the miracles of Archangel Michael to unfold for you:</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<a href="http://harddayy.buzz/BeBZhCDU8RTnVQk9L4ZpLaKsJtbi_uJAK1BXlHxSntJGkhlK"><img src="http://harddayy.buzz/06188831673bbfdcf3.jpg" /></a><br />
+<br />
+&nbsp;
+<p style="color:#FFFFFF;font-size:3px;">Executive authority is vested in the Governor of New South Wales, who represents and is appointed by Elizabeth II, Queen of Australia. The current Governor is Margaret Beazley. The Governor commissions as Premier the leader of the parliamentary political party that can command a simple majority of votes in the Legislative Assembly. The Premier then recommends the appointment of other Members of the two Houses to the Ministry, under the principle of responsible or Westminster government. As in other Westminster systems, there is no constitutional requirement in NSW for the Government to be formed from the Parliament&mdash;merely convention. The Premier is Gladys Berejiklian of the Liberal Party. Constitution The form of the Government of New South Wales is prescribed in its Constitution, dating from 1856 and currently the Constitution Act 1902 (NSW). Since 1901 New South Wales has been a state of the Commonwealth of Australia, and the Australian Constitution regulates its relationship with the Commonwealth. In 2006, the Constitution Amendment Pledge of Loyalty Act 2006 No 6, was enacted to amend the NSW Constitution Act 1902 to require Members of the New South Wales Parliament and its Ministers to take a pledge of loyalty to Australia and to the people of New South Wales instead of swearing allegiance to Elizabeth II her heirs and successors, and to revise the oaths taken by Executive Councillors. The Pledge of Loyalty Act was officially assented to by the Queen on 3 April 2006. The option to swear allegiance to the Queen was restored as an alternative option in June 2012. Under the Australian Constitution, New South Wales ceded certain legislative and judicial powers to the Commonwealth, but retained independence in all other areas. The New South Wales Constitution says: &quot;The Legislature shall, subject to the provisions of the Commonwealth of Australia Constitution Act, have power to make laws for the peace, welfare, and good government of New South Wales in all cases whatsoever</p>
+</body>
+</html>
+
+--bf33110ea6afc94330978ef742d57254_ba6_14e16--

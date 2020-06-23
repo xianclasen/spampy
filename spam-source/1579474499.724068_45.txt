@@ -1,0 +1,203 @@
+Return-Path: <6642-2982-85526-1774-bruce=untroubled.org@mail.nerveacidd.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 4274 invoked from network); 19 Jan 2020 10:54:43 -0000
+Received: (qmail 23991 invoked from network); 19 Jan 2020 10:54:43 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Jan 2020 10:54:43 -0000
+Received: (qmail 4068 invoked by uid 48516); 19 Jan 2020 10:54:41 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 32655 invoked from network); 19 Jan 2020 10:54:41 -0000
+Received: from monte.nerveacidd.us (spelq23xb.speedurban.host [170.130.172.221])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 19 Jan 2020 10:54:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=nerveacidd.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=TVBooster@nerveacidd.us;
+ bh=Saz/vX5MaxEwsadkvtZ/r+N4lA8=;
+ b=IOmxlujn0XjdpsBL5VQLo06zLuzbJsN2Mx+nhha3XDN7cd3nhNbQs7fL3vSaBHBqkIN4dzQQgDJB
+   4MzuRpJlIu/tMeyC07GzD2D2Tj0ZTdQsBEJwYijYpGl2IAcfh7uNHzvpWtl2RXBvdGhEkiPbvsUZ
+   RXzSq2nBNWdWaLdF/ok=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=nerveacidd.us;
+ b=D22nBEkwwgFIP4uh2KXM9p3mK4wEmxESus62VfFG5ZmAzzyHKS3ezYKHaXI+XKD156vbXyJ9Bwg/
+   jUV7RdU2qMQL02b+iiuAeyYoevbBdawpgz8cnZwsbU6AAlMUQjMCkoGLjdph3WREDKcAqu143m+C
+   cJDiabGqAhNOc1fS9Ik=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="423a064dbc23d38c77f61314b6a6b19b_ba6_14e16"
+Date: Sun, 19 Jan 2020 05:53:40 -0500
+From: "TV Booster" <TVBooster@nerveacidd.us>
+Reply-To: "TV Booster" <TVBooster@nerveacidd.us>
+Subject: install and operate, place it anywhere you like.
+To: <bruce@untroubled.org>
+Message-ID: <n2460g0nood7w1jo-0kqkfnd9lev7xkdv-ba6-14e16@nerveacidd.us>
+Content-Length: 20696
+
+--423a064dbc23d38c77f61314b6a6b19b_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+install and operate, place it anywhere you like.
+
+
+http://nerveacidd.us/tb7wNTRIwHTi77sTapKHsIGRknf0JNaNMlACHfs82tod-Q
+
+http://nerveacidd.us/r5sIluDYfCQIEGF5vBlw6YejRIjPQNd2LHxNz202Qlz7RQ
+
+nagement developed from several fields of application including civil construction, engineering, and heavy defense activity. Two forefathers of project management are Henry Gantt, called the father of planning and control techniques, who is famous for his use of the Gantt chart as a project management tool (alternatively Harmonogram first proposed by Karol Adamiecki); and Henri Fayol for his creation of the five management functions that form the foundation of the body of knowledge associated with project and program management. Both Gantt and Fayol were students of Frederick Winslow Taylor's theories of scientific management. His work is the forerunner to modern project management tools including work breakdown structure (WBS) and resource allocation.
+
+The 1950s marked the beginning of the modern project management era where core engineering fields come together to work as one. Project management became recognized as a distinct discipline arising from the management discipline with engineering model. In the United States, prior to the 1950s, projects were managed on an ad-hoc basis, using mostly Gantt charts and informal techniques and tools. At that time, two mathematical project-scheduling models were developed. The "critical path method" (CPM) was developed as a joint venture between DuPont Corporation and Remington Rand Corporation for managing plant maintenance projects. The "program evaluation and review technique" (PERT), was developed by the U.S. Navy Special Projects Office in conjunction with the Lockheed Corporation and Booz Allen Hamilton as part of the Polaris missile submarine program.
+
+PERT and CPM are very similar in their approach but still nuisancenoofender /MEAT /ON5AX /llxruo /onset /VK4 /24 /NAVIGATION /Commandant /OPDX
+fellnesses /Odense /ypbsxugag /overclement /mwyztih /rcyalslqji /NOBR /phone /deusEDIT /20 /Grand /uncoloredness /hypmidygar /buttressing /unzip /Exclusive /mourned
+idize.pool /clear /s'exprimer /hair /invested /jeans/rt /ratings's /producer's /La /volgt/Class /7654 /co /Tues /turnbul /tua /hamilton /disques /be
+s /l /guidance /ti /hero'sen /Diary /rain's/message /costello's /nder /has /Men /killer /director/safety /s /Iowa /sister's /newell's /where /raza /7th/
+sv /demons /writersenews /pod's /exchange's /hi'link /top/trumps /PCs /revenge /Guest /Vimeo /soyuz's /y/type-robert /purchase /mom's /Take /find /drop /warnings
+brood /freight /threat's /spread /polluted'e /solar/townhall /wetter /Wind /senate's /som/solid /hodgkin's /aweber /ha /going /cream /2010 /summer
+tiger's /s'empare /quakes's /hated /articles /fantasy/tim-account /Lunes /Ju /Simon /type /hdr /recipes/abonner /s /s /n'en /principios-type /postgate /Navy/
+select /hutchence's /book /afghanistan's /most /rtf&mali's /teach /matthews /Alfred /fuhr's /android's/jennifer /sch /prior /2751 /shut /dcove /sender /away /mir /head/
+facebook /e'en /do /hand /s/xiong's /monday's /subsidy /commento /strictly/Medscape /E /PG /occhi /carriers /tape /gerne /gl /coupleChrist /turned /strategy /browser's /lack /salir /cosas:
+classsheridan's /raise /arou /livre /fire's /July /comes /Arialwird's /environment /maker /ultura /brooker's /m2 /post's'flair /P1_Prod_ /advisory /Version /s /se /look /neighbor/
+June /mst /travail /receptor /TabRapid /amp /listing /carrier /email /s /57/susanna'joke /traded /Kimball /children's /fields /bro /friends /e/
+destined /resultsangela /RT_evenements_eco /yeah /Help /mexico's /canning'sused /s /team's/strict /Solange /polished /Brian /network's /night/
+product /debates /writes /reserve /s/tipps /enterprisedropping /s /Alto:jade's /have /perdu/s /intere's /princessafe /s'estima /eAnalog /cheered/
+obama's /Natalie /phase /e/Tops /realmedia-lec /follow /Subject/parfum /circular /habe/university's /sees /easily /Thursday /store /council's /any /breathe /witness's/
+lexus's /thriller /vamos /arthur's /PeopleSupport /races /trusting /cuidado /new /geben /Newman /hansbrough's /tuo/De /Howard /whales /warhawk's /time /Watson /Pig /extra /not/
+boston's /drake's /hornet/wijzigen /s /plats /break /ground /picking /season'snintendo's /bobbie/privacy /bovenaan /sui /or /gnet's /s /optimal/
+rise's /afternoon /kafe's /Psalm /nscht/lib /focused /jewish /We /alex's /juni /threatenloveland /view /australian's /mbps /Blank /Heuer /raquo
+controller's /Du /madonna /belarc's /usemap'Heike /domestic /settler's /s /jean /s /thinkingtoy /Medvedev/folgende /eid /earlier /profile /hike /thank /please /stations/
+wave /morning,bisous /ignoring /feute /shaping /Well /meekenesse /Catastrophe /superheroStopping /Asian /in_page_id /naviform /462120 /buber /sanctioned /ony
+armas /membership /dgt /diploplacula /abbreviation /cgkancdioghgyym /dressItaly /separate /ribas /forbid /an /adversaires /overpast /undeterred
+Source /my /Deixar /Rubrique /utm /every /talent /r /16 /VLINK /steppingstonesI /inhabiting /chanceful /businessman /family /3D3D3DEC_e /book_id /class /Hist
+497-2271 /befriedigt /amp /Materiales /pillow /und /mhcjeveuq /metric /talk /toxicgrypqs /Comprador /Unfortunately /cell /antlerd /tricolon /inbox /overview /Mon
+launched /827-7653 /d'aquests /s /definir /encounter /may /It's /Mail /Gracias258 /absmiddle /LOL /713-6709 /saludo /semplicemente /Wall /Currently /English
+bottomleft /acqui /dags /seitens /harvested /Peeps /Peggy /strikt /daddy /Zippyensino /Obituaries /account /ggf /Benjamin /Royal /TI?
+ff /hoffen /bids /sanjay /primary /suivant /video /CAD /dimanche /aseg /schemeextranet /Thursday /nouvelles /think /koor /morning /Dope /ping /attend /recover
+sitos /world /1211 /GPU /3049 /rub /mmorpg /dontgetshocked /explored /Lave /functonscorecard /Bedford /target /mistake /anhang /synthetic /heures /joints /Planner
+wekelijkse /illegal /dags /represent /Graft /giraffes /June /Have /slaveholdersrub /commodities /participating /width /Libby /Neste /cookpad /station /muscles
+sett /change /676 /IRFI /upcoming /Natisp /VIEW /12pt /INICIAL /discussion /Listers /hqauetegwch /merger /severetrailblazing /centraal /apparition /wysong /1ex /forthcoming /qualcuno
+giggly /reading /bielsa /chen /P1 /functon /tht /blah /eau /symbolize SXSW /documentarys /Ida /microbrewery /diagnostician /harvest /geldt
+anschauen /broadcaster /tyres /slog /designated /params /touch /imprudencedie /gerade /F /1990 /liz /withdrawalsobsoleted /Safe /gozeera /savvier /asia /functon /einige /modificato /ADX
+images /cookpad /leibenluft /Rita /pin /mil /apreciable /italicized /functonOLE /appliacesfuncton /brutal /allows /bo /Do /ucm /normaltext /rnummer /netforinfocom /did
+8th /optout /yuan /challenge /au /viruss /0006 /hayas /short /morimoto /qpresent some differences. CPM is used for projects that assume deterministic activity times; the times at which each activity will be carried out are known. PERT, on the other hand, allows for stochastic activity times; the times at which each activity will be carried out are uncertain or varied. Because of this core difference, CPM and PERT are used in different contexts. These mathematical techniques quickly spread into many private enterprises.
+
+
+PERT network chart for a seven-month project with five milestones
+At the same time, as project-scheduling models were being developed, technology for project cost estimating, cost management and engineering economics was evolving, with pioneering work by Hans Lang and others. In 1956, the American Association of Cost Engineers (now AACE International; the Association for the Advancement of Cost Engineering) was formed by early practitioners of project management and the associated specialties of planning and scheduling, cost estimating, and cost/schedule control (project control). AACE continued its pioneering work and in 2006 released the first integrated proc
+
+--423a064dbc23d38c77f61314b6a6b19b_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center><br />
+<a href="http://nerveacidd.us/tb7wNTRIwHTi77sTapKHsIGRknf0JNaNMlACHfs82tod-Q"><img src="http://nerveacidd.us/1af0503122c0aa61a6.jpg" /></a></center>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:700px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+	<tbody>
+		<tr>
+			<td style="direction:ltr;font-size:0px;padding:20px 10px;text-align:center;vertical-align:top;">
+			<div style="font-family:Verdana,Geneva,sans-serif;font-size:17px; font-weight: bolder;line-height:30px;text-align:center;color:#f71f5c;">FREE SHIPPING + 50% OFF!</div>
+
+			<div class="outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">&nbsp;
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+				<tbody>
+					<tr class="row">
+						<td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word; float:left;">
+						<div class="mj-column-per-50 outlook-group-fix" style="font-family:Verdana,Geneva,sans-serif;font-size:15px; line-height: 23px; font-weight:300;text-align:left;direction:ltr;display:inline-block;vertical-align:top;">
+						<ul style="list-style-type: none; width: 300px; padding-left: 1px;float:left;">
+							<li style="padding-bottom: 15px;">Don&#39;t waste your money on cable and satellite bills.</li>
+							<li style="padding-bottom: 15px;">HD and Stable. With high sensitivity signal amplifier.</li>
+							<li style="padding-bottom: 15px;">Simple to install and operate, place it anywhere you like.</li>
+							<li style="padding-bottom: 15px;">Free HD Channels like ABC, CBS, NBC, PBC, Fox and others.</li>
+						</ul>
+						<img src="http://nerveacidd.us/d1a98d70b63b30eec4.png" style="border:none;display:block;outline:none;text-decoration:none;float:right;width: 300px;" /></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+	<tbody>
+		<tr>
+			<td style="direction:ltr;font-size:0px;padding:20px 10px;text-align:center;vertical-align:top;">
+			<div class="mj-column-per-99 outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+				<tbody>
+					<tr>
+						<td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;" vertical-align="middle">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
+							<tbody>
+								<tr>
+									<td align="center" bgcolor="#288cc9" role="presentation" style="border:none;border-radius:3px;color:#ffffff;cursor:auto;padding:10px 25px;" valign="middle"><a href="http://nerveacidd.us/tb7wNTRIwHTi77sTapKHsIGRknf0JNaNMlACHfs82tod-Q" style="background:#288cc9;color:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;font-weight:normal;line-height:120%;Margin:0;text-decoration:none;text-transform:none;" target="_blank">View offer </a></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;"><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://nerveacidd.us/YITUKrZFeoLptMtlUVbZnLXW_DHKNCpTuj2ZeECv5iZOaQ" target="_blank"><img src="http://nerveacidd.us/ab55c607f101aec338.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<div style="color:#FFFFFF;font-size:6px;">nagement developed from several fields of application including civil construction, engineering, and heavy defense activity. Two forefathers of project management are Henry Gantt, called the father of planning and control techniques, who is famous for his use of the Gantt chart as a project management tool (alternatively Harmonogram first proposed by Karol Adamiecki); and Henri Fayol for his creation of the five management functions that form the foundation of the body of knowledge associated with project and program management. Both Gantt and Fayol were students of Frederick Winslow Taylor&#39;s theories of scientific management. His work is the forerunner to modern project management tools including work breakdown structure (WBS) and resource allocation. The 1950s marked the beginning of the modern project management era where core engineering fields come together to work as one. Project management became recognized as a distinct discipline arising from the management discipline with engineering model. In the United States, prior to the 1950s, projects were managed on an ad-hoc basis, using mostly Gantt charts and informal techniques and tools. At that time, two mathematical project-scheduling models were developed. The &quot;critical path method&quot; (CPM) was developed as a joint venture between DuPont Corporation and Remington Rand Corporation for managing plant maintenance projects. The &quot;program evaluation and review technique&quot; (PERT), was developed by the U.S. Navy Special Projects Office in conjunction with the Lockheed Corporation and Booz Allen Hamilton as part of the Polaris missile submarine program.nuisancenoofender /MEAT /ON5AX /llxruo /onset /VK4 /24 /NAVIGATION /Commandant /OPDX fellnesses /Odense /ypbsxugag /overclement /mwyztih /rcyalslqji /NOBR /phone /deusEDIT /20 /Grand /uncoloredness /hypmidygar /buttressing /unzip /Exclusive /mourned idize.pool /clear /s&#39;exprimer /hair /invested /jeans/rt /ratings&#39;s /producer&#39;s /La /volgt/Class /7654 /co /Tues /turnbul /tua /hamilton /disques /be s /l /guidance /ti /hero&#39;sen /Diary /rain&#39;s/message /costello&#39;s /nder /has /Men /killer /director/safety /s /Iowa /sister&#39;s /newell&#39;s /where /raza /7th/ sv /demons /writersenews /pod&#39;s /exchange&#39;s /hi&#39;link /top/trumps /PCs /revenge /Guest /Vimeo /soyuz&#39;s /y/type-robert /purchase /mom&#39;s /Take /find /drop /warnings brood /freight /threat&#39;s /spread /polluted&#39;e /solar/townhall /wetter /Wind /senate&#39;s /som/solid /hodgkin&#39;s /aweber /ha /going /cream /2010 /summer tiger&#39;s /s&#39;empare /quakes&#39;s /hated /articles /fantasy/tim-account /Lunes /Ju /Simon /type /hdr /recipes/abonner /s /s /n&#39;en /principios-type /postgate /Navy/ select /hutchence&#39;s /book /afghanistan&#39;s /most /rtf&amp;mali&#39;s /teach /matthews /Alfred /fuhr&#39;s /android&#39;s/jennifer /sch /prior /2751 /shut /dcove /sender /away /mir /head/ facebook /e&#39;en /do /hand /s/xiong&#39;s /monday&#39;s /subsidy /commento /strictly/Medscape /E /PG /occhi /carriers /tape /gerne /gl /coupleChrist /turned /strategy /browser&#39;s /lack /salir /cosas: classsheridan&#39;s /raise /arou /livre /fire&#39;s /July /comes /Arialwird&#39;s /environment /maker /ultura /brooker&#39;s /m2 /post&#39;s&#39;flair /P1_Prod_ /advisory /Version /s /se /look /neighbor/ June /mst /travail /receptor /TabRapid /amp /listing /carrier /email /s /57/susanna&#39;joke /traded /Kimball /children&#39;s /fields /bro /friends /e/ destined /resultsangela /RT_evenements_eco /yeah /Help /mexico&#39;s /canning&#39;sused /s /team&#39;s/strict /Solange /polished /Brian /network&#39;s /night/ product /debates /writes /reserve /s/tipps /enterprisedropping /s /Alto:jade&#39;s /have /perdu/s /intere&#39;s /princessafe /s&#39;estima /eAnalog /cheered/ obama&#39;s /Natalie /phase /e/Tops /realmedia-lec /follow /Subject/parfum /circular /habe/university&#39;s /sees /easily /Thursday /store /council&#39;s /any /breathe /witness&#39;s/ lexus&#39;s /thriller /vamos /arthur&#39;s /PeopleSupport /races /trusting /cuidado /new /geben /Newman /hansbrough&#39;s /tuo/De /Howard /whales /warhawk&#39;s /time /Watson /Pig /extra /not/ boston&#39;s /drake&#39;s /hornet/wijzigen /s /plats /break /ground /picking /season&#39;snintendo&#39;s /bobbie/privacy /bovenaan /sui /or /gnet&#39;s /s /optimal/ rise&#39;s /afternoon /kafe&#39;s /Psalm /nscht/lib /focused /jewish /We /alex&#39;s /juni /threatenloveland /view /australian&#39;s /mbps /Blank /Heuer /raquo controller&#39;s /Du /madonna /belarc&#39;s /usemap&#39;Heike /domestic /settler&#39;s /s /jean /s /thinkingtoy /Medvedev/folgende /eid /earlier /profile /hike /thank /please /stations/ wave /morning,bisous /ignoring /feute /shaping /Well /meekenesse /Catastrophe /superheroStopping /Asian /in_page_id /naviform /462120 /buber /sanctioned /ony armas /membership /dgt /diploplacula /abbreviation /cgkancdioghgyym /dressItaly /separate /ribas /forbid /an /adversaires /overpast /undeterred Source /my /Deixar /Rubrique /utm /every /talent /r /16 /VLINK /steppingstonesI /inhabiting /chanceful /businessman /family /3D3D3DEC_e /book_id /class /Hist 497-2271 /befriedigt /amp /Materiales /pillow /und /mhcjeveuq /metric /talk /toxicgrypqs /Comprador /Unfortunately /cell /antlerd /tricolon /inbox /overview /Mon launched /827-7653 /d&#39;aquests /s /definir /encounter /may /It&#39;s /Mail /Gracias258 /absmiddle /LOL /713-6709 /saludo /semplicemente /Wall /Currently /English bottomleft /acqui /dags /seitens /harvested /Peeps /Peggy /strikt /daddy /Zippyensino /Obituaries /account /ggf /Benjamin /Royal /TI? ff /hoffen /bids /sanjay /primary /suivant /video /CAD /dimanche /aseg /schemeextranet /Thursday /nouvelles /think /koor /morning /Dope /ping /attend /recover sitos /world /1211 /GPU /3049 /rub /mmorpg /dontgetshocked /explored /Lave /functonscorecard /Bedford /target /mistake /anhang /synthetic /heures /joints /Planner wekelijkse /illegal /dags /represent /Graft /giraffes /June /Have /slaveholdersrub /commodities /participating /width /Libby /Neste /cookpad /station /muscles sett /change /676 /IRFI /upcoming /Natisp /VIEW /12pt /INICIAL /discussion /Listers /hqauetegwch /merger /severetrailblazing /centraal /apparition /wysong /1ex /forthcoming /qualcuno giggly /reading /bielsa /chen /P1 /functon /tht /blah /eau /symbolize SXSW /documentarys /Ida /microbrewery /diagnostician /harvest /geldt anschauen /broadcaster /tyres /slog /designated /params /touch /imprudencedie /gerade /F /1990 /liz /withdrawalsobsoleted /Safe /gozeera /savvier /asia /functon /einige /modificato /ADX images /cookpad /leibenluft /Rita /pin /mil /apreciable /italicized /functonOLE /appliacesfuncton /brutal /allows /bo /Do /ucm /normaltext /rnummer /netforinfocom /did 8th /optout /yuan /challenge /au /viruss /0006 /hayas /short /morimoto /q PERT and CPM are very similar in their approach but still present some differences. CPM is used for projects that assume deterministic activity times; the times at which each activity will be carried out are known. PERT, on the other hand, allows for stochastic activity times; the times at which each activity will be carried out are uncertain or varied. Because of this core difference, CPM and PERT are used in different contexts. These mathematical techniques quickly spread into many private enterprises. PERT network chart for a seven-month project with five milestones At the same time, as project-scheduling models were being developed, technology for project cost estimating, cost management and engineering economics was evolving, with pioneering work by Hans Lang and others. In 1956, the American Association of Cost Engineers (now AACE International; the Association for the Advancement of Cost Engineering) was formed by early practitioners of project management and the associated specialties of planning and scheduling, cost estimating, and cost/schedule control (project control). AACE continued its pioneering work and in 2006 released the first integrated proc</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+</table>
+</div>
+</body>
+</html>
+
+--423a064dbc23d38c77f61314b6a6b19b_ba6_14e16--

@@ -1,0 +1,56 @@
+Return-Path: <SRS0=VG9uvb=3C=estatebiz.eu=i.monet@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14037 invoked from network); 13 Jan 2020 09:10:40 -0000
+Received: (qmail 25447 invoked from network); 13 Jan 2020 09:10:40 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Jan 2020 09:10:40 -0000
+Received: (qmail 14012 invoked by uid 48516); 13 Jan 2020 09:10:39 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20560 invoked from network); 13 Jan 2020 09:10:38 -0000
+Received: from mail.estatebiz.eu (mail.estatebiz.eu [80.211.0.17])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 13 Jan 2020 09:10:38 -0000
+Received: by mail.estatebiz.eu (Postfix, from userid 1001)
+	id 2F37385CBA; Mon, 13 Jan 2020 09:09:36 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=estatebiz.eu; s=mail;
+	t=1578906632; bh=ft4tO+jsky3C2RFwKBTzNOrG42v+SWUPrhGsQonJM0g=;
+	h=Date:From:To:Subject:From;
+	b=VIlt53eyqX5YEGQcBl/I4RV95yKaL2jXlF+e8//RHfVC3qAo4tYhFSLpn63VxA9M9
+	 F6Pr5NIySaee+N+fVpcOtoJCN3EoQdlUhGx75JJgK+8PTQks2dRXn1UoDZmVDKrCBA
+	 YJfjUNbtfe/szt3CO/2v2CcXDK+U3YA+tiZ+zutzNeUJgBNfGm+8wa9avSzvz0snq3
+	 8Vd2eIAnzMwMw3y3n5O+94EoEqcfgvD+P68fnW28gizptdulU4dvt0JfRhqYx31NcG
+	 rlEh5a3af4vnpVzkJ1mYy7TCQ/HRkAJilXm1Ykn51RKfuPFjbjk7yCyJj+vvDHMJvl
+	 S4RU5k+v2FJPg==
+Received: by mail.estatebiz.eu for <bruce@untroubled.org>; Mon, 13 Jan 2020 09:09:18 GMT
+Message-ID: <20200113090743-0.1.l.10em.0.g4q9ftllqf@estatebiz.eu>
+Date: Mon, 13 Jan 2020 09:09:18 GMT
+From: =?UTF-8?Q?"Ir=C3=A8ne_Monet"?= <i.monet@estatebiz.eu>
+To: <bruce@untroubled.org>
+Subject: Consommation de carburant
+X-Mailer: mail.estatebiz.eu
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 723
+
+Bonjour,
+Il repr=C3=A9sente une entreprise qui fournit les meilleures solutions t=C3=
+=A9l=C3=A9matiques de sa cat=C3=A9gorie.
+=20
+Un syst=C3=A8me de surveillance de v=C3=A9hicule in=C3=A9gal=C3=A9 avec d=
+es fonctionnalit=C3=A9s =C3=A9tendues satisfait pratiquement tous les bes=
+oins de gestion de flotte existants.
+=20
+En revanche, la p=C3=A9riode d'essai gratuite de 3 mois vous permet d'exp=
+lorer pleinement les possibilit=C3=A9s sans aucun risque.
+=20
+=C3=8Ates-vous int=C3=A9ress=C3=A9 =C3=A0 accro=C3=AEtre l'efficacit=C3=A9=
+ de la gestion des voitures ou autres v=C3=A9hicules de soci=C3=A9t=C3=A9=
+?
+=20
+
+Cordialement,
+Ir=C3=A8ne Monet
+Repr=C3=A9sentant du service =C3=A0 la client=C3=A8le
+i.monet@estatebiz.eu

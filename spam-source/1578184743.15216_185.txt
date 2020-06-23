@@ -1,0 +1,93 @@
+Return-Path: <SRS0=mTIb3l=2Y=mail.greenoffersweb.pro=5737-9790-262549-1543-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2735 invoked from network); 3 Jan 2020 08:39:01 -0000
+Received: (qmail 16873 invoked from network); 3 Jan 2020 08:39:00 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Jan 2020 08:39:00 -0000
+Received: (qmail 4776 invoked by uid 48516); 3 Jan 2020 08:39:00 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31124 invoked from network); 3 Jan 2020 08:39:00 -0000
+Received: from costa.greenoffersweb.pro (client-192-236-155-74.hostwindsdns.com [192.236.155.74])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 03 Jan 2020 08:38:47 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=greenoffersweb.pro;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=RewardingPromos@greenoffersweb.pro;
+ bh=9pgADIAxuGkOwsbUrLdLRH1JKl4=;
+ b=bX3F96evP/yesY3MSgNuS+Vi2HNnzqz/lvcmUju4huru2rrwBf/LNNEN9c34MIDyXL/uxT09fnhh
+   A4SayZxOvWTcRqjpwtgnx1YeQKeGqSmDqV+H+d/+6Dn28WdqRszv8vzscj5jh3HnBXhbW45fL9Hc
+   4ciJ/yonMNdn5hAHx/g=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=greenoffersweb.pro;
+ b=a7/+cBdfAONYnKxLr6Fu/GvnfnkQVGOa3sfSXuSK/qcsonFwou7UiGV5ZOXBBHCRQzVQ4JI9kXaC
+   PRDXvy2watFdZzFasKxsNAPbgaUWjBnZYc9pe6inLoIJ/HN2BdfWeWg+bZNdmBFnYVv3r+/7p38K
+   YVhkLLhynAvkHSebujE=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="fcd5bafeb079f323035a78734a36a11f_263e_40195"
+Date: Fri, 3 Jan 2020 03:38:11 -0500
+From: "RewardingPromos" <RewardingPromos@greenoffersweb.pro>
+Reply-To: "RewardingPromos" <RewardingPromos@greenoffersweb.pro>
+Subject: McDonalds gift card
+To: <bruce@untroubled.org>
+Message-ID: <612s141l66z4av5f-macgrrz5lwf9lpth-263e-40195@greenoffersweb.pro>
+Content-Length: 6104
+
+--fcd5bafeb079f323035a78734a36a11f_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+McDonalds gift card
+
+http://greenoffersweb.pro/0tmLCqQRsyH3pTGKZSvq5hfKKjKO18BclGSZBWqviDp-YlI
+
+http://greenoffersweb.pro/h2YCcvhk3LHH9ir9snFZJRUWUzw4MMd3OckgMahHwdZ1x9kC
+
+Leaves are the most important organs of most vascular plants. Green plants are autotrophic, meaning that they do not obtain food from other living things but instead create their own food by photosynthesis. They capture the energy in sunlight and use it to make simple sugars, such as glucose and sucrose, from carbon dioxide and water. The sugars are then stored as starch, further processed by chemical synthesis into more complex organic molecules such as proteins or cellulose, the basic structural material in plant cell walls, or metabolized by cellular respiration to provide chemical energy to run cellular processes. The leaves draw water from the ground in the transpiration stream through a vascular conducting system known as xylem and obtain carbon dioxide from the atmosphere by diffusion through openings called stomata in the outer covering layer of the leaf (epidermis), while leaves are orientated to maximize their exposure to sunlight. Once sugar has been synthesized, it needs to be transported to areas of active growth such as the plant shoots and roots. Vascular plants transport sucrose in a special tissue called the phloem. The phloem and xylem are parallel to each other, but the transport of materials is usually in opposite directions. Within the leaf these vascular systems branch (ramify) to form veins which supply as much of the leaf as possible, ensuring that cells carrying out photosynthesis are close to the transportation system.
+
+Typically leaves are broad, flat and thin (dorsiventrally flattened), thereby maximising the surface area directly exposed to light and enabling the light to penetrate the tissues and reach the chloroplasts, thus promoting photosynthesis. They are arranged on the plant so as to expose their surfaces to light as efficiently as possible without shading each other, but there are many exceptions and complications. For instance, plants adapted to windy conditions may have pendent leaves, such as in many willows and eucalyptss. The flat, or laminar, shape also maximizes thermal contact with the surrounding air, promoting cooling. Functionally, in addition to carrying out photosynthesis, the leaf is the principal site of transpiration, providing the energy required to draw the transpiration stream up from the roots, and guttation.
+
+--fcd5bafeb079f323035a78734a36a11f_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://greenoffersweb.pro/0tmLCqQRsyH3pTGKZSvq5hfKKjKO18BclGSZBWqviDp-YlI" style="font-size:30px;font-family:Arial; color:blue; text-decoration:none;">McDonalds gift card</a><br />
+<br />
+<a href="http://greenoffersweb.pro/0tmLCqQRsyH3pTGKZSvq5hfKKjKO18BclGSZBWqviDp-YlI"><img src="http://greenoffersweb.pro/48c7793dd1597f6bf0.jpg" style="box-shadow:0px 10px 10px 10px #CCC; border-radius:40px;" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://greenoffersweb.pro/2zedaO3OD-fV_rpapmxNfG5X9bMVcWS32WbkLS6N3ADuRayu"><img src="http://greenoffersweb.pro/0693b77c547b83ce2b.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://greenoffersweb.pro/h2YCcvhk3LHH9ir9snFZJRUWUzw4MMd3OckgMahHwdZ1x9kC"><img src="http://greenoffersweb.pro/4d619e375e180f46a5.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Leaves are the most important organs of most vascular plants. Green plants are autotrophic, meaning that they do not obtain food from other living things but instead create their own food by photosynthesis. They capture the energy in sunlight and use it to make simple sugars, such as glucose and sucrose, from carbon dioxide and water. The sugars are then stored as starch, further processed by chemical synthesis into more complex organic molecules such as proteins or cellulose, the basic structural material in plant cell walls, or metabolized by cellular respiration to provide chemical energy to run cellular processes. The leaves draw water from the ground in the transpiration stream through a vascular conducting system known as xylem and obtain carbon dioxide from the atmosphere by diffusion through openings called stomata in the outer covering layer of the leaf (epidermis), while leaves are orientated to maximize their exposure to sunlight. Once sugar has been synthesized, it needs to be transported to areas of active growth such as the plant shoots and roots. Vascular plants transport sucrose in a special tissue called the phloem. The phloem and xylem are parallel to each other, but the transport of materials is usually in opposite directions. Within the leaf these vascular systems branch (ramify) to form veins which supply as much of the leaf as possible, ensuring that cells carrying out photosynthesis are close to the transportation system. Typically leaves are broad, flat and thin (dorsiventrally flattened), thereby maximising the surface area directly exposed to light and enabling the light to penetrate the tissues and reach the chloroplasts, thus promoting photosynthesis. They are arranged on the plant so as to expose their surfaces to light as efficiently as possible without shading each other, but there are many exceptions and complications. For instance, plants adapted to windy conditions may have pendent leaves, such as in many willows and eucalyptss. The flat, or laminar, shape also maximizes thermal contact with the surrounding air, promoting cooling. Functionally, in addition to carrying out photosynthesis, the leaf is the principal site of transpiration, providing the energy required to draw the transpiration stream up from the roots, and guttation. </span></center>
+</body>
+</html>
+
+--fcd5bafeb079f323035a78734a36a11f_263e_40195--

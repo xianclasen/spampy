@@ -1,0 +1,86 @@
+Return-Path: <SRS0=xBQgPM=3L=outlook.com=rpfw@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27462 invoked from network); 22 Jan 2020 12:54:14 -0000
+Received: (qmail 26213 invoked from network); 22 Jan 2020 12:54:13 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 12:54:13 -0000
+Received: (qmail 10704 invoked by uid 48516); 22 Jan 2020 12:54:13 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10673 invoked from network); 22 Jan 2020 12:54:12 -0000
+Received: from 185.158.115.191 (mail.unitedtelecom.ru [62.141.79.190])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 22 Jan 2020 12:54:12 -0000
+Message-ID: <20ffb61aed85af85191caa06ea5e74f01f5aca@outlook.com>
+From: Darina <rpfw@outlook.com>
+To: bruce@untroubled.org
+Subject: =?windows-1251?B?wCDi4Pgg6u7s7/z+8uXwIO/w6O3u8ejyIOTu?=
+	=?windows-1251?B?9e7kPw==?=
+Date: Wed, 22 Jan 2020 14:54:08 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="82eea70bfc94be94080dbb17fb4f65e1fdc668"
+Content-Length: 2574
+
+--82eea70bfc94be94080dbb17fb4f65e1fdc668
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+=D2=E5=EF=E5=F0=FC =E2=FB =EC=EE=E6=E5=F2=E5 =E7=E0=F0=E0=E1=E0=F2=FB=E2=E0=
+=F2=FC =C1=E8=F2=EA=EE=E9=ED =EF=F0=FF=EC=EE =E2 =E1=F0=E0=F3=E7=E5=F0=E5=
+!
+
+=D5=EE=F2=E8=F2=E5 =E2=E5=F0=FC=F2=E5, =F5=EE=F2=E8=F2=E5 =ED=E5=F2 - =ED=
+=EE =E2=FB =E2 1 =EA=EB=E8=EA=E5 =EE=F2 =F3=ED=E8=EA=E0=EB=FC=ED=EE=E9 =E2=
+=EE=E7=EC=EE=E6=ED=EE=F1=F2=E8 =EF=EE=EB=F3=F7=E0=F2=FC =EF=E0=F1=F1=E8=E2=
+=ED=FB=E9 =E4=EE=F5=EE=E4 =EE=ED=EB=E0=E9=ED.
+
+=CF=EE=E4=F0=EE=E1=ED=E5=E5 =ED=E0 =F1=E0=E9=F2=E5 >>> -=A0https://get.cr=
+yptobrowser.site/10752759 =E8 =ED=E0=F7=E8=ED=E0=E9=F2=E5 =EF=EE=EB=F3=F7=
+=E0=F2=FC =E4=E5=ED=FC=E3=E8!
+
+=CE=F2=EA=E0=E7=E0=F2=FC=F1=FF =EE=F2 =F0=E0=F1=F1=FB=EB=EA=E8. List-Unsu=
+bscribe
+
+--82eea70bfc94be94080dbb17fb4f65e1fdc668
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><FONT size=3D2><FONT face=3DVerdana>=D2=E5=EF=E5=F0=FC =
+=E2=FB =EC=EE=E6=E5=F2=E5 =E7=E0=F0=E0=E1=E0=F2=FB=E2=E0=F2=FC=20
+=C1=E8=F2=EA=EE=E9=ED =EF=F0=FF=EC=EE =E2 =E1=F0=E0=F3=E7=E5=F0=E5!</FONT=
+></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft><FONT size=3D2><FONT face=3DVerdana>=D5=EE=F2=E8=F2=E5 =
+=E2=E5=F0=FC=F2=E5, =F5=EE=F2=E8=F2=E5 =ED=E5=F2 - =ED=EE=20
+=E2=FB =E2 1 =EA=EB=E8=EA=E5 =EE=F2 =F3=ED=E8=EA=E0=EB=FC=ED=EE=E9 =E2=EE=
+=E7=EC=EE=E6=ED=EE=F1=F2=E8 =EF=EE=EB=F3=F7=E0=F2=FC =EF=E0=F1=F1=E8=E2=ED=
+=FB=E9 =E4=EE=F5=EE=E4=20
+=EE=ED=EB=E0=E9=ED.</FONT></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft><FONT size=3D2><FONT=20
+face=3DVerdana><STRONG>=CF=EE=E4=F0=EE=E1=ED=E5=E5 =ED=E0 =F1=E0=E9=F2=E5=
+ >>></STRONG> -&nbsp;<A=20
+href=3D"https://get.cryptobrowser.site/10752759">https://get.cryptobrowse=
+r.site/10752759</A>=20
+=E8 =ED=E0=F7=E8=ED=E0=E9=F2=E5 =EF=EE=EB=F3=F7=E0=F2=FC =E4=E5=ED=FC=E3=E8=
+!</FONT></FONT></DIV>
+<DIV align=3Dleft><FONT size=3D3=20
+face=3D"Times New Roman">&nbsp;</FONT></DIV>
+<DIV align=3Dleft>&nbsp;</DIV>
+<DIV align=3Dleft>&nbsp;</DIV>
+<DIV align=3Dleft>&nbsp;</DIV>
+<DIV align=3Dleft>
+<HR>
+</DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DVerdana>=CE=F2=EA=E0=E7=E0=F2=FC=
+=F1=FF =EE=F2 =F0=E0=F1=F1=FB=EB=EA=E8.=20
+</FONT><FONT size=3D2 face=3DVerdana><A=20
+href=3D"mailto:rpfw@outlook.com?subject=3DList-Unsubscribe">List-Unsubscr=
+ibe</A></FONT></DIV></BODY></HTML>
+
+--82eea70bfc94be94080dbb17fb4f65e1fdc668--

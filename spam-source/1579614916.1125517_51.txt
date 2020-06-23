@@ -1,0 +1,84 @@
+Return-Path: <SRS0=n6H6CM=3K=mon-facteur2.com=mail@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 17016 invoked from network); 21 Jan 2020 12:06:28 -0000
+Received: (qmail 16646 invoked from network); 21 Jan 2020 12:06:27 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Jan 2020 12:06:27 -0000
+Received: (qmail 11699 invoked by uid 48516); 21 Jan 2020 12:06:26 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 3657 invoked from network); 21 Jan 2020 12:06:26 -0000
+Received: from mon-facteur2.com (mon-facteur2.com [51.91.20.65])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 21 Jan 2020 12:06:26 -0000
+Received: from authenticated-user (PRIMARY_HOSTNAME [PUBLIC_IP])
+	by mon-facteur2.com (Postfix) with ESMTPA id 9FE66DB2EE
+	for <bruce@untroubled.org>; Tue, 21 Jan 2020 12:06:23 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mon-facteur2.com;
+	s=dkim; t=1579608383;
+	h=from:from:reply-to:reply-to:subject:subject:date:date:to:to:cc:
+	 mime-version:mime-version:content-type:content-type;
+	bh=Ro1isjGuewLS6mmCf0mgIm2Y71n2hZThNbr8rpCZNs4=;
+	b=LoWl6/cFTwjbNefmw0X832ML5E/9EnSKiZJTp6t2bV+rhIAgJXvR/LS9q58MWQ/v7/tEaR
+	Ym6NZIQy6awmmmKLZEdDqlMXa0850CRfDIzyjW6H7nuoK3LGHWQN122AU5A5hf3fgQUlSz
+	kZBf2oaSQWy/+10pO1amFIlMOn9YhSo=
+Content-Type: multipart/alternative;
+ boundary="===============8621407158616774759=="
+MIME-Version: 1.0
+reply-to: REMY EISENSTEIN <campaign@camp1-ayomi.co>
+From: REMY EISENSTEIN <mail@mon-facteur2.com>
+To: bruce@untroubled.org
+Subject: =?utf8?q?TOKEN_ECONOMICS_our_fundraising_campaign_is_Booming_-_Thanks_a_lot_!?=
+Date: Tue, 21 Jan 2020 12:10:46 +0000
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=mon-facteur2.com;
+	s=dkim; t=1579608383;
+	h=from:from:reply-to:reply-to:subject:subject:date:date:to:to:cc:
+	 mime-version:mime-version:content-type:content-type;
+	bh=Ro1isjGuewLS6mmCf0mgIm2Y71n2hZThNbr8rpCZNs4=;
+	b=es5S5YU6gdIfCWAHYFh/ZiQcAxWrD8Mqlr9qYMRdmsQrptan8qHbTIfJa34xB10pUIC6rp
+	951aZurYVW1vHYLUv4O8Vtg6AB7v5AlMMj4onEld4akzRUWUNDTq5p6Xy790ZGRBRLXuWC
+	IQiH6Al2ENTuTRN2d1blgoe0iN0mnMo=
+ARC-Seal: i=1; s=dkim; d=mon-facteur2.com; t=1579608383; a=rsa-sha256;
+	cv=none;
+	b=g5l1UPCz/F2ACjJ55DHNN2HMF7UizH0/3ZxPvhRcczP34q8214d4o7/tiWJcmWv1JCxs6C
+	PTjoardbnORclVghtmLpSQ1XADrja0jlhBOadQ5ADprXVca/0HQ5KS0yW5RYexZyynqwEY
+	vyyEJLb5c3dDWC2Qnro07A0766gzpZU=
+ARC-Authentication-Results: i=1;
+	mon-facteur2.com;
+	auth=pass smtp.auth=mail@mon-facteur2.com smtp.mailfrom=mail@mon-facteur2.com
+X-Spamd-Bar: +++
+Authentication-Results: mon-facteur2.com;
+	auth=pass smtp.auth=mail@mon-facteur2.com smtp.mailfrom=mail@mon-facteur2.com
+Content-Length: 1686
+
+--===============8621407158616774759==
+Content-Type: text/plain; charset="utf8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+
+--===============8621407158616774759==
+Content-Type: text/html; charset="utf8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PHRpdGxlPjwvdGl0bGU+PC9oZWFkPjxib2R5PjxwPkhlbGxvLDxiciAvPgo8
+YnIgLz4KT3VyIGNyb3dkZnVuZGluZyBjYW1wYWlnbiBzdGFydGVkIGp1c3QgYSBmZXcgZGF5cyBh
+Z28gYW5kIGl0JiMzOTtzIGFscmVhZHkgYSBncmVhdCBzdWNjZXNzISBXZSB3YXJtbHkgdGhhbmsg
+b3VyIGZhbWlsaWVzLCBjdXN0b21lcnMsIGZyaWVuZHMgYW5kIHBhcnRuZXJzIHdobyBoYXZlIGp1
+c3Qgam9pbmVkIHVzLjwvcD48cD48YnIgLz4KSXQmIzM5O3Mgc3RpbGwgcnVubmluZywgeW91IGNh
+biBnbyB0byB0aGUgcGFnZSB0byBjaGVjayB0aGUgYWN0dWFsaXRpZXMsIGEgbW9yZSBkZXRhaWxl
+ZCBkZXNjcmlwdGlvbiBhbmQgb2ZmaWNpYWwgZG9jdW1lbnRzOiA8c3Ryb25nPjxhIGhyZWY9Imh0
+dHBzOi8vY291cnNpZXIyLmNvbS91cmwvcHJvamV0L2ZvbmN0aW9uLzQwMTYvP2VtYWlsPWJydWNl
+QHVudHJvdWJsZWQub3JnIj5UT0tFTiBFQ09OT01JQ1M8L2E+PC9zdHJvbmc+PC9wPjxwPkJlc3Qg
+cmVnYXJkcyw8L3A+PHA+X19fXzwvcD48cD48c3Ryb25nPjxiPlJlbXkgRUlTRU5TVEVJTiA8YnIv
+PkNFTyAmIEZvdW5kZXI8YnIvPlRPS0VOIEVDT05PTUlDUzwvYj48L3N0cm9uZz48L3A+PGJyLz48
+cD48YSBocmVmPSJodHRwczovL2NvdXJzaWVyMi5jb20vbGFuZGluZy1heW9taS9odHRwczovL2F5
+b21pLmZyL2lwb29tZS9nZXRkYXRhbWFpbGVyL3Vuc3VicXVlc3Rpb24vP25jaGVjaz0xJmVtYWls
+PWJydWNlQHVudHJvdWJsZWQub3JnJnByb2plY3RJZD00MDE2Ij5Ew6lzaW5zY3JpdmV6LXZvdXMg
+aWNpPC9hPjxwPjxpbWcgYWx0PSIiIHNyYz0iaHR0cDovL3d3dy5nb29nbGUtYW5hbHl0aWNzLmNv
+bS9jb2xsZWN0P3Y9MSZ0aWQ9VUEtOTc5MjYzNjAtMiZjaWQ9NDAxNi0yLWJydWNlQHVudHJvdWJs
+ZWQub3JnJnQ9ZXZlbnQmZWM9ZW1haWwmZWE9b3BlbiZlbD1vcGVuX2VtYWlsJmNzPWNhbXRlcyZj
+bT1lbWFpbCZjbj00MDE2LTItMS0wIiB3aWR0aD0iMXB4Ii8+PC9ib2R5PjwvaHRtbD4=
+
+--===============8621407158616774759==--

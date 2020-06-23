@@ -1,0 +1,93 @@
+Return-Path: <SRS0=0+o5RS=3J=mail.trackfitt.co=6674-9790-262549-1782-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11353 invoked from network); 20 Jan 2020 07:41:38 -0000
+Received: (qmail 6105 invoked from network); 20 Jan 2020 07:41:37 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Jan 2020 07:41:37 -0000
+Received: (qmail 490 invoked by uid 48516); 20 Jan 2020 07:41:35 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8694 invoked from network); 20 Jan 2020 07:41:34 -0000
+Received: from park.trackfitt.co (client-23-254-228-245.hostwindsdns.com [23.254.228.245])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 20 Jan 2020 07:41:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=trackfitt.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=YourAsianBeauty@trackfitt.co;
+ bh=+AnznQMLOcm8GGMNnW4oa5i4FD8=;
+ b=bs+4NNrC+M0UqlWPEOAO70OUG32g26/LsLjprc2GuU+yRg5UxwEB1Ew8KAE6sIO/rcUYsjF0+z5F
+   MAV2pF19GQLNoyZHtknmFSzZyBbcURDm5Nky9APF7YzhLIzWHCnvh/zX4oE/OSaaET0SmuhGbfzk
+   sSJ6uKgLyVs3WFiRMVc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=trackfitt.co;
+ b=R8IJuEBU2BVdCRO9B1CgOQ1Kjxul8cIizSJVsAXdtD4atxcRiJKEh5WzvxdcLU9nS74BHdAAKxmA
+   aIxXYZlnlAyn/PtZeV/MgvN4NF06tLzI3LymgbwfQtpZtd2RLpZOX6VGeg7ond7dSVCkVJcbhiEU
+   /O/P11yZj3lPfq//kpI=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="13e3887a73e7dafb2660ee29fb8bb7b0_263e_40195"
+Date: Mon, 20 Jan 2020 02:37:58 -0500
+From: "Asian Lady" <YourAsianBeauty@trackfitt.co>
+Reply-To: "Asian Lady" <AsianLady@trackfitt.co>
+Subject: Want to meet singles? See photos!
+To: <bruce@untroubled.org>
+Message-ID: <su20nu2v761faj5j-8n7j8dn7wiony9xf-263e-40195@trackfitt.co>
+Content-Length: 7486
+
+--13e3887a73e7dafb2660ee29fb8bb7b0_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Want to meet singles? See photos!
+
+http://trackfitt.co/k3i9rINTVkNBPbctPkx-pQsrKIlMKvB-X2EsJSKvwP7E7giz
+
+http://trackfitt.co/ReRAmiB9ES0foKfeBJXhpPBHRkktjW1vUyIulAe_Y_S_0fvY
+
+Two days after MIT was chartered, the first battle of the Civil War broke out. After a long delay through the war years, MIT's first classes were held in the Mercantile Building in Boston in 1865. The new institute was founded as part of the Morrill Land-Grant Colleges Act to fund institutions "to promote the liberal and practical education of the industrial classes" and was a land-grant school. In 1863 under the same act, the Commonwealth of Massachusetts founded the Massachusetts Agricultural College, which developed as the University of Massachusetts Amherst. In 1866, the proceeds from land sales went toward new buildings in the Back Bay.
+
+MIT was informally called "Boston Tech". The institute adopted the European polytechnic university model and emphasized laboratory instruction from an early date. Despite chronic financial problems, the institute saw growth in the last two decades of the 19th century under President Francis Amasa Walker. Programs in electrical, chemical, marine, and sanitary engineering were introduced, new buildings were built, and the size of the student body increased to more than one thousand.
+
+The curriculum drifted to a vocational emphasis, with less focus on theoretical science. The fledgling school still suffered from chronic financial shortages which diverted the attention of the MIT leadership. During these "Boston Tech" years, MIT faculty and alumni rebuffed Harvard University president (and former MIT faculty) Charles W. Eliot's repeated attempts to merge MIT with Harvard College's Lawrence Scientific School. There would be at least six attempts to absorb MIT into Harvard. In its cramped Back Bay location, MIT could not afford to expand its overcrowded facilities, driving a desperate search for a new campus and funding. Eventually, the MIT Corporation approved a formal agreement to merge with Harvard, over the vehement objections of MIT faculty, students, and alumni. However, a 1917 decision by the Massachusetts Supreme Judicial Court effectively put an end to the merger scheme.
+
+
+Plaque in Building 6 honoring George Eastman, founder of Eastman Kodak, who was revealed as the anonymous "Mr. Smith" who helped maintain MIT's independence
+In 1916, the MIT administration and the MIT charter crossed the Charles River on the ceremonial barge Bucentaur built for the occasion, to signify MIT's move to a spacious new campus largely consisting of filled land on a one-mile-long (1.6 km) tract along the Cambridge side of the Charles River. The neoclassical "New Technology" campus was designed by William W. Bosworth and had been funded largely by anonymous donations from a mysterious "Mr. Smith", starting in 1912. In January 1920, the donor was revealed to be the industrialist George Eastman of Rochester, New York, who had invented methods of film production and processing, and founded Eastman Kodak. Between 1912 and 1920, Eastman donated $20 million ($236.6 million in 2015 dollars) in cash and Kodak stock to MIT.
+
+--13e3887a73e7dafb2660ee29fb8bb7b0_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://trackfitt.co/k3i9rINTVkNBPbctPkx-pQsrKIlMKvB-X2EsJSKvwP7E7giz" style="font-size:30px;font-family:Arial; color:blue; text-decoration:none;">Want to meet singles? See photos!</a><br />
+<br />
+<a href="http://trackfitt.co/k3i9rINTVkNBPbctPkx-pQsrKIlMKvB-X2EsJSKvwP7E7giz"><img src="http://trackfitt.co/2dae8754bca7833b15.jpg" style="border:5px solid #ca1c1d; box-shadow:0px 0px 5px 5px #888888; " /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://trackfitt.co/1ZleFtPwh44mwylXRLQodZYWmSV2HPKNFtmOSXyYo7EJSBk4"><img src="http://trackfitt.co/fa69b81154d6ff53bc.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://trackfitt.co/ReRAmiB9ES0foKfeBJXhpPBHRkktjW1vUyIulAe_Y_S_0fvY"><img src="http://trackfitt.co/7c9d3e1c06f2ecb212.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Two days after MIT was chartered, the first battle of the Civil War broke out. After a long delay through the war years, MIT&#39;s first classes were held in the Mercantile Building in Boston in 1865. The new institute was founded as part of the Morrill Land-Grant Colleges Act to fund institutions &quot;to promote the liberal and practical education of the industrial classes&quot; and was a land-grant school. In 1863 under the same act, the Commonwealth of Massachusetts founded the Massachusetts Agricultural College, which developed as the University of Massachusetts Amherst. In 1866, the proceeds from land sales went toward new buildings in the Back Bay. MIT was informally called &quot;Boston Tech&quot;. The institute adopted the European polytechnic university model and emphasized laboratory instruction from an early date. Despite chronic financial problems, the institute saw growth in the last two decades of the 19th century under President Francis Amasa Walker. Programs in electrical, chemical, marine, and sanitary engineering were introduced, new buildings were built, and the size of the student body increased to more than one thousand. The curriculum drifted to a vocational emphasis, with less focus on theoretical science. The fledgling school still suffered from chronic financial shortages which diverted the attention of the MIT leadership. During these &quot;Boston Tech&quot; years, MIT faculty and alumni rebuffed Harvard University president (and former MIT faculty) Charles W. Eliot&#39;s repeated attempts to merge MIT with Harvard College&#39;s Lawrence Scientific School. There would be at least six attempts to absorb MIT into Harvard. In its cramped Back Bay location, MIT could not afford to expand its overcrowded facilities, driving a desperate search for a new campus and funding. Eventually, the MIT Corporation approved a formal agreement to merge with Harvard, over the vehement objections of MIT faculty, students, and alumni. However, a 1917 decision by the Massachusetts Supreme Judicial Court effectively put an end to the merger scheme. Plaque in Building 6 honoring George Eastman, founder of Eastman Kodak, who was revealed as the anonymous &quot;Mr. Smith&quot; who helped maintain MIT&#39;s independence In 1916, the MIT administration and the MIT charter crossed the Charles River on the ceremonial barge Bucentaur built for the occasion, to signify MIT&#39;s move to a spacious new campus largely consisting of filled land on a one-mile-long (1.6 km) tract along the Cambridge side of the Charles River. The neoclassical &quot;New Technology&quot; campus was designed by William W. Bosworth and had been funded largely by anonymous donations from a mysterious &quot;Mr. Smith&quot;, starting in 1912. In January 1920, the donor was revealed to be the industrialist George Eastman of Rochester, New York, who had invented methods of film production and processing, and founded Eastman Kodak. Between 1912 and 1920, Eastman donated $20 million ($236.6 million in 2015 dollars) in cash and Kodak stock to MIT.</span></center>
+</body>
+</html>
+
+--13e3887a73e7dafb2660ee29fb8bb7b0_263e_40195--

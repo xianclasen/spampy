@@ -1,0 +1,77 @@
+Return-Path: <SRS0=8xAo+D=23=reute.buzz=tinnitus911-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27203 invoked from network); 6 Jan 2020 16:58:43 -0000
+Received: (qmail 2124 invoked from network); 6 Jan 2020 16:58:42 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 16:58:42 -0000
+Received: (qmail 29341 invoked by uid 48516); 6 Jan 2020 16:58:42 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 22297 invoked from network); 6 Jan 2020 16:58:42 -0000
+Received: from mail.reute.buzz (208-186-113-162.nca.datanoc.com [208.186.113.162])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 06 Jan 2020 16:58:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=reute.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=tinnitus911@reute.buzz;
+ bh=ldLzvwNCNei2v1TRlpBL/cDRNrA=;
+ b=Gna/DVrhrYgmo9QUkDP+BxF4T2PEIogTimzHYjAZMZwuUPF9VX6VGNLxxV8qZlE3O5rO1eEthXba
+   9Cu/4RG9BlVKCNFZcWkBm7qsKjSvvHuG/J59JP5RROINYNsC47J4lN/XpIuJbVw/C0blR5fW3jFA
+   CW6nQE08f2z8gbce7Fc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=reute.buzz;
+ b=H73irfBXsEH0rlpKDTAVeWtHZhaGKL5cAX/b+aUq3Ce9Y15yqm/Xal+/LpT2/VT6WB+V+OVjGNxr
+   KjoQBczby8tGl+/q232OinEBJ/LH4hmAZAMYx+9liLEgZzUILTpg5E/Y1SfXcH0qJvwKNI6J9thg
+   /gKBy4j6B+5BzFEa3ak=;
+Received: by mail.reute.buzz id h2djk20001ga for <bruce@untroubled.org>; Mon, 6 Jan 2020 11:47:41 -0500 (envelope-from <tinnitus911-bruce=untroubled.org@reute.buzz>)
+Date: Mon, 6 Jan 2020 11:47:41 -0500
+From: Tinnitus911 <tinnitus911@reute.buzz>
+To:   <bruce@untroubled.org>
+Subject: WARNING: Tinnitus Has NOTHING To Do With Your Ears?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_16_1884712731.1578329256800"
+List-Unsubscribe: <http://www.reute.buzz/ed56YP23Y95HH89h11zu11TN3471Y21EFv4GIf4rxvs4FhIHEsvZ11MR4ndndnoA95K1rB05NLcYU/ransacked-beast>
+Message-ID: <0.0.0.1.1D5C4B102C39D9A.6E415F@mail.reute.buzz>
+Content-Length: 7397
+
+------=_Part_16_1884712731.1578329256800
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Saturnalia</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.reute.buzz/obfuscate-multiplexed/35a6z23u9L5jj86V11Ie8dbB3471g21JFv4GIf4rxvs4FhIHEsvZ11mR4ndndnoA95zJN106JpJLcY" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.reute.buzz/1014i2395uBl7a13zXe8WdeA3471i21dFv4GIf4rxvs4FhIHEsvZ11dR4ndndnoA96Rp1J0h6MTczLY/reassigned-prudent" style="border-width: 0px; border-style: solid; width: 80%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.reute.buzz/obfuscate-multiplexed/35a6z23u9L5jj86V11Ie8dbB3471g21JFv4GIf4rxvs4FhIHEsvZ11mR4ndndnoA95zJN106JpJLcY">Do THIS &quot; 10 second trick&quot; to restore your hearing</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.reute.buzz/98f4X2395k86lw12Ae8dcOD3471m21qFv4GIf4rxvs4FhIHEsvZ11fR4ndndnoA97DIN1v0z5Yq0cY/sanitation-Arabianizes"><font color="#666666">Exit mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.reute.buzz/reassigned-prudent/6a26zDN2395cm8Y912oRe8ddX3471D21YFv4GIf4rxvs4FhIHEsvZ11jR4ndndnoA96Yx1gY06IlljcY">Remove Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">6547 N Academy Blvd #2128</span>
+    <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</span>
+    <br /> &nbsp; 
+   </div> <span id="ballplayer"></span><span id="phraseology"><font face="clobbers"></span></font><font><span></span></font><small></small><font lang="displeases"></font><span style="gleefully"></span>
+  </center>   
+ <img src="http://www.reute.buzz/7736t239iv5r8k5w13ce8gdBfO3471L21pFv4GIf4rxvs4FhIHEsvZ11MR4ndndnoA97N1m0JnQ6cBlcpY/ransacked-beast" alt=""/></body>
+</html>
+
+------=_Part_16_1884712731.1578329256800--
+

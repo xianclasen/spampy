@@ -1,0 +1,90 @@
+Return-Path: <SRS0=9F94La=27=mail.projecterhalki.us=6119-2982-85526-1644-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 23756 invoked from network); 10 Jan 2020 08:13:47 -0000
+Received: (qmail 4716 invoked from network); 10 Jan 2020 08:13:46 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 08:13:46 -0000
+Received: (qmail 26027 invoked by uid 48516); 10 Jan 2020 08:13:46 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 16599 invoked from network); 10 Jan 2020 08:13:46 -0000
+Received: from boise.projecterhalki.us (twi6ods49.twilightone.website [170.130.172.194])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 10 Jan 2020 08:13:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=projecterhalki.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=**EsmeraldaPsychic**@projecterhalki.us;
+ bh=kBiuZUAgaIqSdo62vX7+5Qgfgv0=;
+ b=Ql7P+WdwGIQRm00x69FpcIzqSIG00Z9sT5hKzO0WKdPDHd9fnbdXbH6OfJEKAJe70OCkKhGA0c8a
+   Nd3LFu0am0679f71ZXROvxLdSS99DEKxGFaKD+qkvzmQulbBNP2QT0K3XkpdyOb+Rr8S3jq4jUzk
+   sMRYuirVK7kzGo7FGtc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=projecterhalki.us;
+ b=wLzeXLcUbVzC6GuJ6+iio5rB/a6F66gGuDe/x8vuJvUtbJdWeFNQZkAI8y1nBValq0B6Q8NQmGzJ
+   l5LOBGun0KZR8OdBUufG0pDS+SacZws8YSDjuuubgLd8b3HfLJqzzW6hprWf7LJ+yOICBhWbXSDI
+   brie/QOI4aLqr+63C5s=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="bde0a19a7da66fcfab2609ad93385f0c_ba6_14e16"
+Date: Fri, 10 Jan 2020 03:11:22 -0500
+From: "Esmeralda Psychic" <**EsmeraldaPsychic**@projecterhalki.us>
+Reply-To: "Esmeralda Psychic" <EsmeraldaPsychic@projecterhalki.us>
+Subject: Select your Zodiac Sign
+To: <bruce@untroubled.org>
+Message-ID: <lt3bnttuos12mupn-m4801vgud5wq1klz-ba6-14e16@projecterhalki.us>
+Content-Length: 6264
+
+--bde0a19a7da66fcfab2609ad93385f0c_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Select your Zodiac Sign
+
+http://projecterhalki.us/KTWrRfZHi92NU-2iX3l9kipEGTQKWgYZ2HJNyNYT3xFvDA
+
+http://projecterhalki.us/WUVtdn_AItjovX4KTk_pwKjW0G6NE6wxpifwbmUi6l3dsw
+
+Shaktimaan received powers from seven gurus who trained and blessed him with "yogic shakti which was natural power." He was the chosen warrior against evil by siddha gurus of a cult named Suryavanshi. They are followers of the star Sun. As part of training, he trained with Kundalini Yoga to awake the 7 chakras of body and gain 'supernatural' powers from them. To gain complete control over his powers he performed the ritual of death. However, this did not cause death but made him more alive than when he was a normal man. He also performed Yajna in which he entered the fire himself and dissolved his body in fire. Then, the five elements of life, i.e. fire, wind, water, earth, sky revived his body giving him special powers from them. Thus after leaving his mortal body he was given a superhuman form to fight against the evil in the world as Shaktimaan.
+
+After Shaktimaan was created he set out to destroy his archenemy Kilvish. But, as the Mahaguru (Tom Alter) explained, Kilvish can only be defeated after evil is destroyed. Shaktimaan's mission is to destroy the sin within people, not the sinned people. Shaktimaan's adventures show him pursuing justice and saving his friends while Kilvish and his minions plot to defeat him.
+Powers
+
+Shaktimaan has superhuman powers which lie inside his body in his seven chakras of Kundalini attained through meditation. Shaktimaan worships God through the symbol Om. Truthfulness is his motto. He can even separate his body into five different bodies of fire, wind, water, earth and sky. He is an expert, skilled and intelligent fighter and has fought with super-skilled enemies. He possesses physical powers like unlimited speed (up to the speed of light), strength, durability as well as psychic powers like telepathy, teleportation, telekinesis etc. Although he possesses godlike powers, his only weakness is a crystal (Papmani) possessed by Tamraj Kilvish which can be used to defeat and even kill him. This makes him powerless because it is filled with the evil of the world and is the source of the black powers. But he regains his strength after the crystal is taken away from him. He can be killed if the crystal is placed in front of him and he is treated violently to the verge of death. Shaktimaan also gets brief premonitions about the incidents that are going to happen to him in future. This can be observed in kashtak's episode, Geeta going to jail and in kapala's reappearance episodes.
+
+--bde0a19a7da66fcfab2609ad93385f0c_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://projecterhalki.us/KTWrRfZHi92NU-2iX3l9kipEGTQKWgYZ2HJNyNYT3xFvDA" style="font-size:40px;font-family:Arial; color:#0B011A; text-decoration:none;">Select your Zodiac Sign</a><br />
+<br />
+<a href="http://projecterhalki.us/KTWrRfZHi92NU-2iX3l9kipEGTQKWgYZ2HJNyNYT3xFvDA"><img src="http://projecterhalki.us/cb7793033320715f89.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://projecterhalki.us/xCfS6T1Efm1kA9Ka_pSZ8rOyPyWulZyTcLR0meVmsPOoug">Unsubscribe_Me</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://projecterhalki.us/WUVtdn_AItjovX4KTk_pwKjW0G6NE6wxpifwbmUi6l3dsw"><img src="http://projecterhalki.us/6fd0c4264b0fa65e42.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Shaktimaan received powers from seven gurus who trained and blessed him with &quot;yogic shakti which was natural power.&quot; He was the chosen warrior against evil by siddha gurus of a cult named Suryavanshi. They are followers of the star Sun. As part of training, he trained with Kundalini Yoga to awake the 7 chakras of body and gain &#39;supernatural&#39; powers from them. To gain complete control over his powers he performed the ritual of death. However, this did not cause death but made him more alive than when he was a normal man. He also performed Yajna in which he entered the fire himself and dissolved his body in fire. Then, the five elements of life, i.e. fire, wind, water, earth, sky revived his body giving him special powers from them. Thus after leaving his mortal body he was given a superhuman form to fight against the evil in the world as Shaktimaan. After Shaktimaan was created he set out to destroy his archenemy Kilvish. But, as the Mahaguru (Tom Alter) explained, Kilvish can only be defeated after evil is destroyed. Shaktimaan&#39;s mission is to destroy the sin within people, not the sinned people. Shaktimaan&#39;s adventures show him pursuing justice and saving his friends while Kilvish and his minions plot to defeat him. Powers Shaktimaan has superhuman powers which lie inside his body in his seven chakras of Kundalini attained through meditation. Shaktimaan worships God through the symbol Om. Truthfulness is his motto. He can even separate his body into five different bodies of fire, wind, water, earth and sky. He is an expert, skilled and intelligent fighter and has fought with super-skilled enemies. He possesses physical powers like unlimited speed (up to the speed of light), strength, durability as well as psychic powers like telepathy, teleportation, telekinesis etc. Although he possesses godlike powers, his only weakness is a crystal (Papmani) possessed by Tamraj Kilvish which can be used to defeat and even kill him. This makes him powerless because it is filled with the evil of the world and is the source of the black powers. But he regains his strength after the crystal is taken away from him. He can be killed if the crystal is placed in front of him and he is treated violently to the verge of death. Shaktimaan also gets brief premonitions about the incidents that are going to happen to him in future. This can be observed in kashtak&#39;s episode, Geeta going to jail and in kapala&#39;s reappearance episodes. </span></center>
+</body>
+</html>
+
+--bde0a19a7da66fcfab2609ad93385f0c_ba6_14e16--

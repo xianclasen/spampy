@@ -1,0 +1,423 @@
+Return-Path: <provide.insurance.car.insurance-bruce=untroubled.org@takeoff-english.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 13283 invoked from network); 27 Jan 2020 19:44:18 -0000
+Received: (qmail 27898 invoked by uid 222); 27 Jan 2020 19:44:17 -0000
+Return-Path: <provide.insurance.car.insurance-bruce=untroubled.org@takeoff-english.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 27893 invoked from network); 27 Jan 2020 19:44:15 -0000
+Received: from mail.takeoff-english.com (vpsnode18.webstudio34.com [91.188.217.212])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Jan 2020 19:44:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=takeoff-english.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=provide.insurance.car.insurance@takeoff-english.com;
+ bh=twqyWvYwaRh4bbcVMmG5x2xrNKI=;
+ b=SD5cOam3JbP6TnjA82PGMiC14MI1Ad+HSMw3Vy9VBHPKv8j9mO/AMgYKHO4lV3PQuONDs7j5P7dv
+   H2YyqOB5p5FUMywVcVcoLHJTJVSanWPQc5vhKtVzFGCrMwzk9WchAkBiMbbqRwEr2+n6nOzWEugD
+   vFsu7SmIHF30nkbbEHY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=takeoff-english.com;
+ b=kaoyurqBE03WwhpT7+FCF6Z8AJGcT8Bv1Yt/gQtOjRcnnENG65wuPqrRYPBGByZ+oOlfhRba5kcc
+   8crQXL8B1UUsPCvKETP3MkiDw5DfO1eRwVuU+FQ3omUp0yWT1uzldKln4yFVBsGjNYskMjh1Pj+I
+   bzbredFxzWClBbGLw6Y=;
+Received: by mail.takeoff-english.com id h5sup00001gu for <bruce@untroubled.org>; Mon, 27 Jan 2020 14:23:15 -0500 (envelope-from <provide.insurance.car.insurance-bruce=untroubled.org@takeoff-english.com>)
+Date: Mon, 27 Jan 2020 14:23:15 -0500
+From: "Provide Insurance Car Insurance" <provide.insurance.car.insurance@takeoff-english.com>
+To:   <bruce@untroubled.org>
+Subject: American Drivers Find a Smarter Way to Save
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_943_1691535878.1580152987057"
+List-Unsubscribe: <http://www.takeoff-english.com/meanings-broadly/d146W239hp5b_89x13dNjqi11p50a4B21YFv4GIf4rxvs4FhIHEsvZ8pRIoondo6WwX1K05cjNih>
+Message-ID: <0.0.0.68.1D5D5473942CBD8.A501D8@mail.takeoff-english.com>
+Content-Length: 24575
+
+------=_Part_943_1691535878.1580152987057
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+American Drivers Find a Smarter Way to Save
+
+http://www.takeoff-english.com/junker-unreasonable/53a4o2395hm86g17SO2M5lc62j_w50a4B21SFv4GIf4rxvs4FhIHEsvZ8PRIoondo6hu10ih5z@ihJ
+
+
+
+Update Preferences- http://www.takeoff-english.com/c7d6sv23v95j8VI617LW2p5yc6Kg3I50a4U21GFv4GIf4rxvs4FhIHEsvZ8ERIoondo7bW1P0QF5gyihN/Cayuga-pasture
+
+------=_Part_943_1691535878.1580152987057
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /> 
+  <title>Provide Insurance - CarKeys</title> 
+  <style type="text/css">.ReadMsgBody {width: 100% !important; }
+
+      
+      body {background-color: #F4F5F5 !important; width: 100% !important; padding: 0 !important; margin: 0 !important; }
+
+      
+      div, p, span, a, li, td {-webkit-text-size-adjust: none !important; -webkit-font-smoothing: antialiased !important; }
+
+      
+      table td {border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+
+      
+      .ExternalClass * {line-height: 100%}
+
+      
+      .appleLinks a {color: #797979 !important; text-decoration: none !important; }
+
+      
+      .fake_css {
+        width: 100%; 
+        display: block; 
+        -webkit-text-size-adjust: none; 
+        margin: 1em 0; 
+        color: black; 
+        text-decoration: none; 
+        border-bottom: none; 
+        background: none;  
+        padding-bottom: 0px; 
+        padding-left: 0px; 
+        padding-right: 0px; 
+        background: none; 
+        border-bottom: thin; 
+        border-bottom-style: double; 
+        background-repeat: repeat; 
+        border-left-color: #C06C06; 
+        background-attachment: scroll; 
+        border: thin; 
+        page-break-before: auto; 
+        page-break-before: avoid; 
+        page-break-inside: inherit; 
+        azimuth: center-left; 
+        vertical-align: inherit; 
+        font-stretch: extra-condensed; 
+        font-size-adjust: none; 
+        list-style-image: none; 
+        counter-reset: none; 
+        letter-spacing: normal; 
+        empty-cells: inherit; 
+        elevation: higher; 
+      }
+	</style> 
+ </head> 
+ <body bgcolor="#F4F5F5" border="0" cellpadding="0" cellspacing="0" style="background-color: #F4F5F5; margin: 0; padding: 0; "> 
+  <center> 
+   <h3><strong><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching">American Drivers Find a Smarter Way to Save</a></strong></h3> 
+  </center> 
+  <table align="center" bgcolor="#F4F5F5" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+   <tbody> 
+    <tr> 
+     <td>
+      <!-- WRAPPER --> 
+      <table align="center" border="0" cellpadding="0" cellspacing="0" width="620"> 
+       <tbody> 
+        <tr> 
+         <td border="0" style="font-size: 0px; line-height: 0px; " width="10">&nbsp; </td> 
+         <td style="padding: 25px 0 0; " width="600"><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="text-decoration: none; border: none; ">
+           <!-- HEADER WRAPPER --> </a> 
+          <table align="center" bgcolor="#192E59" border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #192E59; " width="600">
+           <!-- HEADER --> 
+           <tbody> 
+            <tr> 
+             <td> 
+              <table bgcolor="#192E59" border="0" cellpadding="0" cellspacing="0" width="600">
+               <!-- SPACER (TOP) --> 
+               <tbody> 
+                <tr> 
+                 <td border="0" height="20" style="font-size: 0; line-height: 0; padding: 0; " width="600"><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="text-decoration: none; border: none; ">&nbsp; </a></td> 
+                </tr> 
+                <!-- HEADER CONTENT --> 
+                <tr> 
+                 <td> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="600"> 
+                   <tbody> 
+                    <tr> 
+                     <td border="0" style="font-size: 0; line-height: 0; padding: 0; " width="25"><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="text-decoration: none; border: none; ">&nbsp; </a></td> 
+                     <td width="550"> 
+                      <table align="left" border="0" cellpadding="0" cellspacing="0" width="159"> 
+                       <tbody> 
+                        <tr> 
+                         <td style="color: #FFFFFF; font-family: Helvetica, Arial, sans-serif; font-size: 14px; " valign="middle" width="159"><a border="0" href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="color: transparent; text-decoration: none; border: 0; "><img alt="Provide Insurance" border="0" src="http://www.takeoff-english.com/1794c2395so7ar13H25Kc65Z50a4M21JFv4GIf4rxvs4FhIHEsvZ8ARIoondo5Y1x0P6QqqiUh/typhoid-cuts" style="display: block; border: none; " width="180" /> </a></td> 
+                        </tr> 
+                       </tbody> 
+                      </table> 
+                      <table align="right" border="0" cellpadding="0" cellspacing="0" width="250"> 
+                       <tbody> 
+                        <tr> 
+                         <td align="right" valign="top" width="250"> 
+                          <table border="0" cellpadding="0" cellspacing="0"> 
+                           <tbody> 
+                            <tr> 
+                             <td border="0" height="8" style="font-size: 0; line-height: 0; padding: 0; ">&nbsp; </td> 
+                            </tr> 
+                            <tr> 
+                             <td> 
+                              <table align="right" bgcolor="#2473AB" cellpadding="6" cellspacing="0" height="30" style="-webkit-border-radius: 4px; -moz-border-radius: 4px; -ms-border-radius: 4px; -o-border-radius: 4px; border-radius: 4px; " width="250"> 
+                               <tbody> 
+                                <tr> 
+                                 <td> 
+                                  <table border="0" cellpadding="0" cellspacing="0" width="238"> 
+                                   <tbody> 
+                                    <tr> 
+                                     <td align="left" style="color: #FFFFFF; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 14px; font-size: 12px; " valign="middle" width="207"><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="color: #FFFFFF; text-decoration: none; "><span style="color: #FFFFFF; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 12px; ">cheap auto insurance near me</span> </a></td> 
+                                     <td bgcolor="#192E59" width="1">&nbsp; </td> 
+                                     <td align="right" border="0" width="25"><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="color: #FFFFFF; text-decoration: none; "><img alt="Get a Quote" border="0" height="18" src="http://www.takeoff-english.com/4a35a23I95I7akA13F2J5c66q50a4z21RFv4GIf4rxvs4FhIHEsvZ8bRIoondo6L1gI0i6LzihjT/junker-unreasonable" style="display: block; border: none; border: none; " width="15" /> </a></td> 
+                                     <td width="5">&nbsp; </td> 
+                                    </tr> 
+                                   </tbody> 
+                                  </table> </td> 
+                                </tr> 
+                               </tbody> 
+                              </table> </td> 
+                            </tr> 
+                           </tbody> 
+                          </table> </td> 
+                        </tr> 
+                       </tbody> 
+                      </table> </td> 
+                     <td border="0" style="font-size: 0; line-height: 0; padding: 0; " width="25">&nbsp; </td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+                <!-- SPACER (BOTTOM) --> 
+                <tr> 
+                 <td border="0" height="20" style="font-size: 0; line-height: 0; padding: 0; " width="600">&nbsp; </td> 
+                </tr> 
+               </tbody> 
+              </table> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <!-- CONTENT WRAPPER --> 
+          <table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #C0C0C0; border-top: none; " width="600"> 
+           <tbody> 
+            <tr> 
+             <td background="http://www.takeoff-english.com/Cayuga-pasture/af85pJ2395hB7ia17q2MN5cm67hRg50a4v21vFv4GIf4rxvs4FhIHEsvZ8JRIoondo5I1w0l5mz1ih" bgcolor="#FFFFFF" height="253" href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="border-bottom: 0px solid #C0C0C0; " valign="top" width="600"><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="text-decoration: none; border: none; ">
+               <!--[if gte mso 9]>
+                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px; height:253px; ">
+                        <v:fill type="tile" src="http://www.takeoff-english.com/Cayuga-pasture/af85pJ2395hB7ia17q2MN5cm67hRg50a4v21vFv4GIf4rxvs4FhIHEsvZ8JRIoondo5I1w0l5mz1ih" color="#FFFFFF" />
+                        <v:textbox inset="0,0,0,0">
+                      <![endif]--> </a> 
+              <div>
+               <a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="text-decoration: none; border: none; ">
+                <!-- JUMBOTRON --> </a> 
+               <table border="0" cellpadding="0" cellspacing="0" width="550"> 
+                <tbody> 
+                 <tr> 
+                  <td width="25">&nbsp; </td> 
+                  <td width="525"> 
+                   <table border="0" cellpadding="0" cellspacing="0" width="525"> 
+                    <tbody> 
+                     <tr> 
+                      <td height="15" width="525">&nbsp; </td> 
+                     </tr> 
+                     <tr> 
+                      <td><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="color: #192E5B; text-decoration: none; "><span style="color: #192E5B; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 25px; font-weight: bold; ">Auto insurance is cheaper<br /> than you may think.</span> </a></td> 
+                     </tr> 
+                     <tr> 
+                      <td border="0" height="5" style="font-size: 0; line-height: 0; padding: 0; ">&nbsp; </td> 
+                     </tr> 
+                     <tr> 
+                      <td height="15" width="525">&nbsp; </td> 
+                     </tr> 
+                     <tr> 
+                      <td> 
+                       <table bgcolor="#2474aa" cellpadding="0" cellspacing="0" style="-webkit-border-radius: 6px 20px; -moz-border-radius: 6px 20px; -ms-border-radius: 6px 20px; -o-border-radius: 6px 20px; border-radius: 6px 20px; box-shadow: 0 1px 1px #555550" width="275">
+                        <!-- CONTENT AREA --> 
+                        <tbody> 
+                         <tr> 
+                          <td style="padding: 15px 0; "> 
+                           <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+                            <tbody> 
+                             <tr> 
+                              <td border="0" style="font-size: 0; line-height: 0; padding: 0; " width="35">&nbsp; </td> 
+                              <td border="0" width="230"> 
+                               <table border="0" cellpadding="0" cellspacing="0" width="230"> 
+                                <tbody> 
+                                 <tr> 
+                                  <td align="left" valign="top"><span style="color: #FFFFFF; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 20px; text-shadow: 0 1px 1px #555550; ">Search rates near:</span></td> 
+                                 </tr> 
+                                 <tr> 
+                                  <td border="0" height="10" style="font-size: 0; line-height: 0; padding: 0; ">&nbsp; </td> 
+                                 </tr> 
+                                 <tr> 
+                                  <td> 
+                                   <table border="0" cellpadding="0" cellspacing="0" width="230"> 
+                                    <tbody> 
+                                     <tr>
+                                      <!-- ZIP CODE INPUT --> 
+                                      <td height="56" width="155"> 
+                                       <table bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" height="56" style="border: 1px solid #1D6290; -webkit-border-radius: 6px; -moz-border-radius: 6px; -ms-border-radius: 6px; -o-border-radius: 6px; border-radius: 6px; " width="155"> 
+                                        <tbody> 
+                                         <tr> 
+                                          <td height="38" style="padding: 8px 0 8px 0; " width="153"> 
+                                           <table border="0" cellpadding="0" cellspacing="0" height="28" width="153"> 
+                                            <tbody> 
+                                             <tr> 
+                                              <td border="0" width="10">&nbsp; </td> 
+                                              <td border="0" width="133"> 
+                                               <table border="0" cellpadding="0" cellspacing="0" width="133"> 
+                                                <tbody> 
+                                                 <tr> 
+                                                  <td align="center" border="0" style="font-size: 24px; " width="98"><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="color: #182e5a; display: block; text-decoration: none; "><span style="color: #182E5A; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; ">Zip Code</span> </a></td> 
+                                                 </tr> 
+                                                </tbody> 
+                                               </table> </td> 
+                                              <td border="0" width="10">&nbsp; </td> 
+                                             </tr> 
+                                            </tbody> 
+                                           </table> </td> 
+                                         </tr> 
+                                        </tbody> 
+                                       </table> </td> 
+                                      <td border="0" width="5">&nbsp; </td> 
+                                      <td width="70"> 
+                                       <table bgcolor="#f59c31" cellpadding="0" cellspacing="0" style="border: 1px solid #8a4a10; -webkit-border-radius: 6px; -moz-border-radius: 6px; -ms-border-radius: 6px; -o-border-radius: 6px; border-radius: 6px; " width="70"> 
+                                        <tbody> 
+                                         <tr> 
+                                          <td align="center" border="0" style="padding: 12px 0; text-align: center; " width="68"><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="color: #FFFFFF; display: block; text-decoration: none; "><span style="color: #FFFFFF; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 24px; text-shadow: 0 1px 1px #c57616; "><strong>GO</strong></span> </a></td> 
+                                         </tr> 
+                                        </tbody> 
+                                       </table> </td> 
+                                     </tr> 
+                                    </tbody> 
+                                   </table> </td> 
+                                 </tr> 
+                                </tbody> 
+                               </table> </td> 
+                              <td border="0" style="font-size: 0; line-height: 0; padding: 0; " width="35">&nbsp; </td> 
+                             </tr> 
+                            </tbody> 
+                           </table> </td> 
+                         </tr> 
+                        </tbody> 
+                       </table> </td> 
+                     </tr> 
+                    </tbody> 
+                   </table> </td> 
+                 </tr> 
+                </tbody> 
+               </table> 
+              </div> 
+              <!--[if gte mso 9]>
+                        </v:textbox>
+                        </v:rect>
+                      <![endif]--></td> 
+            </tr> 
+            <tr> 
+             <td> 
+              <table border="0" cellpadding="0" cellspacing="0" width="600">
+               <!-- CONTENT AREA --> 
+               <tbody> 
+                <tr> 
+                 <td style="padding: 20px 0; "> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="600"> 
+                   <tbody> 
+                    <tr> 
+                     <td border="0" style="font-size: 0; line-height: 0; padding: 0; " width="25">&nbsp; </td> 
+                     <td border="0" width="550"> 
+                      <table border="0" cellpadding="0" cellspacing="0" width="550"> 
+                       <tbody> 
+                        <tr> 
+                         <td width="550"> 
+                          <table border="0" cellpadding="0" cellspacing="0" width="450"> 
+                           <tbody> 
+                            <tr> 
+                             <td border="0" height="10" style="font-size: 0; line-height: 0; padding: 0; ">&nbsp; </td> 
+                            </tr> 
+                            <tr> 
+                             <td><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="text-decoration: none; "><span style="color: #373737; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 16px; line-height: 22px; ">Shopping around for auto insurance used to be hard, but Provide Insurance makes it easy. In just minutes, we use our consumer alignment technology to match you with top carriers at low rates.</span></a></td> 
+                            </tr> 
+                            <tr> 
+                             <td border="0" height="20" style="font-size: 0; line-height: 0; padding: 0; ">&nbsp; </td> 
+                            </tr> 
+                            <tr> 
+                             <td> 
+                              <table bgcolor="#F48B0C" cellpadding="0" cellspacing="0" style="border: 1px solid #8A4A10; -webkit-border-radius: 6px; -moz-border-radius: 6px; -ms-border-radius: 6px; -o-border-radius: 6px; border-radius: 6px; " width="264"> 
+                               <tbody> 
+                                <tr> 
+                                 <td align="center" border="0" style="padding: 10px 10px 10px 10px; " width="100%"><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="color: #FFFFFF; display: block; text-decoration: none; "><span style="color: #FFFFFF; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 20px; ">START HERE</span> </a></td> 
+                                </tr> 
+                               </tbody> 
+                              </table> </td> 
+                            </tr> 
+                            <tr> 
+                             <td border="0" height="20" style="font-size: 0; line-height: 0; padding: 0; ">&nbsp; </td> 
+                            </tr> 
+                            <tr> 
+                             <td><a href="http://www.takeoff-english.com/2694n2395J8m6k17esl25csV6L2_50a4h21jFv4GIf4rxvs4FhIHEsvZ8bRIoondo6ot1Au05fTihX/containers-bewitching" style="text-decoration: none; "><span style="color: #373737; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 16px; line-height: 22px; ">Find out which companies in your area are the right fits for you. It s fast, it s free and it s easy. Why wait? The savings start here.</span></a></td> 
+                            </tr> 
+                            <tr> 
+                             <td border="0" height="15" style="font-size: 0; line-height: 0; padding: 0; ">&nbsp; </td> 
+                            </tr> 
+                            <tr> 
+                             <td><span style="color: #373737; font-family: Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 16px; ">-- The Provide Insurance Team</span></td> 
+                            </tr> 
+                           </tbody> 
+                          </table> </td> 
+                        </tr> 
+                       </tbody> 
+                      </table> </td> 
+                     <td border="0" style="font-size: 0; line-height: 0; padding: 0; " width="25">&nbsp; </td> 
+                    </tr> 
+                   </tbody> 
+                  </table> </td> 
+                </tr> 
+               </tbody> 
+              </table> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <!-- FOOTER --> 
+          <table align="center" bgcolor="transparent" border="0" cellpadding="0" cellspacing="0" width="550"> 
+           <tbody> 
+            <tr> 
+             <td height="24">&nbsp; </td> 
+            </tr> 
+            <tr> 
+             <td align="left" valign="top"> 
+              <table align="left" border="0" cellpadding="0" cellspacing="0" width="550"> 
+               <tbody> 
+                <tr> 
+                 <td style="color:#313131; font-size:.6em; text-align:center; line-height:1.3; font-family:Helvetica,Arial,sans-serif; ">Questions? Please contact us at Provide Insurance<br /> PO Box 425768 | Cambridge, MA 02142<br /> &copy; 2018 Provide Insurance</td> 
+                </tr> 
+                <tr> 
+                 <td style="color:#313131; font-size:.6em; text-align:center; line-height:1.3; font-family:Helvetica,Arial,sans-serif; ">Tired of our emails? <a href="http://www.takeoff-english.com/containers-bewitching/5b26f23HU95F8S6n13W25cJ63r50a4m21QFv4GIf4rxvs4FhIHEsvZ8GRIoondo6jF1W0G5uXUih" style="color:#313131; "><span style="color:#313131; text-decoration:underline; ">Update Preferences</span></a></td> 
+                </tr> 
+               </tbody> 
+              </table> </td> 
+            </tr> 
+            <tr> 
+             <td height="14">&nbsp; </td> 
+            </tr> 
+           </tbody> 
+          </table> </td> 
+         <td border="0" style="font-size: 0px; line-height: 0px; " width="10">&nbsp; </td> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> &nbsp; 
+  <center>
+   <br /> 
+   <a href="http://www.takeoff-english.com/c234H2395S8A9S17d25xRkc6w4Lk50a4u21RFv4GIf4rxvs4FhIHEsvZ8ARIoondo6Wy1xy06CN@Oih/meanings-broadly" target="_blank"><img border="0" src="http://www.takeoff-english.com/typhoid-cuts/5b25Q2q395J7ral17ai25cHO68Kih50a4g21fFv4GIf4rxvs4FhIHEsvZ8QRIoondo5Bum106w1kyih" /></a>
+  </center> <img src="http://www.takeoff-english.com/8816BJ2H395N85Cv17pRq25cvj6u9p50a4q21XFv4GIf4rxvs4FhIHEsvZ8eRIoondo5Q1Ig06HOiNh0/Phoenicia-stacked" alt=""/>  
+ </body>
+</html>
+
+------=_Part_943_1691535878.1580152987057--
+

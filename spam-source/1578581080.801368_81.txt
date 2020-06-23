@@ -1,0 +1,66 @@
+Return-Path: <SRS0=XkAwte=26=acturne.host=bounce+Ek1IOglidiE0r2lT8P0xPxjFcEAnwtq0s@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28734 invoked from network); 9 Jan 2020 12:41:50 -0000
+Received: (qmail 31047 invoked from network); 9 Jan 2020 12:41:48 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Jan 2020 12:41:48 -0000
+Received: (qmail 25793 invoked by uid 48516); 9 Jan 2020 12:41:48 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 4527 invoked from network); 9 Jan 2020 12:41:47 -0000
+Received: from acturne.host (238-205-15-51.rev.cloud.scaleway.com [51.15.205.238])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 09 Jan 2020 12:41:47 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=acturne.host;
+ h=MIME-Version:From:Subject:Message-ID:Reply-To:To:Content-Transfer-Encoding:Content-Type:Date; i=1ink.com+qBF0vr9osZl9dEwPlohiQqQoC8fXJCWOz@acturne.host;
+ bh=55FJVZFPCu1ZfjZ0KMNcvEWOcJo=;
+ b=oJKY8uenGaJLny8LS491RtZdpDOJ45z/HordreMnj8qrvP4hrG6dLu5XqVj1eD/Qg+M7/3DS0XzR
+   Is3qS0NNON4vOQkR6vcW/5R8QD0JNJ9/8lJHn2mObq0hoPy+yOwaCy+eH5xmFhRHTFGisZLHQ0b5
+   4FLqSEAzcPNIPortA/M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=acturne.host;
+ b=ApwRkdzy0TJTtFL4e8zrID+5u/6pzNEe/IJO8ofzBjEZ/FJHI8i2/nf84ezuBx7e1zkzxAGIarQf
+   Zr3HRqu1pyPvGAZrfrgkEI52PqjAHWdP9/hetGRneLJdO/7SBAp12ytYPaj9l2p6ofwOwOzE/2Ll
+   f1Xaou7Z7KZLXt2xI5A=;
+MIME-Version: 1.0
+From: 1ink.com* <1ink.com+qBF0vr9osZl9dEwPlohiQqQoC8fXJCWOz@acturne.host>
+Subject: SAVE up to 85% on Ink and Toner today - Free shipping available
+Message-ID: <20191102083153.18506470.236653.0984640281446457552554@sailthru.com>
+Reply-To: reply@acturne.host
+Received: from acturne.host (10.5.65.39) by acturne.host id cHAz5hOmfUqA for <bruce@untroubled.org>; Thu, 09 Jan 2020 13:23:16 +0100 (envelope-from <return@acturne.host>
+To: bruce@untroubled.org
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="UTF-8"
+Date: Thu, 09 Jan 2020 13:23:16 +0100
+Content-Length: 1938
+
+<img alt='' src='http://acturne.host/r.php?t=o&d=4221&l=1547&c=5246' width='1px' height='1px' style='visibility:hidden'/>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head></head><body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="background-color: #ffffff">
+
+
+
+ 
+
+<CENTER><A href="http://acturne.host/r.php?t=c&d=4221&l=1547&c=5246"><font color=#0000FF face="Copperplate Gothic Light" size=6>Hi bruce, SAVE up to 85% on Ink and Toner today - Free shipping available </font> 
+<font color=#0000FF face="Copperplate Gothic Light" size=5></font></A></CENTER>
+
+<CENTER>
+
+ <table style="background-color: #ffffff;" id="templateContainer" align="center" border="0" cellpadding="0" cellspacing="0" width="650"><tbody><tr><td>
+ <a href="http://acturne.host/r.php?t=c&d=4221&l=1547&c=5246">
+ 
+
+ <img border="0" src="https://e.o9eo.com/i/6385/e/76564/0.jpg" width="650" height="61" alt="" class="auto-style1"></a></td>
+ </tr><tr><td>
+ <a href="http://acturne.host/r.php?t=c&d=4221&l=1547&c=5246">
+ <img border="0" src="https://i.imgur.com/MYpQq7E.gif" width="650" height="365" alt="" class="auto-style1"></a></td>
+ </tr><tr><td>
+ <a href="http://acturne.host/r.php?t=c&d=4221&l=1547&c=5246">
+ <img border="0" src="https://e.o9eo.com/i/6385/e/76564/2.jpg" width="650" height="268" alt="" class="auto-style1"></a></td>
+ </tr><tr><td>
+ <a href="http://acturne.host/r.php?t=u&d=4221&l=1547&c=5246">
+ <img border="0" src="https://e.o9eo.com/i/6385/e/76564/3.jpg" width="650" height="50" alt="" class="auto-style1"></a></td>
+ </tr></tbody></table></div></CENTER></body></html>
+
+<span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://acturne.host/opt.php?d=4221&l=1547&c=5246&em=f8f706c3938feec43d1f111ad3c0a047">here</a> to remove yourself from our emails list</span>

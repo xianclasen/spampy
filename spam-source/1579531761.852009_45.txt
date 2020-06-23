@@ -1,0 +1,94 @@
+Return-Path: <SRS0=y3Qmbg=3J=mail.trackfitt.co=6680-9790-262549-1784-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12323 invoked from network); 20 Jan 2020 08:28:24 -0000
+Received: (qmail 6771 invoked from network); 20 Jan 2020 08:28:23 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Jan 2020 08:28:23 -0000
+Received: (qmail 4769 invoked by uid 48516); 20 Jan 2020 08:28:23 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9695 invoked from network); 20 Jan 2020 08:28:22 -0000
+Received: from fuse.trackfitt.co (client-23-254-229-9.hostwindsdns.com [23.254.229.9])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 20 Jan 2020 08:28:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=trackfitt.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=BestObama@trackfitt.co;
+ bh=WFKZSEB8RFsflpm8xrYm+/PRmTc=;
+ b=AgzSGVlcpZiVOrQrD/wVQnFaEmFU+u7zBQUpX8NRniHTRswqdcdHzo6pP7bFEzkuIT5qef4hxE6S
+   mZEG2h+iTNR46n0jV+1KXPZ4bGMErcj7N+ro+yaeFDKuMnZcv7SKJOX5UJ3pTEWK36mShqub4q2/
+   lYqAYj1GSJFmUbAZWDw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=trackfitt.co;
+ b=WeRYpuKCj9rxpvpJj838QfOO9jl0dBJopDRTiwQtYgcSMN4BIv+2TLQB3YDnoAiAXT+MF7C9JCco
+   lVPI38GH4KR4g1jKSCmidvmjMox9tPoScMTEa3qCXveSnLWS8Z3knWcRrQfbZnJIOBpdHYxpRSw7
+   A5/WLfCOT/yTjxiKHCc=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="e7416b66a2af2572a53554dbad9fbc29_263e_40195"
+Date: Mon, 20 Jan 2020 03:26:46 -0500
+From: "BestObamaCare" <BestObama@trackfitt.co>
+Reply-To: "BestObamaCare" <BestObamaCare@trackfitt.co>
+Subject: You could save big
+To: <bruce@untroubled.org>
+Message-ID: <i86lg3f2o3mzsnk6-we1vncol8kso8ht0-263e-40195@trackfitt.co>
+Content-Length: 6011
+
+--e7416b66a2af2572a53554dbad9fbc29_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+You could save big
+
+http://trackfitt.co/Vj5W1NoehkehrtyG6PTcChgzjh90iMksrcI7hzEUfLzzcEPG
+
+http://trackfitt.co/J41g2uhiRx6sMFuw8OMxyVMfhSPpJwSMa-XtIoiSesMjVih9
+
+The Global Positioning System (GPS), originally NAVSTAR GPS, is a satellite-based radionavigation system owned by the United States government and operated by the United States Air Force. It is a global navigation satellite system (GNSS) that provides geolocation and time information to a GPS receiver anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites. Obstacles such as mountains and buildings block the relatively weak GPS signals.
+
+The GPS does not require the user to transmit any data, and it operates independently of any telephonic or internet reception, though these technologies can enhance the usefulness of the GPS positioning information. The GPS provides critical positioning capabilities to military, civil, and commercial users around the world. The United States government created the system, maintains it, and makes it freely accessible to anyone with a GPS receiver.
+
+The GPS project was started by the U.S. Department of Defense in 1973, with the first prototype spacecraft launched in 1978 and the full constellation of 24 satellites operational in 1993. Originally limited to use by the United States military, civilian use was allowed from the 1980s. Advances in technology and new demands on the existing system have now led to efforts to modernize the GPS and implement the next generation of GPS Block IIIA satellites and Next Generation Operational Control System (OCX). Announcements from Vice President Al Gore and the White House in 1998 initiated these changes. In 2000, the U.S. Congress authorized the modernization effort, GPS III. During the 1990s, GPS quality was degraded by the United States government in a program called "Selective Availability"; this was discontinued in May 2000 by a law signed by President Bill Clinton.
+
+The GPS service is provided by the United States government, which can selectively deny access to the system, as happened to the Indian military in 1999 during the Kargil War, or degrade the service at any time. As a result, several countries have developed or are in the process of setting up other global or regional satellite navigation systems. The Russian Global Navigation Satellite System
+
+--e7416b66a2af2572a53554dbad9fbc29_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://trackfitt.co/cz8Vrg0iMoyZTFOq9JLjX3QsoxeOOaHUmLIlXD4JRVpjQWjN"><img src="http://trackfitt.co/c1600035ab81ccee70.jpg" /><img height="1" src="http://www.trackfitt.co/80I8ggqfdkJWTL4vomoMLNz-UIgZv-2GG2_PVe9V43Lppn_D" width="1" /></a><br />
+&nbsp;
+<center><a href="http://trackfitt.co/Vj5W1NoehkehrtyG6PTcChgzjh90iMksrcI7hzEUfLzzcEPG" style="font-size:30px;">You could save big</a><br />
+<br />
+<a href="http://trackfitt.co/Vj5W1NoehkehrtyG6PTcChgzjh90iMksrcI7hzEUfLzzcEPG"><img src="http://trackfitt.co/fbe134b1213a3ef65a.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://trackfitt.co/sl_x9GBEIl0aaGOvv2ZOgN3pbecEO3nC5uN6xicqBIvU0QZM"><img src="http://trackfitt.co/3236304b009dd746d8.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://trackfitt.co/J41g2uhiRx6sMFuw8OMxyVMfhSPpJwSMa-XtIoiSesMjVih9"><img src="http://trackfitt.co/930bfa0134c051a44f.jpg" /></a></center>
+<span style="color:#FFFFFF;font-size:12px;"> The Global Positioning System (GPS), originally NAVSTAR GPS, is a satellite-based radionavigation system owned by the United States government and operated by the United States Air Force. It is a global navigation satellite system (GNSS) that provides geolocation and time information to a GPS receiver anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites. Obstacles such as mountains and buildings block the relatively weak GPS signals. The GPS does not require the user to transmit any data, and it operates independently of any telephonic or internet reception, though these technologies can enhance the usefulness of the GPS positioning information. The GPS provides critical positioning capabilities to military, civil, and commercial users around the world. The United States government created the system, maintains it, and makes it freely accessible to anyone with a GPS receiver. The GPS project was started by the U.S. Department of Defense in 1973, with the first prototype spacecraft launched in 1978 and the full constellation of 24 satellites operational in 1993. Originally limited to use by the United States military, civilian use was allowed from the 1980s. Advances in technology and new demands on the existing system have now led to efforts to modernize the GPS and implement the next generation of GPS Block IIIA satellites and Next Generation Operational Control System (OCX). Announcements from Vice President Al Gore and the White House in 1998 initiated these changes. In 2000, the U.S. Congress authorized the modernization effort, GPS III. During the 1990s, GPS quality was degraded by the United States government in a program called &quot;Selective Availability&quot;; this was discontinued in May 2000 by a law signed by President Bill Clinton. The GPS service is provided by the United States government, which can selectively deny access to the system, as happened to the Indian military in 1999 during the Kargil War, or degrade the service at any time. As a result, several countries have developed or are in the process of setting up other global or regional satellite navigation systems. The Russian Global Navigation Satellite System</span></center>
+</body>
+</html>
+
+--e7416b66a2af2572a53554dbad9fbc29_263e_40195--

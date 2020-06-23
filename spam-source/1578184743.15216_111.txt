@@ -1,0 +1,113 @@
+Return-Path: <SRS0=W6aexw=2Z=mail.ascendnutri.best=5815-2982-85526-1569-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 30183 invoked from network); 4 Jan 2020 12:10:50 -0000
+Received: (qmail 23452 invoked from network); 4 Jan 2020 12:10:49 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Jan 2020 12:10:49 -0000
+Received: (qmail 14242 invoked by uid 48516); 4 Jan 2020 12:10:49 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5278 invoked from network); 4 Jan 2020 12:10:48 -0000
+Received: from pool.ascendnutri.best (atlux32s.atlantissign.press [170.130.172.196])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 04 Jan 2020 12:10:42 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=ascendnutri.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=FireStarter@ascendnutri.best;
+ bh=3qVZMHgLtFJl9p/xY2KYLc7ZUEU=;
+ b=Z0ShmQxYKxK6PGPz1dCgcrPbrtP7Yg6nhy8nmVlk+20PuHkEgEgazV8KU8OtWdfjgO4UQpxeMfun
+   9X6kWXZFelnSE5hNq37LTGvtlf8qFOFCxtA22o0ISfMs5hKk11ypphQeayvAUPLBEvSTVwkb5PWl
+   hfXiElVOgPyCTGwSpDU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=ascendnutri.best;
+ b=jtz2jutpuJs4YlPLE5+P+1zHb2X+fPbl6Kk8oJg/68OAqLl4R8K7S8HUZt/9JGcL4fre4/3FCpTH
+   f/7Zemr/HQnqqL02fyjVwRmSebg7OWUO5aCDDUx6Hu+xROzQ1dvvjmY2ycC88EdB/z5Ofqo1IIDR
+   K0RpBHQkqWArJ3I2Y7w=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="8a14cf82917ebd237a4b4f0252b60ecf_ba6_14e16"
+Date: Sat, 4 Jan 2020 07:09:56 -0500
+From: "Waterproof" <FireStarter@ascendnutri.best>
+Reply-To: "Waterproof" <Waterproof@ascendnutri.best>
+Subject: FREE Waterproof Fire Starters Almost Gone!
+To: <bruce@untroubled.org>
+Message-ID: <qmxeh4pk4c143kh6-2kp0j1f4w4ywui40-ba6-14e16@ascendnutri.best>
+Content-Length: 6787
+
+--8a14cf82917ebd237a4b4f0252b60ecf_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+FREE Waterproof Fire Starters Almost Gone!
+
+http://ascendnutri.best/ENqxly5UdbwGyirOPN-CFaLX-bqOEs3SMdA65JgA0cxSSTzU
+
+http://ascendnutri.best/7utL2iz-rnD2rjdx0HVThi0sF4-qq-_BaUXhO-MOuT5mZLgl
+
+The court held a hearing to decide whether the proposed settlement was fair on February 18, 2010. On March 22, 2011, the supervising judge, Denny Chin, issued a ruling rejecting the settlement.
+
+Chin discussed seven objections to the settlement in his opinion, including those regarding its implications to copyright, antitrust, privacy, and international law. Chin's primary reason for blocking the settlement was based on the fact that the amended settlement agreement would "release Google (and others) from liability for certain future acts."
+
+Chin urged that the settlement be revised from one whether authors "opt-in" to having their works digitized rather than "opt-out", and set on April 25 date for a "status conference" at which to discuss next steps.
+
+A status conference was held on June 1, 2011, which deferred the meeting until July 19. At the July 19 status conference the parties attempted to "reassure Judge Chin that the negotiations were making real progress," and Judge Chin scheduled another status conference for September 15, urging the parties to come to an acceptable opt-in agreement or face a "tight discovery schedule". The status conference on September 15 resulted in a discovery schedule that would have had the case at trial by July 2012, after Judge Chin certified the class represented by the Authors Guild.
+
+However, in 2013, the Second Circuit Court of Appeals overturned the class certification, and remanded the case to the District Court for consideration of its fair use issues. Judge Chin then received the case and ordered that both parties "file their oppositions to the cross-motions for summary judgment" with brief legal memoranda under a strict timeline for subsequent oral arguments, responses, and replies. In view of the statements, affidavits, evidence discovery, and arguments, Judge Chin ruled that "the plaintiffs' motion for partial summary judgment is denied and Google's motion for summary judgment is granted". On December 23 of the same year, a filing for appeal was submitted by the Association of American Publishers and its lawyers on behalf of multiple publishing companies, The Authors Guild et al., moving the case back into the U.S. Second Circuit Courts.
+
+--8a14cf82917ebd237a4b4f0252b60ecf_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><br />
+<br />
+<br />
+&nbsp;
+<div style="width:629px; padding:10px;font-family:Arial;">Dear Patriot,<br />
+<br />
+YIKES! We are running out!<br />
+<br />
+<a href="http://ascendnutri.best/ENqxly5UdbwGyirOPN-CFaLX-bqOEs3SMdA65JgA0cxSSTzU">Click here to get yours fast.</a><br />
+<br />
+Yesterday I sent you a mail about an amazing new waterproof fire starter that they are letting me give away FREE to our readers and ya&rsquo;ll went CRAZY.<br />
+<br />
+esmatch<br />
+<br />
+<a href="http://ascendnutri.best/ENqxly5UdbwGyirOPN-CFaLX-bqOEs3SMdA65JgA0cxSSTzU"><img src="http://ascendnutri.best/f8a2bf67f2b7af4f91.png" /></a><br />
+<br />
+Over 1500 are GONE in less than 24 hours so there are just a few left.<br />
+<br />
+<a href="http://ascendnutri.best/ENqxly5UdbwGyirOPN-CFaLX-bqOEs3SMdA65JgA0cxSSTzU">&gt;&gt; Click here to claim yours before we run out &lt;&lt;</a><br />
+<br />
+This thing is amazing. Soaked in water it still makes fire.<br />
+<br />
+You gotta get one, everybody you show will be amazed, it&rsquo;s like a magic trick.<br />
+<br />
+Ryan Reader<br />
+<br />
+P.S. If the page says GONE in big red letters we have run completely out and I&rsquo;m sorry, there&#39;s nothing I can do.<br />
+<br />
+Better shake a tail feather. &gt;&gt;<br />
+<br />
+Ryan M. Reader <a href="http://ascendnutri.best/ENqxly5UdbwGyirOPN-CFaLX-bqOEs3SMdA65JgA0cxSSTzU">Click here now before it&#39;s too late</a><br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">The court held a hearing to decide whether the proposed settlement was fair on February 18, 2010. On March 22, 2011, the supervising judge, Denny Chin, issued a ruling rejecting the settlement. Chin discussed seven objections to the settlement in his opinion, including those regarding its implications to copyright, antitrust, privacy, and international law. Chin&#39;s primary reason for blocking the settlement was based on the fact that the amended settlement agreement would &quot;release Google (and others) from liability for certain future acts.&quot; Chin urged that the settlement be revised from one whether authors &quot;opt-in&quot; to having their works digitized rather than &quot;opt-out&quot;, and set on April 25 date for a &quot;status conference&quot; at which to discuss next steps. A status conference was held on June 1, 2011, which deferred the meeting until July 19. At the July 19 status conference the parties attempted to &quot;reassure Judge Chin that the negotiations were making real progress,&quot; and Judge Chin scheduled another status conference for September 15, urging the parties to come to an acceptable opt-in agreement or face a &quot;tight discovery schedule&quot;. The status conference on September 15 resulted in a discovery schedule that would have had the case at trial by July 2012, after Judge Chin certified the class represented by the Authors Guild. However, in 2013, the Second Circuit Court of Appeals overturned the class certification, and remanded the case to the District Court for consideration of its fair use issues. Judge Chin then received the case and ordered that both parties &quot;file their oppositions to the cross-motions for summary judgment&quot; with brief legal memoranda under a strict timeline for subsequent oral arguments, responses, and replies. In view of the statements, affidavits, evidence discovery, and arguments, Judge Chin ruled that &quot;the plaintiffs&#39; motion for partial summary judgment is denied and Google&#39;s motion for summary judgment is granted&quot;. On December 23 of the same year, a filing for appeal was submitted by the Association of American Publishers and its lawyers on behalf of multiple publishing companies, The Authors Guild et al., moving the case back into the U.S. Second Circuit Courts. </span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://ascendnutri.best/TYNS42TDcPMc213e5XzvY-eI_zoaZbJNYBMZl8cxBuo37bzk" target="_blank"><img src="http://ascendnutri.best/d7bc2bae71bd5a3800.jpg" /></a><br />
+&nbsp;</div>
+</body>
+</html>
+
+--8a14cf82917ebd237a4b4f0252b60ecf_ba6_14e16--

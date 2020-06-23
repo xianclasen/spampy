@@ -1,0 +1,87 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 32596 invoked from network); 14 Jan 2020 16:23:16 -0000
+Received: (qmail 4262 invoked from network); 14 Jan 2020 16:23:15 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 16:23:15 -0000
+Received: (qmail 19261 invoked by uid 48516); 14 Jan 2020 16:23:15 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10874 invoked from network); 14 Jan 2020 16:23:13 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 14 Jan 2020 16:23:13 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1728731AbgANQXM (ORCPT <rfc822;bruce@untroubled.org>);
+        Tue, 14 Jan 2020 11:23:12 -0500
+Received: from mail-io1-f68.google.com ([209.85.166.68]:45378 "EHLO
+        mail-io1-f68.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1726342AbgANQXL (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Tue, 14 Jan 2020 11:23:11 -0500
+Received: by mail-io1-f68.google.com with SMTP id i11so14437582ioi.12
+        for <linux-kernel@vger.kernel.org>; Tue, 14 Jan 2020 08:23:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=4RbjksI4ZVf8jlMAui9QSDoZFwWF9mQNUo5m2497TSc=;
+        b=ivxeIqnDGG2IPj9/lbhO5RIgpchuTRJIBcbtiK0vCwtmMsgUCquQtt1lgRB24Rdi3U
+         433Z4zGeEF1dtED3XsNhNO4TECggm2mOYJLSz2bgeeGQAePcA8xrCdrMey7alEh+T08Z
+         uyBSIn7pi+Dvg5f5h/pOicZt1oRmaEBB87obVZ3Cxz4XMliFF9DjSPUBIBR0cCkYDXtu
+         d6C864QDoOzkX9MlLKqHwSEYVJkjGdyJGaHAvpO4ajrvtL/IrtSjV5aLb873FwjD9ou1
+         5IsTK9x5qHkJCM0MIfrtFo9Z+aBanyKN+Efhh/rAjtru4Ij5uja0ffMxT34I4BD7RtGv
+         lsHQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to:content-transfer-encoding;
+        bh=4RbjksI4ZVf8jlMAui9QSDoZFwWF9mQNUo5m2497TSc=;
+        b=hTkygFOXX2CY2DgRvEucr6vxSyF2cSy3uuDk2jYoD55wXyKw8SPJ2i+t+DGVV0PJSl
+         5T8mVIauNWqD0miNs/TV/DIHjXKX+m2FFngL3OTvK1PfmBtAJpdsBSkJGqwTSokggKsK
+         oU2NElNVeFbvwjj3Q1l0Hx6vvfY/kfSYJ3tf67dNqD1cy0Oz8XhkgpLAd6fgDmUXns03
+         ECuBtJE1XtgKrz47O63GoP63Ks5yr33QIs9gyyXxBGgEzoTSYT7tPgF+t1OzwcmH49I1
+         cx0lHklV7VmPjlf7Ak9PHe+FCx1uxW1ZRMROvb6NW6pkSKC2/DvmbVhrC6loT2DZaqPP
+         ILug==
+X-Gm-Message-State: APjAAAUAAuENGzAU8iv7KZN9WReeuM6aeFrYw8HRWj9q2XpcwPm0inb9
+        /TgLcYoWuDX/MBJHrztJ5kiyz0V4vR3NT+aJZLc=
+X-Google-Smtp-Source: APXvYqw8FoAyu9xw6e8ZLdUILqg1lBJXWS1Bdg7P+lIfjlrLnKw89R/gpPcrpU/TYg8ySypzehsm+PTRVghC7vf3k0c=
+X-Received: by 2002:a5e:9507:: with SMTP id r7mr17073461ioj.152.1579018991200;
+ Tue, 14 Jan 2020 08:23:11 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:a6b:5a0a:0:0:0:0:0 with HTTP; Tue, 14 Jan 2020 08:23:10
+ -0800 (PST)
+Reply-To: aakkaavvii@gmail.com
+From:   Abraham Morrison <mrbidokeke@gmail.com>
+Date:   Tue, 14 Jan 2020 08:23:10 -0800
+Message-ID: <CADSEnMo6OUNvTLAhAVat_EReeXY1KWOwX_MxwkRnrvNNwWgO-g@mail.gmail.com>
+Subject: Good day!
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 1500
+
+RGVhciBGcmllbmQsDQpJIGFtIEJhcnJpc3RlciBBYnJhaGFtIE1vcnJpc29uLCBEaWQgeW91IHJl
+Y2VpdmUgbXkgcHJldmlvdXMgbWVzc2FnZQ0KdG8geW91PyBJIGhhdmUgYW4gaW1wb3J0YW50IGlu
+Zm9ybWF0aW9uIGZvciB5b3UgYWJvdXQgeW91ciBpbmhlcml0YW5jZQ0KZnVuZCB3b3J0aCBvZiAo
+JDIwLDUwMCwwMDAuMDApIE1pbGxpb24gd2hpY2ggd2FzIGxlZnQgZm9yIHlvdSBieSB5b3VyDQps
+YXRlIHJlbGF0aXZlLCBNci4gQWxleGFuZGVyLiBTbyBpZiB5b3UgYXJlIGludGVyZXN0ZWQgZ2V0
+IGJhY2sgdG8gbWUNCmZvciBtb3JlIGRldGFpbHMuDQpUaGFuayB5b3UuDQpCYXJyaXN0ZXIgQWJy
+YWhhbSBNb3JyaXNvbi4NCi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uDQrQlNC+0YDQvtCz0L7QuSDQtNGA0YPQsywNCtCvINCR0LDRgNGA
+0LjRgdGC0LXRgCDQkNCy0YDQsNCw0Lwg0JzQvtGA0YDQuNGB0L7QvSwg0JLRiyDQv9C+0LvRg9GH
+0LjQu9C4INC80L7QtSDQv9GA0LXQtNGL0LTRg9GJ0LXQtSDRgdC+0L7QsdGJ0LXQvdC40LUg0LTQ
+u9GPDQrQstCw0YE/INCjINC80LXQvdGPINC10YHRgtGMINC00LvRjyDQstCw0YEg0LLQsNC20L3Q
+sNGPINC40L3RhNC+0YDQvNCw0YbQuNGPINC+INCy0LDRiNC10Lwg0L3QsNGB0LvQtdC00YHRgtCy
+0LXQvdC90L7QvA0K0YTQvtC90LTQtSDQsiDRgNCw0LfQvNC10YDQtSAoMjAgNTAwIDAwMCwwMCkg
+0LzQuNC70LvQuNC+0L3QvtCyINC00L7Qu9C70LDRgNC+0LIsINC+0YHRgtCw0LLQu9C10L3QvdC+
+0Lwg0LLQsNC8DQrQv9C+0LrQvtC50L3Ri9C8INGA0L7QtNGB0YLQstC10L3QvdC40LrQvtC8LCDQ
+vNC40YHRgtC10YAg0JDQu9C10LrRgdCw0L3QtNGALiDQotCw0Log0YfRgtC+LCDQtdGB0LvQuCDQ
+stGLDQrQt9Cw0LjQvdGC0LXRgNC10YHQvtCy0LDQvdGLLCDRgdCy0Y/QttC40YLQtdGB0Ywg0YHQ
+viDQvNC90L7QuSDQtNC70Y8g0LHQvtC70LXQtSDQv9C+0LTRgNC+0LHQvdC+0Lkg0LjQvdGE0L7R
+gNC80LDRhtC40LguDQrQodC/0LDRgdC40LHQvi4NCtCR0LDRgNGA0LjRgdGC0LXRgCDQkNCy0YDQ
+sNCw0Lwg0JzQvtGA0YDQuNGB0L7QvS4NCg==

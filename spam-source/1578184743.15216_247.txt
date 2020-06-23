@@ -1,0 +1,98 @@
+Return-Path: <SRS0=qHSECv=2Y=wommon.date=fuel.legends.keto-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11841 invoked from network); 3 Jan 2020 16:35:45 -0000
+Received: (qmail 18987 invoked from network); 3 Jan 2020 16:35:44 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Jan 2020 16:35:44 -0000
+Received: (qmail 18837 invoked by uid 48516); 3 Jan 2020 16:35:44 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 18036 invoked from network); 3 Jan 2020 16:35:43 -0000
+Received: from mail.wommon.date (70-102-103-8.nca.lanset.com [70.102.103.8])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 03 Jan 2020 16:35:42 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=wommon.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fuel.legends.keto@wommon.date;
+ bh=ob002Dtq8GXRuIDdP4UAM4mBI5A=;
+ b=moLPtWaQ8/Pqu8zfaionxzYwUJyQEaylCYyxOChuprhI+E/PaJtk5rA0qIYWztlBPvnKQsKw90Qa
+   6KG9wBsqGeCa4EdvCWM17i7mjhtjpGnXE8soZRIVT/0ddxYmS7nHBVO1mF1zYQMq+J8i/7Ib1Gft
+   6tvLNdQBe0TUlS4XK80=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=wommon.date;
+ b=MTHQe51urnfTc6O0wEoH9TmW8LVqy4DYIBc5wqgDZaw83nfE3+RSFHE6OV34y61Mnhfu1UOL9KU1
+   a13LIh6jt4gmURLzr6yvVWjoWz08AW1YE9dinfIZhOhwAhiDFnMZJRdZ+8PLfS0Fd9m/pbnv/LVd
+   edsR/X4AUgGZQOFihZM=;
+Received: by mail.wommon.date id h1tmlu0001g1 for <bruce@untroubled.org>; Fri, 3 Jan 2020 11:29:20 -0500 (envelope-from <fuel.legends.keto-bruce=untroubled.org@wommon.date>)
+Date: Fri, 3 Jan 2020 11:29:20 -0500
+From: "Fuel Legends Keto" <fuel.legends.keto@wommon.date>
+To:   <bruce@untroubled.org>
+Subject: The Fuel You Need for the Weight You Desire
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_208_285984841.1578068945816"
+List-Unsubscribe: <http://www.wommon.date/b335S239m5a89nF11n1JB1w19c0u21SFv4GIf4rxvs4FhIHEsvZ10uQ5RQmnou97P10UPyU6EWHLOi/upside-slaver>
+Message-ID: <0.0.0.17.1D5C252F3540350.2ECD86@mail.wommon.date>
+Content-Length: 3713
+
+------=_Part_208_285984841.1578068945816
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>sustain prongs</title>=20
+ </head>=20
+ <body>=20
+  <center>
+   <span style=3D"font-family:verdana,geneva,sans-serif; "><span style=3D"f=
+ont-size:18px; "><a href=3D"http://www.wommon.date/transmitters-adjectives/b166vp2T395S8Vy612NZ7037U19c0B21AFv4GIf4rxvs4FhIHEsvZ10MQ5RQmnou95g10AJ5cjHiz">Drop 28lb by Feb 1st</a></span></sp=
+an>
+   <br /> &nbsp;=20
+   <table style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard=
+; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: =
+none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -web=
+kit-text-stroke-width: 0px; text-decoration: none; ">=20
+    <tbody>=20
+     <tr>=20
+      <td align=3D"center" class=3D"preview-mid" colspan=3D"2" valign=3D"mi=
+ddle">&nbsp;=20
+       <center>
+        <a href=3D"http://www.wommon.date/transmitters-adjectives/b166vp2T395S8Vy612NZ7037U19c0B21AFv4GIf4rxvs4FhIHEsvZ10MQ5RQmnou95g10AJ5cjHiz"><img alt=3D"fook" src=3D"http://www.wommon.date/9354Y2395Q7ZaO11R703aL19c0Y21kFv4GIf4rxvs4FhIHEsvZ10BQ5RQmnou95dB1k05pTHPi/immigrates-indemnity" style=
+=3D"border-width: 0px; border-style: solid; height: 836px; width: 623px; " =
+/></a>
+       </center>=20
+       <div align=3D"center">
+        <br />=20
+        <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helv=
+etica, sans-serif">&nbsp; <a href=3D"http://www.wommon.date/Latin-examiners/a8W5qR2395VNu8613G7038sBn19c0B21SFv4GIf4rxvs4FhIHEsvZ10RQ5RQmnou96tNW1D06kBJOHi"><font color=3D"#666666">Ex=
+it Here</font></a>.<br /> 23638 W. Lyons Avenue #468&nbsp; Newhall, CA 9132=
+1</font><br /> <br /> <a href=3D"http://www.wommon.date/98f6XP2T395ry8S913CRB7039P19c0j21CFv4GIf4rxvs4FhIHEsvZ10XQ5RQmnou97iux10wR5QNHyi/subverting-upshots">Tap this to stop</a><b=
+r /> <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fa=
+mily: arial, helvetica, sans-serif; font-style: normal; font-variant-caps: =
+normal; font-weight: normal; letter-spacing: normal; text-align: center; te=
+xt-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0p=
+x; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decora=
+tion: none; display: inline !important; float: none; ">6547 N Academy Blvd =
+#2128</span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: arial, helvetica, sans-serif; font-size: 11px; font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+orphans: auto; text-align: center; text-indent: 0px; text-transform: none; =
+white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adj=
+ust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> <spa=
+n style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: ari=
+al, helvetica, sans-serif; font-style: normal; font-variant-caps: normal; f=
+ont-weight: normal; letter-spacing: normal; text-align: center; text-indent=
+: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-t=
+ext-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: non=
+e; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</sp=
+an></span>
+        <br /> &nbsp;=20
+       </div> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table> <style><font id="masterpieces"></font><font id="interrupt"></style></font><span id="Beltsville"></span>
+  </center>  =20
+ <img src=3D"http://www.wommon.date/c054f2395GTS8511X703by19c0s21zFv4GIf4rxvs4FhIHEsvZ10SQ5RQmnou95qR10t6kPkzHi/hangar-ridiculously" alt=3D""/></body>
+</html>
+
+------=_Part_208_285984841.1578068945816--
+

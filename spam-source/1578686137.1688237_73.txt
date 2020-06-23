@@ -1,0 +1,107 @@
+Return-Path: <SRS0=dvL4Kv=27=mail.projecterhalki.us=6126-2982-85526-1645-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24682 invoked from network); 10 Jan 2020 09:03:24 -0000
+Received: (qmail 4925 invoked from network); 10 Jan 2020 09:03:23 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 09:03:23 -0000
+Received: (qmail 4984 invoked by uid 48516); 10 Jan 2020 09:03:23 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 25294 invoked from network); 10 Jan 2020 09:03:23 -0000
+Received: from line.projecterhalki.us (onsdb0d54.onsitecool.site [170.130.172.195])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 10 Jan 2020 09:03:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=projecterhalki.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=YourRussianWoman@projecterhalki.us;
+ bh=kv2aKY1L5pO7iQCoqn+OQHLqQ1I=;
+ b=wDliKLPkc3Q0uUUNR4g0cH7+h0uGrEbtsI6O6N7yGonfTbf5B/VL424iPPsE3XG0TNtAWcBugQ4j
+   EJkQOdmU1grOzPDr8ArHJc4w76Uld6d685AEw2+7BJs9EJpRbLHVuhssv56/9iS76ubNOfM2rPO3
+   UbLCoPPdZOH97+ytrMg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=projecterhalki.us;
+ b=atm/OUwBhEr3xkwy6asU3lw5leYrVgodSDMCz33XPe9rYDhFWDum0/fbDh+oWtsvhSHj2fm+dEPQ
+   FzKAybLbAWR/RbXBDR4iUvEHa6kVwylVbmteW8baWjUSwcF7I93ZEw7QG/xSZd98KU6PO0Xvij/f
+   GeBX8hRxktbz5cl6fyg=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="f708b560d3f5c3e04e74666239305504_ba6_14e16"
+Date: Fri, 10 Jan 2020 03:50:42 -0500
+From: "Your Russian Woman" <YourRussianWoman@projecterhalki.us>
+Reply-To: "Your Russian Woman" <FindLove@projecterhalki.us>
+Subject: Russian Beauties for Love and More
+To: <bruce@untroubled.org>
+Message-ID: <iy69fjmfeqzqskwq-nptipoct1ebbapzr-ba6-14e16@projecterhalki.us>
+Content-Length: 7509
+
+--f708b560d3f5c3e04e74666239305504_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Russian Beauties for Love and More
+
+http://projecterhalki.us/6r2tcGXn8nFCO-k8hSsbOO5ZxEA-q3ZAKBQ6kQHr9WgjkA
+
+http://projecterhalki.us/CJNl6f415uScCKzNYTYT9mPT7hK5Gp2LXZIgirymzGPBwQ
+
+   Geeta Vishwas (Vaishnavi Mahant, previously Kitu Gidwani), the female lead in the serial, used to work as a brave news reporter in Aaj Ki Awaaz. She was the first to report about Shaktimaan in newspaper and named the superhero as Shaktimaan. Incidentally, she was the only reporter to get interviews of Shaktimaan as Gangadhar used to accompany her as photographer in missions. She died in a crash planned by Dr. Jackal. As Shaktimaan loved her, he brought her back to life again using his power which resulted in losing his powers temporarily due to his against the nature actions. Geeta came to know about this after Shaktimaan regained power with the vow that he will never repeat the same mistake again. To ensure this, she planned to leave the country. In the lead up to that situation, she got to know about Shaktimaan's dual character for the third time. But unlike first two occasions, Shaktimaan didn't erase it from Geeta's memory this time as she promised to keep it secret forever.
+
+One year later‡, after Aaj Ki Awaaz was shut down, its staff members persuaded Geeta in returning to India to join them to release Shaktimaan comics. Later she teamed up with Gangadhar again and joined KR TV as a television reporter while working for the comics simultaneously.
+
+‡ – When the journalist character Geeta Vishwas was written out of the series, fan protests prompted the producers to bring her back.
+Enemies
+Main enemies
+
+Jackal and Kilvish
+
+Tamraj Kilvish is Shaktimaan's archenemy. Tamraj means King of Darkness (tama = darkness, raj = king). He has lived 6000 years and is the source of evil in the world. He intends to rule the world by spreading darkness, hatred, sin and evil. It is said that the source of his strength is one-half of the "Shakti Punj" (the half which is referred to as "shaktiman") which he managed to retain after he originally obtained the entire Shakti Punj by deceit from Shri Satya (Satya means truth), the founder of the Suryavanshi. However, it is also mentioned that the source of his strength is the evil that is committed by people in this world.
+
+It was later revealed that only Shri Satya can kill Tamraj Kilvish. After a death-defying adventure, Shaktimaan was told that he is the rebirth of Shri Satya. Shri Satya had given the exact time of the child's birth and the place before he died about 6000 years ago. Tamraj also knows this and this is the main reason he is frightened by the appearance of Shaktimaan as he knows that only Shaktimaan can kill Tamraj. He murdered Shaktimaan's parents and his adoptive father, Pandit Vidyadhar Shastri. He and his minions plot to kill him but always fail. His minions include Electric-man (who can shoot lightning bolts from his body), Stone-man (who can shoot stones from his body), Plastica (who can stretch any part of her body), Dr. Jackal (an evil scientist) and others. Dr. Jackal has helped Kilvish in his various schemes by cloning Shaktimaan and also by turning aliens against him.
+
+--f708b560d3f5c3e04e74666239305504_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><br />
+<br />
+<br />
+&nbsp;
+<center>
+<div style="width:629px;"><a href="http://projecterhalki.us/6r2tcGXn8nFCO-k8hSsbOO5ZxEA-q3ZAKBQ6kQHr9WgjkA" style="font-family:Arial;font-size:30px;">Russian Beauties for Love and More</a><br />
+<br />
+<a href="http://projecterhalki.us/6r2tcGXn8nFCO-k8hSsbOO5ZxEA-q3ZAKBQ6kQHr9WgjkA"><img src="http://projecterhalki.us/efd6f2f7751376fb5b.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://projecterhalki.us/R3qkxOogx4ryQCdJzskXocimHTnBR69ewN3mSLPMzB6YIA" target="_blank"><img src="http://projecterhalki.us/fdd1bed844dcc78a27.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">Geeta Vishwas (Vaishnavi Mahant, previously Kitu Gidwani), the female lead in the serial, used to work as a brave news reporter in Aaj Ki Awaaz. She was the first to report about Shaktimaan in newspaper and named the superhero as Shaktimaan. Incidentally, she was the only reporter to get interviews of Shaktimaan as Gangadhar used to accompany her as photographer in missions. She died in a crash planned by Dr. Jackal. As Shaktimaan loved her, he brought her back to life again using his power which resulted in losing his powers temporarily due to his against the nature actions. Geeta came to know about this after Shaktimaan regained power with the vow that he will never repeat the same mistake again. To ensure this, she planned to leave the country. In the lead up to that situation, she got to know about Shaktimaan&#39;s dual character for the third time. But unlike first two occasions, Shaktimaan didn&#39;t erase it from Geeta&#39;s memory this time as she promised to keep it secret forever. One year later&Dagger;, after Aaj Ki Awaaz was shut down, its staff members persuaded Geeta in returning to India to join them to release Shaktimaan comics. Later she teamed up with Gangadhar again and joined KR TV as a television reporter while working for the comics simultaneously. &Dagger; &ndash; When the journalist character Geeta Vishwas was written out of the series, fan protests prompted the producers to bring her back. Enemies Main enemies Jackal and Kilvish Tamraj Kilvish is Shaktimaan&#39;s archenemy. Tamraj means King of Darkness (tama = darkness, raj = king). He has lived 6000 years and is the source of evil in the world. He intends to rule the world by spreading darkness, hatred, sin and evil. It is said that the source of his strength is one-half of the &quot;Shakti Punj&quot; (the half which is referred to as &quot;shaktiman&quot;) which he managed to retain after he originally obtained the entire Shakti Punj by deceit from Shri Satya (Satya means truth), the founder of the Suryavanshi. However, it is also mentioned that the source of his strength is the evil that is committed by people in this world. It was later revealed that only Shri Satya can kill Tamraj Kilvish. After a death-defying adventure, Shaktimaan was told that he is the rebirth of Shri Satya. Shri Satya had given the exact time of the child&#39;s birth and the place before he died about 6000 years ago. Tamraj also knows this and this is the main reason he is frightened by the appearance of Shaktimaan as he knows that only Shaktimaan can kill Tamraj. He murdered Shaktimaan&#39;s parents and his adoptive father, Pandit Vidyadhar Shastri. He and his minions plot to kill him but always fail. His minions include Electric-man (who can shoot lightning bolts from his body), Stone-man (who can shoot stones from his body), Plastica (who can stretch any part of her body), Dr. Jackal (an evil scientist) and others. Dr. Jackal has helped Kilvish in his various schemes by cloning Shaktimaan and also by turning aliens against him. </span><br />
+<br />
+<br />
+<a href="http://projecterhalki.us/CJNl6f415uScCKzNYTYT9mPT7hK5Gp2LXZIgirymzGPBwQ" target="_blank"><img src="http://projecterhalki.us/c273a1285e2914d205.jpg" /></a><br />
+&nbsp;</div>
+</center>
+</body>
+</html>
+
+--f708b560d3f5c3e04e74666239305504_ba6_14e16--

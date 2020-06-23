@@ -1,0 +1,253 @@
+Return-Path: <virus@dynamicfool.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 7008 invoked from network); 29 Jan 2020 18:46:34 -0000
+Received: (qmail 57967 invoked by uid 222); 29 Jan 2020 18:46:33 -0000
+Return-Path: <virus@dynamicfool.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 57964 invoked from network); 29 Jan 2020 18:46:29 -0000
+Received: from dynamicfool.xyz (host-193.17.6.92.routergate.com [193.17.6.92])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 29 Jan 2020 18:46:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=dynamicfool.xyz;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=virus@dynamicfool.xyz;
+ bh=tS+m5xMol+svhKHnPd9FYl2GHjo=;
+ b=irEbJ6NdfHNZ0iTkdDDZZbyDBvDJyC226YSW1j1dmPq6O3YwcopGtz8tqRUANb5b6/DXhtaNGoyS
+   NuPl5wb8B6HwgaaHAkLyl+NCelJ9ffPmpH+FXv9YLFeiBU0/PbwVU8cMr7dEsJtKmBDLHDNCQeXU
+   lDIq3Ij+vUm4nIpVoUE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=dynamicfool.xyz;
+ b=gIjSzK/97PpaAiFZUGpuwnHwYoaddWyNx+D7ixzo/i/Ru/iW7t+oYyrozfCAb6BwIAGQd0+M/IPC
+   AHk7CHlre/newAPxcHMvt0dN4nYZY8jAll64x9YCZee/nZgiisVkuQM0EHsneJVu7636sovSS5XX
+   yO14NBlz5IyatKgEq4o=;
+From: "Stop Snoring Device" <virus@dynamicfool.xyz>
+Date: Wed, 29 Jan 2020 13:40:17 -0500
+MIME-Version: 1.0
+Subject: Stop Snoring Tonight and Save Your Marriage
+To: <bruce@untroubled.org>
+Message-ID: <T2_PvWU9rbwS1lbGgYYQTbhfB7iIjcqdceClhHHcLdg.LuOUamJkIN5ZTlVz0CZeTP6Dy1S6WLdQNXhsdVy4Dtc@dynamicfool.xyz>
+Content-Type: multipart/alternative;
+ boundary="------------12383658279574784558218"
+Content-Length: 7201
+
+This is a multi-part message in MIME format.
+--------------12383658279574784558218
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+New Invention Gives Hope To All Those Suffering From Chronic Snoring...
+<http://www.dynamicfool.xyz/Kdfkucgi/woxdcua109056oasumj/Biko5WeyDsWB2AhADzi_W46pOLWeTMMLdMM43_1UniQ/84vmsO00H6vyz91MtMuivh7ma17cXpUsX8jYvNXzbPQa7gOawluQ9iF0wPo3XZz6HY-EXADJ3pMakSBSYhwf0KeryRzLUxYv17SdI1EYl_EqYaZWhmbOrFPA8wcvW014>
+
+
+
+
+
+Clipple is pushed into the nasal opening before going to sleep.
+
+
+
+
+
+
+
+Breathe deeply again - Clipple promotes nasal breathing and combats disagreeable snoring.
+
+
+
+Self-help strategies for snoring
+
+
+
+There are so many bizarre anti-snoring devices available on the market today, with more being added all the time, that finding the right solution for your snoring can seem like a daunting task. Unfortunately, many of these devices are not backed up by research, or they work by simply keeping you awake at night. There are, however, plenty of proven techniques that can help eliminate snoring. Not every remedy is right for every person, though, so putting a stop to your snoring may require patience, lifestyle changes, and a willingness to experiment with different solutions.
+
+
+
+
+
+
+
+Learn more
+<http://www.dynamicfool.xyz/Kdfkucgi/woxdcua109056oasumj/Biko5WeyDsWB2AhADzi_W46pOLWeTMMLdMM43_1UniQ/84vmsO00H6vyz91MtMuivh7ma17cXpUsX8jYvNXzbPQa7gOawluQ9iF0wPo3XZz6HY-EXADJ3pMakSBSYhwf0KeryRzLUxYv17SdI1EYl_EqYaZWhmbOrFPA8wcvW014>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The message above is an advertis-e-ment
+
+Pleasego here
+<http://www.dynamicfool.xyz/Opeopwl/410Wvcw8APFrObmhWZaYqE_lYE1IdS71vYxULzRyreK0fwhYSBSkaMp3JDAXE-YH6zZX3oPw0Fi9QulwaOg7aQPbzXNvYj8XsUpXc71am7hviuMtM19zyv6H00Osmv48.QinU1_34MMdLMMTeWLOp64W_izDAhA2BWsDyeW5okiB>if you wish to not recive these anymore
+8578 Alderwood Drive North Augusta, SC 29841
+
+Remove your name from our list bysubmitting your information right here
+<http://www.dynamicfool.xyz/Opeopwl/410Wvcw8APFrObmhWZaYqE_lYE1IdS71vYxULzRyreK0fwhYSBSkaMp3JDAXE-YH6zZX3oPw0Fi9QulwaOg7aQPbzXNvYj8XsUpXc71am7hviuMtM19zyv6H00Osmv48.QinU1_34MMdLMMTeWLOp64W_izDAhA2BWsDyeW5okiB>
+9736 Pawnee St. Midland, MI 48640
+
+Report Abuse
+http://www.dynamicfool.xyz/Kdfkucgi/woxdcuaoasumj/Biko5WeyDsWB2AhADzi_W46pOLWeTMMLdMM43_1UniQ/84vmsO00H6vyz91MtMuivh7ma17cXpUsX8jYvNXzbPQa7gOawluQ9iF0wPo3XZz6HY-EXADJ3pMakSBSYhwf0KeryRzLUxYv17SdI1EYl_EqYaZWhmbOrFPA8wcvW014
+
+
+
+
+--------------12383658279574784558218
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 650px;">
+
+
+	<tbody>
+
+
+		<tr>
+
+
+			<td>
+
+
+			<h1 style="margin-bottom: 15px !important; color: rgb(68, 68, 68); text-align: center;"><a href="http://www.dynamicfool.xyz/Kdfkucgi/woxdcua109056oasumj/Biko5WeyDsWB2AhADzi_W46pOLWeTMMLdMM43_1UniQ/84vmsO00H6vyz91MtMuivh7ma17cXpUsX8jYvNXzbPQa7gOawluQ9iF0wPo3XZz6HY-EXADJ3pMakSBSYhwf0KeryRzLUxYv17SdI1EYl_EqYaZWhmbOrFPA8wcvW014"><strong>New Invention Gives Hope To All Those Suffering From Chronic Snoring...</strong></a></h1>
+
+
+
+
+
+			<div class="articleInfo" style="text-align: center;">&nbsp;</div>
+
+
+
+
+
+			<p style="text-align: center;"><span font-size:="" open="" style="box-sizing: border-box; font-weight: 700; font-family: ">Clipple is pushed into the nasal opening before going to sleep.</span></p>
+
+
+
+
+
+			<p style="text-align: center;"><span font-size:="" open="" style="box-sizing: border-box; font-weight: 700; font-family: "><img alt="" src="http://www.dynamicfool.xyz/Uuwhpuujiu/flwwlgrc74411rqtp/.jpg" style="width: 500px; height: 367px;" /></span></p>
+
+
+
+
+
+			<p style="text-align: center;"><span font-size:="" open="" style="box-sizing: border-box; font-weight: 700; font-family: ">Breathe deeply again - Clipple promotes nasal breathing and combats disagreeable snoring.</span></p>
+
+
+
+
+
+			<h2 data-fontsize="28" data-lineheight="42" font-size:="" line-height:="" pt="" style="box-sizing: border-box; color: rgb(60, 110, 183); margin: 0em 0px 0.7em; text-align: center;"><span style="color:#000000;"><span style="font-size:14px;">Self-help strategies for snoring</span></span></h2>
+
+
+
+
+
+			<p font-size:="" myriad="" style="box-sizing: border-box; margin: 0px 0px 20px; text-align: justify;"><span style="font-size:14px;">There are so many bizarre anti-snoring devices available on the market today, with more being added all the time, that finding the right solution for your snoring can seem like a daunting task. Unfortunately, many of these devices are not backed up by research, or they work by simply keeping you awake at night. There are, however, plenty of proven techniques that can help eliminate snoring. Not every remedy is right for every person, though, so putting a stop to your snoring may require patience, lifestyle changes, and a willingness to experiment with different solutions.</span></p>
+
+
+
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<h1 style="text-align: center;"><a href="http://www.dynamicfool.xyz/Kdfkucgi/woxdcua109056oasumj/Biko5WeyDsWB2AhADzi_W46pOLWeTMMLdMM43_1UniQ/84vmsO00H6vyz91MtMuivh7ma17cXpUsX8jYvNXzbPQa7gOawluQ9iF0wPo3XZz6HY-EXADJ3pMakSBSYhwf0KeryRzLUxYv17SdI1EYl_EqYaZWhmbOrFPA8wcvW014">Learn more</a></h1><br />
+<img src="http://www.dynamicfool.xyz/Mekvet2my/Biko5WeyDsWB2AhADzi_W46pOLWeTMMLdMM43_1UniQ/84vmsO00H6vyz91MtMuivh7ma17cXpUsX8jYvNXzbPQa7gOawluQ9iF0wPo3XZz6HY-EXADJ3pMakSBSYhwf0KeryRzLUxYv17SdI1EYl_EqYaZWhmbOrFPA8wcvW014" >
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<hr />
+
+
+			<p style="text-align: center;">The message above is an advertis-e-ment<br />
+
+
+			<br />
+
+
+			<span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;">Please&nbsp;<a href="http://www.dynamicfool.xyz/Opeopwl/410Wvcw8APFrObmhWZaYqE_lYE1IdS71vYxULzRyreK0fwhYSBSkaMp3JDAXE-YH6zZX3oPw0Fi9QulwaOg7aQPbzXNvYj8XsUpXc71am7hviuMtM19zyv6H00Osmv48.QinU1_34MMdLMMTeWLOp64W_izDAhA2BWsDyeW5okiB" rel="nofollow" target="_blank">go here</a>&nbsp;if you wish to not recive these anymore<br />
+
+
+			<span style="color: rgb(119, 119, 119);">8578 Alderwood Drive North Augusta, SC 29841&nbsp;</span><br />
+
+
+			<br />
+
+
+			Remove your name from our list by&nbsp;<a href="http://www.dynamicfool.xyz/Opeopwl/410Wvcw8APFrObmhWZaYqE_lYE1IdS71vYxULzRyreK0fwhYSBSkaMp3JDAXE-YH6zZX3oPw0Fi9QulwaOg7aQPbzXNvYj8XsUpXc71am7hviuMtM19zyv6H00Osmv48.QinU1_34MMdLMMTeWLOp64W_izDAhA2BWsDyeW5okiB" rel="nofollow" target="_blank">submitting your information right here</a><br />
+
+
+			<span style="color: rgb(119, 119, 119);">9736 Pawnee St. Midland, MI 48640<br />
+
+
+			<br />
+
+
+			<a href="http://www.dynamicfool.xyz/astchnm/410Wvcw8APFrObmhWZaYqE_lYE1IdS71vYxULzRyreK0fwhYSBSkaMp3JDAXE-YH6zZX3oPw0Fi9QulwaOg7aQPbzXNvYj8XsUpXc71am7hviuMtM19zyv6H00Osmv48.QinU1_34MMdLMMTeWLOp64W_izDAhA2BWsDyeW5okiB">Report Abuse</a></span></span></span></p>
+
+
+			</td>
+
+
+		</tr>
+
+
+	</tbody>
+
+
+</table>
+
+
+
+
+</body>
+</html>
+
+--------------12383658279574784558218--

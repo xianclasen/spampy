@@ -1,0 +1,106 @@
+Return-Path: <SRS0=bSDcwr=26=mail.nervestop.bid=6112-2982-85526-1641-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 23495 invoked from network); 9 Jan 2020 14:02:48 -0000
+Received: (qmail 31600 invoked from network); 9 Jan 2020 14:02:47 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Jan 2020 14:02:47 -0000
+Received: (qmail 28830 invoked by uid 48516); 9 Jan 2020 14:02:47 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29144 invoked from network); 9 Jan 2020 14:02:47 -0000
+Received: from tacoma.nervestop.bid ([170.130.174.36])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 09 Jan 2020 14:02:43 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=nervestop.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=StopSnoring@nervestop.bid;
+ bh=l44+7AWSkG3ITEUM60jEnWhqVvA=;
+ b=W9VyLKCIUAM/BGoXJOn5NIEGHUlK2pHJW92CdhNarvZQj3DTkf3UVzBieLVahcDgx37TI6h+YLgS
+   0p0lI4aSkplqUYrkwrKGFiVUgIwfQoRKotlPCmI/Ftse3apw3q+B47fVPTz6eyeXKPMlOa1z40KF
+   GhVbZEG8kpxkxs5QhOU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=nervestop.bid;
+ b=SnUJykVwDVOyUdXWlcwPgiokF5VlJj96w0L1gZv3+5KrWYREPuqTl0IcCDENE12rSNWOb9zRbSaa
+   kHRb3W7N1mBMMPbhcl3NAK0FKTCRxG73Dbww5KJ5pbPZNC41Pg5HG1EKGHO0TPr9pQlRZvFcRnGF
+   3GedvoayX7boA8H7zus=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="c80700ecf183c511068a716d89aab61d_ba6_14e16"
+Date: Thu, 9 Jan 2020 09:02:09 -0500
+From: "**Stop Snoring**" <StopSnoring@nervestop.bid>
+Reply-To: "**Stop Snoring**" <StopSnoring@nervestop.bid>
+Subject: The Stop Snoring And Sleep Apnea Program
+To: <bruce@untroubled.org>
+Message-ID: <gtehrof80zl6smll-cyu7wieu821qvuiz-14e16@nervestop.bid>
+Content-Length: 7399
+
+--c80700ecf183c511068a716d89aab61d_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+The Stop Snoring And Sleep Apnea Program
+http://nervestop.bid/0dYgzXn2Fo5O9M1Dj7vw0QtMwkYjfiqg9BUp7ksQmySu7n8b
+
+http://nervestop.bid/GXnCgxLXUbYvebgs44QmJ5a5Rq-EKuJcqnIt3Ke47_BR1nS5
+
+Shaktimaan has superhuman powers which lie inside his body in his seven chakras of Kundalini attained through meditation. Shaktimaan worships God through the symbol Om. Truthfulness is his motto. He can even separate his body into five different bodies of fire, wind, water, earth and sky. He is an expert, skilled and intelligent fighter and has fought with super-skilled enemies. He possesses physical powers like unlimited speed (up to the speed of light), strength, durability as well as psychic powers like telepathy, teleportation, telekinesis etc. Although he possesses godlike powers, his only weakness is a crystal (Papmani) possessed by Tamraj Kilvish which can be used to defeat and even kill him. This makes him powerless because it is filled with the evil of the world and is the source of the black powers. But he regains his strength after the crystal is taken away from him. He can be killed if the crystal is placed in front of him and he is treated violently to the verge of death. Shaktimaan also gets brief premonitions about the incidents that are going to happen to him in future. This can be observed in kashtak's episode, Geeta going to jail and in kapala's reappearance episodes.
+
+Shaktimaan's powers are virtually limitless. He can do practically anything he imagines. The only limit to his powers is his own belief in himself and his knowledge of how to manifest his powers. His powers come from his chakras. (Note: Although we'll call them chakras in the vedas, in the series dialogue they will also be called energy centers.)
+
+The seven chakras in his body which give him powers are:
+
+    Energy Chakra (1): This chakra gives Shaktimaan super strength enabling him to fly, shoot fire from his hands, emit rays from his fingertips, blow a stream of freezing air, or send out protective force fields which nothing can penetrate (provided he can maintain his willpower and not give in). Shaktimaan's strength allows him to physically penetrate anything and lift any object.
+    Creative Chakra (2): This chakra gives Shaktimaan the power to manifest things out of thin air.
+    Astral Chakra (3): This chakra gives Shaktimaan the power to control his astral body (a semi-transparent, ethereal duplicate of himself) which can fly, walk through walls,see inside objects, etc.
+    Heart Chakra (4): This chakra gives Shaktimaan the power to control the will of others, but only for good. He can will people to do the right thing, see the error in their ways. This power is most useful when Shaktimaan needs to stop someone who is under the control of Kilvish from doing evil.
+
+--c80700ecf183c511068a716d89aab61d_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<div style="width:550px; text-align:left;">&nbsp;
+<h2>Today is a good day. Tonight will be even better.</h2>
+<b>Why?</b><br />
+<br />
+<a href="http://nervestop.bid/0dYgzXn2Fo5O9M1Dj7vw0QtMwkYjfiqg9BUp7ksQmySu7n8b"><img src="http://nervestop.bid/f74d38b4fc9dca685a.jpg" /></a><br />
+<br />
+Because you&#39;re about to learn easy throat exercises that cure (not just treated) <a href="http://nervestop.bid/0dYgzXn2Fo5O9M1Dj7vw0QtMwkYjfiqg9BUp7ksQmySu7n8b"><b>your stubborn snoring &ndash; in 3 minutes &ndash; starting TONIGHT!</b></a><br />
+&hellip;even if straps, sprays and even torturing CPAP masks have failed you in the past.<br />
+<br />
+Most people heal their snoring in just a few minutes per day using these powerful throat exercises.<br />
+<br />
+And they&#39;re so easy, you can do them, regardless of your age or physical shape.<br />
+<br />
+Use them anytime, anywhere&hellip; even while stuck in traffic or watching TV.<br />
+<br />
+Plus the results are permanent!<br />
+<br />
+<a href="http://nervestop.bid/0dYgzXn2Fo5O9M1Dj7vw0QtMwkYjfiqg9BUp7ksQmySu7n8b"><b>To learn more and test-drive the easy snoring and sleep apnea exercises for yourself, click here...</b></a><br />
+<br />
+<br />
+<a href="http://nervestop.bid/0dYgzXn2Fo5O9M1Dj7vw0QtMwkYjfiqg9BUp7ksQmySu7n8b"><img src="http://nervestop.bid/49bd87272fceb20610.jpg" style="width:500px;" /></a><br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:white;">Shaktimaan has superhuman powers which lie inside his body in his seven chakras of Kundalini attained through meditation. Shaktimaan worships God through the symbol Om. Truthfulness is his motto. He can even separate his body into five different bodies of fire, wind, water, earth and sky. He is an expert, skilled and intelligent fighter and has fought with super-skilled enemies. He possesses physical powers like unlimited speed (up to the speed of light), strength, durability as well as psychic powers like telepathy, teleportation, telekinesis etc. Although he possesses godlike powers, his only weakness is a crystal (Papmani) possessed by Tamraj Kilvish which can be used to defeat and even kill him. This makes him powerless because it is filled with the evil of the world and is the source of the black powers. But he regains his strength after the crystal is taken away from him. He can be killed if the crystal is placed in front of him and he is treated violently to the verge of death. Shaktimaan also gets brief premonitions about the incidents that are going to happen to him in future. This can be observed in kashtak&#39;s episode, Geeta going to jail and in kapala&#39;s reappearance episodes. Shaktimaan&#39;s powers are virtually limitless. He can do practically anything he imagines. The only limit to his powers is his own belief in himself and his knowledge of how to manifest his powers. His powers come from his chakras. (Note: Although we&#39;ll call them chakras in the vedas, in the series dialogue they will also be called energy centers.) The seven chakras in his body which give him powers are: Energy Chakra (1): This chakra gives Shaktimaan super strength enabling him to fly, shoot fire from his hands, emit rays from his fingertips, blow a stream of freezing air, or send out protective force fields which nothing can penetrate (provided he can maintain his willpower and not give in). Shaktimaan&#39;s strength allows him to physically penetrate anything and lift any object. Creative Chakra (2): This chakra gives Shaktimaan the power to manifest things out of thin air. Astral Chakra (3): This chakra gives Shaktimaan the power to control his astral body (a semi-transparent, ethereal duplicate of himself) which can fly, walk through walls,see inside objects, etc. Heart Chakra (4): This chakra gives Shaktimaan the power to control the will of others, but only for good. He can will people to do the right thing, see the error in their ways. This power is most useful when Shaktimaan needs to stop someone who is under the control of Kilvish from doing evil.</span><br />
+<br />
+<br />
+<a href="http://nervestop.bid/_OD7_jtes2AcK87YOEfMSqwRplEbWU5a1EWo16Kw3IIkjPQL"><img src="http://nervestop.bid/4f63fe542acc040c15.jpg" /></a><br />
+&nbsp;</body>
+</html>
+
+--c80700ecf183c511068a716d89aab61d_ba6_14e16--

@@ -1,0 +1,91 @@
+Return-Path: <SRS0=6hIpBX=24=mail.owly.us=6006-9790-262549-1612-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 19544 invoked from network); 7 Jan 2020 15:04:39 -0000
+Received: (qmail 11827 invoked from network); 7 Jan 2020 15:04:39 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 15:04:39 -0000
+Received: (qmail 18352 invoked by uid 48516); 7 Jan 2020 15:04:38 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 330 invoked from network); 7 Jan 2020 15:04:38 -0000
+Received: from irene.owly.us (client-192-236-146-178.hostwindsdns.com [192.236.146.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 07 Jan 2020 15:04:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=owly.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=OrthopedicBunion@owly.us;
+ bh=KaC4q3fZMddSYobfVBlcp1Z3oCs=;
+ b=wyA0CKzXHSQEWtJJcR8RgUPWPUJyoNTVF509F/CCUFMEIGfmYBSB6ysc084qnyODsHB4sNqDegZ2
+   kPvGRFR4cq6Noj8wig25y0/tRo2p3E8RVzn3toNoh1cYxgYlsI+hdPhB6C9ZwvJlnhNXkZwBNCD+
+   2TwFxT+ApZmeojD/xiA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=owly.us;
+ b=lRprHAIZnO6Kr8ynr/9ohMaULbaQ4NJOxsMZxIHbwAjFdThQvTqDCk37Ahi3DxwN/Rabg2h7H+6d
+   eQ3qFxgEBmmm3+kTyVSXpMZDe/voHd5IIkv/3LGOQcz8miycm3Gc7jCMl72hAAkblA68GpOW6rng
+   fDhGnU5iwSRFiJQQjz0=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="175d8dc5cf2827bcf10295fa4fbba825_263e_40195"
+Date: Tue, 7 Jan 2020 10:04:24 -0500
+From: "Bunion Relief" <OrthopedicBunion@owly.us>
+Reply-To: "Bunion Corrector" <BunionRelief@owly.us>
+Subject: Feel the relief you’ve been waiting for.
+To: <bruce@untroubled.org>
+Message-ID: <cmrqjhrpy8qzi6f7-olnvi7w26xokrlnh-263e-40195@owly.us>
+Content-Length: 6899
+
+--175d8dc5cf2827bcf10295fa4fbba825_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Feel the relief you’ve been waiting for.
+
+http://owly.us/BDWCXV9MJ2JfG2oWCfsD2kJVlslJ1Rh3sprB9tZrMnUAAfLp
+
+http://owly.us/qfwavpeU5gzTMDmJPr4LC-HbtcrrsRmzMzx2k9WraGe6h2kI
+
+ Autotrophs are fundamental to the food chains of all ecosystems in the world. They take energy from the environment in the form of sunlight or inorganic chemicals and use it to create energy-rich molecules such as carbohydrates. This mechanism is called primary production. Other organisms, called heterotrophs, take in autotrophs as food to carry out functions necessary for their life. Thus, heterotrophs – all animals, almost all fungi, as well as most bacteria and protozoa – depend on autotrophs, or primary producers, for the energy and raw materials they need. Heterotrophs obtain energy by breaking down organic molecules (carbohydrates, fats, and proteins) obtained in food. Carnivorous organisms rely on autotrophs indirectly, as the nutrients obtained from their heterotroph prey come from autotrophs they have consumed.
+
+Most ecosystems are supported by the autotrophic primary production of plants and cyanobacteria that capture photons initially released by the sun. Plants can only use a fraction of this energy for photosynthesis, approximately 1% is used by autotrophs. The process of photosynthesis splits a water molecule (H2O), releasing oxygen (O2) into the atmosphere, and reducing carbon dioxide (CO2) to release the hydrogen atoms that fuel the metabolic process of primary production. Plants convert and store the energy of the photon into the chemical bonds of simple sugars during photosynthesis. These plant sugars are polymerized for storage as long-chain carbohydrates, including other sugars, starch, and cellulose; glucose is also used to make fats and proteins. When autotrophs are eaten by heterotrophs, i.e., consumers such as animals, the carbohydrates, fats, and proteins contained in them become energy sources for the heterotrophs. Proteins can be made using nitrates, sulfates, and phosphates in the soil.
+
+--175d8dc5cf2827bcf10295fa4fbba825_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletters</title>
+</head>
+<body><a href="http://owly.us/bKFOzc2ck0Nu0YG3_nk5w70n3poTG16LHe5p1PcuWVy0Igta"><img src="http://owly.us/dc5994f0e92ce529a2.jpg" /><img height="1" src="http://www.owly.us/KqH9XNyPx8jKi9ItR5Ll0RMGWFHpBr1xDY0byyo5Bylfu47M" width="1" /></a>
+<center>
+<div style="width: 600px;"><a href="http://owly.us/BDWCXV9MJ2JfG2oWCfsD2kJVlslJ1Rh3sprB9tZrMnUAAfLp" style="font-size: 25px;font-family: Arial;font-weight: bold;color:#1700ef;">Bunion Corrector and Bunion Relief Orthopedic Bunion Splint Pads for Men and Women</a></div>
+
+<div style="width: 600px;font-family: Arial;font-size: 15px;padding: 15px;text-align: left;">&nbsp;
+<center><a href="http://owly.us/BDWCXV9MJ2JfG2oWCfsD2kJVlslJ1Rh3sprB9tZrMnUAAfLp"><img src="http://owly.us/84cc7e3b923c940b1b.png" /> <img src="http://owly.us/f1bdb9f4dc99512106.png" /> </a></center>
+
+<ul>
+	<li><b>EFFECTIVE BUNION PAIN RELIEF:</b> Allow for effective toe correction and bunion relief by using this bunion corrector toe splint. Feel the relief you&rsquo;ve been waiting for. Your bunion pain will completely disappear when wearing this bunion brace.</li>
+	<br />
+	<li><b>RESTORE NATURAL ALIGNMENT:</b> By wearing the bunion protectors bunion tape it will gently realign toes to their natural position. Your toes will feel great when back at their natural alignment. Don&#39;t miss this great offer!</li>
+	<br />
+	<li><b>HIGH QUALITY DESIGN:</b> Made from high quality medical grade materials to provide maximum hallux valgus relief. Soft and easy to clean bunion pads can be reused again and again. Bunion toe straightener gel bunion corrector will last a while.</li>
+	<br />
+	<li><b>ONE SIZE FITS ALL:</b> The bunion bootie package is designed for comprehensive bunion treatment and bunion relief and to fix bunion. Adjustable to provide a comfortable fit. This bunion splint fits all sizes and can be enjoyed by men and women alike.</li>
+	<br />
+	<li><b>24 HOUR USE:</b> Wear the gel bunion pads around the house during normal activities or in bed while asleep as a bunion night splint. The soft cushion, straps and pad feel supportive and good on your feet. The hinged bunion aid splint enables your toes and feet to move naturally while keeping their alignment.</li>
+</ul>
+
+<div style="width: 600px;">
+<center><a href="http://owly.us/BDWCXV9MJ2JfG2oWCfsD2kJVlslJ1Rh3sprB9tZrMnUAAfLp" style="font-size: 25px;font-family: Arial;font-weight: bold;color:#1700ef;">Discover more and Get it from here.</a></center>
+</div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">Autotrophs are fundamental to the food chains of all ecosystems in the world. They take energy from the environment in the form of sunlight or inorganic chemicals and use it to create energy-rich molecules such as carbohydrates. This mechanism is called primary production. Other organisms, called heterotrophs, take in autotrophs as food to carry out functions necessary for their life. Thus, heterotrophs &ndash; all animals, almost all fungi, as well as most bacteria and protozoa &ndash; depend on autotrophs, or primary producers, for the energy and raw materials they need. Heterotrophs obtain energy by breaking down organic molecules (carbohydrates, fats, and proteins) obtained in food. Carnivorous organisms rely on autotrophs indirectly, as the nutrients obtained from their heterotroph prey come from autotrophs they have consumed. Most ecosystems are supported by the autotrophic primary production of plants and cyanobacteria that capture photons initially released by the sun. Plants can only use a fraction of this energy for photosynthesis, approximately 1% is used by autotrophs. The process of photosynthesis splits a water molecule (H2O), releasing oxygen (O2) into the atmosphere, and reducing carbon dioxide (CO2) to release the hydrogen atoms that fuel the metabolic process of primary production. Plants convert and store the energy of the photon into the chemical bonds of simple sugars during photosynthesis. These plant sugars are polymerized for storage as long-chain carbohydrates, including other sugars, starch, and cellulose; glucose is also used to make fats and proteins. When autotrophs are eaten by heterotrophs, i.e., consumers such as animals, the carbohydrates, fats, and proteins contained in them become energy sources for the heterotrophs. Proteins can be made using nitrates, sulfates, and phosphates in the soil. </span><br />
+<br />
+<br />
+<br />
+<a href="http://owly.us/VYt_jv49F5wIeVQUiO8a76sASZYReyAKDK6Z1eF0KB3S0XMb"><img src="http://owly.us/960437e65d2deef565.jpg" /></a></center>
+</body>
+</html>
+
+--175d8dc5cf2827bcf10295fa4fbba825_263e_40195--

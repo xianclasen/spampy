@@ -1,0 +1,195 @@
+Return-Path: <bounce_jmidbnn_o-bruce=untroubled.org@cpro20.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1542 invoked from network); 29 Jan 2020 14:32:05 -0000
+Received: (qmail 55133 invoked by uid 222); 29 Jan 2020 14:32:05 -0000
+Return-Path: <bounce_jmidbnn_o-bruce=untroubled.org@cpro20.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 55130 invoked from network); 29 Jan 2020 14:32:05 -0000
+Received: from mta7.cpro20.com (mta7.cpro20.com [216.24.226.7])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 29 Jan 2020 14:32:05 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=em; d=donorgifts2.org;
+ h=List-Unsubscribe:Message-ID:Date:Subject:To:From:Reply-To:MIME-Version:
+ Content-Type; i=stefanie@donorgifts2.org;
+ bh=F+nBnX4Z9Ja8JPU5Jc1tVxXOM1B8R0aNiQGAsqI8oUo=;
+ b=R7mQ5vW+Zu7zgiAcdoh3xrL+kJCpHFQgWmSfyOaJREWK2GTI/KTkp4/e5mxc4uD3Yvkc8DVUzYbB
+   nkrY+yV/MZbEH3t/8+xWlH3PO4qhDzgGtzwgbY7r8pyZ5KPMCr6YtxJ2XV40Pr6bIAJkJMVN0iQM
+   svbu8il8Nf4TJWe58xE=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key1; d=cpro20.com;
+ h=List-Unsubscribe:Message-ID:Date:Subject:To:From:Reply-To:MIME-Version:
+ Content-Type;
+ bh=F+nBnX4Z9Ja8JPU5Jc1tVxXOM1B8R0aNiQGAsqI8oUo=;
+ b=HFK8PN/bD5lwju1I2rM+M+kouxp/V43zUPQW+UDzBY3p+wnHcMRbHujTh3ysJnI2yN7Dpm427fZP
+   9NebKbqthTqYYVVuLvx5TGSyHYx1zkZRLuOIEPtoJJRJr2ehvPs56S+qk0qa3OWCv73F8cYZO+od
+   Bz7v2StIt/VEfjCVnC8=
+Received: by mta7.cpro20.com id h66bma2kcoos for <bruce@untroubled.org>; Wed, 29 Jan 2020 09:31:34 -0500 (envelope-from <bounce_jmidbnn_o-bruce=untroubled.org@cpro20.com>)
+List-Unsubscribe: <mailto:unsub_oclovc_gfplqjjr_o@cpro20.com?subject=unsubscribe>
+X-Campaign-Shard: 1
+Bounces-To: bounce_oclovc_gfplqjjr_o@cpro20.com
+Message-ID: <1580308247360.41025915.104323874.28589350696@backend.cpro20.com>
+X-Campaign: 41025915/104323874/28589350696
+Errors-To: bounce_oclovc_gfplqjjr_o@cpro20.com
+Date: Wed, 29 Jan 2020 09:31:34 -0500
+Subject: Learn How To End Board Fundraising
+To:   <bruce@untroubled.org>
+From: "Stefanie Stark" <stefanie@donorgifts2.org>
+Reply-To: "Stefanie Stark" <stefanie@donorgifts2.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1593690123.1580308200907"
+Content-Length: 17035
+
+<!-- X-Campaign: 41025915/104323874/28589350696 -->
+------=_Part_1593690123.1580308200907
+Content-Type: text/plain;charset=UTF-8
+
+"Read Below to Learn How to Stop Boards From Fundraising" - Maxie Carpenter 
+
+Dear Colleagues In Service,
+
+I'm sharing this message with you this morning to affirm what you already know. Your Board of Directors is not your real problem nor is it your solution. When it's all said and done, there's one thing all boards have in common...THEY DO NOT FUNCTION. There's a better way. Allow me to explain.
+
+Here’s what you do. Find fifteen busy community leaders…ask them do 120 hours of free work per year…then ask them to PAY YOU to do the free work (100% Board Giving) after they’ve paid, explain that the work you need them to do is something they have never done, are not good at, and will make them uncomfortable!
+
+It defies reasoning, does it not? Yet, fundraising professionals around the world peddle this silliness, despite the fact that it doesn’t work.
+
+I have a sense that the people may have forgotten that:
+
+-Board service is not a board member’s job
+-Board members join boards to network and enjoy themselves
+-Board members are not motivated by guilt
+-Board members respond to accountability differently than staff
+-Board members may not have the skills to do face-to-face “asking”
+-Board members may not want to do face-to-face fundraising
+
+Furthermore, well-run boards understand that fundraising can demoralize members who are already performing a very important service.
+
+BUT WAIT MAXIE…that’s why it is so important to provide regular board training.
+
+Each year, hundreds of millions of dollars leave the charitable sector and end up in the bank accounts of publishers and consultants who are peddling swill. In days gone by, cross-trainers would test an employee in four separate disciplines. If, out of the four, he or she performed as low as 35% in one area, they’d go ahead and invest training dollars to improve performance in that particular discipline. Someone finally looked at the data, and discovered that after proper training and re-testing, the employee’s performance moved from 35% up to a whopping 43%—which subsequently disqualified them from working in that area, and also indicated that training them had little or no effect.
+
+Here’s my point; place gifted volunteers in positions that they love. Invite them to perform tasks they enjoy and already do well. Here's another way of putting it, “Never try to teach a pig to sing; it wastes your time and it annoys the pig.”
+
+Here’s the good news. Fundraising may not be the board’s responsibility, but is still a key volunteer function that’s a whole lot easier to do if you build a non-governing campaign cabinet comprised of veteran fundraisers who are really good at asking for money!
+
+Here are your options: Demoralize board members by insisting they do something they can’t or won’t do or instead find a veteran volunteer fundraiser who will inspire the right people to join and fund raise for your campaign. All I’m trying to say is let board members be board members! Let fundraisers be fundraisers! Don’t require board members to be something they’re not! Give every volunteer a job that they love! Live and let live!
+
+Let us help you make this happen.
+
+If it's time for your organization to become fully funded I strongly recommend that you join us for Major Gifts Ramp-Up. Over 14,500 nonprofit executives from across the U.S. have already attended. THEY LOVE THESE EVENTS (and so do their boards!) Why? Because this fast-paced and provocative training have been customized for the audience in attendance. Prepare to hear the truth in ways you've never experienced before. You'll learn from the masters who defied convention and challenged the false thinking that keeps charities broke.
+
+“Having served nonprofits for the past 40 years, I thought I'd seen everything! Then I attended Major Gifts Ramp-Up New York and experienced Jimmy LaRose’s brilliant performance before 170 nonprofit executives. His unbounded enthusiasm, comic timing, exceptional sense of theater and insights into nonprofit management will change the way you view yourself and the raising of big gifts. This conference is a must-see, especially for those who think they’ve seen it all!” - Roy Kramer, Habitat for Humanity
+
+Who should attend? If you’re a CEO, CFO, COO, CDO, Executive Director, Development Director, Staff Member, Board Member, Pastor, Trustee or Volunteer responsible for the financial health of a nonprofit, ministry or church then you'll want to make sure you bring as many people as possible to this training.
+
+Tuition for a quality capacity-building conference could cost up to $700 per guest. We're thrilled to share that a group of major donors have underwritten this event allowing us to offer tuition for ONE PERSON at $128 or UNLIMITED REGISTRATIONS for only $248.
+
+That's right, every member of your team can come for only $248. Please register today. This event will reach capacity soon.
+
+We believe in you. We know that there are funds available to ensure your sustainability. Let us show you how to access them ASAP. I look forward to meeting you personally.
+
+Until then I remain. Sincerely Yours, 
+
+Maxie Carpenter
+
+Major Gifts Ramp-Up Faculty
+
+You are subscribed to this email as bruce@untroubled.org. Click here to modify your preferences http://trk.cpro20.com/form?1q40te--11usz-d4td06g1&sl=y&t=1&ac=g7ff or unsubscribe http://trk.cpro20.com/form?1q40te--11usz-d4td06g1&sl=y&t=5&ac=g7ff. 
+------=_Part_1593690123.1580308200907
+Content-Type: text/html;charset=UTF-8
+
+<style> .dvPreheader { display: none !important; mso-hide: all; }</style><div class="dvPreheader" style="display: none !important; mso-hide:all;">(There's a Much Better Way)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<html><head>
+    </head>
+    <body>
+        <p style="text-align: center;"><span id="email_" name="email_" style="font-family: 'Segoe UI';"><span style="font-size: 16px;" id="email_2" name="email_2"><em>"Read Below to Learn How to Stop Boards From Fundraising" </em>- Stefanie Stark<br>
+        <strong><a href="http://trk.cpro20.com/click/g7ff-1q40te-ly5dcy-d4td06g6/" name="VISIT HERE" id="auto_assign_link_num_7">VISIT HERE</a></strong> or press "GET STARTED" Button<br>
+        <br>
+        <a href="http://trk.cpro20.com/click/g7ff-1q40te-ly5dcz-d4td06g7/" title="VISIT HERE TO GET STARTED" name="httpsnonprofitconferencesorgmajorgiftsrampup" id="auto_assign_link_num_8"><img src="http://media.campaigner.com/media/75/756123/MGup20.jpg?g=1580244358899" alt="MGup20.jpg" /></a><br>
+        <br>
+        </span></span></p>
+        <hr>
+        <p style="text-align: left;"><span style="font-family: Georgia;" id="email_3" name="email_3"><span style="font-size: 16px;" id="email_4" name="email_4"><span style="font-family: 'Segoe UI';" id="email_5" name="email_5"><span style="font-size: 16px;" id="email_6" name="email_6"><span style="font-size: 16px; font-family: 'Segoe UI', sans-serif;" id="email_7" name="email_7">Dear Colleagues In Service,<br>
+        &nbsp;<br>
+        I'm sharing this message with you this morning to affirm what you already know.<strong><em>
+        Your Board of Directors is not your real problem nor is it your solution. </em></strong>When
+        it's all said and done, there's one thing all boards have in common...THEY DO
+        NOT FUNCTION. There's a better way. Allow me to explain.<br>
+        &nbsp;<br>
+        Here’s what you do. Find fifteen busy community leaders…ask them do 120 hours of free work per year…then ask them to PAY YOU to do the free work (100% Board Giving) after they’ve paid, explain that the work you need them to do is something they have never done, are not good at, and will make them uncomfortable!<br>
+        &nbsp;<br>
+        It defies reasoning, does it not? Yet, fundraising professionals around the world peddle this silliness, despite the fact that it doesn’t work.<br>
+        &nbsp;<br>
+        I have a sense that the people may have forgotten that:<br>
+        &nbsp;<br>
+        -Board service is not a board member’s job<br>
+        -Board members join boards to network and enjoy themselves<br>
+        -Board members are not motivated by guilt<br>
+        -Board members respond to accountability differently than staff<br>
+        -Board members may not have the skills to do face-to-face “asking”<br>
+        -Board members may not want to do face-to-face fundraising<br>
+        &nbsp;<br>
+        <strong><a href="http://trk.cpro20.com/click/g7ff-1q40te-ly5dd0-d4td06g4/" name="trkcpro20comclickg62g117797jaj01naiynu4w1" id="auto_assign_link_num_5" style="font-family: 'Segoe UI', sans-serif; font-size: 16px;"><strong>VISIT HERE</strong></a><span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;" id="email_8" name="email_8">&nbsp;to Get Started.<br>
+        &nbsp;</span></strong><br>
+        Furthermore, well-run boards understand that fundraising can demoralize members who are already performing a very important service.<br>
+        &nbsp;<br>
+        BUT WAIT STEFANIE…that’s why it is so important to provide regular board training.<br>
+        &nbsp;<br>
+        Each year, hundreds of millions of dollars leave the charitable sector and end up in the bank accounts of publishers and consultants who are peddling swill. In days gone by, cross-trainers would test an employee in four separate disciplines. If, out of the four, he or she performed as low as 35% in one area, they’d go ahead and invest training dollars to improve performance in that particular discipline. <strong><em>Someone finally looked at the data, and discovered that after proper training and re-testing, the employee’s performance moved from 35% up to a whopping 43%—which subsequently disqualified them from working in that area, and also indicated that training them had little or no effect.</em></strong><br>
+        &nbsp;<br>
+        Here’s my point; place gifted volunteers in positions that they love. Invite them to perform tasks they enjoy and already do well. Here's another way of putting it,&nbsp;<em>“Never try to teach a pig to sing; it wastes your time and it annoys the pig.”</em><br>
+        &nbsp;<br>
+        Here’s the good news. Fundraising may not be the board’s responsibility, but is still a key volunteer function that’s <strong><em>a whole lot easier to do if you build a non-governing campaign cabinet comprised of veteran fundraisers who are really good at asking for money!</em></strong><br>
+        &nbsp;&nbsp;<br>
+        Here are your options:&nbsp;Demoralize board members by insisting they do something they can’t or won’t do <strong><em>or instead find a veteran volunteer fundraiser who will inspire the right people to join and fund raise for your campaign.&nbsp;</em></strong>All I’m trying to say is let board members be board members! Let fundraisers be fundraisers! Don’t require board members to be something they’re not! Give every volunteer a job that they love! Live and let live!<br>
+        &nbsp;<br>
+        Let us help you make this happen.<br>
+        &nbsp;<br>
+        </span></span></span></span></span><strong style="font-family: 'Segoe UI', sans-serif; font-size: 16px;">If it's time for your organization to become fully funded I strongly recommend
+        that you join us for Major Gifts Ramp-Up</strong><span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;" id="email_9" name="email_9">. Over 17,000 nonprofit executives from
+        across the U.S. have already attended. THEY LOVE THESE EVENTS (and so do
+        their boards!) Why? Because this fast-paced and provocative training have been customized for the audience in attendance. Prepare to hear the truth in ways
+        you've never experienced before. You'll learn from the masters who defied
+        convention and challenged the false thinking that keeps charities broke.<br>
+        &nbsp;<br>
+        </span><em style="font-family: 'Segoe UI', sans-serif; font-size: 16px;">“Having served nonprofits for the past 40 years, I thought I'd seen everything!
+        Then I attended Major Gifts Ramp-Up New York and experienced Jimmy LaRose’s
+        brilliant performance before 170 nonprofit executives. His unbounded
+        enthusiasm, comic timing, exceptional sense of theater and insights into
+        nonprofit management will change the way you view yourself and the raising of
+        big gifts. This conference is a must-see, especially for those who think
+        they’ve seen it all!”</em><span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;" id="email_10" name="email_10"> - Roy Kramer, Habitat for Humanity<br>
+        &nbsp;<br>
+        </span><span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;" id="email_11" name="email_11">Who should attend? If you’re a CEO, CFO, COO, CDO, Executive Director,
+        Development Director, Staff Member, Board Member, Pastor, Trustee or Volunteer
+        responsible for the financial health of a nonprofit, ministry or church then
+        you'll want to make sure you bring as many people as possible to this training.<br>
+        &nbsp;<br>
+        </span><span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;" id="email_12" name="email_12">Tuition for a quality capacity-building conference could cost up to $700 per
+        guest. We're thrilled to share that a group of major donors have underwritten
+        this event allowing us to offer tuition for </span><strong style="font-family: 'Segoe UI', sans-serif; font-size: 16px;">ONE PERSON at $148 or UNLIMITED
+        REGISTRATIONS for only $298.<br>
+        <br>
+        </strong><strong style="font-family: 'Segoe UI', sans-serif; font-size: 16px;">That's right, every member of your team can come for only $298.&nbsp;</strong><span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;" id="email_13" name="email_13">Please register today. This event will reach capacity soon.<br>
+        &nbsp;<br>
+        </span><a href="http://trk.cpro20.com/click/g7ff-1q40te-ly5dd1-d4td06g5/" name="trkcpro20comclickg62g117797jaj01naiynu4w1 2" id="auto_assign_link_num_5" style="font-family: 'Segoe UI', sans-serif; font-size: 16px;"><strong>VISIT HERE</strong></a><span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;" id="email_14" name="email_14">
+        to Get Started.<br>
+        &nbsp;<br>
+        </span><span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;" id="email_15" name="email_15">We believe in you. We know that there are funds available to ensure your
+        sustainability. Let us show you how to access them ASAP. I look forward to
+        meeting you personally.<br>
+        &nbsp;<br>
+        </span><span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;" id="email_16" name="email_16">Until then I remain. Sincerely Yours,&nbsp;</span></p>
+        <p style="text-align: left;"><span style="font-family: Georgia;" id="email_17" name="email_17"><span style="font-size: 16px;" id="email_18" name="email_18"><span style="font-family: 'Segoe UI';" id="email_19" name="email_19"><span style="font-size: 16px;" id="email_20" name="email_20"><strong><em><span style="font-size:16.5pt;font-family:'Georgia',serif;
+        mso-fareast-font-family:'Times New Roman';mso-bidi-font-family:'Segoe UI';
+        mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;" id="email_21" name="email_21">Stefanie Stark</span></em></strong><span style="font-size: 16px; font-family: 'Segoe UI', sans-serif;" id="email_22" name="email_22"><br>
+        <br>
+        Major Gifts Ramp-Up Faculty</span></span></span><br>
+        </span></span></p>
+    
+</body></html>
+<address style='color: #666666; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align:center; font-style:normal'>
+
+</address>
+<br/><div align='center' style='background: #FFFFFF; color: #666666; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px'>You are subscribed to this email as bruce@untroubled.org.<br> Click here to modify your <a href='http://trk.cpro20.com/form?1q40te--11usz-d4td06g1&sl=y&t=1&ac=g7ff' style='color: #666666; text-decoration: underline'>preferences</a> or <a href='http://trk.cpro20.com/form?1q40te--11usz-d4td06g1&sl=y&t=5&ac=g7ff' style='color: #666666; text-decoration: underline'>unsubscribe</a>.</div>
+<img src="http://trk.cpro20.com/open/g7ff-1q40te--d4td06g4/img.gif" width="0" height="0" alt="">
+------=_Part_1593690123.1580308200907--

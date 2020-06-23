@@ -1,0 +1,63 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 17875 invoked from network); 7 Jan 2020 13:44:37 -0000
+Received: (qmail 8621 invoked from network); 7 Jan 2020 13:44:36 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 13:44:36 -0000
+Received: (qmail 6579 invoked by uid 48516); 7 Jan 2020 13:44:36 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 25761 invoked from network); 7 Jan 2020 13:44:35 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 07 Jan 2020 13:44:35 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1728171AbgAGNod (ORCPT <rfc822;bruce@untroubled.org>);
+        Tue, 7 Jan 2020 08:44:33 -0500
+Received: from mail-front2.tctwest.net ([67.215.21.198]:45282 "EHLO
+        mail.tctwest.net" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1727932AbgAGNod (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Tue, 7 Jan 2020 08:44:33 -0500
+X-Greylist: delayed 4375 seconds by postgrey-1.27 at vger.kernel.org; Tue, 07 Jan 2020 08:44:33 EST
+Received: (qmail 11747 invoked from network); 7 Jan 2020 12:12:14 -0000
+Received: from localhost (HELO mail.tctwest.net) (mikelmoser@tctwest.net@127.0.0.1)
+        by magicmail-front2.tctwest.net with SMTP
+        (f05572d4-3146-11ea-8e74-005056ad0036); Tue, 07 Jan 2020 05:12:14 -0700
+Received: from unknown ([104.143.84.27])
+        (SquirrelMail authenticated user mikelmoser@tctwest.net)
+        by mail.tctwest.net with HTTP;
+        Tue, 7 Jan 2020 05:12:14 -0700
+Message-ID: <7f54d3ee764278b38bce32a1eaf76da1.squirrel@mail.tctwest.net>
+Date:   Tue, 7 Jan 2020 05:12:14 -0700
+Subject: Job Offer!
+From:   "Yokohama Rubber Co., Ltd" <info@info.net>
+Reply-To: tadanagu@yahoo.com
+User-Agent: SquirrelMail/1.4.15
+MIME-Version: 1.0
+Content-Type:   text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7BIT
+X-Priority: 3 (Normal)
+Importance: Normal
+X-MagicMail-OS: MagicMail 3.0-Devel
+X-MagicMail-UUID: f05572d4-3146-11ea-8e74-005056ad0036
+X-MagicMail-Authenticated: mikelmoser@tctwest.net
+X-MagicMail-SourceIP: 127.0.0.1
+X-MagicMail-RegexMatch: 2
+X-MagicMail-EnvelopeFrom: <info@info.net>
+To:     unlisted-recipients:; (no To-header on input)
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 370
+
+Good Day,
+Our Company Yokohama Rubber Company is interested in Employing your
+Services in Payment Collections from CANADA/USA Customers as a part time
+job for you which entitles you 20% and other benefits you will make from
+the part time offer. If you know you are interest and ready to work with
+us.kindly reply to: tadanagu@yahoo.com
+Your Sincerely
+Ms. Lisa Arashiro
+

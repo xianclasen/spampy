@@ -1,0 +1,113 @@
+Return-Path: <6716-1095-83442-1791-bruce=untroubled.org@mail.audigovv.bid>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 20441 invoked from network); 20 Jan 2020 14:13:04 -0000
+Received: (qmail 8920 invoked from network); 20 Jan 2020 14:13:04 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Jan 2020 14:13:04 -0000
+Received: (qmail 22422 invoked by uid 48516); 20 Jan 2020 14:13:03 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 26403 invoked from network); 20 Jan 2020 14:13:03 -0000
+Received: from dat.audigovv.bid ([170.130.174.55])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 20 Jan 2020 14:12:54 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=audigovv.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=FordExplorersForSale@audigovv.bid;
+ bh=ErkNJSbJSXDMcJxz05QCYLWuzMs=;
+ b=BEthcsWwGPY+SExfCMNqasU8PMQKUTL+G5JMWTc71IKk6b2pIUAmBMX0ApIaln/nbcjNrRe1S9eU
+   Sf8fucUPamTNBDkqHzIXGjE02FEIe2F7MQoTHYFlqKz0U1qiqUolqUJEiL2aUO/wffGMxg8/gDp8
+   bnsrChzm+ATohG5wFMg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=audigovv.bid;
+ b=AaRGdG+iq8hlt1YEdQa1I82PirTydKcBe4gjbXPfE1Icl9gVsII5TddjjkV5bIXEiglzHlnYuWE2
+   CAhwJumHa70QgaC07C2WejNx3YMPW9XUpoGet3sAoJHIU2PyRPsYDDPxMZioqtPOcUxJU6gIoUZu
+   nYBkQjEIJcUZA1qpzjU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="2b8dcdc53281ccd040107c9b0e4a491a_447_145f2"
+Date: Mon, 20 Jan 2020 09:11:23 -0500
+From: "Cheap Cars" <FordExplorersForSale@audigovv.bid>
+Reply-To: "Ford Explorers For Sale" <CheapCars@audigovv.bid>
+Subject: Govt. seized cars at 95%off!
+To: <bruce@untroubled.org>
+Message-ID: <wq5uxpg4r7z85gm9-2t6yf666dzno83an-447-145f2@audigovv.bid>
+Content-Length: 11795
+
+--2b8dcdc53281ccd040107c9b0e4a491a_447_145f2
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Govt. seized cars at 95%off!
+
+http://audigovv.bid/ywaR1ISiqstW1bfW8ST3KmXdz4-w-F1PynMv-ec_9Cu4VN0u
+
+http://audigovv.bid/CGPpH9zb8aE5-4V_Z-AxXGAAl6peLKBYG7h1t5a6tXFgTA6x
+
+ll of the Aruban registered (P4) aircraft that were leased to Insel Air from Insel Air Aruba by the Curaçao Civil Aviation Authority and Department of Civil Aviation in Aruba, for inspection. This included the 4 MD-80 and the 2 Fokker 70s in service. This resulted in 80% of the overall fleet being grounded, leaving only 3 Fokker 50 flying and all of the International flights being cancelled. Due to the grounding, the airline has had to lease aircraft from other companies, including a Boeing 737-400 from USA-based Swift Air, and an Airbus A320 from Dominican Wings for its Sint Maarten-Santo Domingo flights. Other leased aircraft included an Estelar Latinoamérica Boeing 737-400 operating Barquisimeto and Caracas as well as a Fokker 70 from Fly All Ways for its Georgetown and Suriname routes.
+
+Amid its current financial troubles, the airline would adapt its current flight schedule to accommodate its current state. In October 2016, it was announced that the airline would adapt its flight schedule to cut back on its shorter flights, mainly between Curaçao and Aruba. In January 2017, It was revealed that its Quito flights, which were upgraded to scheduled flights in 2016 has now been downgraded once more to seasonal flights and will be operated via Curaçao and is slated to resume in the summer of 2017. Flights between Miami and Port-au-Prince as well as Curaçao and Valencia have also been downgraded to seasonal flights and will resume in the higher travel season. Curaçao to Havana will have a month long hiatus ending in February but resuming in March 2017. Destinations such as Barranquilla and San Juan have also been dropped as the airline continues with its measures to stabilize its route network.
+
+
+Insel Air Fokker 50 at Curaçao
+The Government of Curaçao, together with the shareholders and management of Insel Air joined forces to safeguard the vital air links for the island by ensuring that Insel Air is financially and operationally healthy and strong. The airline signed an agreement, whereby the government, under certain guarantees and conditions, provides a loan to Insel Air. Under this agreement, the government provides a loan of 33 million guilders (18.6 million dollars), payable in installments depending on the implementation of a stabilization plan. As security for this loan, the government obtains more pledge on 51% of the shares in the operating companies of Insel Air. The government acquires all normal shareholder rights, without becoming the owner. In regards to the recent issues, as well as most of its fleet being used by Insel Air, Insel Air Aruba has suspended its commercial services using its own flight numbers while the Department of Civil Aviation of Aruba completes inspection of its current fleet after it was said in a statement that the Department of Civil Aviation would carry out routine inspection of four of its eight aircraft simultaneously which would gradually be released back into service when compliance was verified. The ensuing capacity shortage across both carriers has caused significant delays and cancellations with numerous enraged and unsatisfied customers. Insel Air, is in the process of restructuring its operations with help of the Government of Curaçao and its financial backing. As part of the plan, Insel Air Aruba would likely be re-positioned as a charter carrier going forward, although this has yet to be finalized.
+
+In February 2017, it was announced that the airline's CEO, Albert Kluyver, would resign from his position after a transition period which has already started. Kluyver has led the organization in his role as Chief Executive Officer since the early beginnings in 2006. Kluyver will continue his efforts, in his role as shareholder, to strengthen the liquidity of the company he co-founded by focusing on the repatriation of the outstanding funds in Venezuela and to find a strategic partner for the company. Mr. Gilles Filiatreault has been appointed as the company's temporary CEO until further notice.
+
+It has been stated by the airline's executives that the aircraft comply with all safety regulations and that they are stable and safe to fly. The airline is currently looking into a stabilization plan. As a part of phase one, that the airline will be focusing on operating Aruba, Bonaire, Curaçao and Sint Maarten flights for the time being, which is considered the airline's core business. The second phase of the plan is to continue operations to Suriname and Miami. Venezuela, which used to be considered as the airline's "pot of gold", is not part of the stabilization plan.
+
+The stabilization plans, which saw the airline operating mainly to the ABC Islands and Sint Maarten, proved positive with an improved on time performance of on average 90%, with a clear increase in customer satisfaction.
+
+--2b8dcdc53281ccd040107c9b0e4a491a_447_145f2
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://audigovv.bid/zzU-zCXZTSiasJScUOVz-kIYYDBql4qoyIa2sH3hfpBcnWSA"><img src="http://audigovv.bid/60bd52f022241fb5bb.jpg" /><img height="1" src="http://www.audigovv.bid/eYEzpZmLl5T5id-Sct8cYyBAbl6kUnd3mLC25wUT7InMbzlh" width="1" /></a><br />
+<br />
+<br />
+&nbsp;
+<center>
+<div style="font-family:arial; width:500px; text-align:left;"><a href="http://audigovv.bid/ywaR1ISiqstW1bfW8ST3KmXdz4-w-F1PynMv-ec_9Cu4VN0u"><img src="http://audigovv.bid/8321dbdc4ab30f3384.jpg" /></a><br />
+Dear patron,<br />
+<br />
+<b>Have You Heard about the Guy who bought a 2 year old Mustang Convertible for $850?</b><br />
+<br />
+<mark>Are you still saving to buy your dream car?</mark><br />
+<br />
+But it is never enough.<br />
+<br />
+For it is too expensive!<br />
+<br />
+<b style="color:red;">Not anymore!</b><br />
+<br />
+<b>Learn How to Buy a Car From 95% Off Retail Value.</b><br />
+<br />
+<mark>See What All The Fuss Is All About with Government Auto &amp; Seized Car Auctions!</mark><br />
+<br />
+&gt;&gt;Immediate Access - Live and Online - 4,000+ Auctions US Wide&lt;&lt;<br />
+<br />
+Be Smart - Save Thousands!<a href="http://audigovv.bid/ywaR1ISiqstW1bfW8ST3KmXdz4-w-F1PynMv-ec_9Cu4VN0u"> Get Started - Become A Member Today!</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://audigovv.bid/WWPSGZRIwC2JOMnVJHtS0DzNzr7-ueLJHUs6bUQG3AQu75fO" target="_blank"><img src="http://audigovv.bid/acdcac243660b02575.jpg" /></a><br />
+<br />
+<span style="color:#FFFFFF;">ll of the Aruban registered (P4) aircraft that were leased to Insel Air from Insel Air Aruba by the Cura&ccedil;ao Civil Aviation Authority and Department of Civil Aviation in Aruba, for inspection. This included the 4 MD-80 and the 2 Fokker 70s in service. This resulted in 80% of the overall fleet being grounded, leaving only 3 Fokker 50 flying and all of the International flights being cancelled. Due to the grounding, the airline has had to lease aircraft from other companies, including a Boeing 737-400 from USA-based Swift Air, and an Airbus A320 from Dominican Wings for its Sint Maarten-Santo Domingo flights. Other leased aircraft included an Estelar Latinoam&eacute;rica Boeing 737-400 operating Barquisimeto and Caracas as well as a Fokker 70 from Fly All Ways for its Georgetown and Suriname routes. Amid its current financial troubles, the airline would adapt its current flight schedule to accommodate its current state. In October 2016, it was announced that the airline would adapt its flight schedule to cut back on its shorter flights, mainly between Cura&ccedil;ao and Aruba. In January 2017, It was revealed that its Quito flights, which were upgraded to scheduled flights in 2016 has now been downgraded once more to seasonal flights and will be operated via Cura&ccedil;ao and is slated to resume in the summer of 2017. Flights between Miami and Port-au-Prince as well as Cura&ccedil;ao and Valencia have also been downgraded to seasonal flights and will resume in the higher travel season. Cura&ccedil;ao to Havana will have a month long hiatus ending in February but resuming in March 2017. Destinations such as Barranquilla and San Juan have also been dropped as the airline continues with its measures to stabilize its route network. Insel Air Fokker 50 at Cura&ccedil;ao The Government of Cura&ccedil;ao, together with the shareholders and management of Insel Air joined forces to safeguard the vital air links for the island by ensuring that Insel Air is financially and operationally healthy and strong. The airline signed an agreement, whereby the government, under certain guarantees and conditions, provides a loan to Insel Air. Under this agreement, the government provides a loan of 33 million guilders (18.6 million dollars), payable in installments depending on the implementation of a stabilization plan. As security for this loan, the government obtains more pledge on 51% of the shares in the operating companies of Insel Air. The government acquires all normal shareholder rights, without becoming the owner. In regards to the recent issues, as well as most of its fleet being used by Insel Air, Insel Air Aruba has suspended its commercial services using its own flight numbers while the Department of Civil Aviation of Aruba completes inspection of its current fleet after it was said in a statement that the Department of Civil Aviation would carry out routine inspection of four of its eight aircraft simultaneously which would gradually be released back into service when compliance was verified. The ensuing capacity shortage across both carriers has caused significant delays and cancellations with numerous enraged and unsatisfied customers. Insel Air, is in the process of restructuring its operations with help of the Government of Cura&ccedil;ao and its financial backing. As part of the plan, Insel Air Aruba would likely be re-positioned as a charter carrier going forward, although this has yet to be finalized. In February 2017, it was announced that the airline&#39;s CEO, Albert Kluyver, would resign from his position after a transition period which has already started. Kluyver has led the organization in his role as Chief Executive Officer since the early beginnings in 2006. Kluyver will continue his efforts, in his role as shareholder, to strengthen the liquidity of the company he co-founded by focusing on the repatriation of the outstanding funds in Venezuela and to find a strategic partner for the company. Mr. Gilles Filiatreault has been appointed as the company&#39;s temporary CEO until further notice. It has been stated by the airline&#39;s executives that the aircraft comply with all safety regulations and that they are stable and safe to fly. The airline is currently looking into a stabilization plan. As a part of phase one, that the airline will be focusing on operating Aruba, Bonaire, Cura&ccedil;ao and Sint Maarten flights for the time being, which is considered the airline&#39;s core business. The second phase of the plan is to continue operations to Suriname and Miami. Venezuela, which used to be considered as the airline&#39;s &quot;pot of gold&quot;, is not part of the stabilization plan. The stabilization plans, which saw the airline operating mainly to the ABC Islands and Sint Maarten, proved positive with an improved on time performance of on average 90%, with a clear increase in customer satisfaction. </span></div>
+</center>
+</body>
+</html>
+
+--2b8dcdc53281ccd040107c9b0e4a491a_447_145f2--

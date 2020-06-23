@@ -1,0 +1,67 @@
+Return-Path: <SRS0=E79d9q=23=arcturusconsulting.net=AttorneyGroup-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27736 invoked from network); 6 Jan 2020 17:31:48 -0000
+Received: (qmail 2272 invoked from network); 6 Jan 2020 17:31:48 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 17:31:48 -0000
+Received: (qmail 11034 invoked by uid 48516); 6 Jan 2020 17:31:47 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 30592 invoked from network); 6 Jan 2020 17:31:47 -0000
+Received: from haleypowlowski.arcturusconsulting.net (client-142-11-236-96.hostwindsdns.com [142.11.236.96])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 06 Jan 2020 17:31:47 -0000
+Received: by schmidt.arcturusconsulting.net id h2dng60001ge for <bruce@untroubled.org>; Mon, 6 Jan 2020 17:31:46 +0000 (envelope-from <AttorneyGroup-bruce=untroubled.org@arcturusconsulting.net>)
+Date: Mon, 6 Jan 2020 17:31:46 +0000
+From: Attorney Group <AttorneyGroup@arcturusconsulting.net>
+Reply-To: AttorneyGroup@arcturusconsulting.net
+To: bruce@untroubled.org
+Message-Id: <53cea05c-e8f9-4880-a8cb-e56584621f66@arcturusconsulting.net>
+Subject: =?utf-8?B?JDIgQmlsbGlvbiBWZXJkaWN0IEF3YXJkZWQgSW4gV2VlZGtpbGxlciBMYXdzdWl0LiBBcmUgeW91IGVsaWdpYmxlPw==?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-f005e369__14a6c251e44e6b53a8_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 2088
+
+---_-_-f005e369__14a6c251e44e6b53a8_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-f005e369__14a6c251e44e6b53a8_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHA+Jm5ic3A7PC9wPgo8dGFibGUgYm9yZGVyPSIwIiB3aWR0aD0iMTAwJSIgY2VsbHNwYWNpbmc9
+IjAiIGNlbGxwYWRkaW5nPSIwIiBiZ2NvbG9yPSIjZjBmMmVhIj4KPHRib2R5Pgo8dHI+Cjx0ZCBz
+dHlsZT0idGV4dC1hbGlnbjogcmlnaHQ7Ij48YSBocmVmPSJodHRwOi8vYXJjdHVydXNjb25zdWx0
+aW5nLm5ldC9MdHd4MGxLYXB2SnEiPl88L2E+PGJyIC8+CjxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBj
+ZW50ZXI7Ij48YSBocmVmPSJodHRwOi8vYXJjdHVydXNjb25zdWx0aW5nLm5ldC9rSUxNUEFsMUVJ
+czEiPjxpbWcgc3JjPSJodHRwOi8vYXJjdHVydXNjb25zdWx0aW5nLm5ldC9pbWFnZXMvMDlmN2Iz
+ZjllZGE3N2FlZWJjNDVmMTE2NzgxZGU3NDgiIGFsdD0iIiB3aWR0aD0iNDU4IiBoZWlnaHQ9Ijk2
+MCIgLz48L2E+PC9wPgo8cCBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+PHNwYW4gc3R5bGU9
+ImZvbnQtc2l6ZTogOHB0OyI+VGhlIGluZm9ybWF0aW9uIGluIHRoaXMgZW1haWwgaXMgbm90IGxl
+Z2FsIGFkdmljZS4gVGhlIGF0dG9ybmV5IHJlc3BvbnNpYmxlIGZvciB0aGlzIGVtYWlsIGlzIEJy
+aWFuIEtldHRlcmVyIGFuZCBoaXMgcHJpbmNpcGFsIG9mZmljZSBpcyBsb2NhdGVkIGF0IDMzNiBT
+LiBNYWluIFN0LiBTdWl0ZSAyRC1DIEJlbCBBaXIsIE1EIDIxMDE0LiBPdXIgZmlybSBwcmFjdGlj
+ZXMgcGVyc29uYWwgaW5qdXJ5IGxhdyBhbmQgaGFzIGF0dG9ybmV5cyBsaWNlbnNlZCBpbiBWQSwg
+REMgYW5kIE1ELiBUaGUgRmlybSBjYW4gYmUgcmVhY2hlZCBhdCA4NTUtMjgxLTI1NzEuIEVhY2gg
+Y2FzZSBpcyB1bmlxdWUsIGFuZCBwcmlvciByZXN1bHRzIGRvIG5vdCBndWFyYW50ZWUgc2ltaWxh
+ciBvdXRjb21lcy4gSW50ZXJhY3Rpb24gd2l0aCBUaGUgRmlybSBmcm9tIHRoaXMgZW1haWwgZG9l
+cyBub3QgY3JlYXRlIGFuIGF0dG9ybmV5LWNsaWVudCByZWxhdGlvbnNoaXAuPC9zcGFuPjxiciAv
+PjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPjxhIGhyZWY9Imh0dHA6Ly9hcmN0dXJ1c2Nv
+bnN1bHRpbmcubmV0L09xdHV4aUhYbXRqciI+Jm5ic3A7PC9hPjxhIGhyZWY9Imh0dHA6Ly9hcmN0
+dXJ1c2NvbnN1bHRpbmcubmV0LzlWWVpjTnlDUlY1RyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9v
+cGVuZXIgbm9yZWZlcnJlciI+UHJpdmFjeSBQb2xpY3k8L2E+IHwgPGEgaHJlZj0iaHR0cDovL2Fy
+Y3R1cnVzY29uc3VsdGluZy5uZXQvSXd6MDNvTmRzd1VsIj5VbnN1YnNjcmliZTwvYT48L3NwYW4+
+PC9wPgo8L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPgo8IS0tIGVuZCBtYWluIGJsb2NrIC0t
+Pg==
+
+---_-_-f005e369__14a6c251e44e6b53a8_-_---

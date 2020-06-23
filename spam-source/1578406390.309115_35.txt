@@ -1,0 +1,78 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 13502 invoked from network); 7 Jan 2020 10:40:26 -0000
+Received: (qmail 7479 invoked from network); 7 Jan 2020 10:40:25 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 10:40:25 -0000
+Received: (qmail 1959 invoked by uid 48516); 7 Jan 2020 10:40:25 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 28507 invoked from network); 7 Jan 2020 10:40:25 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 07 Jan 2020 10:40:25 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1727787AbgAGKkX (ORCPT <rfc822;bruce@untroubled.org>);
+        Tue, 7 Jan 2020 05:40:23 -0500
+Received: from mail-lj1-f193.google.com ([209.85.208.193]:41757 "EHLO
+        mail-lj1-f193.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1727177AbgAGKkX (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Tue, 7 Jan 2020 05:40:23 -0500
+Received: by mail-lj1-f193.google.com with SMTP id h23so54206039ljc.8
+        for <linux-kernel@vger.kernel.org>; Tue, 07 Jan 2020 02:40:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=DK3+eW5DzORIn3P37jfI+LVuJR6LGq8WBycD0bO5TNg=;
+        b=AuN5Zm5TVfYel7PoXrjNrkXEE7bYeRxxm3uk15TV1rzlLB/587DmIZaHED5hfnhUGF
+         TfmW7m/RIPvkki6IX1XSNpEPDBjW47+3juqFzzfjIPDMKxRAX4KpDZe1ZOYeYT0ryTGl
+         txzmdtIFnpS2+B7meCcLspNkR7VeYqPrLcyU1KO38Gb+2lO9DhO3ZmmXQ81joSf8YUsM
+         /1YxYT+369GcuAC+B6GuAYo7qIJMmtYA+d4jPINY180S8e+cnrNAl3cwtWRdYY1Y5tcz
+         7lJivsZaVSijn/1tYZcMYNI18tnAJ10AsGgmpDm/WZV83G1CZmlFCOcNkaCRFg4VN9u0
+         CNOg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=DK3+eW5DzORIn3P37jfI+LVuJR6LGq8WBycD0bO5TNg=;
+        b=Scb9mTOLk1LW9HLtBuFmhNAQTSX+7I785sZhBMl2TlnTUTqBC9GJT/FIcFdJ5rRm2/
+         9GcjS3QPVAaWh7Dhx73xv7cBVK6lWnqYK4MeMpBjnGFBkkMOP/z6ZRW3paqpYO/J8TyB
+         sCrMhOKVUKBjWTuZvEOMCglmAOIuJ5eg3uxbvtHsEunBfWB0WqdOZyqlt3BLt+3J0kw3
+         HwrwD0NpMc4TtYLCyoB+Z5ZldfSCUfwrAZaP2l7oiNmO+kV6eYx4OJVgWv60ug8Wvf8s
+         WjKLtMxc/na96yrkOG8MD8fiEmYhN47PYW5g7VJdI+qloH74OWdaYu+FtwYC4woPnart
+         51lg==
+X-Gm-Message-State: APjAAAXKwegqHyxLi4eP6ELPJwgeRPi0V5spL/t5GYgFuizrGqEeZZ8G
+        zyd0wOg8rACkQjkfvNt+r5u4JbDlzdXMSOsaI0A=
+X-Google-Smtp-Source: APXvYqxPizejs/rN3yRFvqVAwpI/O3ZQ6FoJt1MqrxQr5e8oCxNjtDaavyroWbHEoOu5W2cLXA2vphm/lgzh9EXLNcY=
+X-Received: by 2002:a2e:9013:: with SMTP id h19mr63832166ljg.223.1578393621179;
+ Tue, 07 Jan 2020 02:40:21 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:a05:6504:5f7:0:0:0:0 with HTTP; Tue, 7 Jan 2020 02:40:20
+ -0800 (PST)
+Reply-To: markbill@planetmail.com
+From:   "Mr. Mark Bill" <johnson0paul8@gmail.com>
+Date:   Tue, 7 Jan 2020 11:40:20 +0100
+Message-ID: <CAGT6c6vitP2ezEA2f+EbqZfFND1LZWcBBV2HZEMm_KP=12PMXA@mail.gmail.com>
+Subject: Thanks and wish to hera frpom you
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 642
+
+Hello, I am Mark Bill from Chicago city and my wife is from Mexico,
+after going through the internet i saw a lot about your country in
+items of investment  i decided to search for someone who can help and
+advice me on what my only son can invest in your country
+
+Moreover, all i need is for my son to be happy before three months the
+doctor gave me because i have cancer, i will like to know in which
+area my son can invest with $4.2 million dollars in your country and i
+will give you his whatsapp and will like you to see his face on video
+call to build more trust in this my investment proposal
+
+Thanks and wish to hear from you
+Mark Bill

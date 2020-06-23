@@ -1,0 +1,101 @@
+Return-Path: <SRS0=mkSAEY=23=mail.weighmale.bid=5952-2982-85526-1597-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24897 invoked from network); 6 Jan 2020 15:15:06 -0000
+Received: (qmail 1465 invoked from network); 6 Jan 2020 15:15:06 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 15:15:06 -0000
+Received: (qmail 19197 invoked by uid 48516); 6 Jan 2020 15:15:05 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31023 invoked from network); 6 Jan 2020 15:15:04 -0000
+Received: from mobile.weighmale.bid (client-192-119-111-90.hostwindsdns.com [192.119.111.90])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 06 Jan 2020 15:15:01 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=weighmale.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=MassiveMalePlusBasic@weighmale.bid;
+ bh=b6uvGVrdaT5O5oZYY661cHW+b34=;
+ b=GFnQXBZHUmgjxXWjAUJ8g1LB7sSha+ri/dRmR1LKlP54qRHadgjh83HyKzRvsy4PmC7gwEZULnCR
+   G3AhQPEk3iXQJio0ZUK7IOoFHSONYFO8f1p2H4UR4fOR3u6zBJZ7eKXxXWLA0qB3e5MHelWBOYWC
+   9sA9b4DEgXH82h9rRgU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=weighmale.bid;
+ b=NKneP4bvOGpCCPu8sQ/wET5iGWJsVene8DNrIe+RiyJePhC9kqwkC+6yltcifD0BMY25O0s4Z0Ns
+   ERBSPbEGmqTW59zALKgk/rHiPpmWrWJ36jkkWx1MljY+QliTwoknIIAE0jnyuREkxRcD5W9j1+K6
+   YBGeoBa/2L2BgKxKO+U=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="67b27a0f8cb0e66640966c26b6173141_ba6_14e16"
+Date: Mon, 6 Jan 2020 10:14:57 -0500
+From: "Massive Male Plus Basic" <MassiveMalePlusBasic@weighmale.bid>
+Reply-To: "Massive Male Plus Basic" <MassiveMalePlusBasic@weighmale.bid>
+Subject: Do This For 1 Minute To Unlock Massive Growth
+To: <bruce@untroubled.org>
+Message-ID: <eradbzpmaavwi5v1-n7fsz1hirup25xge-ba6-14e16@weighmale.bid>
+Content-Length: 7229
+
+--67b27a0f8cb0e66640966c26b6173141_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Do This For 1 Minute To Unlock Massive Growth
+
+http://weighmale.bid/Fgj_leNM-hm73IczNWVBa5ldTedZrqoBvPa4ibVJa0sBp7xt
+
+http://weighmale.bid/16uQq7trsjBcuMqqsWBRfPPnPHWKpTuwKEvlwhr5VbWt3Go
+
+ As with any occupation, since the ancient times, the military has been distinguished from other members of the society by their tools, the military weapons, and military equipment used in combat. When Stone Age humans first took a sliver of flint to tip the spear, it was the first example of applying technology to improve the weapon.
+
+Since then, the advances made by human societies, and that of weapons, has been irretrievably linked. Stone weapons gave way to Bronze Age weapons, and later, the Iron Age weapons. With each technological change, was realised some tangible increase in military capability, such as through greater effectiveness of a sharper edge in defeating leather armour, or improved density of materials used in manufacture of weapons.
+
+On land, the first really significant technological advance in warfare was the development of the ranged weapons, and notably, the sling. The next significant advance came with the domestication of the horses and mastering of equestrianism.
+Mounted armoured knight. Armour and cavalry dominated the battlefield, until the invention of firearms.
+
+Arguably, the greatest invention that affected not just the military, but all society, after adoption of fire, was the wheel, and its use in the construction of the chariot. There were no advances in military technology, until, from the mechanical arm action of a slinger, the Greeks, Egyptians, Romans, Persians, Chinese, etc., developed the siege engines. The bow was manufactured in increasingly larger and more powerful versions, to increase both the weapon range, and armour penetration performance. These developed into the powerful composite and recurve bows, and crossbows of Ancient China. These proved particularly useful during the rise of cavalry, as horsemen encased in ever-more sophisticated armour came to dominate the battlefield.
+
+Somewhat earlier, in medieval China, gunpowder had been invented, and was increasingly used by the military in combat. The use of gunpowder in the early vase-like mortars in Europe, and advanced versions of the long bow and cross bow, which all had armour-piercing arrowheads, that put an end to the dominance of the armoured knight. After the long bow, which required great skill and strength to use, the next most significant technological advance was the musket, which could be used effectively, with little training. In time, the successors to muskets and cannon, in the form of rifles and artillery, would become core battlefield technology.
+
+--67b27a0f8cb0e66640966c26b6173141_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><br />
+<a href="http://weighmale.bid/gCKQFsnSyl24iDzMaCBWhR9FbV88y6vkfWkeo3geBQRYG_Pj"><img src="http://weighmale.bid/6a45f39771bdea2e80.jpg" /><img height="1" src="http://www.weighmale.bid/LNat63XeWM6HBQ7w109OiydTsizC9t72hlQpXQi7LT_cMHo" width="1" /></a><br />
+<br />
+<br />
+&nbsp;
+<div style="width:100%; max-width:650px;font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; margin-left:2%;">&nbsp;
+<h2>Who would&#39;ve imagined that <a href="http://weighmale.bid/Fgj_leNM-hm73IczNWVBa5ldTedZrqoBvPa4ibVJa0sBp7xt" target="_blank"><strong>something so mind-blowingly easy</strong></a></h2>
+
+<p>Without using any drugs, creams, or surgeries?</p>
+
+<p>Many thought it was just a joke at first...</p>
+
+<p>But make no mistake, <a href="http://weighmale.bid/Fgj_leNM-hm73IczNWVBa5ldTedZrqoBvPa4ibVJa0sBp7xt" target="_blank"><strong>once you hit this pressure point...</strong></a></p>
+
+<p>You&#39;re going BIG!</p>
+
+<p>The growth that a growing army of men experienced so far is just too unbelievable not to <a href="http://weighmale.bid/Fgj_leNM-hm73IczNWVBa5ldTedZrqoBvPa4ibVJa0sBp7xt" target="_blank"><strong>try this trick at least once...</strong></a></p>
+
+<p>The genius hack is clearly explained on this page so you can use it right away.</p>
+
+<p><a href="http://weighmale.bid/Fgj_leNM-hm73IczNWVBa5ldTedZrqoBvPa4ibVJa0sBp7xt" target="_blank"><img src="http://weighmale.bid/74b20421a0c2f3f5ee.jpg" /></a></p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<div style="color:#FFFFFF;font-size:8px;">As with any occupation, since the ancient times, the military has been distinguished from other members of the society by their tools, the military weapons, and military equipment used in combat. When Stone Age humans first took a sliver of flint to tip the spear, it was the first example of applying technology to improve the weapon. Since then, the advances made by human societies, and that of weapons, has been irretrievably linked. Stone weapons gave way to Bronze Age weapons, and later, the Iron Age weapons. With each technological change, was realised some tangible increase in military capability, such as through greater effectiveness of a sharper edge in defeating leather armour, or improved density of materials used in manufacture of weapons. On land, the first really significant technological advance in warfare was the development of the ranged weapons, and notably, the sling. The next significant advance came with the domestication of the horses and mastering of equestrianism. Mounted armoured knight. Armour and cavalry dominated the battlefield, until the invention of firearms. Arguably, the greatest invention that affected not just the military, but all society, after adoption of fire, was the wheel, and its use in the construction of the chariot. There were no advances in military technology, until, from the mechanical arm action of a slinger, the Greeks, Egyptians, Romans, Persians, Chinese, etc., developed the siege engines. The bow was manufactured in increasingly larger and more powerful versions, to increase both the weapon range, and armour penetration performance. These developed into the powerful composite and recurve bows, and crossbows of Ancient China. These proved particularly useful during the rise of cavalry, as horsemen encased in ever-more sophisticated armour came to dominate the battlefield. Somewhat earlier, in medieval China, gunpowder had been invented, and was increasingly used by the military in combat. The use of gunpowder in the early vase-like mortars in Europe, and advanced versions of the long bow and cross bow, which all had armour-piercing arrowheads, that put an end to the dominance of the armoured knight. After the long bow, which required great skill and strength to use, the next most significant technological advance was the musket, which could be used effectively, with little training. In time, the successors to muskets and cannon, in the form of rifles and artillery, would become core battlefield technology.</div>
+<br />
+<br />
+<br />
+<br />
+<a href="http://weighmale.bid/ZWhOPh4b8j-PPhxPtW5LXo69qhrtMWTDfwtmrsLmuUDNMH5z"><img src="http://weighmale.bid/357f763ae15d18fdd7.jpg" /></a><br />
+&nbsp;</div>
+</body>
+</html>
+
+--67b27a0f8cb0e66640966c26b6173141_ba6_14e16--

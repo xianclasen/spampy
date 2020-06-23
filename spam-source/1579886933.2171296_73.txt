@@ -1,0 +1,99 @@
+Return-Path: <SRS0=XiO2d1=3N=mail.easybeach.bid=6922-9790-262549-1847-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 31706 invoked from network); 24 Jan 2020 11:41:58 -0000
+Received: (qmail 17274 invoked from network); 24 Jan 2020 11:41:57 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 11:41:57 -0000
+Received: (qmail 18173 invoked by uid 48516); 24 Jan 2020 11:41:57 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9883 invoked from network); 24 Jan 2020 11:41:57 -0000
+Received: from cupid.easybeach.bid (resdb0d55.responsecool.space [170.130.172.199])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 24 Jan 2020 11:41:57 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=easybeach.bid;
+ h=Mime-Version:Content-Type:Date:From:Subject:To:Message-ID; i=BlessingsonDemand@easybeach.bid;
+ bh=Fpx4lmZjuCV4m6exIv/JLXjVkNQ=;
+ b=N50ZRACgTduEql/Z4nCK6Q1I2ikU/5YzGyuTVqx00ID8rbLLo6KNSXfBcL1Wc4hRzKpUu3ounnrf
+   fE5ejqykfyk4x+yHzUXiY2IvdBnMwiwSuP0orWcTktISfjKV94bsaK+6oJSdM8VW3/z9jdHgTzGY
+   9/LWtx2zkCCyNYLByes=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=easybeach.bid;
+ b=L3an1bE6uRVhU2ZTJNdJjyevi7fTdcynM/JIpsWEnRoGIgnSq4WqNMHehVYvsPMxJi7l0V1sZWbk
+   o1/H/E+TxZ7AhGbZjA3zSGWcv2Sp2ce4pSRJS8buODjENLfAQl4LNVhhYnPgiNonjGy5RIPHUzbr
+   CmnkS8uyEl0VO5qSPN4=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="23b3d8a29a004baf4d6cee6d09cf85bf_263e_40195"
+Date: Fri, 24 Jan 2020 06:36:37 -0500
+From: "Blessings on Demand<7 Day Prayer Miracle@easybeach.bid>Reply-To:"BlessingsonDemand" <Blessings on Demand@easybeach.bid>
+Subject: Your Heavenly Protection
+To: <bruce@untroubled.org>
+Message-ID: <9j5p9a7jmn5nvz4t-1opdh8gndt92d2ft-263e-40195@easybeach.bid>
+Content-Length: 7341
+
+--23b3d8a29a004baf4d6cee6d09cf85bf_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Your Heavenly Protection
+
+http://easybeach.bid/84UppMigvWD1eSBPcc3WGLQuRH2pPNu4u256IsbJr4fkMEDK
+
+http://easybeach.bid/7ZBsvUpyOk5BKXZv7Ky1DhyyltrpqIYPrrt2i7CmBBLslSqx
+
+Atmospheric or wind-borne fugitive dust, also known as aeolian dust, comes from arid and dry regions where high velocity winds are able to remove mostly silt-sized material, deflating susceptible surfaces. This includes areas where grazing, ploughing, vehicle use, and other human activities have further destabilized the land, though not all source areas have been largely affected by anthropogenic impacts. One-third of the global land area is covered by dust-producing surfaces, made up of hyper-arid regions like the Sahara which covers 0.9 billion hectares, and drylands which occupy 5.2 billion hectares.
+
+Dust in the atmosphere is produced by saltation and sandblasting of sand-sized grains, and it is transported through the troposphere. This airborne dust is considered an aerosol and once in the atmosphere, it can produce strong local radiative forcing. Saharan dust in particular can be transported and deposited as far as the Caribbean and the Amazon basin, and may affect air temperatures, cause ocean cooling, and alter rainfall amounts.
+
+Middle East
+Dust in the Middle East has been a historic phenomenon. Recently, because of climate change and the escalating process of desertification, the problem has worsened dramatically. As a multi-factor phenomenon, there is not yet a clear consensus on the sources or potential solutions to the problem.
+
+In Iran, the dust is already affecting more than 5 million people directly, and has emerged as a serious government issue in recent years. In the province of Khuzestan it has led to the severe reduction of air quality. The amount of pollutants in the air has surpassed more than 50 times the normal level several times in a year. Recently, initiatives such as Project-Dust have been established to directly study dust in the Middle East.
+
+Roads
+Main article: Road debris
+Dust kicked up by vehicles traveling on roads may make up 33% of air pollution. Road dust consists of deposits of vehicle exhausts and industrial exhausts, particles from tire and brake wear, dust from paved roads or potholes, and dust from construction sites. Road dust is a significant source contributing to the generation and release of particulate matter into the atmosphere. Control of road dust is a significant challenge in urban areas, and also in other locations with high levels of vehicular traffic upon unsealed roads, such as mines and landfill dumps.
+
+Road dust may be suppressed by mechanical methods like street sweeper vehicles equipped with vacuum cleaners, vegetable oil sprays, or with water sprayers. Improvements in automotive engineering have reduced the amount of PM10s produced by road traffic; the proportion representing re-suspension of existing particulates has increased as a result.
+
+--23b3d8a29a004baf4d6cee6d09cf85bf_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://easybeach.bid/HK_6opjYfmHB1SFrTUj4AtCZuSbs9TTIJpahmh_2-y9669ij"><img src="http://easybeach.bid/d971c3e4be71365256.jpg" /><img height="1" src="http://www.easybeach.bid/MP-VAyxe4ob_-XurvxL6uF9MM9S2HJSYD_8bPizKtBnP4Bb8" width="1" /></a>
+<div style="width:500px; padding:10px;font-family:Arial;"><br />
+Archangel Michael is God&rsquo;s favorite messenger, and he has an encouraging word from heaven for you.<br />
+<br />
+<a href="http://easybeach.bid/84UppMigvWD1eSBPcc3WGLQuRH2pPNu4u256IsbJr4fkMEDK" style="color:red;">To read it, go here:</a><br />
+<br />
+You&rsquo;re about to be incredibly blessed.<br />
+<br />
+Archangel Michael is known as the angel of deliverance. He&rsquo;s here to protect you from the harms of this world. And he wants to lift you out of your trouble and embrace you into his loving arms.<br />
+<br />
+<a href="http://easybeach.bid/84UppMigvWD1eSBPcc3WGLQuRH2pPNu4u256IsbJr4fkMEDK" style="color:#1700ef;">Click here to experience the miracles of Archangel Michael to unfold for you:</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<a href="http://easybeach.bid/Ci6DXn6p-XsCokrfUmyxevHoOiY7R7QzfB74KmM84nUQiPg"><img src="http://easybeach.bid/eb4aaacf6d156889f9.jpg" /></a><br />
+<br />
+&nbsp;
+<p style="color:#FFFFFF;font-size:3px;">Atmospheric or wind-borne fugitive dust, also known as aeolian dust, comes from arid and dry regions where high velocity winds are able to remove mostly silt-sized material, deflating susceptible surfaces. This includes areas where grazing, ploughing, vehicle use, and other human activities have further destabilized the land, though not all source areas have been largely affected by anthropogenic impacts. One-third of the global land area is covered by dust-producing surfaces, made up of hyper-arid regions like the Sahara which covers 0.9 billion hectares, and drylands which occupy 5.2 billion hectares. Dust in the atmosphere is produced by saltation and sandblasting of sand-sized grains, and it is transported through the troposphere. This airborne dust is considered an aerosol and once in the atmosphere, it can produce strong local radiative forcing. Saharan dust in particular can be transported and deposited as far as the Caribbean and the Amazon basin, and may affect air temperatures, cause ocean cooling, and alter rainfall amounts. Middle East Dust in the Middle East has been a historic phenomenon. Recently, because of climate change and the escalating process of desertification, the problem has worsened dramatically. As a multi-factor phenomenon, there is not yet a clear consensus on the sources or potential solutions to the problem. In Iran, the dust is already affecting more than 5 million people directly, and has emerged as a serious government issue in recent years. In the province of Khuzestan it has led to the severe reduction of air quality. The amount of pollutants in the air has surpassed more than 50 times the normal level several times in a year. Recently, initiatives such as Project-Dust have been established to directly study dust in the Middle East. Roads Main article: Road debris Dust kicked up by vehicles traveling on roads may make up 33% of air pollution. Road dust consists of deposits of vehicle exhausts and industrial exhausts, particles from tire and brake wear, dust from paved roads or potholes, and dust from construction sites. Road dust is a significant source contributing to the generation and release of particulate matter into the atmosphere. Control of road dust is a significant challenge in urban areas, and also in other locations with high levels of vehicular traffic upon unsealed roads, such as mines and landfill dumps. Road dust may be suppressed by mechanical methods like street sweeper vehicles equipped with vacuum cleaners, vegetable oil sprays, or with water sprayers. Improvements in automotive engineering have reduced the amount of PM10s produced by road traffic; the proportion representing re-suspension of existing particulates has increased as a result.</p>
+</body>
+</html>
+
+--23b3d8a29a004baf4d6cee6d09cf85bf_263e_40195--

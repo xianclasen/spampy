@@ -1,0 +1,95 @@
+Return-Path: <SRS0=TMpZeU=24=mail.sciencnenatural.co=5964-2982-85526-1602-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 7689 invoked from network); 7 Jan 2020 09:06:00 -0000
+Received: (qmail 6803 invoked from network); 7 Jan 2020 09:06:00 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 09:06:00 -0000
+Received: (qmail 3526 invoked by uid 48516); 7 Jan 2020 09:05:59 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9979 invoked from network); 7 Jan 2020 09:05:59 -0000
+Received: from zoar.sciencnenatural.co (unilq23xb.unitecool.host [170.130.172.209])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 07 Jan 2020 09:05:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=sciencnenatural.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Russiononline@sciencnenatural.co;
+ bh=NHZ75q156gjylmj9oaX/zsEAZAg=;
+ b=G4dyUvsz7unc4SwSPS24zl3EUnK1lx1Ls0tl8/TgBbjEihLN1IR6FvdX/K+kTC4ysjpPvFDoTQGk
+   KbtUJ3U4rD5nH3O8T0plb8kK7x81MnzjryREFt+ILjoJ11X2SqZQHvYB2FNw0dS7d639KsPRzMnm
+   82sZwrgKuklxHK+F8fQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=sciencnenatural.co;
+ b=Nn/Bg4qUGBnOeLSwD54GmjpJcXTmzoY8/F6hvwN2f6owuwF2DTQQyq5D47JZDEfTp0KCdxYzYeCw
+   dDcqrlWAMxfQmYUQzvFJf/5WHXoDU6FDffFQNhoT526glGlqxWgRjH9Skz5vEuWgWu5iDBOe8Xh7
+   ur4epH5no9r1F19WlF8=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="c40a1a0407bb6080e50b9d2e9ba3467a_ba6_14e16"
+Date: Tue, 7 Jan 2020 04:04:32 -0500
+From: "Russion online" <Russiononline@sciencnenatural.co>
+Reply-To: "Hot Russion online" <Russiononline@sciencnenatural.co>
+Subject: Want to meet singles? See photos!
+To: <bruce@untroubled.org>
+Message-ID: <d1hevurv571vbsz4-g1j23a738a2r5k8k-ba6-14e16@sciencnenatural.co>
+Content-Length: 7677
+
+--c40a1a0407bb6080e50b9d2e9ba3467a_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Want to meet singles? See photos!
+
+http://sciencnenatural.co/qKHJnn9hJnC3O6RJccGPsJRDw-4PpwcFKcDjiw1XnOAzG-c
+
+http://sciencnenatural.co/R9PsP0OkEhNlC5NTZUtKy1XLZWODBFqasp0_uQ3g2LcGNwfB
+
+The Finger Lakes region contains evidence of pre-Iroquois habitation, such as The Bluff Point Stoneworks, but little is known about who may have constructed these enigmatic structures.
+
+The Finger Lakes region is a central part of the Iroquois homeland. The Iroquois tribes include the Seneca and Cayuga nations, for which the two largest Finger Lakes are named. The Tuscarora tribe lived in the Finger Lakes region as well, from ca. 1720. The Onondaga and Oneida tribes lived at the eastern edge of the region, closer to their namesake lakes, Oneida Lake and Onondaga Lake. The easternmost Iroquois tribe was the Mohawk.
+
+During colonial times, many other tribes moved to the Finger Lakes region, seeking the protection of the Iroquois. For example, in 1753 remnants of several Virginia Siouan tribes, collectively called the Tutelo-Saponi, moved to the town of Coreorgonel at the south end of Cayuga Lake near present-day Ithaca, until 1779 when their village was destroyed.
+
+Major Iroquois towns in the Finger Lakes region included the Seneca town of Gen-nis-he-yo (present-day Geneseo), Kanadaseaga (Seneca Castle, near present-day Geneva), Goiogouen (Cayuga Castle, east of Cayuga Lake), Chonodote (Cayuga town, present-day Aurora), Catherine's Town (near present-day Watkins Glen) and Ganondagan State Historic Site in Victor, New York.
+
+As one of the most powerful Indian nations during colonial times, the Iroquois were able to prevent European colonization of the Finger Lakes region for nearly two centuries after first contact, often playing the French off against the British interests in savvy demonstrations of political competence. Tribal politics and the military reality that the Iroquois held the strongest military force in North America were well appreciated. By the late 18th century with the French governmental influence gone from Canada Iroquois power had weakened, relative to the steady growth in European-Americans' populations, and internal strife eroded the political unity of the Iroquois Confederacy as they faced pressures from colonists itching to move west and a desire to keep them out of Amerindian lands. During the American Revolutionary War, some Iroquois sided with the British and some with the Americans, resulting in civil war among the Iroquois. In the late 1770s, British-allied Iroquois attacked various American frontier settlements, prompting counter-attacks, culminating in the Sullivan Expedition of 1779, which destroyed most of the Iroquois towns and effectively broke Iroquois power. After the Revolutionary War, the Iroquois and other Indians of the region were assigned reservations. Most of their land, including the Finger Lakes region, was opened up to purchase and settlement.
+
+Roughly the western half of the Finger Lakes region comprised the Phelps and Gorham Purchase of 1790. The region was rapidly settled at the turn of the 19th century, largely by a westward migration from New England, and to a lesser degree by northward influx from Pennsylvania. The regional architecture reflects these area traditions of the Federal and Greek Revival periods.
+
+--c40a1a0407bb6080e50b9d2e9ba3467a_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://sciencnenatural.co/qKHJnn9hJnC3O6RJccGPsJRDw-4PpwcFKcDjiw1XnOAzG-c" style="font-size:40px;font-family:Arial; color:blue; text-decoration:none;">Want to meet singles? See photos!</a><br />
+<br />
+<a href="http://sciencnenatural.co/qKHJnn9hJnC3O6RJccGPsJRDw-4PpwcFKcDjiw1XnOAzG-c"><img src="http://sciencnenatural.co/317e62eb13f297fdbe.jpg" style="border:2px solid #f35a9b;" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sciencnenatural.co/RbmFlpB_K7jyWTULRAnkWzAOIwgpebo1z3VvJiiWlGXZRJJj"><img src="http://sciencnenatural.co/5c43eeedb948cf06d0.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sciencnenatural.co/R9PsP0OkEhNlC5NTZUtKy1XLZWODBFqasp0_uQ3g2LcGNwfB"><img src="http://sciencnenatural.co/303dd16dba727a179d.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">The Finger Lakes region contains evidence of pre-Iroquois habitation, such as The Bluff Point Stoneworks, but little is known about who may have constructed these enigmatic structures. The Finger Lakes region is a central part of the Iroquois homeland. The Iroquois tribes include the Seneca and Cayuga nations, for which the two largest Finger Lakes are named. The Tuscarora tribe lived in the Finger Lakes region as well, from ca. 1720. The Onondaga and Oneida tribes lived at the eastern edge of the region, closer to their namesake lakes, Oneida Lake and Onondaga Lake. The easternmost Iroquois tribe was the Mohawk. During colonial times, many other tribes moved to the Finger Lakes region, seeking the protection of the Iroquois. For example, in 1753 remnants of several Virginia Siouan tribes, collectively called the Tutelo-Saponi, moved to the town of Coreorgonel at the south end of Cayuga Lake near present-day Ithaca, until 1779 when their village was destroyed. Major Iroquois towns in the Finger Lakes region included the Seneca town of Gen-nis-he-yo (present-day Geneseo), Kanadaseaga (Seneca Castle, near present-day Geneva), Goiogouen (Cayuga Castle, east of Cayuga Lake), Chonodote (Cayuga town, present-day Aurora), Catherine&#39;s Town (near present-day Watkins Glen) and Ganondagan State Historic Site in Victor, New York. As one of the most powerful Indian nations during colonial times, the Iroquois were able to prevent European colonization of the Finger Lakes region for nearly two centuries after first contact, often playing the French off against the British interests in savvy demonstrations of political competence. Tribal politics and the military reality that the Iroquois held the strongest military force in North America were well appreciated. By the late 18th century with the French governmental influence gone from Canada Iroquois power had weakened, relative to the steady growth in European-Americans&#39; populations, and internal strife eroded the political unity of the Iroquois Confederacy as they faced pressures from colonists itching to move west and a desire to keep them out of Amerindian lands. During the American Revolutionary War, some Iroquois sided with the British and some with the Americans, resulting in civil war among the Iroquois. In the late 1770s, British-allied Iroquois attacked various American frontier settlements, prompting counter-attacks, culminating in the Sullivan Expedition of 1779, which destroyed most of the Iroquois towns and effectively broke Iroquois power. After the Revolutionary War, the Iroquois and other Indians of the region were assigned reservations. Most of their land, including the Finger Lakes region, was opened up to purchase and settlement. Roughly the western half of the Finger Lakes region comprised the Phelps and Gorham Purchase of 1790. The region was rapidly settled at the turn of the 19th century, largely by a westward migration from New England, and to a lesser degree by northward influx from Pennsylvania. The regional architecture reflects these area traditions of the Federal and Greek Revival periods. </span></center>
+</body>
+</html>
+
+--c40a1a0407bb6080e50b9d2e9ba3467a_ba6_14e16--

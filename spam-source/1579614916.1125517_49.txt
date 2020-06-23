@@ -1,0 +1,105 @@
+Return-Path: <SRS0=Kc6pve=3K=mail.snipervision.co=6749-9790-262549-1800-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 13721 invoked from network); 21 Jan 2020 09:54:40 -0000
+Received: (qmail 15765 invoked from network); 21 Jan 2020 09:54:39 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Jan 2020 09:54:39 -0000
+Received: (qmail 4270 invoked by uid 48516); 21 Jan 2020 09:54:39 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10917 invoked from network); 21 Jan 2020 09:54:39 -0000
+Received: from covina.snipervision.co (client-192-236-154-250.hostwindsdns.com [192.236.154.250])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 21 Jan 2020 09:54:38 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=snipervision.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=TimeshareRelease@snipervision.co;
+ bh=UmmXVWUu55AGHsB6fOoitHaSsJk=;
+ b=bS91YGRTBkzstj3XFwO0MtqytPDC4AdmCkw66fAImwFzXxCc+FQTGXZcxrwImaYI5O3Elyz30Fjb
+   sjhgI3CY/yFgPbB+yCRU9SGRyFVAeREe54oP/uSNMDO776be76+IzaAG9iV7iIr1d77HYsrBxOhe
+   TJ1ibtFdn+l9XluwEo8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=snipervision.co;
+ b=f+b2olNqaxkdaI8UZay0HqVxoSKAtiNXkGr8rhLXGouWcHIgx2u6bR6HqKMkpmxTzsWnuA9VKhJK
+   7yqlZvGZPsj1b/b60OOtLnoG/xHgz0BFWA0rZ2wWeXAk5IAEnrB/9ZqNQqewCiUUYTOnQuYr8B+3
+   sv0UNBQExpM6/gdMFlQ=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="8be401d9f57d28b427846e0f03bbe382_263e_40195"
+Date: Tue, 21 Jan 2020 04:48:26 -0500
+From: "Timeshare Release" <TimeshareRelease@snipervision.co>
+Reply-To: "Timeshare Release" <TimeshareRelease@snipervision.co>
+Subject: Timeshare Exit Professionals – Get Solutions Now
+To: <bruce@untroubled.org>
+Message-ID: <ja4hri3iohzxvttd-nrx43r228xyurtnv-263e-40195@snipervision.co>
+Content-Length: 7044
+
+--8be401d9f57d28b427846e0f03bbe382_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Timeshare Exit Professionals – Get Solutions Now
+
+http://snipervision.co/b-yeLtry25mWhra2-ydDhBJFY7xCapORWqK-xzMeT-KV6W4
+
+http://snipervision.co/LRg7PbVXvRNBfy-odVaS0fe3SCh7Lx_KPRSCMFCedp7irwke
+
+The major phyla (sometimes called divisions) of fungi have been classified mainly on the basis of characteristics of their sexual reproductive structures. Currently, seven phyla are proposed: Microsporidia, Chytridiomycota, Blastocladiomycota, Neocallimastigomycota, Glomeromycota, Ascomycota, and Basidiomycota.
+
+Phylogenetic analysis has demonstrated that the Microsporidia, unicellular parasites of animals and protists, are fairly recent and highly derived endobiotic fungi (living within the tissue of another species). One 2006 study concludes that the Microsporidia are a sister group to the true fungi; that is, they are each other's closest evolutionary relative. Hibbett and colleagues suggest that this analysis does not clash with their classification of the Fungi, and although the Microsporidia are elevated to phylum status, it is acknowledged that further analysis is required to clarify evolutionary relationships within this group.
+
+The Chytridiomycota are commonly known as chytrids. These fungi are distributed worldwide. Chytrids and their close relatives Neocallimastigomycota and Blastocladiomycota (below) are the only fungi with active motility, producing zoospores that are capable of active movement through aqueous phases with a single flagellum, leading early taxonomists to classify them as protists. Molecular phylogenies, inferred from rRNA sequences in ribosomes, suggest that the Chytrids are a basal group divergent from the other fungal phyla, consisting of four major clades with suggestive evidence for paraphyly or possibly polyphyly.
+
+The Blastocladiomycota were previously considered a taxonomic clade within the Chytridiomycota. Recent molecular data and ultrastructural characteristics, however, place the Blastocladiomycota as a sister clade to the Zygomycota, Glomeromycota, and Dikarya (Ascomycota and Basidiomycota). The blastocladiomycetes are saprotrophs, feeding on decomposing organic matter, and they are parasites of all eukaryotic groups. Unlike their close relatives, the chytrids, most of which exhibit zygotic meiosis, the blastocladiomycetes undergo sporic meiosis.
+
+The Neocallimastigomycota were earlier placed in the phylum Chytridomycota. Members of this small phylum are anaerobic organisms, living in the digestive system of larger herbivorous mammals and in other terrestrial and aquatic environments enriched in cellulose (e.g., domestic waste landfill sites). They lack mitochondria but contain hydrogenosomes of mitochondrial origin. As in the related chrytrids, neocallimastigomycetes form zoospores that are posteriorly uniflagellate or polyflagellate.
+
+--8be401d9f57d28b427846e0f03bbe382_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><br />
+<a href="http://snipervision.co/0oHxyCf-n79AV4b-y1mLfu25TOK_4m7PoUdeFVOOCbgjZ_U"><img src="http://snipervision.co/ce98ff0c22459c606f.jpg" /><img height="1" src="http://www.snipervision.co/AUfxnPUvYTNVNs_vzb_ZJwNI9b4CENHjBjPdbVsKuw7Y42j5" width="1" /></a><br />
+<br />
+&nbsp;
+<center>
+<div style=""><a href="http://snipervision.co/b-yeLtry25mWhra2-ydDhBJFY7xCapORWqK-xzMeT-KV6W4" style="font-size:30px; color:#2580B5;font-family:Calibri;font-weight:bold;">Timeshare Exit Professionals – Get Solutions Now</a><br />
+<br />
+<br />
+<a href="http://snipervision.co/b-yeLtry25mWhra2-ydDhBJFY7xCapORWqK-xzMeT-KV6W4"><img src="http://snipervision.co/6ff638048f8fd8b9a8.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://snipervision.co/Cf7VwpuFkgd-pFmLBRKHA_PhfJN9lY7LotQEFENwmrBWpiQ" target="_blank"><img src="http://snipervision.co/8e80fc11e1e859e0fb.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">The major phyla (sometimes called divisions) of fungi have been classified mainly on the basis of characteristics of their sexual reproductive structures. Currently, seven phyla are proposed: Microsporidia, Chytridiomycota, Blastocladiomycota, Neocallimastigomycota, Glomeromycota, Ascomycota, and Basidiomycota. Phylogenetic analysis has demonstrated that the Microsporidia, unicellular parasites of animals and protists, are fairly recent and highly derived endobiotic fungi (living within the tissue of another species). One 2006 study concludes that the Microsporidia are a sister group to the true fungi; that is, they are each other&#39;s closest evolutionary relative. Hibbett and colleagues suggest that this analysis does not clash with their classification of the Fungi, and although the Microsporidia are elevated to phylum status, it is acknowledged that further analysis is required to clarify evolutionary relationships within this group. The Chytridiomycota are commonly known as chytrids. These fungi are distributed worldwide. Chytrids and their close relatives Neocallimastigomycota and Blastocladiomycota (below) are the only fungi with active motility, producing zoospores that are capable of active movement through aqueous phases with a single flagellum, leading early taxonomists to classify them as protists. Molecular phylogenies, inferred from rRNA sequences in ribosomes, suggest that the Chytrids are a basal group divergent from the other fungal phyla, consisting of four major clades with suggestive evidence for paraphyly or possibly polyphyly. The Blastocladiomycota were previously considered a taxonomic clade within the Chytridiomycota. Recent molecular data and ultrastructural characteristics, however, place the Blastocladiomycota as a sister clade to the Zygomycota, Glomeromycota, and Dikarya (Ascomycota and Basidiomycota). The blastocladiomycetes are saprotrophs, feeding on decomposing organic matter, and they are parasites of all eukaryotic groups. Unlike their close relatives, the chytrids, most of which exhibit zygotic meiosis, the blastocladiomycetes undergo sporic meiosis. The Neocallimastigomycota were earlier placed in the phylum Chytridomycota. Members of this small phylum are anaerobic organisms, living in the digestive system of larger herbivorous mammals and in other terrestrial and aquatic environments enriched in cellulose (e.g., domestic waste landfill sites). They lack mitochondria but contain hydrogenosomes of mitochondrial origin. As in the related chrytrids, neocallimastigomycetes form zoospores that are posteriorly uniflagellate or polyflagellate. </span><br />
+<br />
+<br />
+<a href="http://snipervision.co/LRg7PbVXvRNBfy-odVaS0fe3SCh7Lx_KPRSCMFCedp7irwke" target="_blank"><img src="http://snipervision.co/8cd1807b53227e5388.jpg" /></a><br />
+&nbsp;</div>
+</center>
+</body>
+</html>
+
+--8be401d9f57d28b427846e0f03bbe382_263e_40195--

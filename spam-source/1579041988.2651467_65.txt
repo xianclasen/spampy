@@ -1,0 +1,96 @@
+Return-Path: <SRS0=ap9ohs=3D=mail.evalastfireclips.co=6359-9790-262549-1706-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21561 invoked from network); 14 Jan 2020 09:49:33 -0000
+Received: (qmail 838 invoked from network); 14 Jan 2020 09:49:32 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 09:49:32 -0000
+Received: (qmail 29361 invoked by uid 48516); 14 Jan 2020 09:49:32 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 28309 invoked from network); 14 Jan 2020 09:49:31 -0000
+Received: from clara.evalastfireclips.co (client-192-236-155-194.hostwindsdns.com [192.236.155.194])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 14 Jan 2020 09:49:31 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=evalastfireclips.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=CompressaSocks@evalastfireclips.co;
+ bh=GSUaPXLwWfJgZxBn46AP7f1QC34=;
+ b=OClaozMXliVMHMNvHLZp/2VG8f3hHfiaA/O06gV9i8WhA8EcpW942ibiCCn2P9sSwlG61Mkb9XaE
+   CJWrCddA3dzy4+i4mWUdDGEXzb7K8teHMbeqpzOARDo1kHArk0aq0dfMH/ERfxT6FIebw1Id8Lmc
+   wMwLnvNAc1budrX2zrQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=evalastfireclips.co;
+ b=V8YDT4Xfdjn1DL1KE4ltT77cA7P9Km9ZUSx4nGoM58eRzzjVUMNj4eOWb38tJj1IMjmPhXeL+zJE
+   oi5kn+y5ADAOfVP74yVUN7iB9caNiYok+BXEyYvPu4o/eQkqnPpEjgpFeitgqxEhhAzWF942pTZx
+   jxo0rg02nZqhdeamR1U=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="32a3c274aca0dea62e0ecb98cd1514f7_263e_40195"
+Date: Tue, 14 Jan 2020 04:47:16 -0500
+From: "Compressa Socks" <CompressaSocks@evalastfireclips.co>
+Reply-To: "Compressa Socks" <Compressa@evalastfireclips.co>
+Subject: New Sock Is Helping Millions With Pain.
+To: <bruce@untroubled.org>
+Message-ID: <e7ydhbwtvzy0e27z-j6078fg2pbsld2h7-263e-40195@evalastfireclips.co>
+Content-Length: 5896
+
+--32a3c274aca0dea62e0ecb98cd1514f7_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+New Sock Is Helping Millions With Pain.
+
+http://evalastfireclips.co/x7t334p64pCl43UwV_YhNSySqN-_-KjDE4Z-Hb1E0ytuayJr
+
+http://evalastfireclips.co/Nwr5IytJiOXOAHEi-bRCg1QMl5G7er32E8iUY9A4ZHW6qiZJ
+
+Rodents, like all placental mammals except primates, have just two types of light receptive cones in their retina, a short wavelength "blue-UV" type and a middle wavelength "green" type. They are therefore classified as dichromats; however, they are visually sensitive into the ultraviolet (UV) spectrum and therefore can see light that humans can not. The functions of this UV sensitivity are not always clear. In degus, for example, the belly reflects more UV light than the back. Therefore, when a degu stands up on its hind legs, which it does when alarmed, it exposes its belly to other degus and ultraviolet vision may serve a purpose in communicating the alarm. When it stands on all fours, its low UV-reflectance back could help make the degu less visible to predators. Ultraviolet light is abundant during the day but not at night. There is a large increase in the ratio of ultraviolet to visible light in the morning and evening twilight hours. Many rodents are active during twilight hours (crepuscular activity), and UV-sensitivity would be advantageous at these times. Ultraviolet reflectivity is of dubious value for nocturnal rodents.
+
+The urine of many rodents (e.g. voles, degus, mice, rats) strongly reflects UV light and this may be used in communication by leaving visible as well as olfactory markings. However, the amount of UV that is reflected decreases with time, which in some circumstances can be disadvantageous; the common kestrel can distinguish between old and fresh rodent trails and has greater success hunting over more recently marked routes.
+Tactile
+The Middle East blind mole rat uses seismic communication.
+
+Vibrations can provide cues to conspecifics about specific behaviors being performed, predator warning and avoidance, herd or group maintenance, and courtship. The Middle East blind mole rat was the first mammal for which seismic communication was documented. These fossorial rodents bang their head against the walls of their tunnels. This behavior was initially interpreted as part of their tunnel building behavior, but it was eventually realized that they generate temporally patterned seismic signals for long-distance communication with neighboring mole rats.
+
+--32a3c274aca0dea62e0ecb98cd1514f7_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://evalastfireclips.co/x7t334p64pCl43UwV_YhNSySqN-_-KjDE4Z-Hb1E0ytuayJr" style="font-size:25px;font-family:Arial; color:#ff00fe;"><b>New Sock Is Helping Millions With Pain.</b></a><br />
+<br />
+<a href="http://evalastfireclips.co/x7t334p64pCl43UwV_YhNSySqN-_-KjDE4Z-Hb1E0ytuayJr"><img src="http://evalastfireclips.co/aa3f2c581a22136921.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://evalastfireclips.co/TJ5L8MeoEjGJ1pB0HL0xMsOykhyRBbeHN5tMS9sqIJf2Qrei"><img src="http://evalastfireclips.co/df3adfaef6e0d7367d.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://evalastfireclips.co/Nwr5IytJiOXOAHEi-bRCg1QMl5G7er32E8iUY9A4ZHW6qiZJ"><img src="http://evalastfireclips.co/8462c0a95e1ccb1c3c.jpg" /></a></div>
+<br />
+&nbsp;</center>
+<span style="color:#FFFFFF;">Rodents, like all placental mammals except primates, have just two types of light receptive cones in their retina, a short wavelength &quot;blue-UV&quot; type and a middle wavelength &quot;green&quot; type. They are therefore classified as dichromats; however, they are visually sensitive into the ultraviolet (UV) spectrum and therefore can see light that humans can not. The functions of this UV sensitivity are not always clear. In degus, for example, the belly reflects more UV light than the back. Therefore, when a degu stands up on its hind legs, which it does when alarmed, it exposes its belly to other degus and ultraviolet vision may serve a purpose in communicating the alarm. When it stands on all fours, its low UV-reflectance back could help make the degu less visible to predators. Ultraviolet light is abundant during the day but not at night. There is a large increase in the ratio of ultraviolet to visible light in the morning and evening twilight hours. Many rodents are active during twilight hours (crepuscular activity), and UV-sensitivity would be advantageous at these times. Ultraviolet reflectivity is of dubious value for nocturnal rodents. The urine of many rodents (e.g. voles, degus, mice, rats) strongly reflects UV light and this may be used in communication by leaving visible as well as olfactory markings. However, the amount of UV that is reflected decreases with time, which in some circumstances can be disadvantageous; the common kestrel can distinguish between old and fresh rodent trails and has greater success hunting over more recently marked routes. Tactile The Middle East blind mole rat uses seismic communication. Vibrations can provide cues to conspecifics about specific behaviors being performed, predator warning and avoidance, herd or group maintenance, and courtship. The Middle East blind mole rat was the first mammal for which seismic communication was documented. These fossorial rodents bang their head against the walls of their tunnels. This behavior was initially interpreted as part of their tunnel building behavior, but it was eventually realized that they generate temporally patterned seismic signals for long-distance communication with neighboring mole rats. </span></body>
+</html>
+
+--32a3c274aca0dea62e0ecb98cd1514f7_263e_40195--

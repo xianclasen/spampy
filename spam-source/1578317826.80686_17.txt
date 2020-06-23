@@ -1,0 +1,164 @@
+Return-Path: <SRS0=mP8cZ8=23=mail.foodlynoring.us=5917-9790-262549-1590-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14031 invoked from network); 6 Jan 2020 09:36:34 -0000
+Received: (qmail 32363 invoked from network); 6 Jan 2020 09:36:33 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 09:36:33 -0000
+Received: (qmail 25238 invoked by uid 48516); 6 Jan 2020 09:36:33 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 28898 invoked from network); 6 Jan 2020 09:36:33 -0000
+Received: from golf.foodlynoring.us (client-192-119-111-37.hostwindsdns.com [192.119.111.37])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 06 Jan 2020 09:36:30 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=foodlynoring.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=LaserSight@foodlynoring.us;
+ bh=bliPt9svFnP4syzJGbFGq5GKw+g=;
+ b=URef9Bztp6l10ID8k5Ar7PTqZ55603a/lfLyTrG2xjSqM/Y6QuLNheBt+vvb6SSklPiY3d+RaTJ4
+   4sW9GOXJqD903TPYJgM99hRckrlMvEsXSfD7xlwhewiiXIxuXuliC/sh8HVSq/o8B/wNnuHN4z/g
+   2EL/utuGq0UmFNzNxlk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=foodlynoring.us;
+ b=qDDIMWhC8gpB/iCKjAB/oyljWgn3P+/T3bJox+htMGn6CNedWHd9bVuKkoP3Hyp6wve/6gSC7uBS
+   a+ym1N0pi0kbPc2qsdzG3qDQ+tIMXbEvz/b9I47cjcV5DKmGevl8KMxOr7hxwqcphR5tSRb1c2ak
+   oKZJbFpTH8LZzvIzUZ4=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="3d3499c7ae6b8c254826038666f4b875_263e_40195"
+Date: Mon, 6 Jan 2020 04:36:12 -0500
+From: "Red Laser"<LaserSight@foodlynoring.us>
+Reply-To: "Laser Sight"<Survival@foodlynoring.us>
+Subject: Massive Power in A Featherweight Package!
+To: <bruce@untroubled.org>
+Message-ID: <ehg9avndw7ntnzm1-w4ddppwrjybzegqo-263e-40195@foodlynoring.us>
+Content-Length: 12985
+
+--3d3499c7ae6b8c254826038666f4b875_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Massive Power in A Featherweight Package!
+
+http://foodlynoring.us/GD1gEL8IIBB5BWr4hqZvyr8b03J6dMIMNLqyn4Wm8JKtwg
+
+http://foodlynoring.us/M0rQhF48_1p44VBpNGa3Nx8sU6-jT6MWwXu2ZmGfBbOX8jnh
+
+Traditionally conscription has been limited to the male population of a given body. Women and disabled men have been exempt from conscription. Many societies have considered, and continue to consider, military service as a test of manhood and a rite of passage from boyhood into manhood.
+
+Only a few nations actively draft women into military service: Bolivia, Chad, Eritrea, Israel, Mozambique, Norway, North Korea and Sweden.
+
+Norway introduced female conscription in 2015, making it the first NATO member to have a legally compulsory national service for both men and women. In practice only motivated volunteers are selected to join the army in Norway.
+
+Sweden introduced female conscription in 2010, but it was not activated until 2017. This made Sweden the second nation in Europe to draft women, and the second in the world to draft women on exactly the same formal terms as men.
+
+Israel has universal female conscription, although in practice women can avoid service by claiming a religious exemption and over a third of Israeli women do so.
+
+Sudanese law allows for conscription of women, but this is not implemented in practice. In the United Kingdom during World War II, beginning in 1941, women were brought into the scope of conscription but, as all women with dependent children were exempt and many women were informally left in occupations such as nursing or teaching, the number conscripted was relatively few.
+
+In the USSR, there was no systematic conscription of women for the armed forces, but the severe disruption of normal life and the high proportion of civilians affected by World War II after the German invasion attracted many volunteers for what was termed "The Great Patriotic War". Medical doctors of both sexes could and would be conscripted (as officers). Also, the Soviet university education system required Department of Chemistry students of both sexes to complete an ROTC course in NBC defense, and such female reservist officers could be conscripted in times of war. The United States came close to drafting women into the Nurse Corps in preparation for a planned invasion of Japan.
+
+In 1981 in the United States, several men filed lawsuit in the case Rostker v. Goldberg, alleging that the Selective Service Act of 1948 violates the Due Process Clause of the Fifth Amendment by requiring that only men register with the Selective Service System (SSS). The Supreme Court eventually upheld the Act, stating that "the argument for registering women was based on considerations of equity, but Congress was entitled, in the exercise of its constitutional powers, to focus on the question of military need, rather than 'equity.'"
+
+--3d3499c7ae6b8c254826038666f4b875_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://foodlynoring.us/J46yA5wb4_abJHkmu8kNisx_qA_lwlSgWy953AQMPsaSU0zK"><img src="http://foodlynoring.us/0758b8233e9248aa96.jpg" /><img height="1" src="http://www.foodlynoring.us/j6yfKeURWX0U-89wKtdlfROyfsL3KcHQIODHIksorlYDICem" width="1" /></a>
+<div style="margin:0;padding:0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;margin:0;padding:0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="max-width:590px;min-width:285px;margin:0px;padding-left:4px;padding-right:4px">
+				<tbody>
+					<tr>
+						<td>
+						<table cellpadding="0" cellspacing="0" style="border:1px solid #eee;border-radius:5px" width="100%">
+							<tbody>
+								<tr>
+									<td height="5" style="font-size:5px;line-height:5px">&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="font-family:arial,sans-serif;font-size:17px;line-height:24px;color:#2a2a2a;padding:12px">
+									<h1 style="font-family:Arial;text-align:center"><span id="m_-5550736722006641383email_" name="email_" style="text-decoration-line:underline"><em>100% FREE</em></span></h1>
+
+									<h1 style="font-family:Arial;text-align:center"><span id="m_-5550736722006641383email_2" name="email_2" style="color:#ff0000"><strong><em>RED LASER SIGHT</em></strong></span></h1>
+
+									<p style="font-family:Arial;font-size:19px">We found<strong> 24 more red laser sights</strong> in our old warehouse that we need to get rid of, and...</p>
+
+									<p style="font-family:Arial;font-size:19px"><span id="m_-5550736722006641383email_3" name="email_3" style="text-decoration-line:underline"><em><strong><span id="m_-5550736722006641383email_4" name="email_4" style="font-weight:400">Since you are one of our past customers we&#39;re going to send you a </span><a href="http://foodlynoring.us/GD1gEL8IIBB5BWr4hqZvyr8b03J6dMIMNLqyn4Wm8JKtwg" id="m_-5550736722006641383auto_assign_link_num_2" name="m_-5550736722006641383_knownconnect aff_c offer_id 8354 aff_id 1411 " target="_blank">red laser sight for FREE<span id="m_-5550736722006641383email_5" name="email_5" style="font-weight:400">.</span></a></strong></em></span></p>
+
+									<p style="font-family:Arial;font-size:19px">It works with any gun!</p>
+
+									<p style="font-family:Arial;font-size:19px">The payment for your laser sight is<strong>100% covered</strong>by us...</p>
+
+									<p style="font-family:Arial;font-size:19px">All you have to do is give us your permission so we can send your free laser sight right to your door:</p>
+
+									<h1 style="font-family:Arial;text-align:center"><br />
+									<span id="m_-5550736722006641383email_6" name="email_6" style="text-decoration-line:underline"><em>&gt;&gt;<a href="http://foodlynoring.us/GD1gEL8IIBB5BWr4hqZvyr8b03J6dMIMNLqyn4Wm8JKtwg" id="m_-5550736722006641383auto_assign_link_num_3" name="m_-5550736722006641383_knownconnect aff_c offer_id 8354 aff_id 1411  2" target="_blank">Yes, I Accept!</a>&lt;&lt;</em></span></h1>
+
+									<p style="font-family:Arial;font-size:19px;text-align:center"><span id="m_-5550736722006641383email_7" name="email_7" style="background-color:#ffff99"><strong><em>No</em></strong><strong><em>Trials,</em></strong><strong><em>No</em></strong><strong><em>&quot;Click-Tricks&quot;,</em></strong><strong><em>No</em></strong><strong><em>Hidden Fees,</em></strong><strong><em>No</em></strong><strong><em>Bullshit!</em></strong></span></p>
+
+									<p style="font-family:Arial;font-size:19px;text-align:center"><span id="m_-5550736722006641383email_8" name="email_8" style="text-decoration-line:underline"><em><strong><a href="http://foodlynoring.us/GD1gEL8IIBB5BWr4hqZvyr8b03J6dMIMNLqyn4Wm8JKtwg" id="m_-5550736722006641383auto_assign_link_num_4" name="m_-5550736722006641383_knownconnect aff_c offer_id 8354 aff_id 1411  3" target="_blank"><img alt="" height="203" src="http://foodlynoring.us/e54f297e20b29d60df.png" width="568" /></a></strong></em></span><br />
+									&nbsp;</p>
+
+									<p style="font-family:Arial;font-size:19px"><strong>Red Laser Sight Specifications:</strong></p>
+
+									<ul style="font-family:Arial;font-size:19px">
+										<li><strong>Range:</strong>330ft/100m</li>
+										<li><strong>Fits:</strong>20mm Standard Weaver and Picatinny rails</li>
+										<li><strong>Made From:</strong>High quality, shock-proof aluminum alloy</li>
+										<li><strong>Adjustable</strong>for the windage and elevation, easy control of the switch and screws</li>
+										<li><strong>Works with any kind of firearm:</strong>Handguns, rifles, shotguns... even BB guns, paintball guns, and airsoft pistols and rifles.</li>
+									</ul>
+
+									<p style="font-family:Arial;font-size:19px">One of these puppies to your gun could save your life if you ever have a night-time home invasion or need to shoot a bullseye in the dark...</p>
+
+									<p style="font-family:Arial;font-size:19px">Plus you&#39;ll be able to out-shoot all your friends at the range.</p>
+
+									<p style="font-family:Arial;font-size:19px">Just enter your address on the next page so we can send you your FREE red laser sight:</p>
+
+									<p style="font-family:Arial;font-size:19px"><strong>&gt;&gt;</strong><a href="http://foodlynoring.us/GD1gEL8IIBB5BWr4hqZvyr8b03J6dMIMNLqyn4Wm8JKtwg" id="m_-5550736722006641383auto_assign_link_num_5" name="m_-5550736722006641383_knownconnect aff_c offer_id 8354 aff_id 1411  4" target="_blank"><strong>Click here to enter your address.</strong></a></p>
+
+									<p style="font-family:Arial;font-size:19px">Keeping you geared up,</p>
+									<br />
+									<a href="http://foodlynoring.us/GD1gEL8IIBB5BWr4hqZvyr8b03J6dMIMNLqyn4Wm8JKtwg" id="m_-5550736722006641383auto_assign_link_num_1" name="m_-5550736722006641383_knownconnect aff_c offer_id 7773 aff_id 1411 " style="color:#2a2a2a;text-decoration:none" target="_blank">~Survival John </a><br />
+									<br />
+									&nbsp;
+									<p style="font-family:Arial;font-size:19px"><a href="http://foodlynoring.us/GD1gEL8IIBB5BWr4hqZvyr8b03J6dMIMNLqyn4Wm8JKtwg" id="m_-5550736722006641383auto_assign_link_num_6" name="m_-5550736722006641383_knownconnect aff_c offer_id 8354 aff_id 1411  5" target="_blank"><img alt="" height="200" src="http://foodlynoring.us/bfd5ad1c62d8cfc05e.png" style="display:block;margin-left:auto;margin-right:auto" width="572" /></a></p>
+
+									<p style="font-family:Arial;font-size:19px">&nbsp;</p>
+									</td>
+								</tr>
+								<tr>
+									<td height="25">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" style="color:#2a2a2a;font-family:open sans,arial,sans-serif;font-size:14px;padding:35px 22px;line-height:22px">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://foodlynoring.us/DBQEg4YJNF48mlLsdETYuHv7p-Gs5t9RPwSxxL0rsd6KksXx"><img src="http://foodlynoring.us/bf555af678531257c9.jpg" /></a></center>
+</div>
+<span style="color:#FFFFFF;font-size:6px;"> Traditionally conscription has been limited to the male population of a given body. Women and disabled men have been exempt from conscription. Many societies have considered, and continue to consider, military service as a test of manhood and a rite of passage from boyhood into manhood. Only a few nations actively draft women into military service: Bolivia, Chad, Eritrea, Israel, Mozambique, Norway, North Korea and Sweden. Norway introduced female conscription in 2015, making it the first NATO member to have a legally compulsory national service for both men and women. In practice only motivated volunteers are selected to join the army in Norway. Sweden introduced female conscription in 2010, but it was not activated until 2017. This made Sweden the second nation in Europe to draft women, and the second in the world to draft women on exactly the same formal terms as men. Israel has universal female conscription, although in practice women can avoid service by claiming a religious exemption and over a third of Israeli women do so. Sudanese law allows for conscription of women, but this is not implemented in practice. In the United Kingdom during World War II, beginning in 1941, women were brought into the scope of conscription but, as all women with dependent children were exempt and many women were informally left in occupations such as nursing or teaching, the number conscripted was relatively few. In the USSR, there was no systematic conscription of women for the armed forces, but the severe disruption of normal life and the high proportion of civilians affected by World War II after the German invasion attracted many volunteers for what was termed &quot;The Great Patriotic War&quot;. Medical doctors of both sexes could and would be conscripted (as officers). Also, the Soviet university education system required Department of Chemistry students of both sexes to complete an ROTC course in NBC defense, and such female reservist officers could be conscripted in times of war. The United States came close to drafting women into the Nurse Corps in preparation for a planned invasion of Japan. In 1981 in the United States, several men filed lawsuit in the case Rostker v. Goldberg, alleging that the Selective Service Act of 1948 violates the Due Process Clause of the Fifth Amendment by requiring that only men register with the Selective Service System (SSS). The Supreme Court eventually upheld the Act, stating that &quot;the argument for registering women was based on considerations of equity, but Congress was entitled, in the exercise of its constitutional powers, to focus on the question of military need, rather than &#39;equity.&#39;&quot; </span></body>
+</html>
+
+--3d3499c7ae6b8c254826038666f4b875_263e_40195--

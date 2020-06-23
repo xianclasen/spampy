@@ -1,0 +1,88 @@
+Return-Path: <SRS0=aliPRZ=3E=mail.brainproo.us=6427-2982-85526-1721-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 8284 invoked from network); 15 Jan 2020 11:10:34 -0000
+Received: (qmail 10839 invoked from network); 15 Jan 2020 11:10:34 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Jan 2020 11:10:34 -0000
+Received: (qmail 8868 invoked by uid 48516); 15 Jan 2020 11:10:33 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5663 invoked from network); 15 Jan 2020 11:10:33 -0000
+Received: from pool.brainproo.us (resdb0d55.responsecool.space [170.130.172.199])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 15 Jan 2020 11:10:27 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=brainproo.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=AvoidCollagen@brainproo.us;
+ bh=h5n9n6WuaAA95aNf7wtsTWZTyUo=;
+ b=gGqvXloIj6jhc4CvAqtlSc+TiKwEFQfKgpTK6DLT4JrzNrga16qukJXYVTt6361pedhRGZC52a9r
+   JMLZggNT9go0LUbsXoKKTGFu7ttOhhCrTCd9BsQAAcA5F20BKdfF6YgXC46c+n/BGbWG/U9PP5Bi
+   VbNmVpJFxa4xa7GJOxk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=brainproo.us;
+ b=xU8QcS58nBMOmUdLUP87P7L62r725hU1l23jHyzdBvooWfLygxqHGYxjmtijOwlQiYjHHasB12Ge
+   5cpfzdppXd7MOjcyP7nYZfpVxXcrJZUPe+rHGVoCZi5aPrtGV0mn+iAYlZ2Oi//94m/0hieaAkha
+   QOgpxd+L84sqT8EVsvs=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="8b09c6db9a55ca7f7350cc95aa73234e_ba6_14e16"
+Date: Wed, 15 Jan 2020 06:08:19 -0500
+From: "Avoid Collagen" <AvoidCollagen@brainproo.us>
+Reply-To: "Avoid Collagen" <CollagenFRAUD@brainproo.us>
+Subject: CONSUMER ALERT: Collagen fraud becoming more and more common 
+To: <bruce@untroubled.org>
+Message-ID: <53c1wo3orwvzuleq-xixzq6pqkqrjefcw-ba6-14e16@brainproo.us>
+Content-Length: 6509
+
+--8b09c6db9a55ca7f7350cc95aa73234e_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+CONSUMER ALERT: Collagen fraud becoming more and more common 
+
+http://brainproo.us/TFCBV4Ju9j2QkewJ3mg0UY_xYHp30a1ZLRIeHBn7AoSMKilY
+
+http://brainproo.us/6HqZYAaQyFUxFaiXgSyqh3BhGan8FOd8qKbUJ25ZTO0ft-g8
+
+In December 1930, Sukarno was sentenced to four years in prison, which were served in Sukamiskin prison in Bandung. His speech, however, received extensive coverage by the press, and due to strong pressure from the liberal elements in both Netherlands and Dutch East Indies, Sukarno was released early on 31 December 1931. By this time, he had become a popular hero widely known throughout Indonesia.
+
+However, during his imprisonment, the PNI had been splintered by the oppression of colonial authorities and internal dissension. The original PNI was disbanded by the Dutch, and its former members formed two different parties; the Indonesia Party (Partindo) under Sukarno's associate Sartono who were promoting mass agitation, and the Indonesian Nationalist Education (New PNI) under Mohammad Hatta and Soetan Sjahrir, two nationalists who recently returned from studies in the Netherlands, and who were promoting a long-term strategy of providing modern education to the uneducated Indonesian populace to develop an intellectual elite able to offer effective resistance to Dutch rule. After attempting to reconcile the two parties to establish one united nationalist front, Sukarno chose to become the head of Partindo on 28 July 1932. Partindo had maintained its alignment with Sukarno's own strategy of immediate mass agitation, and Sukarno disagreed with Hatta's long-term cadre-based struggle. Hatta himself believed Indonesian independence would not occur within his lifetime, while Sukarno believed Hatta's strategy ignored the fact that politics can only make real changes through formation and utilisation of force (machtsvorming en machtsaanwending).
+
+During this period, to support himself and the party financially, Sukarno returned to architecture, opening the bureau of Soekarno & Rooseno. He also wrote articles for the party's newspaper, Fikiran Ra'jat. While based in Bandung, Sukarno travelled extensively throughout Java to establish contacts with other nationalists. His activities attracted further attention by the Dutch PID. In mid-1933, Sukarno published a series of writings titled Mentjapai Indonesia Merdeka ("To Attain Independent Indonesia"). For this writing, he was arrested by Dutch police while visiting fellow nationalist Mohammad Hoesni Thamrin in Jakarta on 1 August 1933.
+
+--8b09c6db9a55ca7f7350cc95aa73234e_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center><a href="http://brainproo.us/Mz44SBIvT8L3pVc_Fgwec47FLEz8nUkZ7cGMq-Dh05d5WMco"><img src="http://brainproo.us/b8bdd23ec06bb8f9bb.jpg" /><img height="1" src="http://www.brainproo.us/7MQ80pYElk04ITBkG_V2DXcipq93inymJw1qI47niyXO63Ym" width="1" /></a>
+<div style="width:500px; font-family:Arial; text-align:left;"><img src="http://brainproo.us/ee98357037e9fda724.jpg" /><br />
+<br />
+Collagen is being touted as the greatest supplement to ever hit the market... &quot;it can do wonders for reducing wrinkles, strengthening hair and nails, supporting healthy pain-free joints, reducing cellulite and even boosting metabolism and dropping those unwanted pounds&quot;... BUT<br />
+<br />
+Did you know that most collagen supplements do NOT work AT ALL? I mean literally, next to no benefit... we explain why here:<br />
+<br />
+<a href="http://brainproo.us/TFCBV4Ju9j2QkewJ3mg0UY_xYHp30a1ZLRIeHBn7AoSMKilY"><b>==&gt; Why Collagen actually DOESN&#39;T work (unless...)</b></a><br />
+<br />
+Don&#39;t get scammed.<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://brainproo.us/e_elSPbx6IFZfyh8bT7fB8gnFA3Wq9VeLhBAe0u0GZssIWpx"><img src="http://brainproo.us/4ff6e7a949f3329dba.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">In December 1930, Sukarno was sentenced to four years in prison, which were served in Sukamiskin prison in Bandung. His speech, however, received extensive coverage by the press, and due to strong pressure from the liberal elements in both Netherlands and Dutch East Indies, Sukarno was released early on 31 December 1931. By this time, he had become a popular hero widely known throughout Indonesia. However, during his imprisonment, the PNI had been splintered by the oppression of colonial authorities and internal dissension. The original PNI was disbanded by the Dutch, and its former members formed two different parties; the Indonesia Party (Partindo) under Sukarno&#39;s associate Sartono who were promoting mass agitation, and the Indonesian Nationalist Education (New PNI) under Mohammad Hatta and Soetan Sjahrir, two nationalists who recently returned from studies in the Netherlands, and who were promoting a long-term strategy of providing modern education to the uneducated Indonesian populace to develop an intellectual elite able to offer effective resistance to Dutch rule. After attempting to reconcile the two parties to establish one united nationalist front, Sukarno chose to become the head of Partindo on 28 July 1932. Partindo had maintained its alignment with Sukarno&#39;s own strategy of immediate mass agitation, and Sukarno disagreed with Hatta&#39;s long-term cadre-based struggle. Hatta himself believed Indonesian independence would not occur within his lifetime, while Sukarno believed Hatta&#39;s strategy ignored the fact that politics can only make real changes through formation and utilisation of force (machtsvorming en machtsaanwending). During this period, to support himself and the party financially, Sukarno returned to architecture, opening the bureau of Soekarno &amp; Rooseno. He also wrote articles for the party&#39;s newspaper, Fikiran Ra&#39;jat. While based in Bandung, Sukarno travelled extensively throughout Java to establish contacts with other nationalists. His activities attracted further attention by the Dutch PID. In mid-1933, Sukarno published a series of writings titled Mentjapai Indonesia Merdeka (&quot;To Attain Independent Indonesia&quot;). For this writing, he was arrested by Dutch police while visiting fellow nationalist Mohammad Hoesni Thamrin in Jakarta on 1 August 1933. </span></center>
+</body>
+</html>
+
+--8b09c6db9a55ca7f7350cc95aa73234e_ba6_14e16--

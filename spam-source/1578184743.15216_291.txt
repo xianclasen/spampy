@@ -1,0 +1,100 @@
+Return-Path: <SRS0=SytusB=2X=usaic.date=fungus_eliminator-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 16925 invoked from network); 2 Jan 2020 18:36:22 -0000
+Received: (qmail 11574 invoked from network); 2 Jan 2020 18:36:21 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 18:36:21 -0000
+Received: (qmail 30876 invoked by uid 48516); 2 Jan 2020 18:36:19 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 16629 invoked from network); 2 Jan 2020 18:36:19 -0000
+Received: from mail.usaic.date (131.12.19.72.hostflyte.network [72.19.12.131])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 02 Jan 2020 18:36:19 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=usaic.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fungus_eliminator@usaic.date;
+ bh=O0t7JupDwQSi7ypLbVGGQ9GnDGA=;
+ b=goU86NDAwmO2M8sEybw8xei3ZYSM9IWKjyCytFTJxSIHij+xHV3nj3zqCfT0scO2BQcvvozoL5vl
+   CXWIYpomiJ0hMaxEi5Q7PZN+czA0eLdLDZd6V3VsA33uy/+Mx89Q1pWUghfntELWDlRy6LD6qrZB
+   T8e8NaDbQ/txpqsAXqE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=usaic.date;
+ b=aSMQyjTOf1SsagqhwdU7929uQ53sQ3X/sYlnsI9yYdtKdYScejyBjVHSqJEFRMsRLMIMCNtVon9G
+   lbNaGV/suOK/D0kGCrH6lwax9ct3unD3J3qOt7/uPiwK2pTpuwfP32bXx37q0G4WhhtfO7yab31X
+   UZEEZoPxy3t/SLOJ7SQ=;
+Received: by mail.usaic.date id h1os260001g1 for <bruce@untroubled.org>; Thu, 2 Jan 2020 13:31:58 -0500 (envelope-from <fungus_eliminator-bruce=untroubled.org@usaic.date>)
+Date: Thu, 2 Jan 2020 13:31:58 -0500
+From: "Fungus Eliminator" <fungus_eliminator@usaic.date>
+To:   <bruce@untroubled.org>
+Subject: WATCH: This Woman Cured Her Toenail Fungus This Simple Trick
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_429_434796044.1577989905248"
+List-Unsubscribe: <http://www.usaic.date/brutalizing-construction/80a5F23o95jJU8911iHX11x19baJ21BFv4GIf4rxvs4FhIHEsvZ10UQ3RdKQo196lg1lK05ylMHi>
+Message-ID: <0.0.0.2D.1D5C19AEAFE8350.544FF5@mail.usaic.date>
+Content-Length: 6876
+
+------=_Part_429_434796044.1577989905248
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>crucify</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.usaic.date/b6f6s2iC395Clr8613v701uy9q19baR21LFv4GIf4rxvs4FhIHEsvZ10zQ3RdKQo195u10TU6AAXjHi/Veronica-disorders">Stop foot Fungus with this amazing trick </a></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: 2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; height: 530px; "> 
+    <tbody> 
+     <tr> 
+      <td> 
+       <table border="1" cellpadding="0" cellspacing="0" style="font-family: &quot; Sans Serif&quot; , serif; font-size: 17px; height: 548px; " width="590"> 
+        <tbody> 
+         <tr> 
+          <td> 
+           <table border="0" cellpadding="5" cellspacing="5" style="height: 526px; " width="586"> 
+            <tbody> 
+             <tr> 
+              <td> 
+               <div style="font-family: &quot; Sans Serif&quot; ; font-size: 16px; "> 
+                <div style="color: rgb(0, 0, 0); line-height: normal; font-family: &quot; Sans Serif&quot; ; font-size: 12px; "> 
+                 <h1 style="margin: 20px 6px; color: rgb(34, 34, 34); line-height: 40px; font-family: &quot; Sans Serif&quot; ; font-size: 36px; box-sizing: border-box; text-align: center; "><span style="font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(0, 0, 0); "><strong>This Man Cured His Nail Fungus This Simple Trick (Watch Here)</strong></span></span></h1> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><a href="http://www.usaic.date/b6f6s2iC395Clr8613v701uy9q19baR21LFv4GIf4rxvs4FhIHEsvZ10zQ3RdKQo195u10TU6AAXjHi/Veronica-disorders"><img alt="stag" src="http://www.usaic.date/displace-balm/aD86E23sp95MVR7a13hst701co19bal21iFv4GIf4rxvs4FhIHEsvZ10eQ3RdKQo195sI10J6zJHAiJ" style="width: 487px; height: 285px; " /></a></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(14, 14, 184); "><span style="font-size: 34px; font-family: &quot; Sans Serif&quot; ; "><strong><a href="http://www.usaic.date/b6f6s2iC395Clr8613v701uy9q19baR21LFv4GIf4rxvs4FhIHEsvZ10zQ3RdKQo195u10TU6AAXjHi/Veronica-disorders" style="color: rgb(14, 14, 184); ">{Watch Now}</a></strong></span></span></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                </div> 
+               </div> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <a href="http://www.usaic.date/7915c2u395vB86g11P701al19bax21pFv4GIf4rxvs4FhIHEsvZ10DQ3RdKQo196NoL1I05fBNHi/Grayson-classifying"><font color="#666666">End Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.usaic.date/containers-distant/13e6yh239i5oM8Z912E7L01bw19bap21VFv4GIf4rxvs4FhIHEsvZ10QQ3RdKQo197btG10mh6YMklHi">Take off list Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+    <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 80918</span>
+    <br /> &nbsp; 
+   </div> <style><font size="Cumberland"></font></style><span face="anciently"></span><span face="puzzled"><big></big></span>
+  </center>   
+ <img src="http://www.usaic.date/2ff4J2395tB85C12f7g01dA19baB21OFv4GIf4rxvs4FhIHEsvZ10mQ3RdKQo195Qmi106VPlH2i/containers-distant" alt=""/></body>
+</html>
+
+------=_Part_429_434796044.1577989905248--
+

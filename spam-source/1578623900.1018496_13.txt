@@ -1,0 +1,587 @@
+Return-Path: <SRS0=MXphnL=27=sendgrid.net=bounces+6713620-4130-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 16913 invoked from network); 10 Jan 2020 00:58:59 -0000
+Received: (qmail 2816 invoked from network); 10 Jan 2020 00:58:59 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 00:58:59 -0000
+Received: (qmail 4212 invoked by uid 48516); 10 Jan 2020 00:58:58 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 4658 invoked from network); 10 Jan 2020 00:58:58 -0000
+Received: from o7.ptr7470.ayome.co (o7.ptr7470.ayome.co [168.245.18.215])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 10 Jan 2020 00:58:58 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:to:list-unsubscribe;
+	s=smtpapi; bh=H5sPDGZE+r8lGng6bCiuqTThaI1G3zcHOYydI2bfwQs=;
+	b=f5sS79Y6KjnfxcYnrA8RFeDre8a89S5gfJPGwacN6fv7AOVH/4dm6n5siIuQgzA+W13E
+	7Uj1uIWeOdTmXe2gnb9UluHPX6UcLqSzC+TxBVp4+ZEtuWjVCq1nj5lcmVEqwwA23I3pwd
+	SlOXrTnSTKOxboh6W77OM6m7kk649vJ00=
+Received: by filterdrecv-p3iad2-57f487d66-lzqns with SMTP id filterdrecv-p3iad2-57f487d66-lzqns-18-5E17CC50-F
+        2020-01-10 00:58:56.243315202 +0000 UTC m=+2074337.609992819
+Received: from NjcxMzYyMA (unknown [147.135.133.221])
+	by ismtpd0007p1lon1.sendgrid.net (SG) with HTTP id 3N-nN4_wQV67G0PgmG7-fQ
+	Fri, 10 Jan 2020 00:58:56.029 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=137d1233b547e7dced1fae563b4aca8e42a108059b346a62183fd6ec30d5
+Date: Fri, 10 Jan 2020 00:58:56 +0000 (UTC)
+From: REMY EISENSTEIN <campaign@ayome.co>
+Mime-Version: 1.0
+Message-ID: <3N-nN4_wQV67G0PgmG7-fQ@ismtpd0007p1lon1.sendgrid.net>
+Subject: TOKEN ECONOMICS : We are launching our fundraising !
+X-SG-EID: 
+ =?us-ascii?Q?DBAThdeOmHEiFUPQJBsu6HcGgMIulAgOU8LhyL5qQjeR2kcMFssjZiBVymtEM0?=
+ =?us-ascii?Q?cwFRl4aoGQC07dVT2fYZcqIl39kvrXEdfZ2UaJj?=
+ =?us-ascii?Q?F90ksv7WUrx35nm0PAuSoo4JDdQI76T9=2F=2FmDUor?=
+ =?us-ascii?Q?QzBd2M23pl3Z19x6d54qlEE0cPdMl4tDUf7z1XR?=
+ =?us-ascii?Q?=2F7Sm04AG4oTcdSGCmlGc1P+Ljyw=2FF4nHpg+ToSn?=
+ =?us-ascii?Q?T0qrg7+B1vFNCRDgwX0MI4HLj5I7rdvDQpklg1?=
+To: bruce@untroubled.org
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Cmailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject=3Dhttps=3A=2F=2Fu6713620=2Ect=2Es?=
+ =?us-ascii?Q?endgrid=2Enet=2Fwf=2Funsubscribe*q*upn=3D95ipHO?=
+ =?us-ascii?Q?-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FN?=
+ =?us-ascii?Q?YKjlLqX5Kj9W4eAw4YHzv4l5QLaKHB0vsUEb34A?=
+ =?us-ascii?Q?h1RRe5X01hhXbh4OZkt1ZDCjKHQDMYoMEhqF3jF?=
+ =?us-ascii?Q?ONmyzl9Sj7mDv16DtYiaueuB7VGbUXNhC5R9PJk?=
+ =?us-ascii?Q?3ZPyxfDKksJcFBc7BRaNXjFTPhJWdqqfip62DPt?=
+ =?us-ascii?Q?-2FYKCexz7sKZEeXfZDop697tdc5xWoFog2wF-2?=
+ =?us-ascii?Q?FrFEE-3D=3E?=
+Content-Length: 32872
+
+--137d1233b547e7dced1fae563b4aca8e42a108059b346a62183fd6ec30d5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+_[ VERSION FRANCAISE PLUS BAS ]_
+
+Dear Network,
+
+I am contacting you about my company: **[TOKEN ECONOMICS](https://u6713620.=
+ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmMjL8j7Gd7j0TElN-2BRCf=
+pAQ-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l=
+5QI3F4snIbfmXyWTi6489JdpQFTGVVvg8UuhIksPUgT-2Fu1tM1h60QFyV4dLcLvfrE1ZN4QIBP=
+zt1hB9A6fkxlcOREnzsp0e-2BeU-2F94OGCpo1wJypP-2Fg8rsNoS9KLk-2BXxMocrLjVF5x0-2=
+BbRqNoKkNsA2bt97-2BhaxVCoyt69y5wc8eLw-3D
+/#/landing-
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmChIntHThu01-2Fxi63dYMb28XLgwORiQLUhI7nERg6rCs7DEoD00Joc341HrkSeA3AbVLGkqI=
+0c-2FGD8Vp7QniNUIU7DkzN3Yy8-2BvNVj4o8y9d_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802=
+-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QZXrrluHcDtrnI4-2Fe11Jpkc-2F-2BOFG49Ru-2=
+F1FtXQRHzJ8TwU0c-2BxqxkE9hj5DOjPMCof6SjFuV66upRNjXKLKvCgrFotijchzZvvaCFWJB-=
+2FptGxGEuMEcIRSrlXA4SmCm-2BLKD2YnoSGHfqskiFnEe6aaK3ZdMHsFcq57fQPE0ocXTE-3D
+
+Token Economics develops **SafePost=C2=AE** ,  **an end-to-end encrypted me=
+ssaging
+system whose patented technology meets the challenges of respecting privacy
+and securing both messages and documents exchanged** **.** Messages and
+documents attached are encrypted without using any trusted third party.
+**SafePost=C2=AE doesn't store any confidential data readable by a third pa=
+rty.** =20
+SafePost=C2=AE guarantees the origin of the messages received, thereby
+**effectively eradicating spam and fraudulent emails.** =20
+Token Economics is supported in its development by BPI France and  **CCI
+France-Bulgaria from which it received the Innovation Prize  in December
+2019.** =20
+
+In order to support the growth of the company, we have decided to organise =
+a
+**_fundraising over a period of 28 days_ , via the Ayomi platform**,  **for=
+ an
+amount **of 50 000 =E2=82=AC****
+
+For more information about the company, the product and project, please cli=
+ck
+here :  **[TOKEN ECONOMICS](https://u6713620.ct.sendgrid.net/wf/click?upn=
+=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9MjBwH0C0BR6BSKw3DLm-2Bmnu_95i=
+pHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QSyLIJYBP=
+uoo-2BIdvdGe24PvKascoPt6tOLBy2iDBJCfh0hV97DYqCIYS2OTm3hsOfDJm5Jlo687DJ-2BnO=
+AXY3A9UvJ1VA7QUz1ZvAun-2FuF07uYls500ApqUUp1nxe-2FoEEf3uw03AU28VbIEBXtDffhvT=
+-2BipoStp3r80b47EzXRSp4-3D
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmChIntHThu01-2Fxi63dYMb28XLgwORiQLUhI7nERg6rCs7DEoD00Joc341HrkSeA3AbVLGkqI=
+0c-2FGD8Vp7QniNUIU7DkzN3Yy8-2BvNVj4o8y9d_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802=
+-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QJtAnnLMJGIeZjRspjgx4SnrXeTvBNt5ahsFCheO=
+yJUBS2RtnU2wvq3VyRgeA8IuXpGQlzH4AepTYwSdmHWy1rB7PyDaUVQY9nwzhyT3qvA4zsqhteT=
+VFQ-2FQ-2F1wu5wJUlxxaazzAyH3BZ4-2Bu6LtxvaWE6H2BZGwobY58fUHPoIW4-3D
+
+ _ **Investment terms** :_ =20
+\- Click here to discover the investment opportunity > [TOKEN
+ECONOMICS](https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-=
+2Fo14KmONQSi2Qou6tVmrGoXwi9MjBwH0C0BR6BSKw3DLm-2Bmnu_95ipHO-2FHtfiEGxEkeDVC=
+7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QlYHTsH5Pv5lOGtrapzOksVE8rSE=
+pm0Fa9-2F9TV-2FqlMeGNHZ1HSME5W2pOOsCMuWVR4-2BFeuo9ilse5hnKjrwtAs0BSYl-2FsPO=
+FQmtTpnCKkpm00waX3bal8JR0Xjik-2B1kyBAirPdCXIAgyuEtNmzgK9zjSR2iogcS7LGIRSF7b=
+wZUs-3D
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmChIntHThu01-2Fxi63dYMb28XLgwORiQLUhI7nERg6rCs7DEoD00Joc341HrkSeA3AbVLGkqI=
+0c-2FGD8Vp7QniNUJdzpktO0tqAhpzFt9oc4Bw_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2=
+B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5Q21Niy-2Fv14dnS9R9GWdwcEKGFZlk-2BIRd37h9C5=
+opHIEWJciH4kGSgkrOkOYX33FK2ZxpkO-2FZY7eZJdF-2BbXc9B1yjeOrGKm8qVZ8hekBTQFZQP=
+RWIRyyWN5NMIFVtwTTKlAR9FdZhfjFV-2BVYD6I6Z38ZaQpzmJjRNAB6StdESF9u4-3D =20
+\- Unit cost : **500.0 =E2=82=AC per share** =20
+\- Ticket minimum : **500.0 =E2=82=AC , ie 1 share of the company.** =20
+\- Exemple : **1 500.0 =E2=82=AC invested correspond to 3 company shares an=
+d allow (in
+France) a tax deduction of 270.0 =E2=82=AC ** =20
+\- **0 =E2=82=AC as investment fee : no charge for investing via AYOMI , be=
+sides an
+investment account is created for free to follow the evolution of your
+portfolio** =20
+ =20
+
+**mercredi 15th of janvier at 19:00 CET** , we organize a meeting **online,
+accessible from a smartphone or PC** . To subscribe and be part of the
+audience, please register her : [mercredi 15th of janvier at 19:00
+CET](https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14K=
+mONQSi2Qou6tVmrGoXwi9Mh84PfNvCi3TQ-2FlD8pxiuqt-2Bb8X-2FZW1lU2DbECcYvdml9W4u=
+3msh5tPE1uZ6L6-2FLyA-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLq=
+X5Kj9W4eAw4YHzv4l5Q5q55FC2hEZz2bF4pFO8HZXeKvPJ8pRAedRG-2FfKtAv9GuEhUDhGw-2F=
+GT0VIG2LqytLaSuhyTQTRadIsQGC27ov2xO9Zyp96NcZHNKUedgsk-2FL30ke7c4lpY8VBgz3CA=
+9uN0-2FbZKt4DQR-2Fv-2Fd5cGKqgy3gts4zaSOH21qkE7JRCL-2Bc-3D
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmONQSi2Qou6tVmrGoXwi9Mh84PfNvCi3TQ-2FlD8pxiuqt-2Bb8X-2FZW1lU2DbECcYvdml9W4=
+u3msh5tPE1uZ6L6-2FLyA-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlL=
+qX5Kj9W4eAw4YHzv4l5QJRWCgfTU4mIU-2F1OZq88iL3oE2GpTZdaqv9Wz02tiZ2F8GVAETlhC4=
+eEqoJ-2FJFvVEF5ssnmUC4Jhb-2Bv9yMXzF5RvfpjxQLWm14w2e73RBtimroJbgeZaIjQywfzCP=
+SHlmK32ANK1EYIdxrewUJ4wCG3HXaJm-2B2MhRbxONA1coCSY-3D
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmCIPfma8NTYNhFNorn-2F7ie-2BWS981RRKzNaRxvvaJOJ0nUbYGohIUGMsBw7mKTKbfSUjA2g=
+J-2FgaD8Spm2pRKAEbF7rnAkzVBOC0ROqnNli9UHomDWUH3sMkIuy4lYcViiPfAPe880R-2FaF6=
+Bra8LBpKeu0HS6sVQs-2B3SGFb14R-2B3jM_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B36=
+9f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QNztVZv0jYceGeCq48gUqkozOrZOPU-2B1ssrHbGJnodo=
+KtvLTjketSPNWbgbaDpolDqfcuOmeLMBZI8ZbzKq7pYefa9grbtDM63sSSirXPdd2zcsfkbdDvu=
+i-2Bx6ElgJ-2Fqoe57vYKRhdnCYjuHUUcpQn2-2BDL36-2B-2F2wVTvJPjpZpHDg-3D
+
+ _For more information you can contact the team handling the fundraising
+campaign:_ **+33(0) 7 57 93 36 93** or organise an appointment by clicking
+here:  [AGENDA](https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5=
+cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84PfNvCi3TQ-2FlD8pxiuqtn4T9lmuFlV0fW7xK-2=
+BuU2mg-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4=
+YHzv4l5QFDn5A1F3G-2F3jnf4QrxqlLkO8UDgSl69ZdbBerkbtJY2d-2FiIS9X5c2VMTn0MgbDR=
+ELZbCltoTwqQoIiXWVcae9r74XTzGQh5DXAlMZDE6P-2FivgDWYkHauw9uXXIQB-2FH0EqTgIUN=
+TxAwAdsXz8iYJT36RCk5TbcaQ-2F4k2sT5Z3Fyw-3D
+/landing-ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5c=
+DDa-2Fo14KmBJaQNu1ZRPSELxceGKJyhDACu7rqkkNG8S4LcLSXLXJ8MYMpOxT-2BbFkgTxwdYi=
+O9Q-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHz=
+v4l5QKjr-2B3nxwtfa5fGKd19-2B5r9YtDe3rIG7wp8YGXzzLuBZeRJ9LKVzzugbqBqiDzMi-2F=
+Vk8XASDvQQVHJuszV1FRPYRYIdm4k3lRwprM9z3mPJ-2FnxS1jt-2FZl9ME9MUjRdriOZUxRXo2=
+UIbVgJKe3nnj-2BAePPjyoNjROURcqvBQkerECOSNejDbkRTaYY6VKJp8s-2F
+
+Thanks,
+
+__
+
+ ** **Remy EISENSTEIN =20
+CEO & Founder =20
+TOKEN ECONOMICS****
+
+
+
+#################################
+
+VERSION FRANCAISE
+
+#################################
+
+
+
+Cher reseau,
+
+Je vous contacte au sujet de mon entreprise :  **TOKEN ECONOMICS  **
+
+Token Economics d=C3=A9veloppe **SafePost =C2=AE**, une **messagerie crypt=
+=C3=A9e**  dont la
+**technologie brevet=C3=A9e** r=C3=A9pond  aux  **enjeux du  respect de la =
+vie priv=C3=A9, de
+la s=C3=A9curisation des messages et des documents =C3=A9chang=C3=A9s**. Le=
+s **messages  et
+documents attach=C3=A9s sont crypt=C3=A9s **sans avoir recours =C3=A0 un ti=
+ers de confiance.
+Aucune information confidentielle n'est stock=C3=A9e en clair sur les serve=
+urs de
+SafePost=C2=AE.
+
+ **SafePost =C2=AE garantit l=E2=80=99origine des messages re=C3=A7us **per=
+mettant ainsi de
+**lutter  efficacement contre les spams et les mails frauduleux**.
+
+La soci=C3=A9t=C3=A9 est **soutenue dans son d=C3=A9veloppement par la BPI =
+France** et la
+**CCI France-Bulgarie** dont elle a re=C3=A7u le **Prix Innovation** en d=
+=C3=A9cembre
+2019.
+
+Afin d'accompagner la croissance de la societe et ses nombreux axes de
+developpement, nous avons decide de lancer **_une lev ee de fonds sur une
+courte periode, en 28 jours_, sur la plateforme Ayomi**, **en ouvrant son
+capital =C3=A0 hauteur **de 50 000 =E2=82=AC**** **.**
+
+ **Vous pouvez vous rendre sur la page projet pour y trouver une descriptio=
+n
+plus d etaillee et les documents officiels : [TOKEN
+ECONOMICS](https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-=
+2Fo14KmONQSi2Qou6tVmrGoXwi9MjBwH0C0BR6BSKw3DLm-2Bmnu_95ipHO-2FHtfiEGxEkeDVC=
+7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5Q7XMB8U3Hsia7II-2FzG3H-2Fm1i=
+mkyWSlbWgA7bHcREoaBXGTAf3YiNgIfkDAOADuBiXXXx6HHoE2L-2Fnf8AwkhRvvccBGRJ0CBWc=
+Kt8Ep6lHuXBR1193ymzOwZnowdzhUncFxPfOI5gqwmvYRdqeSUqtCmYKbS2IrdcKnu-2BGJcOSR=
+GUSTI9QoD3pT3yUoFxfjfiy
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmChIntHThu01-2Fxi63dYMb28XLgwORiQLUhI7nERg6rCs7DEoD00Joc341HrkSeA3AbVLGkqI=
+0c-2FGD8Vp7QniNUIU7DkzN3Yy8-2BvNVj4o8y9d_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802=
+-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QetIPJJJR7VC-2FkaW8QkVsDoXbCmiocrE580Ff1=
+45zbm6vlfxAkecYLKjKY-2BmR96TyK43-2FD8kxvhA40k1btvFfu-2BlxYwZyqHR8D4TUtG65FE=
+lCBLkiyqQYtU4lHz-2FagH6-2Bt-2B6QWURNZmSCcKEZ25lWkkqB9nK6hzDSogljT7ZIuQrU9CN=
+eBub8VaWNSKM1kSi9
+
+ _ **Modalit es d'investissement**:_ =20
+\- Lien de la page de crowdfunding > [TOKEN ECONOMICS](https://u6713620.ct.=
+sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmMjL8j7Gd7j0TElN-2BRCfpAQ=
+-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QI=
+n0rvMan7YJlziJaSw9qezWMF4ocvq2EpJH-2FlGwzAyKsESokYhJaL18WHaZIQvvSFMGdG7GyLX=
+HHm32lJ7x0sE10mR9AlwMz12wYH6FL5b13-2F1yCnaC5acegIy5AVqiz0JktO0zrDs6tp6rPCyQ=
+u6WaJahjU7e0A787m9tOkCBmyhhYTYZtFVT1EzA74M41H
+/#/landing-
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmChIntHThu01-2Fxi63dYMb28XLgwORiQLUhI7nERg6rCs7DEoD00Joc341HrkSeA3AbVLGkqI=
+0c-2FGD8Vp7QniNUJdzpktO0tqAhpzFt9oc4Bw_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2=
+B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QTLjouuVZ69OUBTObWJQsJbZRcxR8n4m6Nu97RoB-2=
+BQ1OhZfugo36X08wNy5IztAlckhxsnD27tR0B47pLAVIulcMUnvy0Ljf9NMUZb1yWrh0OdhkZTl=
+VWK6Is11i7J6YOl76pakbh-2BTOCYAtbHMjx-2Fgx-2Btvkwrmo3tbusfQ7nWUoRyC-2FQjnEnr=
+-2FJ2rhXGceRA =20
+\- Prix Unitaire : **500.0 =E2=82=AC l'action** =20
+\- Ticket minimum : **500.0 =E2=82=AC , soit 1 action de la soci=C3=A9t=C3=
+=A9.** =20
+\- Exemple : **1 500.0 =E2=82=AC investis correspondent =C3=A0 3 actions de=
+ l'entreprise ,
+et octroient une r=C3=A9duction d'imp=C3=B4t de 270.0 =E2=82=AC ** =20
+\- **0 =E2=82=AC de frais d'investissement : c'est gratuit d'investir via A=
+YOMI , en
+sus vous avez un compte titre pour suivre l'=C3=A9volution de la valeur des
+actions, gratuitement** =20
+ =20
+
+Le **Mercredi 15 Janvier =C3=A0 19:00 CET** , une presentation de la societ=
+e est
+organisee **en ligne, accessible depuis un smartphone ou un ordinateur** **=
+**
+(retransmission en direct). =20
+Pour vous inscrire a l'evenement, il vous suffit de cliquer sur le lien
+suivant : **[INSCRIPTION](https://u6713620.ct.sendgrid.net/wf/click?upn=3DC=
+7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9MjBwH0C0BR6BSKw3DLm-2Bmnu_95ipHO-=
+2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5Q2jVXdQW1B3mv=
+vi0kgp2-2ByR-2FBKfB5Yqf3iD0Veg6MZNOAl98HuSBjQjZL4aqtzcpMjjlX6bklZLbvWPNX-2B=
+KXxQ5aDFjG7uxhR55P-2FJofvXX4Q-2F1FAzSdLHgfvzcf9Hc-2FZJdI5FbGDh3d0I9H5w79K9a=
+AtRu15vQEOU8yzb0BTiFibFhPZYYKHYEPUFYvYPRE5
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmJCjl50FO-2FEHIJAs-2FZ9Axrrgq9HxG9GhEjodIz1Ab-2BWx_95ipHO-2FHtfiEGxEkeDVC7=
+m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QCIF9TgS3RkoIUPeDJIlSHWizuoEz=
+0toRUMQNOt9bYcxAvx676y585WzaKZGx408UZCeZ3WbaTlLHpYnqvs3QSA7flUj8fzUr6Sd-2Fl=
+u1INSPTBs-2FfTllZMCch6TZAaWa4iI-2FefP4-2BetkODlpHc-2BQEbO8QoA0gfjrof41wViKF=
+rLicG90rkM-2BLZxsBypki3NKt
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmCIPfma8NTYNhFNorn-2F7ie-2BWS981RRKzNaRxvvaJOJ0nUbYGohIUGMsBw7mKTKbfSUjA2g=
+J-2FgaD8Spm2pRKAEbF7rnAkzVBOC0ROqnNli9UHomDWUH3sMkIuy4lYcViiPQpVDZs-2FlHu4F=
+oOqFgOUvtk-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw=
+4YHzv4l5QHINnSaFTaj-2B5CJc8UxXUMofUNRfR9Rfq1tvJsTjcyIRlw9Vx1crPd5c6dCncVXwm=
+GRqyXLMfTHlWiAQ0CxnfSRTqy1-2BsOexf-2BKUvTnnqkDz3WWFI2BkjJNMI60s-2FXsaHP6rE6=
+HmHJ-2BQD0zrNItnyJPXVCZNkQA-2BqEMr5OnsT4zfbg81-2BAaabJ6ZFm3CKtnsw
+
+ _PS :_ Si vous avez plus de questions, vous pouvez  echanger avec les equi=
+pes
+gerant la campagne au **+33(0) 7 57 93 36 93** __ ou [prenez rdv ici
+directement dans son agenda](https://u6713620.ct.sendgrid.net/wf/click?upn=
+=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9MjBwH0C0BR6BSKw3DLm-2Bmnu_95i=
+pHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5Qk0agMlq6=
+LgqbEjDNbqrYstO5Xp6Zsp5QG3yeSezdgHqifxmVIm8qUPf6yBMD7WyYJ5rMm9NCcG-2BkKRVG-=
+2BrchsEK4k0OLJLw892WaQCV8hviKgCNfvlAmB-2FJ3LKP9sWnaaZ151EVwXgkLpItRlXPYWKEK=
+rAhjdQZn-2FXba0fdOlqCa48tWNN3EIAwuVp-2F3cbNA
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmJCjl50FO-2FEHIJAs-2FZ9Axrrgq9HxG9GhEjodIz1Ab-2BWx_95ipHO-2FHtfiEGxEkeDVC7=
+m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QMKcfNrlpe8y7Gdk8ZXI4m8rDeuaA=
+2gVeQP7Ra-2BXHXxMqa66T-2B8OZiGOZv3c6ePtOasamOGvdVcluF1SVzKfJ74lvfRJIwba2h2V=
+g5mTGJOwtuoWQmgfjU9FxcSLvHovJjKyICg8yTiGIG58m-2BX-2FyU8PjaVu25oPs3JlACSa-2F=
+bIpwKFt4OkfCIs3187wQBzi6
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmBJaQNu1ZRPSELxceGKJyhDACu7rqkkNG8S4LcLSXLXJ8MYMpOxT-2BbFkgTxwdYiO9Q-3D-3D=
+_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QPaRZ=
+CK4bqZIMcboCYul8WCaVAOvHtgOWc9EohWgg9D2PbgINDYSBDTf1HpRnW7TDxjYXYDFRAOhRiiv=
+vhVCf7Bce9USE5lA3aEgQ8G4VwJqQTgx51CuCu013TelZ20hJk-2BchgHC84IfN3Hk7bAXZzchV=
+6gsi6yY40NbEDaX42QONtaquwEoD8DGNPTLaIjKe
+
+Merci,
+
+__
+
+ **Remy EISENSTEIN =20
+CEO & Founder =20
+TOKEN ECONOMICS**
+
+ __ =20
+ =20
+
+Cet email a =C3=A9t=C3=A9 envoy=C3=A9 =C3=A0 bruce@untroubled.org parce que=
+ vous faites parti du
+r=C3=A9seau de REMY EISENSTEIN =20
+Ayomi est une fintech qui permet aux entreprises d'obtenir des financements=
+ au
+sein de leur r=C3=A9seau de confiance. =20
+Si vous =C3=AAtes en recherche de financement vous pouvez prendre un rendez=
+-vous
+avec un conseiller AYOMI au +33 (0)7 55 54 04 09 ou via ce [lien de
+rdv](https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14K=
+mLMLsKjFWNS8W87RtgXxp5FGmcr08sa1-2Fzppeobz1-2Bp-2FYgraTjHJhUNgICUZ2D2aYA-3D=
+-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QM=
+NYBwipTYMRxyPo7gwyhdjXfmOC9cFY8uQdaDeiY4t4j94OkKvCBpZ9gEF9ovjS5VzfX0wdbsZND=
+-2BQuX-2B0t6mYpXC4OU0cjbXnH-2BovC1yC11VD5EISpZibrmbB6KzfCOw6awI2z6ZOROKdUso=
+qaJKTsbNwN17DTwYiHBbj4i-2BrlB6wYeIyFyrId-2F33ALoaBR
+
+,
+
+[Unsubscribe](https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cD=
+Da-2Fo14KmONQSi2Qou6tVmrGoXwi9MjBwH0C0BR6BSKw3DLm-2Bmnu_95ipHO-2FHtfiEGxEke=
+DVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QRChpD1q0cG99dvwEmAmvhAtH=
+85coWWLTc-2BRo7Q20y5nVLdkvRUWrF28Ve7EqNe3-2FR9spmUO4yrBGYgx0od8oGjosZ3updOy=
+0mT8R3CZGfG-2F-2B2zK4ENWMKlvP-2Bsfbp1hwao8h6a-2BnowrsLIssCJyODBuvl-2BpQD-2F=
+1a7yaRcBK8pAViq-2BHr6PCmCIcAXhWFi2wq
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmBHKFx9xi5OsIn5QDcGOL6nilftYFFM8scChGKGtHV7w-2BM6W3efbVwWf1nD6HduPjOyOwkYv=
+1YqRb0ZlJhROhWNDAtxhWCrYy-2FCHNlofieViCvqzKJSB7-2F7McBUtBGrCYCVgZjqlD1osX4m=
+VQgLwfEE-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4Y=
+Hzv4l5Q0N-2FMMvYCiCEsGK1nZSGOpiCnmIfJAZnf-2BCj6iig2LE0SEHAinUCqALtj7mW398ih=
+TyNQNSbneIRBkpZNHYt1M3T3xh5ubSPhkVEcxgRY7T28ni3ZlJMflEoFmWBYpKBE3RyyOre-2BA=
+tP3DnF9Y97OrnteXJsGAiMtIeYf0uHe-2FT5ESSKFU-2FUf0GAJ4FPs8rax
+
+
+If you would like to unsubscribe and stop receiving these emails click here=
+: https://u6713620.ct.sendgrid.net/wf/unsubscribe?upn=3D95ipHO-2FHtfiEGxEke=
+DVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QQZMtBy2ccC38JFcznBbCHXem=
+38FXhtDtLsIRJxoUunQ-2BpiIoO-2FLgBbuyPZNZmABGHzhQYzc6xJMb4udfSJ-2B2QV1gSegIx=
+MCuNilTULKvMAx-2BJ-2B5zbvb8StTYvW-2BoouRfqJe3k1wVu4wlUl-2BuAfgLbVIGTXIrb8j5=
+wY1UZg8vze0-3D.
+--137d1233b547e7dced1fae563b4aca8e42a108059b346a62183fd6ec30d5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<html><head><title></title></head><body><p><em>[ VERSION FRANCAISE PLUS BAS=
+ ]</em></p><p>Dear Network,</p><p>I am contacting you about my company: <st=
+rong><a href=3D"https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5=
+cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84PfNvCi3TQ-2FlD8pxiuqtM8Y2tQ17jzq5OxFGVf=
+urVDOgYGWVrS0uEfaLVT-2FOy78Vcp5Ri14cVJlvdMSLcPIaqqeiy9zctQ1zWATlpfv06bRBpJi=
+dZafdjw0EYuAyyDw-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj=
+9W4eAw4YHzv4l5Qa4jbfODbN2K6h4k0I-2BM-2F9kpNwjIEw-2BMPYzKZuI1lXlQkouVEXG09VP=
+mDcVjGN4waXoMGi-2FlujmDslr2nFdEjCBtLzGtJQko7BY-2FvnNSMwEH5GDvX2w-2BGKNtb6sQ=
+CejvNd9tVFwF5pfwIO2-2BoLnFyJn1yACdapq-2BYXC0yIrR-2BPg73hakfV3m16OIg7SlxMcbD=
+">TOKEN ECONOMICS</a></strong></p><p><p style=3D"line-height: 1.5;"><span s=
+tyle=3D"text-size-adjust: auto;"><span style=3D"font-size: 14px;">Token Eco=
+nomics develops <b>SafePost=C2=AE</b>,</span><span class=3D"Apple-converted=
+-space" style=3D"font-size: 14px;">&nbsp;</span></span><span style=3D"text-=
+size-adjust: auto; font-size: 14px;"><b>an end-to-end encrypted messaging s=
+ystem whose patented technology meets the challenges of respecting privacy =
+and securing both messages and documents exchanged</b></span><span style=3D=
+"text-size-adjust: auto;"><span style=3D"font-size: 14px;"><b>.</b> Message=
+s and documents attached are encrypted without using any trusted third part=
+y.</span><span class=3D"Apple-converted-space" style=3D"font-size: 14px;">&=
+nbsp;</span></span><span style=3D"text-size-adjust: auto; font-size: 14px;"=
+><b>SafePost=C2=AE doesn't store any confidential data readable by a third =
+party.</b></span><br style=3D"text-size-adjust: auto;"><span style=3D"text-=
+size-adjust: auto;"><span style=3D"font-size: 14px;">SafePost=C2=AE guarant=
+ees the origin of the messages received, thereby</span><span class=3D"Apple=
+-converted-space" style=3D"font-size: 14px;">&nbsp;</span></span><b><span s=
+tyle=3D"text-size-adjust: auto; font-size: 14px;">effectively eradicating s=
+pam and fraudulent emails</span><span style=3D"text-size-adjust: auto; font=
+-size: 14px;">.</span></b><br style=3D"text-size-adjust: auto;"><span style=
+=3D"text-size-adjust: auto;"><span style=3D"font-size: 14px;">Token Economi=
+cs is supported in its development by BPI France and</span><span class=3D"A=
+pple-converted-space" style=3D"font-size: 14px;">&nbsp;</span></span><b><sp=
+an style=3D"text-size-adjust: auto;"><span style=3D"font-size: 14px;">CCI F=
+rance-Bulgaria from which it received the Innovation Prize</span><span clas=
+s=3D"Apple-converted-space" style=3D"font-size: 14px;">&nbsp;</span></span>=
+<span style=3D"text-size-adjust: auto; font-size: 14px;">in December 2019.<=
+/span></b><br></p></p><p>In order to support the growth of the company, we =
+have decided to organise a <strong><u>fundraising over a period of 28 days<=
+/u>, via the Ayomi platform</strong>,&nbsp;<strong> for an amount  <strong>=
+of 50 000&euro;</strong></strong></p><p>For more information about the comp=
+any, the product and project, please click here :&nbsp; <strong><a href=3D"=
+https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQS=
+i2Qou6tVmrGoXwi9Mh84PfNvCi3TQ-2FlD8pxiuqtM8Y2tQ17jzq5OxFGVfurVDOgYGWVrS0uEf=
+aLVT-2FOy78Vcp5Ri14cVJlvdMSLcPIaqqeiy9zctQ1zWATlpfv06bRBpJidZafdjw0EYuAyyDw=
+-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QF=
+b5-2FRtUTGsavvU0zg5Qa6wCdBijtlOTxnIg9Pc-2BA6CRdX8jRloIcPDI6c1w90Bd0Z2g-2Bjp=
+YEsmOfiTrRZlcKiDY9IrXvDHwPKUrM4hSkPTEr4K9ciwSYGLY4PT4FDYt7EPZ7S02mPmIVyA9pc=
+z1W4IckSeCrNLDqNIhFAPdTf7C9Lxudpw-2BxAnMf7xULghdT">TOKEN ECONOMICS</a></str=
+ong></p><p><u><strong>Investment terms</strong>:</u><br />
+ - Click here to discover the investment opportunity > <a href=3D"https://u=
+6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVm=
+rGoXwi9Mh84PfNvCi3TQ-2FlD8pxiuqtM8Y2tQ17jzq5OxFGVfurVDOgYGWVrS0uEfaLVT-2FOy=
+78Vcp5Ri14cVJlvdMSLcPIaqqeiy9zctQ1zWATlpfv06bRBpJidZafdjw0EYuAyyDw-3D_95ipH=
+O-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QKqlcOxd6jY=
+6m7cDJU4GeIO6pQ1tzOWZ-2Bn3uW0Meq7ST1LS-2BlrF1y4zgbIbZ9JqWv-2FO9t9C6W3rQBRwf=
+9SJ2T52i1F05CIpqDgKnIAggzmr-2BC7f5LcP-2BGHYqPCJVrl4-2BxTmUG3s3gkAddwfhSQnBW=
+bTcHy2a2qzNzzaC7slK4S1Rjfd8LzwwknJQMYIZEy29I">TOKEN ECONOMICS</a> <br>
+                    - Unit cost  : <b>500.0&euro; per share</b><br>
+                    - Ticket minimum : <b>500.0 &euro; , ie 1 share of the =
+company.</b><br>
+                    - Exemple : <b>1 500.0 &euro; invested correspond to 3 =
+company shares and allow (in France) a tax deduction of 270.0 &euro; </b> <=
+br>- <b>0 &euro; as investment fee : no charge for investing via AYOMI , be=
+sides an investment account is created for free to follow the evolution of =
+your portfolio</b><br>&nbsp;<br>
+                        </p><p><strong>mercredi 15th of janvier at 19:00 CE=
+T</strong>, we organize a meeting <strong>online, accessible from a smartph=
+one or PC</strong> . To subscribe and be part of the audience, please regis=
+ter her : <a href=3D"https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2=
+q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84PfNvCi3TQ-2FlD8pxiuqt-2Bb8X-2FZW1l=
+U2DbECcYvdml3m0tR-2B74NNqYp3vqAZ4IHI74uXpmVOaXvWrIlRcxqlxdUBKMBmYNHeopiq8F-=
+2BeClPj1fh6cXp3zK0YuSO6WfcRDgXaFI1VS0nR1EpUOZfiH9TcaqfeWcJecwFVp0r2IboMFxOL=
+ZmAIaN6F74C-2Fdm8HPwX78YJmHFmKPb2qawL7MIJ-2ButDxQUjkpJQX58uJZ0VMf3KVsuN43BC=
+PfyO74Q8j8GrEXvwmFKgx-2B-2B7LvQc-2Fjk9wd8QJN532subXUO4hwoJ0FQ1l5UkPmZ6hKsUT=
+9iF0xjqwISHdb0kadMaNhnuct_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjl=
+LqX5Kj9W4eAw4YHzv4l5QOn7AB6QhqmMg6WdOyWYy6zL0MbJY5oNfFWuCCUfFrOvJegaTmOJe4Z=
+7lGZPJL4MhsXlUNnBdfiHxIG2sZ2K7mev-2B5CsBTMb4-2FUq4FlaIJ-2B-2BcQ-2FprPOQk-2B=
+zGyzFl8uV4e-2B4Xy-2Bbf2suWZMA2Wxx3znivq2llqjDt5Czbmggm1pXQ410JxUnQSGWqIVCRg=
+aJGF">mercredi 15th of janvier at 19:00 CET</a></p><p><u>For more informati=
+on you can contact the team handling the fundraising campaign:</u> <strong>=
++33(0) 7 57 93 36 93</strong> or organise an appointment by clicking here:&=
+nbsp;<a href=3D"https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5=
+cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84PfNvCi3TQ-2FlD8pxiuqt-2Bb8X-2FZW1lU2DbE=
+CcYvdml3m0tR-2B74NNqYp3vqAZ4IHKG1nvS2kyAxpzT1ec62NDgJrF2BYloe3bGRqNkiL8drt6=
+JVkySgbqCtvJvJ1NLc1g-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLq=
+X5Kj9W4eAw4YHzv4l5QiER-2BlggnwfCiL0XJmmuEK3LT3-2BqSxW-2BkHilwSiHJ-2BXRU9hia=
+MmytffUx6iGykjJsNU5NAf3RKTBT9hapZ4-2BhuH9Tu3aHui9iRcJ0HRru0peUhIvNggLrWBri5=
+43Lix4febDGZzseAkIiuq4YNGnXdbFaih2pkJKULlvm5LDXhWGrNwVSgnwsXMkyAAeqH-2BxW">=
+AGENDA</a></p><p>Thanks,</p><p>__</p><p><strong><b>Remy EISENSTEIN <br/>CEO=
+ & Founder<br/>TOKEN ECONOMICS</b></strong></p><p>&nbsp;</p><p>############=
+#####################</p><p>VERSION FRANCAISE</p><p>#######################=
+##########</p><p>&nbsp;</p><p>Cher r&eacute;seau,</p><p>Je vous contacte au=
+ sujet de mon entreprise :&nbsp;<strong>TOKEN ECONOMICS&nbsp;</strong></p><=
+p><p style=3D"text-size-adjust: auto;">Token Economics d=C3=A9veloppe <b>Sa=
+fePost<span class=3D"" style=3D"">=C2=AE</span></b>, une <b>messagerie cryp=
+t=C3=A9e</b><span class=3D"Apple-converted-space" style=3D"">&nbsp;</span>d=
+ont<span class=3D"Apple-converted-space" style=3D"">&nbsp;</span>la <b>tech=
+nologie brevet=C3=A9e</b> r=C3=A9pond<span class=3D"Apple-converted-space" =
+style=3D"">&nbsp;</span>aux<span class=3D"Apple-converted-space">&nbsp;</sp=
+an><b>enjeux du<span class=3D"Apple-converted-space">&nbsp;</span>respect d=
+e la vie priv=C3=A9, de la s=C3=A9curisation des messages et des documents =
+=C3=A9chang=C3=A9s</b>. Les <b>messages<span class=3D"Apple-converted-space=
+">&nbsp;</span>et documents attach=C3=A9s<span class=3D"Apple-converted-spa=
+ce">&nbsp;</span>sont crypt=C3=A9s </b>sans avoir recours =C3=A0 un tiers<s=
+pan class=3D"Apple-converted-space">&nbsp;</span>de confiance.<span class=
+=3D"Apple-converted-space">&nbsp;</span>Aucune information confidentielle n=
+'est stock=C3=A9e en clair sur les serveurs de SafePost<span class=3D"">=C2=
+=AE.</span></p><p style=3D"text-size-adjust: auto;"><b>SafePost<span class=
+=3D"" style=3D"">=C2=AE</span><span class=3D"Apple-converted-space">&nbsp;<=
+/span>garantit<span class=3D"Apple-converted-space">&nbsp;</span>l=E2=80=99=
+origine des messages re=C3=A7us<span class=3D"Apple-converted-space">&nbsp;=
+</span></b>permettant ainsi<span class=3D"Apple-converted-space">&nbsp;</sp=
+an>de <b>lutter<span class=3D"Apple-converted-space">&nbsp;</span>efficacem=
+ent<span class=3D"Apple-converted-space">&nbsp;</span>contre les spams et l=
+es mails frauduleux</b>.</p><p style=3D"text-size-adjust: auto;">La soci=C3=
+=A9t=C3=A9 est <b>soutenue dans son d=C3=A9veloppement par la BPI France</b=
+> et la<b> CCI France-Bulgarie</b> dont elle a re=C3=A7u le <b>Prix Innovat=
+ion </b>en d=C3=A9cembre 2019.</p></p><p>Afin d&#39;accompagner la croissan=
+ce de la soci&eacute;t&eacute; et ses nombreux axes de d&eacute;veloppement=
+, nous avons d&eacute;cid&eacute; de lancer <strong><u>une lev&eacute;e de =
+fonds sur une courte p&eacute;riode, en 28 jours</u>, sur la plateforme Ayo=
+mi</strong>, <strong>en ouvrant son capital =C3=A0 hauteur <strong>de 50 00=
+0&euro;</strong></strong><strong>. </strong></p><p><strong>Vous pouvez vous=
+ rendre sur la page projet pour y trouver une description plus d&eacute;tai=
+ll&eacute;e et les documents officiels :&nbsp;<a href=3D"https://u6713620.c=
+t.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh=
+84PfNvCi3TQ-2FlD8pxiuqtM8Y2tQ17jzq5OxFGVfurVDOgYGWVrS0uEfaLVT-2FOy78Vcp5Ri1=
+4cVJlvdMSLcPIaqqeiy9zctQ1zWATlpfv06bRBpJidZafdjw0EYuAyyDw-3D_95ipHO-2FHtfiE=
+GxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QnTDPxzWmX-2B-2F0j-2=
+B8td2eJS3XO4F4uBOcPPRyu9DomRdN0WGnEJwtvXXrKFqo6ZCCHfBmNqWp5gsBuUVK8rFzI1bHZ=
+la2aziVmK31RutzY-2F5E9EmOT-2F0cMjKVh2nkw-2BWIeQKQwl2Pt68-2Bz31xStSKFhBP7tfd=
+py09Y7rP0TfzWhNUYwMqo1dtzGL-2BCcwCa9ian">TOKEN ECONOMICS</a></strong></p><p=
+><u><strong>Modalit&eacute;s d&rsquo;investissement</strong>:</u><br />
+ - Lien de la page de crowdfunding > <a href=3D"https://u6713620.ct.sendgri=
+d.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84PfNvCi3=
+TQ-2FlD8pxiuqtM8Y2tQ17jzq5OxFGVfurVDOgYGWVrS0uEfaLVT-2FOy78Vcp5Ri14cVJlvdMS=
+LcPIaqqeiy9zctQ1zWATlpfv06bRBpJidZafdjw0EYuAyyDw-3D_95ipHO-2FHtfiEGxEkeDVC7=
+m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QEErJraUxsQNyNtMkfsRIgZpm9fhE=
+EaJkdeP3dYMW-2BgXEwjDwqB1RRJBrsrtzIj-2FxN1r4ldV-2BY0h4BaivyX5rQihauGHgNqhp1=
+eRqpHoxv2hFstQmISUL7dNUajs1CfJ-2F3E0Xh-2FHNYYn8DNu3jNgMxq9tsQgVQa0RCa3Y6oNI=
+-2FcQzaif46-2FACJaJc4fb-2F0tE6">TOKEN ECONOMICS</a> <br>
+                    - Prix Unitaire : <b>500.0&euro; l'action</b><br>
+                    - Ticket minimum : <b>500.0 &euro; , soit 1 action de l=
+a soci=C3=A9t=C3=A9.</b><br>
+                    - Exemple : <b>1 500.0 &euro; investis correspondent =
+=C3=A0 3 actions de l'entreprise , et octroient une r=C3=A9duction d'imp=C3=
+=B4t de 270.0 &euro; </b> <br>- <b>0&euro; de frais d'investissement : c'es=
+t gratuit d'investir via AYOMI , en sus vous avez un compte titre pour suiv=
+re l'=C3=A9volution de la valeur des actions, gratuitement</b><br>&nbsp;<br=
+>
+                        </p><p>Le <strong>Mercredi 15 Janvier =C3=A0 19:00 =
+CET</strong>, une pr&eacute;sentation de la soci&eacute;t&eacute; est organ=
+is&eacute;e <strong>en ligne, accessible depuis un smartphone ou un ordinat=
+eur</strong><strong> </strong>(retransmission en direct).<br />
+Pour vous inscrire &agrave; l&#39;&eacute;v&eacute;nement, il vous suffit d=
+e cliquer sur le lien suivant : <strong><a href=3D"https://u6713620.ct.send=
+grid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84PfNv=
+Ci3TQ-2FlD8pxiuqt-2Bb8X-2FZW1lU2DbECcYvdml3m0tR-2B74NNqYp3vqAZ4IHI40clPRNg9=
+8lVnqzh5nwEDaunREr9aLGUDN8SIGE0zRTnMiIxyil1IK-2FweKEJeqaAKyMwZr-2FoVIA2LiSR=
+vuxTuWwZ8Vkv-2BoUxHrbxZjk9L29F0I1mZcU4uXD81qXztwsEGMvw9mf4NE7UrKnyXJuIi_95i=
+pHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QlzUWxfKR=
+z3rzMvfkUOH9Lgp-2FNjg7py3A-2FJMFudRhi-2FCptRHIdMnYzX4y3ihpUbmCgvYOGjxit3JPV=
+max3vODX7JWIUZ51QlHLE12YIId6-2BYyaDFPyeCXmF45NuZNp9iMeA2I5GwSuSSovB3oAoH7gC=
+WN-2F1VpGjMm0BwkesaEbimdMRzzrAM3Ss-2FTUqehC0At">INSCRIPTION</a></strong></p=
+><p><u>PS :</u> Si vous avez plus de questions, vous pouvez &eacute;changer=
+ avec les &eacute;quipes g&eacute;rant la campagne au <strong>+33(0) 7 57 9=
+3 36 93</strong><em> </em>ou <a href=3D"https://u6713620.ct.sendgrid.net/wf=
+/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84PfNvCi3TQ-2FlD8=
+pxiuqt-2Bb8X-2FZW1lU2DbECcYvdml3m0tR-2B74NNqYp3vqAZ4IHKG1nvS2kyAxpzT1ec62ND=
+gJrF2BYloe3bGRqNkiL8drt6JVkySgbqCtvJvJ1NLc1g-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc=
+8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QvWh0vbKiEgTi5UBvMMOc2-2FOChWvJcz=
+7biNvYpWRuBb8pOQaZUtndcSHtWgh5465CGdk0b9IS3QYiZZJ3vhKPKSI39cm76piOYoMj0T67b=
+RUcTQmtF8j464G7FzewyZkVtF7Un-2FCJZh5Ao1ticQV9s-2FvRgIcAz-2B77FPjH2KOffbk-2B=
+a6hnJlW7dZdyjsFTbXDq">prenez rdv ici directement dans son agenda</a></p><p>=
+Merci,</p><p>__</p><p><b>Remy EISENSTEIN <br/>CEO & Founder<br/>TOKEN ECONO=
+MICS</b></p><i></i><br/><br/><div data-role=3D"module-unsubscribe" class=3D=
+"module unsubscribe-css__unsubscribe___2CDlR" role=3D"module" data-type=3D"=
+unsubscribe" style=3D"color:#444444;font-size:12px;line-height:20px;padding=
+:1px 16px 16px 16px;text-align:center"> <div class=3D"Unsubscribe--addressL=
+ine"> <p class=3D"Unsubscribe--senderName" style=3D"font-family:Arial, Helv=
+etica, sans-serif;font-size:10px;line-height:20px">Cet email a =C3=A9t=C3=
+=A9 envoy=C3=A9 =C3=A0 bruce@untroubled.org parce que vous faites parti du =
+r=C3=A9seau de REMY EISENSTEIN<br/>Ayomi est une fintech qui permet aux ent=
+reprises d'obtenir des financements au sein de leur r=C3=A9seau de confianc=
+e.<br/>Si vous =C3=AAtes en recherche de financement vous pouvez prendre un=
+ rendez-vous avec un conseiller AYOMI au +33 (0)7 55 54 04 09 ou via ce <a =
+href=3D"https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo=
+14KmLMLsKjFWNS8W87RtgXxp5FGmcr08sa1-2Fzppeobz1-2Bp-2FmzAcA3oliPrB7OMN4ObkYw=
+-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l=
+5Q1HM12-2FAO0VgfQB5fK5HkQTnMac8CAJJsnaGXAWYz999Gjx0iQDrBWfu6ijbDtcb19smyl6l=
+gEim9qd-2FMOPsY-2BtMGu-2B8SZ4wKvLpG1H2s9vZkAtRLa9-2FjMMPjSfoCuxFVyI4K4tg7MG=
+aHdEnwAyFiX4ndC6axWGL0tFvMEBzLkvCOJKQnQiaP62M39Vn9is3c">lien de rdv</a></p>=
+<p style=3D"font-family:Arial, Helvetica, sans-serif;font-size:12px;line-he=
+ight:0px"><span class=3D"Unsubscribe--senderAddress"></span> <span class=3D=
+"Unsubscribe--senderCity"></span>, <span class=3D"Unsubscribe--senderState"=
+></span> <span class=3D"Unsubscribe--senderZip"></span> </p></div><p style=
+=3D"font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:20p=
+x"><a class=3D"Unsubscribe--unsubscribeLink" href=3D"https://u6713620.ct.se=
+ndgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84Pf=
+NvCi3TQ-2FlD8pxiuqt9fEFSf1rh-2F2q924R7idG7qt7Z3efw3owbm4bBDGt2ymrYxrJlly87k=
+5tuNTaeMJuMAX2LQ3940XgLto0-2Bgg0pjDCTPG5JWCPTA0TdCU-2FVFhle1aAomD7BrNeCIg1V=
+cXpHjmE3ulu88zV4ZOFZHeAig-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2=
+FNYKjlLqX5Kj9W4eAw4YHzv4l5QS0AqvlpMe68xXsrFY0MlSzcayiIMKCYo9mptF3XduhOfWbQq=
+fDVDgqxvXlgmacOymr8KuDpk-2FuQ-2Fnudz3nHAoRZ2PcoRfHX3lmNk1WDCypDWZ7PQX7rmDdI=
+urlqwSJrjsnG3bkJEDiD4Gg7kSoHSO82Pg6kcbAWZiX9MMZrgW-2Fb4Yi6lrUhrXFkHW-2BXvoY=
+x5">Unsubscribe</a> </p></div><p>To unsubscribe <a href=3D"https://u6713620=
+.ct.sendgrid.net/wf/unsubscribe?upn=3D95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B=
+369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QSStbOKNreJMa-2B-2FBCQWp1DMVkdzqTRz1ctb1cnw=
+oQfkuFfv2-2FKtEaenyqV35NhOSkWciLH3uMxRM0R-2FRifYmxaLaTSUtuT8QVERfgJydSxnY8U=
+0C0vAUXjmIg2Nd6LZfUP4LqD-2B7dGEpbRE1Hyl-2FcKIjA5ynCFhzrcmXM6D1ESf8-3D"> cli=
+ck here </a>.</p>
+<img src=3D"https://u6713620.ct.sendgrid.net/wf/open?upn=3D95ipHO-2FHtfiEGx=
+EkeDVC7m2cc8Z9r802-2B369f-2FNYKjlLqX5Kj9W4eAw4YHzv4l5QhA8SYrH9c789553mMStr5=
+PCA1JqQBnwekPqA6bcWWfOM72BtB13OgIwGNvVXJp9pYARVlrll5Feq4CXHSalVwT28gddyJK-2=
+Ff0EyzltxGANzPUMHXAqW3sgmBATQiaCHZ53rCLkjl2jUsaxQNOqB9xqfm2YlLQf80k-2BvHqk4=
+qhb10QL2k3cHg20ghNaYQFItt" alt=3D"" width=3D"1" height=3D"1" border=3D"0" s=
+tyle=3D"height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;"/></body></htm=
+l>
+--137d1233b547e7dced1fae563b4aca8e42a108059b346a62183fd6ec30d5--

@@ -1,0 +1,95 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12449 invoked from network); 30 Jan 2020 10:53:00 -0000
+Received: (qmail 65099 invoked by uid 222); 30 Jan 2020 10:53:00 -0000
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 65096 invoked from network); 30 Jan 2020 10:52:59 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 30 Jan 2020 10:52:59 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1727091AbgA3Kww (ORCPT <rfc822;bruce@untroubled.org>);
+        Thu, 30 Jan 2020 05:52:52 -0500
+Received: from mail-qk1-f193.google.com ([209.85.222.193]:41706 "EHLO
+        mail-qk1-f193.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1726873AbgA3Kww (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Thu, 30 Jan 2020 05:52:52 -0500
+Received: by mail-qk1-f193.google.com with SMTP id s187so2448471qke.8
+        for <linux-kernel@vger.kernel.org>; Thu, 30 Jan 2020 02:52:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=fj6+7XdfY+psK9aUy8vPwpzcDlN0nKnYH4DbLtpBXRs=;
+        b=DatAPRPR25Vgm5YtzfSYtVd4UMnzt7z1AsEXxwCEqqbMzFvNxixN+y5TNlx20XXM4k
+         0O4kfYe3c0zvKTfMJJyGXwCXBjpiNR30aA9vzezAlHMk2T2rRC6BCTGPmjiSARI9I4og
+         5ELvB9syAyOTF8LRGynBCvtvO+W6mpPvgvyMk+qV7040NVe1Ix4AMjTh9SwVpCWSa9eO
+         3KG2XwiCOEe8tXipKAfZ/LPNX//9AkcWRJ2jI6P0H0grpQ+XeCA8hFqrWxke5qF+a/ec
+         qPJvC2HWdapBKhQHlCoiSjfChBX6K/JVXnzyKII91fzYc+Hh06rghN4QFTLhkvGT19qa
+         vvdQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to:content-transfer-encoding;
+        bh=fj6+7XdfY+psK9aUy8vPwpzcDlN0nKnYH4DbLtpBXRs=;
+        b=lj1/dx4VFqJDzRmqB+ZIVVS+xXMaQbqSkAB61mVpQ47hJxiqVIBriWod1PgXjprP1o
+         EZHzIogAYAyum3wdXGy45Sw1eTeNeJ8Qekk1qPVqYAOBSQisMU391n7oD2ZSv5IVBopJ
+         Wobj8rPRsXSb15FvL4yLdHzSnDsgwSWNAfwB52txDC5c9yY9r7ejDyGh05qtyHO/YmW4
+         vw7fvD50S2CNfsIfZE4HltumyadhCrI32+aWBj4yuER99vleaKNC87+1NXbI2VNreumh
+         s5FZz7eI34xjhd+vnm/Sxk9//SmcqW2elWpOzPxznNjdCXrnVx0HWcnrhXbrCnNR+TWU
+         perA==
+X-Gm-Message-State: APjAAAX7wCdZm4Ew0Q27g8TzOkYwMEBDlShMtcCwjgiRrNQcEgikPBqZ
+        DSWuakb60hgkGor9+QmkUOBIUF55o48+7JPUEnE=
+X-Google-Smtp-Source: APXvYqwkLuuK/KMF7VMUwQE6tGqitHoCVszEm5oMEjwnbmchKmOtvxf6iQPrzOUZyXTN4b/TGheZbGAaClnH4QVUjnw=
+X-Received: by 2002:a05:620a:6b6:: with SMTP id i22mr4314987qkh.301.1580381571369;
+ Thu, 30 Jan 2020 02:52:51 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:ad4:48c5:0:0:0:0:0 with HTTP; Thu, 30 Jan 2020 02:52:50
+ -0800 (PST)
+Reply-To: augustineamaga@gmail.com
+From:   Augustine Amaga <policdepartmentg@gmail.com>
+Date:   Thu, 30 Jan 2020 11:52:50 +0100
+Message-ID: <CABajN5NWQ45s0VJBcEJ2LRxnXDJ7k4EFBQZyPeHc8=BfQTrXMQ@mail.gmail.com>
+Subject: =?UTF-8?B?R3LDvMOfZSBGcmV1bmQ=?=
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 1293
+
+Guten Tag,
+
+
+Es tut mir leid, Sie in dieser Angelegenheit ohne Ihre vorherige
+Zustimmung zu kontaktieren. Es war wegen der Dringlichkeit der Dinge.
+
+Ich bin Auguste AMAGA, ein Rechtsanwalt, und der pers=C3=B6nliche Anwalt
+von  ein verstorbener Kunde aus Ihrem Land. Ich w=C3=BCrde gerne wissen, ob
+wir zusammenarbeiten k=C3=B6nnen?
+
+Seit dem Tod meines Mandanten ruht sein Fonds im Wert von 11,5
+Millionen US-Dollar [elf Millionen und f=C3=BCnfhunderttausend Dollar] in
+der Bank meines Landes. Die Bank hat mir eine Mitteilung gemacht, um
+die n=C3=A4chsten Angeh=C3=B6rigen f=C3=BCr die Forderung der Fonds zu pr=
+=C3=A4sentieren,
+andernfalls werden die Gelder beschlagnahmt.
+
+Der Verstorbene starb bei einem Autounfall mit seiner ganzen Familie.
+Ich habe mich mit Ihnen in Verbindung gesetzt, weil Sie den gleichen
+Familiennamen wie der Verstorbene haben, deshalb, k=C3=B6nnen Sie an die
+Bank als mein verstorbener Kunde n=C3=A4chsten Angeh=C3=B6rigen vorgestellt
+werden. Mit meiner Unterst=C3=BCtzung als der verstorbene pers=C3=B6nliche
+Anwalt, k=C3=B6nnen Sie von der Bank genehmigt werden und das Geld wird
+Ihnen freigegeben werden.
+
+Ich freue mich auf Ihre Antwort, wenn Sie interessiert sind und ich
+werde Ihnen weitere Details senden.
+
+Mit freundlichen Gr=C3=BC=C3=9Fen,
+
+Auguste Esq.

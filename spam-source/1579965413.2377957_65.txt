@@ -1,0 +1,75 @@
+Return-Path: <SRS0=XxLYrq=3O=sups99.com=bird@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2499 invoked from network); 25 Jan 2020 13:53:46 -0000
+Received: (qmail 32121 invoked from network); 25 Jan 2020 13:53:45 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 13:53:45 -0000
+Received: (qmail 21832 invoked by uid 48516); 25 Jan 2020 13:53:43 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29679 invoked from network); 25 Jan 2020 13:53:43 -0000
+Received: from sups99.com (69-94-130-174.nca.lanset.com [69.94.130.174])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 25 Jan 2020 13:53:43 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=sups99.com; s=dkim;
+	t=1579958008; bh=UrYgQBV+U2AD8POZ818C2wCz9C4=;
+	h=Subject:From:Message-ID:Date:To;
+	b=PvUxFMA4k4/84XkNdKdX8T2cxIiCSUUQTsuDQiWRk/Tjj1R31S4WSpJq2q3ljLcoi
+	 9v/5VxhK4RIqm2y+y0f9ULJdufFAMoKwrOhiphkqJu07sQIWdoixaLBmMS2DuKdP74
+	 Rn2AX1tSnKYKSKpNeSFSuzHcCs0TR1qjy78Zb7Sw=
+Subject: Tactical Flashlight 100% Free Today* Only pay shipping 
+From: "Caveman Chris" <bird@sups99.com> 
+Message-ID: <keo0X9F3N69Umij.uoa3ALPXO68Atfl@sups99.com> 
+Date: Sat, 25 Jan 2020 08:13:28 -0500 
+To: "bruce@untroubled.org" <bruce@untroubled.org> 
+List-Unsubscribe: <http://mreT4NTJX55Bure.sups99.com/19887cede6964a76076e59b11_f83e2c5e/3/> 
+MIME-Version: 1.0 
+Content-type: multipart/alternative; boundary="---=_Part_13_329R53.PMW0";
+Content-Length: 1734
+
+-----=_Part_13_329R53.PMW0
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Tactical Flashlight 100% Free Today* Only pay shipping
+
+http://cnqKKL70871Uqib.sups99.com/2084be4a62264a76076e59b116c41317_f83e2c5e-010109050001/1/
+
+Tactical Flashlight 100% Free Today* Only pay shipping
+
+-----=_Part_13_329R53.PMW0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td colspan='2' align='center' valign='middle' class='preview-mid'>
+          <br>
+          <center>
+            <a href="http://rkjRL0LJ1334jxk.sups99.com/2084be4a62264a76076e59b116c41317_f83e2c5e-010109050001/1/"><img src="http://assets.rmvme.com/9699025717e586356365ad52a8e11684" border="0" alt=""></a>
+          </center>
+          <div align="center">
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+            If you'd prefer not to receive future emails, <a href="http://fkaSQOFEC9HDxrc.sups99.com/2082e831a9a64a76076e59b116c51317_f83e2c5e-010109050001/1/"><font color="#666666">Unsubscribe Here</font></a>.<br>
+            3335 S. Airport Rd, Traverse City, Michigan, US 49684</font>
+          </div>
+        </td>
+      </tr>
+    </table>
+
+  </body>
+</html>
+
+<center>
+
+
+<font face=verdana size=1>purge my email from your index <a href='http://mklJS847E3WPkdr.sups99.com/19887cede6964a76076e59b11_f83e2c5e/U/7188'>here</a> <br> 1500 Beville Rd STE 606 Box 10009, Daytona Beach, FL 32114
+<img src="http://wpr9TRPK1W6Ylux.sups99.com/2082c2b4e1764a76076e59b116148e0b_f83e2c5e-010109050001/2/">
+
+-----=_Part_13_329R53.PMW0--

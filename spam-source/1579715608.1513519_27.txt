@@ -1,0 +1,147 @@
+Return-Path: <SRS0=hr/5G2=3L=mail.backprotect.us=6810-2982-85526-1816-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 26161 invoked from network); 22 Jan 2020 11:35:28 -0000
+Received: (qmail 25889 invoked from network); 22 Jan 2020 11:35:27 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 11:35:27 -0000
+Received: (qmail 21827 invoked by uid 48516); 22 Jan 2020 11:35:26 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29664 invoked from network); 22 Jan 2020 11:35:26 -0000
+Received: from zoar.backprotect.us ([170.130.174.39])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 22 Jan 2020 11:35:26 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=backprotect.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=MedicalHelp@backprotect.us;
+ bh=aIPijavnt94jZf/m4G4Jb2ggOTI=;
+ b=jkPSLuXwDEH024KLLd4jbSh1FJS/dgHZk5nKdgb6TtMpq7sHFquRYYRNMbIMNC6qzRvNmK2ohQDZ
+   3/uSEac+5L35ssXK0vo9GDTq8UqEhwV4Xb6YUHHs0Om49x+lwgA7LjqLE1+gf+k2WpP7QdRMy97p
+   lhOHr+5n+v2+dxyIPU0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=backprotect.us;
+ b=oPGcykKbECdx7GiRWvpgQj5k/frA5QM9b+m/ZePycPC3I26af6rNeLSU99svWPOoEkv2h0sehAav
+   PsimcN4JBuiKqNSqPotp60ba7pot53eNHBMHalNJ+gBRufxSoXj6LOCb4vKx8xk+EJ2zFgAzQwrf
+   V2rhtk/mYpgxmy9UGtA=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="2be61cf5bd74e3e924aeb1901b806bf6_ba6_14e16"
+Date: Wed, 22 Jan 2020 06:22:45 -0500
+From: "Backhero" <MedicalHelp@backprotect.us>
+Reply-To: "Medical Help" <MedicalHelp@backprotect.us>
+Subject: Don't spend a ton of hard-earned money on made up back pain solutions
+To: <bruce@untroubled.org>
+Message-ID: <a8ve2u66f4qozqvp-dundokjzelty083b-ba6-14e16@backprotect.us>
+Content-Length: 6019
+
+--2be61cf5bd74e3e924aeb1901b806bf6_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Don't spend a ton of hard-earned money on made up back pain solutions
+
+http://backprotect.us/UWczVklL6lbSXHtU6tF6pnhqd6i35vtH6QLg8jFGF0H0-Rn-
+
+http://backprotect.us/4cXpLosOlab0YAAP8jMG0ri2Bnj3BPVXTM29iq9lfcc94sN3
+
+Air control
+
+Nirvikalpa Samadhi, Proximity to Brahma, Trikalagalyta, Doordarshan, Kalnagna, Time Control, such as Time Travel
+
+Telepathy, foreign entry (entering the living or dead body of another)
+
+Knowledge of the action of cosmic intersection, going into different planets, stars, realms, and multiverse, entering 26 dimensions, watching the above-mentioned places from a distance
+
+To see the invisible, the philosophy of Goddesses, rejuvenation, attracting all, the pace of mind, the meditation and manifestation,
+
+Hypnotism
+
+    5 vishuddh chakra *
+
+Sky control
+
+The establishment of Saraswati, which has knowledge of ancient and modern science
+
+The ability to betray, curse and boast Knowledge of entire texts Literature composition, stream flow discourse, Song music and dance art To hold many bodies like yours or different
+
+On the other hand, Hanuman ji swallowed the sun upon the desire to make the body bigger by the desire.
+
+Knowing the subtle mysteries of the universe,
+
+Revealing any substance from zero, turning one thing into another,
+
+Change of form, philosophy of brahman
+
+Euthanasia (immortality), hypnosis and hipnotism
+
+    6. Agya chakra *
+
+Control over the whole universe
+
+Devour someone
+
+Awakening of ternate
+
+To give someone infinite powers, to make their own, to make the unsuccessful success, to remove all types of rays, such as power rays, xray vision, becoming like God, attaining Brahmana
+
+    7. Sahasrara Chakra *
+
+Control over entire universes (multiverses)
+
+Ability to compose, follow, and destroy the universe
+
+To be equal to Parabrahma, infinite power, nature is adorned for obedience
+
+--2be61cf5bd74e3e924aeb1901b806bf6_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div style="width:570px; text-align:left; font-family:arial; padding:20px;">&nbsp;
+<h1><a href="http://backprotect.us/UWczVklL6lbSXHtU6tF6pnhqd6i35vtH6QLg8jFGF0H0-Rn-" style="color:#46A412;"><span style="color:#FF0000;">Easy to wear, Comfortable to use and it could be your answer to back pain</span></a></h1>
+
+<center><a href="http://backprotect.us/UWczVklL6lbSXHtU6tF6pnhqd6i35vtH6QLg8jFGF0H0-Rn-"><img src="http://backprotect.us/569421f3a4bfa55b4a.png" /></a><br />
+&nbsp;</center>
+<a href="http://backprotect.us/UWczVklL6lbSXHtU6tF6pnhqd6i35vtH6QLg8jFGF0H0-Rn-"><b>Back pain and posture problems are not issues to be fixed only with medication,</b></a> but for some reason it keeps on getting recommended as the only option. BackHero, on the other hand, is a high quality product, which chiropractors have been using and recommending for years.<br />
+<br />
+It fixes the line of the spine and relieves back pain which you might have been suffering for years.<br />
+<br />
+Our researchers, who spend hours sitting with bad posture on their computers, were very excited to <a href="http://backprotect.us/UWczVklL6lbSXHtU6tF6pnhqd6i35vtH6QLg8jFGF0H0-Rn-"><b>try BackHero themselves.</b></a> Instead of giving just a list of possible benefits, they decided to list the advantages, which they really experienced.<br />
+<br />
+As a result, the potential customers of this product really get a sight of what positive things can be expected.<br />
+<br />
+Things we noticed within a week:<br />
+<br />
+<i>&gt;&gt; Reduced back and neck pain<br />
+&gt;&gt; Automatically straightened posture<br />
+&gt;&gt; Extremely comfortable to use</i><br />
+<br />
+<span style="font-size:18px;"><a href="http://backprotect.us/UWczVklL6lbSXHtU6tF6pnhqd6i35vtH6QLg8jFGF0H0-Rn-" style="color:#46A412;"><span style="color:#FF0000;"><b>Click here to find out how Backhero can solve your back pain.</b></span></a></span></div>
+</center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://backprotect.us/s_-Y9uLikRQhmRIpdTc4f5-x9ZQxe5CkqKNfYQabqdMIfuEM"><img src="http://backprotect.us/aa52fd182019e06155.jpg" /></a></center>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Air control Nirvikalpa Samadhi, Proximity to Brahma, Trikalagalyta, Doordarshan, Kalnagna, Time Control, such as Time Travel Telepathy, foreign entry (entering the living or dead body of another) Knowledge of the action of cosmic intersection, going into different planets, stars, realms, and multiverse, entering 26 dimensions, watching the above-mentioned places from a distance To see the invisible, the philosophy of Goddesses, rejuvenation, attracting all, the pace of mind, the meditation and manifestation, Hypnotism 5 vishuddh chakra * Sky control The establishment of Saraswati, which has knowledge of ancient and modern science The ability to betray, curse and boast Knowledge of entire texts Literature composition, stream flow discourse, Song music and dance art To hold many bodies like yours or different On the other hand, Hanuman ji swallowed the sun upon the desire to make the body bigger by the desire. Knowing the subtle mysteries of the universe, Revealing any substance from zero, turning one thing into another, Change of form, philosophy of brahman Euthanasia (immortality), hypnosis and hipnotism 6. Agya chakra * Control over the whole universe Devour someone Awakening of ternate To give someone infinite powers, to make their own, to make the unsuccessful success, to remove all types of rays, such as power rays, xray vision, becoming like God, attaining Brahmana 7. Sahasrara Chakra * Control over entire universes (multiverses) Ability to compose, follow, and destroy the universe To be equal to Parabrahma, infinite power, nature is adorned for obedience </span></body>
+</html>
+
+--2be61cf5bd74e3e924aeb1901b806bf6_ba6_14e16--
+

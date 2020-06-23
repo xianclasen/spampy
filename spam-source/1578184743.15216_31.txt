@@ -1,0 +1,90 @@
+Return-Path: <SRS0=SULKHk=2X=feerlic.buzz=canvas_prints_affiliate-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 17233 invoked from network); 2 Jan 2020 18:55:18 -0000
+Received: (qmail 11650 invoked from network); 2 Jan 2020 18:55:17 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 18:55:17 -0000
+Received: (qmail 31461 invoked by uid 48516); 2 Jan 2020 18:55:17 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 18171 invoked from network); 2 Jan 2020 18:55:15 -0000
+Received: from mail.feerlic.buzz ([91.228.101.173])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 02 Jan 2020 18:55:14 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=feerlic.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas_prints_affiliate@feerlic.buzz;
+ bh=pFB/Dz89ColsT8o+3QgfH7c68MU=;
+ b=vJ3f+JObD7IQ/S1UngCwnjqea6eZ5nbS8xxDPqqFTpX/ULBclg3RjJB8ojGE4BwULUq9XRe0PeKP
+   C3STS/Ge+W9gNCmfGdxh71zBFzSBO8qYVX+zi8zAbxonGcj+nKabrXp0gXJG9iqL+jwDbzAkfF9q
+   CSraKrj7A5deqxSZ6Lw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=feerlic.buzz;
+ b=ecj4VE/1goXHisg2/sHyARTlUbdDDjQqT6k4dL/7nBMncNpU0L8uVI1smY66daq1JAeltVJeWhiR
+   zxXsIvZlgPpi5QnjGcER7N7cKhU64MGGEgSYaOsA1ggeYEWuQql6AhvJV9xgQuPU02hrTvj0Mtcl
+   0YHjnnqg/L81UNWLORk=;
+Received: by mail.feerlic.buzz id h1ou960001g8 for <bruce@untroubled.org>; Thu, 2 Jan 2020 13:51:20 -0500 (envelope-from <canvas_prints_affiliate-bruce=untroubled.org@feerlic.buzz>)
+Date: Thu, 2 Jan 2020 13:51:20 -0500
+From: "Canvas Prints Affiliate" <canvas_prints_affiliate@feerlic.buzz>
+To:   <bruce@untroubled.org>
+Subject: Add to your Fall Collection: Up to 93% OFF Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_337_732889432.1577991068339"
+List-Unsubscribe: <http://www.feerlic.buzz/displace/7b06S23U9B5zmm8913U1l1nYKi19bbY21XFv4GIf4rxvs4FhIHEsvZ10NQ.RdKRovK6p1I0DZ6S@zHTi>
+Message-ID: <0.0.0.25.1D5C19D9F2F63B0.3607@mail.feerlic.buzz>
+Content-Length: 3803
+
+------=_Part_337_732889432.1577991068339
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>littering Mickie</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.feerlic.buzz/dc74k2395t8D6O12u701oej19bbF21iFv4GIf4rxvs4FhIHEsvZ10lQ.RdKRovK6LSr10Y6F@H@iy/Montmartre">=
+2020 BEST SALE EVER 93% off&nbsp; </a></span></span><br /> <br /> <a href=
+=3D"http://www.feerlic.buzz/dc74k2395t8D6O12u701oej19bbF21iFv4GIf4rxvs4FhIHEsvZ10lQ.RdKRovK6LSr10Y6F@H@iy/Montmartre"><img alt=3D"easy canvas" src=3D"http://www.feerlic.buzz/Montmartre/ada4q2395d7aqp13gNi7021F19bbp21vFv4GIf4rxvs4FhIHEsvZ10CQ.RdKRovK6RoUq106kA@pHi" style=3D"width=
+: 655px; height: 721px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Press <a href=
+=3D"http://www.feerlic.buzz/Montmartre/62a6a23Y9s5Cj8N613Mlp701fN19bbs21BFv4GIf4rxvs4FhIHEsvZ10CQ.RdKRovK5JAp106zBHJiq">HERE </a><br /> Or Write to: 11525A Stonehollow Dr. Suite 1=
+00 Austin, TX 78758<br /> <br /> 6547 N Academy Blvd #2128<br /> COLORADO S=
+PRINGS CO 80918<br /> &nbsp; Quit <a href=3D"http://www.feerlic.buzz/d8b4m2395QK8L913FU7Z020M19bbF21EFv4GIf4rxvs4FhIHEsvZ10rQ.RdKRovK6e1N0hU5aN1Hi/displace">Here</a><b=
+r /> <br /> <br /> <span face="symbolically"><font style="midstream"></span></font><font dir="ranked"><style color="threatened"></style></font><span lang="judged"></span></span></span><br /> <br /> <span sty=
+le=3D"color:#FFFFFF; ">Mysterious drones have been flying over Colorado and=
+ Nebraska in recent weeks and authorities can' t figure out who' s behind t=
+he aircraft. Deputies have spotted more than 16 unmanned drones flying in n=
+ortheast Colorado after authorities received multiple reports of drone sigh=
+tings last month, the sheriff' s offices in Colorado' s Yuma and Phillips c=
+ounties said. FAA spokesman Ian Gregor told CNN that multiple FAA divisions=
+ and government agencies are investigating reports of drones in Colorado an=
+d Nebraska. Yuma County Sheriff Todd Combs said in a Facebook post Tuesday =
+it appears the drones were staying at least 150-200 feet away from building=
+s and people and are flying in airspace controlled by the federal governmen=
+t. The aircraft, Combs said, are operating within federal guidelines but ar=
+e making residents &quot; very nervous and anxious.&quot; &quot; People do =
+not like the unknown as it upsets the balance of our lives,&quot; Combs wro=
+te. Yuma and Phillips county officials have said they don' t believe the dr=
+ones are malicious in nature. &quot; There are many theories about what is =
+going on, but at this point, that' s all they are. I think we are all feeli=
+ng a little bit vulnerable due to the intrusion of our privacy that we enjo=
+y in our rural community, but I don' t have a solution or know of one right=
+ now. All I can say is don' t live your life in the fear of the unknown,&qu=
+ot; the sheriff wrote.</span><br /> <br /> <br /> &nbsp; </p>=20
+  </center> <span lang="Sophocles"><style><small></span></small><span></style></span><style face="Morris"></style><big></big><font></font><span dir="Horace"></span><font class="narrows"><big></font></big> =20
+ <img src=3D"http://www.feerlic.buzz/dishes/a086iy23B95FXL8512H70G22L19bbZ21qFv4GIf4rxvs4FhIHEsvZ10LQ.RdKRovK7nNQBR106QTJ@Hi" alt=3D""/></body>
+</html>
+
+------=_Part_337_732889432.1577991068339--
+

@@ -1,0 +1,246 @@
+Return-Path: <SRS0=flrIj+=3N=giradj.monster=tenharmsel_jacquelyn-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 16445 invoked from network); 24 Jan 2020 20:08:19 -0000
+Received: (qmail 21917 invoked from network); 24 Jan 2020 20:08:18 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 20:08:18 -0000
+Received: (qmail 472 invoked by uid 48516); 24 Jan 2020 20:08:17 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 17052 invoked from network); 24 Jan 2020 20:08:17 -0000
+Received: from mail.giradj.monster ([193.201.140.172])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 24 Jan 2020 20:08:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=giradj.monster;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=tenharmsel_jacquelyn@giradj.monster;
+ bh=OmeBlo+uYU4RyKBeYbQVHDxzr9U=;
+ b=E4234ev2HDvtWJm+KsPg21LcDlJ9+Pl9HTKnoydOPZyshKfjT7x00DER8QTNN0fokEgn9h0rZVz0
+   D//ErKXMDzCJUDugQ0Bpil0K9jdONOjcoFyMyG2Y3cmfeFg5BScuyXkqUsDQtmB8UdmNUZ9s8fM5
+   uZOpxotjUhCqdCrepbY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=giradj.monster;
+ b=eYdaYPyWd7PC6hBOoHH1n0AQgGGViXAfg5+cIU/u22Gk7H1hzEMHOnybu+ErXRd+5+5BmVzRy9U9
+   WKUxegIv6v2iufq0dVhHL7PcnnXuZI8zxvd8tUkTQBz8TSTae24qvF1DrdFwSY1+yms/DN7Nl3w9
+   nX8gABFuvKo81xjyDUw=;
+Received: by mail.giradj.monster id h5d7au0001gr for <bruce@untroubled.org>; Fri, 24 Jan 2020 15:01:44 -0500 (envelope-from <tenharmsel_jacquelyn-bruce=untroubled.org@giradj.monster>)
+Date: Fri, 24 Jan 2020 15:01:44 -0500
+From: Jacquelyn Tenharmsel <tenharmsel_jacquelyn@giradj.monster>
+To:   <bruce@untroubled.org>
+Subject: ATTN: Important NEW reward info (inside)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_187_1887473486.1579896086030"
+List-Unsubscribe: <http://www.giradj.monster/2ff6i2Lg395d8q9t12t1A1jzk1a8at21lFv4GIf4rxvs4FhIHEsvZ10HQpRSomo0e5AMX106dWHJiB/lexically-Juliet>
+Message-ID: <0.0.0.14.1D5D2F119FB6F44.57F0C3@mail.giradj.monster>
+Content-Length: 11970
+
+------=_Part_187_1887473486.1579896086030
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>maximally</title>=20
+ </head>=20
+ <body>=20
+  <table bgcolor=3D"#EAEDED" cellpadding=3D"0" class=3D"body-wrap" style=3D=
+"border-collapse: collapse !important; caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-family: sans-serif; font-style: normal; font-variant-caps:=
+ normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-a=
+lign: start; text-indent: 0px; text-transform: none; white-space: normal; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; background-color: rgb(234, 237, 237); text-decoration:=
+ none; box-sizing: border-box; width: 1223px; margin: 0px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" colspan=3D"3">&nbsp; <a href=3D"http://www.giradj.monster/e994H2395K8X6s13k7S43cpx1a8am21JFv4GIf4rxvs4FhIHEsvZ10zQpRSomo0e7zv1T0py6olBJHi/decorative-relegates" style=
+=3D"font-family: sans-serif; color: rgb(178, 9, 16); text-decoration: under=
+line; font-size: 16px; padding: 0px; margin: 0px; line-height: 22px; "><spa=
+n style=3D"color: rgb(178, 9, 16); text-decoration: underline; ">Tap Here t=
+o Claim Your Special Prize</span></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td class=3D"container" style=3D"font-family: sans-serif; box-sizing: =
+border-box; vertical-align: top; margin: 0px auto; border-top-left-radius: =
+5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-=
+bottom-left-radius: 5px; -webkit-box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2=
+px 7px 0px; box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 7px 0px; display: =
+block !important; max-width: 600px !important; clear: both !important; " va=
+lign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"box-sizing: border-box; max-width: 60=
+0px; display: block; margin: 0px auto; ">=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der-collapse: collapse !important; text-align: center; " width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"border-top-left-radius: 5px; border=
+-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left=
+-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td align=3D"center" colspan=3D"3"><a href=3D"http://www.giradj.monster/e994H2395K8X6s13k7S43cpx1a8am21JFv4GIf4rxvs4FhIHEsvZ10zQpRSomo0e7zv1T0py6olBJHi/decorative-relegates"><im=
+g alt=3D"Claim your special prize!" src=3D"http://www.giradj.monster/4fd6bF239C5C7amx13q74K3eZl1a8aw21YFv4GIf4rxvs4FhIHEsvZ10nQpRSomo0e7rXhzU105aBHiU/courtiers-electrically" style=3D"border: 0p=
+x none; line-height: 16px; max-width: 600px; outline: currentcolor none 0px=
+; text-decoration: none; display: block; width: 593px; " /></a></td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+         <tr>=20
+          <td align=3D"center" style=3D"background-color: rgb(255, 255, 255=
+); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom=
+-right-radius: 5px; border-bottom-left-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"24" style=3D"height: 24px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a class=3D"title" href=3D"http://www.giradj.monster/e994H2395K8X6s13k7S43cpx1a8am21JFv4GIf4rxvs4FhIHEsvZ10zQpRSomo0e7zv1T0py6olBJHi/decorative-relegates" sty=
+le=3D"font-family: sans-serif; color: rgb(178, 9, 16); text-decoration: non=
+e; font-size: 26px; font-weight: 400; padding: 0px; margin: 0px; line-heigh=
+t: 32px; "><span class=3D"subtitle" style=3D"color: rgb(178, 9, 16); text-d=
+ecoration: none; ">Congratulations Walgreens Shopper!</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><span style=3D"font-family:georgia,serif; =
+"><a href=3D"http://www.giradj.monster/e994H2395K8X6s13k7S43cpx1a8am21JFv4GIf4rxvs4FhIHEsvZ10zQpRSomo0e7zv1T0py6olBJHi/decorative-relegates" style=3D"font-family: sans-serif; color: rgb(68, 6=
+8, 68); text-decoration: none; font-size: 18px; padding: 0px; margin: 0px; =
+line-height: 24px; "><span style=3D"color: rgb(68, 68, 68); text-decoration=
+: none; ">You have been selected to <span style=3D"color: rgb(178, 9, 16); =
+text-decoration: underline; ">participate in our giveaway</span>. You could=
+ win a <b>$1000 Walgreens Gift Card</b>, <b>Apple iPhone X</b>, <b>Apple Wa=
+tch</b>, and other prizes in just one spin.</span></a></span></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.giradj.monster/e994H2395K8X6s13k7S43cpx1a8am21JFv4GIf4rxvs4FhIHEsvZ10zQpRSomo0e7zv1T0py6olBJHi/decorative-relegates" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 26px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">But hurry! The giveaway ends soon!=
+</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"20" style=3D"height: 20px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left">=20
+               <div>
+                <a class=3D"button" href=3D"http://www.giradj.monster/e994H2395K8X6s13k7S43cpx1a8am21JFv4GIf4rxvs4FhIHEsvZ10zQpRSomo0e7zv1T0py6olBJHi/decorative-relegates" style=3D"border-top=
+-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius=
+: 4px; border-bottom-left-radius: 4px; color: rgb(255, 255, 255); backgroun=
+d-color: rgb(178, 9, 16); display: inline-block; font-family: sans-serif; f=
+ont-size: 18px; font-weight: bold; line-height: 62px; text-align: center; t=
+ext-decoration: none; width: 312px; ">Try Here To Participate</a>
+               </div> </td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.giradj.monster/e994H2395K8X6s13k7S43cpx1a8am21JFv4GIf4rxvs4FhIHEsvZ10zQpRSomo0e7zv1T0py6olBJHi/decorative-relegates"><img alt=3D"Hurry! =
+This givewaway ends soon!" src=3D"http://www.giradj.monster/13d6el23R95d7aDY11k743fC1a8aZ21rFv4GIf4rxvs4FhIHEsvZ10MQpRSomo0e6Snm1U05IAHUi/occupations-Tuttle" style=3D"border: 0px none; l=
+ine-height: 16px; max-width: 211px; outline: currentcolor none 0px; text-de=
+coration: none; display: block; width: 211px; " /></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"32" style=3D"height: 32px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" class=3D"container" style=3D"margin: 0px auto; di=
+splay: block !important; max-width: 600px !important; clear: both !importan=
+t; " valign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"max-width: 600px; display: block; mar=
+gin: 0px auto; padding: 0px; ">=20
+       <table cellpadding=3D"0" cellspacing=3D"0" class=3D"main" style=3D"b=
+order-collapse: collapse !important; font-family: sans-serif; margin: 0px; =
+" width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"font-size: 13px; color: rgb(102, 10=
+2, 102); "><a href=3D"http://www.giradj.monster/3ef5s239p5u89HS11R743dZ1a8aM21JFv4GIf4rxvs4FhIHEsvZ10rQpRSomo0e5c1H0y6yzpjHi/unfaithful-McCann">Go Here to unsub&nbsp; </a><br />=
+ <br /> <span style=3D"font-style: normal; font-variant-caps: normal; font-=
+weight: normal; letter-spacing: normal; orphans: auto; text-align: center; =
+text-indent: 0px; text-transform: none; white-space: normal; widows: auto; =
+word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-widt=
+h: 0px; text-decoration: none; caret-color: rgb(128, 128, 128); color: rgb(=
+128, 128, 128); font-family: Helvetica; font-size: 11px; float: none; displ=
+ay: inline !important; ">13395 Voyager Pkwy Ste 130 #634</span><span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(72, 72, 72); font-family: Ubuntu,=
+ Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-va=
+riant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: a=
+uto; text-align: center; text-indent: 0px; text-transform: none; white-spac=
+e: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto;=
+ -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text=
+-decoration: none; display: inline !important; float: none; "> </span><br s=
+tyle=3D"caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: n=
+ormal; font-weight: normal; letter-spacing: normal; orphans: auto; text-ali=
+gn: center; text-indent: 0px; text-transform: none; white-space: normal; wi=
+dows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text=
+-stroke-width: 0px; text-decoration: none; font-family: Helvetica; color: r=
+gb(0, 0, 0); font-size: 12px; " /> <span style=3D"caret-color: rgb(0, 0, 0)=
+; font-style: normal; font-variant-caps: normal; font-weight: normal; lette=
+r-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; tex=
+t-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -w=
+ebkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decorati=
+on: none; color: rgb(128, 128, 128); font-family: Helvetica; font-size: 11p=
+x; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</sp=
+an></td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+   </tbody>=20
+  </table> <style><span></span><span><span color="catered"><font id="workbenches"></font></span><font id="frequents"></font></style></span><small><font></font></small> =20
+ <img src=3D"http://www.giradj.monster/3954B2395R8Q5u13F744q0Il1a8aw21mFv4GIf4rxvs4FhIHEsvZ10zQpRSomo0e5y1Gp06e@HWi3/oversubscribed-liberated" alt=3D""/></body>
+</html>
+
+------=_Part_187_1887473486.1579896086030--
+

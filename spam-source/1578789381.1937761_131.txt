@@ -1,0 +1,77 @@
+Return-Path: <SRS0=Y0I3MH=27=zarsatrix.date=ringing_ears-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 25599 invoked from network); 10 Jan 2020 21:40:13 -0000
+Received: (qmail 9784 invoked from network); 10 Jan 2020 21:40:13 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 21:40:13 -0000
+Received: (qmail 697 invoked by uid 48516); 10 Jan 2020 21:40:12 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 23400 invoked from network); 10 Jan 2020 21:40:12 -0000
+Received: from mail.zarsatrix.date ([144.172.80.121])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 10 Jan 2020 21:40:02 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=zarsatrix.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=ringing_ears@zarsatrix.date;
+ bh=ToAjvtpMb4NEPUbHAdXO07+RKw8=;
+ b=Z7jzhp/edQFw8XxhcLsKvHOKbhcumtB921pCgD0djGnNmBX+Aq/VKBWMKTvOpe9ydNl7CCoeZ9XR
+   DvPHTuTfap5oKMnXTZhBzxqxhMGi09KvFRRNNylV8JUJjJ0e+aKPFltVFXFth4EXERPsGOuTeL0a
+   gf3pJMRumXJhaP4oFGo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=zarsatrix.date;
+ b=SoNVJdeMPSgUcUckeUlBISlfKgmXY8/mev59YnC5pEEAlcwywHtYJQKo+gtKgMy40KL0Est6MJbH
+   JIIsvqskJqn1pGo27ZnsIicMsXYatXDAXoLU6t5N65bkuQk1wgTATjbTiGnkD1iwTFa5h4vNi5fl
+   Cw3fj31hxpS840sCt8I=;
+Received: by mail.zarsatrix.date id h33nj80001gc for <bruce@untroubled.org>; Fri, 10 Jan 2020 16:29:23 -0500 (envelope-from <ringing_ears-bruce=untroubled.org@zarsatrix.date>)
+Date: Fri, 10 Jan 2020 16:29:23 -0500
+From: "Ringing Ears" <ringing_ears@zarsatrix.date>
+To:   <bruce@untroubled.org>
+Subject: Eat THIS Before Bed to Reverse Tinnitus & Buzzing/Ringing-Ears?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_73_846857501.1578691745526"
+List-Unsubscribe: <http://www.zarsatrix.date/3775Y2S395er89g11wt1S1y349fU21HFv4GIf4rxvs4FhIHEsvZ11BRVndneKo.96m1sxl05KlcYX/marina-Datamation>
+Message-ID: <0.0.0.9.1D5C7FD06BFEEA4.529149@mail.zarsatrix.date>
+Content-Length: 7331
+
+------=_Part_73_846857501.1578691745526
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>unraveled</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.zarsatrix.date/bobs-reread/4eM5m23V95IF8O612ge9cA5H349fZ21XFv4GIf4rxvs4FhIHEsvZ11pRVndneKo.96u1_FQ06s2lkcY" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.zarsatrix.date/d8b5I239B5LC7aC13HeNO9c8B349fh21IFv4GIf4rxvs4FhIHEsvZ11YRVndneKo.95vvP106eq1WcY/heterogeneous-piggybacked" style="border-width: 0px; border-style: solid; width: 81%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.zarsatrix.date/bobs-reread/4eM5m23V95IF8O612ge9cA5H349fZ21XFv4GIf4rxvs4FhIHEsvZ11pRVndneKo.96u1_FQ06s2lkcY">Do THIS &quot; east 10 second trick&quot; to restore your hearing</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.zarsatrix.date/a076dyj2395F86kz11ke9c6Q349f_21KFv4GIf4rxvs4FhIHEsvZ11GRVndneKo.97bnsT10i5G2cBY/refuels-skewer"><font color="#666666">Stop mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.zarsatrix.date/c9b5S2p395d89RQ11ne9c7z349fT21FFv4GIf4rxvs4FhIHEsvZ11iRVndneKo.97glmTW106qJcqYk/marina-Datamation">Opt out&nbsp; Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">6547 N Academy Blvd #2128</span>
+    <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</span>
+    <br /> &nbsp; 
+   </div> <font face="collection"></font><font lang="blooper"></font><font face="simplifications"><small></small></font><big></big>
+  </center>   
+ <img src="http://www.zarsatrix.date/bobs-reread/17a4z2395v85_L12Fe9cD9D349fB21bFv4GIf4rxvs4FhIHEsvZ11QRVndneKo.95d1g0q6D@MUcY" alt=""/></body>
+</html>
+
+------=_Part_73_846857501.1578691745526--
+

@@ -1,0 +1,58 @@
+Return-Path: <BlinkanAmazonCompany-bruce=untroubled.org@jonava.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27157 invoked from network); 16 Jan 2020 17:34:18 -0000
+Received: (qmail 32749 invoked from network); 16 Jan 2020 17:34:17 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Jan 2020 17:34:17 -0000
+Received: (qmail 5096 invoked by uid 48516); 16 Jan 2020 17:34:16 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31428 invoked from network); 16 Jan 2020 17:34:16 -0000
+Received: from sawaynprohaska.jonava.org (sawaynprohaska.jonava.org [104.168.202.152])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 16 Jan 2020 17:34:16 -0000
+Received: by marvin.jonava.org id h42f9g0001gg for <bruce@untroubled.org>; Thu, 16 Jan 2020 17:20:02 +0000 (envelope-from <BlinkanAmazonCompany-bruce=untroubled.org@jonava.org>)
+Date: Thu, 16 Jan 2020 17:20:02 +0000
+From: Blink an Amazon Company <BlinkanAmazonCompany@jonava.org>
+Reply-To: BlinkanAmazonCompany@jonava.org
+To: bruce@untroubled.org
+Message-Id: <9fe86a6a-84e0-49fd-b861-11f63a45e2e7@jonava.org>
+Subject: =?utf-8?B?UGVhY2UgT2YgTWluZCwgV2hlbiBZb3UncmUgTm90IEhvbWU=?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-a54b5c81df354ba9d1e952__50fad097f55c_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 1451
+
+---_-_-a54b5c81df354ba9d1e952__50fad097f55c_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-a54b5c81df354ba9d1e952__50fad097f55c_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHA+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJwdDsiPkFzIFNlZW4gT24gVFYgQmxpbmsgYW4g
+QW1hem9uIENvbXBhbnkgLSBHZXQgUGVhY2Ugb2YgTWluZCBXaXRoIFRoZSBCbGluayBDb21wbGV0
+ZSBIb21lIFBhY2thZ2U8L3NwYW4+PC9wPgo8cD48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0
+OyI+RG8geW91IHdpc2ggeW91IGNvdWxkIHNlZSB3aGF0J3MgZ29pbmcgb24gYXQgaG9tZSB3aXRo
+b3V0IGJlaW5nIHRoZXJlPyBCbGluayBIb21lIFNlY3VyaXR5IGNhbiBoZWxwISBLZWVwIHlvdXIg
+aG9tZSBzYWZlIHdpdGggQmxpbmsgSG9tZSBTZWN1cml0eS4gQmxpbmsgaGFzIG1vdGlvbi1hY3Rp
+dmF0ZWQgY2FtZXJhcyBzbyB5b3UncmUgYWxlcnRlZCB0aGUgbW9tZW50IHNvbWV0aGluZyBoYXBw
+ZW5zLCBzZW5kaW5nIG1vYmlsZSBhbGVydHMgc3RyYWlnaHQgdG8geW91ciBwaG9uZS48L3NwYW4+
+PC9wPgo8cD48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+PGEgaHJlZj0iaHR0cDovL2pv
+bmF2YS5vcmcvdF9abFJWY3M3Q3NRIj5MZWFybiBNb3JlPC9hPjwvc3Bhbj48L3A+CjxwPjxzcGFu
+IHN0eWxlPSJmb250LXNpemU6IDEycHQ7Ij5JZiB5b3Ugd291bGQgbGlrZSB0byByZW1vdmUgeW91
+cnNlbGYgZnJvbSB0aGlzIGVtYWlsIGxpc3QsIHBsZWFzZSA8YSBocmVmPSJodHRwOi8vam9uYXZh
+Lm9yZy9wRGRwVlpnd19HQUkiPiZuYnNwOzwvYT48YSBocmVmPSJodHRwOi8vam9uYXZhLm9yZy9T
+bUFNNDhEVGlwVDciPkNsaWNrIEhlcmU8L2E+Jm5ic3A7QmxpbmsgLSBQTyBCb3ggNDA3NyBCcm9h
+ZGxhbmRzLCBWQSAyMDE0ODwvc3Bhbj48L3A+
+
+---_-_-a54b5c81df354ba9d1e952__50fad097f55c_-_---

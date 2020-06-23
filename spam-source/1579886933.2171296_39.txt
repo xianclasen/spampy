@@ -1,0 +1,127 @@
+Return-Path: <SRS0=o/bBLr=3N=mail.projecterhalki.us=6900-2982-85526-1842-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21524 invoked from network); 24 Jan 2020 09:22:39 -0000
+Received: (qmail 13493 invoked from network); 24 Jan 2020 09:22:39 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 09:22:39 -0000
+Received: (qmail 12715 invoked by uid 48516); 24 Jan 2020 09:22:38 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9315 invoked from network); 24 Jan 2020 09:22:37 -0000
+Received: from dat.projecterhalki.us ([170.130.174.51])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 24 Jan 2020 09:22:31 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=projecterhalki.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=FreeShippingLowCarb@projecterhalki.us;
+ bh=fCI1e6bKgSiyCa/RaDi4hL1dGqM=;
+ b=EAB/F4+gtVQuBIXH5uNikUrkbrVskrPWrowlzvk/UBj/15dEvrEHc6P5ol5+wNGa9MLop44WkvOy
+   ocGNTtbPz8Hl41LCoG5YbJMIn4ELm2CMYxcybQG7UHcb0c75ywcudEZOFY4AULsNzRZnxQkle9Sm
+   Gq9h6F8zhcpCkpRvNvA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=projecterhalki.us;
+ b=Rv3pI1AqvedlgN8yAV5DDfF4lP3oRqT/Pi4vzdfW8b7Sd4LzZtJtBvDzmCP6Eh9752fNhBV4PKaC
+   Y4HfrDXeb1yxYlYMmnVD2gi7wCtD+Zc4d1BjcMonMjmmc8OYAMFOxQT+5imJ39H0SGkZaMrXJuX1
+   ztEUYi4MaRIZfF7XfFo=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="e6f62faad6de1c67b62a0e6e325e197c_ba6_14e16"
+Date: Fri, 24 Jan 2020 04:21:06 -0500
+From: "Free Shipping Low Carb" <FreeShippingLowCarb@projecterhalki.us>
+Reply-To: "Free Shipping Low Carb" <FreeShippingLowCarb@projecterhalki.us>
+Subject: Hey, where do we ship your FREE protein?
+To: <bruce@untroubled.org>
+Message-ID: <gqz2nle7mmciy813-s7w3eg872i78is48-ba6-14e16@projecterhalki.us>
+Content-Length: 12397
+
+--e6f62faad6de1c67b62a0e6e325e197c_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Hey, where do we ship your FREE protein?
+
+http://projecterhalki.us/xeaPvFUDnebg7_WEgzu6LLiJSRhJulXGNiSMowOc0Ks6KBc
+
+http://projecterhalki.us/426NsMF_xjUY8tHkXEjnrqqmz45sieQjgytBdnwlC5JxCNYA
+
+The Church of England (C of E) is the established church of England. The Archbishop of Canterbury is the most senior cleric, although the monarch is the supreme governor. The Church of England is also the mother church of the international Anglican Communion. It traces its history to the Christian church recorded as existing in the Roman province of Britain by the third century, and to the 6th-century Gregorian mission to Kent led by Augustine of Canterbury.
+
+The English church renounced papal authority when Henry VIII failed to secure an annulment of his marriage to Catherine of Aragon in 1534. The English Reformation accelerated under Edward VI's regents, before a brief restoration of papal authority under Queen Mary I and King Philip. The Act of Supremacy 1558 renewed the breach, and the Elizabethan Settlement charted a course enabling the English church to describe itself as both catholic and reformed:
+
+    catholic in that it views itself as a part of the universal church of Jesus Christ in unbroken continuity with the early apostolic church. This is expressed in its emphasis on the teachings of the early Church Fathers, as formalised in the Apostles', Nicene, and Athanasian creeds.
+    reformed in that it has been shaped by some of the doctrinal principles of the 16th-century Protestant Reformation, in particular in the Thirty-Nine Articles of Religion and the Book of Common Prayer.
+
+In the earlier phase of the English Reformation there were both Catholic martyrs and radical Protestant martyrs. The later phases saw the Penal Laws punish Roman Catholic and nonconforming Protestants. In the 17th century, the Puritan and Presbyterian factions continued to challenge the leadership of the Church which under the Stuarts veered towards a more catholic interpretation of the Elizabethan Settlement especially under Archbishop Laud and the rise of the concept of Anglicanism as the via media. After the victory of the Parliamentarians the Prayer Book was abolished and the Presbyterian and Independent factions dominated. The Episcopacy was abolished. The Restoration restored the Church of England, episcopacy and the Prayer Book. Papal recognition of George III in 1766 led to greater religious tolerance.
+
+Since the English Reformation, the Church of England has used a liturgy in English. The church contains several doctrinal strands, the main three known as Anglo-Catholic, Evangelical and Broad Church. Tensions between theological conservatives and progressives find expression in debates over the ordination of women and homosexuality. The church includes both liberal and conservative clergy and members.
+
+The governing structure of the church is based on dioceses, each presided over by a bishop. Within each diocese are local parishes. The General Synod of the Church of England is the legislative body for the church and comprises bishops, other clergy and laity. Its measures must be approved by both Houses of Parliament.
+
+--e6f62faad6de1c67b62a0e6e325e197c_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://projecterhalki.us/d93iEEAl_ZQ15730a51Fv5hDwdiYsvX2m7jLmh4me7fYJrNk"><img src="http://projecterhalki.us/a342b4e685ef79f3df.jpg" /><img height="1" src="http://www.projecterhalki.us/A2YdHRgiDMY7vaeF6gM50lpIDLkFrKmk19-Cc0P3LVgvPkmP" width="1" /></a>
+<div style="width:600px; text-align:left; font-family:arial; padding:10px;"><img src="http://projecterhalki.us/5fa8ff29508f4d8df6.jpg" /><br />
+<br />
+To celebrate selling over 2 million containers of my favorite natural protein powder, my good friends Joel &amp; Josh (founders of BioTrust Nutrition) want to reward the first 250 of our readers to visit the link below with a FREE 150-gram container of their award-winning, incredibly delicious metabolism-boosting protein, BioTrust Low Carb... with ZERO strings attached! This means after you receive your FREE container, NOTHING more will ever be sent to you, or charged to you, in the future. It&rsquo;s truly FRE? (no autoship, no future charges - nothing). Pretty incredible, as this is absolutely an extremely valuable, premium product made only with natural ingredients and the most delicious, incredible taste of ANY protein powder available anywhere...hands down!<br />
+<br />
+Beyond that, you may be wondering what exactly makes BioTrust Low Carb bar none the BEST protein powder of any protein product on the market, and there are a lot of reasons...<br />
+<br />
+**It&#39;s made only with natural ingredients (no artificial colors, flavors or preservatives)<br />
+<br />
+**It&#39;s made with certified hormone-free, grass-fed proteins (if a protein powder doesn&#39;t state it&#39;s hormone free on the label, it&#39;s not)<br />
+<br />
+**It&#39;s sweetened naturally with stevia and naturally sweet form of prebiotic fiber called inulin (NO artificial sweeteners)<br />
+<br />
+**It contains 4g of fiber per serving (and only 1 gram of naturally-occurring sugar!)<br />
+<br />
+**It&#39;s built around a 4-protein time-released blend that fuels your body with quality nutrition and keeps you full for hours on end<br />
+<br />
+**NO soy protein<br />
+<br />
+**NO gluten (many protein powders are secretly stuffed with gluten!)<br />
+<br />
+**It&#39;s cold processed to protect the quality of each protein, unlike common high-heat and acid processing practices that denature the protein as it&#39;s manufactured<br />
+<br />
+**It the very first protein to contain ProHydrolase, a specialized enzyme blend that has been shown through research to boost protein absorption 10-fold!<br />
+<br />
+And did I mention it tastes incredible? Every time you mix up a Milk Chocolate or Vanilla Cream BioTrust Low Carb shake, it&#39;s just like enjoying a rich and creamy milkshake from the ice cream shop -- only it comes in at just 150 calories while supporting your weightloss goals and stroking your fat-burning metabolism! And what&#39;s more, along with your FREE container of BioTrust Low Carb today, they&#39;re also going to ship you a FREE hard copy of their 41-page special fat-burning report, &quot;15 Quick &amp; Easy Milkshake Recipes for a Flat Stomach&quot; so you&#39;ll have an endless variety of delicious smoothie and milkshake recipes to enjoy as you burn flab and enjoy vibrant health!<br />
+<br />
+I&#39;m talking about incredibly satisfying and delicious recipes like Cinnamon Roll Supreme, Peanut Butter Cup, Strawberry Cheesecake, Nutella Banana Delight and many, many more! You&#39;ll receive this powerful fat-burning recipe book direct to your doorstep along with your FREE container of BioTrust Low Carb just a few short days from now.<br />
+<br />
+And if that wasn&#39;t enough, you&#39;ll also receive FREE access to BioTrust&#39;s exclusive online community where their trained health &amp; nutrition coaches will make certain that every aspect of your flat-belly transformation is fully supported.<br />
+<br />
+Fact is, you will get all THREE of these extraordinary fat-burning gifts FREE&hellip; over a $50 value&hellip; and in return, all they ask is that you help cover the very small cost of shipping.<br />
+<br />
+Why Are They Being THIS Generous? What&#39;s the catch?<br />
+<br />
+There is no catch. It&rsquo;s simple really... Joel &amp; Josh and BioTrust Nutrition want to EARN your trust by PROVING to you that BioTrust Low Carb is the &quot;real deal&quot; so you can begin experiencing the same metabolism-boosting, fat-burning results that more than TWO MILLION BioTrust customers are already experiencing world-wide... for FREE! They know that once you experience the incredible taste and results of this premium protein for yourself that you&#39;ll be back for more, so they&#39;re willing to GIVE you your first container, along with your TWO additional extremely valuable bonus gifts, 100% at their expense.<br />
+<br />
+Now that&rsquo;s the great news; the bad news is that they have only set aside 250 FREE, 150-gram containers of BioTrust Low Carb and bonus gifts to give away to readers of this email on a first come, first-served basis -- and when this small allotment of inventory is gone, this rare special offer will end without notice. In fact, you will want to visit the special link below right away because these FREE BioTrust Low Carb containers may already be out of stock.<br />
+<br />
+To get your FREE container of BioTrust Low Carb and your FREE bonus gifts, act now by visiting the link below before they&#39;re all gone!<br />
+<br />
+<a href="http://projecterhalki.us/xeaPvFUDnebg7_WEgzu6LLiJSRhJulXGNiSMowOc0Ks6KBc"><b>==&gt; Secure Your FREE Container Now! (extremely limited inventory)</b></a><br />
+<br />
+**One free container per household<br />
+<br />
+To your great success!<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://projecterhalki.us/uPqI8FpJweSQhz21jqxiFrBRY4j1vGyix8YsDIjcfsxg-rqJ"><img src="http://projecterhalki.us/136c10e72f5aacf5d5.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">The Church of England (C of E) is the established church of England. The Archbishop of Canterbury is the most senior cleric, although the monarch is the supreme governor. The Church of England is also the mother church of the international Anglican Communion. It traces its history to the Christian church recorded as existing in the Roman province of Britain by the third century, and to the 6th-century Gregorian mission to Kent led by Augustine of Canterbury. The English church renounced papal authority when Henry VIII failed to secure an annulment of his marriage to Catherine of Aragon in 1534. The English Reformation accelerated under Edward VI&#39;s regents, before a brief restoration of papal authority under Queen Mary I and King Philip. The Act of Supremacy 1558 renewed the breach, and the Elizabethan Settlement charted a course enabling the English church to describe itself as both catholic and reformed: catholic in that it views itself as a part of the universal church of Jesus Christ in unbroken continuity with the early apostolic church. This is expressed in its emphasis on the teachings of the early Church Fathers, as formalised in the Apostles&#39;, Nicene, and Athanasian creeds. reformed in that it has been shaped by some of the doctrinal principles of the 16th-century Protestant Reformation, in particular in the Thirty-Nine Articles of Religion and the Book of Common Prayer. In the earlier phase of the English Reformation there were both Catholic martyrs and radical Protestant martyrs. The later phases saw the Penal Laws punish Roman Catholic and nonconforming Protestants. In the 17th century, the Puritan and Presbyterian factions continued to challenge the leadership of the Church which under the Stuarts veered towards a more catholic interpretation of the Elizabethan Settlement especially under Archbishop Laud and the rise of the concept of Anglicanism as the via media. After the victory of the Parliamentarians the Prayer Book was abolished and the Presbyterian and Independent factions dominated. The Episcopacy was abolished. The Restoration restored the Church of England, episcopacy and the Prayer Book. Papal recognition of George III in 1766 led to greater religious tolerance. Since the English Reformation, the Church of England has used a liturgy in English. The church contains several doctrinal strands, the main three known as Anglo-Catholic, Evangelical and Broad Church. Tensions between theological conservatives and progressives find expression in debates over the ordination of women and homosexuality. The church includes both liberal and conservative clergy and members. The governing structure of the church is based on dioceses, each presided over by a bishop. Within each diocese are local parishes. The General Synod of the Church of England is the legislative body for the church and comprises bishops, other clergy and laity. Its measures must be approved by both Houses of Parliament. </span></body>
+</html>
+
+--e6f62faad6de1c67b62a0e6e325e197c_ba6_14e16--

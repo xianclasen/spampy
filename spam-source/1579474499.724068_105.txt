@@ -1,0 +1,82 @@
+Return-Path: <SRS0=FLoG6S=3H=vaspy.men=planet.pure.turmeric.cbd.oil-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 23966 invoked from network); 18 Jan 2020 21:13:14 -0000
+Received: (qmail 21305 invoked from network); 18 Jan 2020 21:13:13 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Jan 2020 21:13:13 -0000
+Received: (qmail 23372 invoked by uid 48516); 18 Jan 2020 21:13:11 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31924 invoked from network); 18 Jan 2020 21:13:08 -0000
+Received: from mail.vaspy.men ([85.93.5.92])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 18 Jan 2020 21:13:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=vaspy.men;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=planet.pure.turmeric.cbd.oil@vaspy.men;
+ bh=FG8WIrgEsGe0Op/q7K2JIhdGo0Y=;
+ b=ij03/p4D74zG/icKatyK0cVKW5GTOIiWVLe9LVLn2o7f0t7CjXrU7keQNTP6L4H4Ue5QXnyfdb+t
+   thynOlPdNd1y1hNvnPJjkaKd+JMA00O2dM9Ig7w23nPwfEVh/li71Z6vI2dnRIcrpCoLWygDgI77
+   3GVxRKAyPsdgpbAQSyc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=vaspy.men;
+ b=PT8UEXL8HLjloaGnVLsMkA+LWFfVc+2HFYNtsDq3L3/pTo1HhKVYYyY/tQ8xoRVO+ws/VO8mxOn/
+   NSur8RSCrXEMOKOQkhybSe0+zssrqER+p6Tz1e2UTlDKQPPtZEAV/W9a1ee3iRW0MuB3V+WYXOq8
+   MpG0gDlcw0ujqfGNZew=;
+Received: by mail.vaspy.men id h4dqe80001gl for <bruce@untroubled.org>; Sat, 18 Jan 2020 16:09:05 -0500 (envelope-from <planet.pure.turmeric.cbd.oil-bruce=untroubled.org@vaspy.men>)
+Date: Sat, 18 Jan 2020 16:09:05 -0500
+From: "Planet Pure Turmeric CBD Oil" <planet.pure.turmeric.cbd.oil@vaspy.men>
+To:   <bruce@untroubled.org>
+Subject: START 2020 Pain FREE!!! New Year, New You
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_265_1209363182.1579381726754"
+List-Unsubscribe: <http://www.vaspy.men/a9d5VJ2395cy8W911IZ11u_34ecK21IFv4GIf4rxvs4FhIHEsvZ8AR1ndoSm7RNN1x0W5Gq@cY/netting-expulsion>
+Message-ID: <0.0.0.1D.1D5CE43847FEDDE.4B9A5A@mail.vaspy.men>
+Content-Length: 3833
+
+------=_Part_265_1209363182.1579381726754
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>thatch</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.vaspy.men/b154f2395Q8_V613eelb5J6C34ecl21cFv4GIf4rxvs4FhIHEsvZ8nR1ndoSm5Sj1V06z0WclY/Ziegfelds-sniffed">ENJOY life pain and stress free :)</a></span></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle"><font title="dislocate"></font><style title="employments"><small></style></small><style dir="preludes"><font size="requesters"><span></span><big></font></big></style><font color="curricular"></font> 
+       <center>
+        <a href="http://www.vaspy.men/b154f2395Q8_V613eelb5J6C34ecl21cFv4GIf4rxvs4FhIHEsvZ8nR1ndoSm5Sj1V06z0WclY/Ziegfelds-sniffed"><img alt="no pain" src="http://www.vaspy.men/netting-expulsion/rc65FQ2395G7jaw13Qeb5R9vF34eci21dFv4GIf4rxvs4FhIHEsvZ8RR1ndoSm6kks1Y06bq0LcY" style="border-width: 0px; border-style: solid; height: 651px; width: 603px; " /></a>
+        <br /> 
+        <span style="font-family:times new roman,times,serif; "><span style="font-size:11px; "><font color="#666666">&nbsp; Exit email<a href="http://www.vaspy.men/cd75n239z5kz8m611reb57x34ecj21SFv4GIf4rxvs4FhIHEsvZ8DR1ndoSm7Jk10tNp5bBc0Y/incubators-exclusively">&nbsp; Here</a></font>.</span></span>
+       </center> 
+       <div align="center">
+        <span style="font-family:times new roman,times,serif; "><span style="font-size:11px; ">1261 S 820 E Suite 210 - American Fork, UT 84003</span></span>
+        <br /> 
+        <br /> 
+        <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+        <br /> 
+        <span style="font-family:times new roman,times,serif; "><span style="font-size:11px; "><a href="http://www.vaspy.men/a256KF239u5LOn8911Ueb58h34ec_21KFv4GIf4rxvs4FhIHEsvZ8VR1ndoSm6vP10NY5m0cY1/supersede-detracts">Go here to End email</a></span></span>
+       </div> </td> 
+     </tr> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; </td> 
+     </tr> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> 
+   <br /> <style dir="unlock"><span size="dentally"></span></style><style style="therein"><style></style></style>
+  </center>   
+ <img src="http://www.vaspy.men/caught-crasher/26a4m2395R8F5V11eeb5aC34ecO21eFv4GIf4rxvs4FhIHEsvZ8JR1ndoSm5nr1I06Jpc@OY" alt=""/></body>
+</html>
+
+------=_Part_265_1209363182.1579381726754--
+

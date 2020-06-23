@@ -1,0 +1,70 @@
+Return-Path: <SRS0=d1BWM5=3D=hecra.buzz=compressa_holiday_team-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 5517 invoked from network); 14 Jan 2020 20:15:19 -0000
+Received: (qmail 5841 invoked from network); 14 Jan 2020 20:15:18 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 20:15:18 -0000
+Received: (qmail 28032 invoked by uid 48516); 14 Jan 2020 20:15:18 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9168 invoked from network); 14 Jan 2020 20:15:17 -0000
+Received: from mail.hecra.buzz (208-186-113-159.nca.datanoc.com [208.186.113.159])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 14 Jan 2020 20:15:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=hecra.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=compressa_holiday_team@hecra.buzz;
+ bh=637askbsJ44kfrPfWBPtkO6b+pI=;
+ b=Pz2amKHJWfirrl9Jg3t/zl7d1XZ0izDftZUGi2TgCOYBT+GYpSNV1xI/wlffiOLUx+MI9Aj85YxJ
+   5cxUSR/iHy7GcuYYcN68xQKEgoqtcwVszPUkMeBDcK0eIPwz5RTaSWmM6Q2uif45ewYD7wFoJUUd
+   6zZZqF8Fie0z+SDmNVg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=hecra.buzz;
+ b=JYCVHhfzd7rR1yFfPy78sdJXzidoL5BNjk5HnrMVObz+9tjaz7HAC4JpEeOs9uU6Bh71tTfWKroe
+   LNPr6zuh6hysTFRLwHukOyjIoJnScnFSxEMVJ6YECjM+HdXDSaCVz2UdsGUvunCpBuaVB8vgZoF+
+   rL4IGyq6yLsTL/YYEos=;
+Received: by mail.hecra.buzz id h3ogl80001gm for <bruce@untroubled.org>; Tue, 14 Jan 2020 15:08:08 -0500 (envelope-from <compressa_holiday_team-bruce=untroubled.org@hecra.buzz>)
+Date: Tue, 14 Jan 2020 15:08:08 -0500
+From: "Compressa Holiday Team" <compressa_holiday_team@hecra.buzz>
+To:   <bruce@untroubled.org>
+Subject: Back Pain Hack Takes Country By Storm
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_259_652364872.1579032473640"
+List-Unsubscribe: <http://www.hecra.buzz/Quantico-smells/3004M2395H89nC13m1y_1jMO34c6q21tFv4GIf4rxvs4FhIHEsvZ11kRPndooeoi96Fq10vj5U0UcY>
+Message-ID: <0.0.0.1C.1D5CB1656F33590.5F09A7@mail.hecra.buzz>
+Content-Length: 3080
+
+------=_Part_259_652364872.1579032473640
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>default</title> 
+ </head> 
+ <body> 
+  <center>
+   <span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.hecra.buzz/murderously-groove/b704I2395MON8613pea90QuM34c6p21oFv4GIf4rxvs4FhIHEsvZ11ARPndooeoi97QC1VDp05sjcYT">Relieve your diabetic pain in 23 seconds</a></span> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+       <center>
+        <a href="http://www.hecra.buzz/murderously-groove/b704I2395MON8613pea90QuM34c6p21oFv4GIf4rxvs4FhIHEsvZ11ARPndooeoi97QC1VDp05sjcYT"><img alt="" src="http://www.hecra.buzz/1014d2395K7jJa11Aea93i34c6U21SFv4GIf4rxvs4FhIHEsvZ11SRPndooeoi97Q_1Q0my5OMjcY/syringe-capitalizing" style="border-width: 0px; border-style: solid; height: 1197px; width: 502px; " /></a>
+       </center> 
+       <div align="center">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <a href="http://www.hecra.buzz/Quantico-smells/62a4H2395GV8l611Hea91Q34c6U21nFv4GIf4rxvs4FhIHEsvZ11RRPndooeoi95ljh105HAc3Y"><font color="#666666">Exit email Here</font></a>.<br /> 23000 Sussex Hwy Seaford, DE 19973</font>
+        <br /> 
+        <br /> 
+        <a href="http://www.hecra.buzz/d135Mj2395I89Jm11Uea92i34c6z21iFv4GIf4rxvs4FhIHEsvZ11VRPndooeoi95O1j0V5dzzcY/Terpsichore-cityscape">Stop Here</a>
+        <br /> 
+        <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> <font></font><span><small></span></small><span class="gaiters"><big></big><font color="initiating"></span><font></font></font>
+  </center>   
+ <img src="http://www.hecra.buzz/1016t2F39D5XN85g12wZea94X34c6F21UFv4GIf4rxvs4FhIHEsvZ11zRPndooeoi96fsJ1U05a2cY0/tenders-Shylock" alt=""/></body>
+</html>
+
+------=_Part_259_652364872.1579032473640--
+

@@ -1,0 +1,92 @@
+Return-Path: <SRS0=gIGWQI=3M=mail.oxidizpro.us=6888-1095-83442-1835-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 32541 invoked from network); 23 Jan 2020 15:49:03 -0000
+Received: (qmail 7506 invoked from network); 23 Jan 2020 15:49:02 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Jan 2020 15:49:02 -0000
+Received: (qmail 26896 invoked by uid 48516); 23 Jan 2020 15:49:02 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 32638 invoked from network); 23 Jan 2020 15:49:01 -0000
+Received: from easy.oxidizpro.us (client-23-254-226-21.hostwindsdns.com [23.254.226.21])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 23 Jan 2020 15:49:01 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=oxidizpro.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=LowersCholesterolLevel@oxidizpro.us;
+ bh=q63544+gyqVQS3SgqYD/TcMV3wk=;
+ b=YVb6+twZiaPT535K5IeIKgB6aUtMuQpwbmIGbLRwbb5SZ4TuZzVE1ikB8eFb8FxIXVDRIf7LEr9t
+   O+fG/SPNAfWBmvnlVhV8hfU0CoY2caJATZrY+hMwzGakNgOEk0a1ZeaLNguyvzpaXCjBJdHDiJum
+   2uvZsXv+PK6Y5S8moaI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=oxidizpro.us;
+ b=Qur5EY/xFkloaTQ8teM1Jiy4qeq9ffNwdORALkM8l6CC1LQrYQ6bBi3lVkTmoiYtZByc5hQftPpx
+   3Si+XCssgDvPyu8wJ4D9ndNjWIn0pZBSwCQM49XK+cuwnb+6ZZC4o6WDlhl8kxutwIDaNPsGPYb+
+   ZNC4BLLZ2i0FWygcA0c=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="2061675ab932e5889b209349395d7d09_447_145f2"
+Date: Thu, 23 Jan 2020 10:48:59 -0500
+From: "Tackle cholesterol plaque" <LowersCholesterolLevel@oxidizpro.us>
+Reply-To: "Tackle cholesterol plaque" <LowersCholesterolLevel@oxidizpro.us>
+Subject: Boost your physical and mental energy
+To: <bruce@untroubled.org>
+Message-ID: <y6s95q44epawxdke-3d5os2sw8gv9zylm-447-145f2@oxidizpro.us>
+Content-Length: 7394
+
+--2061675ab932e5889b209349395d7d09_447_145f2
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Boost your physical and mental energy
+
+http://oxidizpro.us/6D0G-r72lhNbPxnJwxQwARVAscNBBLa-Ll4WaKT4vW87tbFl
+
+http://oxidizpro.us/IW2j4a1wl8eqf4NmSoNruwpd6TaBUIlTfc_MG0LwcSYM-AcF
+
+Water and nutrients in the form of inorganic solutes are drawn up from the soil by the roots and transported throughout the plant by the xylem. Organic compounds such as sucrose produced by photosynthesis in leaves are distributed by the phloem sieve tube elements.
+
+The xylem consists of vessels in flowering plants and tracheids in other vascular plants, which are dead hard-walled hollow cells arranged to form files of tubes that function in water transport. A tracheid cell wall usually contains the polymer lignin. The phloem however consists of living cells called sieve-tube members. Between the sieve-tube members are sieve plates, which have pores to allow molecules to pass through. Sieve-tube members lack such organs as nuclei or ribosomes, but cells next to them, the companion cells, function to keep the sieve-tube members alive.
+
+Transpiration
+The most abundant compound in all plants, as in all cellular organisms, is water which serves an important structural role and a vital role in plant metabolism. Transpiration is the main process of water movement within plant tissues. Water is constantly transpired from the plant through its stomata to the atmosphere and replaced by soil water taken up by the roots. The movement of water out of the leaf stomata creates a transpiration pull or tension in the water column in the xylem vessels or tracheids. The pull is the result of water surface tension within the cell walls of the mesophyll cells, from the surfaces of which evaporation takes place when the stomata are open. Hydrogen bonds exist between water molecules, causing them to line up; as the molecules at the top of the plant evaporate, each pulls the next one up to replace it, which in turn pulls on the next one in line. The draw of water upwards may be entirely passive and can be assisted by the movement of water into the roots via osmosis. Consequently, transpiration requires very little energy to be used by the plant. Transpiration assists the plant in absorbing nutrients from the soil as soluble salts.
+
+Absorption
+Living root cells passively absorb water in the absence of transpiration pull via osmosis creating root pressure. It is possible for there to be no evapotranspiration and therefore no pull of water towards the shoots and leaves. This is usually due to high temperatures, high humidity, darkness or drought.[citation needed]
+
+--2061675ab932e5889b209349395d7d09_447_145f2
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://oxidizpro.us/7t7tJElpD5fF-DPf9uivrUz5qMRRlNa6wiRF5VNKdxGHpyPN"><img src="http://oxidizpro.us/fea325b8ce3b02d647.jpg" /><img height="1" src="http://www.oxidizpro.us/ZjCrihPKZPkj_hY6aZiQlVCmSqeN5oMy-fXqNmHFIM2iUix2" width="1" /></a>
+<div style="width:600px;font-size:18px;font-family:calibri;text-align:left;padding:5px;background-color:#ffffff;padding:8px;">
+<h3><a href="http://oxidizpro.us/6D0G-r72lhNbPxnJwxQwARVAscNBBLa-Ll4WaKT4vW87tbFl" style="color:#ff0000;"><strong>You&#39;re about to learn how cutting out ONE</strong></a>, single ingredient lowers your cholesterol level below 100 and clears out up to 93% clogged arteries &ndash; starting today!</h3>
+<strong><a href="http://oxidizpro.us/6D0G-r72lhNbPxnJwxQwARVAscNBBLa-Ll4WaKT4vW87tbFl" style="color:#0000ff;">Preventing diseases such as stroke and heart attack. Plus loading you with power and vigor.</a></strong><br />
+<br />
+<a href="http://oxidizpro.us/6D0G-r72lhNbPxnJwxQwARVAscNBBLa-Ll4WaKT4vW87tbFl"><img alt=" " src="http://oxidizpro.us/38248c1c005592e437.jpg" style="box-shadow:5px 5px 5px #c0c0c0; " /></a><br />
+<br />
+<span style="color:#FF0000;">Discover how to:</span><br />
+<br />
+- Completely clean out the plaque buildup in your arteries<br />
+- Drop your cholesterol to a healthy level<br />
+- And boost your physical and mental energy to a level you didn&rsquo;t think possible<br />
+....all by cutting out just ONE simple ingredient, you didn&rsquo;t even know you were consuming.<br />
+<br />
+Based on a little known secret, previously only available to the rich and famous.<br />
+<br />
+<strong><a href="http://oxidizpro.us/6D0G-r72lhNbPxnJwxQwARVAscNBBLa-Ll4WaKT4vW87tbFl" style="color:#4848FF;"><span style="color:#0000FF;">What is this ONE ingredient you need to cut out? Learn more and try it out for yourself here...</span></a></strong>
+
+<hr style="border:solid 5px #FFFF00;	" /></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p style="font-size:10px; color:#ffffff">Water and nutrients in the form of inorganic solutes are drawn up from the soil by the roots and transported throughout the plant by the xylem. Organic compounds such as sucrose produced by photosynthesis in leaves are distributed by the phloem sieve tube elements. The xylem consists of vessels in flowering plants and tracheids in other vascular plants, which are dead hard-walled hollow cells arranged to form files of tubes that function in water transport. A tracheid cell wall usually contains the polymer lignin. The phloem however consists of living cells called sieve-tube members. Between the sieve-tube members are sieve plates, which have pores to allow molecules to pass through. Sieve-tube members lack such organs as nuclei or ribosomes, but cells next to them, the companion cells, function to keep the sieve-tube members alive. Transpiration The most abundant compound in all plants, as in all cellular organisms, is water which serves an important structural role and a vital role in plant metabolism. Transpiration is the main process of water movement within plant tissues. Water is constantly transpired from the plant through its stomata to the atmosphere and replaced by soil water taken up by the roots. The movement of water out of the leaf stomata creates a transpiration pull or tension in the water column in the xylem vessels or tracheids. The pull is the result of water surface tension within the cell walls of the mesophyll cells, from the surfaces of which evaporation takes place when the stomata are open. Hydrogen bonds exist between water molecules, causing them to line up; as the molecules at the top of the plant evaporate, each pulls the next one up to replace it, which in turn pulls on the next one in line. The draw of water upwards may be entirely passive and can be assisted by the movement of water into the roots via osmosis. Consequently, transpiration requires very little energy to be used by the plant. Transpiration assists the plant in absorbing nutrients from the soil as soluble salts. Absorption Living root cells passively absorb water in the absence of transpiration pull via osmosis creating root pressure. It is possible for there to be no evapotranspiration and therefore no pull of water towards the shoots and leaves. This is usually due to high temperatures, high humidity, darkness or drought.[citation needed]</p>
+<a href="http://oxidizpro.us/Pm7RMij1B-6yroFdUnQpaEqS8_T0lunOH9AKsKKlQy4KcaF5"><img alt=" " src="http://oxidizpro.us/d207eca0e9ba93b2b2.jpg" /></a></body>
+</html>
+
+--2061675ab932e5889b209349395d7d09_447_145f2--

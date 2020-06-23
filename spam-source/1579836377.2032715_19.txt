@@ -1,0 +1,151 @@
+Return-Path: <SRS0=O2ZV4o=3M=spin2bonus.com=pearson@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11977 invoked from network); 23 Jan 2020 23:56:03 -0000
+Received: (qmail 11012 invoked from network); 23 Jan 2020 23:56:02 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Jan 2020 23:56:02 -0000
+Received: (qmail 3525 invoked by uid 48516); 23 Jan 2020 23:56:02 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 657 invoked from network); 23 Jan 2020 23:56:01 -0000
+Received: from spin2bonus.com (69-94-130-41.nca.lanset.com [69.94.130.41])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 23 Jan 2020 23:56:01 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=spin2bonus.com; s=dkim;
+	t=1579821348; bh=reoeyQ9jCUpMYDBOSJEq4MOckhA=;
+	h=Date:From:Subject:To:Message-ID;
+	b=lM49qICMzwEK9IeeY3niqz21aVr8q+0u/vMCFQ9psuP0L0iy0/Cx04WuWD54rYOBP
+	 5RAbE8ZiEce/vC/BA9WPC8RmdeX+4J3SIsFhsCpbsfW+uDf/uvUU/zKFVf1dflnLnt
+	 cb4plZzXF8Mezan1L34HMRDh+MbbZh2BilMYdoKY=
+MIME-Version: 1.0 
+Date: Thu, 23 Jan 2020 18:15:48 -0500 
+List-Unsubscribe: <http://iyo86I6O8NA7rpu.spin2bonus.com/198bd5628496c875076e59b11_24292a5e/3/> 
+From: "Provide Insurance – Auto Insurance Quotes" <pearson@spin2bonus.com> 
+Subject: Car insurance for as low as $63/mo 
+To: "bruce@untroubled.org" <bruce@untroubled.org> 
+Message-ID: <stwRK2A2504Tuan.iyoV9G7TR23Mpxi@spin2bonus.com> 
+Content-type: multipart/alternative; boundary="---=_Part_77_436F19.XUZ7";
+Content-Length: 11570
+
+-----=_Part_77_436F19.XUZ7
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Car insurance for as low as $63/mo
+
+http://vqe5DI8025D6yhx.spin2bonus.com/208558e18b96c875076e59b116c01217_24292a5e-010108170001/1/
+
+Car insurance for as low as $63/mo
+
+-----=_Part_77_436F19.XUZ7
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+? <html>
+<head>
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+ body {background: #e6e6e6; font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; margin: 0; padding: 0;}
+
+ @media only screen and (max-width: 599px) {
+ /* responsive framework */
+ .flex100 {width: 100% !important; height: auto !important; clear: both !important;}
+ .flex95 {width: 95% !important; height: auto !important; clear: both !important;}
+ .flex90 {width: 90% !important; height: auto !important; clear: both !important;}
+ .flex75 {width: 75% !important; height: auto !important; clear: both !important;}
+ /* toggle element on+off for mobile */
+ .mobile_show {display:block !important; visibility:visible !important; width:100% !important; font-size:inherit !important; line-height:inherit !important; height:auto !important; margin:auto !important; max-height:inherit !important; overflow:auto !important; mso-hide:none !important;}
+ .mobile_hide {display:none !important; visibility:hidden !important; width:0px !important; height:0px !important; max-height:0px !important; overflow:hidden !important; mso-hide:all !important; border:none !important; font-size:0 !important; line-height:0 !important; padding:0 !important;}
+ }
+</style>
+</head>
+<body style="background: #e6e6e6; font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5;">
+<a class="flex100" href="http://qpp2729YUN8Hhxt.spin2bonus.com/208558e18b96c875076e59b116c01217_24292a5e-010108170001/1/" style="border: 0 !important; color: inherit !important; color: #000000; display: block !important; margin: 0 auto !important; text-decoration: none !important; width: 600px">
+<table align="center" cellpadding="0" cellspacing="0">
+ <tr><td height="10" style="font-size: 0px; line-height: 0px;"> </td></tr>
+</table>
+<table class="flex95" width="600" align="center" bgcolor="#192E59" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 600px !important; -webkit-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); -moz-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); box-shadow: 0 5px 10px -8px rgba(0,0,0,1);">
+ <tr>
+ <td align="center">
+ <table width="90%" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 90% !important;">
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 2.2em; line-height: 1.2; color: #ffffff; font-weight: bold; text-align: left; text-transform: uppercase;">
+ Don't Overpay!
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ </table>
+ </td>
+ </tr>
+</table>
+
+<table class="flex95" width="600" align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 600px !important; -webkit-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); -moz-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); box-shadow: 0 5px 10px -8px rgba(0,0,0,1);">
+ <tr>
+ <td align="center"><img class="flex100" src="http://npwVIF44Q5C2ccn.spin2bonus.com/images/car-scenic-road.jpg" alt="" width="600" border="0" /></td>
+ </tr>
+ <tr>
+ <td align="center">
+ <table width="90%" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 90% !important;">
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 1.7em; line-height: 1.2; color: #192E59; font-weight: bold; text-align: center;">
+ Have you compared auto quotes lately?
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 1.2em; color: #2e3435; text-align: center;">
+ Shopping around for auto insurance used to be hard, but Provide Insurance makes it easy. In just minutes, we use our consumer alignment technology to match you with top carriers at low rates.
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td align="center">
+ <table align="center" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="300" align="center" height="44" bgcolor="#192E59">
+ <a href="http://wva4T3O1V676guw.spin2bonus.com/208558e18b96c875076e59b116c01217_24292a5e-010108170001/1/" target="_blank" style="display: block; color: #ffffff; font-size: 1.6em; line-height: 56px; font-weight: bold; text-decoration: none; text-transform: uppercase; white-space: nowrap;">
+ Find Rates
+ </a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td align="center">
+ <a href="http://sumYF9CBB40Johd.spin2bonus.com/208558e18b96c875076e59b116c01217_24292a5e-010108170001/1/" target="blank" style="border: 0; text-decoration: none !important;">
+ <img src="http://oad9I85SDS7Gnix.spin2bonus.com/images/provide-insurance-blue.png" alt="Provide Insurance" width="150" border="0" />
+ </a>
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ </table>
+ </td>
+ </tr>
+</table>
+</a>
+<table class="flex75" width="600" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto;">
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: .75em !important; text-align: center; color: #999999;">
+ © 2018 Provide Insurance | PO Box 425768 Cambridge, MA 02142 | <a href="http://svk77AFP8ANSjnr.spin2bonus.com/20830e9a4016c875076e59b116c11217_24292a5e-010108170001/1/" style="color: #999999; white-space: nowrap;">Unsubscribe</a>
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+</table>
+<span style="color:#808080;"><span style="font-size: 0.15px;"><span style="font-family: arial,helvetica,sans-serif;">Advanced Search    Browse Recipes I live in northern California temps have been below average around mid 70s during the day and around 50s at night not much humidityThe usual priming where one is applied consists of Paris white levigated whiting made into a thin paste with size The size should be of a consistency between the common double size and glue and mixed with as much Paris white as will give it a good body so that it will hide the surface on which it is applied But in particular work glovers or parchment size instead of common size is used and this is still further improved by the addition of onethird of isinglass and if the coat be not applied too thickly it will be much less liable to peel or crack The surface should be previously prepared for this priming by being well cleaned and by being brushed over with hot size diluted with twothirds of water that is provided the size be of the usual strength The priming is then evenly and uniformly applied with a brush and left to dry On a fairly even surface two coats of priming properly applied should suffice But if it will not take a proper water polish owing to the uneven surface not being effectually filled up one or more additional coats must be applied Previous to the last coat being applied the surface should be smoothed by fine glass paper When the last coat of priming is dry the water polish is applied This is done by passing a fine wet rag or moistened sponge over the surface until the whole appears uniformly smooth and even The priming is now complete and the surface ready to take the japan ground or the coloured varnishBoiling    1212 lbcompletist  A Wild West Show inadvertantly discovers a prehistoric valleyFMX  FM Extended Range Transmission Systemexecution is somewhat above the average lost world opus  The inconsistentSightVision is a distance sense we can see afar off The stimulus is chemical in its action this means that the ether waves on striking the retina cause a chemical change which sets up the nerve current responsible for the sensationCould try Amazon tooThe Italian peasants were perhaps the most blest on the face of the earth instead of living scattered about the country in solitary fashion they lived in villages that were enclosed by walls as a protection for their harvests animals and farm implements their housesat any rate those that yet standprove that they lived in much more comfortable and beautiful surroundings than the ordinary townsman of our day Further there was a community of interests and many people collected together in the fortified villages with the result that little by little they attained to an importance never acquired by the boorish French peasants or the German serfs they bore arms they had a common treasury they elected their own magistrates and whenever they went out to fight it was to save their common countryThat reminds me we had a beach party the other day and it was at a Lopp village I didnt know it was a swimming party til I got there but I love surprises and I love swimming so it was a really good surprise There was a bunch of friends there and a human lady with a fancy accent Then a Draken showed up and I didnt know what to do He was really scary with the giant teeth and covered in spikes and was super tall and I wanted to run away but I remembered what you said about just because someone being different than you and someone being scary doesnt mean theyre badInner Nature of the Mind Not Revealed by IntrospectionWe are not to be too greatly discouraged if even by introspection we cannot discover exactly what the mind is No one knows what electricity is though nearly everyone uses it in one form or another We study the dynamo the motor and the conductors through which electricity manifests itself We observe its effects in light heat and mechanical power and so learn the laws which govern its operations But we are almost as far from understanding its true nature as were the ancients who knew nothing of its uses The dynamo does not create the electricity but only furnishes the5 conditions which make it possible for electricity to manifest itself in doing the worlds work Likewise the brain or nervous system does not create the mind but it furnishes the machine through which the mind works We may study the nervous system and learn something of the conditions and limitations under which the mind operates but this is not studying the mind itself As in the case of electricity what we know about the mind we must learn through the activities in which it manifests itselfthese we can know for they are in the experience of all It is then only by studying these processes of consciousness that we come to know the laws which govern the mind and its development What it is that thinks and feels and wills in us is too hard a problem for us hereindeed has been too hard a problem for the philosophers through the ages But the thinking and feeling and willing we can watch as they occur and hence lover hu come to know</span>
+</body>
+</html>
+
+
+<center>
+
+
+<font face=verdana size=1>purge my email from your index <a href='http://wxgG893V5VC1ffq.spin2bonus.com/198bd5628496c875076e59b11_24292a5e/U/5371'>here</a> <br> 1500 Beville Rd STE 606 Box 10009, Daytona Beach, FL 32114
+<img src="http://dlr7F8784H0Hsys.spin2bonus.com/208eceb24c86c875076e59b116928d0b_24292a5e-010108170001/2/">
+
+-----=_Part_77_436F19.XUZ7--

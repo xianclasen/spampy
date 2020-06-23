@@ -1,0 +1,82 @@
+Return-Path: <SRS0=CvabrG=24=myesert.buzz=canvas_prints_affiliate-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 20756 invoked from network); 7 Jan 2020 16:08:08 -0000
+Received: (qmail 12179 invoked from network); 7 Jan 2020 16:08:07 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 16:08:07 -0000
+Received: (qmail 14028 invoked by uid 48516); 7 Jan 2020 16:08:07 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 14831 invoked from network); 7 Jan 2020 16:08:07 -0000
+Received: from mail.myesert.buzz ([193.201.140.124])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 07 Jan 2020 16:08:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=myesert.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas_prints_affiliate@myesert.buzz;
+ bh=8D6rN/XL9okVcYFD8NorOJe6fQs=;
+ b=LpXaOkqPhNAx7r2mf2mRjGIMuzPh7hiw9NtzuZd8iiIlf42VgvWcoUpV8NQqm8IY4C0z7MbqaAgD
+   Kk5VaY4CzkDUxsKVnbdeHnX631PboRMVxPNaSLmrnBHbMASjquNkgKqTEpVNlq9FHHRmYtUv87k8
+   wd7bBLRIiZwl5hgpMc8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=myesert.buzz;
+ b=Pag2IWQa4rehsfh4m+7er3Ke/03/uYRXkqSnZZ7J+JrGvW0FumqyOF2ke/U1F+Yf0uSFj+4fGMO5
+   n5m9ZJMKxqXslzZ1HdmRp8C9SachiydgQnm2Zz2FF0cd4hBugMxIumWat+K184Tf2qLG6oRmKXMB
+   EGCkqaAydkXPJplTvhk=;
+Received: by mail.myesert.buzz id h2imee0001g6 for <bruce@untroubled.org>; Tue, 7 Jan 2020 11:04:27 -0500 (envelope-from <canvas_prints_affiliate-bruce=untroubled.org@myesert.buzz>)
+Date: Tue, 7 Jan 2020 11:04:27 -0500
+From: "Canvas Prints Affiliate" <canvas_prints_affiliate@myesert.buzz>
+To:   <bruce@untroubled.org>
+Subject: Add to your Fall Collection: Up to 93% OFF Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_379_1337821641.1578413051142"
+List-Unsubscribe: <http://www.myesert.buzz/yellowish/c244j2395iY89t13miv11toJ19e7r21EFv4GIf4rxvs4FhIHEsvZ10JQjRQdmoXK7K1u0RBM6MOJWHi>
+Message-ID: <0.0.0.2A.1D5C57423003F78.6565CD@mail.myesert.buzz>
+Content-Length: 3066
+
+------=_Part_379_1337821641.1578413051142
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>faraway idlers</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.myesert.buzz/literary/be85U239y5LR_8612eO70faF19e7i21DFv4GIf4rxvs4FhIHEsvZ10XQjRQdmoXK5r1IF05p@H2i">=
+Super Canvas Sale Get 93% off&nbsp; </a></span></span><br /> <br /> <a href=
+=3D"http://www.myesert.buzz/literary/be85U239y5LR_8612eO70faF19e7i21DFv4GIf4rxvs4FhIHEsvZ10XQjRQdmoXK5r1IF05p@H2i"><img alt=3D"easy canvas" src=3D"http://www.myesert.buzz/3776c2Fs395c7auz11D70fdn19e7v21nFv4GIf4rxvs4FhIHEsvZ10DQjRQdmoXK5Sm10y5p1Hyi/corroborating" style=3D"width=
+: 660px; height: 726px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Press <a href=
+=3D"http://www.myesert.buzz/3d16vv2V395QK8r613LP70fbTP19e7v21zFv4GIf4rxvs4FhIHEsvZ10SQjRQdmoXK5s1jN05FAHiz/vastly">here&nbsp; </a><br /> Or Write to: 11525A Stonehollow Dr. S=
+uite 100 Austin, TX 78758<br /> <br /> 6547 N Academy Blvd #2128<br /> COLO=
+RADO SPRINGS CO 80918<br /> Exit <a href=3D"http://www.myesert.buzz/sparkle/44a5G2t395dJZ8911k70fcg19e7h21mFv4GIf4rxvs4FhIHEsvZ10YQjRQdmoXK5v1Qx06vMMTHi">Here</a><br=
+ /> <br /> <br /> <style><span id="meaningfully"><font id="flourished"><small></small><style title="gradual"></style></span></font><span dir="patched"></span></style></span></span><br /> <br /> <span styl=
+e=3D"color:#FFFFFF; ">A 6.4 magnitude earthquake and several other strong t=
+emblors struck Puerto Rico Tuesday morning, killing at least one man and in=
+juring several others one day after a 5.8 magnitude quake shook the island,=
+ officials said. Power outages and damage have been reported near the islan=
+d' s southern coast, including in the city of Ponce, where a 77-year-old ma=
+n was killed and at least eight others were injured, Ponce emergency manage=
+ment director Angel Vasquez said Tuesday morning. The 6.4 quake struck at 4=
+:24 a.m. (3:24 a.m. ET), centered just off Puerto Rico' s southern coast, a=
+bout 6 miles south of Indios town, the US Geological Survey said. Several o=
+ther strong quakes followed, including a magnitude 5.8 temblor striking jus=
+t south of Indios at 7:18 a.m., USGS said.</span><br /> <br /> <br /> &nbsp=
+; </p>=20
+  </center> <big></big><big></big><font></font><span style="recurrences"><small></small><font title="ballast"></font><font style="whitest"></font></span> =20
+ <img src=3D"http://www.myesert.buzz/Nathan/eb85V2w395tI85M13lB70feoo19e7k21bFv4GIf4rxvs4FhIHEsvZ10jQjRQdmoXK5zB1j06qUyHiM" alt=3D""/></body>
+</html>
+
+------=_Part_379_1337821641.1578413051142--
+

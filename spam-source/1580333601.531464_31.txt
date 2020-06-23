@@ -1,0 +1,55 @@
+Return-Path: <EasyCanvasPrintsDealsOffer-bruce=untroubled.org@yatrasalah.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 6951 invoked from network); 29 Jan 2020 18:42:28 -0000
+Received: (qmail 57944 invoked by uid 222); 29 Jan 2020 18:42:27 -0000
+Return-Path: <EasyCanvasPrintsDealsOffer-bruce=untroubled.org@yatrasalah.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 57941 invoked from network); 29 Jan 2020 18:42:27 -0000
+Received: from kassulke.yatrasalah.com (kassulke.yatrasalah.com [142.11.227.164])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 29 Jan 2020 18:42:27 -0000
+Received: by feest.yatrasalah.com id h679160001gf for <bruce@untroubled.org>; Wed, 29 Jan 2020 18:35:14 +0000 (envelope-from <EasyCanvasPrintsDealsOffer-bruce=untroubled.org@yatrasalah.com>)
+Date: Wed, 29 Jan 2020 18:35:14 +0000
+From: EasyCanvasPrintsDeals Offer <EasyCanvasPrintsDealsOffer@yatrasalah.com>
+Reply-To: EasyCanvasPrintsDealsOffer@yatrasalah.com
+To: bruce@untroubled.org
+Message-Id: <d77cc960-ba97-421a-8675-2133ca481544@yatrasalah.com>
+Subject: =?utf-8?B?Um9zZXMgQXJlIFJlZCwgVmlvbGV0cyBBcmUgQmx1ZSwgMTZ4MjAgQ3VzdG9tIENhbnZhcyBQcmludHMgYXJlICQxNC45OSBmb3IgeW91IQ==?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-f0e18d571859c2922fb86ab5__38deeec648865687c5_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 1487
+
+---_-_-f0e18d571859c2922fb86ab5__38deeec648865687c5_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-f0e18d571859c2922fb86ab5__38deeec648865687c5_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHAgc3R5bGU9InRleHQtYWxpZ246IHJpZ2h0OyI+PGEgaHJlZj0iaHR0cDovL3lhdHJhc2FsYWgu
+Y29tL3c5LUJ2SkpwNF9BOSI+Jm5ic3A7PC9hPjwvcD4KPGNlbnRlcj4KPHRhYmxlIHN0eWxlPSJ0
+ZXh0LWFsaWduOiBjZW50ZXI7IiB3aWR0aD0iNjAwIj4KPHRib2R5Pgo8dHIgc3R5bGU9InRleHQt
+YWxpZ246IGNlbnRlcjsiPgo8dGQgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiIHdpZHRoPSI2
+MDAiPjxhIGhyZWY9Imh0dHA6Ly95YXRyYXNhbGFoLmNvbS9RcHF0YjExVmtwZXgiPjxpbWcgc3Jj
+PSJodHRwOi8veWF0cmFzYWxhaC5jb20vaW1hZ2VzLzU1YzE1YTMyOTQ2YzlmYmMzNTk4Zjg0OTk2
+NzUxNmIxIiAvPiA8L2E+PC90ZD4KPC90cj4KPC90Ym9keT4KPC90YWJsZT4KPHRhYmxlIHN0eWxl
+PSJ0ZXh0LWFsaWduOiBjZW50ZXI7IiB3aWR0aD0iNjAwIj4KPHRib2R5Pgo8dHIgc3R5bGU9InRl
+eHQtYWxpZ246IGNlbnRlcjsiPgo8dGQgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiIHdpZHRo
+PSI2MDAiPlRoaXMgaXMgYW4gYWR2ZXJ0aXNlbWVudC48YnIgLz4gVGhpcyBlbWFpbCB3YXMgc2Vu
+dCBvbiBiZWhhbGYgb2YgRWFzeSBDYW52YXMgUHJpbnRzLiA8YnIgLz4gVG8gc3RvcCByZWNlaXZp
+bmcgZW1haWxzIGFib3V0IEVhc3kgQ2FudmFzIFByaW50cywgPGEgaHJlZj0iaHR0cDovL3lhdHJh
+c2FsYWguY29tL2lMTVA5WFgzR05ERCI+VW5zdWJzY3JpYmU8L2E+IG9yIHdyaXRlIHRvOjxiciAv
+PiAxMTUyNUEgU3RvbmVob2xsb3cgRHIuIFN1aXRlIDEwMCBBdXN0aW4sIFRYIDc4NzU4IDwvdGQ+
+CjwvdHI+CjwvdGJvZHk+CjwvdGFibGU+CjwvY2VudGVyPg==
+
+---_-_-f0e18d571859c2922fb86ab5__38deeec648865687c5_-_---

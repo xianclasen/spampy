@@ -1,0 +1,110 @@
+Return-Path: <SRS0=LI5Yy3=3O=mail.carsvasite.us=6991-2982-85526-1861-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1738 invoked from network); 25 Jan 2020 13:02:38 -0000
+Received: (qmail 31936 invoked from network); 25 Jan 2020 13:02:37 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 13:02:37 -0000
+Received: (qmail 24436 invoked by uid 48516); 25 Jan 2020 13:02:36 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 24513 invoked from network); 25 Jan 2020 13:02:35 -0000
+Received: from haven.carsvasite.us ([170.130.174.62])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 25 Jan 2020 13:02:18 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=carsvasite.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=TruthAboutHerpes@carsvasite.us;
+ bh=n7MniJ7OpFBQGiZqOQR7tI4zwnA=;
+ b=UPBx47NKo4plVNM4qqeC8GAq7/17iNni3ugllk6101ZnZjjL7k8XysWK4WY1EaE+YT2oA7Scfoyd
+   APAIwXaZOvyft7lK4tw2RV1ScoMbQeMTnvY4ynyEiJxt/fORcJ9SQbUDK8nKa8ExrwxaO2DyyRHI
+   lGHfixOUtqh3nKpmMQI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=carsvasite.us;
+ b=XH4FXQxnNuLOeZbcfyU6QOMV1nz3BIp42qUyEqipXwtU53wHTN1JTRPjp3J48UU3C92npTBSrB8E
+   oiFhDMBqDrmhHux7godxklkktynsbN0/raeVkkI2hWU7pI6xEq2pXHC2tBM3S4CeUoPvgykyza6T
+   C/0SHIrVbBDQZuGbT88=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="40d0c5509326ae479c839a0434530fc2_ba6_14e16"
+Date: Sat, 25 Jan 2020 07:57:47 -0500
+From: "TruthAboutHerpes" <TruthAboutHerpes@carsvasite.us>
+Reply-To: "TruthAboutHerpes" <TruthAboutHerpes@carsvasite.us>
+Subject: Big Pharma has only one plan: Make money by selling overpriced drugs
+To: <bruce@untroubled.org>
+Message-ID: <fv503c6tngclyhki-jftcsu39obuvy42s-ba6-14e16@carsvasite.us>
+Content-Length: 7698
+
+--40d0c5509326ae479c839a0434530fc2_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Big Pharma has only one plan: Make money by selling overpriced drugs
+
+http://carsvasite.us/moa1PSPmW6mEZ2f26hPYGQq2Muas6gfreKEyF9TImzkR0FaW
+
+http://carsvasite.us/1cpgkE6YkqnAm8sECqI_JivWqkjcc_jMhKPog6Fgd2yiOuNB
+
+Another powerful space guard. She first came to the earth in her space, when Shaktimaan tried to stop her he was attacked by powerful rays from her space. Like Mr. Subkar electricity and bullets do not harm her, her mind is faster than computer and she can also fly. She (along with Mr. Subkar) is the owner of Inter Gallactic Prison. Sheena and Mr. Subkar were the first people who saw Shaheb's real face and made him arrested by the police. Later in a spaceship, they follow Jaikal but Jaikal blasts their spaceship and Mr. Subkar and Sheena are badly injured and turn. So Shaktimaan finds a special flower to save them and in the process, he catches Dr. Jackal and then freezes him along with the others in the Inter-Galactic Prison (A prison made in galaxy near the sun made by the space guards Mr. Subkar and Sheena). When Mr. Subkar and Sheena are saved they are about to leave Mayor of the city Kumar Ranjan comes and name them foreign spy living visas and do not allow them to go. Later to defame Shaktimaan he spreads a virus in the city and says it is done by the space guards. Also kidnaps Mr. Subkar and Sheena and tells its done by Shaktimaan and an arrest comes out for Shaktimaan, but Mr. Subkar and Sheena brings the truth by showing the real face of Kumar Ranjan.
+
+Dr. Shishir
+
+He is a really powerful Suryanshi or even one of the most powerful Suryanshis, he possesses telekinetic power and can bring anyone to himself and even no one can move if he catches them. He lives with Sanjeev Mahashay at the secret places of Suryanshis in the city and even runs a hospital. He has also helped Shaktimaan many times in defeating Tamraj Kilvish's armies.
+
+Vivek/Andhi and Abhimanyu
+
+He is a really powerful Suryanshi he has the power of wind and it comes out from his eyes. He lives with Sanjeev Mahashay at the secret places of Suryanshis in the city and even runs a hospital. One blow from his mouth throws the person wherever he wants. He is later killed by Tamraj Kilvish but his brother Abhimanuv has same powers. He joins them and fills his place and also helped Shaktimaan many times in defeating Tamraj Kilvish's armies.
+
+Abhinav/Vidyut
+
+He is a really powerful Suryanshi he has the power of fire and fire rays comes out from his eyes. He lives with Sanjeev Mahashay at the secret places of Suryanshis in the city and even runs a hospital. He has also helped Shaktimaan many times in defeating Tamraj Kilvish's armies. He is also rarely shown using 'Murli-Magic', to ensnare his gurus to act upon his will.
+
+--40d0c5509326ae479c839a0434530fc2_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://carsvasite.us/Ox6aXM0qtbYNMg8RM2XDyjqek6-hnJl1tYVumiGBUqZaWDzR"><img src="http://carsvasite.us/b49f9b5385573d1c35.jpg" /><img height="1" src="http://www.carsvasite.us/ev_5iJPhVFBbw1H7KTQKF9tkbfBiwnt-hvUB2AJsdUsSLphH" width="1" /></a><br />
+<br />
+<br />
+&nbsp;
+<div style="width:500px;padding:10px; font-family:Calibri; font-size:18px;">Imagine&hellip;<br />
+<br />
+No more feelings of guilt and regret about your infection&hellip; no more obsessing of what you have or haven&rsquo;t done to protect yourself and others&hellip; no more paranoia about infecting someone you love or about other people finding out.<br />
+<br />
+After months of suffering I gave in to the pleas of my mother and let my father in on my secret<br />
+<br />
+Like me, my father had been disappointed by Big Pharma.<br />
+<br />
+<a href="http://carsvasite.us/moa1PSPmW6mEZ2f26hPYGQq2Muas6gfreKEyF9TImzkR0FaW"><b>All the time they tried to get him to peddle their drugs to his patients.</b></a><br />
+<br />
+First, most <b>people don&rsquo;t believe free information</b> is worth anything&hellip; so they ignore it.<br />
+<br />
+<a href="http://carsvasite.us/moa1PSPmW6mEZ2f26hPYGQq2Muas6gfreKEyF9TImzkR0FaW"><img src="http://carsvasite.us/4644416b14fdb4ae1a.png" /></a><br />
+And the second, most important reason is that I&rsquo;ll invest a large part of this money into educating people about this treatment. Plus&hellip;<br />
+<br />
+You have an <b>important decision to make now,</b> one that will have a dramatic effect on your life.<br />
+<br />
+Obviously, I can&rsquo;t make it for you but I honestly believe there are no accidents in life.<br />
+<br />
+<a href="http://carsvasite.us/moa1PSPmW6mEZ2f26hPYGQq2Muas6gfreKEyF9TImzkR0FaW"><b>So click here and check the presentation Now.</b></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://carsvasite.us/yIBnCxAIiYVhtlDt9OH2T5z1CrzmGyUNyTn6CQZXq9FrPoe_"><img src="http://carsvasite.us/b8ca722a0915c1837b.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#ffffff;">Another powerful space guard. She first came to the earth in her space, when Shaktimaan tried to stop her he was attacked by powerful rays from her space. Like Mr. Subkar electricity and bullets do not harm her, her mind is faster than computer and she can also fly. She (along with Mr. Subkar) is the owner of Inter Gallactic Prison. Sheena and Mr. Subkar were the first people who saw Shaheb&#39;s real face and made him arrested by the police. Later in a spaceship, they follow Jaikal but Jaikal blasts their spaceship and Mr. Subkar and Sheena are badly injured and turn. So Shaktimaan finds a special flower to save them and in the process, he catches Dr. Jackal and then freezes him along with the others in the Inter-Galactic Prison (A prison made in galaxy near the sun made by the space guards Mr. Subkar and Sheena). When Mr. Subkar and Sheena are saved they are about to leave Mayor of the city Kumar Ranjan comes and name them foreign spy living visas and do not allow them to go. Later to defame Shaktimaan he spreads a virus in the city and says it is done by the space guards. Also kidnaps Mr. Subkar and Sheena and tells its done by Shaktimaan and an arrest comes out for Shaktimaan, but Mr. Subkar and Sheena brings the truth by showing the real face of Kumar Ranjan. Dr. Shishir He is a really powerful Suryanshi or even one of the most powerful Suryanshis, he possesses telekinetic power and can bring anyone to himself and even no one can move if he catches them. He lives with Sanjeev Mahashay at the secret places of Suryanshis in the city and even runs a hospital. He has also helped Shaktimaan many times in defeating Tamraj Kilvish&#39;s armies. Vivek/Andhi and Abhimanyu He is a really powerful Suryanshi he has the power of wind and it comes out from his eyes. He lives with Sanjeev Mahashay at the secret places of Suryanshis in the city and even runs a hospital. One blow from his mouth throws the person wherever he wants. He is later killed by Tamraj Kilvish but his brother Abhimanuv has same powers. He joins them and fills his place and also helped Shaktimaan many times in defeating Tamraj Kilvish&#39;s armies. Abhinav/Vidyut He is a really powerful Suryanshi he has the power of fire and fire rays comes out from his eyes. He lives with Sanjeev Mahashay at the secret places of Suryanshis in the city and even runs a hospital. He has also helped Shaktimaan many times in defeating Tamraj Kilvish&#39;s armies. He is also rarely shown using &#39;Murli-Magic&#39;, to ensnare his gurus to act upon his will. </span></body>
+</html>
+
+--40d0c5509326ae479c839a0434530fc2_ba6_14e16--

@@ -1,0 +1,139 @@
+Return-Path: <SRS0=5D60Lt=2Z=aircoolll.co=LibertyMutual@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27452 invoked from network); 4 Jan 2020 09:34:40 -0000
+Received: (qmail 22934 invoked from network); 4 Jan 2020 09:34:40 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Jan 2020 09:34:40 -0000
+Received: (qmail 4224 invoked by uid 48516); 4 Jan 2020 09:34:39 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31692 invoked from network); 4 Jan 2020 09:34:39 -0000
+Received: from 01280e1e.aircoolll.co (63-81-90-190.nca.lanset.com [63.81.90.190])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 04 Jan 2020 09:34:39 -0000
+Received: from 01280e1e.a2a5v0.aircoolll.co ([127.0.0.1]:12148 helo=a2a5v0.aircoolll.co)
+	by a2a5v0.aircoolll.co with ESMTP id 01ENJQNNFDV280ENFVQICRLW1E;
+	for <bruce@untroubled.org>; Sat, 4 Jan 2020 01:34:37 -0800
+Date: Sat, 4 Jan 2020 01:34:37 -0800
+To: <bruce@untroubled.org>
+Message-ID: <314838619399122314810551313942439@a2a5v0.aircoolll.co>
+From: "Liberty Mutual" <LibertyMutual@aircoolll.co>
+Subject: Get your customized insurance quote
+Content-Language: en-us
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: multipart/alternative;
+	boundary="----=Part.585.5941.1578130477"
+Content-Length: 8963
+
+------=Part.585.5941.1578130477
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+
+
+Get your customized insurance quote
+
+http://www.aircoolll.co/l/lt7Q3148RF13TV/1055CC1394F2439R108U19399122HA1062296254/qs/?email=f8f706c3938feec43d1f111ad3c0a047
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://www.aircoolll.co/l/lc8E3148NN13PF/1055DE1394M2439G108A19399122CL1062296254/qs/?email=f8f706c3938feec43d1f111ad3c0a047
+
+
+
+
+Veins (sometimes referred to as nerves) constitute one of the more visible leaf traits or characteristics. The veins in a leaf represent the vascular structure of the organ, extending into the leaf via the petiole and provide transportation of water and nutrients between leaf and stem, and play a crucial role in the maintenance of leaf water status and photosynthetic capacity.They also play a role in the mechanical support of the leaf.[19][20] Within the lamina of the leaf, while some vascular plants possess only a single vein, in most this vasculature generally divides (ramifies) according to a variety of patterns (venation) and form cylindrical bundles, usually lying in the median plane of the mesophyll, between the two layers of epidermis.[21] This pattern is often specific to taxa, and of which angiosperms possess two main types, parallel and reticulate (net like). In general, parallel venation is typical of monocots, while reticulate is more typical of eudicots and magnoliids ("dicots"), though there are many exceptions.[22][21][23] The vein or veins entering the leaf from the petiole are called primary or first order veins. The veins branching from these are secondary or second order veins. These primary and secondary veins are considered major veins or lower order veins, though some authors include third order.[24] Each subsequent branching is sequentially numbered, and these are the higher order veins, each branching being associated with a narrower vein diameter.[25] In parallel veined leaves, the primary veins run parallel and equidistant to each other for most of the length of the leaf and then converge or fuse (anastomose) towards the apex. Usually, many smaller minor veins interconnect these primary veins, but may terminate with very fine vein endings in the mesophyll. Minor veins are more typical of angiosperms, which may have as many as four higher orders.[24] In contrast, leaves with reticulate venation there is a single (sometimes more) primary vein in the centre of the leaf, referred to as the midrib or costa and is continuous with the vasculature of the petiole more proximally. The midrib then branches to a number of smaller secondary veins, also known as second order veins, that extend toward the leaf margins. These often terminate in a hydathode, a secretory organ, at the margin. In turn, smaller veins branch from the secondary veins, known as tertiary or third order (or higher order) veins, forming a dense reticulate pattern. The areas or islands of mesophyll lying between the higher order veins, are called areoles. Some of the smallest veins (veinlets) may have their endings in the areoles, a process known as areolation.[25] These minor veins act as the sites of exchange between the mesophyll and the plant's vascular
+
+------=Part.585.5941.1578130477
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset="UTF-8"
+
+PGh0bWw+DQo8aGVhZD4NCgk8dGl0bGU+TmV3c2xldHRlcjwvdGl0bGU+DQo8L2hlYWQ+DQo8Ym9k
+eT4NCjxjZW50ZXI+DQo8ZGl2PjxiciAvPg0KPGJyIC8+DQo8YSBocmVmPSJodHRwOi8vd3d3LmFp
+cmNvb2xsbC5jby9sL2x0MVgzMTQ4VFYxM0FOLzEwNTVLWDEzOTRFMjQzOUUxMDhGMTkzOTkxMjJC
+QzEwNjIyOTYyNTQvcXMvP2VtYWlsPWY4ZjcwNmMzOTM4ZmVlYzQzZDFmMTExYWQzYzBhMDQ3IiBz
+dHlsZT0iZm9udC1zaXplOjQwcHg7Zm9udC1mYW1pbHk6QXJpYWw7IGNvbG9yOiMwQjAxMUE7IHRl
+eHQtZGVjb3JhdGlvbjpub25lOyI+R2V0IHlvdXIgY3VzdG9taXplZCBpbnN1cmFuY2UgcXVvdGU8
+L2E+PGJyIC8+DQo8YnIgLz4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuYWlyY29vbGxsLmNvL2wvbHQy
+SzMxNDhGSDEzQ0IvMTA1NVJFMTM5NEgyNDM5SDEwOFMxOTM5OTEyMllPMTA2MjI5NjI1NC9xcy8/
+ZW1haWw9ZjhmNzA2YzM5MzhmZWVjNDNkMWYxMTFhZDNjMGEwNDciPjxpbWcgc3JjPSJodHRwOi8v
+d3d3LmFpcmNvb2xsbC5jby9pbS9YMzE0OEREMTNGRi8xMDU1R1MxMzk0REMyNDM5UjEwOEUxOTM5
+OTEyMlBFMTA2MjI5NjI1NC9pbWcwMTMxMDU1Mzg2LmpwZyIgLz48L2E+PGJyIC8+DQo8YnIgLz4N
+CjxiciAvPg0KPGJyIC8+DQo8YnIgLz4NCjxiciAvPg0KPGJyIC8+DQo8YnIgLz4NCjxiciAvPg0K
+PGEgaHJlZj0iaHR0cDovL3d3dy5haXJjb29sbGwuY28vbC9sYzNFMzE0OFdJMTNMQS8xMDU1S1Yx
+Mzk0RjI0MzlVMTA4WTE5Mzk5MTIySU8xMDYyMjk2MjU0L3FzLz9lbWFpbD1mOGY3MDZjMzkzOGZl
+ZWM0M2QxZjExMWFkM2MwYTA0NyI+PGltZyBzcmM9Imh0dHA6Ly93d3cuYWlyY29vbGxsLmNvL2lt
+L0QzMTQ4UFYxM1hQLzEwNTVMVzEzOTRVTzI0MzlFMTA4QjE5Mzk5MTIyV1kxMDYyMjk2MjU0L2lt
+ZzExMzEwNTUzODYuanBnIiAvPjwvYT48YnIgLz4NCjxiciAvPg0KPGJyIC8+DQo8YnIgLz4NCjxi
+ciAvPg0KPGJyIC8+DQo8YnIgLz4NCjxiciAvPg0KPGJyIC8+DQo8YSBocmVmPSJodHRwOi8vd3d3
+LmFpcmNvb2xsbC5jby91bnNHMzE0OFlRMTNNUi8xMDU1VzEzOTRTTzI0MzlGRjEwOFExOTM5OTEy
+MlNCMTA2MjI5NjI1NC9xcy8/ZW1haWw9ZjhmNzA2YzM5MzhmZWVjNDNkMWYxMTFhZDNjMGEwNDci
+PjxpbWcgc3JjPSJodHRwOi8vd3d3LmFpcmNvb2xsbC5jby9pbS9WMzE0OE5DMTNGQy8xMDU1SVcx
+Mzk0QUkyNDM5TzEwOE4xOTM5OTEyMkhLMTA2MjI5NjI1NC9pbWcyMTMxMDU1Mzg2LmpwZyIgLz48
+L2E+PC9kaXY+DQo8YnIgLz4NCjxiciAvPg0KPHNwYW4gc3R5bGU9ImNvbG9yOiNGRkZGRkY7Zm9u
+dC1zaXplOjZweDsiPlZlaW5zIChzb21ldGltZXMgcmVmZXJyZWQgdG8gYXMgbmVydmVzKSBjb25z
+dGl0dXRlIG9uZSBvZiB0aGUgbW9yZSB2aXNpYmxlIGxlYWYgdHJhaXRzIG9yIGNoYXJhY3Rlcmlz
+dGljcy4gVGhlIHZlaW5zIGluIGEgbGVhZiByZXByZXNlbnQgdGhlIHZhc2N1bGFyIHN0cnVjdHVy
+ZSBvZiB0aGUgb3JnYW4sIGV4dGVuZGluZyBpbnRvIHRoZSBsZWFmIHZpYSB0aGUgcGV0aW9sZSBh
+bmQgcHJvdmlkZSB0cmFuc3BvcnRhdGlvbiBvZiB3YXRlciBhbmQgbnV0cmllbnRzIGJldHdlZW4g
+bGVhZiBhbmQgc3RlbSwgYW5kIHBsYXkgYSBjcnVjaWFsIHJvbGUgaW4gdGhlIG1haW50ZW5hbmNl
+IG9mIGxlYWYgd2F0ZXIgc3RhdHVzIGFuZCBwaG90b3N5bnRoZXRpYyBjYXBhY2l0eS5UaGV5IGFs
+c28gcGxheSBhIHJvbGUgaW4gdGhlIG1lY2hhbmljYWwgc3VwcG9ydCBvZiB0aGUgbGVhZi5bMTld
+WzIwXSBXaXRoaW4gdGhlIGxhbWluYSBvZiB0aGUgbGVhZiwgd2hpbGUgc29tZSB2YXNjdWxhciBw
+bGFudHMgcG9zc2VzcyBvbmx5IGEgc2luZ2xlIHZlaW4sIGluIG1vc3QgdGhpcyB2YXNjdWxhdHVy
+ZSBnZW5lcmFsbHkgZGl2aWRlcyAocmFtaWZpZXMpIGFjY29yZGluZyB0byBhIHZhcmlldHkgb2Yg
+cGF0dGVybnMgKHZlbmF0aW9uKSBhbmQgZm9ybSBjeWxpbmRyaWNhbCBidW5kbGVzLCB1c3VhbGx5
+IGx5aW5nIGluIHRoZSBtZWRpYW4gcGxhbmUgb2YgdGhlIG1lc29waHlsbCwgYmV0d2VlbiB0aGUg
+dHdvIGxheWVycyBvZiBlcGlkZXJtaXMuWzIxXSBUaGlzIHBhdHRlcm4gaXMgb2Z0ZW4gc3BlY2lm
+aWMgdG8gdGF4YSwgYW5kIG9mIHdoaWNoIGFuZ2lvc3Blcm1zIHBvc3Nlc3MgdHdvIG1haW4gdHlw
+ZXMsIHBhcmFsbGVsIGFuZCByZXRpY3VsYXRlIChuZXQgbGlrZSkuIEluIGdlbmVyYWwsIHBhcmFs
+bGVsIHZlbmF0aW9uIGlzIHR5cGljYWwgb2YgbW9ub2NvdHMsIHdoaWxlIHJldGljdWxhdGUgaXMg
+bW9yZSB0eXBpY2FsIG9mIGV1ZGljb3RzIGFuZCBtYWdub2xpaWRzICgiZGljb3RzIiksIHRob3Vn
+aCB0aGVyZSBhcmUgbWFueSBleGNlcHRpb25zLlsyMl1bMjFdWzIzXSBUaGUgdmVpbiBvciB2ZWlu
+cyBlbnRlcmluZyB0aGUgbGVhZiBmcm9tIHRoZSBwZXRpb2xlIGFyZSBjYWxsZWQgcHJpbWFyeSBv
+ciBmaXJzdCBvcmRlciB2ZWlucy4gVGhlIHZlaW5zIGJyYW5jaGluZyBmcm9tIHRoZXNlIGFyZSBz
+ZWNvbmRhcnkgb3Igc2Vjb25kIG9yZGVyIHZlaW5zLiBUaGVzZSBwcmltYXJ5IGFuZCBzZWNvbmRh
+cnkgdmVpbnMgYXJlIGNvbnNpZGVyZWQgbWFqb3IgdmVpbnMgb3IgbG93ZXIgb3JkZXIgdmVpbnMs
+IHRob3VnaCBzb21lIGF1dGhvcnMgaW5jbHVkZSB0aGlyZCBvcmRlci5bMjRdIEVhY2ggc3Vic2Vx
+dWVudCBicmFuY2hpbmcgaXMgc2VxdWVudGlhbGx5IG51bWJlcmVkLCBhbmQgdGhlc2UgYXJlIHRo
+ZSBoaWdoZXIgb3JkZXIgdmVpbnMsIGVhY2ggYnJhbmNoaW5nIGJlaW5nIGFzc29jaWF0ZWQgd2l0
+aCBhIG5hcnJvd2VyIHZlaW4gZGlhbWV0ZXIuWzI1XSBJbiBwYXJhbGxlbCB2ZWluZWQgbGVhdmVz
+LCB0aGUgcHJpbWFyeSB2ZWlucyBydW4gcGFyYWxsZWwgYW5kIGVxdWlkaXN0YW50IHRvIGVhY2gg
+b3RoZXIgZm9yIG1vc3Qgb2YgdGhlIGxlbmd0aCBvZiB0aGUgbGVhZiBhbmQgdGhlbiBjb252ZXJn
+ZSBvciBmdXNlIChhbmFzdG9tb3NlKSB0b3dhcmRzIHRoZSBhcGV4LiBVc3VhbGx5LCBtYW55IHNt
+YWxsZXIgbWlub3IgdmVpbnMgaW50ZXJjb25uZWN0IHRoZXNlIHByaW1hcnkgdmVpbnMsIGJ1dCBt
+YXkgdGVybWluYXRlIHdpdGggdmVyeSBmaW5lIHZlaW4gZW5kaW5ncyBpbiB0aGUgbWVzb3BoeWxs
+LiBNaW5vciB2ZWlucyBhcmUgbW9yZSB0eXBpY2FsIG9mIGFuZ2lvc3Blcm1zLCB3aGljaCBtYXkg
+aGF2ZSBhcyBtYW55IGFzIGZvdXIgaGlnaGVyIG9yZGVycy5bMjRdIEluIGNvbnRyYXN0LCBsZWF2
+ZXMgd2l0aCByZXRpY3VsYXRlIHZlbmF0aW9uIHRoZXJlIGlzIGEgc2luZ2xlIChzb21ldGltZXMg
+bW9yZSkgcHJpbWFyeSB2ZWluIGluIHRoZSBjZW50cmUgb2YgdGhlIGxlYWYsIHJlZmVycmVkIHRv
+IGFzIHRoZSBtaWRyaWIgb3IgY29zdGEgYW5kIGlzIGNvbnRpbnVvdXMgd2l0aCB0aGUgdmFzY3Vs
+YXR1cmUgb2YgdGhlIHBldGlvbGUgbW9yZSBwcm94aW1hbGx5LiBUaGUgbWlkcmliIHRoZW4gYnJh
+bmNoZXMgdG8gYSBudW1iZXIgb2Ygc21hbGxlciBzZWNvbmRhcnkgdmVpbnMsIGFsc28ga25vd24g
+YXMgc2Vjb25kIG9yZGVyIHZlaW5zLCB0aGF0IGV4dGVuZCB0b3dhcmQgdGhlIGxlYWYgbWFyZ2lu
+cy4gVGhlc2Ugb2Z0ZW4gdGVybWluYXRlIGluIGEgaHlkYXRob2RlLCBhIHNlY3JldG9yeSBvcmdh
+biwgYXQgdGhlIG1hcmdpbi4gSW4gdHVybiwgc21hbGxlciB2ZWlucyBicmFuY2ggZnJvbSB0aGUg
+c2Vjb25kYXJ5IHZlaW5zLCBrbm93biBhcyB0ZXJ0aWFyeSBvciB0aGlyZCBvcmRlciAob3IgaGln
+aGVyIG9yZGVyKSB2ZWlucywgZm9ybWluZyBhIGRlbnNlIHJldGljdWxhdGUgcGF0dGVybi4gVGhl
+IGFyZWFzIG9yIGlzbGFuZHMgb2YgbWVzb3BoeWxsIGx5aW5nIGJldHdlZW4gdGhlIGhpZ2hlciBv
+cmRlciB2ZWlucywgYXJlIGNhbGxlZCBhcmVvbGVzLiBTb21lIG9mIHRoZSBzbWFsbGVzdCB2ZWlu
+cyAodmVpbmxldHMpIG1heSBoYXZlIHRoZWlyIGVuZGluZ3MgaW4gdGhlIGFyZW9sZXMsIGEgcHJv
+Y2VzcyBrbm93biBhcyBhcmVvbGF0aW9uLlsyNV0gVGhlc2UgbWlub3IgdmVpbnMgYWN0IGFzIHRo
+ZSBzaXRlcyBvZiBleGNoYW5nZSBiZXR3ZWVuIHRoZSBtZXNvcGh5bGwgYW5kIHRoZSBwbGFudCYj
+Mzk7cyB2YXNjdWxhciA8L3NwYW4+PC9jZW50ZXI+DQoNCjwvYm9keT4NCjwvaHRtbD4=
+
+------=Part.585.5941.1578130477--
+

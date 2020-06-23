@@ -1,0 +1,95 @@
+Return-Path: <SRS0=G1X6KQ=24=mail.seasonalbrain.us=5976-2982-85526-1606-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 13675 invoked from network); 7 Jan 2020 10:46:40 -0000
+Received: (qmail 7510 invoked from network); 7 Jan 2020 10:46:39 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 10:46:39 -0000
+Received: (qmail 5037 invoked by uid 48516); 7 Jan 2020 10:46:39 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 30016 invoked from network); 7 Jan 2020 10:46:39 -0000
+Received: from harry.seasonalbrain.us (ago6ods54.agoradamp.press [170.130.172.214])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 07 Jan 2020 10:46:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=seasonalbrain.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=1ink.com@seasonalbrain.us;
+ bh=xFjqHhViJgxTy/Tr9JWMAKJ+Nsg=;
+ b=IqsR0Eqp2BQLqhf3SKY5uLZ/Y62P9mQjlnwI9Bw7uKMMx1CF35c/CJnHymYvg2ROKbACgvnht2AR
+   z3tqMbHSVzjZFMEvSt4u11NBMqsJjFUM6IKpVTz7RSveb2ZzXrZfOw1PXQ9BiNU0duktVt+lyN2/
+   Z6mtMEog+WGCdRT1PDg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=seasonalbrain.us;
+ b=RblLNH53bwllSx1/MJ1uRGFtyRTzfnGmWIClmnVhmtL7/z6KOnZaOTNQqpp+AZ+n49jmCwnV2Nhm
+   7FkiHLpByKz69N7hGa9r3e6ZbmuM67A5twwWdOAP1ySp8hWlBmNhpQlchRVq9X36bN3xg6Ii3g0n
+   +dceAduSwQpmc/8zKe0=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="0249d3f5d712543d7a135dc440828a89_ba6_14e16"
+Date: Tue, 7 Jan 2020 05:46:35 -0500
+From: "1ink" <1ink.com@seasonalbrain.us>
+Reply-To: "1ink.com" <1ink@seasonalbrain.us>
+Subject: Ink and toner sale up to 85% off
+To: <bruce@untroubled.org>
+Message-ID: <rrca30rp334yub65-vl7xwfydxzflo97s-ba6-14e16@seasonalbrain.us>
+Content-Length: 5520
+
+--0249d3f5d712543d7a135dc440828a89_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Ink and toner sale up to 85% off
+
+http://seasonalbrain.us/0Q8zqq63bRFY4zwwIrpG0U7yJnh3W5d1lHVVGMjkV9lEWNg
+
+http://seasonalbrain.us/fPsNCUBEygk3LiRigusApgELSV8JDEVD5rIGBzv65fCUGzE
+
+The actual brightness of sunlight that would be observed at the surface also depends on the presence and composition of an atmosphere. For example, Venus's thick atmosphere reflects more than 60% of the solar light it receives. The actual illumination of the surface is about 14,000 lux, comparable to that on Earth "in the daytime with overcast clouds".
+
+Sunlight on Mars would be more or less like daylight on Earth during a slightly overcast day, and, as can be seen in the pictures taken by the rovers, there is enough diffuse sky radiation that shadows would not seem particularly dark. Thus, it would give perceptions and "feel" very much like Earth daylight. The spectrum on the surface is slightly redder than that on Earth, due to scattering by reddish dust in the Martian atmosphere.
+
+For comparison, sunlight on Saturn is slightly brighter than Earth sunlight at the average sunset or sunrise (see daylight for comparison table). Even on Pluto, the sunlight would still be bright enough to almost match the average living room. To see sunlight as dim as full moonlight on Earth, a distance of about 500 AU (~69 light-hours) is needed; only a handful of objects in the Solar System have been discovered that are known to orbit farther than such a distance, among them 90377 Sedna and (87269) 2000 OO67.
+Surface illumination
+Sunlight shining through clouds, giving rise to crepuscular rays
+
+The spectrum of surface illumination depends upon solar elevation due to atmospheric effects, with the blue spectral component dominating during twilight before and after sunrise and sunset, respectively, and red dominating during sunrise and sunset. These effects are apparent in natural light photography where the principal source of illumination is sunlight as mediated by the atmosphere.
+
+While the color of the sky is usually determined by Rayleigh scattering, an exception occurs at sunset and twilight. "Preferential absorption of sunlight by ozone over long horizon paths gives the zenith sky its blueness when the sun is near the horizon".
+
+--0249d3f5d712543d7a135dc440828a89_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://seasonalbrain.us/0Q8zqq63bRFY4zwwIrpG0U7yJnh3W5d1lHVVGMjkV9lEWNg" style="font-size:40px;font-family:Arial; color:blue; text-decoration:none;">Ink and toner sale up to 85% off</a><br />
+<br />
+<a href="http://seasonalbrain.us/0Q8zqq63bRFY4zwwIrpG0U7yJnh3W5d1lHVVGMjkV9lEWNg"><img src="http://seasonalbrain.us/5ec9552cc9db3eb0e5.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://seasonalbrain.us/Cn3pCHgveoROHo-l2yEy1W5UJHFhY-q6uL_50Tib6lwzYFXN"><img src="http://seasonalbrain.us/2beae44058aded0546.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://seasonalbrain.us/fPsNCUBEygk3LiRigusApgELSV8JDEVD5rIGBzv65fCUGzE"><img src="http://seasonalbrain.us/8048821abcc66b5c65.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">The actual brightness of sunlight that would be observed at the surface also depends on the presence and composition of an atmosphere. For example, Venus&#39;s thick atmosphere reflects more than 60% of the solar light it receives. The actual illumination of the surface is about 14,000 lux, comparable to that on Earth &quot;in the daytime with overcast clouds&quot;. Sunlight on Mars would be more or less like daylight on Earth during a slightly overcast day, and, as can be seen in the pictures taken by the rovers, there is enough diffuse sky radiation that shadows would not seem particularly dark. Thus, it would give perceptions and &quot;feel&quot; very much like Earth daylight. The spectrum on the surface is slightly redder than that on Earth, due to scattering by reddish dust in the Martian atmosphere. For comparison, sunlight on Saturn is slightly brighter than Earth sunlight at the average sunset or sunrise (see daylight for comparison table). Even on Pluto, the sunlight would still be bright enough to almost match the average living room. To see sunlight as dim as full moonlight on Earth, a distance of about 500 AU (~69 light-hours) is needed; only a handful of objects in the Solar System have been discovered that are known to orbit farther than such a distance, among them 90377 Sedna and (87269) 2000 OO67. Surface illumination Sunlight shining through clouds, giving rise to crepuscular rays The spectrum of surface illumination depends upon solar elevation due to atmospheric effects, with the blue spectral component dominating during twilight before and after sunrise and sunset, respectively, and red dominating during sunrise and sunset. These effects are apparent in natural light photography where the principal source of illumination is sunlight as mediated by the atmosphere. While the color of the sky is usually determined by Rayleigh scattering, an exception occurs at sunset and twilight. &quot;Preferential absorption of sunlight by ozone over long horizon paths gives the zenith sky its blueness when the sun is near the horizon&quot;. </span></center>
+</body>
+</html>
+
+--0249d3f5d712543d7a135dc440828a89_ba6_14e16--

@@ -1,0 +1,339 @@
+Return-Path: <loissmith@webmarketingvendors.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11880 invoked from network); 30 Jan 2020 10:16:03 -0000
+Received: (qmail 64822 invoked by uid 222); 30 Jan 2020 10:16:02 -0000
+Return-Path: <loissmith@webmarketingvendors.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 64819 invoked from network); 30 Jan 2020 10:16:02 -0000
+Received: from mail-qk1-x744.google.com (mail-qk1-x744.google.com [IPv6:2607:f8b0:4864:20::744])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 30 Jan 2020 10:16:02 -0000
+Received: by mail-qk1-x744.google.com with SMTP id d10so2422748qke.1
+        for <bruce@untroubled.org>; Thu, 30 Jan 2020 02:16:02 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=webmarketingvendors.com; s=google;
+        h=mime-version:sender:from:date:message-id:subject:to;
+        bh=3qUmt4zk57oZfKA+wtTv6Jakjv2mcf9zcHzclgLWVLU=;
+        b=SIs4DeUa9ixmQNdltelfU6r4HQldGQLhD9tNPPMsUDCtaX7tiCwJnJ3wxPwD2w/Qn0
+         EZERnHkwM+3s4TpTH3csNaGiHRLVFS+Hyk2LxzNvYN2qbYm7nSIfyUi9oqA8Ndoy0hsy
+         DebsVFVDkolCyPTnIyX06gFkP28Z+B58i6XXT0KfruMZj6Uh4ZjJXqXzZcRGny4L0nMv
+         1xVu2AOsWFvnYh1DNFnnsUjTpCRxcicDSbnTjfHAuljPQbZEBFeJQjJuwgjElfocCaI4
+         ajNrAiJ71uec03qAOhiAwoKA7qDepx6jmpOHtGjVGl7/KCQQVmDiPK4H5io3hpBC5yXV
+         3puQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:sender:from:date:message-id:subject
+         :to;
+        bh=3qUmt4zk57oZfKA+wtTv6Jakjv2mcf9zcHzclgLWVLU=;
+        b=moyX1NTpzLLX9sbFiQcSUVpBtmLJ5DZX1nzRmtObsvYaMXdUoY3QDiqdz2EQesotA1
+         lLLw8Rafa+erRftEC9lvGYDe2xP+BPRd1rhsJFY4ioguhFVAKztnAx50649cFPktmeqG
+         8gJftY6Y1RkAiFVSvNjnIhkanTgipb7xZZSK4+rr00l0LJN5Jb5yutCu+ZkMYPTAKHax
+         VqnrFbr3JTkYYYZeyp7YfWbTgxWU0xiyTZG1+Sv161RGRdH5s7ACi6zpdls8R8d6hNRN
+         loMXRoQ/bD8GQ5+21ZrCTXXSL5FzDdNQIrMGc/FQuQq1RburZMKblnqdX0lthbV9PHeA
+         /v6w==
+X-Gm-Message-State: APjAAAWkF4gkEYdL6Mtdff3bs+Aj8WoZP5rK2GfvJcSjzqT4BfZ7/KYS
+	3veB8Os8nhhfeMLEhw26uR8dQOiqn18CqZtXBH+wANNl
+X-Google-Smtp-Source: APXvYqzG8gbOD1of8o3X0b+/Da5p63D4RmUgalS/67uqmdyYywjJM2oiRb7BxStYyJBouat4Y4qlFJC+L1SQwQ6pJyk=
+X-Received: by 2002:a05:620a:1001:: with SMTP id z1mr3980726qkj.99.1580379361589;
+ Thu, 30 Jan 2020 02:16:01 -0800 (PST)
+Received: from 52669349336 named unknown by gmailapi.google.com with HTTPREST;
+ Thu, 30 Jan 2020 05:16:01 -0500
+MIME-Version: 1.0
+Sender: Lois Smith <loissmith@webmarketingvendors.com>
+From: Lois Smith <loissmith@webmarketingvendors.com>
+Date: Thu, 30 Jan 2020 05:16:01 -0500
+X-Google-Sender-Auth: z9tmZWYiStMprgmPhOEwWyj7cjE
+Message-ID: <CAAP2SV6URf2d_0frYKW0ki7Je1TiVg=pEKiJ_Rvnj75e-j2x1A@mail.gmail.com>
+Subject: Re : untroubled.org : You Need a Website Redesign.
+To: Bruce <bruce@untroubled.org>
+Content-Type: multipart/alternative; boundary="000000000000753c62059d58bee9"
+Content-Length: 14125
+
+--000000000000753c62059d58bee9
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi untroubled.org
+
+Greetings!
+
+I am Lois Smith, Business Development Manager,
+
+We are providing Website Design and Apps Development service and more!
+
+*Our Web Development services include:-*
+
+=C2=B7  E-commerce and Apps development
+
+=C2=B7  Joomla Web Development
+
+=C2=B7  Wordpress Web Development
+
+=C2=B7  Drupal CMS Development
+
+=C2=B7  Magneto Commerce Development and more!
+
+
+*Our Web Design Services include:-*
+
+=C2=B7  Dynamic website design
+
+=C2=B7  Static website design
+
+=C2=B7  Responsive web design
+
+=C2=B7  Custom web design
+
+=C2=B7  Corporate website design
+
+=C2=B7  Web portal design
+
+
+If you are* interested*, then I can send you our past work details,
+affordable quotation, samples, price list with best offer.
+
+Kind Regards,
+
+Lois Smith,
+
+Business Development Manager
+
+-------------------------------------------------------------
+
+ Note: Kindly please email with the subject line "*Interested*" or allow me
+to sent "*No Obligation Audit Report"*.
+[image: beacon]
+
+--000000000000753c62059d58bee9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"line-height:normal;background:white none re=
+peat scroll 0% 0%;margin:0in 0in 10pt;font-size:11pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:12pt;font-family=
+:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)"></span><b><u=
+><span style=3D"font-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-ser=
+if&quot;;color:rgb(17,85,204)"></span></u></b><span style=3D"font-size:12pt=
+;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">=
+Hi <a href=3D"http://untroubled.org">untroubled.org</a><br></span></p><p cl=
+ass=3D"MsoNormal" style=3D"line-height:normal;background:white none repeat =
+scroll 0% 0%;margin:0in 0in 10pt;font-size:11pt;font-family:&quot;Calibri&q=
+uot;,&quot;sans-serif&quot;"><span style=3D"font-size:12pt;font-family:&quo=
+t;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)"><span></span></sp=
+an></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal;background:white none re=
+peat scroll 0% 0%;margin:0in 0in 10pt;font-size:11pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:12pt;font-family=
+:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">Greetings!<s=
+pan></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal;background:white none re=
+peat scroll 0% 0%;margin:0in 0in 10pt;font-size:11pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:12pt;font-family=
+:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(73,73,73)">I
+am </span><span style=3D"font-size:12pt;font-family:&quot;Arial&quot;,&quot=
+;sans-serif&quot;;color:rgb(34,34,34)">Lois Smith,=C2=A0</span><span style=
+=3D"font-size:12pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;co=
+lor:rgb(34,34,34)">Business Development Manager,</span><span style=3D"font-=
+size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34=
+,34,34)">=C2=A0<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal;background:white none re=
+peat scroll 0% 0%;margin:0in 0in 10pt;font-size:11pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:12pt;font-family=
+:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">We
+are providing Website Design and Apps Development service and more!<span></=
+span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal;background:white none re=
+peat scroll 0% 0%;margin:0in 0in 10pt;font-size:11pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;"><b><span style=3D"font-size:12pt;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">Our Web D=
+evelopment services include:-</span></b><span style=3D"font-size:12pt;font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)"><span>=
+</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">E-commerce and Apps development<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">Joomla Web Development<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">Wordpress Web Development<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">Drupal CMS Development<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">Magneto Commerce Development and more!</span></p><p class=3D"M=
+soNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height:normal;backg=
+round:white none repeat scroll 0% 0%;font-size:11pt;font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;"><br><span style=3D"font-size:12pt;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)"><span></s=
+pan></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal;background:white none re=
+peat scroll 0% 0%;margin:0in 0in 10pt;font-size:11pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;"><b><span style=3D"font-size:12pt;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">Our Web D=
+esign Services include:-</span></b><span style=3D"font-size:12pt;font-famil=
+y:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)"><span></spa=
+n></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">Dynamic website design<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">Static website design<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">Responsive web design<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">Custom web design<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">Corporate website design<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 47.25pt;line-height=
+:normal;background:white none repeat scroll 0% 0%;font-size:11pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:10pt=
+;font-family:Symbol;color:rgb(34,34,34)"><span>=C2=B7<span style=3D"font:7p=
+t &quot;Times New Roman&quot;">=C2=A0 </span></span></span><span style=3D"f=
+ont-size:12pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rg=
+b(34,34,34)">Web portal design</span></p><p class=3D"MsoNormal" style=3D"ma=
+rgin:0in 0in 0.0001pt 47.25pt;line-height:normal;background:white none repe=
+at scroll 0% 0%;font-size:11pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;"><br><span style=3D"font-size:12pt;font-family:&quot;Arial&quot;=
+,&quot;sans-serif&quot;;color:rgb(34,34,34)"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal;background:white none re=
+peat scroll 0% 0%;margin:0in 0in 10pt;font-size:11pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:12pt;font-family=
+:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">If
+you are<b> interested</b>, then I can send you our past work details, affor=
+dable
+quotation, samples, price list with best offer.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal;background:white none re=
+peat scroll 0% 0%;margin:0in 0in 10pt;font-size:11pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:12pt;font-family=
+:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">Kind
+Regards,<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal;background:white none re=
+peat scroll 0% 0%;margin:0in 0in 10pt;font-size:11pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:12pt;font-family=
+:&quot;Arial&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">Lois Smith,<=
+span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+background:white none repeat scroll 0% 0%;font-size:11pt;font-family:&quot;=
+Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:12pt;font-fa=
+mily:&quot;Tahoma&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">Busines=
+s Development
+Manager</span><span style=3D"font-size:12pt;font-family:&quot;Times New Rom=
+an&quot;,&quot;serif&quot;;color:rgb(34,34,34)"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+background:white none repeat scroll 0% 0%;font-size:11pt;font-family:&quot;=
+Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:12pt;font-fa=
+mily:&quot;Tahoma&quot;,&quot;sans-serif&quot;;color:rgb(34,34,34)">-------=
+------------------------------------------------------</span><span style=3D=
+"font-size:12pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;c=
+olor:rgb(34,34,34)"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+background:white none repeat scroll 0% 0%;font-size:11pt;font-family:&quot;=
+Calibri&quot;,&quot;sans-serif&quot;"><span style=3D"font-size:9.5pt;font-f=
+amily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">=C2=A0</span><s=
+pan style=3D"font-size:10pt;font-family:&quot;Arial&quot;,&quot;sans-serif&=
+quot;;color:black">Note:=C2=A0Kindly please email with the subject
+line=C2=A0&quot;<b>Interested</b>&quot; or allow me to sent &quot;<b>No
+Obligation Audit Report&quot;</b>.</span><span style=3D"font-size:12pt;font=
+-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:rgb(34,34,34)">=
+=C2=A0=C2=A0<span></span></span></p>
+
+
+
+
+
+</div>
+<img src=3D"https://webmarketingvendors-dot-yamm-track.appspot.com/FireBase=
+?ukey=3D1XRwsAOd1_PUYnaHSWcxvThxecpxJhF5erA9rfnr-HpM-0&amp;key=3DYAMMID-793=
+60701" width=3D"1" height=3D"1" alt=3D"beacon" style=3D"display:none; displ=
+ay:none!important;">
+
+--000000000000753c62059d58bee9--

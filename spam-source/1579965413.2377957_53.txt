@@ -1,0 +1,131 @@
+Return-Path: <SRS0=JH7a2m=3O=mail.carabineer.co=6972-469-43052-1856-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 30406 invoked from network); 25 Jan 2020 09:54:21 -0000
+Received: (qmail 31031 invoked from network); 25 Jan 2020 09:54:20 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 09:54:20 -0000
+Received: (qmail 27726 invoked by uid 48516); 25 Jan 2020 09:54:19 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 12249 invoked from network); 25 Jan 2020 09:54:18 -0000
+Received: from frame.carabineer.co (conux32s.conservativecool.space [170.130.172.204])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 25 Jan 2020 09:54:18 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=carabineer.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=FreeShippingLowCarb@carabineer.co;
+ bh=jCJ0+OitYFlUkJMdyFRnFlYTIa8=;
+ b=CmKGOa1UY/AdiUHugS9ZBT1rrMOKv6Qex9TLoUms9hA9aEeL04Cj7cU+n+ebsWd/9qqhpQ8RLHdE
+   2Vi2dv/Wuq5/p7UsGD9SykClKr72pY5RDZb0iM6sv0E39kByVuEvLNUTnf2FyJ2D3FqE6tbqscaF
+   VzJ+aDnuEdqeqbUA/U8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=carabineer.co;
+ b=bhfcdGHp0SXewhPBrx+gHmig+TAbXzqdplUX+Ykr1Bk9TU+Y8l4OKVnwJpvFG7BfVknuUMQQuhrr
+   x7Ee3F2fen84HCC6XyAqztxOTCJSPaqH6omYkfwKnw73XeAGElavjox1bVLe/9kDGHLKIzGNvHRy
+   eVhCGEybME12jfFGW1g=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="a59133f6f0b71aaaaf7b9e7b400b0175_1d5_a82c"
+Date: Sat, 25 Jan 2020 04:51:22 -0500
+From: "Free Shipping Low Carb" <FreeShippingLowCarb@carabineer.co>
+Reply-To: "Free Shipping Low Carb" <FreeShippingLowCarb@carabineer.co>
+Subject: Sending you a free container of protein (need your address)
+To: <bruce@untroubled.org>
+Message-ID: <vsaiemdmx5nqcye9-t611k2oaizuq6wrt-1d5-a82c@carabineer.co>
+Content-Length: 11771
+
+--a59133f6f0b71aaaaf7b9e7b400b0175_1d5_a82c
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Sending you a free container of protein (need your address)
+
+http://carabineer.co/lECyAZne9T_04MVjr1Li5lps1ktgXPcQci5cZ5qNL-vFWZLh
+
+http://carabineer.co/GLaeNetRxeAUDxwuaL8eW--yDjoEYezqWdZI8snPZXdnOn4f
+
+In the television series, Kilvish is often treated as the personification of darkness itself even though he was once a human being who later becomes very powerful and commits many evil deeds. In an attempt to become immortal, he left his mortal body and took an ethereal body which can't be killed but Shaktimaan is told that he has to kill all the evil in the world to destroy Tamraj's ethereal body. Kilvish's trademark quote is "Andhera Kaayam Rahe" (May Darkness Prevail), which is also used by his followers.
+
+Kilvish's character evolves as the series progresses. In the beginning episodes of Shaktimaan, his face is never shown and his voice is different from the voice that he uses in the later episodes of Shaktimaan, in which his role is played by Surendra Pal. Later his face deforms to become a distorted wolf-like face.
+
+Dr. Jackal
+
+Dr. Jackal is an evil scientist who works for Kilvish. His earlier intention was not that of becoming evil, but when he was denied scholarship for research, Kilvish provided him with funds and labs, thus making him a supporter of Kilvish & an evil scientist. Though he is overall a brilliant scientist, his specialisation is cloning and various energy rays. His creations against Shaktimaan include Kekda Man (a clone formed by fusing cells of Crab & human), followed by Jonk Jonkaa (a clone using leech), an evil clone of Shaktimaan, Plastica, Lightman, 3D image, Super-heroine Sunanda and others. He also invented a height control solution and fictional EC- rays. 
+
+Sahab
+
+Sahab is an organised criminal and drug lord. Like Shaktimaan he also possesses double identity, the other being that of a law-abiding industrialist and Mayor, known as Kumar Ranjan. Except for Tamraj Kilvish (and later Dr. Jackal), no one knows that Sahab and Kumar Ranjan are the same person, thus making this his biggest strength. Through his criminal mind, Sahab keeps plotting ways to create trouble for Shaktimaan or to defame him and to find out about the real identity of Shaktimaan.
+Other enemies
+
+Kakodar
+
+Kakodar is a sorcerer with the visage of a devil who was imprisoned in a statue nearly five hundred years ago. He could only be freed if a good person removes a thread from his neck. It is unclear whether he was cursed by an enemy or punished by Tamraj to end up imprisoned. In the present day, the mayor of Mumbai, Jai Kumar Janardhan a.k.a. JJ (Nawab Shah) was deceived by his personal assistant Mathur (Deepak Bhatia) to break the thread and free him. Mayor JJ died in shock at seeing Kakodar's true form. As instructed by Madhur, Kakodar possessed JJ's body and decided to spread Andhera (darkness).
+
+--a59133f6f0b71aaaaf7b9e7b400b0175_1d5_a82c
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://carabineer.co/jat3XdBgKgedM3msAtfXxtAMG1foIKJxq7XVr_Zn2WkayG7M"><img src="http://carabineer.co/e3f829ad5148b7cf77.jpg" /><img height="1" src="http://www.carabineer.co/1L_6YAgI-IDagBE9zxn3YlqJ_RPa1qdupisnx6DXV2o4lmUn" width="1" /></a>
+<div style="width:600px; text-align:left; font-family:arial; padding:10px;"><img src="http://carabineer.co/88c80dbd5ce5e84d27.jpg" /><br />
+<br />
+To celebrate selling over 2 million containers of my favorite natural protein powder, my good friends Joel &amp; Josh (founders of BioTrust Nutrition) want to reward the first 250 of our readers to visit the link below with a FREE 150-gram container of their award-winning, incredibly delicious metabolism-boosting protein, BioTrust Low Carb... with ZERO strings attached! This means after you receive your FREE container, NOTHING more will ever be sent to you, or charged to you, in the future. It&rsquo;s truly FRE? (no autoship, no future charges - nothing). Pretty incredible, as this is absolutely an extremely valuable, premium product made only with natural ingredients and the most delicious, incredible taste of ANY protein powder available anywhere...hands down!<br />
+<br />
+Beyond that, you may be wondering what exactly makes BioTrust Low Carb bar none the BEST protein powder of any protein product on the market, and there are a lot of reasons...<br />
+<br />
+**It&#39;s made only with natural ingredients (no artificial colors, flavors or preservatives)<br />
+<br />
+**It&#39;s made with certified hormone-free, grass-fed proteins (if a protein powder doesn&#39;t state it&#39;s hormone free on the label, it&#39;s not)<br />
+<br />
+**It&#39;s sweetened naturally with stevia and naturally sweet form of prebiotic fiber called inulin (NO artificial sweeteners)<br />
+<br />
+**It contains 4g of fiber per serving (and only 1 gram of naturally-occurring sugar!)<br />
+<br />
+**It&#39;s built around a 4-protein time-released blend that fuels your body with quality nutrition and keeps you full for hours on end<br />
+<br />
+**NO soy protein<br />
+<br />
+**NO gluten (many protein powders are secretly stuffed with gluten!)<br />
+<br />
+**It&#39;s cold processed to protect the quality of each protein, unlike common high-heat and acid processing practices that denature the protein as it&#39;s manufactured<br />
+<br />
+**It the very first protein to contain ProHydrolase, a specialized enzyme blend that has been shown through research to boost protein absorption 10-fold!<br />
+<br />
+And did I mention it tastes incredible? Every time you mix up a Milk Chocolate or Vanilla Cream BioTrust Low Carb shake, it&#39;s just like enjoying a rich and creamy milkshake from the ice cream shop -- only it comes in at just 150 calories while supporting your weightloss goals and stroking your fat-burning metabolism! And what&#39;s more, along with your FREE container of BioTrust Low Carb today, they&#39;re also going to ship you a FREE hard copy of their 41-page special fat-burning report, &quot;15 Quick &amp; Easy Milkshake Recipes for a Flat Stomach&quot; so you&#39;ll have an endless variety of delicious smoothie and milkshake recipes to enjoy as you burn flab and enjoy vibrant health!<br />
+<br />
+I&#39;m talking about incredibly satisfying and delicious recipes like Cinnamon Roll Supreme, Peanut Butter Cup, Strawberry Cheesecake, Nutella Banana Delight and many, many more! You&#39;ll receive this powerful fat-burning recipe book direct to your doorstep along with your FREE container of BioTrust Low Carb just a few short days from now.<br />
+<br />
+And if that wasn&#39;t enough, you&#39;ll also receive FREE access to BioTrust&#39;s exclusive online community where their trained health &amp; nutrition coaches will make certain that every aspect of your flat-belly transformation is fully supported.<br />
+<br />
+Fact is, you will get all THREE of these extraordinary fat-burning gifts FREE&hellip; over a $50 value&hellip; and in return, all they ask is that you help cover the very small cost of shipping.<br />
+<br />
+Why Are They Being THIS Generous? What&#39;s the catch?<br />
+<br />
+There is no catch. It&rsquo;s simple really... Joel &amp; Josh and BioTrust Nutrition want to EARN your trust by PROVING to you that BioTrust Low Carb is the &quot;real deal&quot; so you can begin experiencing the same metabolism-boosting, fat-burning results that more than TWO MILLION BioTrust customers are already experiencing world-wide... for FREE! They know that once you experience the incredible taste and results of this premium protein for yourself that you&#39;ll be back for more, so they&#39;re willing to GIVE you your first container, along with your TWO additional extremely valuable bonus gifts, 100% at their expense.<br />
+<br />
+Now that&rsquo;s the great news; the bad news is that they have only set aside 250 FREE, 150-gram containers of BioTrust Low Carb and bonus gifts to give away to readers of this email on a first come, first-served basis -- and when this small allotment of inventory is gone, this rare special offer will end without notice. In fact, you will want to visit the special link below right away because these FREE BioTrust Low Carb containers may already be out of stock.<br />
+<br />
+To get your FREE container of BioTrust Low Carb and your FREE bonus gifts, act now by visiting the link below before they&#39;re all gone!<br />
+<br />
+<a href="http://carabineer.co/lECyAZne9T_04MVjr1Li5lps1ktgXPcQci5cZ5qNL-vFWZLh"><b>==&gt; Secure Your FREE Container Now! (extremely limited inventory)</b></a><br />
+<br />
+**One free container per household<br />
+<br />
+To your great success!<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://carabineer.co/B-pHSQ3IcxSutONHkYE9uWDlIlCCzFYRWk-wlDKwfVBJMViJ"><img src="http://carabineer.co/418e06ac2084a98b5b.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">In the television series, Kilvish is often treated as the personification of darkness itself even though he was once a human being who later becomes very powerful and commits many evil deeds. In an attempt to become immortal, he left his mortal body and took an ethereal body which can&#39;t be killed but Shaktimaan is told that he has to kill all the evil in the world to destroy Tamraj&#39;s ethereal body. Kilvish&#39;s trademark quote is &quot;Andhera Kaayam Rahe&quot; (May Darkness Prevail), which is also used by his followers. Kilvish&#39;s character evolves as the series progresses. In the beginning episodes of Shaktimaan, his face is never shown and his voice is different from the voice that he uses in the later episodes of Shaktimaan, in which his role is played by Surendra Pal. Later his face deforms to become a distorted wolf-like face. Dr. Jackal Dr. Jackal is an evil scientist who works for Kilvish. His earlier intention was not that of becoming evil, but when he was denied scholarship for research, Kilvish provided him with funds and labs, thus making him a supporter of Kilvish &amp; an evil scientist. Though he is overall a brilliant scientist, his specialisation is cloning and various energy rays. His creations against Shaktimaan include Kekda Man (a clone formed by fusing cells of Crab &amp; human), followed by Jonk Jonkaa (a clone using leech), an evil clone of Shaktimaan, Plastica, Lightman, 3D image, Super-heroine Sunanda and others. He also invented a height control solution and fictional EC- rays.  Sahab Sahab is an organised criminal and drug lord. Like Shaktimaan he also possesses double identity, the other being that of a law-abiding industrialist and Mayor, known as Kumar Ranjan. Except for Tamraj Kilvish (and later Dr. Jackal), no one knows that Sahab and Kumar Ranjan are the same person, thus making this his biggest strength. Through his criminal mind, Sahab keeps plotting ways to create trouble for Shaktimaan or to defame him and to find out about the real identity of Shaktimaan. Other enemies Kakodar Kakodar is a sorcerer with the visage of a devil who was imprisoned in a statue nearly five hundred years ago. He could only be freed if a good person removes a thread from his neck. It is unclear whether he was cursed by an enemy or punished by Tamraj to end up imprisoned. In the present day, the mayor of Mumbai, Jai Kumar Janardhan a.k.a. JJ (Nawab Shah) was deceived by his personal assistant Mathur (Deepak Bhatia) to break the thread and free him. Mayor JJ died in shock at seeing Kakodar&#39;s true form. As instructed by Madhur, Kakodar possessed JJ&#39;s body and decided to spread Andhera (darkness). </span></body>
+</html>
+
+--a59133f6f0b71aaaaf7b9e7b400b0175_1d5_a82c--

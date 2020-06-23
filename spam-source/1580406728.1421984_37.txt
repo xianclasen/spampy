@@ -1,0 +1,169 @@
+Return-Path: <bounces+6880654-a843-bruce=untroubled.org@em570.mail1.mon-coursier1.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 18809 invoked from network); 30 Jan 2020 16:37:06 -0000
+Received: (qmail 68273 invoked by uid 222); 30 Jan 2020 16:37:06 -0000
+Return-Path: <bounces+6880654-a843-bruce=untroubled.org@em570.mail1.mon-coursier1.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 68270 invoked from network); 30 Jan 2020 16:37:05 -0000
+Received: from xtrwsqxv.outbound-mail.sendgrid.net (xtrwsqxv.outbound-mail.sendgrid.net [167.89.100.168])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 30 Jan 2020 16:37:05 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; 
+	d=mail1.mon-coursier1.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=s1; bh=SfDb153/p2tOvFmlAxLi+M8rw1Z4B4aaz0pZmLLHQW4=; b=SVqhjGk
+	MV54YLD0BWDRAiNeLnz/lXuRAmy7IheI6QYLLioGzwE1mAqw0/BqoG6ly4LP5hLk
+	lRBNIssCN8o4QxeIjNROm+MIKE6Dxr3da0uELyinHDcq1X8efBCNtKw+rtJs0iW/
+	j05onhf819GKXgyz/9PgCgd1IksIRuYCNwyo=
+Content-Type: multipart/alternative; boundary=04480572cce122a8fe11008b2f4d7d206760f7ae62fa57b1ddce140fda42
+Date: Thu, 30 Jan 2020 16:37:04 +0000 (UTC)
+From: "REMY EISENSTEIN via. Ayomi" <tokeneconomics@mail1.mon-coursier1.com>
+Mime-Version: 1.0
+Reply-to: tokeneconomics@mail1.mon-coursier1.com
+Subject: TOKEN ECONOMICS our fundraising campaign is Booming - Thanks a lot !
+To: bruce@untroubled.org
+Message-ID: <hMvFsrq4Tm6Xwn0hAibmgg@ismtpd0115p1mdw1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@em570.mail1.mon-coursier1.com?subject=http://url4192.mail1.mon-coursier1.com/asm/unsubscribe/*q*user_id=6880654*a*data=K6L63ZnA93pxmlM8hRBRzW_XHcKmxqAlnNg2tNbRgwyz3pUIKpTNEWNT6WH5ypu4OcuO4z1v6Ay8Lty3jxNJa7n4LBgtEgrWEIwYvYn90hq8DMtM8j48ddLqfWQX5yNX16NNuRqRCBIuEBJ0quaB8BGVp8QZKBs5YE4CprvEWIYAn1_tg4DF_bY5QqTSOxTxRFlSd9FxVcVOGETSJj9iEbMq8gUUjYVZdo5G3taeYRUajeE2BpA19GrQOSyLAb1qRfrzuMSVrY8YeoSL2c4hpIMxkvFsmw27hhzwiD200KauMxLgxrzP80sDiXl8pe8sz7gabAsa2408Ftvrwc13BAeW43dSUKMsYDY2NioB2XCBq6rWwC1sXxnmJpErHj2v944lLPUTeT9PT6QbtrfTf9clEVPuKLny8Qzlybo5cXbbRWjMlVW05Csoy3lAOMoyAGGxfse8JB1OteRIC007fRdN-_4Rlz508MU2bENHDi31jHsBF2fW4S4iZE0jcdzy9lgS5Sa7qkxy3wNOgWRTtVY-1qFAi9P9d8pDaC8KVX-ot1K6f1mckD4lg7qha9sSb4r1GWAQ1N6ExCqMzbuB53fCG2ilmryfXFBalJx9wHGHPU6j3jECeXLjcuhnkaUovtMUawGyvuOS_SXiiq01AA==>
+X-SG-EID: eWf0Lwp+ejwMdn7+NnIwhz1E98lw+69+RqfdBMsNrlLt4zAlCNUpKeSHT/aRCAdRW+HLofVeDS0iGU
+ Ma51l7vlW1Gib3Wsb9uIz2jOfP+2ubVJvocJ6v15e6eP+IY1eNn9h6/dudfzjZCsSLdUffvBwxlu07
+ z2tWyF9GN7ppOC6lOBRpEk3TaxL6nMNZxqYf6b+fz7oYGJzPNDjZEk8rVVADXuOLk08f7nCVgBjKmk
+ BIA6uoNmeqOo+TfVlyOBdzC9ktDezPdIKUsyFfnqTOvw==
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP1uz9ujMQMJDb45Vp7grFW3xzmFMkv8dCy6z3
+ sJzmp7jStNVK9d29MyH0DQeFAu7bLfwOL88F1kMk0l2OEWmmRcG9wUHmptzUAckHRgHfBwoiiSS8Cn
+ BzHIP2QcNuVJNVMli33QmfLOtQ1jw9zpFxADrEkdbBuzUMjErj8Ri5A5N4fPHEt9159JUkmtW/BCW2
+ o3tYBuYA4MOBQIbrEmeNAwqfZYwSm8thlP0GM917b5Gg==
+Content-Length: 7395
+
+--04480572cce122a8fe11008b2f4d7d206760f7ae62fa57b1ddce140fda42
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Hello,=20=20
+=20=20
+Our crowdfunding campaign started just a few days ago and it's already a gr=
+eat
+success! We warmly thank our families, customers, friends and partners who
+have just joined us.
+
+=20=20
+It's still running, you can go to the page to check the actualities, a more
+detailed description and official documents: **[TOKEN ECONOMICS](https://ma=
+il1
+.mon-coursier1.com/url/projet/fonction/4016/?email=3D\[%email%\])**
+
+Best regards,
+
+____
+
+ ** **Remy EISENSTEIN=20=20
+CEO & Founder=20=20
+TOKEN ECONOMICS****
+
+ __=20=20
+=20=20
+
+Cet email a =C3=A9t=C3=A9 envoy=C3=A9 =C3=A0 bruce@untroubled.org parce que=
+ vous faites parti du r=C3=A9seau de
+REMY EISENSTEIN=20=20
+Ayomi est une fintech qui permet aux entreprises d'obtenir des financements=
+ au
+sein de leur r=C3=A9seau de confiance.=20=20
+Si vous =C3=AAtes en recherche de financement vous pouvez prendre un rendez=
+-vous
+avec un conseiller AYOMI au +33 (0)7 55 54 04 09 ou via ce [lien de
+rdv](https://calendly.com/analystayomi/30min/)
+
+01 rue de Hauteville,   Paris, Il 75010
+
+http://url4192.mail1.mon-coursier1.com/asm/unsubscribe/?user_id=3D6880654&d=
+ata=3DK6L63ZnA93pxmlM8hRBRzW_XHcKmxqAlnNg2tNbRgwyz3pUIKpTNEWNT6WH5ypu4OcuO4=
+z1v6Ay8Lty3jxNJa7n4LBgtEgrWEIwYvYn90hq8DMtM8j48ddLqfWQX5yNX16NNuRqRCBIuEBJ0=
+quaB8BGVp8QZKBs5YE4CprvEWIYAn1_tg4DF_bY5QqTSOxTxRFlSd9FxVcVOGETSJj9iEbMq8gU=
+UjYVZdo5G3taeYRUajeE2BpA19GrQOSyLAb1qRfrzuMSVrY8YeoSL2c4hpIMxkvFsmw27hhzwiD=
+200KauMxLgxrzP80sDiXl8pe8sz7gabAsa2408Ftvrwc13BAeW43dSUKMsYDY2NioB2XCBq6rWw=
+C1sXxnmJpErHj2v944lLPUTeT9PT6QbtrfTf9clEVPuKLny8Qzlybo5cXbbRWjMlVW05Csoy3lA=
+OMoyAGGxfse8JB1OteRIC007fRdN-_4Rlz508MU2bENHDi31jHsBF2fW4S4iZE0jcdzy9lgS5Sa=
+7qkxy3wNOgWRTtVY-1qFAi9P9d8pDaC8KVX-ot1K6f1mckD4lg7qha9sSb4r1GWAQ1N6ExCqMzb=
+uB53fCG2ilmryfXFBalJx9wHGHPU6j3jECeXLjcuhnkaUovtMUawGyvuOS_SXiiq01AA=3D=3D(=
+\[Unsubscribe\])
+
+
+--04480572cce122a8fe11008b2f4d7d206760f7ae62fa57b1ddce140fda42
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<html><head><title></title></head><body><p>Hello,<br />
+<br />
+Our crowdfunding campaign started just a few days ago and it&#39;s already =
+a great success! We warmly thank our families, customers, friends and partn=
+ers who have just joined us.</p><p><br />
+It&#39;s still running, you can go to the page to check the actualities, a =
+more detailed description and official documents: <strong><a href=3D"http:/=
+/url4192.mail1.mon-coursier1.com/wf/click?upn=3DnIDUyoDDm6Td4aTxsh2pi-2B-2F=
+4iopgCs0Tk9ya5qgNRbL8A-2B7q5Lz4tAS-2BWZPyQ5TqDG-2FNmn4QLqI6xl0A4A7NVMaHQ85l=
+UB8euDYK8xd3P1kKrnG5WN-2FD1BQjue5aiazE_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2=
+B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2TR1qLA9ohNYM0MyEajOSTXRMwnif3NZHZ61BiAtJr=
+hSjzuN-2FBljV-2FQDQNMDMJNzAfzhZozoIFTGM-2FLaMigV8ov4NcTG7q7r2OXjePT4pxqxEEH=
+UUNkC90DfjkAyy3S7oL-2F80jgyX170U1onze-2FwXPyo9dH6Body0xx-2FAorXH-2B8VY6HCxw=
+bPViw8WhcNS4Qkj6PPlhGGfvhJ0tSraiuDUUwXDbye1DRI9Qrw-2BH1Md3cYGfnp8bX5v436Tvu=
+zbDkCNv3MD-2BQreXdyj2H2Yz9iIAe-2FSl-2FYZurInykrpql2y2f6zYq7s0X7Y72JzjamUAiO=
+8UloiR4xE9rq2imNShtkiJYCU4O3w240tdkckjQREPEhTrdnNGxHW8qmbIhu7TeGCoG-2B78fy-=
+2FeOIYhMfyv0AQG8SUhor4qyJSiCDJPAzFd08A47QtUnP7dyTwQoqXwc2Z">TOKEN ECONOMICS=
+</a></strong></p><p>Best regards,</p><p>____</p><p><strong><b>Remy EISENSTE=
+IN <br/>CEO & Founder<br/>TOKEN ECONOMICS</b></strong></p><i></i><br/><br/>=
+<div data-role=3D"module-unsubscribe" class=3D"module unsubscribe-css__unsu=
+bscribe___2CDlR" role=3D"module" data-type=3D"unsubscribe" style=3D"color:#=
+444444;font-size:12px;line-height:20px;padding:1px 16px 16px 16px;text-alig=
+n:center"> <div class=3D"Unsubscribe--addressLine"> <p class=3D"Unsubscribe=
+--senderName" style=3D"font-family:Arial, Helvetica, sans-serif;font-size:1=
+0px;line-height:20px">Cet email a =C3=A9t=C3=A9 envoy=C3=A9 =C3=A0 bruce@un=
+troubled.org parce que vous faites parti du r=C3=A9seau de REMY EISENSTEIN<=
+br/>Ayomi est une fintech qui permet aux entreprises d'obtenir des financem=
+ents au sein de leur r=C3=A9seau de confiance.<br/>Si vous =C3=AAtes en rec=
+herche de financement vous pouvez prendre un rendez-vous avec un conseiller=
+ AYOMI au +33 (0)7 55 54 04 09 ou via ce <a href=3D"http://url4192.mail1.mo=
+n-coursier1.com/wf/click?upn=3DnIDUyoDDm6Td4aTxsh2pizgzWijT-2BNn4s0rF4nTQ-2=
+BzGj1-2FfhNR56CIBlKKBLD0W8_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKj=
+nvl7M9dU2yvRVUBf9xKCq2TR1qLA9ohNYM0MyEajOSTXRMwnif3NZHZ61BiAtJrhSjzuN-2FBlj=
+V-2FQDQNMDMJNzAfzhZozoIFTGM-2FLaMigV8ov4NcTG7q7r2OXjePT4pxqxEEHUUNkC90DfjkA=
+yy3S7oL-2F80jgyX170U1onze-2FwXPyo9dH6Body0xx-2FAorXH-2B8VY6HCxwbPViw8WhcNS4=
+Qkj6PPlhGGfvhJ0tSraiuDUU9r-2Bu1bfDUc3cehoj1IKGgor-2Brpj-2Bj3p7HlEvaMu4ayNCK=
+C-2Bin1swnApdX6OaBI52R6Pywi9EChV6GrggpWRneotrUkCy2vTQpejxjNDT0cz-2BMYKfRVUz=
+9PxyYgD2LMk6tKn-2BFoFsvHzsy7fADCqHA4oWyVO0Lwtw0VP25t8n6jg7UyvxYYo9BjLxqvHtH=
+wkFQqTIKZYnk5Bw8V-2FeQN1xpxpfvzthzZkUAFi5r1qbVFf">lien de rdv</a></p><p sty=
+le=3D"font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:0=
+px"><span class=3D"Unsubscribe--senderAddress">01 rue de Hauteville,  </spa=
+n> <span class=3D"Unsubscribe--senderCity">Paris</span>, <span class=3D"Uns=
+ubscribe--senderState">Il</span> <span class=3D"Unsubscribe--senderZip">750=
+10</span> </p></div><p style=3D"font-family:Arial, Helvetica, sans-serif;fo=
+nt-size:12px;line-height:20px"><a class=3D"Unsubscribe--unsubscribeLink" hr=
+ef=3D"http://url4192.mail1.mon-coursier1.com/asm/unsubscribe/?user_id=3D688=
+0654&data=3DK6L63ZnA93pxmlM8hRBRzW_XHcKmxqAlnNg2tNbRgwyz3pUIKpTNEWNT6WH5ypu=
+4OcuO4z1v6Ay8Lty3jxNJa7n4LBgtEgrWEIwYvYn90hq8DMtM8j48ddLqfWQX5yNX16NNuRqRCB=
+IuEBJ0quaB8BGVp8QZKBs5YE4CprvEWIYAn1_tg4DF_bY5QqTSOxTxRFlSd9FxVcVOGETSJj9iE=
+bMq8gUUjYVZdo5G3taeYRUajeE2BpA19GrQOSyLAb1qRfrzuMSVrY8YeoSL2c4hpIMxkvFsmw27=
+hhzwiD200KauMxLgxrzP80sDiXl8pe8sz7gabAsa2408Ftvrwc13BAeW43dSUKMsYDY2NioB2XC=
+Bq6rWwC1sXxnmJpErHj2v944lLPUTeT9PT6QbtrfTf9clEVPuKLny8Qzlybo5cXbbRWjMlVW05C=
+soy3lAOMoyAGGxfse8JB1OteRIC007fRdN-_4Rlz508MU2bENHDi31jHsBF2fW4S4iZE0jcdzy9=
+lgS5Sa7qkxy3wNOgWRTtVY-1qFAi9P9d8pDaC8KVX-ot1K6f1mckD4lg7qha9sSb4r1GWAQ1N6E=
+xCqMzbuB53fCG2ilmryfXFBalJx9wHGHPU6j3jECeXLjcuhnkaUovtMUawGyvuOS_SXiiq01AA=
+=3D=3D">Unsubscribe</a> </p></div>
+<img src=3D"http://url4192.mail1.mon-coursier1.com/wf/open?upn=3D95ipHO-2FH=
+tfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2TR1qLA9ohNYM0My=
+EajOSTXRMwnif3NZHZ61BiAtJrhSjzuN-2FBljV-2FQDQNMDMJNzAfzhZozoIFTGM-2FLaMigV8=
+ov4NcTG7q7r2OXjePT4pxqxEEHUUNkC90DfjkAyy3S7oL-2F80jgyX170U1onze-2FwXPyo9dH6=
+Body0xx-2FAorXH-2B8VY6HCxwbPViw8WhcNS4Qkj6PPlhGGfvhJ0tSraiuDUU7qwzFX2UZhMb3=
+GnYkmZRBrlrQD0XEf8lpzwBjyXcCuEUgCY1-2FNsg5Cv0979WGrqyVWXmFA9VmgDBNuUJlr7R4O=
+-2FeJFNg9kcXvQ-2BwVxtBeO8rn9BHjCKg6fnxxfurA-2FT3C5Ot60iHZZ1XUBRfWneRDdYqPX7=
+-2BUo0vfTiduKN-2FlL5nqf-2BnqCJNTl8Qk-2B-2B2tSTI3hh3ktZ8bBjlyuMi0DpufwphoZuY=
+eW619nlmlGZ-2BC6boQBvGJXZOTGaQAUc6Ng6GQ-3D-3D" alt=3D"" width=3D"1" height=
+=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;bor=
+der-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;m=
+argin-right:0 !important;margin-left:0 !important;padding-top:0 !important;=
+padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impo=
+rtant;"/>
+</body></html>
+
+--04480572cce122a8fe11008b2f4d7d206760f7ae62fa57b1ddce140fda42--

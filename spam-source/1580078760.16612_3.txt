@@ -1,0 +1,125 @@
+Return-Path: <SRS0=JG8VGu=3P=mail.aircools.co=7020-2982-85526-1871-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3208 invoked from network); 26 Jan 2020 10:10:09 -0000
+Received: (qmail 6357 invoked from network); 26 Jan 2020 10:10:08 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 10:10:08 -0000
+Received: (qmail 15724 invoked by uid 48516); 26 Jan 2020 10:10:07 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 21297 invoked from network); 26 Jan 2020 10:10:07 -0000
+Received: from boston.aircools.co ([170.130.174.37])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 26 Jan 2020 10:09:56 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=aircools.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=EraseMyBackPain@aircools.co;
+ bh=63gordxcucjiaAEfKgXFKPBa3ho=;
+ b=Jwyi0ZvfdgohBFxh6MyWiUTfBce0GVMSge2aM7hI6C/9vbH/3lV2HFcSHmWhQ1PUTmNElMJBmIzP
+   eTusS5NdYa8GVuaRg4iMw23EV1/IDBmY/D+iBtJX9sB5JlzPz+U6nPveCV07UY5z8UudKjujFqZ2
+   OSQHaozuqBEMBJa7B6c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=aircools.co;
+ b=aaWbhjbSAnXngJBlbPmZSmPc5HharnPuWV6iYsuVvYFIwrm+GOhmtniPqghMiTJHrSOAf8aXw4RL
+   NwSH0y+Bja+P4784SMf1juN/lG+D+kj7sLgJVxDtO2CG8pzAM5ppoLPvYB/fqqvYFt0JEebfYGRZ
+   Tc5QdcneYGJ/pmQQPVE=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="feb9797fce667ccfd319bcc2c5e81615_ba6_14e16"
+Date: Sun, 26 Jan 2020 05:08:17 -0500
+From: "**Erase My Back Pain**" <Erase My Back Pain@aircools.co>
+Reply-To: "Erase My Back Pain" <Erase My Back Pain@aircools.co>
+Subject: 1 Weird Stretch DESTROYS Back Pain & Sciatica
+To: <bruce@untroubled.org>
+Message-ID: <a385ctsb3kangd2h-5g0tudih7e62805a-ba6-14e16@aircools.co>
+Content-Length: 8892
+
+--feb9797fce667ccfd319bcc2c5e81615_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+1 Weird Stretch DESTROYS Back Pain & Sciatica
+
+http://aircools.co/p5RcrrNDFKhLSlg9StW_9JIQhSk0VrQEwy7ejG_CdVeFwT4
+
+http://aircools.co/4UM1c-6_j8ZsFXAJv4v1lSI8u87kFhmbiKLcCAZVtgy7xqHj
+
+Package design and development are often thought of as an integral part of the new product development process. Alternatively, development of a package (or component) can be a separate process, but must be linked closely with the product to be packaged. Package design starts with the identification of all the requirements: structural design, marketing, shelf life, quality assurance, logistics, legal, regulatory, graphic design, end-use, environmental, etc. The design criteria, performance (specified by package testing), completion time targets, resources, and cost constraints need to be established and agreed upon. Package design processes often employ rapid prototyping, computer-aided design, computer-aided manufacturing and document automation.
+
+
+Transport packaging needs to be matched to its logistics system. Packages designed for controlled shipments of uniform pallet loads may not be suited to mixed shipments with express carriers.
+An example of how package design is affected by other factors is its relationship to logistics. When the distribution system includes individual shipments by a small parcel carrier, the sorting, handling, and mixed stacking make severe demands on the strength and protective ability of the transport package. If the logistics system consists of uniform palletized unit loads, the structural design of the package can be designed to meet those specific needs, such as vertical stacking for a longer time frame. A package designed for one mode of shipment may not be suited to another.
+
+With some types of products, the design process involves detailed regulatory requirements for the packaging. For example, any package components that may contact foods are designated food contact materials. Toxicologists and food scientists need to verify that such packaging materials are allowed by applicable regulations. Packaging engineers need to verify that the completed package will keep the product safe for its intended shelf life with normal usage. Packaging processes, labeling, distribution, and sale need to be validated to assure that they comply with regulations that have the well being of the consumer in mind.
+
+Sometimes the objectives of package development seem contradictory. For example, regulations for an over-the-counter drug might require the package to be tamper-evident and child resistant: These intentionally make the package difficult to open. The intended consumer, however, might be handicapped or elderly and unable to readily open the package. Meeting all goals is a challenge.
+
+Package design may take place within a company or with various degrees of external packaging engineering: independent contractors, consultants, vendor evaluations, independent laboratories, contract packagers, total outsourcing, etc. Some sort of formal project planning and project management methodology is required for all but the simplest package design and development programs. An effective quality management system and Verification and Validation protocols are mandatory for some types of packaging and recommended for all.
+
+--feb9797fce667ccfd319bcc2c5e81615_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<div style="width:500px; padding:10px; ">My good friend Emily was just 12 years old the night she thought she was going to die?<br />
+<br />
+Out in the middle of the pitch black New Mexico desert, suddenly paralyzed and surrounded by shattered glass?<br />
+<br />
+she can still remember counting each breath, wondering if it was going to be her last.<br />
+<br />
+Fighting for her life that night, Emily had no idea her nightmare had only just begun, as the events from that horrific night would come back over 15 years later to nearly destroy her life?<br />
+<br />
+and that?s when something miraculous happened.<br />
+<br />
+Seemingly out of nowhere, Emily stumbled onto this 1 unusual stretch that completely eliminated her back pain and sciatica, and just in time to save herself from dangerous and life-threatening surgery:<br />
+<br />
+<strong><a href="http://aircools.co/p5RcrrNDFKhLSlg9StW_9JIQhSk0VrQEwy7ejG_CdVeFwT4">=&gt; 1 Weird Stretch HEALS Back Pain and Sciatica</a></strong><br />
+<br />
+And this doesn?t only work for Emily, or those that are consider-ing surgery? this surprising stretch is now helping thousands of back pain and sciatica sufferers from all over the world...<br />
+<br />
+<a href="http://aircools.co/p5RcrrNDFKhLSlg9StW_9JIQhSk0VrQEwy7ejG_CdVeFwT4"><img src="http://aircools.co/177a03747d71696b9c.jpg" /></a><br />
+<br />
+It worked for Emily and now works for thousands of others? it can work for you too.<br />
+<br />
+Just do what Emily did here:<br />
+<br />
+<strong><a href="http://aircools.co/p5RcrrNDFKhLSlg9StW_9JIQhSk0VrQEwy7ejG_CdVeFwT4">=&gt; One Stretch Stops Back Pain Fast</a></strong><br />
+<br />
+Wishing You Health and Happiness,<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://aircools.co/Y4O7v6hknslwO97O2NDoE88bGMht2vnbd1UlMKZllHKkrdaY"><img src="http://aircools.co/8b305853dcd36a76bd.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://aircools.co/4UM1c-6_j8ZsFXAJv4v1lSI8u87kFhmbiKLcCAZVtgy7xqHj"><img src="http://aircools.co/65e15199ed6748a0bb.jpg" /></a></div>
+<br />
+<br />
+<span style="color:white;">Package design and development are often thought of as an integral part of the new product development process. Alternatively, development of a package (or component) can be a separate process, but must be linked closely with the product to be packaged. Package design starts with the identification of all the requirements: structural design, marketing, shelf life, quality assurance, logistics, legal, regulatory, graphic design, end-use, environmental, etc. The design criteria, performance (specified by package testing), completion time targets, resources, and cost constraints need to be established and agreed upon. Package design processes often employ rapid prototyping, computer-aided design, computer-aided manufacturing and document automation. Transport packaging needs to be matched to its logistics system. Packages designed for controlled shipments of uniform pallet loads may not be suited to mixed shipments with express carriers. An example of how package design is affected by other factors is its relationship to logistics. When the distribution system includes individual shipments by a small parcel carrier, the sorting, handling, and mixed stacking make severe demands on the strength and protective ability of the transport package. If the logistics system consists of uniform palletized unit loads, the structural design of the package can be designed to meet those specific needs, such as vertical stacking for a longer time frame. A package designed for one mode of shipment may not be suited to another. With some types of products, the design process involves detailed regulatory requirements for the packaging. For example, any package components that may contact foods are designated food contact materials. Toxicologists and food scientists need to verify that such packaging materials are allowed by applicable regulations. Packaging engineers need to verify that the completed package will keep the product safe for its intended shelf life with normal usage. Packaging processes, labeling, distribution, and sale need to be validated to assure that they comply with regulations that have the well being of the consumer in mind. Sometimes the objectives of package development seem contradictory. For example, regulations for an over-the-counter drug might require the package to be tamper-evident and child resistant: These intentionally make the package difficult to open. The intended consumer, however, might be handicapped or elderly and unable to readily open the package. Meeting all goals is a challenge. Package design may take place within a company or with various degrees of external packaging engineering: independent contractors, consultants, vendor evaluations, independent laboratories, contract packagers, total outsourcing, etc. Some sort of formal project planning and project management methodology is required for all but the simplest package design and development programs. An effective quality management system and Verification and Validation protocols are mandatory for some types of packaging and recommended for all.</span></body>
+</html>
+
+--feb9797fce667ccfd319bcc2c5e81615_ba6_14e16--

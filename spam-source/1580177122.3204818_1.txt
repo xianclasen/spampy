@@ -1,0 +1,83 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 19202 invoked from network); 28 Jan 2020 01:34:57 -0000
+Received: (qmail 30859 invoked by uid 222); 28 Jan 2020 01:34:57 -0000
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 30856 invoked from network); 28 Jan 2020 01:34:56 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 28 Jan 2020 01:34:56 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1726743AbgA1Bez (ORCPT <rfc822;bruce@untroubled.org>);
+        Mon, 27 Jan 2020 20:34:55 -0500
+Received: from sonic301-20.consmr.mail.ir2.yahoo.com ([77.238.176.97]:33612
+        "EHLO sonic301-20.consmr.mail.ir2.yahoo.com" rhost-flags-OK-OK-OK-OK)
+        by vger.kernel.org with ESMTP id S1726164AbgA1Bez (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Mon, 27 Jan 2020 20:34:55 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1580175292; bh=ZRVo8cW60+cgKR0PbgGoTN2balmbpWdCdFkvBmd1w8c=; h=Date:From:Reply-To:Subject:References:From:Subject; b=OgE01s7rEX3lEUdoHkUq9Vzn3T4ux1BJYi/rUusUbEFfBFzFfbWdoCSQjSVwiryBGwGCLgNWsADg+aQeNEfTkZri7Fm1CPsOfM0HbignQ5xObXiwFrUv8MjJxJrNo07YPVjRf5RrBfMIjPOxDVXIzI54BrXS5rj6NHWXH9e46W8OJk8pHrbCCiRibme0cFs35RhGUZFOYAlnmvAHCw3bNTTanyE/Ia8N4jIbBJz+Dmv82MRr9ygG0sT1BOy/KY3Ei2gvK/d1u3RLVj10c92k4crS0p+EXOxB5Skc8nI6kmysJZFl9yMbO+updYIqfg0x0zpwqlfMYi75EfO6S732mw==
+X-YMail-OSG: d4OOhQcVM1miM6jt8AeMGVF54MsYVoT45zjd07hBvMxizZ_MMdssZP2FTPz2RUA
+ aSZzc5KeU0vkM3gw.GJBHkBKQh2pbDRpHUqurvHxwT8I0IjDyNCQnrsecj0MjrJW7bok21Jc4u1i
+ 5UyS5BAPd7OfMIvcgmkXHUWdrb1dZ2VM25pTj4Nn0Dy8oC87NmcX48uyL1KdQQuWct0zGNr2c_vT
+ OGbbtercskcdGnZBiINtpKAiuf7X.e1d3sm_0PObzvmh7zPI1YcuRN52qonmwAAkttZUGpPMmUPy
+ quvArfhzPLaqp0Za2IcsAlkXi8BtEDQQFxpg8_ZYQgkQ6JppUyhj8AgzZwQK4QovPFHWnMkPAZ20
+ DQ.cOwCiLetX2to_PTIcchelq0RElL3BmdQ2s5Xrnibt.yqiet6.oPSaDLx0kJi0GR18WefV2gzK
+ 5EexIwyaOKxgscd5wokqerF.37EWn53BZ4oVUr5CyUkyYQjI1Or5OikMsafO6SKt9qHQRMN7iNDI
+ 6dF4PYsf2KIBGveGkK1pYsh1hZAT1cVufz1mI_TUO0Ep7tJo78KMZMu0.MYx.Jdvj6FdrOdu0nz3
+ ogRfvMM9ZqRje8BgTp_GhTMwViLC2Pr5KXCnJAK_GvVZuIKBhu.xQLbmtaF930vVDZ5j3vsyIvvq
+ .5KcQWtoze1qL502HWt4nyJL47oNrKbpJuQPKT0zv1PKR9g7ybRtskAvXT3UFyMktjE9RH8ZROv.
+ vQvcBx5a8TA2qZoNSO0tn08xZ9sHXuHQpDU.mYGPvJcgi9.U7B4dixTKUuS_uA0Q911UrIM17YGa
+ i3GVQGvjX8I4xbX0ZQOanO.WytT98_W6IeeWGvs5ceADVI7ZlmV8NZW_SlBQ57BnOc2NASnWCGKn
+ bizlxO_J13nWweN9EVvcSUgBjVRK5Dd7a6MryDiQvruZpKLvOrJKeIkBSdbahGmK3KOtDuwkrRUZ
+ tuL9OtI5BsasQlNrshXLUNPCxM1xfQqcwxYX5kvpKouoA21AAfschq1c4lht0ln4aYp56rFnUXfI
+ xOHHPwv__5y9CdE3w31abz1JhXAEQT3T5oZcnfby_fILzhS4iQSnINGfVjSxGalfLVpw.ADjcFxc
+ nHYWqA_NEex4v_brk8q0oS_5Y5JvgsiZ_Fr_CjSXMWIx59pBmUDbBEKYMzokiriWU.NtAtV0yqX1
+ N8nm.AOu00QqBbCWzN15OtM.gDEAxrs5XBKOl2C9FgYXjvFJC3tZ07ZuGufVfKS6e30JhOqz.WS7
+ ExdtzCtqg58Uzk05ir.1rzOBWMgXfOan2NXgA8IYnFiQ.i5.34R0iEiJphixtzRLlxyrjY70-
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic301.consmr.mail.ir2.yahoo.com with HTTP; Tue, 28 Jan 2020 01:34:52 +0000
+Date:   Tue, 28 Jan 2020 01:34:48 +0000 (UTC)
+From:   "Mr. Stones" <jamesmark20090@gmail.com>
+Reply-To: mr.michealstones555@gmail.com
+Message-ID: <1680089447.729.1580175288947@mail.yahoo.com>
+Subject: ATTENTION: DEAR BENEFICIARY COMPLIMENTS OF THE SEASON. 2020.
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+References: <1680089447.729.1580175288947.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.15116 YMailNodin Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+To:     unlisted-recipients:; (no To-header on input)
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 1347
+
+CONGRATULATIONS TO YOU,
+
+I RECEIVE YOUR CONTENT OF YOUR EMAIL FROM THIS FEDEX ATM CARD OFFICES
+YOUR FUNDS SUM OF $10.5MILLION DOLLARS, HAS DISCOVER HERE AFTER THE
+BOARD OF DIRECTORS MEETINGS, THE UNITED NATIONS GOVERNMENT HAVE
+DECIDED TO ISSUE YOU YOUR (ATM CARD) VALUED AT $10.5 MILLION UNITED
+STATES DOLLARS.
+
+THIS IS TO BRING TO YOUR NOTICE THAT YOUR VALUED SUM OF 10.5 MILLION
+DOLLARS HAS BEING CREDITED IN YOUR NAME. AS BENEFICIARY TO THIS (ATM
+CARD), AND HAS BEEN HANDLE TO THE FOREIGN REMITTANCE DEPARTMENT TO
+SEND IT TO YOU IN YOUR FAVOR IMMEDIATELY WITHOUT ANY DELAY.
+
+WITH YOUR BELONGING (ATM CARD), YOU WILL HAVE ACCESS TO MAKE DAILY
+WITHDRAWALS OF; $5000 UNITED STATE DOLLARS DAILIES,
+
+AS SOON AS WE RECEIVE YOUR INFORMATION'S AND YOUR HOME ADDRESS OF YOUR COUNTRY AS ALREADY PROGRAMMED; WE WILL SEND TO YOU YOUR (ATM CARD), WE HAVE RECEIVED A SIGNAL FROM THE SWISS WORLD BANK, BANK OF AMERICA, TO EFFECT YOUR TRANSFER TO YOU WITHIN ONE WEEK, WITHOUT ANY DELAY.
+
+WE HAVE JUST FINISHED OUR ANNUAL GENERAL MEETING WITH THE CENTRAL BANK OF AMERICA (BOA). AT THE END OF THE BOARD OF DIRECTORS MEETING.
+
+THE BOARD OF DIRECTORS UNITED NATIONS GOVERNMENT HAS  CONCLUDED TO
+IMMEDIATELY ISSUE YOUR BELONGING (ATM CARD) SUM OF $10.5 MILLION
+DOLLARS.
+
+ONCE AGAIN CONGRATULATIONS TO YOU AND YOUR LOVELY FAMILY'S,
+YOURS
+SINCERELY.
+MR. Aderson Mark

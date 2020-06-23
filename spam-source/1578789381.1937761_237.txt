@@ -1,0 +1,94 @@
+Return-Path: <SRS0=d8v6CK=3A=mail.harrrys.co=6194-2982-85526-1666-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14268 invoked from network); 11 Jan 2020 11:21:58 -0000
+Received: (qmail 16208 invoked from network); 11 Jan 2020 11:21:58 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Jan 2020 11:21:58 -0000
+Received: (qmail 17835 invoked by uid 48516); 11 Jan 2020 11:21:57 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20643 invoked from network); 11 Jan 2020 11:21:57 -0000
+Received: from arlene.harrrys.co (drilq23xb.driftone.site [170.130.172.201])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 11 Jan 2020 11:21:49 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=harrrys.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=RapidRefluxRelief@harrrys.co;
+ bh=QO2LjGf7zCH1F1Z3Z1NrpYdJJiA=;
+ b=bjx5BC/C+h4ThPoAW6FRBcp1lbGJXvk4lPCHdqRTWOgGW8pKzXC7ZI1062SjFaykVmA/WuXGMYdF
+   ik12CQvADYoTBDsTjds9rI/TvHjQ2l2/eGsgZweQg4YmcH1iluKMZ+RRe1tkrRKLJySrGKbNPRQX
+   C2gjteBRJmmjrR0VdAM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=harrrys.co;
+ b=njowVGB7lI67ZWt26U4us/hvgMeqyzZT1s8iVge+vI44hbU2fWhmBJUZwDYkUVBIzqVISSiO6LQA
+   UgLsAVic6/RYsdbhuYUl1uplVgSWqaLmOMFMkc3PBlngTku6j3UoBIEocBo3ZIgtGaTUb6VE6KOj
+   JI0mdmn+r8bCTMyUFuM=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="b6a7c87348269cd2f9698834aa102613_ba6_14e16"
+Date: Sat, 11 Jan 2020 06:19:15 -0500
+From: "Rapid Reflux Relief" <Rapid Reflux Relief@harrrys.co>
+Reply-To: "Rapid Reflux Relief" <Rapid Reflux Relief@harrrys.co>
+Subject: Your Life, And Your Health, May Be Truly Transformed Forever
+To: <bruce@untroubled.org>
+Message-ID: <is4iadsbpecd9ymo-igvql6k8wm8nqzqd-ba6-14e16@harrrys.co>
+Content-Length: 7858
+
+--b6a7c87348269cd2f9698834aa102613_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Your Life, And Your Health, May Be Truly Transformed Forever
+
+http://harrrys.co/kcwzQI3wNzCqscIwkjjvGuR9x_hweqZrlJ-rULJtDswgN_lA
+
+http://harrrys.co/ndLxelLfm0qEVe_kYQ_ulLAho0MLdQeTqA3kLpV4iD7D6M0
+
+ After the Cold War, the conflict in the Middle East triggered a crisis in 1990, when Iraq under Saddam Hussein invaded and attempted to annex Kuwait, an ally of the United States. Fearing that the instability would spread to other regions, President George H. W. Bush launched Operation Desert Shield, a defensive force buildup in Saudi Arabia, and Operation Desert Storm, in a staging titled the Gulf War; waged by coalition forces from 34 nations, led by the United States against Iraq ending in the successful expulsion of Iraqi forces from Kuwait, restoring the former monarchy.
+
+Originating within U.S. military defense networks, the Internet spread to international academic platforms and then to the public in the 1990s, greatly affecting the global economy, society, and culture. Due to the dot-com boom, stable monetary policy under Alan Greenspan, and reduced social welfare spending, the 1990s saw the longest economic expansion in modern U.S. history, ending in 2001. Beginning in 1994, the U.S. entered into the North American Free Trade Agreement (NAFTA), linking 450 million people producing $17 trillion worth of goods and services. The goal of the agreement was to eliminate trade and investment barriers among the U.S., Canada, and Mexico by January 1, 2008. Trade among the three partners has soared since NAFTA went into force.
+
+On September 11, 2001, Al-Qaeda terrorists struck the World Trade Center in New York City and the Pentagon near Washington, D.C., killing nearly 3,000 people. In response, the United States launched the War on Terror, which included war in Afghanistan and the 2003–11 Iraq War. In 2007, the Bush administration ordered a major troop surge in the Iraq War, which successfully reduced violence and led to greater stability in the region.
+
+Government policy designed to promote affordable housing, widespread failures in corporate and regulatory governance, and historically low interest rates set by the Federal Reserve led to the mid-2000s housing bubble, which culminated with the 2008 financial crisis, the largest economic contraction in the nation's history since the Great Depression. Barack Obama, the first African-American and multiracial president, was elected in 2008 amid the crisis, and subsequently passed stimulus measures and the Dodd-Frank Wall Street Reform and Consumer Protection Act in an attempt to mitigate its negative effects and ensure there would not be a repeat of the crisis. The stimulus facilitated infrastructure improvements and a relative decline in unemployment. Dodd-Frank improved financial stability and consumer protection, although there has been debate about its effects on the economy.
+
+--b6a7c87348269cd2f9698834aa102613_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newletter</title>
+</head>
+<body><a href="http://harrrys.co/7u7sltud4DrA5udjUWyw2Eh4hBQeo_4q-WM6ykDBrlO0GVlB"><img src="http://harrrys.co/b77fd1a1631e85b241.jpg" /><img height="1" src="http://www.harrrys.co/rZfVxmvj5gEhgZ_ys5iicKOluzEbm8iHk_jHreP2WtojzLYE" width="1" /></a>
+<div style="width:600px; padding:10px;"><a href="http://harrrys.co/kcwzQI3wNzCqscIwkjjvGuR9x_hweqZrlJ-rULJtDswgN_lA" style="font-family: Arial;font-size: 30px;font-weight: bold;">I&#39;d Never Thought My Acid Reflux Would Lead To Cancer..</a><br />
+<br />
+<b>We spend more than $200 billion per year on cancer drugs,</b> medications, and medical procedures like chemo and radiation therapy...<br />
+<br />
+And tens of billions more on another stomach, gastrointestinal conditions, and diseases that are caused by H. Pylori.<br />
+<br />
+<a href="http://harrrys.co/kcwzQI3wNzCqscIwkjjvGuR9x_hweqZrlJ-rULJtDswgN_lA">&quot;So Why In The World Isn&rsquo;t Anybody Figuring Things Out?&quot;</a> He Asked.<br />
+<br />
+I couldn&rsquo;t give him a straight answer, but we both sensed that clearly something was off somewhere&hellip;<br />
+<br />
+&quot;So Is There No Hope?&quot;<br />
+<br />
+I asked Richard: &quot;Are you saying the hundreds of millions of Americans just like me are completely out of luck?&quot;<br />
+<br />
+<b>There was a long pause at the end of the line.</b><br />
+<br />
+Then, Richard said something that would change my life forever...<br />
+<br />
+&quot;Not At All. You Could Probably Have Every Single Trace Of H. Pylori Out Of Your System, And Take Control Of Your Acid Reflux Grab A Pen And A Paper, And Write Down What I&rsquo;m About To Tell You.&quot;<br />
+<br />
+<a href="http://harrrys.co/kcwzQI3wNzCqscIwkjjvGuR9x_hweqZrlJ-rULJtDswgN_lA">Discover the secrets</a></div>
+<span style="color:#FFFFFF;"> After the Cold War, the conflict in the Middle East triggered a crisis in 1990, when Iraq under Saddam Hussein invaded and attempted to annex Kuwait, an ally of the United States. Fearing that the instability would spread to other regions, President George H. W. Bush launched Operation Desert Shield, a defensive force buildup in Saudi Arabia, and Operation Desert Storm, in a staging titled the Gulf War; waged by coalition forces from 34 nations, led by the United States against Iraq ending in the successful expulsion of Iraqi forces from Kuwait, restoring the former monarchy. Originating within U.S. military defense networks, the Internet spread to international academic platforms and then to the public in the 1990s, greatly affecting the global economy, society, and culture. Due to the dot-com boom, stable monetary policy under Alan Greenspan, and reduced social welfare spending, the 1990s saw the longest economic expansion in modern U.S. history, ending in 2001. Beginning in 1994, the U.S. entered into the North American Free Trade Agreement (NAFTA), linking 450 million people producing $17 trillion worth of goods and services. The goal of the agreement was to eliminate trade and investment barriers among the U.S., Canada, and Mexico by January 1, 2008. Trade among the three partners has soared since NAFTA went into force. On September 11, 2001, Al-Qaeda terrorists struck the World Trade Center in New York City and the Pentagon near Washington, D.C., killing nearly 3,000 people. In response, the United States launched the War on Terror, which included war in Afghanistan and the 2003&ndash;11 Iraq War. In 2007, the Bush administration ordered a major troop surge in the Iraq War, which successfully reduced violence and led to greater stability in the region. Government policy designed to promote affordable housing, widespread failures in corporate and regulatory governance, and historically low interest rates set by the Federal Reserve led to the mid-2000s housing bubble, which culminated with the 2008 financial crisis, the largest economic contraction in the nation&#39;s history since the Great Depression. Barack Obama, the first African-American and multiracial president, was elected in 2008 amid the crisis, and subsequently passed stimulus measures and the Dodd-Frank Wall Street Reform and Consumer Protection Act in an attempt to mitigate its negative effects and ensure there would not be a repeat of the crisis. The stimulus facilitated infrastructure improvements and a relative decline in unemployment. Dodd-Frank improved financial stability and consumer protection, although there has been debate about its effects on the economy. </span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://harrrys.co/_0ow_SEwV5M-fDEWze_dTHzB-IOu08nqO0_i1IG2-h1L2NsX"><img src="http://harrrys.co/ae4bce64fc4f45cdbe.jpg" /></a></body>
+</html>
+
+--b6a7c87348269cd2f9698834aa102613_ba6_14e16--

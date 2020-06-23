@@ -1,0 +1,62 @@
+Return-Path: <SRS0=wbJPLp=25=watia.date=lifeinsurance.net-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 8257 invoked from network); 8 Jan 2020 19:31:50 -0000
+Received: (qmail 25871 invoked from network); 8 Jan 2020 19:31:49 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Jan 2020 19:31:49 -0000
+Received: (qmail 871 invoked by uid 48516); 8 Jan 2020 19:31:48 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 25155 invoked from network); 8 Jan 2020 19:31:47 -0000
+Received: from mail.watia.date ([89.144.1.227])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 08 Jan 2020 19:31:47 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=watia.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=lifeinsurance.net@watia.date;
+ bh=RdN2GhVoK3clRRsisBCLqpq3+CA=;
+ b=MLny4J/JUFXogYAr57UMPYfERikdSqcgKd7lyCKIy8cH5lizrsFPKROfQK+yNj+Y85zx8C1prlgi
+   2/CmZIpPJpjdlx8UEOyZ8SYOb5EMpEyYT4U4dqz9qBMOUrXQ4kU/C0FRL0yN6uVyCwwkVeXvWj3y
+   fbXIdcWSlHdjFHuqjDM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=watia.date;
+ b=xEKevkblc5A3iU+nJpwd6v97ZwVoKFKvF2BHl+TuEA7dyPtL9aaQR1zszU81MRsXFT5HyyiMEIRd
+   Ei2TE7GuR7986DjAkwcKx3ilOUUXBMvoBiLCweeQl7V3fFID2UsZkeoNCPYq6qpfQzgyrdf7qmKJ
+   uzFspMBTo1nLbCdgeOQ=;
+Received: by mail.watia.date id h2on260001g9 for <bruce@untroubled.org>; Wed, 8 Jan 2020 14:26:40 -0500 (envelope-from <lifeinsurance.net-bruce=untroubled.org@watia.date>)
+Date: Wed, 8 Jan 2020 14:26:40 -0500
+From: LifeInsurance.net <lifeinsurance.net@watia.date>
+To:   <bruce@untroubled.org>
+Subject: $1,000,000 Life Insurance Plans you can Afford
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_289_1436756684.1578511581117"
+List-Unsubscribe: <http://www.watia.date/c416Ym23J95hFx8913t1A1znrM3489L21JFv4GIf4rxvs4FhIHEsvZ8XR8ndnRQ7U1Vhp0L6EJc1Yp/blowout-picks>
+Message-ID: <0.0.0.20.1D5C6598D9510E4.35EB92@mail.watia.date>
+Content-Length: 3355
+
+------=_Part_289_1436756684.1578511581117
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>steadiest</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; "><a href="http://www.watia.date/grownup-panicked/51c5E239v5iV86q11ae953_3489_21rFv4GIf4rxvs4FhIHEsvZ8iR8ndnRQ7pl1YTA06i03kcY">Get Up to 1,000,000.00 in covereage!</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; ">Access the right Life Plan for you at the BEST rates<br /> <a href="http://www.watia.date/grownup-panicked/51c5E239v5iV86q11ae953_3489_21rFv4GIf4rxvs4FhIHEsvZ8iR8ndnRQ7pl1YTA06i03kcY"><img alt="" src="http://www.watia.date/3776Hhv2395W7QUa13Be956LNo3489_21WFv4GIf4rxvs4FhIHEsvZ8ER8ndnRQ6Dj1Fm06X0c2Yj/handlers-derived" style="height: 992px; width: 602px; " /></a></span><br /> &nbsp; </p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; "><a href="http://www.watia.date/grownup-panicked/51c5E239v5iV86q11ae953_3489_21rFv4GIf4rxvs4FhIHEsvZ8iR8ndnRQ7pl1YTA06i03kcY">Get a FREE Quote</a></span><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> &nbsp; </p> 
+   <center> 
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, leave from future email <a href="http://www.watia.date/5ed5k239N5X8U6n11de954i3489S21pFv4GIf4rxvs4FhIHEsvZ8IR8ndnRQ5kJQ106lWcY@l/machinelike-Afrikaners"><font color="#666666">Here</font></a>.<br /> 4110 Mission Blvd #200 - San Diego, CA 92109</font></p> 
+    <div style="text-align: center; ">
+     <span style="font-size:12px; ">6547 N Academy Blvd #2128<br /> COLORADO SPRINGS CO 80918<br /> <span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.watia.date/philosophizer-Alabamans/5b26Xvo2395N8X9Y12mze955U3489_21iFv4GIf4rxvs4FhIHEsvZ8dR8ndnRQ6mOq10O5QO@cY">REMOVE email</a></span></span></span>
+    </div> 
+    <br /> &nbsp; 
+    <br /> &nbsp; 
+   </center> 
+  </center> <small></small><font color="green"><font></font></font>  
+ <img src="http://www.watia.date/20f4w2395kVu8513re95hK7P3489s21OFv4GIf4rxvs4FhIHEsvZ8jR8ndnRQ7bz10imx5ujlcY/antiresonator-luxury" alt=""/></body>
+</html>
+
+------=_Part_289_1436756684.1578511581117--
+

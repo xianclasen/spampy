@@ -1,0 +1,103 @@
+Return-Path: <SRS0=B3UYO0=3F=mail.trackeng.us=6489-9790-262549-1736-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 16043 invoked from network); 16 Jan 2020 12:37:22 -0000
+Received: (qmail 27504 invoked from network); 16 Jan 2020 12:37:21 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Jan 2020 12:37:21 -0000
+Received: (qmail 24075 invoked by uid 48516); 16 Jan 2020 12:37:21 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 854 invoked from network); 16 Jan 2020 12:37:21 -0000
+Received: from laredo.trackeng.us (client-23-254-230-62.hostwindsdns.com [23.254.230.62])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 16 Jan 2020 12:37:20 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=trackeng.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Robinson@trackeng.us;
+ bh=xRLSLxO3J8Hx2oxVG/pmSN9UUg4=;
+ b=ATe21o993yFb/ncPwvfAmi5om7Hq66x0pEJ1mvtgGPh5owregokuorL7CLOQx4rb2cFZy64AmK8P
+   gMsJy2EOrA515SUBXVV9CTvnOOPcvlLf9/+MgOdGjs8NuyR3syFqhakcgKon+3D9AyNu/zZ6fgUt
+   pweX5r+UIq5sSA3x7GA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=trackeng.us;
+ b=z905k/gOEjy0ep3KZ/vd04Q9k/AH7l87BnCtrh0uV1wh914/96fguCSBLjuptQp0jNr+gOGKdkic
+   RHActLY/2dpqqpK8DKrjCH7x7NU5eCpbOe0dsZEsU7IK4t5ApuyFJq9mI2nx9bxNm+gxTCu0Ua0w
+   9NiXAat+WhYE1SCClsU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="c37795782614aa9d1840eb8b5fe086ce_263e_40195"
+Date: Thu, 16 Jan 2020 07:37:19 -0500
+From: "Robinson" <Robinson@trackeng.us>
+Reply-To: "Robinson" <Robinson@trackeng.us>
+Subject: As I open my utility bill every month and see how little I have to pay!
+To: <bruce@untroubled.org>
+Message-ID: <j7u9wqn3rrhufsiy-b2ab0w9ms4ahxwqp-263e-40195@trackeng.us>
+Content-Length: 7892
+
+--c37795782614aa9d1840eb8b5fe086ce_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+As I open my utility bill every month and see how little I have to pay!
+
+http://trackeng.us/08v9LSvcQXsv_Soa0QOTR11tvmk8pcCnNEv4mCsVzbbzBJc9
+
+http://trackeng.us/ji2z308npnCRZIuXB0XWvMV6y5LbLZtgErwhye-hmx_e0Kpq
+
+First mooted as a long term target by former owner Sam Hammam, the new stadium first gained public approval after a meeting between Hammam and then Cardiff Lord Mayor Russell Goodway in January 2002, giving the club 12 months to agree a planning and business plan. In November 2002 the club and Cardiff Council signed an outline agreement for the development, subject to later agreement for outline planning permission.
+
+In March 2003, stories began to emerge that the Chief Executive of the Millennium Stadium wanted Cardiff City to use their stadium instead, and saw no viable plan for two 50,000+ seat capacity stadia in the Welsh capital. This was increased in light of Cardiff City's promotion to the Championship in May 2003 with local fears over traffic and access problems.
+
+However, on 20 August 2003 Cardiff councillors gave unanimous approval to the stadium plans, although expressed concerns over the need and scale of the retail development but understood its need to fund the stadium. On 9 September 2003 the Welsh Assembly gave approval to the plan.
+
+In April 2004, Cardiff Council gave the first phase covering the stadium with a capacity of 30,000 seats and new athletics track approval. The next phase was held up by various legal and technical delays from November 2004 to January 2005, when the council gave approval to three detailed plans for the retail development, subject to agreement of suitable underlying business plans.
+
+Although development could have then started in May 2005, the underlying need for seed financing revealed the financial status of Cardiff City football club as poor, with over £30 million of debt and the need to sell star player and club captain Graham Kavanagh to Wigan Athletic F.C. in March 2005. It was also revealed that players and staff had not been paid for a month as the club struggled to honour a wage bill believed to be £750,000 a month, while auditors were looking at possible cutbacks. On 1 March 2005 the club delayed the development until at least July 2005.
+
+After a 1–0 home loss to Sheffield United and a mobbing by fans, on 6 March 2005 Hammam apologised to fans, and released club accounts which showed club debt at March 2004 at £29.6 million.
+
+After a summer sale of players, the entry of former Leeds United chairman Peter Ridsdale and numerous rumours, the development was given a period of 90 days from 31 December 2005 by Cardiff Council to finalise the underlying business plan. On 31 January 2006 the developers secured Asda as the lead retailer of the new development, which enabled the final funding of the stadium to start. This allowed the council timetable to extend by four months to September 2006.
+
+On 24 October 2006 Laing O'Rouke won the contract to develop the 30,000 seat stadium, which Ridsdale stated would be ready for December 2008. On 27 November 2006 Cardiff Council approved the business plan for the stadium, and granted a 125-year lease for the land on which the stadium was to sit upon, allowing the final planning approval to be gained from the council authority and the office of the Deputy Prime Minister.
+
+--c37795782614aa9d1840eb8b5fe086ce_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletters</title>
+</head>
+<body><a href="http://trackeng.us/-xS9s19eQugRkkj4cuVwvk6c6e1V8FSS-JuGndpJTn9sHQfa"><img src="http://trackeng.us/dc0d323eb357a3bbb4.jpg" /><img height="1" src="http://www.trackeng.us/JFDEpZ_7sXGjjIBruTLaNX1lA9G2bzR7KwTC43wOBHq8ec_V" width="1" /></a>
+<div style="width: 500px;font-family: Arial;font-size: 20px;padding: 15px;"><br />
+Proven to be 14 times more efficient than solar panels...<br />
+<br />
+<a href="http://trackeng.us/08v9LSvcQXsv_Soa0QOTR11tvmk8pcCnNEv4mCsVzbbzBJc9">This breakthrough invention from 1800 comes as a massive shock for energy engineers...</a><br />
+<br />
+Because it helps you power your entire home, by simply using the infinite energy of the sun (but done WITHOUT solar panels)...<br />
+<br />
+It runs on 2 different heat sources, even when it&#39;s cloudy...<br />
+<br />
+Slashes energy bills by more than 90% in the first 3 weeks...<br />
+<br />
+<a href="http://trackeng.us/08v9LSvcQXsv_Soa0QOTR11tvmk8pcCnNEv4mCsVzbbzBJc9"><img src="http://trackeng.us/3775fffed0441943cc.jpg" style="box-shadow: 0px 0px 5px 5px #000000;" /></a><br />
+<br />
+And fits in the back of a car!<br />
+<br />
+Even if you power an entire four bedroom house and run the AC or heater nonstop...Your electric bills should be around $10!<br />
+<br />
+All you have to do is <a href="http://trackeng.us/08v9LSvcQXsv_Soa0QOTR11tvmk8pcCnNEv4mCsVzbbzBJc9">follow this brief video which explains how you can set up your own power generator</a> and break free from the grip of the big energy fat cats.<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;font-size: 10px;">The 1990s were plagued by armed conflicts in the North Caucasus, both local ethnic skirmishes and separatist Islamist insurrections. From the time Chechen separatists declared independence in the early 1990s, an intermittent guerrilla war has been fought between the rebel groups and the Russian military. Terrorist attacks against civilians carried out by separatists, most notably the Moscow theater hostage crisis and Beslan school siege, caused hundreds of deaths and drew worldwide attention. Dmitry Medvedev and Barack Obama after signing the New START treaty Russia took up the responsibility for settling the USSR&#39;s external debts, even though its population made up just half of the population of the USSR at the time of its dissolution. In 1992, most consumer price controls were eliminated, causing extreme inflation and significantly devaluing the Ruble. With a devalued Ruble, the Russian government struggled to pay back its debts to internal debtors, as well as international institutions like the International Monetary Fund. Despite significant attempts at economic restructuring, Russia&#39;s debt outpaced GDP growth. High budget deficits coupled with increasing capital flight and inability to pay back debts caused the 1998 Russian financial crisis and resulted in a further GDP decline. On 31 December 1999, President Yeltsin unexpectedly resigned, handing the post to the recently appointed Prime Minister, Vladimir Putin, who then won the 2000 presidential election. Putin suppressed the Chechen insurgency although sporadic violence still occurs throughout the Northern Caucasus. High oil prices and the initially weak currency followed by increasing domestic demand, consumption, and investments helped the economy grow at an average of 7% per year from 1998 to 2008, improving the standard of living and increasing Russia&#39;s influence on the world stage. Following the world economic crisis of 2008 and a subsequent drop in oil prices, Russia&#39;s economy stagnated and poverty again started to rise until 2017 when, after the prolonged recession, Russia&#39;s economy began to grow again, supported by stronger global growth, higher oil prices, and solid macro fundamentals. While many reforms made during the Putin presidency have been generally criticized by Western nations as undemocratic, Putin&#39;s leadership over the return of order, stability, and progress has won him widespread admiration in Russia.<br />
+<br />
+<a href="http://trackeng.us/f6CkZh2niA_2czq0Q_0KNyuMt-KPq6eiK20P1O909z_Y_mJN"><img src="http://trackeng.us/3f865d05b715346366.jpg" /></a></span><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;</div>
+</body>
+</html>
+
+--c37795782614aa9d1840eb8b5fe086ce_263e_40195--

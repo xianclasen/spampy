@@ -1,0 +1,77 @@
+Return-Path: <SRS0=Tjl6Up=3B=pelat.buzz=dr-tinnitus-md-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11231 invoked from network); 12 Jan 2020 19:42:31 -0000
+Received: (qmail 22512 invoked from network); 12 Jan 2020 19:42:31 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 19:42:31 -0000
+Received: (qmail 18399 invoked by uid 48516); 12 Jan 2020 19:42:30 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 26790 invoked from network); 12 Jan 2020 19:42:29 -0000
+Received: from mail.pelat.buzz (70-102-103-185.nca.lanset.com [70.102.103.185])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 12 Jan 2020 19:42:28 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=pelat.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=dr-tinnitus-md@pelat.buzz;
+ bh=88EOdfJZIu4LZ7CdpCzR/WYTosc=;
+ b=OJh9nsQ/Ls3bxgUpeJkUUFHzL5qYak9AVZ62EkLUX+HBiSW0v0ybs89RZoa3hICG2rz7ICgcGHTC
+   BTyebD+TgrhGQ0kCF1aIwPXCzNM4LbTyR8NRFNoAwuejKjDMXDb6t/lC0VXV2Xr+dRmoSW+d4546
+   IlPGcr/nQ/HhIXbuNzM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=pelat.buzz;
+ b=LmheuYnxlE9VWmsHALm9lzrzW/ttL/XPfEKVcF6dolRUxIn5mIDRr/Jw2difkNQ5lIPKWAmP6+cN
+   N3qIKEhKmYLAOmYB9ER54yr6dqCTQoHscKAUgXQJNHAQaUpLVuQas8phVpbaavZxfVdGbqPt+UkE
+   FWMllQnRX5a3CReNpp8=;
+Received: by mail.pelat.buzz id h3dra80001gn for <bruce@untroubled.org>; Sun, 12 Jan 2020 14:38:17 -0500 (envelope-from <dr-tinnitus-md-bruce=untroubled.org@pelat.buzz>)
+Date: Sun, 12 Jan 2020 14:38:17 -0500
+From: "Dr. Tinnitus M.D." <dr-tinnitus-md@pelat.buzz>
+To:   <bruce@untroubled.org>
+Subject: This method STOPS ear-ringing naturally (DELETE AFTER READING!)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_244_1850482225.1578857882750"
+List-Unsubscribe: <http://www.pelat.buzz/c234u2395E8q9m12mx1CI1H34b3o21GFv4GIf4rxvs4FhIHEsvZ11WR.ndomKoA96P1s0qt6I2c0TY/infusions-Abe>
+Message-ID: <0.0.0.1B.1D5C97FD6BFEAC2.35DF31@mail.pelat.buzz>
+Content-Length: 7421
+
+------=_Part_244_1850482225.1578857882750
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>protrudes</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.pelat.buzz/cn54h2395zP8q611Pea2di34b3J21gFv4GIf4rxvs4FhIHEsvZ11SR.ndomKoA97F10CTCo5YkzcY/commercially-threaders" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.pelat.buzz/t115Mg2395mB7aZ11Aea30J34b3L21SFv4GIf4rxvs4FhIHEsvZ11jR.ndomKoA95c1Q0h6B22cMY/Goldfield-minutes" style="border-width: 0px; border-style: solid; width: 80%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.pelat.buzz/cn54h2395zP8q611Pea2di34b3J21gFv4GIf4rxvs4FhIHEsvZ11SR.ndomKoA97F10CTCo5YkzcY/commercially-threaders">Do THIS &quot; easy 10 second trick&quot; to restore your hearing</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.pelat.buzz/9716g2K39t5Yi8D611Aea2eD34b3Q21YFv4GIf4rxvs4FhIHEsvZ11KR.ndomKoA97aIKqQ105ppcYU/commercially-threaders"><font color="#666666">End mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.pelat.buzz/a9d6SZq2395B89gX12Rea2ifw34b3p21aFv4GIf4rxvs4FhIHEsvZ11HR.ndomKoA97zkk1wj06fk2cpY/Christine-wholesaler">ST0P Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">6547 N Academy Blvd #2128</span>
+    <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</span>
+    <br /> &nbsp; 
+   </div> <style title="Hippocrates"></style><font class="crucifies"><big></big></font><small><span><font dir="calm"><font face="anaphoric"></span><style lang="unfair"></style></font></small></font><style title="taker"></style>
+  </center>   
+ <img src="http://www.pelat.buzz/4854n2395Qvs8511Wea31l34b3n21VFv4GIf4rxvs4FhIHEsvZ11DR.ndomKoA97o1Gtl0C6F2McYT/infusions-Abe" alt=""/></body>
+</html>
+
+------=_Part_244_1850482225.1578857882750--
+

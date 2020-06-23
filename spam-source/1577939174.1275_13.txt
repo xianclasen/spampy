@@ -1,0 +1,177 @@
+Return-Path: <SRS0=hv7sDa=2W=parar.buzz=diabetes.free-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27766 invoked from network); 1 Jan 2020 21:32:27 -0000
+Received: (qmail 6608 invoked from network); 1 Jan 2020 21:32:26 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Jan 2020 21:32:26 -0000
+Received: (qmail 6028 invoked by uid 48516); 1 Jan 2020 21:32:25 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 7056 invoked from network); 1 Jan 2020 21:32:24 -0000
+Received: from mail.parar.buzz ([91.228.101.147])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 01 Jan 2020 21:32:23 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=parar.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=diabetes.free@parar.buzz;
+ bh=zV2+4Ggi9qJUMgK6NKTwGSMhn9c=;
+ b=MHLgMjzfhw7oCmXzrq5CpyYnKKV9V33mzmgC4cW9Czm3Wj5ahEiBQVtlu0WlL6xgiC0nspnK5d5W
+   h58vBdZonSZBq5KWxQMe2PmR+oO1RKisCq+CEZ9EPog+78gGxU10SYjGQJZ5Guw7G73cb6HlUDb+
+   Bz8q2ZM1u3V280wMyxc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=parar.buzz;
+ b=KJN5GZ2k98a7NZhRYWaiNS2R8e4JemltDO44WdKhm0kHccFmvNvA5jFaxTX7LQQ2Vk+1cxmsZLk9
+   eLtJa4mMhK3Efs56yerF63RPnq+2mnQqTdAWogW3q1AUgDDpdLm49ExLpxYFrIY33d+l/7dl5q1h
+   9VcfN+ITwZrCqkYJfBs=;
+Received: by mail.parar.buzz id h1k7ug0001gs for <bruce@untroubled.org>; Wed, 1 Jan 2020 16:28:45 -0500 (envelope-from <diabetes.free-bruce=untroubled.org@parar.buzz>)
+Date: Wed, 1 Jan 2020 16:28:45 -0500
+From: "Diabetes Free" <diabetes.free@parar.buzz>
+To:   <bruce@untroubled.org>
+Subject: Americans eating &ldquo;stainless steel&rdquo;  to reverse diabetes
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_388_142685600.1577914114724"
+List-Unsubscribe: <http://www.parar.buzz/a7g6G2gv395Ay89o13WKtu11r_19b1M21IFv4GIf4rxvs4FhIHEsvZ10lQxRdeRoC96FI10oP6UUljHi/source-decoy>
+Message-ID: <0.0.0.2B.1D5C0EA72BC13AE.8EE04@mail.parar.buzz>
+Content-Length: 8768
+
+------=_Part_388_142685600.1577914114724
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>stickier</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <a href=3D"http://www.parar.buzz/serials-arbitrary/daa6X2s39s5W8D6Z13Q6fmegcT19b1H21PFv4GIf4rxvs4FhIHEsvZ10sQxRdeRoC96QJ1q0m5ylHji">Fix High Blood pressure</a>
+  </div>=20
+  <center>=20
+   <table style=3D"letter-spacing: normal; text-indent: 0px; text-transform=
+: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; orphans: 2; widows: 2; font-family: =
+&quot; Sans Serif&quot; ; width: 565px; color: rgb(51, 51, 51); font-size: =
+13px; font-style: normal; font-weight: normal; white-space: normal; font-va=
+riant-ligatures: normal; font-variant-caps: normal; height: 421px; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 17px; height: 448px; " width=
+=3D"555">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 451px; " width=3D"551">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                 <div style=3D"color: rgb(0, 0, 0); line-height: normal; fo=
+nt-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                  <p><span style=3D"font-size:16px; "><span style=3D"font-f=
+amily:arial,helvetica,sans-serif; ">Wait! You can&nbsp; <span style=3D"colo=
+r: black; "><span style=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.parar.buzz/serials-arbitrary/daa6X2s39s5W8D6Z13Q6fmegcT19b1H21PFv4GIf4rxvs4FhIHEsvZ10sQxRdeRoC96QJ1q0m5ylHji" =
+style=3D"color: rgb(0, 0, 255); font-weight: bold; ">regulate your blood pr=
+essure</a></span></span>, your blood sugar, cholesterol, insulin resistance=
+ and you want your body to automatically and healthily drop excess fat, fas=
+t? It will be the best time investment you can make in your health this yea=
+r.</span></span></p>=20
+                  <p><span style=3D"font-family: &quot; Sans Serif&quot; ; =
+color: black; "><span style=3D"font-family: arial, sans-serif; font-size: 1=
+2.8px; font-style: normal; font-variant-ligatures: normal; font-variant-cap=
+s: normal; font-weight: 200; letter-spacing: normal; orphans: 2; text-align=
+: start; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: =
+rgb(255, 255, 255); color: rgb(0, 0, 0); "><span style=3D"font-size: 22px; =
+"><span style=3D"font-family: Times; "><span style=3D"line-height: 25.3px; =
+"><strong><span style=3D"font-family: arial, sans-serif; font-size: 12.8px;=
+ font-style: normal; font-variant-ligatures: normal; font-variant-caps: nor=
+mal; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-wi=
+dth: 0px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); "><spa=
+n style=3D"font-family: &quot; Sans Serif&quot; ; "><span style=3D"color: r=
+gb(0, 0, 255); "><a href=3D"http://www.parar.buzz/serials-arbitrary/daa6X2s39s5W8D6Z13Q6fmegcT19b1H21PFv4GIf4rxvs4FhIHEsvZ10sQxRdeRoC96QJ1q0m5ylHji"><img alt=3D"wooo" src=3D"=
+http://www.parar.buzz/1d36Sg23M95n7zka11g6fefy19b1u21jFv4GIf4rxvs4FhIHEsvZ10yQxRdeRoC96K1pru05OXUHi/Warwick-resonant" style=3D"display: block; margin-left: auto; margin-right: auto; width: 3=
+72px; height: 247px; " /></a></span></span></span></strong></span></span></=
+span></span></span></p>=20
+                  <p><span style=3D"font-size:16px; ">This 100% natural tre=
+atment, which&nbsp; <span style=3D"color: black; "><span style=3D"color: rg=
+b(0, 0, 255); "><a href=3D"http://www.parar.buzz/serials-arbitrary/daa6X2s39s5W8D6Z13Q6fmegcT19b1H21PFv4GIf4rxvs4FhIHEsvZ10sQxRdeRoC96QJ1q0m5ylHji" style=3D"color: rgb(0, 0, 255); font=
+-weight: bold; ">naturally fights diabetes</a></span></span>, has stunned d=
+octors &amp; got the attention of over 260,391 people to transform their li=
+ves.<br /> <br /> If you or anyone you care about is suffering from diabete=
+s you must&nbsp; <span style=3D"color: black; "><span style=3D"color: rgb(0=
+, 0, 255); "><a href=3D"http://www.parar.buzz/serials-arbitrary/daa6X2s39s5W8D6Z13Q6fmegcT19b1H21PFv4GIf4rxvs4FhIHEsvZ10sQxRdeRoC96QJ1q0m5ylHji" style=3D"color: rgb(0, 0, 255); font-we=
+ight: bold; ">watch this video now!</a></span></span></span></p>=20
+                 </div>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"font-style: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb=
+(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; f=
+ont-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p>=20
+   <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, =
+0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-=
+indent: 0px; text-transform: none; white-space: normal; widows: auto; word-=
+spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0p=
+x; text-decoration: none; ">
+    <br />=20
+    <br />=20
+    <br />=20
+    <br />=20
+    <br />=20
+    <br />=20
+    <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helvetic=
+a, sans-serif">&nbsp; <a href=3D"http://www.parar.buzz/f2f4j2395H8l6H12ji6fedx19b1W21MFv4GIf4rxvs4FhIHEsvZ10nQxRdeRoC96g1DII06dAlHiU/abolishers-deviate"><font color=3D"#666666">Exit H=
+ere</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804=
+ | Haymarket, VA 20169, USA</font><br /> <br /> <a href=3D"=
+http://www.parar.buzz/6474W2395a8s9i11h6feeH19b1J21HFv4GIf4rxvs4FhIHEsvZ10rQxRdeRoC97O1hny0U6d1ljHi/source-decoy">Get off Here</a><br /> <span style=3D"caret-color: rgb(0, 0, 0); color:=
+ rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: =
+normal; letter-spacing: normal; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; font-family: arial, helvetica=
+, sans-serif; text-align: center; float: none; display: inline !important; =
+">6547 N Academy Blvd #2128</span><span style=3D"caret-color: rgb(0, 0, 0);=
+ color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; fo=
+nt-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-=
+indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; =
+-moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; display: inline !important; float: none; "> </span><br style=3D"ca=
+ret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-vari=
+ant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: aut=
+o; text-indent: 0px; text-transform: none; white-space: normal; widows: aut=
+o; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-w=
+idth: 0px; text-decoration: none; font-family: arial, helvetica, sans-serif=
+; font-size: 11px; text-align: center; " /> <span style=3D"caret-color: rgb=
+(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: norm=
+al; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-tra=
+nsform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust=
+: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family:=
+ arial, helvetica, sans-serif; text-align: center; float: none; display: in=
+line !important; ">COLORADO SPRINGS CO 80918</span></span>
+    <br />=20
+    <br />=20
+    <br /> &nbsp;=20
+   </div> <style></style><style lang="Londonderry"><big></style></big><big></big><big></big><big></big><span></span>
+  </center>  =20
+ <img src=3D"http://www.parar.buzz/intensification-logics/13e4k2395g8kZ512JL6ff0Y19b1U21kFv4GIf4rxvs4FhIHEsvZ10RQxRdeRoC97zXu1v0n5qB3Hi" alt=3D""/></body>
+</html>
+
+------=_Part_388_142685600.1577914114724--
+

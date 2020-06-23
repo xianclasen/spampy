@@ -1,0 +1,181 @@
+Return-Path: <SRS0=aKlJRp=2W=techaffiliate.info=bounce@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15104 invoked from network); 1 Jan 2020 13:26:08 -0000
+Received: (qmail 4987 invoked from network); 1 Jan 2020 13:26:07 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Jan 2020 13:26:07 -0000
+Received: (qmail 30160 invoked by uid 48516); 1 Jan 2020 13:26:06 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 14184 invoked from network); 1 Jan 2020 13:26:06 -0000
+Received: from server.techaffiliate.info (host.server.techaffiliate.info [103.235.105.113])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 01 Jan 2020 13:26:05 -0000
+Received: by server.techaffiliate.info (Postfix, from userid 0)
+	id 22DA23D7B; Wed,  1 Jan 2020 18:55:57 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=techaffiliate.info;
+	s=default; t=1577885157;
+	bh=UWra7ZJJmUuX3s9HjYBkRjdCsiNqwytN3dM1co81OFM=;
+	h=To:Subject:Date:From:Reply-To:List-Unsubscribe;
+	b=u9fhU0JkXiKS/NUK6pvCNYxpQlqoc7pii8tqn7voNOb3azMxy6mDxXr61pYeBk108
+	 FL+Gc5wFmcGnOgCjL+WOSKQgwsgYatHARbmqqpv0/P2HktvGclQtBkmT0RBQi9Kz71
+	 tD5WzXLTl+VxVFuMxMH4jKHZrHECy2SbrHnJgNBI=
+To: bruce@untroubled.org
+Subject: Audio Transcription Service Provider
+X-PHP-Originating-Script: 1000:email.php
+Message-ID: <3d6c1b49235dfa3e900b6b912cffdb29@techaffiliate.info>
+Date: Tue, 31 Dec 2019 08:48:03 +0000
+From: "Joseph Gladden" <info@techaffiliate.info>
+Reply-To: info@techaffiliate.info
+MIME-Version: 1.0
+X-Mailer-LID: 13
+List-Unsubscribe: <http://techaffiliate.info/mailsoft/unsubscribe.php?M=733745&C=14bbce0d38fe2d1c229c4b7c4b211d21&L=13&N=22>
+X-Mailer-RecptId: 733745
+X-Mailer-SID: 22
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_d79d64c4e19763b0cd4ed89221e1cddf"
+Content-Transfer-Encoding: 8bit
+Content-Length: 5955
+
+--b1_d79d64c4e19763b0cd4ed89221e1cddf
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Hello,
+
+Do you need someone reliable to transcribe both your short term and 
+long term projects? Or do you need an accurate transcript for your 
+audio or video? 
+
+Allow us to transcribe your audio and provide you accurate transcripts 
+and let us help you reach your business/project goals through the help 
+of our transcription services.
+
+What are our goals with each transcript?
+
+- Speed
+- Accuracy
+- Confidentiality
+- Each transcript is properly formatted. Strict grammar and 
+punctuation rules are adhered to and of course, file security is 
+something we take very seriously. 
+
+Have any transcription queries? Send me a message. Let's discuss what 
+you need to get done. We will address any concerns you have. 
+
+- Professional transcription
+- Accurate and thorough
+- Beautifully transcribed documents.
+- Grammar, spelling and jargon thoroughly checked
+
+We have transcribed audios & videos under various requirements 
+such as :
+
+- Medical transcription
+- Technical
+- Academic
+- Lectures
+- Business
+- Groups
+- Legal
+- Research interviews
+
+more...
+
+Skilled with international accents and prompt response. Our pricing 
+is better or comparable to individual service provider. In addition 
+we also assist in APA Style formatting for research papers. Please 
+note we don’t conduct research but assist only in formatting 
+of the papers.
+
+Regards,
+Joseph Gladden
+
+http://techaffiliate.info/mailsoft/unsubscribe.php?M=733745&C=14bbce0d38fe2d1c229c4b7c4b211d21&L=13&N=22
+
+--b1_d79d64c4e19763b0cd4ed89221e1cddf
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Hello,</span><br /> <br /><span style="font-family: arial,
+helvetica, sans-serif; font-size: x-small;"> Do you need someone reliable
+to transcribe both your short term and long term projects? Or do you need
+an accurate transcript for your audio or video?&nbsp;</span><br /> <br
+/><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;"> Allow us to transcribe your audio and provide you accurate
+transcripts and let us help you reach your business/project goals through
+the help of our transcription services.</span><br /> <br /><span
+style="font-family: arial, helvetica, sans-serif; font-size: x-small;">
+What are our goals with each transcript?</span><br />
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Speed</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Accuracy</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Confidentiality</span></li>
+</ul>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Each transcript is properly formatted. Strict grammar and
+punctuation rules are adhered to and of course, file security is something
+we take very seriously.&nbsp;</span><br /> <br /><span style="font-family:
+arial, helvetica, sans-serif; font-size: x-small;"> Have any transcription
+queries? Send me a message. Let's discuss what you need to get done. We
+will address any concerns you have.&nbsp;</span><br />
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Professional transcription</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Accurate and thorough</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Beautifully transcribed documents.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Grammar, spelling and jargon thoroughly checked</span></li>
+</ul>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">We have transcribed audios &amp; videos under various
+requirements such as :</span><br />
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Medical transcription</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Technical</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Academic</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Lectures</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Business</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Groups</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Legal</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Research interviews</span></li>
+</ul>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;"> more...</span><br /> <br /><span style="font-family: arial,
+helvetica, sans-serif; font-size: x-small;"> Skilled with international
+accents and prompt response. Our pricing is better or comparable to
+individual service provider. In addition we also assist in APA Style
+formatting for research papers. Please note we don&rsquo;t conduct research
+but assist only in formatting of the papers.</span><br /> <br /><span
+style="font-family: arial, helvetica, sans-serif; font-size: x-small;">
+Regards,</span><br /><span style="font-family: arial, helvetica,
+sans-serif; font-size: x-small;">Joseph Gladden<br /><br /><a
+href="http://techaffiliate.info/mailsoft/unsubscribe.php?M=733745&C=14bbce0d38fe2d1c229c4b7c4b211d21&L=13&N=22">Unsubscribe</a></span><br
+/>
+<img
+src="http://techaffiliate.info/mailsoft/open.php?M=733745&L=13&N=22&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_d79d64c4e19763b0cd4ed89221e1cddf--
+

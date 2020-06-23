@@ -1,0 +1,97 @@
+Return-Path: <SRS0=FV+Z3K=3P=movements-fr.com=sorbonne@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 5102 invoked from network); 26 Jan 2020 11:43:33 -0000
+Received: (qmail 6684 invoked from network); 26 Jan 2020 11:43:32 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 11:43:32 -0000
+Received: (qmail 14423 invoked by uid 48516); 26 Jan 2020 11:43:32 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 13509 invoked from network); 26 Jan 2020 11:43:31 -0000
+Received: from best-smtp.14.myccsproject.net (best-smtp.14.myccsproject.net [62.210.13.227])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 26 Jan 2020 11:43:31 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; s=default; d=movements-fr.com;
+ h=Content-Type:MIME-Version:subject:reply-to:To:From:List-Unsubscribe:Message-ID:Date; i=sorbonne@movements-fr.com;
+ bh=xzbMEQTsq3Avg949o5YpN2Sgs6xis1Bg9T0NFLUnx9M=;
+ b=CxbYSPrBaqPjHhYT27JIvxqDKrq+rhc0bh24bUX8Aa3pBafnFuKyN8/mf0xILTlgjRs5zCsbKBlZ
+   N2jKETMJ8JTZyEclZl/dtD+//ExipskSylw+dr6Lgf7NSkxENKjTAIey1v/bCoxdR2moPHnrlnLl
+   fPzCG+vgplojKaODIZU=
+Content-Type: multipart/alternative; boundary="===============7396938109683918875=="
+MIME-Version: 1.0
+subject: Conference, Paris, Movement & Cognition
+reply-to: office@movementis.com
+To:   <bruce@untroubled.org>
+From: Sorbonne <sorbonne@movements-fr.com>
+List-Unsubscribe: <http://track.movements-fr.com/campaigns/unsubscribelink/MTM3ODc=/NTc0MDEzOA==/MjU5>
+X-Int-ID: 0
+X-Mailer-SID: 13787
+X-Mailer-LID: 40700
+X-Mailer-RecptId: 5740138
+X-U-ID: 259
+X-APP: SMTPAPP
+Message-ID: <0.0.3.1AB.1D5D43DD48500C6.0@best-smtp.14.myccsproject.net>
+Date: Sun, 26 Jan 2020 12:43:30 +0100
+Content-Length: 4085
+
+
+								Your mail reader does not support the report format.
+--===============7396938109683918875==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+SWYgeW91IHJlY2VpdmVkIHRoaXMgZW1haWwgYnkgbWlzdGFrZSBhbmQgYWdhaW5zdCB5b3VyIHdp
+bGwsIHdlIGFwb2xvZ2l6ZSBhbmQgcGxlYXNlIHByZXNzIHRoZSAne3t1bnN1YnNjcmliZWxpbmt9
+fSd0IDxiciAvPjxiciAvPjxiciAvPsKgPGJyIC8+PGJyIC8+Q2FsbCBmb3IgYWJzdHJhY3RzIGFu
+ZCBpbnZpdGF0aW9uIHRvOjxiciAvPjxiciAvPsKgPGJyIC8+PGJyIC8+VGhlIDIwMjAgd29ybGQg
+Y29uZmVyZW5jZSBvbjo8YnIgLz48YnIgLz5Nb3ZlbWVudDogQnJhaW4sIEJvZHksIENvZ25pdGlv
+bjxiciAvPjxiciAvPmF0PGJyIC8+PGJyIC8+U29yYm9ubmUgVW5pdmVyc2l0eSzCoCBQYXJpcywg
+RnJhbmNlPGJyIC8+PGJyIC8+PGJyIC8+PGJyIC8+PGJyIC8+RGV0YWlscyBvbiB0aGUgY29uZmVy
+ZW5jZSB3ZWJzaXRlPGJyIC8+PGJyIC8+PGJyIC8+d3d3Lm1vdmVtZW50aXMuY29tPGJyIC8+PGJy
+IC8+PGJyIC8+PGJyIC8+PGJyIC8+wqA8YnIgLz48YnIgLz5BbnkgUXVlc3Rpb24/IEVtYWlsIHVz
+IHRvIG9mZmljZUBtb3ZlbWVudGlzLmNvbTxiciAvPjxiciAvPsKgPGJyIC8+PGJyIC8+U2luY2Vy
+ZWx5LDxiciAvPjxiciAvPsKgPGJyIC8+PGJyIC8+QXZyYWhhbSBGcmllZCAtIEZyaXp6eTxiciAv
+PjxiciAvPkMuRS5PLjxiciAvPjxiciAvPk1vdmVtZW50IDIwMjA6wqAgQnJhaW4sIEJvZHksIENv
+Z25pdGlvbjxiciAvPjxiciAvPkxhIFNvcmJvbm5lLCBQYXJpcywgRnJhbmNlPGJyIC8+PGJyIC8+
+d3d3Lm1vdmVtZW50aXMuY29tPGJyIC8+PGJyIC8+b2ZmaWNlQG1vdmVtZW50aXMuY29tPGJyIC8+
+PGJyIC8+
+
+--===============7396938109683918875==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+
+<html>
+<head>
+</head>
+<body><img alt="" src="http://track.movements-fr.com/campaigns/mailopen/MTM3ODc=/NTc0MDEzOA==/MjU5" style="display:none"/>
+<p>If you received this email by mistake and against your will, we apologize and please press the&#160;<u><a href="http://track.movements-fr.com/campaigns/unsubscribelink/MTM3ODc=/NTc0MDEzOA==/MjU5">Unsubscribe me from this list</a> <br/></u></p>
+<p>&#160;</p>
+<p><strong><span style="font-size: 12pt; color: #000080;"><u>Call for abstracts and invitation to</u>:</span></strong></p>
+<p>&#160;</p>
+<p style="text-align: center;"><span style="font-size: 12pt; color: #0000ff;">The 2020 world conference on:</span></p>
+<p style="text-align: center;"><span style="font-size: 18pt; color: #0000ff;"><strong>Movement: Brain, Body, Cognition</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #0000ff;"><span style="font-size: 12pt; color: #0000ff;">at</span></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #0000ff;"><span style="font-size: 12pt; color: #0000ff;">Sorbonne University,&#160; Paris, France</span></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; color: #0000ff;">&#160;</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; color: #0000ff;">Details on the conference website<br/></span></p>
+<p style="text-align: center;"><strong><span style="font-size: 12pt;"><a href="http://track.movements-fr.com/campaigns/mailclick/MTM3ODc=/NTc0MDEzOA==/MjU5/aHR0cDovL3d3dy5tb3ZlbWVudGlzLmNvbQ==">www.movementis.com</a></span></strong></p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p><span style="font-size: 12pt;">Any Question? Email us to</span> <span style="font-size: 12pt;"><a href="mailto:office@movementis.com">office@movementis.com</a></span></p>
+<p><span style="font-size: 12pt;">&#160;</span></p>
+<p>Sincerely,</p>
+<p>&#160;</p>
+<p><strong>Avraham Fried - Frizzy</strong></p>
+<p>C.E.O.</p>
+<p><strong>Movement 2020:&#160; Brain, Body, Cognition</strong></p>
+<p><strong>La Sorbonne, Paris, France</strong></p>
+<p><a href="http://track.movements-fr.com/campaigns/mailclick/MTM3ODc=/NTc0MDEzOA==/MjU5/aHR0cDovL3d3dy5tb3ZlbWVudGlzLmNvbQ==">www.movementis.com</a></p>
+<p><a href="mailto:office@movementis.com">office@movementis.com</a></p>
+<p>&#160;</p><p align="center" style="text-align: center; color: rgb(51, 51, 51);" width="100%">Click here if you consider this email as <a href="http://track.movements-fr.com/campaigns/spamlink/MTM3ODc=/NTc0MDEzOA==/MjU5" style="text-decoration: none; color: rgb(200, 157, 67);" target="_blank">Spam</a></p>
+</body>
+</html>
+--===============7396938109683918875==--

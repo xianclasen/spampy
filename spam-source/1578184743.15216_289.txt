@@ -1,0 +1,100 @@
+Return-Path: <SRS0=bqmKBl=2Y=kerie.buzz=fungus_destroyer-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14270 invoked from network); 3 Jan 2020 18:35:35 -0000
+Received: (qmail 19671 invoked from network); 3 Jan 2020 18:35:34 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Jan 2020 18:35:34 -0000
+Received: (qmail 14855 invoked by uid 48516); 3 Jan 2020 18:35:34 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 26631 invoked from network); 3 Jan 2020 18:35:33 -0000
+Received: from mail.kerie.buzz ([91.228.101.82])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 03 Jan 2020 18:35:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=kerie.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fungus_destroyer@kerie.buzz;
+ bh=ZM5IAHniC0wZGZOV3fUksZGeLZc=;
+ b=OZweJDX2jhlSlSQphPAtRgbgovcz922O2FeoEoZk0hwO3mlwPx6Jv0Wkr7qK4hba1cL84Iu1bDmU
+   zFlUkowGdZSZZ63YvvUIXb5ox3IA1Hq71Oq5NDRPaT49sUU9Y/TepT7Gpfnn6PgG2sMIDgXOc7Yu
+   n7N3srmCE2/nQD6zgn0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=kerie.buzz;
+ b=WcRdN70eIYEayas5YZqROc10aAHSGTTgtziYgPjMXj2GwZ6So9YU80VA6rrw+xqprlZOXKZqqJtn
+   gWh9FFrNwND/vQR8MqnyoJOiU2OmFKflbLYRt32r7QwHO/I9IXuJloC3HpGo2TvDPyZjFC/8jPS/
+   xKZY4e3CSWThnVgxTyM=;
+Received: by mail.kerie.buzz id h1u4na0001g6 for <bruce@untroubled.org>; Fri, 3 Jan 2020 13:29:05 -0500 (envelope-from <fungus_destroyer-bruce=untroubled.org@kerie.buzz>)
+Date: Fri, 3 Jan 2020 13:29:05 -0500
+From: "Fungus Destroyer" <fungus_destroyer@kerie.buzz>
+To:   <bruce@untroubled.org>
+Subject: WATCH: How I Really Cured My Fungus With This Simple Trick
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_34_449384464.1578076130735"
+List-Unsubscribe: <http://www.kerie.buzz/ef35r23k95F89yP11Q1m1Mp19c3P21DFv4GIf4rxvs4FhIHEsvZ10sQGRQmdoZ96Y10MyH6DqHji@/dilation-afterward>
+Message-ID: <0.0.0.3.1D5C263AE0E8016.707834@mail.kerie.buzz>
+Content-Length: 6912
+
+------=_Part_34_449384464.1578076130735
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>pretense</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.kerie.buzz/dilation-afterward/51c4g2395zG8j612f70U46S19c3J21QFv4GIf4rxvs4FhIHEsvZ10kQGRQmdoZ95cC1M05zlHiO">See how this EASY trick cured foot fungus </a></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: 2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; height: 530px; "> 
+    <tbody> 
+     <tr> 
+      <td> 
+       <table border="1" cellpadding="0" cellspacing="0" style="font-family: &quot; Sans Serif&quot; , serif; font-size: 17px; height: 548px; " width="590"> 
+        <tbody> 
+         <tr> 
+          <td> 
+           <table border="0" cellpadding="5" cellspacing="5" style="height: 526px; " width="586"> 
+            <tbody> 
+             <tr> 
+              <td> 
+               <div style="font-family: &quot; Sans Serif&quot; ; font-size: 16px; "> 
+                <div style="color: rgb(0, 0, 0); line-height: normal; font-family: &quot; Sans Serif&quot; ; font-size: 12px; "> 
+                 <h1 style="margin: 20px 6px; color: rgb(34, 34, 34); line-height: 40px; font-family: &quot; Sans Serif&quot; ; font-size: 36px; box-sizing: border-box; text-align: center; "><span style="font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(0, 0, 0); "><strong>This Man Cured His Nail Fungus This Simple Trick (Watch Here)</strong></span></span></h1> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><a href="http://www.kerie.buzz/dilation-afterward/51c4g2395zG8j612f70U46S19c3J21QFv4GIf4rxvs4FhIHEsvZ10kQGRQmdoZ95cC1M05zlHiO"><img alt="stag" src="http://www.kerie.buzz/Regulus-Chicana/de65d2i395I7Fan12g7_049w19c3T21hFv4GIf4rxvs4FhIHEsvZ10NQGRQmdoZ95uX10g5AqHiM" style="width: 488px; height: 282px; " /></a></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(14, 14, 184); "><span style="font-size: 34px; font-family: &quot; Sans Serif&quot; ; "><strong><a href="http://www.kerie.buzz/dilation-afterward/51c4g2395zG8j612f70U46S19c3J21QFv4GIf4rxvs4FhIHEsvZ10kQGRQmdoZ95cC1M05zlHiO" style="color: rgb(14, 14, 184); ">{Watch Now}</a></strong></span></span></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                </div> 
+               </div> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <a href="http://www.kerie.buzz/Fellini-maximums/ed64m2395LCy8612P704K7N19c3D21tFv4GIf4rxvs4FhIHEsvZ10tQGRQmdoZ97cJi10QQ5XJHiq"><font color="#666666">Remove Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.kerie.buzz/7916Wy2t395p89XA12p70Q48k19c3u21oFv4GIf4rxvs4FhIHEsvZ10CQGRQmdoZ95u1j0l6E@HjiJ/attender-transferals">Pull off list Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+    <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 80918</span>
+    <br /> &nbsp; 
+   </div> <style face="starting"></style><style color="gyrocompass"></style><style face="sumac"><big></big></style><small><font title="looked"></small></font><big></big>
+  </center>   
+ <img src="http://www.kerie.buzz/6476a2sH395g85HV13SR70H4aq19c3L21UFv4GIf4rxvs4FhIHEsvZ10iQGRQmdoZ96hwrt106LLlPHi/privileged-Walters" alt=""/></body>
+</html>
+
+------=_Part_34_449384464.1578076130735--
+

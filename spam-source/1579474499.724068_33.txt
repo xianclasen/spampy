@@ -1,0 +1,82 @@
+Return-Path: <SRS0=sXLf/P=3I=heery.men=cbd_oil_planet_pure_turmeric-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15871 invoked from network); 19 Jan 2020 20:07:17 -0000
+Received: (qmail 25796 invoked from network); 19 Jan 2020 20:07:16 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Jan 2020 20:07:16 -0000
+Received: (qmail 11350 invoked by uid 48516); 19 Jan 2020 20:07:16 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 25808 invoked from network); 19 Jan 2020 20:07:16 -0000
+Received: from mail.heery.men (208-186-113-115.nca.datanoc.com [208.186.113.115])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 19 Jan 2020 20:07:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=heery.men;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=cbd_oil_planet_pure_turmeric@heery.men;
+ bh=6WLFirBauC6uRi+kjr0aTo0BAe8=;
+ b=rBy4s4FljNSsAtAYmyRoZGSy0YcamHFnolfP4NDg0YcwUMKGJO/AFAkUtOdcWrFaR3Pk/b0EOC5n
+   Qh6yW4NIe/VS/4zs+IF9It1iuhhr8SBWREbP75lV0IK7nMCqW6anmuF8272irEynfyth9WOWn132
+   lEF1VXF9MOwhj4Qo0xY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=heery.men;
+ b=X/DirbH7jg8s+fQB9BhgCpA0bBE0I9i1AdOYGs5wYs2lo3DwDz12b9g2IFxbnhclsRi5lAnGkWt7
+   SqnEbETtqOhS9ppFdwD+JjXKSM05eK4DPAAn3YP4ZNvQQHTconu0zea8AqiFpKWX9jM6wDU6WMpM
+   5i0rSrmzOzWz9ktqT+Q=;
+Received: by mail.heery.men id h4irf60001g4 for <bruce@untroubled.org>; Sun, 19 Jan 2020 15:00:47 -0500 (envelope-from <cbd_oil_planet_pure_turmeric-bruce=untroubled.org@heery.men>)
+Date: Sun, 19 Jan 2020 15:00:47 -0500
+From: "CBD Oil Planet Pure Turmeric" <cbd_oil_planet_pure_turmeric@heery.men>
+To:   <bruce@untroubled.org>
+Subject: Don't let pain stop you from spending time with your family!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_214_2055156879.1579464035618"
+List-Unsubscribe: <http://www.heery.men/McCall-lamented/9364E2395BwI8911W11_xW34f6W21IFv4GIf4rxvs4FhIHEsvZ8vRNndoem5mJ1z05VqqcY>
+Message-ID: <0.0.0.17.1D5CF0324651954.4AF598@mail.heery.men>
+Content-Length: 3920
+
+------=_Part_214_2055156879.1579464035618
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Chautauqua</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.heery.men/5cf4U2395Oq86m13XeIbO8aq34f6L21fFv4GIf4rxvs4FhIHEsvZ8aRNndoem7V1l0sgP5v0c@Y/insightful-attendants">Need peace in your life :)</a></span></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle"><span face="intersect"><style><small></span></style><font><font size="immaculately"></font><font class="Hillary"></font></small></font><span dir="retries"><style dir="object"></span><big></big></style><font title="martial"></font> 
+       <center>
+        <a href="http://www.heery.men/5cf4U2395Oq86m13XeIbO8aq34f6L21fFv4GIf4rxvs4FhIHEsvZ8aRNndoem7V1l0sgP5v0c@Y/insightful-attendants"><img alt="no pain" src="http://www.heery.men/f2f4D2395L7aDV11Veb8dO34f6A21WFv4GIf4rxvs4FhIHEsvZ8YRNndoem7C_1rOn05bP1cY/Messiah-interleaved" style="border-width: 0px; border-style: solid; height: 652px; width: 604px; " /></a>
+        <br /> 
+        <span style="font-family:times new roman,times,serif; "><span style="font-size:11px; "><font color="#666666">&nbsp; Remove email<a href="http://www.heery.men/Tegucigalpa-lighten/c426q2I3x95o8Vo611Qeb8bD34f6j21cFv4GIf4rxvs4FhIHEsvZ8kRNndoem5cp10k5pXzcY">&nbsp; Here</a></font>.</span></span>
+       </center> 
+       <div align="center">
+        <span style="font-family:times new roman,times,serif; "><span style="font-size:11px; ">1261 S 820 E Suite 210 - American Fork, UT 84003</span></span>
+        <br /> 
+        <br /> 
+        <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+        <br /> 
+        <span style="font-family:times new roman,times,serif; "><span style="font-size:11px; "><a href="http://www.heery.men/5cf6Y2T39U5zor8912Ckeb8cJ34f6z21SFv4GIf4rxvs4FhIHEsvZ8dRNndoem5J1lN06JJ2cLY/insightful-attendants">Go here to st0p email</a></span></span>
+       </div> </td> 
+     </tr> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; </td> 
+     </tr> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> 
+   <br /> <font color="tally"></font><span></span><style title="eccentricities"></style><style><small><span class="looms"></span></small></style>
+  </center>   
+ <img src="http://www.heery.men/microarchitects-medicinal/1205Q2p395Kx85N13SueOb8em34f6v21KFv4GIf4rxvs4FhIHEsvZ8CRNndoem6HwR10Q6ek3cyY" alt=""/></body>
+</html>
+
+------=_Part_214_2055156879.1579464035618--
+

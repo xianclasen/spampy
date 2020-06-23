@@ -1,0 +1,478 @@
+Return-Path: <SRS0=vmGk54=27=emsd2.com=bounce-904207-75-464017-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 22427 invoked from network); 10 Jan 2020 19:03:43 -0000
+Received: (qmail 8925 invoked from network); 10 Jan 2020 19:03:42 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 19:03:42 -0000
+Received: (qmail 30876 invoked by uid 48516); 10 Jan 2020 19:03:42 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 19929 invoked from network); 10 Jan 2020 19:03:41 -0000
+Received: from emsd2.com (emsd2.com [173.236.20.192])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 10 Jan 2020 19:03:41 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dk; d=emsd2.com;
+ h=To:From:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding:
+ Sender:List-Unsubscribe:Message-ID;
+ i=hometechpublishing.activehosted.com@emsd2.com;
+ bh=7wxEQf2ZcNrCmZhMabGefhtxSFZXrXoyM+nAggKyoAg=;
+ b=okWvyFpDyh/ef0mxUuUII5un6ldRilmka2Wj7jOpljM88yIF+AdNNAbmzZUbgYDP2XWcnsknyxHs
+   /JJlzdx95R/cVgLixdbCsGEft4bwZpIpkodWx8ii5uIMT55MbgpEvEFT9wWnd1RQ+RxObDELwVAx
+   aJgBvDLr/K7CrfmAaPU=
+Received: by emsd2.com id h3358o2lkokb for <bruce@untroubled.org>; Fri, 10 Jan 2020 13:03:40 -0600 (envelope-from <bounce-904207-75-464017-bruce=untroubled.org@emsd2.com>)
+To: <bruce@untroubled.org>
+From: "HomeTech" <support@costestimator.com>
+Subject: Price jobs under 5k in value fast and accurately
+Date: Fri, 10 Jan 2020 12:57:02 -0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-13115668165e18c906650be6.92120968_=_"
+Content-Transfer-Encoding: 7bit
+Sender: <hometechpublishing.activehosted.com@emsd2.com>
+X-Sender: <hometechpublishing.activehosted.com@emsd2.com>
+X-Report-Abuse: Please report abuse to abuse@activecampaign.com
+X-mid: YnJ1Y2VAdW50cm91YmxlZC5vcmcgLCBjNzUgLCBtMjIwMyAsIHMxMDkxNw
+Feedback-ID: 904207:activecampaign
+X-250ok-CID: 904207-75
+List-Unsubscribe: <mailto:unsubscribe-dc755cdc148e164189226be97843c85e-75-6a484184b36edc07941397252f2f06ed@emsd2.com>,
+ <https://hometechpublishing.acemlnd.com/box.php?nl=7&c=75&m=2203&s=6a484184b36edc07941397252f2f06ed&funcml=unsub2&luha=1>
+Message-ID: <20200110190340.27690.1986671760.swift@hometechpublishing.activehosted.com>
+Content-Length: 31223
+
+
+--_=_swift-13115668165e18c906650be6.92120968_=_
+Content-Type: text/plain; charset=utf-8
+
+ 
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=75A2203A7A575 
+
+The  Handyman Maintenance & Repair Cost Estimator will give the
+ability to price small jobs (under $5000) with the speed and accuracy.
+
+HomeTech Publishing products have been delivering for over 50 years.
+This comprehensive system is laid out the same as the HomeTech
+Publishing Remodeling & Renovation Cost Estimator with the same 25
+divisions from Plans and Permits to final Clean-up.
+
+The new books have been updated with new materials and processes, and
+now include man hours per line item as well as your local area pricing
+for materials and labor. 
+
+                
+  Call 800-240-8210  or visit
+www.hometechonline.com  to order. 
+
+Click here to save $20.00 with promo code save20bucks  
+
+Check out our reviews and testimonials
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=75A2203A7A579 
+
+ 
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=75A2203A7A575 
+
+ 
+
+mailto:support@costestimator.com 
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=75A2203A7A580
+_________________
+
+Sent to bruce@untroubled.org
+
+Unsubscribe:
+http://hometechpublishing.acemlnd.com/proc.php?nl=7&c=75&m=2203&s=6a484184b36edc07941397252f2f06ed&act=unsub
+
+HomeTech Systems LLC, 5850 waterloo road, #140, Columbia, MD 21045, United States
+--_=_swift-13115668165e18c906650be6.92120968_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html>=0A<head><!--[if !mso]><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><!--<![endif]--><meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3Dutf-8"><meta http-equiv=3D"Content-Langu=
+age" content=3D"en-us"><meta name=3D"format-detection" content=3D"telephone=
+=3Dno"><meta name=3D"format-detection" content=3D"date=3Dno"><meta name=3D"=
+format-detection" content=3D"address=3Dno"><meta name=3D"format-detection" =
+content=3D"email=3Dno"><style data-ac-keep=3D"true"> .ExternalClass { width=
+: 100%; background: inherit; background-color: inherit; } .ExternalClass p,=
+ .ExternalClass ul, .ExternalClass ol { Margin: 0; } .undoreset div p, .und=
+oreset p { margin-bottom: 20px; } div[class^=3D"aolmail_divbody"] { overflo=
+w: auto; } [owa] #ac-footer { padding: 20px 0px !important; background: inh=
+erit; background-color: inherit; } </style><style data-ac-keep=3D"true">=0A=
+@media only screen and (max-width: 600px) { /*-----------------------------=
+--------------------------------------------*\ Abandoned Cart widget \*----=
+--------------------------------------------------------------------*/ .td_=
+abandoned-cart img {display: block;padding-right: 0 !important;padding-bott=
+om: 0 !important;width: 100% !important;max-width: 100% !important;height: =
+auto !important;} body { padding: 0!important; font-size:1em!important; } *=
+ { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing:=
+ border-box; } *[class].divbody {-webkit-text-size-adjust:none !important; =
+width:auto !important;} *[class].td_picture img {width:auto !important;} *[=
+class].td_text { line-height: 110%; } *[class].td_button { width: auto; } /=
+* Collapse all block elements */ :not(.body) table { display: block!importa=
+nt; float:none!important; border-collapse:collapse !important; width:100% !=
+important; min-width:100% !important; clear:both!important; } :not(.body) t=
+head,=0A:not(.body) tbody, :not(.body) tr { display:block!important; float:=
+none!important; width:100% !important; } :not(.body) th, :not(.body) td, :n=
+ot(.body) p { display:block!important; float:none!important; width:100% !im=
+portant; clear:both!important; } /* Remove browser default styling for elem=
+ents */ ul, ol { margin-left: 20px; margin-bottom: 10px; margin-top: 10px; =
+-webkit-margin-before: 0; -webkit-margin-after: 0; -webkit-padding-start: 0=
+; } /* Set default height for spacer once collapse */ *[class].spacer { hei=
+ght: auto!important; } a[href^=3Ddate]{ color:inherit !important; text-deco=
+ration:none !important;} a[href^=3Dtelephone]{ color:inherit !important; te=
+xt-decoration:none !important;} a[href^=3Daddress]{ color:inherit !importan=
+t; text-decoration:none !important;} a[href^=3Demail]{ color:inherit !impor=
+tant; text-decoration:none !important;} /* Default table cell height */ td[=
+height=3D"12"]{height:12px!important;font-size:12px!important;line-height:1=
+2px!important;}=0Atd[height=3D"14"]{height:14px!important;font-size:14px!im=
+portant;line-height:14px!important;}=0Atd[height=3D"0"]{height:0px!importan=
+t;font-size:0px!important;line-height:0px!important;} /*-------------------=
+------------------------------------------------------*\ Product Widget \*-=
+------------------------------------------------------------------------*/ =
+.td_product > div { float: none !important; width: 100% !important; margin-=
+bottom: 20px !important; } .td_product > div img { width: 75% !important; }=
+ /* Default social icons */ *[class].ac-social-icon-16 {width:16px !importa=
+nt; height:16px !important;} *[class].ac-social-icon-24 {width:24px !import=
+ant; height:24px !important;} *[class].ac-social-icon-28 {width:28px !impor=
+tant; height:28px !important;} *[class].__ac_social_icons { margin-right: 0=
+px !important; } }=0A</style><style data-ac-keep=3D"true"> @media only scre=
+en and (max-width: 320px) { #layout-row1893 { max-height: 0px!important; fo=
+nt-size: 0px!important; display: none!important; visibility: hidden!importa=
+nt; } #layout-row1894 img { width: 100% !important; height: auto !important=
+; max-width: 320px !important; } #layout-row1899 img { width: 100% !importa=
+nt; height: auto !important; max-width: 234px !important; } .td_rss .rss-it=
+em img.iphone_large_image { width: auto !important; } u + .body { display: =
+table !important; width: 100vw !important; min-width: 100vw !important; } u=
+ + .body table { display: table !important; width: 100% !important; min-wid=
+th: 100% !important; } u + .body td { display: block !important; width: 100=
+% !important; min-width: 100% !important; } u + .body img { display: inline=
+-block !important; margin: auto !important; width: auto !important; vertica=
+l-align: bottom !important; } u + .body center { display: block !important;=
+ margin: auto !important;=0Awidth: 100% !important; min-width: 100% !import=
+ant; text-align: center !important; } u + .body table._ac_social_table, u +=
+ .body table._ac_social_table td, u + .body table._ac_social_table div, u +=
+ .body table._ac_social_table a { display: inline-block !important; margin:=
+ auto !important; width: auto !important; min-width: auto !important; text-=
+align: center !important; } u + .body table._ac_social_table img { display:=
+ inline-block !important; margin: auto !important; width: 32px !important; =
+min-width: 32px !important; max-width: 32px !important; }=0A}=0A@media only=
+ screen and (max-width: 375px) { #layout-row1893 { max-height: 0px!importan=
+t; font-size: 0px!important; display: none!important; visibility: hidden!im=
+portant; } #layout-row1894 img { width: 100% !important; height: auto !impo=
+rtant; max-width: 375px !important; } #layout-row1899 img { width: 100% !im=
+portant; height: auto !important; max-width: 234px !important; } .td_rss .r=
+ss-item img.iphone_large_image { width: auto !important; } u + .body { disp=
+lay: table !important; width: 100vw !important; min-width: 100vw !important=
+; } u + .body table { display: table !important; width: 100% !important; mi=
+n-width: 100% !important; } u + .body td { display: block !important; width=
+: 100% !important; min-width: 100% !important; } u + .body img { display: i=
+nline-block !important; margin: auto !important; width: auto !important; ve=
+rtical-align: bottom !important; } u + .body center { display: block !impor=
+tant; margin: auto !important; width: 100% !important; min-width:=0A100% !i=
+mportant; text-align: center !important; } u + .body table._ac_social_table=
+, u + .body table._ac_social_table td, u + .body table._ac_social_table div=
+, u + .body table._ac_social_table a { display: inline-block !important; ma=
+rgin: auto !important; width: auto !important; min-width: auto !important; =
+text-align: center !important; } u + .body table._ac_social_table img { dis=
+play: inline-block !important; margin: auto !important; width: 32px !import=
+ant; min-width: 32px !important; max-width: 32px !important; }=0A}=0A@media=
+ only screen and (max-width: 414px) { #layout-row1893 { max-height: 0px!imp=
+ortant; font-size: 0px!important; display: none!important; visibility: hidd=
+en!important; } #layout-row1894 img { width: 100% !important; height: auto =
+!important; max-width: 414px !important; } #layout-row1899 img { width: 100=
+% !important; height: auto !important; max-width: 234px !important; } .td_r=
+ss .rss-item img.iphone_large_image { width: auto !important; } u + .body {=
+ display: table !important; width: 100vw !important; min-width: 100vw !impo=
+rtant; } u + .body table { display: table !important; width: 100% !importan=
+t; min-width: 100% !important; } u + .body td { display: block !important; =
+width: 100% !important; min-width: 100% !important; } u + .body img { displ=
+ay: inline-block !important; margin: auto !important; width: auto !importan=
+t; vertical-align: bottom !important; } u + .body center { display: block !=
+important; margin: auto !important; width: 100% !important; min-width:=0A10=
+0% !important; text-align: center !important; } u + .body table._ac_social_=
+table, u + .body table._ac_social_table td, u + .body table._ac_social_tabl=
+e div, u + .body table._ac_social_table a { display: inline-block !importan=
+t; margin: auto !important; width: auto !important; min-width: auto !import=
+ant; text-align: center !important; } u + .body table._ac_social_table img =
+{ display: inline-block !important; margin: auto !important; width: 32px !i=
+mportant; min-width: 32px !important; max-width: 32px !important; }=0A}=0A@=
+media only screen and (max-width: 667px) { #layout-row1893 { max-height: 0p=
+x!important; font-size: 0px!important; display: none!important; visibility:=
+ hidden!important; } #layout-row1894 img { width: 100% !important; height: =
+auto !important; max-width: 667px !important; } #layout-row1899 img { width=
+: 100% !important; height: auto !important; max-width: 234px !important; } =
+.td_rss .rss-item img.iphone_large_image { width: auto !important; } u + .b=
+ody { display: table !important; width: 100vw !important; min-width: 100vw =
+!important; } u + .body table { display: table !important; width: 100% !imp=
+ortant; min-width: 100% !important; } u + .body td { display: block !import=
+ant; width: 100% !important; min-width: 100% !important; } u + .body img { =
+display: inline-block !important; margin: auto !important; width: auto !imp=
+ortant; vertical-align: bottom !important; } u + .body center { display: bl=
+ock !important; margin: auto !important; width: 100% !important; min-width:=
+=0A100% !important; text-align: center !important; } u + .body table._ac_so=
+cial_table, u + .body table._ac_social_table td, u + .body table._ac_social=
+_table div, u + .body table._ac_social_table a { display: inline-block !imp=
+ortant; margin: auto !important; width: auto !important; min-width: auto !i=
+mportant; text-align: center !important; } u + .body table._ac_social_table=
+ img { display: inline-block !important; margin: auto !important; width: 32=
+px !important; min-width: 32px !important; max-width: 32px !important; }=0A=
+} </style><!--[if !mso]><!-- webfonts --><!--<![endif]--><!--[if lt mso 12]=
+> <![endif]--></head><body id=3D"ac-designer" class=3D"body" style=3D"font-=
+family: Arial; line-height: 1.1; margin: 0px; background-color: #ffffff; wi=
+dth: 100%; text-align: center;">=09=09<div style=3D"display:none; padding:0=
+; height:1px; font-size:1px; background-color:inherit !important; color:inh=
+erit !important; line-height:1px; mso-hide:all;">=0A=09=09=09HomeTech just =
+released January 2020 pricing guide for your area=0A=09=09</div>=0A<div cla=
+ss=3D"divbody" style=3D"margin: 0px; outline: none; padding: 0px; color: #0=
+00000; font-family: arial; line-height: 1.1; width: 100%; background-color:=
+ #ffffff; background: #ffffff; text-align: center;"><table class=3D"templat=
+e-table" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" al=
+ign=3D"left" style=3D"font-size: 14px; min-width: auto; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt; background-color: #ffffff; background: #ffffff;"=
+><tr><td align=3D"center" valign=3D"top" width=3D"100%"><table class=3D"tem=
+plate-table" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"650"=
+ bgcolor=3D"#ffffff" style=3D"font-size: 14px; min-width: auto; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; max-width: 650px;"><tr><td id=3D"layout_=
+table_83b5b0b13f86782db14c1829c8ae84bba7a8d2aa" valign=3D"top" align=3D"cen=
+ter" width=3D"650"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+class=3D"layout layout-table root-table" width=3D"650" style=3D"font-size: =
+14px; min-width: 100%; mso-table-lspace: 0pt;=0Amso-table-rspace: 0pt;"><tr=
+><td id=3D"layout-row-margin1893" valign=3D"top"><table width=3D"100%" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-=
+width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr id=3D"layou=
+t-row1893" class=3D"layout layout-row widget _widget_spacer "><td id=3D"lay=
+out-row-padding1893" valign=3D"top"><table width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; =
+mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td valign=3D"top" heigh=
+t=3D"10"><div class=3D"spacer" style=3D"margin: 0; outline: none; padding: =
+0; height: 10px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" w=
+idth=3D"100%" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt;"><tr><td class=3D"spacer-body" valign=3D"top" h=
+eight=3D"10" width=3D"650">=C2=A0</td>=0A</tr>=0A</table>=0A</div>=0A</td>=
+=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr id=3D"=
+layout-row1892" class=3D"layout layout-row clear-this "><td id=3D"layout-ro=
+w-padding1892" valign=3D"top"><table width=3D"100%" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"layout_table_d108bc2=
+43928306e43b64bf336b30c66df3af751" valign=3D"top" width=3D"214"><table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"layout layout-table "=
+ width=3D"214" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"layout-row-margin1894" valign=
+=3D"top"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt;"><tr id=3D"layout-row1894" class=3D"layout layout-row =
+widget _widget_picture " align=3D"left"><td id=3D"layout-row-padding1894" v=
+align=3D"top"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"font-size: 14px; min-width: 100%;=0Amso-table-lspace: 0p=
+t; mso-table-rspace: 0pt;"><tr><td class=3D"image-td" align=3D"left" valign=
+=3D"top" width=3D"214"><a href=3D"https://hometechpublishing.acemlnd.com/lt=
+.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D75A2203A7A575" style=3D"margi=
+n: 0; outline: none; padding: 0; color: #045fb4; display: block; min-width:=
+ 100%;"><img src=3D"https://hometechpublishing.imgus11.com/public//0917e1b4=
+4777af1e31e25f1e01d62a75.jpg?r=3D22038478" alt=3D"" width=3D"214" style=3D"=
+border: none; display: block; outline: none; width: 214px; opacity: 1; max-=
+width: 100%;"></a></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</t=
+d>=0A</tr>=0A</table>=0A</td>=0A<td id=3D"layout_table_37e183415b5b216c6c49=
+d926388c5ea8ce2709df" valign=3D"top" width=3D"374"><table cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" class=3D"layout layout-table " width=3D"374=
+" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt;"><tr><td id=3D"layout-row-margin1897" valign=3D"top" style=
+=3D"padding: 5px;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt; border-collapse: initial !important;"><tr id=
+=3D"layout-row1897" class=3D"layout layout-row widget _widget_text style189=
+7" style=3D"margin: 0; padding: 0;"><td id=3D"layout-row-padding1897" valig=
+n=3D"top" style=3D"padding: 5px;"><table width=3D"100%" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"text_div1676" cl=
+ass=3D"td_text td_block" valign=3D"top" align=3D"left" width=3D"354" style=
+=3D"margin: 0; outline: none;=0Apadding: 0; color: inherit; font-size: 12px=
+; font-weight: inherit; line-height: 1; text-decoration: inherit; font-fami=
+ly: Arial;"> <div style=3D"margin: 0; outline: none; padding: 0; font-size:=
+ 12px; color: #333333; font-family: arial;"> <span style=3D"color: #333333;=
+ font-size: 14px; font-weight: 500; line-height: inherit; text-decoration: =
+inherit; font-family: arial; font-style: normal;"> The=C2=A0=C2=A0Handyman =
+Maintenance & Repair Cost Estimator will give the ability to price small jo=
+bs (under $5000) with the speed and accuracy.<br></span><span style=3D"colo=
+r: inherit; font-size: 14px; font-weight: inherit; line-height: inherit; te=
+xt-decoration: inherit;" class=3D""><br style=3D""><span style=3D"color: #3=
+33333; font-size: inherit; font-weight: 500; line-height: inherit; text-dec=
+oration: inherit; font-family: arial; font-style: normal;">HomeTech Publish=
+ing products have been delivering for over 50 years. This comprehensive sys=
+tem is laid out the same as the HomeTech Publishing=0ARemodeling & Renovati=
+on Cost Estimator with the same 25 divisions from Plans and Permits to fina=
+l Clean-up.<br></span><br style=3D""><span style=3D"color: #333333; font-si=
+ze: inherit; font-weight: 500; line-height: inherit; text-decoration: inher=
+it; font-family: arial; font-style: normal;">The new books have been update=
+d with new materials and processes, and now include man hours per line item=
+ as well as your local area pricing for materials and labor.</span><span st=
+yle=3D"color: #333333; font-size: inherit; font-weight: 400; line-height: i=
+nherit; text-decoration: inherit; font-family: arial; font-style: normal;">=
+ </span></span><br style=3D""><br style=3D""><br style=3D""><span style=3D"=
+color: #333333; font-size: 12px; font-weight: 400; line-height: inherit; te=
+xt-decoration: inherit; font-family: arial; font-style: normal;">=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 </span><br style=3D""><spa=
+n style=3D"color: #333333; font-size: 12px; font-weight: 400; line-height: =
+inherit; text-decoration: inherit;=0Afont-family: arial; font-style: normal=
+;">=C2=A0 Call </span><a href=3D"https://hometechpublishing.acemlnd.com/lt.=
+php?s=3D6a484184b36edc07941397252f2f06ed&i=3D75A2203A7A576" data-ac-default=
+-color=3D"1" style=3D"margin: 0; outline: none; padding: 0; color: #045fb4;=
+ text-decoration: underline; font-family: arial; font-weight: 400; font-siz=
+e: 12px; font-style: normal;"><span style=3D"color: inherit; font-size: inh=
+erit; font-weight: inherit; line-height: inherit; text-decoration: inherit;=
+ font-family: arial;">800-240-8210</span></a><span style=3D"color: #333333;=
+ font-size: 12px; font-weight: 400; line-height: inherit; text-decoration: =
+inherit; font-family: arial; font-style: normal;"> or visit </span><a href=
+=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc0794139=
+7252f2f06ed&i=3D75A2203A7A577" data-ac-default-color=3D"1" style=3D"margin:=
+ 0; outline: none; padding: 0; color: #045fb4; text-decoration: underline; =
+font-family: arial; font-weight: 400; font-size: 12px; font-style:=0Anormal=
+;"><span style=3D"color: inherit; font-size: inherit; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit; font-family: arial;">www.h=
+ometechonline.com</span></a><span style=3D"color: #333333; font-size: 12px;=
+ font-weight: 400; line-height: inherit; text-decoration: inherit; font-fam=
+ily: arial; font-style: normal;"> to order. </span><br></div>=0A</td>=0A</t=
+r>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"la=
+yout-row-margin1895" valign=3D"top" style=3D"padding: 8px;"><table width=3D=
+"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size:=
+ 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; borde=
+r-collapse: initial !important;"><tr id=3D"layout-row1895" class=3D"layout =
+layout-row widget _widget_button style1895" style=3D"background-color: #2d2=
+4d6;"><td id=3D"layout-row-padding1895" valign=3D"top" style=3D"background-=
+color: #2d24d6; padding: 5px;"><table width=3D"100%" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-t=
+able-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td class=3D"td_button td_blo=
+ck customizable" valign=3D"top" align=3D"left" width=3D"348"> <div class=3D=
+"button-wrapper" style=3D"margin: 0; outline: none; padding: 0; text-align:=
+ center;">=0A<!--[if mso]> <v:roundrect xmlns:v=3D"urn:schemas-microsoft-co=
+m:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://ho=
+metechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=
+=3D75A2203A7A575" style=3D"v-text-anchor:middle; width:368px; height:80px; =
+" arcsize=3D"10%" strokecolor=3D"#B5B5B5" strokeweight=3D"1pt" fillcolor=3D=
+"#76cca0" o:button=3D"true" o:allowincell=3D"true" o:allowoverlap=3D"false"=
+ > <v:textbox inset=3D"2px,2px,2px,2px"> <center style=3D"color:#000000;fon=
+t-family:Arial; font-size:17px; line-height: 1.1;">Click here to save $20.0=
+0 with promo code save20bucks &nbsp;</center> </v:textbox> </v:roundrect>=
+=0A<![endif]--> <a href=3D"https://hometechpublishing.acemlnd.com/lt.php?s=
+=3D6a484184b36edc07941397252f2f06ed&i=3D75A2203A7A575" style=3D"margin: 0; =
+outline: none; padding: 12px; color: #000000; background-color: #76cca0; bo=
+rder: 1px solid #B5B5B5; border-radius: 3px; font-family: Arial; font-size:=
+ 17px; display: inline-block; line-height: 1.1; text-align: center; text-de=
+coration: none; mso-hide: all;"> <span style=3D"color:#000000;font-family:A=
+rial;font-size:17px;"> Click here to save $20.00 with promo code save20buck=
+s =C2=A0 </span> </a> </div>=0A=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=
+=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A<td id=3D"layout_table_dc7=
+7556158f7e36013518c16f68b4b70a6eadcc2" valign=3D"top" width=3D"62"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"layout layout-tabl=
+e " width=3D"62" style=3D"font-size: 14px; min-width: 100%; mso-table-lspac=
+e: 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"layout-row-margin1896" valign=
+=3D"top" style=3D"padding: 5px;"><table width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: initial !import=
+ant;"><tr id=3D"layout-row1896" class=3D"layout layout-row widget _widget_b=
+utton style1896" style=3D""><td id=3D"layout-row-padding1896" valign=3D"top=
+" style=3D"padding: 5px;"><table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt;"><tr><td class=3D"td_button td_block cu=
+stomizable" valign=3D"top" align=3D"left" width=3D"42"> <div class=3D"butto=
+n-wrapper" style=3D"margin: 0; outline: none;=0Apadding: 0; text-align: cen=
+ter;">=0A<!--[if mso]> <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vm=
+l" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://homete=
+chpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D75=
+A2203A7A578" style=3D"v-text-anchor:middle; width:120px; height:101px; " ar=
+csize=3D"10%" strokecolor=3D"#B5B5B5" strokeweight=3D"1pt" fillcolor=3D"#f5=
+f2f2" o:button=3D"true" o:allowincell=3D"true" o:allowoverlap=3D"false" > <=
+v:textbox inset=3D"2px,2px,2px,2px"> <center style=3D"color:#000000;font-fa=
+mily:Arial; font-size:14px; line-height: 1.1;">Check out our reviews and te=
+stimonials</center> </v:textbox> </v:roundrect>=0A<![endif]--> <a href=3D"h=
+ttps://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252f=
+2f06ed&i=3D75A2203A7A578" style=3D"margin: 0; outline: none; padding: 12px;=
+ color: #000000; background-color: #f5f2f2; border: 1px solid #B5B5B5; bord=
+er-radius: 3px; font-family: Arial; font-size: 14px; display: inline-block;=
+ line-height: 1.1; text-align: center; text-decoration: none; mso-hide: all=
+;"> <span style=3D"color:#000000;font-family:Arial;font-size:14px;"> Check =
+out our reviews and testimonials </span> </a> </div>=0A=0A</td>=0A</tr>=0A<=
+/table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</t=
+r>=0A</table>=0A</td>=0A</tr>=0A<tr><td id=3D"layout-row-margin1898" valign=
+=3D"top" style=3D"padding: 5px;"><table width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: initial !import=
+ant;"><tr id=3D"layout-row1898" class=3D"layout layout-row widget _widget_s=
+ocial style1898" style=3D""><td id=3D"layout-row-padding1898" valign=3D"top=
+" style=3D"padding: 5px;"><table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt;"><tr><td><table width=3D"100%" cellspac=
+ing=3D"0" cellpadding=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-=
+table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td width=3D"650" align=3D"l=
+eft"> <center style=3D"margin: 0; outline: none; padding: 0; font-size: 0px=
+;"> <table class=3D"_ac_social_table" cellspacing=3D"0" cellpadding=3D"0" a=
+lign=3D"center" style=3D"font-size: 0; min-width: auto!important; mso-table=
+-lspace: 0pt;=0Amso-table-rspace: 0pt; margin: auto!important; display: inl=
+ine-block!important; text-align: center!important;"><tr><td align=3D"center=
+" valign=3D"middle" width=3D"34" style=3D"display:inline-block!important;fo=
+nt-size:0;width:34px!important;"><div class=3D"__ac_social_icons" style=3D"=
+margin: 0; outline: none; padding: 0;"><a href=3D"https://hometechpublishin=
+g.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D75A2203A7A579=
+" id=3D"facebook" class=3D"__ac_social_icon_link" style=3D"margin: 0; outli=
+ne: none; padding: 0; color: #045fb4;"><img src=3D"http://hometechpublishin=
+g.img-us6.com/_social_/flat-color-round-facebook.png" border=3D"0" width=3D=
+"34" style=3D"border: none;"></a></div>=0A</td>=0A<td width=3D"10" style=3D=
+"display:inline-block!important;font-size:0;width:10px!important;">=C2=
+=A0</td>=0A<td align=3D"center" valign=3D"middle" width=3D"34" style=3D"dis=
+play:inline-block!important;font-size:0;width:34px!important;"><div class=
+=3D"__ac_social_icons" style=3D"margin: 0; outline: none; padding: 0;"><a h=
+ref=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc0794=
+1397252f2f06ed&i=3D75A2203A7A575" id=3D"website" class=3D"__ac_social_icon_=
+link" style=3D"margin: 0; outline: none; padding: 0; color: #045fb4;"><img =
+src=3D"http://hometechpublishing.img-us6.com/_social_/flat-color-round-webs=
+ite.png" border=3D"0" width=3D"34" style=3D"border: none;"></a></div>=0A</t=
+d>=0A<td width=3D"10" style=3D"display:inline-block!important;font-size:0;w=
+idth:10px!important;">=C2=A0</td>=0A<td align=3D"center" valign=3D"middle" =
+width=3D"34" style=3D"display:inline-block!important;font-size:0;width:34px=
+!important;"><div class=3D"__ac_social_icons" style=3D"margin: 0; outline: =
+none; padding: 0;"><a href=3D"mailto:support@costestimator.com" id=3D"email=
+" class=3D"__ac_social_icon_link" style=3D"margin: 0; outline: none; paddin=
+g: 0; color: #045fb4;"><img src=3D"http://hometechpublishing.img-us6.com/_s=
+ocial_/flat-color-round-email.png" border=3D"0" width=3D"34" style=3D"borde=
+r: none;"></a></div>=0A</td>=0A</tr>=0A</table>=0A</center> </td>=0A </tr>=
+=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=
+=0A</tr>=0A<tr><td id=3D"layout-row-margin1899" valign=3D"top"><table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-si=
+ze: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><=
+tr id=3D"layout-row1899" class=3D"layout layout-row widget _widget_picture =
+" align=3D"center"><td id=3D"layout-row-padding1899" valign=3D"top"><table =
+width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"fo=
+nt-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0p=
+t;"><tr><td class=3D"image-td" align=3D"center" valign=3D"top" width=3D"650=
+"><a href=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b36e=
+dc07941397252f2f06ed&i=3D75A2203A7A580" style=3D"margin: 0; outline: none; =
+padding: 0; color: #045fb4; display: block; min-width: 100%;"><img src=3D"h=
+ttps://hometechpublishing.imgus11.com/public//d2d68869a44c980a40c87da04ca46=
+ada.png?r=3D1803400914" alt=3D"" width=3D"234" style=3D"border: none; displ=
+ay: block; outline: none; width: 234px; opacity: 1; max-width:=0A100%;"></a=
+></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</ta=
+ble>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</div>=0A<img =
+src=3D"https://hometechpublishing.acemlnd.com/lt.php?nl=3D7&c=3D75&m=3D2203=
+&s=3D6a484184b36edc07941397252f2f06ed&l=3Dopen" border=3D"0" width=3D"1" he=
+ight=3D"1" style=3D"display:block;width:1px!important;min-width:1px!importa=
+nt;max-width:1px!important;height:1px!important;border:0;overflow:hidden;" =
+/><br /><div id=3D"ac-footer" style=3D"clear:both;background-color:inherit;=
+background:inherit;min-width:100%;mso-table-lspace:0pt;mso-table-rspace:0pt=
+;padding:20px;color:#000000;font-size:11px;font-family:arial,helvetica,sans=
+-serif;line-height:140%;line-height:1.4;text-align:center;box-sizing:border=
+-box;">=0A=09<center>=0A=09=09Sent to: <span style=3D"font-size:11px;font-f=
+amily:arial,helvetica,sans-serif;font-weight:normal;text-decoration:none;ou=
+tline:none;">bruce@untroubled.org</span>=0A=09=09<br>=0A=09=09<br>=0A=09=09=
+<a href=3D"http://hometechpublishing.acemlnd.com/proc.php?nl=3D7&c=3D75&m=
+=3D2203&s=3D6a484184b36edc07941397252f2f06ed&act=3Dunsub" style=3D"font-siz=
+e:11px;font-family:arial,helvetica,sans-serif;font-weight:bold;text-decorat=
+ion:underline;"><span style=3D"font-weight:bold;text-decoration:underline;"=
+>Unsubscribe</span></a>=0A=09=09<br>=0A=09=09<br> HomeTech Systems LLC, 585=
+0 waterloo road, #140, Columbia, MD 21045, United States=0A=09</center>=0A<=
+/div>=0A<br clear=3D"all" /></body>=0A</html>
+--_=_swift-13115668165e18c906650be6.92120968_=_--
+

@@ -1,0 +1,99 @@
+Return-Path: <SRS0=5UQKko=3C=wrinz.buzz=canvas.prints.partner-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1137 invoked from network); 13 Jan 2020 18:47:41 -0000
+Received: (qmail 29213 invoked from network); 13 Jan 2020 18:47:40 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Jan 2020 18:47:40 -0000
+Received: (qmail 15238 invoked by uid 48516); 13 Jan 2020 18:47:40 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 23621 invoked from network); 13 Jan 2020 18:47:40 -0000
+Received: from mail.wrinz.buzz ([193.201.140.115])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 13 Jan 2020 18:47:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=wrinz.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas.prints.partner@wrinz.buzz;
+ bh=Q2cPVE4VYiwbTOCwTC32mbX56hM=;
+ b=ncGrPMPSWMFulYdQyCDL3hjw8UhZW7NgoUmnxryJY43dt2hmLHD+LArL5E+iuk1KlA2PImO5cbWJ
+   b0tW9ejSlN45vmONp7HoqzUARbdz/mMnAprEIc0rh4KEgE50IvZsbaohcYU9VW9VX4ySq5IfrAkG
+   +ZOkJ5y211jrz+QhK8M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=wrinz.buzz;
+ b=kgy0OEpe/2vmXOdVJW/K7V/WdpH9bHiveOlpQR59ZsCHjUlGoNT4trBiSRoUoXuiWUelqiEwZei1
+   7Fqu0rCDE5qikRre9Fnr1S1KB8QBWhx1+GeEaee7jheq9xk50K/jT3kAovX2WNYdKcQ0zE7J8S2r
+   BUvsgCs5ex//BONvNKU=;
+Received: by mail.wrinz.buzz id h3itkm0001ge for <bruce@untroubled.org>; Mon, 13 Jan 2020 13:38:27 -0500 (envelope-from <canvas.prints.partner-bruce=untroubled.org@wrinz.buzz>)
+Date: Mon, 13 Jan 2020 13:38:27 -0500
+From: "Canvas Prints Partner" <canvas.prints.partner@wrinz.buzz>
+To:   <bruce@untroubled.org>
+Subject: Up to 93% off Fall Sale
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_49_1766536087.1578940692452"
+List-Unsubscribe: <http://www.wrinz.buzz/reproducer/9544r2395n8g9Y11AK11oB1a28W21mFv4GIf4rxvs4FhIHEsvZ10yQpRRmeovK5at1o05QlTHi>
+Message-ID: <0.0.0.6.1D5CA40A502A90E.7B44F6@mail.wrinz.buzz>
+Content-Length: 4432
+
+------=_Part_49_1766536087.1578940692452
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>sparks interchanger</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.wrinz.buzz/5395CS2395z86mq12C723fGP1a28s21YFv4GIf4rxvs4FhIHEsvZ10bQpRRmeovK7N1Rv0sF5uO1Hi/abstractionist">=
+Huge Sale Today Only 93% off &nbsp; </a></span></span><br /> <br /> <a href=
+=3D"http://www.wrinz.buzz/5395CS2395z86mq12C723fGP1a28s21YFv4GIf4rxvs4FhIHEsvZ10bQpRRmeovK7N1Rv0sF5uO1Hi/abstractionist"><img alt=3D"easy canvas" src=3D"http://www.wrinz.buzz/lc55k239V5z7MVa13i7Vu242K1a28D21yFv4GIf4rxvs4FhIHEsvZ10NQpRRmeovK5W1B0G5PLqHi/intensify" style=3D"width=
+: 669px; height: 732px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Push&nbsp; <a h=
+ref=3D"http://www.wrinz.buzz/bab4K2395Ut8M611A7240O1a28i21HFv4GIf4rxvs4FhIHEsvZ10rQpRRmeovK6fkCq105wpHli/dismembered">here&nbsp; </a><br /> Or Write to: 11525A Stonehollow Dr=
+ Suite 100 Austin, TX 78758</span></span><br /> <br /> <span style=3D"font=
+-size:11px; "><span style=3D"color:#808080; ">13395 Voyager Pkwy Ste 130 #6=
+34<br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 1=
+2px; font-style: normal; font-variant-caps: normal; font-weight: normal; le=
+tter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: auto; word-spacing: 0px;=
+ -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decor=
+ation: none; font-family: Helvetica; " /> <span style=3D"caret-color: rgb(0=
+, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal=
+; letter-spacing: normal; text-align: center; text-indent: 0px; text-transf=
+orm: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: a=
+uto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: He=
+lvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 809=
+21</span></span></span><br /> <span style=3D"font-size:10px; "><span style=
+=3D"font-family:arial,helvetica,sans-serif; ">Unsub <a href=3D"=
+http://www.wrinz.buzz/6836QWm2395RXi8912Y7M241x1a28J21vFv4GIf4rxvs4FhIHEsvZ10LQpRRmeovK5Iw10r5zMOHi/nodular">Here</a><br /> <br /> <br /> <style><style><style lang="socialism"></style></style><span></style></span><span><span></span></span><font></font><span></span></span></span><br /=
+> <br /> <span style=3D"color:#FFFFFF; ">That ad was posted online in Augus=
+t when Burger King began sales at stores nationwide. But on Friday, One Mil=
+lion Moms posted a press release criticizing the use of the &quot; d-word&q=
+uot; in the commercial. &quot; One Million Moms finds this highly inappropr=
+iate. When responding to the taste test, he didn' t have to curse. Or if, i=
+n fact, it was a real and unscripted interview in which the man was not an =
+actor, then Burger King could have simply chosen to edit the profanity out =
+of the commercial,&quot; the group said in a press release. &quot; Burger K=
+ing' s Impossible Whopper ad is irresponsible and tasteless. It is extremel=
+y destructive and damaging to impressionable children viewing the commercia=
+l. We all know children repeat what they hear.&quot; One Million Moms is a =
+division of the American Family Association, the non-profit evangelical Chr=
+istian group. Despite its name, it is not clear that the group has a millio=
+n members. According to its website, more than 8,000 people have taken acti=
+on on the Burger King issue, and its Facebook group has just shy of 100,000=
+ likes.</span><br /> <br /> &nbsp; </p>=20
+  </center> <small></small><font dir="Formosa"><style color="bootable"></font><font size="Truman"><font id="athletic"></font></font></style><font></font><style dir="Solomon"></style> =20
+ <img src=3D"http://www.wrinz.buzz/abstractionist/b8e5SX2395RLY8512z72J43K1a28g21yFv4GIf4rxvs4FhIHEsvZ10iQpRRmeovK7pv1oO0G6ENlHiU" alt=3D""/></body>
+</html>
+
+------=_Part_49_1766536087.1578940692452--
+

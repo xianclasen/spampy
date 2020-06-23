@@ -1,0 +1,77 @@
+Return-Path: <aurora@pinkpillmedia.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 19376 invoked from network); 29 Jan 2020 10:51:53 -0000
+Received: (qmail 52876 invoked by uid 222); 29 Jan 2020 10:51:53 -0000
+Return-Path: <aurora@pinkpillmedia.org>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 52873 invoked from network); 29 Jan 2020 10:51:52 -0000
+Received: from mail-wm1-x344.google.com (mail-wm1-x344.google.com [IPv6:2a00:1450:4864:20::344])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 29 Jan 2020 10:51:52 -0000
+Received: by mail-wm1-x344.google.com with SMTP id s10so5691678wmh.3
+        for <bruce@untroubled.org>; Wed, 29 Jan 2020 02:51:52 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=pinkpillmedia.org; s=google;
+        h=message-id:from:subject:to:mime-version:reply-to:date;
+        bh=TngvyXDl9+33x5JOEJr6z+tlKElCx/g+XlFatWiXpck=;
+        b=NXc6A01uWgxqQQgWpvAV+Xap6x6txV1Zze94j+XzAchQ42QeIAQm3Khe29M0D1ac/8
+         8AZZ6p3SJd5dys1MeKpmcXc/VmxV11y7ulip+/MadRLx0fBkYgjCEOg0u6i2HpXNLGqf
+         5+gYQ8JYx5uLVIIzN/cZKMqUJyLfBgtb08W41RZtm4BSd6OslJxqTlFNKwPlE3gtSdAY
+         N8NHmWCfDi3W/oceE1DUDa2TFxC09zY1GeGvt3JtyDpibWWcfi5bFtMG0g4D/CUPuE9q
+         cM7AEbYUxv+7tHpzdTxs+4TfTWlNjWllDzxdVHrAY7+hFTzmwZ/7yqyZtqa2oIfH+OsX
+         ZMTA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:message-id:from:subject:to:mime-version:reply-to
+         :date;
+        bh=TngvyXDl9+33x5JOEJr6z+tlKElCx/g+XlFatWiXpck=;
+        b=jk+3bh77PgowjD5UPFmukNmNnaoTb8dSjXGsINS8VFHMt9K9bAG9fcBVm9P56RL30B
+         kijI2j+F7pXF0H3lRuSQ9SqEPKMGMDBzIhQX7/gYi07Aj2mj2YQ+c0tp03DGEAMV5Qxp
+         4/ox/GaWnd2JtKKBSxuyR2BfA8gUr5mBDi2e7xC2YI4NQzbhxqbm6QWWss2f9GizM/Th
+         siW9PnEkeBffrP0JNWl8FU1CyTmjQRPpWOSqng8Uyv7mIcbp/ZYIRm9GNEVycs62W2Iz
+         AEv1/Ugl6H8vLC050qeKawAg/IZ2+AR4SLTSfeHDk2fyyYWlEhEnO3SO/+Bnpr8QfdoV
+         OHDA==
+X-Gm-Message-State: APjAAAW0APqgLWELIC8FoBTo3gS+42FbN/xmF7IqVu/qJX65gPaZ+Vbd
+	aVjOvaMYSq4IUWVjd6qwx4w+ut0BLMJTeVVTyZFR6aCJgShJquUhLWP/Ah0fDE9+OwcqwRnfQht
+	1tm4ecZ1kePODSjzxk0feVh3s4xSa6AdFEnZ7NZavqrmRMowy+G+7xcCP0hDA8MAY/5ntvdgcpD
+	0=
+X-Google-Smtp-Source: APXvYqz08p0365N9KWqTDqqMeKYlNMI73J20RSB/B8H95JbiFdY6/tizpvXlg32wQO2cNwA5nJirWA==
+X-Received: by 2002:a1c:1f56:: with SMTP id f83mr10695465wmf.93.1580295111045;
+        Wed, 29 Jan 2020 02:51:51 -0800 (PST)
+Return-Path: <aurora@pinkpillmedia.org>
+Received: from 130.105.73.87 ([85.203.44.197])
+        by smtp.gmail.com with ESMTPSA id x10sm2358016wrp.58.2020.01.29.02.51.49
+        for <bruce@untroubled.org>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 29 Jan 2020 02:51:50 -0800 (PST)
+Message-ID: <5e3163c6.1c69fb81.b953.a258@mx.google.com>
+From: "Anne" <aurora@pinkpillmedia.org>
+Subject: And I like what I see ;)
+To: bruce@untroubled.org
+Content-Type: multipart/alternative; boundary="9pd915acx6BptzntidwVAAGsrcg=_nBQnN"
+MIME-Version: 1.0
+Reply-To: "Anne" <blair@pinkpillmedia.org>
+Date: Wed, 29 Jan 2020 18:51:49 +0800
+Content-Length: 562
+
+This is a multi-part message in MIME format
+
+--9pd915acx6BptzntidwVAAGsrcg=_nBQnN
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+You have been invited to join socialclubs
+
+
+--9pd915acx6BptzntidwVAAGsrcg=_nBQnN
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<html><head></head><body><p>You have been invited to join <a href=3D"h=
+ttp://bit.ly/2U2lwrq">socialclubs</a></p></body></html>
+
+
+--9pd915acx6BptzntidwVAAGsrcg=_nBQnN--
+

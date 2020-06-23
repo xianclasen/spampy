@@ -1,0 +1,96 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 23868 invoked from network); 10 Jan 2020 20:07:41 -0000
+Received: (qmail 9352 invoked from network); 10 Jan 2020 20:07:40 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 20:07:40 -0000
+Received: (qmail 11392 invoked by uid 48516); 10 Jan 2020 20:07:40 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9843 invoked from network); 10 Jan 2020 20:07:40 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 10 Jan 2020 20:07:39 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1728891AbgAJUHi (ORCPT <rfc822;bruce@untroubled.org>);
+        Fri, 10 Jan 2020 15:07:38 -0500
+Received: from mail-qt1-f196.google.com ([209.85.160.196]:34207 "EHLO
+        mail-qt1-f196.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1728852AbgAJUHh (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Fri, 10 Jan 2020 15:07:37 -0500
+Received: by mail-qt1-f196.google.com with SMTP id 5so3075390qtz.1
+        for <linux-kernel@vger.kernel.org>; Fri, 10 Jan 2020 12:07:37 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=P2/Om2qZfYL+AQ0B1qeGuS3Iw1iLFVj0uHrTSe7VhZA=;
+        b=CW8sv44US1EjtHLPk64//Gg14m3HZBqs8Cb/tlrcojr+YHhaSeYPVzBZ0xUS73/nlx
+         vmxJaMgA5yHPoprR87cQSRAF21FWTbIzPN5hCwdMqxJtCdi+YvzW391bM009K4e2XyZX
+         Win9aDQEgUO2A7SDnAYAhDFiBuNKjbNhOzahPDh3j40oxcrXjL+1enWWMKXEMlkHHaAX
+         Gy2ms/CYZ4AsPnph3y5r09LbCI908mlLPwYTwN9mWjiinXZzummfdrj8Mq7cblio4j/P
+         EW8Nb3vCN06ifFn5trh4vpBGM8vtW5DZOzB+vDlFRHYsKzql6fTw+0X9WDygB2qGSF0y
+         pxuA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=P2/Om2qZfYL+AQ0B1qeGuS3Iw1iLFVj0uHrTSe7VhZA=;
+        b=MTxzFmT9EDzMfehaYfUZwt744lGOTqMR7USFN6yjg5S8A5m5uHEiUr5BsV6pBkRZh2
+         ZkYSM1rPGDIa/IEYu9l6f4/jZU40Mpe9Ifk7FWLtH+a/d990PGyZNoWXL+R6hlSzC6G7
+         dZd5vcD9H9a1g12wFg2wvzln4CYmzduPmcBWrcR0zDFGsRQliE99RI2zEb6I1bJncolI
+         39Z4o6bU1TOB+k2Mipi0pNlU55e82H7TozRF89scsF6oB39tqdKPxQ7cxVgbYFGTzt/D
+         3Fr3iEY0mAyAwYuMmUknBoZvtVl8wbKuFCVeHSg4EJ0pAse1yhLLULLF4NnkVkKa1rCQ
+         rOIQ==
+X-Gm-Message-State: APjAAAXQipnHLcxx/TNFNoYluBR/+Ge7v9RKuiqpqXqLWBJvgTtBSVzu
+        WWGyVy8OHHoiSPBLllvnl6rVyDmUwc6kLzdO6Kg=
+X-Google-Smtp-Source: APXvYqxeixn4RtMjlsBy1ZVzJZXUDJtTY7vz2lPwZ1damuAf6oXr1/iIS0JW9RbKYY0/s2AfVFDibF9XsqdD4FS2klY=
+X-Received: by 2002:ac8:4515:: with SMTP id q21mr4058027qtn.376.1578686857039;
+ Fri, 10 Jan 2020 12:07:37 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:ad4:4381:0:0:0:0:0 with HTTP; Fri, 10 Jan 2020 12:07:36
+ -0800 (PST)
+Reply-To: kylieelizabethwatson2019@gmail.com
+From:   "Sgt,Kylie Elizabeth Watson" <bilazagre2@gmail.com>
+Date:   Sat, 11 Jan 2020 00:37:36 +0430
+Message-ID: <CAGk+ahYOk5hjWh_cO3rpPs6n+kXaydAKaR365is77SidXD+CyA@mail.gmail.com>
+Subject: Assist Request From You
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 1457
+
+-- 
+Accept my greetings to you
+
+Assist Request From You
+
+I am 29 years old single an orphan my parents died when I am five
+years old nobody to help me,I send you my business proposal with tears
+and sorrow,Please let this not be a surprised message to you because I
+decided to contact you on this magnitude and lucrative transaction for
+our present and future survival in life. Moreover, I have laid all the
+solemn trust in you before i decided to disclose this successful and
+confidential transaction to you.
+
+I am  Kylie Elizabeth Watson ,I hope all is well with you? I am female
+soldier working as United Nations peace keeping troop in Afghanistan
+on war against terrorism. I have in my possession the sum of
+$3.5million USD Which I made here in Afghanistan 2014,I deposited this
+money with a Red Cross agent. I want you to stand as my beneficiary
+and receive the fund And keep it safe so that as soon as am through
+with my mission here in Afghanistan.
+
+You will assist me to invest it in a good profitable Venture or you
+keep it for me until I arrive your country, I will give You 40% of the
+total money for your assistance after you have receive The money.
+Please reply back to me if you are willing to work with me so that I
+can send you the information where the money is been deposited, your
+urgent reply is needed in my email address below
+(kylieelizabethwatson2019@gmail.com) so i can send you more details.
+
+Thank Yours
+Sgt,Kylie Elizabeth Watson

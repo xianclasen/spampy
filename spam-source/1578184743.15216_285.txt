@@ -1,0 +1,989 @@
+Return-Path: <unlockherlegs@unlockherlegs.club>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 26791 invoked from network); 4 Jan 2020 08:57:19 -0000
+Received: (qmail 22691 invoked from network); 4 Jan 2020 08:57:19 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Jan 2020 08:57:19 -0000
+Received: (qmail 26083 invoked by uid 48516); 4 Jan 2020 08:57:18 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 1574 invoked from network); 4 Jan 2020 08:57:18 -0000
+Received: from smtpauths2.unlockherlegs.club (smtpauths1.unlockherlegs.club [188.120.239.185])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 04 Jan 2020 08:57:18 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mailer; d=unlockherlegs.club;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=unlockherlegs@unlockherlegs.club;
+ bh=cnvPnCKG67VcECEIS5Hmxbfmut8=;
+ b=rWepzjOwFqi3hp5Gb7tJu+jH3iwdM7tIZTZm+COz4GVmUg4DJ+GyIwtFrn8h7IzcCDhax+kvYZjt
+   x3lj2tGcEZTs+qTUsRK9cN1cpzUFZflPoqiQt96/BIj8fxq8+zZRuemgBf7O3VcFfbk5NfWsRphW
+   8EWXz+5EtwG3WBSyfvM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mailer; d=unlockherlegs.club;
+ b=r8FeMCNF/QNAf/YVTQjg+9FeFZ42AvL0YUASjhd7y55UeGNrMVcDdWcL2dsEUbtwvNJrH7kPYOJy
+   nnd1eyCyHpjOLyAE/sc0b5dC71NvXddX1B5NWFzkML9FB1zQeibgEBotY9MsRVghtxmxMoPQdUtj
+   bZPyj2+qUMBHQKTPzRk=;
+Return-Path: <unlockherlegs@unlockherlegs.club>
+DKIM-Signature: v=1; a=rsa-sha256;
+ bh=dSsNOMVvqXzpq2sCMNT+Uw1vgMhasEYgNi4gFwA8hiE=; d=unlockherlegs.club;
+ h=Message-ID: Date: Subject: From: Reply-To: To: MIME-Version: Content-Type:
+ Precedence: List-Unsubscribe: List-Id: Feedback-ID; i=@unlockherlegs.club;
+ s=mailer; c=relaxed/relaxed; t=1578128235;
+ b=Jd32y5iwW2jCZQPKmHEow1U+Y0LhImdWaOK6vaPX9MOhuK5O7eP7ue5UMuI8wvpMP3kI798pV
+ jbyn82FGYq1M5/+KV74vAAbfOWsm2e73fkThebW+cGCcYz/C34BaSxG6lDybpcvsNscfvwm61
+ b+AzFfls4go7ZHxVFuIOBRnDM=
+Message-ID: <0bac514a08952d6cbae89991398a0609@unlockherlegs.club>
+Date: Sat, 04 Jan 2020 08:57:15 +0000
+Subject: Vertigo and Dizziness Eliminated Without Drugs
+From: Vertigo And Dizziness Program <unlockherlegs@unlockherlegs.club>
+Reply-To: Vertigo And Dizziness Program <noreply@unlockherlegs.club>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1578128235_59043fe333938f87b4f33c1d520dd466_=_"
+X-Sender: unlockherlegs@unlockherlegs.club
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://77.246.158.206/mail/index.php/campaigns/gx151vcybo379/report-abuse/nb440ql4gh68a/kp738n28yr1b7
+X-Receiver: bruce@untroubled.org
+X-Kztt-Tracking-Did: 0
+X-Kztt-Subscriber-Uid: kp738n28yr1b7
+X-Kztt-Mailer: SwiftMailer - 5.4.x
+X-Kztt-EBS: http://77.246.158.206/mail/index.php/lists/block-address
+X-Kztt-Delivery-Sid: 1
+X-Kztt-Customer-Uid: or338ftr7l714
+X-Kztt-Customer-Gid: 0
+X-Kztt-Campaign-Uid: gx151vcybo379
+Precedence: bulk
+List-Unsubscribe: <http://77.246.158.206/mail/index.php/lists/nb440ql4gh68a/unsubscribe/kp738n28yr1b7/gx151vcybo379/unsubscribe-direct?source=email-client-unsubscribe-button>,
+ <mailto:adilset2@gmail.com?subject=Campaign-Uid:gx151vcybo379 /
+ Subscriber-Uid:kp738n28yr1b7 - Unsubscribe request&body=Please unsubscribe
+ me!>
+List-Id: nb440ql4gh68a <US>
+Feedback-ID: gx151vcybo379:kp738n28yr1b7:nb440ql4gh68a:or338ftr7l714
+Content-Length: 26575
+
+
+--_=_swift_v4_1578128235_59043fe333938f87b4f33c1d520dd466_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+*|MC_PREVIEW_TEXT|*
+=C2=A0
+If you think your vertigo or occasional dizz=
+iness is just an
+inconvenience=E2=80=A6
+http://77.246.158.206/mail/inde=
+x.php/campaigns/gx151vcybo379/track-url/kp738n28yr1b7/391f677f595da0097e765=
+9b01188aee7d7c61036
+You=E2=80=99re Dead Wrong!
+=C2=A0
+- Vertigo is th=
+e number one cause of broken bones and head injuries in
+people over 55.=
+
+- It often leads to deadly head fractures and loss of cognitive
+functi=
+on due to internal bleeding and brain injuries.
+- It=E2=80=99s the most f=
+requent complaint doctors receive.
+- And worst of all, it=E2=80=99s a cle=
+ar indicator that you=E2=80=99re at high
+risk of stroke =E2=80=93 you cou=
+ld experience one any minute now.
+=C2=A0
+The traditional medical system=
+ has no solution.
+They don=E2=80=99t even know what causes it in most cas=
+es.
+Fortunately, natural researchers have successfully found a solution t=
+o
+all types of vertigo and dizziness.=C2=A0
+=C2=A0
+The cure is a set =
+of simple head exercises.
+http://77.246.158.206/mail/index.php/campaigns/=
+gx151vcybo379/track-url/kp738n28yr1b7/391f677f595da0097e7659b01188aee7d7c61=
+036
+=C2=A0
+- They=E2=80=99re completely natural =E2=80=93 require no me=
+dications or surgery.
+- They=E2=80=99re easy =E2=80=93 almost anyone can =
+benefit from them, no matter
+what kind of shape you=E2=80=99re in.
+- Th=
+ey only take 3-15 minutes per day =E2=80=93 and because the results are
+p=
+ermanent, once you=E2=80=99re cured, you don=E2=80=99t have to use them aga=
+in.
+- They work fast =E2=80=93 many people experience immediate relief. O=
+thers
+need a few days or weeks at the most.
+=C2=A0
+=E2=80=A6and they =
+work for almost everyone!
+=C2=A0
+Today I=E2=80=99m going to teach you t=
+hese easy vertigo and dizziness
+exercises. Click here to continue=
+=E2=80=A6
+http://77.246.158.206/mail/index.php/campaigns/gx151vcybo379/tr=
+ack-url/kp738n28yr1b7/391f677f595da0097e7659b01188aee7d7c61036
+=C2=A0
+I=
+f you wish to stop receiving our emails or change your subscription
+optio=
+ns, please=C2=A0Manage Your Subscription
+http://77.246.158.206/mail/index=
+.php/campaigns/gx151vcybo379/track-url/kp738n28yr1b7/bf6cefac5d823c0b7c72ee=
+3f9fb44a0a555c9f05
+=C2=A0
+=C2=A0
+=C2=A0
+=C2=A0
+
+--_=_swift_v4_1578128235_59043fe333938f87b4f33c1d520dd466_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-microso=
+ft-com:office:office" xmlns:v=3D"urn:schemas-microsoft-com:vml">
+<head><!-- NAME: 1:2:1 COLUMN --><!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]--><meta charset=3D"UTF-8"><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><meta name=3D"viewport" content=3D"width=3Ddevi=
+ce-width, initial-scale=3D1">
+=09<title>Ce M=C3=A9lange de Plantes Japonais Force les Cellules Adipeuses =
+=C3=A0 Fondre</title>
+=09<style type=3D"text/css">p{
+margin:10px 0;
+padding:0;
+}
+table{
+border-collapse:collapse;
+}
+h1,h2,h3,h4,h5,h6{
+display:block;
+margin:0;
+padding:0;
+}
+img,a img{
+border:0;
+height:auto;
+outline:none;
+text-decoration:none;
+}
+body,#bodyTable,#bodyCell{
+height:100%;
+margin:0;
+padding:0;
+width:100%;
+}
+.mcnPreviewText{
+display:none !important;
+}
+#outlook a{
+padding:0;
+}
+img{
+-ms-interpolation-mode:bicubic;
+}
+table{
+mso-table-lspace:0pt;
+mso-table-rspace:0pt;
+}
+.ReadMsgBody{
+width:100%;
+}
+.ExternalClass{
+width:100%;
+}
+p,a,li,td,blockquote{
+mso-line-height-rule:exactly;
+}
+a[href^=3Dtel],a[href^=3Dsms]{
+color:inherit;
+cursor:default;
+text-decoration:none;
+}
+p,a,li,td,body,table,blockquote{
+-ms-text-size-adjust:100%;
+-webkit-text-size-adjust:100%;
+}
+.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Exter=
+nalClass span,.ExternalClass font{
+line-height:100%;
+}
+a[x-apple-data-detectors]{
+color:inherit !important;
+text-decoration:none !important;
+font-size:inherit !important;
+font-family:inherit !important;
+font-weight:inherit !important;
+line-height:inherit !important;
+}
+#bodyCell{
+padding:10px;
+}
+.templateContainer{
+max-width:600px !important;
+}
+a.mcnButton{
+display:block;
+}
+.mcnImage,.mcnRetinaImage{
+vertical-align:bottom;
+}
+.mcnTextContent{
+word-break:break-word;
+}
+.mcnTextContent img{
+height:auto !important;
+}
+.mcnDividerBlock{
+table-layout:fixed !important;
+}
+/*
+@tab Page
+@section Background Style
+@tip Set the background color and top border for your email. You may want t=
+o choose colors that match your company's branding.
+*/
+body,#bodyTable{
+/*@editable*/background-color:#FFFFFF;
+}
+/*
+@tab Page
+@section Background Style
+@tip Set the background color and top border for your email. You may want t=
+o choose colors that match your company's branding.
+*/
+#bodyCell{
+/*@editable*/border-top:0;
+}
+/*
+@tab Page
+@section Email Border
+@tip Set the border for your email.
+*/
+.templateContainer{
+/*@editable*/border:0;
+}
+/*
+@tab Page
+@section Heading 1
+@tip Set the styling for all first-level headings in your emails. These sho=
+uld be the largest of your headings.
+@style heading 1
+*/
+h1{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:26px;
+/*@editable*/font-style:normal;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:125%;
+/*@editable*/letter-spacing:normal;
+/*@editable*/text-align:left;
+}
+/*
+@tab Page
+@section Heading 2
+@tip Set the styling for all second-level headings in your emails.
+@style heading 2
+*/
+h2{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:22px;
+/*@editable*/font-style:normal;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:125%;
+/*@editable*/letter-spacing:normal;
+/*@editable*/text-align:left;
+}
+/*
+@tab Page
+@section Heading 3
+@tip Set the styling for all third-level headings in your emails.
+@style heading 3
+*/
+h3{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:20px;
+/*@editable*/font-style:normal;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:125%;
+/*@editable*/letter-spacing:normal;
+/*@editable*/text-align:left;
+}
+/*
+@tab Page
+@section Heading 4
+@tip Set the styling for all fourth-level headings in your emails. These sh=
+ould be the smallest of your headings.
+@style heading 4
+*/
+h4{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:18px;
+/*@editable*/font-style:normal;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:125%;
+/*@editable*/letter-spacing:normal;
+/*@editable*/text-align:left;
+}
+/*
+@tab Preheader
+@section Preheader Style
+@tip Set the background color and borders for your email's preheader area.
+*/
+#templatePreheader{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:0;
+/*@editable*/padding-top:9px;
+/*@editable*/padding-bottom:9px;
+}
+/*
+@tab Preheader
+@section Preheader Text
+@tip Set the styling for your email's preheader text. Choose a size and col=
+or that is easy to read.
+*/
+#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+/*@editable*/color:#656565;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:12px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Preheader
+@section Preheader Link
+@tip Set the styling for your email's preheader links. Choose a color that =
+helps them stand out from your text.
+*/
+#templatePreheader .mcnTextContent a,#templatePreheader .mcnTextContent p a=
+{
+/*@editable*/color:#656565;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Header
+@section Header Style
+@tip Set the background color and borders for your email's header area.
+*/
+#templateHeader{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:0;
+/*@editable*/padding-top:9px;
+/*@editable*/padding-bottom:0;
+}
+/*
+@tab Header
+@section Header Text
+@tip Set the styling for your email's header text. Choose a size and color =
+that is easy to read.
+*/
+#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:16px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Header
+@section Header Link
+@tip Set the styling for your email's header links. Choose a color that hel=
+ps them stand out from your text.
+*/
+#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{
+/*@editable*/color:#007C89;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Upper Body
+@section Upper Body Style
+@tip Set the background color and borders for your email's upper body area.
+*/
+#templateUpperBody{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:0;
+/*@editable*/padding-top:0;
+/*@editable*/padding-bottom:0;
+}
+/*
+@tab Upper Body
+@section Upper Body Text
+@tip Set the styling for your email's upper body text. Choose a size and co=
+lor that is easy to read.
+*/
+#templateUpperBody .mcnTextContent,#templateUpperBody .mcnTextContent p{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:16px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Upper Body
+@section Upper Body Link
+@tip Set the styling for your email's upper body links. Choose a color that=
+ helps them stand out from your text.
+*/
+#templateUpperBody .mcnTextContent a,#templateUpperBody .mcnTextContent p a=
+{
+/*@editable*/color:#007C89;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Columns
+@section Column Style
+@tip Set the background color and borders for your email's columns.
+*/
+#templateColumns{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:0;
+/*@editable*/padding-top:0;
+/*@editable*/padding-bottom:0;
+}
+/*
+@tab Columns
+@section Column Text
+@tip Set the styling for your email's column text. Choose a size and color =
+that is easy to read.
+*/
+#templateColumns .columnContainer .mcnTextContent,#templateColumns .columnC=
+ontainer .mcnTextContent p{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:16px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Columns
+@section Column Link
+@tip Set the styling for your email's column links. Choose a color that hel=
+ps them stand out from your text.
+*/
+#templateColumns .columnContainer .mcnTextContent a,#templateColumns .colum=
+nContainer .mcnTextContent p a{
+/*@editable*/color:#007C89;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Lower Body
+@section Lower Body Style
+@tip Set the background color and borders for your email's lower body area.
+*/
+#templateLowerBody{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:2px solid #EAEAEA;
+/*@editable*/padding-top:0;
+/*@editable*/padding-bottom:9px;
+}
+/*
+@tab Lower Body
+@section Lower Body Text
+@tip Set the styling for your email's lower body text. Choose a size and co=
+lor that is easy to read.
+*/
+#templateLowerBody .mcnTextContent,#templateLowerBody .mcnTextContent p{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:16px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Lower Body
+@section Lower Body Link
+@tip Set the styling for your email's lower body links. Choose a color that=
+ helps them stand out from your text.
+*/
+#templateLowerBody .mcnTextContent a,#templateLowerBody .mcnTextContent p a=
+{
+/*@editable*/color:#007C89;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Footer
+@section Footer Style
+@tip Set the background color and borders for your email's footer area.
+*/
+#templateFooter{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:0;
+/*@editable*/padding-top:9px;
+/*@editable*/padding-bottom:9px;
+}
+/*
+@tab Footer
+@section Footer Text
+@tip Set the styling for your email's footer text. Choose a size and color =
+that is easy to read.
+*/
+#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+/*@editable*/color:#656565;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:12px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:center;
+}
+/*
+@tab Footer
+@section Footer Link
+@tip Set the styling for your email's footer links. Choose a color that hel=
+ps them stand out from your text.
+*/
+#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{
+/*@editable*/color:#656565;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+@media only screen and (min-width:768px){
+.templateContainer{
+width:600px !important;
+}
+
+} @media only screen and (max-width: 480px){
+body,table,td,p,a,li,blockquote{
+-webkit-text-size-adjust:none !important;
+}
+
+} @media only screen and (max-width: 480px){
+body{
+width:100% !important;
+min-width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+#bodyCell{
+padding-top:10px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.columnWrapper{
+max-width:100% !important;
+width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnRetinaImage{
+max-width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImage{
+width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCaption=
+BottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcnIm=
+ageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionRig=
+htTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRigh=
+tImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCardR=
+ightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImageCa=
+rdRightImageContentContainer{
+max-width:100% !important;
+width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnBoxedTextContentContainer{
+min-width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageGroupContent{
+padding:9px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter .m=
+cnTextContent{
+padding-top:9px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCaptio=
+nBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-child =
+.mcnTextContent{
+padding-top:18px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageCardBottomImageContent{
+padding-bottom:9px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageGroupBlockInner{
+padding-top:0 !important;
+padding-bottom:0 !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageGroupBlockOuter{
+padding-top:9px !important;
+padding-bottom:9px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnTextContent,.mcnBoxedTextContentColumn{
+padding-right:18px !important;
+padding-left:18px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+padding-right:18px !important;
+padding-bottom:0 !important;
+padding-left:18px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcpreview-image-uploader{
+display:none !important;
+width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Heading 1
+@tip Make the first-level headings larger in size for better readability on=
+ small screens.
+*/
+h1{
+/*@editable*/font-size:22px !important;
+/*@editable*/line-height:125% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Heading 2
+@tip Make the second-level headings larger in size for better readability o=
+n small screens.
+*/
+h2{
+/*@editable*/font-size:20px !important;
+/*@editable*/line-height:125% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Heading 3
+@tip Make the third-level headings larger in size for better readability on=
+ small screens.
+*/
+h3{
+/*@editable*/font-size:18px !important;
+/*@editable*/line-height:125% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Heading 4
+@tip Make the fourth-level headings larger in size for better readability o=
+n small screens.
+*/
+h4{
+/*@editable*/font-size:16px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Boxed Text
+@tip Make the boxed text larger in size for better readability on small scr=
+eens. We recommend a font size of at least 16px.
+*/
+.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContainer=
+ .mcnTextContent p{
+/*@editable*/font-size:14px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Preheader Visibility
+@tip Set the visibility of the email's preheader on small screens. You can =
+hide it to save space.
+*/
+#templatePreheader{
+/*@editable*/display:block !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Preheader Text
+@tip Make the preheader text larger in size for better readability on small=
+ screens.
+*/
+#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+/*@editable*/font-size:14px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Header Text
+@tip Make the header text larger in size for better readability on small sc=
+reens.
+*/
+#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+/*@editable*/font-size:16px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Upper Body Text
+@tip Make the upper body text larger in size for better readability on smal=
+l screens. We recommend a font size of at least 16px.
+*/
+#templateUpperBody .mcnTextContent,#templateUpperBody .mcnTextContent p{
+/*@editable*/font-size:16px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Column Text
+@tip Make the column text larger in size for better readability on small sc=
+reens. We recommend a font size of at least 16px.
+*/
+#templateColumns .columnContainer .mcnTextContent,#templateColumns .columnC=
+ontainer .mcnTextContent p{
+/*@editable*/font-size:16px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Lower Body Text
+@tip Make the lower body text larger in size for better readability on smal=
+l screens. We recommend a font size of at least 16px.
+*/
+#templateLowerBody .mcnTextContent,#templateLowerBody .mcnTextContent p{
+/*@editable*/font-size:16px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Footer Text
+@tip Make the footer content text larger in size for better readability on =
+small screens.
+*/
+#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+/*@editable*/font-size:14px !important;
+/*@editable*/line-height:150% !important;
+}
+
+}
+=09</style>
+</head>
+<body><!--*|IF:MC_PREVIEW_TEXT|*--><!--[if !gte mso 9]><!----><span class=
+=3D"mcnPreviewText" style=3D"display:none; font-size:0px; line-height:0px; =
+max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidde=
+n; mso-hide:all;">*|MC_PREVIEW_TEXT|*</span><!--<![endif]--> <!--*|END:IF|*=
+-->
+<center>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" he=
+ight=3D"100%" id=3D"bodyTable" width=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" id=3D"bodyCell" valign=3D"top">
+=09=09=09<div style=3D"text-align: center;"><!-- BEGIN TEMPLATE // --><!--[=
+if (gte mso 9)|(IE)]>
+                        <table align=3D"center" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                        <tr>
+                        <td align=3D"center" valign=3D"top" width=3D"600" s=
+tyle=3D"width:600px;">
+                        <![endif]--></div>
+
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"t=
+emplateContainer" width=3D"100%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td id=3D"templateUpperBody" valign=3D"top">
+=09=09=09=09=09=09<p style=3D"text-align: center;">=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:24px;"><strong><a href=3D"htt=
+p://77.246.158.206/mail/index.php/campaigns/gx151vcybo379/track-url/kp738n2=
+8yr1b7/391f677f595da0097e7659b01188aee7d7c61036">If you think your vertigo =
+or occasional dizziness is just an inconvenience=E2=80=A6</a></strong></spa=
+n></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">You=E2=80=99re Dead Wr=
+ong!</span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">- Vertigo is the numbe=
+r one cause of broken bones and head injuries in people over 55.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">- It often leads to de=
+adly head fractures and loss of cognitive function due to internal bleeding=
+ and brain injuries.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">- It=E2=80=99s the mos=
+t frequent complaint doctors receive.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">- And worst of all, it=
+=E2=80=99s a clear indicator that you=E2=80=99re at high risk of stroke =
+=E2=80=93 you could experience one any minute now.</span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">The traditional medica=
+l system has no solution.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">They don=E2=80=99t eve=
+n know what causes it in most cases.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">Fortunately, natural r=
+esearchers have successfully found a solution to all types of vertigo and d=
+izziness.=C2=A0</span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><strong><span style=3D"font-size:22px;"><a href=3D"htt=
+p://77.246.158.206/mail/index.php/campaigns/gx151vcybo379/track-url/kp738n2=
+8yr1b7/391f677f595da0097e7659b01188aee7d7c61036">The cure is a set of simpl=
+e head exercises.</a></span></strong></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">- They=E2=80=99re comp=
+letely natural =E2=80=93 require no medications or surgery.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">- They=E2=80=99re easy=
+ =E2=80=93 almost anyone can benefit from them, no matter what kind of shap=
+e you=E2=80=99re in.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">- They only take 3-15 =
+minutes per day =E2=80=93 and because the results are permanent, once you=
+=E2=80=99re cured, you don=E2=80=99t have to use them again.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">- They work fast =
+=E2=80=93 many people experience immediate relief. Others need a few days o=
+r weeks at the most.</span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">=E2=80=A6and they work=
+ for almost everyone!</span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:18px;">Today I=E2=80=99m goin=
+g to teach you these easy vertigo and dizziness exercises. </span><strong><=
+span style=3D"font-size:28px;"><a href=3D"http://77.246.158.206/mail/index.=
+php/campaigns/gx151vcybo379/track-url/kp738n28yr1b7/391f677f595da0097e7659b=
+01188aee7d7c61036">Click here to continue=E2=80=A6</a></span></strong></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><br />
+=09=09=09=09=09=09<span style=3D"font-size:12px;">If you wish to stop recei=
+ving our emails or change your subscription options, please=C2=A0<a data-sa=
+feredirecturl=3D"https://www.google.com/url?q=3Dhttps://APLBroadcastSolutio=
+ns.ontraport.com/u/MjA5OTkzLzAvMTkwNDYxLzAvMjkvMC82NDAzNTM1MTg5NGRjNzBjNjlm=
+NmIwZTY4MWIzYzMzZC8xNDAyNzgwMg%3D%3D&amp;source=3Dgmail&amp;ust=3D157713118=
+5598000&amp;usg=3DAFQjCNFnFp8JfX-iyJOXWBgDULvReUt89w" data-unsubtag=3D"_UNS=
+UBSCRIBE_URL_" href=3D"http://77.246.158.206/mail/index.php/campaigns/gx151=
+vcybo379/track-url/kp738n28yr1b7/bf6cefac5d823c0b7c72ee3f9fb44a0a555c9f05" =
+target=3D"_blank">Manage Your Subscription</a></span></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td id=3D"templateFooter" style=3D"text-align: center;" v=
+align=3D"top">=C2=A0</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+
+=09=09=09<div style=3D"text-align: center;"><!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--><!-- // END TEMPLATE --></div>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+</center>
+
+<div style=3D"text-align: center;"><meta charset=3D"utf-8"/></div>
+
+<div style=3D"text-align: center;">=C2=A0</div>
+
+<div style=3D"text-align: center;">=C2=A0</div>
+
+<div style=3D"text-align: center;">=C2=A0</div>
+<img width=3D"1" height=3D"1" src=3D"http://77.246.158.206/mail/index.php/c=
+ampaigns/gx151vcybo379/track-opening/kp738n28yr1b7" alt=3D"" />
+</body>
+</html>
+<title></title>
+
+--_=_swift_v4_1578128235_59043fe333938f87b4f33c1d520dd466_=_--
+

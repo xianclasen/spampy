@@ -1,0 +1,140 @@
+Return-Path: <SRS0=hpwxLC=2X=bomir.date=healthinsurancenet_info-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 18480 invoked from network); 2 Jan 2020 20:09:52 -0000
+Received: (qmail 12001 invoked from network); 2 Jan 2020 20:09:51 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 20:09:51 -0000
+Received: (qmail 23487 invoked by uid 48516); 2 Jan 2020 20:09:49 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29550 invoked from network); 2 Jan 2020 20:09:48 -0000
+Received: from mail.bomir.date ([85.93.5.193])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 02 Jan 2020 20:09:48 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=bomir.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=healthinsurancenet_info@bomir.date;
+ bh=JKLpwkPHVsbmwnVfkEPR9XOLL3Q=;
+ b=o2M/Z58LEpXNyj51lkbDmkC17J8TEgdT5uYxQ9I+ispkotP2EyTcL+J1oWI4cNdVvGh95T4dHNir
+   5tD4rFhw5Z0B1R25kVUlYEDVAJM4q4p7nKZ6gdAaFhaPXB+gciLsBCTf15OlJsTs6VY0H2jUlWN0
+   StkGfeYqKb7+yVAw8mU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=bomir.date;
+ b=Z+L45snw/FKrOnArSikg9krXBq4Sr8Fu1+fAoRP/5/m8g+Ll1cRdEmvSkF83CC1KL1dZpaXHNbT7
+   mJB8rMQDmbUoK4Z4rur9B1Pcp5ygb8LdSBd7iIorqRF+3LpNKswc3mWI+VmjiFqntKxGCA8FnK50
+   YfCHWTo7AcE9K+OYWMY=;
+Received: by mail.bomir.date id h1p70o0001g7 for <bruce@untroubled.org>; Thu, 2 Jan 2020 15:04:33 -0500 (envelope-from <healthinsurancenet_info-bruce=untroubled.org@bomir.date>)
+Date: Thu, 2 Jan 2020 15:04:33 -0500
+From: "HealthInsurance.net Info" <healthinsurancenet_info@bomir.date>
+To:   <bruce@untroubled.org>
+Subject: Welcome to Health Insurance Offer
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_139_2064655298.1577995461152"
+List-Unsubscribe: <http://www.bomir.date/4fd6zq23A95a8k9Y12t1RmB1w344fG21GFv4GIf4rxvs4FhIHEsvZ8sRkndnmR5XW1M06S2c0NY/dipping-soberly>
+Message-ID: <0.0.0.16.1D5C1A7D98A3008.35C758@mail.bomir.date>
+Content-Length: 7003
+
+------=_Part_139_2064655298.1577995461152
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>Alhambra</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <h3 style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family=
+: Helvetica; font-style: normal; font-variant-caps: normal; letter-spacing:=
+ normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-=
+transform: none; white-space: normal; widows: auto; word-spacing: 0px; -web=
+kit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration=
+: none; "><span style=3D"font-family:arial,helvetica,sans-serif; "><strong>=
+<a href=3D"http://www.bomir.date/retrospection-abolished/1b66l23q9K5g8JW611Ce833y344fi21zFv4GIf4rxvs4FhIHEsvZ8MRkndnmR6K1j0DW5Y0lcY">&nbsp; Unbeatable rates&nbsp; </a></strong></span></=
+h3>=20
+   <a href=3D"http://www.bomir.date/retrospection-abolished/1b66l23q9K5g8JW611Ce833y344fi21zFv4GIf4rxvs4FhIHEsvZ8MRkndnmR6K1j0DW5Y0lcY" style=3D"font-family: Helvetica; font-size: 12px;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0=
+px; text-transform: none; white-space: normal; widows: auto; word-spacing: =
+0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img=
+ alt=3D"open" src=3D"http://www.bomir.date/thinker-researchers/7b04s2395YwN7a12uew836_344fj21fFv4GIf4rxvs4FhIHEsvZ8pRkndnmR6mrP10S6eLc0Yy" style=3D"width: 705px; height: 1092px; " =
+/></a>
+   <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fami=
+ly: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: norm=
+al; font-weight: normal; letter-spacing: normal; orphans: auto; text-align:=
+ -webkit-center; text-indent: 0px; text-transform: none; white-space: norma=
+l; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit=
+-text-stroke-width: 0px; text-decoration: none; display: inline !important;=
+ float: none; "> </span>
+   <br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family=
+: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal=
+; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -=
+webkit-center; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; " />=20
+   <br />=20
+   <br />=20
+   <br />=20
+   <br />=20
+   <br />=20
+   <a href=3D"http://www.bomir.date/retrospection-abolished/7ec4K2395X86C_12we834wi344fx21dFv4GIf4rxvs4FhIHEsvZ8nRkndnmR6UvpI105BOcYp" style=3D"font-family: Helvetica; font-size: 12px;=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0=
+px; text-transform: none; white-space: normal; widows: auto; word-spacing: =
+0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><fon=
+t color=3D"#174268" face=3D"Arial, Helvetica Neue, Helvetica, sans-serif"><=
+span style=3D"font-size: 12px; ">Quit future email&nbsp; </span></font></a>
+   <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-fami=
+ly: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: norm=
+al; font-weight: normal; letter-spacing: normal; orphans: auto; text-align:=
+ -webkit-center; text-indent: 0px; text-transform: none; white-space: norma=
+l; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit=
+-text-stroke-width: 0px; text-decoration: none; display: inline !important;=
+ float: none; "> </span>
+   <br style=3D"font-size: 12px; font-style: normal; font-variant-caps: nor=
+mal; font-weight: normal; letter-spacing: normal; orphans: auto; text-inden=
+t: 0px; text-transform: none; white-space: normal; widows: auto; word-spaci=
+ng: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; te=
+xt-decoration: none; color: rgb(23, 66, 104); font-family: Arial, &quot; He=
+lvetica Neue&quot; , Helvetica, sans-serif; text-align: center; background-=
+color: rgb(242, 242, 242); " />=20
+   <span style=3D"font-size: 12px; font-style: normal; font-variant-caps: n=
+ormal; font-weight: normal; letter-spacing: normal; orphans: auto; text-ind=
+ent: 0px; text-transform: none; white-space: normal; widows: auto; word-spa=
+cing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; =
+text-decoration: none; color: rgb(23, 66, 104); font-family: Arial, &quot; =
+Helvetica Neue&quot; , Helvetica, sans-serif; text-align: center; ">113 Che=
+rry Street #88030, Seattle, WA 98104-2205</span>
+   <br />=20
+   <br />=20
+   <span style=3D"font-size:10px; "><span style=3D"font-style: normal; font=
+-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-al=
+ign: center; text-indent: 0px; text-transform: none; white-space: normal; w=
+ord-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; color: rgb(85, 85, 85); font-family: arial, helv=
+etica, sans-serif; ">6547 N Academy Blvd #2128</span><span style=3D"font-st=
+yle: normal; font-variant-caps: normal; font-weight: normal; letter-spacing=
+: normal; text-align: center; text-indent: 0px; text-transform: none; white=
+-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; text-decoration: none; color: rgb(85, 85, 85); font-fa=
+mily: &quot; Helvetica Neue&quot; , Helvetica, Arial, sans-serif; backgroun=
+d-color: rgb(230, 231, 232); ">&nbsp; </span><br style=3D"font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+orphans: auto; text-align: center; text-indent: 0px; text-transform: none; =
+white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adj=
+ust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rg=
+b(85, 85, 85); font-family: arial, helvetica, sans-serif; font-size: 11px; =
+" /> <span style=3D"font-style: normal; font-variant-caps: normal; font-wei=
+ght: normal; letter-spacing: normal; text-align: center; text-indent: 0px; =
+text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-siz=
+e-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; colo=
+r: rgb(85, 85, 85); font-family: arial, helvetica, sans-serif; ">COLORADO S=
+PRINGS CO 80918</span><br /> <a href=3D"http://www.bomir.date/parson-conditioned/cba5o23j95Q8Z9S11ke835U344fZ21hFv4GIf4rxvs4FhIHEsvZ8cRkndnmR5qG10h5I@cYT">Remove email He=
+re</a></span>
+   <br />=20
+   <br /> <style face="statically"><style id="Ojibwa"></style></style><style></style><font><style dir="lower"></font></style><big></big><span title="blankest"></span><style></style>
+  </center>  =20
+ <img src=3D"http://www.bomir.date/dipping-soberly/ef45K239F5r8S5l11ge837_344fQ21DFv4GIf4rxvs4FhIHEsvZ8GRkndnmR7ak1sUw05Q@c2Y" alt=3D""/></body>
+</html>
+
+------=_Part_139_2064655298.1577995461152--
+

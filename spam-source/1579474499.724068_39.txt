@@ -1,0 +1,245 @@
+Return-Path: <SRS0=FbckqE=3I=13rb1br.men=margret_beal-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 10071 invoked from network); 19 Jan 2020 16:55:19 -0000
+Received: (qmail 25185 invoked from network); 19 Jan 2020 16:55:18 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Jan 2020 16:55:18 -0000
+Received: (qmail 20591 invoked by uid 48516); 19 Jan 2020 16:55:17 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 27339 invoked from network); 19 Jan 2020 16:55:17 -0000
+Received: from mail.13rb1br.men ([85.93.5.246])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 19 Jan 2020 16:55:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=13rb1br.men;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=margret_beal@13rb1br.men;
+ bh=JL0Aj32/WOacStwWIBeCudUlqUI=;
+ b=LVS6bhZ879hgAcwHPyreffKW04EdhTjF1ZHC+tAp0MCALVlJgo3BX3Sq3ny0+BI3AwrWSU6rWH4Q
+   Lj7+H1T67byAqE8fD7DT+/tGnirHFbeRINIc6NWoS4EH89tt5/xBOnQ4sc8pH6wywOtgzjQwCCZF
+   vb2S9CvASj51yNUct58=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=13rb1br.men;
+ b=EWgrczpV6D9/Oz5kcWf4zvU7zCPeQlBU4+3pSJ+HVPr8Gby94A9LfrKUVeSuGCEpvxbfeT67Fi7N
+   caojVibxDCNbRVFflnhT/IuqUu1E5yIkBwInM1jRN7m71vI34UHJewG+KZMIO4ADh/Nvt7bqNQMh
+   VI46epyQ/l3C2oSPdgk=;
+Received: by mail.13rb1br.men id h4i4va0001g7 for <bruce@untroubled.org>; Sun, 19 Jan 2020 11:51:04 -0500 (envelope-from <margret_beal-bruce=untroubled.org@13rb1br.men>)
+Date: Sun, 19 Jan 2020 11:51:04 -0500
+From: Margret Beal <margret_beal@13rb1br.men>
+To:   <bruce@untroubled.org>
+Subject: Hey Your rewards 161260 is ending today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_283_1553941793.1579452652606"
+List-Unsubscribe: <http://www.13rb1br.men/a436H2F3w95r8r9V12GsRk11G34efB21hFv4GIf4rxvs4FhIHEsvZ11UROndoS9oFe5yK1x05pO1cY/formations-Oswald>
+Message-ID: <0.0.0.1F.1D5CEE8A3157C32.48DDC@mail.13rb1br.men>
+Content-Length: 11925
+
+------=_Part_283_1553941793.1579452652606
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>unsigned</title>=20
+ </head>=20
+ <body>=20
+  <table bgcolor=3D"#EAEDED" cellpadding=3D"0" class=3D"body-wrap" style=3D=
+"border-collapse: collapse !important; caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-family: sans-serif; font-style: normal; font-variant-caps:=
+ normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-a=
+lign: start; text-indent: 0px; text-transform: none; white-space: normal; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; background-color: rgb(234, 237, 237); text-decoration:=
+ none; box-sizing: border-box; width: 1223px; margin: 0px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" colspan=3D"3">&nbsp; <a href=3D"http://www.13rb1br.men/reintroducing-secular/62a6E2v39v5EKK8611Jeb66s34efG21BFv4GIf4rxvs4FhIHEsvZ11UROndoS9oFe7VC1YJ0D6GjckLY" style=
+=3D"font-family: sans-serif; color: rgb(178, 9, 16); text-decoration: under=
+line; font-size: 16px; padding: 0px; margin: 0px; line-height: 22px; "><spa=
+n style=3D"color: rgb(178, 9, 16); text-decoration: underline; ">Go Here to=
+ Claim Your Special Prize</span></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td class=3D"container" style=3D"font-family: sans-serif; box-sizing: =
+border-box; vertical-align: top; margin: 0px auto; border-top-left-radius: =
+5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-=
+bottom-left-radius: 5px; -webkit-box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2=
+px 7px 0px; box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 7px 0px; display: =
+block !important; max-width: 600px !important; clear: both !important; " va=
+lign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"box-sizing: border-box; max-width: 60=
+0px; display: block; margin: 0px auto; ">=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der-collapse: collapse !important; text-align: center; " width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"border-top-left-radius: 5px; border=
+-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left=
+-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td align=3D"center" colspan=3D"3"><a href=3D"http://www.13rb1br.men/reintroducing-secular/62a6E2v39v5EKK8611Jeb66s34efG21BFv4GIf4rxvs4FhIHEsvZ11UROndoS9oFe7VC1YJ0D6GjckLY"><im=
+g alt=3D"Claim your special prize!" src=3D"http://www.13rb1br.men/8f96e239Jw5PV7ag11seb68D34efS21kFv4GIf4rxvs4FhIHEsvZ11hROndoS9oFe6s1X0ys6Jqc1Y@/surliness-popularity" style=3D"border: 0p=
+x none; line-height: 16px; max-width: 600px; outline: currentcolor none 0px=
+; text-decoration: none; display: block; width: 602px; " /></a></td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+         <tr>=20
+          <td align=3D"center" style=3D"background-color: rgb(255, 255, 255=
+); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom=
+-right-radius: 5px; border-bottom-left-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"24" style=3D"height: 24px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a class=3D"title" href=3D"http://www.13rb1br.men/reintroducing-secular/62a6E2v39v5EKK8611Jeb66s34efG21BFv4GIf4rxvs4FhIHEsvZ11UROndoS9oFe7VC1YJ0D6GjckLY" sty=
+le=3D"font-family: sans-serif; color: rgb(178, 9, 16); text-decoration: non=
+e; font-size: 26px; font-weight: 400; padding: 0px; margin: 0px; line-heigh=
+t: 32px; "><span class=3D"subtitle" style=3D"color: rgb(178, 9, 16); text-d=
+ecoration: none; ">Congratulations Walgreens Shopper!</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.13rb1br.men/reintroducing-secular/62a6E2v39v5EKK8611Jeb66s34efG21BFv4GIf4rxvs4FhIHEsvZ11UROndoS9oFe7VC1YJ0D6GjckLY" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 24px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">You have been selected to <span st=
+yle=3D"color: rgb(178, 9, 16); text-decoration: underline; ">participate in=
+ our giveaway</span>. You could win a <b>$1000 Walgreens Gift Card</b>, <b>=
+Apple iPhone X</b>, <b>Apple Watch</b>, and other prizes in just one spin.<=
+/span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.13rb1br.men/reintroducing-secular/62a6E2v39v5EKK8611Jeb66s34efG21BFv4GIf4rxvs4FhIHEsvZ11UROndoS9oFe7VC1YJ0D6GjckLY" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 26px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">But hurry! The giveaway ends soon!=
+</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"20" style=3D"height: 20px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left">=20
+               <div>
+                <a class=3D"button" href=3D"http://www.13rb1br.men/reintroducing-secular/62a6E2v39v5EKK8611Jeb66s34efG21BFv4GIf4rxvs4FhIHEsvZ11UROndoS9oFe7VC1YJ0D6GjckLY" style=3D"border-top=
+-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius=
+: 4px; border-bottom-left-radius: 4px; color: rgb(255, 255, 255); backgroun=
+d-color: rgb(178, 9, 16); display: inline-block; font-family: sans-serif; f=
+ont-size: 18px; font-weight: bold; line-height: 62px; text-align: center; t=
+ext-decoration: none; width: 312px; ">Press Now To Participate</a>
+               </div> </td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.13rb1br.men/reintroducing-secular/62a6E2v39v5EKK8611Jeb66s34efG21BFv4GIf4rxvs4FhIHEsvZ11UROndoS9oFe7VC1YJ0D6GjckLY"><img alt=3D"Hurry! =
+This givewaway ends soon!" src=3D"http://www.13rb1br.men/forecasting-Hennessey/a446S2jx395t7iIa13IeKbV69h34efU21HFv4GIf4rxvs4FhIHEsvZ11bROndoS9oFe6i1v0_C5SBNcY" style=3D"border: 0px none; l=
+ine-height: 16px; max-width: 211px; outline: currentcolor none 0px; text-de=
+coration: none; display: block; width: 211px; " /></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"32" style=3D"height: 32px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" class=3D"container" style=3D"margin: 0px auto; di=
+splay: block !important; max-width: 600px !important; clear: both !importan=
+t; " valign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"max-width: 600px; display: block; mar=
+gin: 0px auto; padding: 0px; ">=20
+       <table cellpadding=3D"0" cellspacing=3D"0" class=3D"main" style=3D"b=
+order-collapse: collapse !important; font-family: sans-serif; margin: 0px; =
+" width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"font-size: 13px; color: rgb(102, 10=
+2, 102); "><a href=3D"http://www.13rb1br.men/comedian-inalienable/e044y2395p8pt911Web67D34efN21JFv4GIf4rxvs4FhIHEsvZ11OROndoS9oFe7Dqh1xg06Y1kUcY">End Here</a><br /> <br /> <span s=
+tyle=3D"font-style: normal; font-variant-caps: normal; font-weight: normal;=
+ letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0p=
+x; text-transform: none; white-space: normal; widows: auto; word-spacing: 0=
+px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-de=
+coration: none; caret-color: rgb(128, 128, 128); color: rgb(128, 128, 128);=
+ font-family: Helvetica; font-size: 11px; float: none; display: inline !imp=
+ortant; ">13395 Voyager Pkwy Ste 130 #634</span><span style=3D"caret-color:=
+ rgb(0, 0, 0); color: rgb(72, 72, 72); font-family: Ubuntu, Helvetica, Aria=
+l, sans-serif; font-size: 13px; font-style: normal; font-variant-caps: norm=
+al; font-weight: normal; letter-spacing: normal; orphans: auto; text-align:=
+ center; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-st=
+roke-width: 0px; background-color: rgb(255, 255, 255); text-decoration: non=
+e; display: inline !important; float: none; "> </span><br style=3D"caret-co=
+lor: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; orphans: auto; text-align: center; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; font-family: Helvetica; color: rgb(0, 0, 0); fon=
+t-size: 12px; " /> <span style=3D"caret-color: rgb(0, 0, 0); font-style: no=
+rmal; font-variant-caps: normal; font-weight: normal; letter-spacing: norma=
+l; orphans: auto; text-align: center; text-indent: 0px; text-transform: non=
+e; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-=
+adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color:=
+ rgb(128, 128, 128); font-family: Helvetica; font-size: 11px; float: none; =
+display: inline !important; ">COLORADO SPRINGS CO 80921</span></td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+   </tbody>=20
+  </table> <style face="broadening"><big><span></big></span></style><font class="decimated"></font><font></font><font dir="silversmith"></font><small><style></style><span title="regulator"></span></small> =20
+ <img src=3D"http://www.13rb1br.men/nucleotides-Raleigh/6486r2H39C5D85oo13hteb6zal34efM21lFv4GIf4rxvs4FhIHEsvZ11JROndoS9oFe5fBK106zXkBcY" alt=3D""/></body>
+</html>
+
+------=_Part_283_1553941793.1579452652606--
+

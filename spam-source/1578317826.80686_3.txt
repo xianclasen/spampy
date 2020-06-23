@@ -1,0 +1,109 @@
+Return-Path: <SRS0=lmHs3P=23=mail.visionprojex.us=5936-2982-85526-1595-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 18422 invoked from network); 6 Jan 2020 13:12:12 -0000
+Received: (qmail 905 invoked from network); 6 Jan 2020 13:12:11 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 13:12:11 -0000
+Received: (qmail 10275 invoked by uid 48516); 6 Jan 2020 13:12:11 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 27645 invoked from network); 6 Jan 2020 13:12:11 -0000
+Received: from dash.visionprojex.us (client-192-119-111-87.hostwindsdns.com [192.119.111.87])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 06 Jan 2020 13:12:04 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=visionprojex.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=WeightDissolver@visionprojex.us;
+ bh=kUKG5t5xhkUIyXQxlSHjeNfmBOE=;
+ b=NLSmGy6CGLHwSRa+doAinRSL4PbCg5xJ0H4nHigWuPzdfDT1CqyS0mIjMkEJ8Z7va8yf40NgbUVI
+   +Zgy7pHQRUNtVNCrQE5OkzWNq7IWlyPUfyp/PiSPDh8dbyL6ScqRd69qqftxvg6hKSdkDFevb1/1
+   mvrrZ2zaBFBKThrVsuU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=visionprojex.us;
+ b=ct+Sqyd9F3kWG9EnGyAXCX3NKJj82sf9mfNW3tLgtfrJ5Qzpln3xaVyGhM8Go2z6VnTWDxu2kRM9
+   dYxoxbWgoOxiJzLoPTVdA/904CY3hBJj2hKCu/4EltN8DmZceQLaX8KB4wrNZLAHOTSUY3qOapbz
+   0C67tt8ZrH6ez95fh0I=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="01bd3c0d14e308b822ef2ddd063c29a3_ba6_14e16"
+Date: Mon, 6 Jan 2020 08:04:39 -0500
+From: "Andres" <WeightDissolver@visionprojex.us>
+Reply-To: "Weight Dissolver" <WeightDissolver@visionprojex.us>
+Subject: Dramatically Skyrocketing Your Vitality, Energy, And Sex Drive...
+To: <bruce@untroubled.org>
+Message-ID: <9g0oggua91ssgvmi-zentsimxfwhwd7f1-ba6-14e16@visionprojex.us>
+Content-Length: 8387
+
+--01bd3c0d14e308b822ef2ddd063c29a3_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Dramatically Skyrocketing Your Vitality, Energy, And Sex Drive...
+
+http://visionprojex.us/Y_FXYWziFWjjFium5TR4M-tbMEMr4zdiAtcf646E0YRU7rM0
+
+http://visionprojex.us/7IxuyfqSsgJwMhdnad6cjVnoYgPY686FDSneeUIm5k84xbpb
+
+
+Capability development, which is often referred to as the military 'strength', is arguably one of the most complex activities known to humanity; because it requires determining: strategic, operational, and tactical capability requirements to counter the identified threats; strategic, operational, and tactical doctrines by which the acquired capabilities will be used; identifying concepts, methods, and systems involved in executing the doctrines; creating design specifications for the manufacturers who would produce these in adequate quantity and quality for their use in combat; purchase the concepts, methods, and systems; create a forces structure that would use the concepts, methods, and systems most effectively and efficiently; integrate these concepts, methods, and systems into the force structure by providing military education, training, and practice that preferably resembles combat environment of intended use; create military logistics systems to allow continued and uninterrupted performance of military organisations under combat conditions, including provision of health services to the personnel, and maintenance for the equipment; the services to assist recovery of wounded personnel, and repair of damaged equipment; and finally, post-conflict demobilisation, and disposal of war stocks surplus to peacetime requirements.
+
+Development of military doctrine is perhaps the more important of all capability development activities, because it determines how military forces were, and are used in conflicts, the concepts and methods used by the command to employ appropriately military skilled, armed and equipped personnel in achievement of the tangible goals and objectives of the war, campaign, battle, engagement, action or a duel. The line between strategy and tactics is not easily blurred, although deciding which is being discussed had sometimes been a matter of personal judgement by some commentators, and military historians. The use of forces at the level of organisation between strategic and tactical is called operational mobility.
+
+There have been attempts to produce a military strength index: this is an example taken from a Credit Suisse report in September 2015. The factors under consideration for that military strength indicator and their total weights were: number of active personnel in the armed forces (5%), tanks (10%), attack helicopters (15%), aircraft (20%), aircraft carriers (25%), and submarines (25%). It was practically impossible to make an estimation of the actual training of the armed forces.  These were the results:
+
+--01bd3c0d14e308b822ef2ddd063c29a3_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://visionprojex.us/wWiOUhC9L7yY3i7Gei7DX9bMruQUk_qUOvxgG1xhKzMbPCZD"><img src="http://visionprojex.us/dfa9cb933ab0d2a40c.jpg" /><img height="1" src="http://www.visionprojex.us/mT7hwqeLcinwHuS8uBHM_LbAt3FprcdJJjiE8uFsIcRlokGm" width="1" /></a>
+<div style="width:650px;font-family:Arial;padding:10px;font-size:17px;">This <b>breakthrough discovery</b> is setting the weight loss industry on fire...<br />
+<br />
+Scientists and nutritionists couldn&rsquo;t believe all these people with weight issues have this ONE thing<br />
+<br />
+<a href="http://visionprojex.us/Y_FXYWziFWjjFium5TR4M-tbMEMr4zdiAtcf646E0YRU7rM0">The color of their urine.</a><br />
+<br />
+Did you know your urine color determines how easily you <b>gain weight?</b><br />
+<br />
+It all has to do with the amount of water you drink...<br />
+<br />
+And why if you exceed this amount of water intake a day (which I&rsquo;ll tell you in just a minute), you could wreck your metabolism.<br />
+<br />
+This discovery has some doctors across the nation advising overweight folks <b>NOT to drink the recommended 8 glasses of water a day.</b><br />
+<br />
+<a href="http://visionprojex.us/Y_FXYWziFWjjFium5TR4M-tbMEMr4zdiAtcf646E0YRU7rM0"><img src="http://visionprojex.us/a4ba62c005afff684c.jpg" /></a><br />
+<br />
+And it&rsquo;s not only drinking water thats a big cause for weight gain.<br />
+<br />
+This controversial <b>discovery also uncovers</b> other deadly &lsquo;healthy habits&rsquo;...such as eating certain fruits and vegetables, or even exercising more than a certain amount or intensity. They may be the real culprit behind your &lsquo;stubborn fat&rsquo;, as they can wreck your metabolism.<br />
+<br />
+There&rsquo;s only one way to find out if its <a href="http://visionprojex.us/Y_FXYWziFWjjFium5TR4M-tbMEMr4zdiAtcf646E0YRU7rM0">the case, and it&rsquo;s all found in this short presentation.</a><br />
+<br />
+And if you are skeptical about how much weight you can lose just by removing these habits...think again.<br />
+<br />
+<b>Without prescription</b> medications, restrictive diets, over-priced but ineffective weight-loss products, or calorie counting....<br />
+<br />
+<a href="http://visionprojex.us/Y_FXYWziFWjjFium5TR4M-tbMEMr4zdiAtcf646E0YRU7rM0">This protocol will work for people of any age, any body type, and in any state of physical health...</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://visionprojex.us/1pEoZmOUb4ppjjKSrOH1XXmi3Xtny6Grgr7yVMNYJxeN7w" target="_blank"><img src="http://visionprojex.us/5018a33317835bdd4c.jpg" /></a></div>
+<br />
+<span style="color:#FFFFFF;">Capability development, which is often referred to as the military &#39;strength&#39;, is arguably one of the most complex activities known to humanity; because it requires determining: strategic, operational, and tactical capability requirements to counter the identified threats; strategic, operational, and tactical doctrines by which the acquired capabilities will be used; identifying concepts, methods, and systems involved in executing the doctrines; creating design specifications for the manufacturers who would produce these in adequate quantity and quality for their use in combat; purchase the concepts, methods, and systems; create a forces structure that would use the concepts, methods, and systems most effectively and efficiently; integrate these concepts, methods, and systems into the force structure by providing military education, training, and practice that preferably resembles combat environment of intended use; create military logistics systems to allow continued and uninterrupted performance of military organisations under combat conditions, including provision of health services to the personnel, and maintenance for the equipment; the services to assist recovery of wounded personnel, and repair of damaged equipment; and finally, post-conflict demobilisation, and disposal of war stocks surplus to peacetime requirements. Development of military doctrine is perhaps the more important of all capability development activities, because it determines how military forces were, and are used in conflicts, the concepts and methods used by the command to employ appropriately military skilled, armed and equipped personnel in achievement of the tangible goals and objectives of the war, campaign, battle, engagement, action or a duel. The line between strategy and tactics is not easily blurred, although deciding which is being discussed had sometimes been a matter of personal judgement by some commentators, and military historians. The use of forces at the level of organisation between strategic and tactical is called operational mobility. There have been attempts to produce a military strength index: this is an example taken from a Credit Suisse report in September 2015. The factors under consideration for that military strength indicator and their total weights were: number of active personnel in the armed forces (5%), tanks (10%), attack helicopters (15%), aircraft (20%), aircraft carriers (25%), and submarines (25%). It was practically impossible to make an estimation of the actual training of the armed forces.  These were the results: </span></body>
+</html>
+
+--01bd3c0d14e308b822ef2ddd063c29a3_ba6_14e16--

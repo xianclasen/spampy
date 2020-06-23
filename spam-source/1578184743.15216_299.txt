@@ -1,0 +1,87 @@
+Return-Path: <SRS0=MlxdVm=2Y=mail.optimatax.best=5776-9790-262549-1547-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 8993 invoked from network); 3 Jan 2020 13:46:48 -0000
+Received: (qmail 18261 invoked from network); 3 Jan 2020 13:46:47 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Jan 2020 13:46:47 -0000
+Received: (qmail 11515 invoked by uid 48516); 3 Jan 2020 13:46:47 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 25185 invoked from network); 3 Jan 2020 13:46:46 -0000
+Received: from baton.optimatax.best (client-23-254-226-214.hostwindsdns.com [23.254.226.214])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 03 Jan 2020 13:46:42 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=optimatax.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=LibertyMutual@optimatax.best;
+ bh=cIa5uuqk1RlEKD1NdOGzYtSyeME=;
+ b=k6J+PcvpElGKyOzexMgZS+vcAXt4/m2cBqsJ/Zms+pzUBqvUy2OxDrPjqTRYjPsJ14RTLHJPOZt7
+   6Jeq1bFzGt51nb3buYUIW+WqFJ2UubaVkt18UZJrawrFBJ4gEM793kl/EEJh4DJQwXYPrW6Q/Q7S
+   L7Ss/fqNqjG5EbhKZxg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=optimatax.best;
+ b=EuvnqEchzgXpIfyy6p7uvB5nqjGF8gJszjx8UKd1TwgaYw4g2AnB5ubFlwhuYb3by1kmWyPgsfnr
+   QpKFEN62xADXmPgVIGRXIZYOBe+eIe8fI+CLXaKJWsOzf2NopfLtIkot0u9NeQqEfFVrAVQGkfUG
+   F8jo6GtLpdhzCYVyEYI=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="849a1a4513f0e832af09e390ff587c27_263e_40195"
+Date: Fri, 3 Jan 2020 08:45:59 -0500
+From: "Liberty Mutual" <LibertyMutual@optimatax.best>
+Reply-To: "Liberty Mutual Insurance" <LibertyMutual@optimatax.best>
+Subject: You could save $509 on auto insurance
+To: <bruce@untroubled.org>
+Message-ID: <lly5rrnvpeqaut5o-u92jag66r2is9p3d-263e-40195@optimatax.best>
+Content-Length: 6912
+
+--849a1a4513f0e832af09e390ff587c27_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+You could save $509 on auto insurance
+
+http://optimatax.best/u9JAaeizfPk1oR9rf_-sO2S3mZXkkroH4QkBsor1bXoqpuP3
+
+http://optimatax.best/l_e7SY7zg8WcnhCVOwNM8AyqwcWqxM0ZoOYt_3RUAs1lMQND
+
+    Veins (sometimes referred to as nerves) constitute one of the more visible leaf traits or characteristics. The veins in a leaf represent the vascular structure of the organ, extending into the leaf via the petiole and provide transportation of water and nutrients between leaf and stem, and play a crucial role in the maintenance of leaf water status and photosynthetic capacity.They also play a role in the mechanical support of the leaf. Within the lamina of the leaf, while some vascular plants possess only a single vein, in most this vasculature generally divides (ramifies) according to a variety of patterns (venation) and form cylindrical bundles, usually lying in the median plane of the mesophyll, between the two layers of epidermis. This pattern is often specific to taxa, and of which angiosperms possess two main types, parallel and reticulate (net like). In general, parallel venation is typical of monocots, while reticulate is more typical of eudicots and magnoliids ("dicots"), though there are many exceptions.
+
+The vein or veins entering the leaf from the petiole are called primary or first order veins. The veins branching from these are secondary or second order veins. These primary and secondary veins are considered major veins or lower order veins, though some authors include third order. Each subsequent branching is sequentially numbered, and these are the higher order veins, each branching being associated with a narrower vein diameter. In parallel veined leaves, the primary veins run parallel and equidistant to each other for most of the length of the leaf and then converge or fuse (anastomose) towards the apex. Usually, many smaller minor veins interconnect these primary veins, but may terminate with very fine vein endings in the mesophyll. Minor veins are more typical of angiosperms, which may have as many as four higher orders. In contrast, leaves with reticulate venation there is a single (sometimes more) primary vein in the centre of the leaf, referred to as the midrib or costa and is continuous with the vasculature of the petiole more proximally. The midrib then branches to a number of smaller secondary veins, also known as second order veins, that extend toward the leaf margins. These often terminate in a hydathode, a secretory organ, at the margin. In turn, smaller veins branch from the secondary veins, known as tertiary or third order (or higher order) veins, forming a dense reticulate pattern. The areas or islands of mesophyll lying between the higher order veins, are called areoles. Some of the smallest veins (veinlets) may have their endings in the areoles, a process known as areolation. These minor veins act as the sites of exchange between the mesophyll and the plant's vascular
+
+--849a1a4513f0e832af09e390ff587c27_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://optimatax.best/u9JAaeizfPk1oR9rf_-sO2S3mZXkkroH4QkBsor1bXoqpuP3" style="font-size:40px;font-family:Arial; color:#0B011A; text-decoration:none;">You could save $509 on auto insurance</a><br />
+<br />
+<a href="http://optimatax.best/u9JAaeizfPk1oR9rf_-sO2S3mZXkkroH4QkBsor1bXoqpuP3"><img src="http://optimatax.best/a2720a5eb9beeedd7f.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://optimatax.best/1nP63ATw4ZJvXb0HFjAk6Zsdw7hIlJwrYv-7GQhVE_JCIzxj"><img src="http://optimatax.best/7f02ade2531b25781f.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://optimatax.best/l_e7SY7zg8WcnhCVOwNM8AyqwcWqxM0ZoOYt_3RUAs1lMQND"><img src="http://optimatax.best/854e2fbe419c573b15.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Veins (sometimes referred to as nerves) constitute one of the more visible leaf traits or characteristics. The veins in a leaf represent the vascular structure of the organ, extending into the leaf via the petiole and provide transportation of water and nutrients between leaf and stem, and play a crucial role in the maintenance of leaf water status and photosynthetic capacity.They also play a role in the mechanical support of the leaf. Within the lamina of the leaf, while some vascular plants possess only a single vein, in most this vasculature generally divides (ramifies) according to a variety of patterns (venation) and form cylindrical bundles, usually lying in the median plane of the mesophyll, between the two layers of epidermis. This pattern is often specific to taxa, and of which angiosperms possess two main types, parallel and reticulate (net like). In general, parallel venation is typical of monocots, while reticulate is more typical of eudicots and magnoliids (&quot;dicots&quot;), though there are many exceptions. The vein or veins entering the leaf from the petiole are called primary or first order veins. The veins branching from these are secondary or second order veins. These primary and secondary veins are considered major veins or lower order veins, though some authors include third order. Each subsequent branching is sequentially numbered, and these are the higher order veins, each branching being associated with a narrower vein diameter. In parallel veined leaves, the primary veins run parallel and equidistant to each other for most of the length of the leaf and then converge or fuse (anastomose) towards the apex. Usually, many smaller minor veins interconnect these primary veins, but may terminate with very fine vein endings in the mesophyll. Minor veins are more typical of angiosperms, which may have as many as four higher orders. In contrast, leaves with reticulate venation there is a single (sometimes more) primary vein in the centre of the leaf, referred to as the midrib or costa and is continuous with the vasculature of the petiole more proximally. The midrib then branches to a number of smaller secondary veins, also known as second order veins, that extend toward the leaf margins. These often terminate in a hydathode, a secretory organ, at the margin. In turn, smaller veins branch from the secondary veins, known as tertiary or third order (or higher order) veins, forming a dense reticulate pattern. The areas or islands of mesophyll lying between the higher order veins, are called areoles. Some of the smallest veins (veinlets) may have their endings in the areoles, a process known as areolation. These minor veins act as the sites of exchange between the mesophyll and the plant&#39;s vascular </span></center>
+</body>
+</html>
+
+--849a1a4513f0e832af09e390ff587c27_263e_40195--

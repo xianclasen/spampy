@@ -1,0 +1,219 @@
+Return-Path: <TotalAutoAccident@halurible.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 16046 invoked from network); 18 Jan 2020 12:44:26 -0000
+Received: (qmail 19533 invoked from network); 18 Jan 2020 12:44:25 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Jan 2020 12:44:25 -0000
+Received: (qmail 31197 invoked by uid 48516); 18 Jan 2020 12:44:25 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5730 invoked from network); 18 Jan 2020 12:44:25 -0000
+Received: from 01280f10.halurible.us (63-81-90-185.nca.lanset.com [63.81.90.185])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 18 Jan 2020 12:44:25 -0000
+Received: from 01280f10.550ee4hha.halurible.us ([127.0.0.1]:5390 helo=550ee4hha.halurible.us)
+	by 550ee4hha.halurible.us with ESMTP id 01CT280FCK10;
+	for <bruce@untroubled.org>; Sat, 18 Jan 2020 04:44:23 -0800
+Date: Sat, 18 Jan 2020 04:44:23 -0800
+To: <bruce@untroubled.org>
+Message-ID: <339038619399122339011623915922825@550ee4hha.halurible.us>
+From: "Total Auto Accident" <TotalAutoAccident@halurible.us>
+Subject: Need help getting started on your motor vehicle injury claim?
+Content-Language: en-us
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: multipart/alternative;
+	boundary="----=Part.717.4612.1579351463"
+Content-Length: 11257
+
+------=Part.717.4612.1579351463
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+ 
+
+
+Need help getting started on your motor vehicle injury claim?
+
+
+
+http://www.halurible.us/l/lt6YE3390M39IC/1162WO1592H2825J108QV19399122K1062296249/qs/?email=f8f706c3938feec43d1f111ad3c0a047
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://www.halurible.us/l/lc7TG3390X39GR/1162BE1592M2825L108KR19399122D1062296249/qs/?email=f8f706c3938feec43d1f111ad3c0a047
+
+
+iction enzymes were the first to be identified and were first identified in two different strains (K-12 and B) of E. coli.[37] These enzymes cut at a site that differs, and is a random distance (at least 1000 bp) away, from their recognition site. Cleavage at these random sites follows a process of DNA translocation, which shows that these enzymes are also molecular motors. The recognition site is asymmetrical and is composed of two specific portions—one containing 3–4 nucleotides, and another containing 4–5 nucleotides—separated by a non-specific spacer of about 6–8 nucleotides. These enzymes are multifunctional and are capable of both restriction digestion and modification activities, depending upon the methylation status of the target DNA. The cofactors S-Adenosyl methionine (AdoMet), hydrolyzed adenosine triphosphate (ATP), and magnesium (Mg2+) ions, are required for their full activity. Type I restriction enzymes possess three subunits called HsdR, HsdM, and HsdS; HsdR is required for restriction digestion; HsdM is necessary for adding methyl groups to host DNA (methyltransferase activity), and HsdS is important for specificity of the recognition (DNA-binding) site in addition to both restriction digestion (DNA cleavage) and modification (DNA methyltransferase) activity.[31][37] Type II Type II site-specific deoxyribonuclease-like 1QPS.png Structure of the homodimeric restriction enzyme EcoRI (cyan and green cartoon diagram) bound to double stranded DNA (brown tubes).[38] Two catalytic magnesium ions (one from each monomer) are shown as magenta spheres and are adjacent to the cleaved sites in the DNA made by the enzyme (depicted as gaps in the DNA backbone). Identifiers Symbol Restrct_endonuc-II-like Pfam clan CL0236 InterPro IPR011335 SCOPe 1wte / SUPFAM Typical type II restriction enzymes differ from type I restriction enzymes in several ways. They form homodimers, with recognition sites that are usually undivided and palindromic and 4–8 nucleotides in length. They recognize and cleave DNA at the same site, and they do not use ATP or AdoMet for their activity—they usually require only Mg2+ as a cofactor.[28] These enzymes cleave the phosphodiester bond of double helix DNA. It can either cleave at the center of both strands to yield a blunt end, or at a staggered position leaving overhangs called sticky ends.[39] These are the most commonly available and used restriction enzymes. In the 1990s and early 2000s, new enzymes from this family were discovered that did not follow all the classical criteria of this enzyme class, and new subfamily nomenclature was developed to divide this large family into subcategories based on deviations from typical characteristics of type II enzymes.[28] These subgroups are defined using a letter suffix. Type IIB restriction enzymes (e.g., BcgI and BplI) are multimers, containing more than one subunit.[28] They cleave DNA on both sides of their recognition to cut out the recognition site. They require both AdoMet and Mg2+ cofactors. Type IIE restriction endonucleases (e.g., NaeI) cleave DNA following interaction with two copies of their recognition sequence.[28] One recognition site acts as the target for cleavage, while the other acts as an allosteric effector that speeds up or improves the efficiency of enzyme cleavage. Similar to type IIE enzymes, type IIF restriction endonucleases (e.g. NgoMIV) interact with two copies of their recognition sequence but cleave both sequences at the same time.[28] Type IIG restriction endonucleases (e.g., Eco57I) do have a single subunit, like classical Type II restriction enzymes, but require the cofactor AdoMet to be active.[28] Type IIM restriction endonucleases, such as DpnI, are able to recognize and cut methylated DNA.[28][40][41] Type IIS restriction endonucleases (e.g., FokI) cleave DNA at a defined distance from their non-palindromic asymmetric recognition sites;[28] this characteristic is widely used to perform in-vitro cloning techniques such as Golden Gate cloning. These enzymes may function as dimers. Similarly, Type IIT restriction enzymes (e.g., Bpu10I and BslI) are composed of two different subunits. Some recognize palindromic sequences while others ha
+
+
+------=Part.717.4612.1579351463
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+=09<title>Newsletter</title>
+</head>
+<body><!-- <div style=3D"position:absolute;top:-1000px;left:-1000px;height:=
+0px;width:0px;"><img src=3D"http://www.halurible.us/timgAJMEFOOES/EOUBGCKWA=
+/3390/1592/2825/108/19399122/img.gif" style=3D"border=3D0;" /></div> -->
+<div style=3D"position:absolute;top:-1000px;left:-1000px;height:0px;width:0=
+px;"><a href=3D"http://www.halurible.us/trXQIVXBWEP/LRHOTSBXX/3390/1592/282=
+5/108/19399122/index.htm" style=3D"border=3D0;"><div></div></a></div>
+<center>
+<div style=3D"width:700px;"><br />
+
+<br />
+<a href=3D"http://www.halurible.us/l/lt1EL3390S39VJ/1162UC1592N2825H108QF19=
+399122R1062296249/qs/?email=3Df8f706c3938feec43d1f111ad3c0a047" style=3D"fo=
+nt-size:30px;font-family:Arial; color:blue; text-decoration:none; font-weig=
+ht:bold;"><span style=3D"color:#669010;">Need help getting started on your =
+motor vehicle injury claim?</span></a><br />
+<br />
+<a href=3D"http://www.halurible.us/l/lt2YE3390P39CD/1162WS1592O2825G108KX19=
+399122J1062296249/qs/?email=3Df8f706c3938feec43d1f111ad3c0a047"><img src=3D=
+"http://www.halurible.us/im/IX3390C39GF/1162KK1592MK2825T108WI19399122W1062=
+296249/img0391162386.jpg"/><br /><br />
+
+
+
+
+
+
+</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /><br />
+<br />
+<br />
+
+<a href=3D"http://www.halurible.us/l/lc3VP3390P39RE/1162HE1592J2825U108NJ19=
+399122V1062296249/qs/?email=3Df8f706c3938feec43d1f111ad3c0a047"><img src=3D=
+"http://www.halurible.us/im/OJ3390B39EU/1162SF1592UA2825R108UK19399122T1062=
+296249/img1391162386.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href=3D"http://www.halurible.us/unsHV3390VE39TA/1162BX1592X2825RS108M193=
+99122D1062296249/qs/?email=3Df8f706c3938feec43d1f111ad3c0a047"><img src=3D"=
+http://www.halurible.us/im/SE3390U39WR/1162OG1592UA2825T108BA19399122V10622=
+96249/img2391162386.jpg" /></a></div>
+<br />
+<br />
+<div style=3D"color:#FFFFFF;font-size:6px;">iction enzymes were the first t=
+o be identified and were first identified in two different strains (K-12 an=
+d B) of E. coli.[37] These enzymes cut at a site that differs, and is a ran=
+dom distance (at least 1000 bp) away, from their recognition site. Cleavage=
+ at these random sites follows a process of DNA translocation, which shows =
+that these enzymes are also molecular motors. The recognition site is asymm=
+etrical and is composed of two specific portions=E2=80=94one containing 3=
+=E2=80=934 nucleotides, and another containing 4=E2=80=935 nucleotides=E2=
+=80=94separated by a non-specific spacer of about 6=E2=80=938 nucleotides. =
+These enzymes are multifunctional and are capable of both restriction diges=
+tion and modification activities, depending upon the methylation status of =
+the target DNA. The cofactors S-Adenosyl methionine (AdoMet), hydrolyzed ad=
+enosine triphosphate (ATP), and magnesium (Mg2+) ions, are required for the=
+ir full activity. Type I restriction enzymes possess three subunits called =
+HsdR, HsdM, and HsdS; HsdR is required for restriction digestion; HsdM is n=
+ecessary for adding methyl groups to host DNA (methyltransferase activity),=
+ and HsdS is important for specificity of the recognition (DNA-binding) sit=
+e in addition to both restriction digestion (DNA cleavage) and modification=
+ (DNA methyltransferase) activity.[31][37]
+
+Type II
+Type II site-specific deoxyribonuclease-like
+1QPS.png
+Structure of the homodimeric restriction enzyme EcoRI (cyan and green carto=
+on diagram) bound to double stranded DNA (brown tubes).[38] Two catalytic m=
+agnesium ions (one from each monomer) are shown as magenta spheres and are =
+adjacent to the cleaved sites in the DNA made by the enzyme (depicted as ga=
+ps in the DNA backbone).
+Identifiers
+Symbol=09Restrct_endonuc-II-like
+Pfam clan=09CL0236
+InterPro=09IPR011335
+SCOPe=091wte / SUPFAM
+Typical type II restriction enzymes differ from type I restriction enzymes =
+in several ways. They form homodimers, with recognition sites that are usua=
+lly undivided and palindromic and 4=E2=80=938 nucleotides in length. They r=
+ecognize and cleave DNA at the same site, and they do not use ATP or AdoMet=
+ for their activity=E2=80=94they usually require only Mg2+ as a cofactor.[2=
+8] These enzymes cleave the phosphodiester bond of double helix DNA. It can=
+ either cleave at the center of both strands to yield a blunt end, or at a =
+staggered position leaving overhangs called sticky ends.[39] These are the =
+most commonly available and used restriction enzymes. In the 1990s and earl=
+y 2000s, new enzymes from this family were discovered that did not follow a=
+ll the classical criteria of this enzyme class, and new subfamily nomenclat=
+ure was developed to divide this large family into subcategories based on d=
+eviations from typical characteristics of type II enzymes.[28] These subgro=
+ups are defined using a letter suffix.
+
+Type IIB restriction enzymes (e.g., BcgI and BplI) are multimers, containin=
+g more than one subunit.[28] They cleave DNA on both sides of their recogni=
+tion to cut out the recognition site. They require both AdoMet and Mg2+ cof=
+actors. Type IIE restriction endonucleases (e.g., NaeI) cleave DNA followin=
+g interaction with two copies of their recognition sequence.[28] One recogn=
+ition site acts as the target for cleavage, while the other acts as an allo=
+steric effector that speeds up or improves the efficiency of enzyme cleavag=
+e. Similar to type IIE enzymes, type IIF restriction endonucleases (e.g. Ng=
+oMIV) interact with two copies of their recognition sequence but cleave bot=
+h sequences at the same time.[28] Type IIG restriction endonucleases (e.g.,=
+ Eco57I) do have a single subunit, like classical Type II restriction enzym=
+es, but require the cofactor AdoMet to be active.[28] Type IIM restriction =
+endonucleases, such as DpnI, are able to recognize and cut methylated DNA.[=
+28][40][41] Type IIS restriction endonucleases (e.g., FokI) cleave DNA at a=
+ defined distance from their non-palindromic asymmetric recognition sites;[=
+28] this characteristic is widely used to perform in-vitro cloning techniqu=
+es such as Golden Gate cloning. These enzymes may function as dimers. Simil=
+arly, Type IIT restriction enzymes (e.g., Bpu10I and BslI) are composed of =
+two different subunits. Some recognize palindromic sequences while others h=
+a</div></center>
+
+</body>
+</html>
+
+------=Part.717.4612.1579351463--
+

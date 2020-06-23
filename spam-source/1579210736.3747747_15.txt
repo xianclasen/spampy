@@ -1,0 +1,74 @@
+Return-Path: <SRS0=0Wdvly=3F=viciv.win=fighttinnitusnow-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 23409 invoked from network); 16 Jan 2020 16:59:38 -0000
+Received: (qmail 31145 invoked from network); 16 Jan 2020 16:59:37 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Jan 2020 16:59:37 -0000
+Received: (qmail 25611 invoked by uid 48516); 16 Jan 2020 16:59:37 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 11531 invoked from network); 16 Jan 2020 16:59:36 -0000
+Received: from mail.viciv.win ([144.172.80.106])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 16 Jan 2020 16:59:36 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=viciv.win;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fighttinnitusnow@viciv.win;
+ bh=zfc8PMpgjhdUM3Fr6Egvb0O/3+U=;
+ b=tHW9s7IEZgIWMoLRdhEAFygPkvC24cvzIm80c1kwOLRSQ7AsAhpYaVTJIrU2AzzUJxq4ok1xZsbN
+   44oJcZqHy3DcE3wiWs3XSQU8/+xIC/zYfj+r9HKS7+J8j9aoXyZMO8NcYO0mzdXv/Vkk9DTKdwxq
+   9jL+lASJSCgT6xZxPdo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=viciv.win;
+ b=T1e82apA7fe8TubsAHyu+xblXbXwncNesPg/cSmbKnuxA19hmgHgTbPsABeW5FLVQq8ZdFeYAkZJ
+   8074ioxbaE/WbC9iTEkSF5ILOqdbsBezmbhDgHQFQJJYqRsa/A/ADFsAUPoKUojGOBeZiYQHkgFZ
+   S7bUY0IdTJA7AK8Eero=;
+Received: by mail.viciv.win id h42b7g0001gq for <bruce@untroubled.org>; Thu, 16 Jan 2020 11:55:10 -0500 (envelope-from <fighttinnitusnow-bruce=untroubled.org@viciv.win>)
+Date: Thu, 16 Jan 2020 11:55:10 -0500
+From: FightTinnitusNow <fighttinnitusnow@viciv.win>
+To:   <bruce@untroubled.org>
+Subject: [Tinnitus Breakthrough] You can rest easy again! You can rest easy again!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_238_1716617782.1579193695386"
+List-Unsubscribe: <http://www.viciv.win/neurological-distortions/7566p23so95X89JN11Q1R1mN34d5I21kFv4GIf4rxvs4FhIHEsvZ11hRVndod9oC95W10yN5BTcXY>
+Message-ID: <0.0.0.1B.1D5CC8DB6D4E74C.6292AC@mail.viciv.win>
+Content-Length: 6793
+
+------=_Part_238_1716617782.1579193695386
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>predominate</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.viciv.win/4df6c2Wv395G8K6H12zreadeq34d5I21GFv4GIf4rxvs4FhIHEsvZ11XRVndod9oC95oB1V06IpTc3Y/neurological-distortions" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.viciv.win/catnip-accreditation/9904n2395LzP7a12jeae1MI34d5T21vFv4GIf4rxvs4FhIHEsvZ11DRVndod9oC96S1RrD05lzclY" style="border-width: 0px; border-style: solid; width: 75%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:georgia,serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:georgia,serif; "><a href="http://www.viciv.win/4df6c2Wv395G8K6H12zreadeq34d5I21GFv4GIf4rxvs4FhIHEsvZ11XRVndod9oC95oB1V06IpTc3Y/neurological-distortions">Watch THIS &quot; 10 second trick&quot; to restore your hearing</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.viciv.win/e7b6S23KP95Qz8q613eekandfX34d5H21zFv4GIf4rxvs4FhIHEsvZ11jRVndod9oC97FhUi1R06QXAcOY/linearly-nonstandard"><font color="#666666">Leave mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.viciv.win/linearly-nonstandard/22e4N2395Gz8t913geawew0P34d5Q21yFv4GIf4rxvs4FhIHEsvZ11mRVndod9oC95s10vl5azcYP">Opt out Here</a>
+    <br /> 
+    <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+   </div> <font></font><style id="Cauchy"><small></style></small><span></span><big><span color="Sabbathizes"></big></span><style></style><small></small>
+  </center>   
+ <img src="http://www.viciv.win/7556S239hV5D85Pj12BTeae2k34d5h21pFv4GIf4rxvs4FhIHEsvZ11DRVndod9oC95y10x_5rlc1Y/insulting-Enos" alt=""/></body>
+</html>
+
+------=_Part_238_1716617782.1579193695386--
+

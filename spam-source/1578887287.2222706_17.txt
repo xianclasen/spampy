@@ -1,0 +1,141 @@
+Return-Path: <SRS0=x5kzlh=3B=mail.ultralast.co=6272-2982-85526-1682-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 5840 invoked from network); 12 Jan 2020 13:47:54 -0000
+Received: (qmail 21243 invoked from network); 12 Jan 2020 13:47:54 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 13:47:54 -0000
+Received: (qmail 6197 invoked by uid 48516); 12 Jan 2020 13:47:53 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 25110 invoked from network); 12 Jan 2020 13:47:53 -0000
+Received: from fresno.ultralast.co (gotdb0d58.gothamcolumn.space [170.130.172.211])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 12 Jan 2020 13:47:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=ultralast.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=overnightmillionaire@ultralast.co;
+ bh=w90dp2Bg99JfdmnAOVcoAk2RhU0=;
+ b=GX/6g+Xsg25ce1wPJKOOWBL6vdSKTjkUc37dA/l+Ty9kth7kyM5x7kXOg8l3naUgKB9byixD+3Gc
+   w28cECiI/vn7xfPThaNRow7qAMGv1nyb7ciMo5EhQMfrFJnG8y3oUk6i1L4SCAtKpdlDMX5yI/w1
+   CeMdZpGO0Di0ySj/sTc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=ultralast.co;
+ b=bDZwALfuNRiN7OiM9P74yem/uHxBRFz/KfBvr+6c1Sq+g+raNwzc4HJSPrpO5AxtrBfuMxOflgok
+   0N6ZzVQjIBvdHjfCwZJd70ceVn3n+vYReayf450gDNQRREWPiy0VLktRsKwPryUXQVL38btqaJoh
+   wjA9pmm3Fb1kxAjQVlU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="e2c12abd4457cfe54ac6cb3eacaee397_ba6_14e16"
+Date: Sun, 12 Jan 2020 08:47:06 -0500
+From: "Mind-Hacks" <overnightmillionaire@ultralast.co>
+Reply-To: "Mind-Hacks" <mind-hacks@ultralast.co>
+Subject: Are You Still Living Paycheck to Paycheck?
+To: <bruce@untroubled.org>
+Message-ID: <tvzk501hl6aupe7m-y7knjz1pqy1e1r4k-ba6-14e16@ultralast.co>
+Content-Length: 16945
+
+--e2c12abd4457cfe54ac6cb3eacaee397_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Are You Still Living Paycheck to Paycheck?
+
+http://ultralast.co/xwoIVLlLjwQJypmf7-U-g8UpXS27KeLBTyYQDyT3jecbR0Qa
+
+http://ultralast.co/JGO5-pBXz3SKsBRz_eVTSSrWX4NwaaPYxcAkb6FWG5HvPJd5
+
+unreal /agreements /fennel /alarming /belmont /1998 /Dope /ione /nervous
+giggly /reading /bielsa /chen /P1 /functon /tht /blah /eau /symbolize /forbes
+container /temporary /psz /toll /zugreifen /modelo /entrar /disclaim
+treatment /AH /normaltext /leibenluft /Execs /nimo /founded /Me /assim /jacket
+mmorpg /spaced /discussion /psz
+borromeo /impairment /youth /pinchar /antworte /soups
+assignments /covered /jamaica /Jo/nonprescription /_blankForward3Dsize /Bravo 
+/chromosomes /upgrade /change /zelfstuurinrichting /is? ampfirst /nothing /within 
+/KERSHNER /variedades /Straight /personer not /ampassegurar /35058B10 /_NextPart_000_0000_01C7B5F1 
+/formula1 April /f /3 /RICHTEL /sendo /3D /ampchannel /finns /servant /exceptional /size/pantalla 
+/tropical /delegationAeee /verified _0822-1831-14-PART-BREAK /20 /ensuring /18 /shopping /3 /closeouts 
+/dress Thanks3Dsize /3Dsize /color /message /hear /episo /content /3Dpessoal Observera 
+/8217FAMILY /Tenet /purple /email /Jan /unsubscribe /Archive /using RK /Ccedil /Actually 
+/utilizado /stuck /change /gracias /oo___ /Note /kommer, account /hoger /H/recurso /hr /Forward 
+/Marcadores /farmland E7s /3D3Vamos /pieces /PERLEZ /all /size /review /Volgen /3D /ab /clear 
+/pessoal ___ /please /message /10 /sendo3Dsize /page /khtml /bring /10pt /0pt /lucida. Swedish 
+/LsRegisterButtonHov /changing /bestseller /fazem /employee /20 125cc /Eeeeba /accept /aparece 
+/250cc /msotype /personal-compose /3Dsize Marlon /xfy /Result /Enter /About /charset /at /course 
+/ampreceived /ISO-8859-1 Dsize /wrote /squad /ampDsize /confirmed /rolando /cQguJMarlon 
+/Terrorism Meets /lol /boozing /onthisday /absmiddle /questions 
+/access? 3D /background-color /I /verkar /Helena /achter /IRL  /anren /0ptfamily /Arial /uppgifter 
+/10 /138px REC0 /Shopping /gracias /3D /xmlns /observera /fala /po /xCanada /putatively Times 
+/express /face /3D /ampstraight /E1 /ampl /n /3D /Buz /39 /desktop /face /Arial contents /charset 
+/sudnly /jogos /vAlign /feature /Vamos /annars /ISO-8859-1 /or Gabriel /everyone /8748-3323 //repress crap /desimone's/
+retour /ord /wichtig /deck /436 /In /owned /636363
+swireless /iacute /privado /Did/
+22030 /facebook /s /deserves /summer /showers
+entfernt /likes /barclays /sega's/
+
+
+
+After the unification of Lingnan region in the Qin Dynasty, the immigrants from the Central Plains moved in and formed the local culture with a unique style. With the outward movement of the Guangdong people, the Hakka and Cantonese languages, music, cuisine, opera and tea ceremony have been spread throughout the nation, Southeast Asia and other countries. The two special administrative regions of Hong Kong and Macao fall within the scope of Guangdong cultural influence, and Guangdong culture still has profound influences on the Chinese in Singapore and Malaysia.
+
+The new style used voices to emulate modern rock in
+Originally a sparsely populated area of farming and fishing villages, the territory has become one of the world's most significant financial centres and commercial ports. It is the world's tenth-largest exporter and ninth-largest importer, As one of the world's leading international financial centres, Hong Kong has a major capitalist service economy characterised by low taxation and free trade, and the currency, Hong Kong dollar, is the eighth most traded currency in the world. Hong Kong hosts the largest concentration of ultra high-net-worth individuals of any city in the world. Although the city has one of the highest per capita incomes in the world, there is severe income inequality.
+
+Hong Kong is a highly developed territory and ranks fourth on the UN Human Development Index. The lack of space caused demand for denser constructions, which developed the city to a centre for modern architecture and the world's most vertical city. The city also has the largest number of skyscrapers of any city in the world and its residents have some of the highest life expectancies in the world. The dense space also led to a highly developed transportation network with public transport rates exceeding 90 percent. Hong Kong ranks highly in numerous international financial and economic rankings. For instance, Hong Kong is rated third in the Global Financial Centre Index, behind New York City and London. Hong Kong also holds first place in an annual ranking of the world’s most “economically free” countries, topping the chart for 25 years, according to the Heritage Foundation, a U.S. think tank.In 1941, during the Second World War, the British reached an agreement with the Chinese government under Generalissimo Chiang Kai-shek that if Japan attacked Hong Kong, the Chinese National Army would attack the Japanese from the rear to relieve pressure on the British garrison. On 8 December, the Battle of Hong Kong began when Japanese air bombers effectively destroyed British air power in one attack. Two days later, the Japanese breached the Gin Drinkers Line in the New Territories. The British commander, Major-General Christopher Maltby, concluded that the island could not be defended for long unless he withdrew his brigade from the mainland. On 18 December, the Japanese crossed Victoria Harbour. By 25 December, organised defence was reduced into pockets of resistance. Maltby recommended a surrender to Governor Sir Mark Young, who accepted his advice to reduce further losses. A day after the invasion, Chiang ordered three corps under General Yu Hanmou to march towards Hong Kong. The plan was to launch a New Year's Day attack on the Japanese in the Canton region, but before the Chinese infantry could attack, the Japanese had broken Hong Kong's defences. The British casualties were 2,232 killed or missing and 2,300 wounded. The Japanese reported 1,996 killed and 6,000 wounded.
+
+The Japanese soldiers committed atrocities, including rape, on many locals. The population fell in half, from 1.6 million in 1941 to 750,000 at war's end because of fleeing refugees; they returned in 1945.
+
+The Japanese imprisoned the ruling British colonial elite and sought to win over the local merchant gentry by appointments to advisory councils and neighbourhood watch groups. The policy worked well for Japan and produced extensive collaboration from both the elite and the middle class, with far less terror than in other Chinese cities. Hong Kong was transformed into a Japanese colony, with Japanese businesses replacing the British. However, the Japanese Empire had severe logistical difficulties and by 1943 the food supply for Hong Kong was problematic. The overlords became more brutal and corrupt, and the Chinese gentry became disenchanted. With the surrender of Japan, the transition back to British rule was smooth, for on the mainland the Nationalist and Communist forces were preparing for a civil war and ignored Hong Kong. In the long run the occupation strengthened the pre-war social and economic order among the Chinese business community by eliminating some conflicts of interests and reducing the prestige and power of the British.
+
+--e2c12abd4457cfe54ac6cb3eacaee397_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>newsletter</title>
+</head>
+<body><a href="http://ultralast.co/0rGuF3vRNhvItbF0sAE0KM0OnRiVqPIsnjcfFPjYs7monNuj"><img src="http://ultralast.co/bef5c0006bd7355c50.jpg" /><img height="1" src="http://www.ultralast.co/bOlqvCfcrgn8aiMcmgUJTBu-72GamWbu93B14-ahkx81kXM" width="1" /></a>
+<div style="width:600px; padding:10px; font-family:arial;"><br />
+<a href="http://ultralast.co/xwoIVLlLjwQJypmf7-U-g8UpXS27KeLBTyYQDyT3jecbR0Qa"><img src="http://ultralast.co/5f058467c64cf408e9.png" style="width:600px;" /></a><br />
+<br />
+I still remember that feeling before buying my first online course for<b style="color:#FF0000"> $777 ...</b>and at that time, I was really struggling financially, because I had just lost my job for the 3rd time and I had to take action before things got worse..<br />
+<br />
+<b style="color:#FF0000">But I was nervous -- Is this really going to work for me? Is it worth the money? The time?</b><br />
+<br />
+<br />
+<a href="http://ultralast.co/xwoIVLlLjwQJypmf7-U-g8UpXS27KeLBTyYQDyT3jecbR0Qa"><img src="http://ultralast.co/5870cc81c08dc42983.png" /></a><br />
+<br />
+But after I hit the<a href="##"> &ldquo;buy&rdquo; </a>button I was changed forever because I had found another way to make money outside of my job.<br />
+<br />
+And now, I&rsquo;m sharing the infamous Wesley Virgin&rsquo;s <b>Overnight Millionaire</b> course with you because I want to give you the boost of confidence that you don&#39;t have to learn how to manifest a better life for you and your family.<br />
+<br />
+But if you&rsquo;re feeling nervous or uncertain, just take a look at a few of the people this course has already transformed.<br />
+<br />
+Your success story is waiting to be written, all you have to do is take a leap of faith in <b>YOURSELF</b>.<br />
+<br />
+--&gt;<a href="##">Listen to Wesley&rsquo;s powerful messages now!</a><br />
+<br />
+<b>PS:</b> For things to change you must change, but you must also do one more very important thing,<a href="##"> take action</a>.<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp; <a href="http://ultralast.co/JGO5-pBXz3SKsBRz_eVTSSrWX4NwaaPYxcAkb6FWG5HvPJd5" target="_blank"><img src="http://ultralast.co/1fb39655fb4927fe65.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;</div>
+&nbsp; <span style="color:#FFFFFF; font-size:3px;">unreal /agreements /fennel /alarming /belmont /1998 /Dope /ione /nervous giggly /reading /bielsa /chen /P1 /functon /tht /blah /eau /symbolize /forbes container /temporary /psz /toll /zugreifen /modelo /entrar /disclaim treatment /AH /normaltext /leibenluft /Execs /nimo /founded /Me /assim /jacket mmorpg /spaced /discussion /psz borromeo /impairment /youth /pinchar /antworte /soups assignments /covered /jamaica /Jo/nonprescription /_blankForward3Dsize /Bravo /chromosomes /upgrade /change /zelfstuurinrichting /is? ampfirst /nothing /within /KERSHNER /variedades /Straight /personer not /ampassegurar /35058B10 /_NextPart_000_0000_01C7B5F1 /formula1 April /f /3 /RICHTEL /sendo /3D /ampchannel /finns /servant /exceptional /size/pantalla /tropical /delegationAeee /verified _0822-1831-14-PART-BREAK /20 /ensuring /18 /shopping /3 /closeouts /dress Thanks3Dsize /3Dsize /color /message /hear /episo /content /3Dpessoal Observera /8217FAMILY /Tenet /purple /email /Jan /unsubscribe /Archive /using RK /Ccedil /Actually /utilizado /stuck /change /gracias /oo___ /Note /kommer, account /hoger /H/recurso /hr /Forward /Marcadores /farmland E7s /3D3Vamos /pieces /PERLEZ /all /size /review /Volgen /3D /ab /clear /pessoal ___ /please /message /10 /sendo3Dsize /page /khtml /bring /10pt /0pt /lucida. Swedish /LsRegisterButtonHov /changing /bestseller /fazem /employee /20 125cc /Eeeeba /accept /aparece /250cc /msotype /personal-compose /3Dsize Marlon /xfy /Result /Enter /About /charset /at /course /ampreceived /ISO-8859-1 Dsize /wrote /squad /ampDsize /confirmed /rolando /cQguJMarlon /Terrorism Meets /lol /boozing /onthisday /absmiddle /questions /access? 3D /background-color /I /verkar /Helena /achter /IRL /anren /0ptfamily /Arial /uppgifter /10 /138px REC0 /Shopping /gracias /3D /xmlns /observera /fala /po /xCanada /putatively Times /express /face /3D /ampstraight /E1 /ampl /n /3D /Buz /39 /desktop /face /Arial contents /charset /sudnly /jogos /vAlign /feature /Vamos /annars /ISO-8859-1 /or Gabriel /everyone /8748-3323 //repress crap /desimone&#39;s/ retour /ord /wichtig /deck /436 /In /owned /636363 swireless /iacute /privado /Did/ 22030 /facebook /s /deserves /summer /showers entfernt /likes /barclays /sega&#39;s/ After the unification of Lingnan region in the Qin Dynasty, the immigrants from the Central Plains moved in and formed the local culture with a unique style. With the outward movement of the Guangdong people, the Hakka and Cantonese languages, music, cuisine, opera and tea ceremony have been spread throughout the nation, Southeast Asia and other countries. The two special administrative regions of Hong Kong and Macao fall within the scope of Guangdong cultural influence, and Guangdong culture still has profound influences on the Chinese in Singapore and Malaysia. The new style used voices to emulate modern rock in Originally a sparsely populated area of farming and fishing villages, the territory has become one of the world&#39;s most significant financial centres and commercial ports. It is the world&#39;s tenth-largest exporter and ninth-largest importer, As one of the world&#39;s leading international financial centres, Hong Kong has a major capitalist service economy characterised by low taxation and free trade, and the currency, Hong Kong dollar, is the eighth most traded currency in the world. Hong Kong hosts the largest concentration of ultra high-net-worth individuals of any city in the world. Although the city has one of the highest per capita incomes in the world, there is severe income inequality. Hong Kong is a highly developed territory and ranks fourth on the UN Human Development Index. The lack of space caused demand for denser constructions, which developed the city to a centre for modern architecture and the world&#39;s most vertical city. The city also has the largest number of skyscrapers of any city in the world and its residents have some of the highest life expectancies in the world. The dense space also led to a highly developed transportation network with public transport rates exceeding 90 percent. Hong Kong ranks highly in numerous international financial and economic rankings. For instance, Hong Kong is rated third in the Global Financial Centre Index, behind New York City and London. Hong Kong also holds first place in an annual ranking of the world&rsquo;s most &ldquo;economically free&rdquo; countries, topping the chart for 25 years, according to the Heritage Foundation, a U.S. think tank.In 1941, during the Second World War, the British reached an agreement with the Chinese government under Generalissimo Chiang Kai-shek that if Japan attacked Hong Kong, the Chinese National Army would attack the Japanese from the rear to relieve pressure on the British garrison. On 8 December, the Battle of Hong Kong began when Japanese air bombers effectively destroyed British air power in one attack. Two days later, the Japanese breached the Gin Drinkers Line in the New Territories. The British commander, Major-General Christopher Maltby, concluded that the island could not be defended for long unless he withdrew his brigade from the mainland. On 18 December, the Japanese crossed Victoria Harbour. By 25 December, organised defence was reduced into pockets of resistance. Maltby recommended a surrender to Governor Sir Mark Young, who accepted his advice to reduce further losses. A day after the invasion, Chiang ordered three corps under General Yu Hanmou to march towards Hong Kong. The plan was to launch a New Year&#39;s Day attack on the Japanese in the Canton region, but before the Chinese infantry could attack, the Japanese had broken Hong Kong&#39;s defences. The British casualties were 2,232 killed or missing and 2,300 wounded. The Japanese reported 1,996 killed and 6,000 wounded. The Japanese soldiers committed atrocities, including rape, on many locals. The population fell in half, from 1.6 million in 1941 to 750,000 at war&#39;s end because of fleeing refugees; they returned in 1945. The Japanese imprisoned the ruling British colonial elite and sought to win over the local merchant gentry by appointments to advisory councils and neighbourhood watch groups. The policy worked well for Japan and produced extensive collaboration from both the elite and the middle class, with far less terror than in other Chinese cities. Hong Kong was transformed into a Japanese colony, with Japanese businesses replacing the British. However, the Japanese Empire had severe logistical difficulties and by 1943 the food supply for Hong Kong was problematic. The overlords became more brutal and corrupt, and the Chinese gentry became disenchanted. With the surrender of Japan, the transition back to British rule was smooth, for on the mainland the Nationalist and Communist forces were preparing for a civil war and ignored Hong Kong. In the long run the occupation strengthened the pre-war social and economic order among the Chinese business community by eliminating some conflicts of interests and reducing the prestige and power of the British. </span></body>
+</html>
+
+--e2c12abd4457cfe54ac6cb3eacaee397_ba6_14e16--

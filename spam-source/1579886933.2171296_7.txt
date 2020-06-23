@@ -1,0 +1,97 @@
+Return-Path: <SRS0=9oIuY2=3N=mail.foodlynoring.us=6929-9790-262549-1849-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 650 invoked from network); 24 Jan 2020 12:56:59 -0000
+Received: (qmail 17662 invoked from network); 24 Jan 2020 12:56:58 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 12:56:58 -0000
+Received: (qmail 7065 invoked by uid 48516); 24 Jan 2020 12:56:58 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 13081 invoked from network); 24 Jan 2020 12:56:58 -0000
+Received: from sioux.foodlynoring.us (proux32s.proactivecool.website [170.130.172.200])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 24 Jan 2020 12:56:58 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=foodlynoring.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Tinnitus@foodlynoring.us;
+ bh=b8YEiR+XzvsOPOSBL6rV8q/Jbzk=;
+ b=s8CEUsvKhQ19FSat2H8aiCPzvBmMJI0D+1KE7VEPDa4aVtyvFzD7Zg3yEAUHIeNV4pQ6qeAVS+o+
+   TXbdrOTiNXcXSjIbPJkhRRGGsrtvPwmkdA+ngjPGpHR08H6+oa9GCWQXaRzg9Tn0e2bfKOoPo+BM
+   hdLWR6FK/5dM6ZIg0vM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=foodlynoring.us;
+ b=c/EXCID/LkC0SOxHsW5fvGm9Hpr72P7sSgyGeEy4fyMmCOu07ruCoRZ5OJvskTCSPLzPf8H/R+dL
+   cdetlZ1CPBaN3Crmx/lqiA706fSC4wwllHvMHmg2ZsYsXcVuvpGD3geE3HRUj9Bx4Frjaet+rSeq
+   hakpfOdrUudVzIRYtLk=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="7be4e629bb5216851447253846858994_263e_40195"
+Date: Fri, 24 Jan 2020 07:46:46 -0500
+From: "Tinnitus" <Tinnitus@foodlynoring.us>
+Reply-To: "Listening Therapy" <ListeningTherapy@foodlynoring.us>
+Subject: And without hearing aids, ear flushing, surgery or risky medications.
+To: <bruce@untroubled.org>
+Message-ID: <92jeo2l6aoo7xdfy-4zdv0ulvn4cfr1si-263e-40195@foodlynoring.us>
+Content-Length: 9699
+
+--7be4e629bb5216851447253846858994_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+And without hearing aids, ear flushing, surgery or risky medications.
+
+http://foodlynoring.us/0E4uwqYTKGtVyTW7wtzAf1wgyRubKwbq0bQfUXa7Yvz3BB4R
+
+http://foodlynoring.us/2abrG0sK9fYbmc1VPI-MBfKdgGG2FnPnrcQoiTfkYWMHpDDd
+
+In the summer of 2003, the band went into a studio to write and record new material for a new album, tentatively titled Cigarettes and Valentines. After completing 20 tracks, the master recordings were stolen from the studio. Instead of re-recording the stolen tracks, the band decided to abandon the entire project and start over, considering the taken material to be unrepresentative of the band's best work. It was then revealed that a band called The Network was signed to Armstrong's record label Adeline Records with little fanfare and information. After the band, who concealed their identities with masks and costumes, released an album called Money Money 2020, it was rumored that The Network was a Green Day side project, due to the similarities in the bands' sounds. However, these rumors were never addressed by the band or Adeline Records, except for a statement on the Adeline website discussing an ongoing dispute between the two bands. The bands "feuded" via press releases and statements from Armstrong. Several journalists openly referred to the group as a Green Day side project, although it was not confirmed as such until 2013.
+
+
+Green Day live in Germany during the American Idiot tour.
+Green Day collaborated with Iggy Pop on two tracks for his album Skull Ring in November 2003. On February 1, 2004, a new song, a cover of "I Fought the Law" made its debut on a commercial for iTunes during NFL Super Bowl XXXVIII. American Idiot (2004), debuted at number one on the Billboard charts, the band's first album to reach number one, backed by the success of the album's first single, "American Idiot". The album was labeled as a punk rock opera which follows the journey of the fictitious "Jesus of Suburbia". The album depicts modern American life under the control of an idiot ruler who let people be misinformed by the media and a "redneck agenda". It gives different angles on an everyman, modern icons, and leaders. Released two months before U.S. President George W. Bush was reelected, the album became protest art. American Idiot won the 2005 Grammy for Best Rock Album. The band also won a total of seven out of eight awards for which the group was nominated, including the Viewer's Choice Award at the MTV Video Music Awards in 2005. The album went on to sell 6 million copies in the US.
+
+
+Green Day performing in New Jersey in 2005
+Through 2005, the band toured in support of the album with nearly 150 dates, which was the longest tour in the band's career, visiting Japan, Australia, South America and the United Kingdom. While touring for American Idiot, the group filmed and recorded the two concerts at the Milton Keynes National Bowl in England, which was voted "The Best Show On Earth" in a Kerrang! Magazine Poll. These recordings were released as a live CD and DVD called Bullet in a Bible on November 15, 2005. This CD/DVD featured songs from American Idiot as well as songs from all its previous albums, except Kerplunk and 1,039/Smoothed Out Slappy Hours. The DVD featured behind-the-scenes footage of the band, and showed how the band prepared to put on the show. The final shows of its 2005 world tour were in Sydney and Melbourne in Australia, on December 14 and 17, respectively.
+
+On August 1, 2005, Green Day announced that it had rescinded the master rights to its pre-Dookie material from Lookout! Records, citing a continuing breach of contract regarding unpaid royalties, a complaint shared with other Lookout! bands. On January 10, 2006, the band was awarded a People's Choice Award as favorite musical group or band.
+
+--7be4e629bb5216851447253846858994_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://foodlynoring.us/wiDF8OAXBjYcXBB96qiYushxrStmLoWBSC1eyLkaINAZRGYS"><img src="http://foodlynoring.us/509efecfea21f82616.jpg" /><img height="1" src="http://www.foodlynoring.us/vKOKfEBQWVVHykti6MLC8teBEJDTlBcsmpOjmDF5s5G5PqU" width="1" /></a>
+<div style="width:500px; padding:10px;font-family:Arial;">&nbsp;
+<div style="font-family:Arial;font-size:20px;padding:20px;"><a href="http://foodlynoring.us/0E4uwqYTKGtVyTW7wtzAf1wgyRubKwbq0bQfUXa7Yvz3BB4R"><b style="color:#5145BA">Scientists</b> at Washington University School of Medicine have recently discovered a powerful Tinnitus miracle...</a><br />
+<br />
+A cheap <b style="color:#5145BA">&quot;listening therapy&quot;</b> treatment that can biologically mute ear ringing and reverse chronic auditory issues...<br />
+<br />
+And treat the root cause of <b style="color:#5145BA">Tinnitus</b> once and for all! (something that pills or meds can NEVER do)<br />
+<br />
+It involves NO surgery, NO hearing aids, NO chemical-laden and NO expensive medications.<br />
+<br />
+<a href="http://foodlynoring.us/0E4uwqYTKGtVyTW7wtzAf1wgyRubKwbq0bQfUXa7Yvz3BB4R">Watch this new breakthrough treatment that will terminate Tinnitus for good.</a><br />
+<br />
+<a href="http://foodlynoring.us/0E4uwqYTKGtVyTW7wtzAf1wgyRubKwbq0bQfUXa7Yvz3BB4R"><img src="http://foodlynoring.us/ce5d2dd932df1142c5.jpg" /></a><br />
+<br />
+Over 29,752 tinnitus sufferers have tossed out their medical prescriptions and switched to this natural treatment.<br />
+<br />
+But you must hurry because Big Shot Manufacturers like Audibel and Amplisound are willing to spill blood to remove this short video from the site.<br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://foodlynoring.us/ZPngOYi7Ipj5_BWIvHkIVLnPFEstNsxmOGd1hsKU7mY0x2Lr"><img src="http://foodlynoring.us/aded35704c7c7c597e.jpg" /></a><br />
+<br />
+&nbsp;
+<p style="color:#FFFFFF;font-size:3px;">In the summer of 2003, the band went into a studio to write and record new material for a new album, tentatively titled Cigarettes and Valentines. After completing 20 tracks, the master recordings were stolen from the studio. Instead of re-recording the stolen tracks, the band decided to abandon the entire project and start over, considering the taken material to be unrepresentative of the band&#39;s best work. It was then revealed that a band called The Network was signed to Armstrong&#39;s record label Adeline Records with little fanfare and information. After the band, who concealed their identities with masks and costumes, released an album called Money Money 2020, it was rumored that The Network was a Green Day side project, due to the similarities in the bands&#39; sounds. However, these rumors were never addressed by the band or Adeline Records, except for a statement on the Adeline website discussing an ongoing dispute between the two bands. The bands &quot;feuded&quot; via press releases and statements from Armstrong. Several journalists openly referred to the group as a Green Day side project, although it was not confirmed as such until 2013. Green Day live in Germany during the American Idiot tour. Green Day collaborated with Iggy Pop on two tracks for his album Skull Ring in November 2003. On February 1, 2004, a new song, a cover of &quot;I Fought the Law&quot; made its debut on a commercial for iTunes during NFL Super Bowl XXXVIII. American Idiot (2004), debuted at number one on the Billboard charts, the band&#39;s first album to reach number one, backed by the success of the album&#39;s first single, &quot;American Idiot&quot;. The album was labeled as a punk rock opera which follows the journey of the fictitious &quot;Jesus of Suburbia&quot;. The album depicts modern American life under the control of an idiot ruler who let people be misinformed by the media and a &quot;redneck agenda&quot;. It gives different angles on an everyman, modern icons, and leaders. Released two months before U.S. President George W. Bush was reelected, the album became protest art. American Idiot won the 2005 Grammy for Best Rock Album. The band also won a total of seven out of eight awards for which the group was nominated, including the Viewer&#39;s Choice Award at the MTV Video Music Awards in 2005. The album went on to sell 6 million copies in the US. Green Day performing in New Jersey in 2005 Through 2005, the band toured in support of the album with nearly 150 dates, which was the longest tour in the band&#39;s career, visiting Japan, Australia, South America and the United Kingdom. While touring for American Idiot, the group filmed and recorded the two concerts at the Milton Keynes National Bowl in England, which was voted &quot;The Best Show On Earth&quot; in a Kerrang! Magazine Poll. These recordings were released as a live CD and DVD called Bullet in a Bible on November 15, 2005. This CD/DVD featured songs from American Idiot as well as songs from all its previous albums, except Kerplunk and 1,039/Smoothed Out Slappy Hours. The DVD featured behind-the-scenes footage of the band, and showed how the band prepared to put on the show. The final shows of its 2005 world tour were in Sydney and Melbourne in Australia, on December 14 and 17, respectively. On August 1, 2005, Green Day announced that it had rescinded the master rights to its pre-Dookie material from Lookout! Records, citing a continuing breach of contract regarding unpaid royalties, a complaint shared with other Lookout! bands. On January 10, 2006, the band was awarded a People&#39;s Choice Award as favorite musical group or band.</p>
+</div>
+</body>
+</html>
+
+--7be4e629bb5216851447253846858994_263e_40195--

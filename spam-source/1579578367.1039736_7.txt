@@ -1,0 +1,1025 @@
+Return-Path: <SRS0=9rJmIZ=3K=enemyfree.co=spite@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 4377 invoked from network); 21 Jan 2020 01:22:16 -0000
+Received: (qmail 13535 invoked from network); 21 Jan 2020 01:22:15 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Jan 2020 01:22:15 -0000
+Received: (qmail 27530 invoked by uid 48516); 21 Jan 2020 01:22:15 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 24666 invoked from network); 21 Jan 2020 01:22:14 -0000
+Received: from enemyfree.co ([80.253.246.187])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 21 Jan 2020 01:22:01 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=enemyfree.co;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=spite@enemyfree.co;
+ bh=XHYe1mgYd2pIJHTy9228c07DH+I=;
+ b=huKoiHNOgde9HWmPHUvLWyebJHydwRRs6Y2zvY1cWOz8KMEI7E9WRl8emkzIGy3cDeVpRAFbMzTR
+   XpMc/13HMps1snwJMwZNQYyA4takJ/LCOxplDteMOlCEC1Gl6Ax89VVGMP13Rozm+WUUCZigOaVj
+   t4Rl8IYFYz3rgECOaWs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=enemyfree.co;
+ b=BNDqFkPfwxR2E9j2PHGxv6QnFZcQW/2tw+fMfjylL9zbDdR0NRglZ+mHMSDroxve0XogXQEglQXo
+   DaIC3IhfxhzirHIXDz00p5mmzBjWtTSWM2q6kVeRwqBV7WlU2ZjWUy49moXCRQHFU+kL4DKbGahb
+   tmwAokYnfJ9F91qxpjw=;
+From: "Top Drone 2020" <spite@enemyfree.co>
+Date: Mon, 20 Jan 2020 20:16:48 -0500
+MIME-Version: 1.0
+Subject: Best affordable Drone out in 2020
+To: <bruce@untroubled.org>
+Message-ID: <rQFcuncy_eoooH3Q8YFaY3XfPeJ88jw4u0TaJtn9ji0.JssCa1sEkBMqKc9LjtiInNlwItXPmvGQeMYq_UrIOF4@enemyfree.co>
+Content-Type: multipart/alternative;
+ boundary="------------189355003135633325099804"
+Content-Length: 30749
+
+This is a multi-part message in MIME format.
+--------------189355003135633325099804
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+Representatives from some 77 agencies, rahms slingshot readership winnipeg cos including the military and the FBI, met for a closed-door briefing in the small town of Brush on Jan. 6. The group is not going to discuss the details of its inner workings, and is not planning to provide incremental updates on its activities, Ian Gregor, a Federal Aviation Administration spokesperson based in Los Angeles, told unction boom weigh martes considered shorten The Daily Beast. But we will inform the public about any important developments. The FAA has reached out to UAS test sites, drone companies, and companies that have authorization to operate drones in the area, but we have not been able to determine that any of these operators were the source of the reported drone flights, an FAA statement read.
+
+
+
+
+
+
+
+
+<http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E>
+
+
+
+
+
+
+
+
+
+
+
+
+<http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E>
+
+
+
+
+
+
+
+
+
+
+
+
+<http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E>
+
+
+
+
+
+
+
+
+
+
+
+
+<http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E>
+
+
+
+
+
+
+
+
+
+
+
+A marvel of engineering and design
+
+
+
+Mavic Air was built to go wherever adventure takes you. Inheriting the best of the Mavic series, this ultraportable and foldable drone features high-end flight performance and functionality for limitless exploration
+
+
+
+
+
+3-Axis Gimbal Camera
+
+
+
+The Mavic Air is the most portable DJI drone to house a 3-axis mechanical gimbal, with its angular vibration range reduced to 0.005. Set in a triangular formation, gimbal dampeners help create even steadier shots.
+
+
+
+
+
+32 MP Sphere Panoramas
+
+
+
+In addition to Horizontal, Vertical, and 180 panoramas, the Mavic Air stitches 25 photos together in just eight seconds to create crystal-clear 32 MP Sphere panoramas.1 View them from an immersive perspective with DJI Goggles.
+
+
+
+
+
+4K 100 Mbps Video
+
+
+
+The Mavic Air shoots video at an incredible 4K 30 fps, recording at 100 Mbps to capture every second with UHD quality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E>
+
+
+
+
+
+
+
+
+
+
+
+
+<http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E>
+
+
+
+
+
+
+
+
+
+
+
+
+<http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E>
+
+
+
+
+
+
+
+
+
+
+
+
+<http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E>
+
+
+
+
+
+
+
+
+
+
+
+Slow-Motion Video
+
+
+
+With support for recording 1080p 120 fps slow-motion video, the Mavic Air captures all your epic high-speed adventures.
+
+
+
+
+
+HDR Photos
+
+
+
+New HDR algorithms help you obtain the right exposure settings intelligently, according to lighting conditions. Overexposed or dark areas are processed for more natural transitions between highlights and shadows, while DSP acceleration allows for more efficient shooting.
+
+
+
+
+
+Geometric Elegance
+
+
+
+Expressing geometric precision, the Mavic Air's arms fold flush against its aerodynamic chassis. Magnesium alloy brackets reinforce the seven onboard cameras, rear vents dissipate heat efficiently, and the primary gimbal camera is recessed for better protection.
+
+
+
+
+
+3D Foldable Design
+
+
+
+As tall and wide as a smartphone when folded, the Mavic Air is an ultraportable drone that stretches the boundaries of what&#39;s possible for a device its size.
+
+
+
+
+
+
+
+
+
+
+
+
+
+GET IT NOW
+<http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All words on this page are an ad that was sent-to youIf you rather not get these anymore then please tell us onthis page
+<http://www.enemyfree.co/fpkdejdqh/E8fbtGQoW1q8LfX-yCTTZmQAM7ZtTQvaDZaSPinfxBdB1a4iqKeO4oR-xHlqKu2V4DzkRy2C5tq_4-XszxGt-6C5D949Srq-b_TsHqeKzNg.88y2RTshqEGgU9ZqxcOtKN1wfpbFzSC7Du8vmmwgVJ2>9864 State Street Duarte, CA 91010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------189355003135633325099804
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<p><span style="font-size:0.001px;"><span style="color:#DAA520;">Representatives from some 77 agencies, rahms slingshot readership winnipeg cos including the military and the FBI, met for a closed-door briefing in the small town of Brush on Jan. 6. &ldquo;The group is not going to discuss the details of its inner workings, and is not planning to provide incremental updates on its activities,&rdquo; Ian Gregor, a Federal Aviation Administration spokesperson based in Los Angeles, told unction boom weigh martes considered shorten The Daily Beast. &ldquo;But we will inform the public about any important developments.&rdquo; The FAA has reached out to UAS test sites, drone companies, and companies that have authorization to operate drones in the area, &ldquo;but we have not been able to determine that any of these operators were the source of the reported drone flights,&rdquo; an FAA statement read.</span></span></p>
+
+
+
+
+
+<center>
+
+
+<div amazon="" cel_widget_id="aplus-module-12" class="celwidget aplus-module module-12" data-cel-widget="aplus-module-12" style="box-sizing: border-box; min-width: 979px; padding-bottom: 12px; margin-bottom: 12px; color: rgb(17, 17, 17); font-family: ">
+
+
+<div aria-live="polite" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container" data-a-expander-collapsed-height="360" data-a-expander-name="aplus-module-expander" style="box-sizing: border-box; width: 980px; overflow: hidden; position: relative; max-height: 360px;">
+
+
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content" style="box-sizing: border-box; overflow: hidden; position: relative;">
+
+
+<div class="aplus-module-wrapper apm-spacing apm-floatnone" style="box-sizing: border-box; display: inline-block; float: none; zoom: 1;">
+
+
+<div class="apm-sidemodule aplus-module-content" style="box-sizing: border-box; margin: 0px auto; width: 970px; padding: 0px; position: relative; min-height: 300px;">
+
+
+<div class="apm-sidemodule-imageleft apm-hero-image" style="box-sizing: border-box; position: relative; left: 0px; float: none;"><a href="http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E"><img alt="" src="http://www.enemyfree.co/Anlbl/qodm31213amlkad/.jpeg" style="width: 970px; height: 300px;" /></a></div>
+
+
+</div>
+
+
+
+
+
+<div style="box-sizing: border-box; clear: both;">&nbsp;</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+<div amazon="" cel_widget_id="aplus-module-4" class="celwidget aplus-module module-4" data-cel-widget="aplus-module-4" style="box-sizing: border-box; min-width: 979px; padding-bottom: 12px; margin-bottom: 12px; color: rgb(17, 17, 17); font-family: ">
+
+
+<div aria-live="polite" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container" data-a-expander-collapsed-height="700" data-a-expander-name="aplus-module-expander" style="box-sizing: border-box; width: 980px; overflow: hidden; position: relative; max-height: 700px;">
+
+
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content" style="box-sizing: border-box; overflow: hidden; position: relative;">
+
+
+<div class="aplus-module-wrapper" style="box-sizing: border-box; display: inline-block;">
+
+
+<div .="" 000="" 000-word="" 18-month="" 1950="" 1964.="" 2014.="" a="" adhere="" after="" all="" also="" amicable="" amorous="" an="" and="" anderson="" angel="" anybody="" apparently="" as="" at="" auction="" auctioned="" avo="" baker="" battle="" be="" been="" before="" being="" bettern="" bode="" bringing="" bucket="" burk="" by="" california="" cam="" carries="" cassady="" cassadys="" children="" choke="" christies="" chronicle="" class="apm-spacing" commemorate="" completely="" considered="" constitution="" copyright="" described="" discarded="" dream="" dunno="" embarrassing="" emote="" end="" enough="" estate="" estimate="" ever="" exodus="" files="" first="" for="" francisco="" from="" golden="" good="" goose="" got="" greatest="" had="" handspring="" hang="" he="" heated="" helped="" his="" house="" how="" however="" i="" idea="" importantly="" in="" induced="" inspire="" intended="" intentionally="" it="" its="" jack="" jami="" joan="" kerouac="" known="" least="" legal="" letter="" letters="" lir="" listed="" lost="" make="" month="" mosque="" names="" neal="" new="" next="" now-defunct="" odorless="" of="" old="" on="" only="" opening="" or="" over="" owners.="" ownership.="" owns="" parties="" patch="" piece="" point="" point.="" publish="" published="" railway="" rambling="" reached="" real="" retyped="" road="" rye="" said="" said.="" sale="" san="" sealed="" secretarial="" seeing="" settlement.="" she="" small="" some="" sonar="" southern="" speak="" spin="" spokeswoman="" spontaneous="" striving="" style="box-sizing: border-box; float: left; zoom: 1;" surfaced="" suspended="" sweatshirt="" that="" the="" their="" they="" this="" three="" to="" told="" track="" typed="" was="" week="" were="" which="" whom="" wild="" will="" with="" woman="" writing="" wrote="">
+
+
+<div class="apm-floatleft apm-fixed-width" style="box-sizing: border-box; width: 969px; float: left;">
+
+
+<div class="a-spacing-extra-large" style="box-sizing: border-box; margin-bottom: 26px !important;">
+
+
+<div class="apm-spacing" style="box-sizing: border-box; float: left; zoom: 1;">
+
+
+<table class="apm-fixed-width a-spacing-mini apm-fourthcol-table" style="box-sizing: border-box; margin-bottom: 6px !important; border-collapse: collapse; width: 969px; border-spacing: 0px;">
+
+
+	<tbody style="box-sizing: border-box;">
+
+
+		<tr style="box-sizing: border-box;">
+
+
+			<th class="apm-center" style="box-sizing: border-box; vertical-align: middle; text-align: center; padding: 0px 30px 0px 0px; height: 266.875px; width: 220px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;"><a class="a-link-normal" href="http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E" rel="noopener" style="box-sizing: border-box; text-decoration-line: none; color: rgb(0, 102, 192);" target="_blank"><img alt="" src="http://www.enemyfree.co/Anlbl/qodm29769amlkad/.jpg" style="box-sizing: border-box; max-width: 100%; border: none; vertical-align: top; display: block; margin: 0px auto;" /></a></p>
+
+
+
+
+
+			<div class="a-text-center" style="box-sizing: border-box;">&nbsp;</div>
+
+
+
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;">&nbsp;</p>
+
+
+			</div>
+
+
+			</th>
+
+
+			<th class="apm-center" style="box-sizing: border-box; vertical-align: middle; text-align: center; padding: 0px 30px 0px 0px; height: 266.875px; width: 220px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;"><a class="a-link-normal" href="http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E" rel="noopener" style="box-sizing: border-box; text-decoration-line: none; color: rgb(0, 102, 192);" target="_blank"><img alt="" src="http://www.enemyfree.co/Anlbl/qodm29767amlkad/.jpg" style="box-sizing: border-box; max-width: 100%; border: none; vertical-align: top; display: block; margin: 0px auto;" /></a></p>
+
+
+
+
+
+			<div class="a-text-center" style="box-sizing: border-box;">&nbsp;</div>
+
+
+
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;">&nbsp;</p>
+
+
+			</div>
+
+
+			</th>
+
+
+			<th class="apm-center" style="box-sizing: border-box; vertical-align: middle; text-align: center; padding: 0px 30px 0px 0px; height: 266.875px; width: 220px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;"><a class="a-link-normal" href="http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E" rel="noopener" style="box-sizing: border-box; text-decoration-line: none; color: rgb(0, 102, 192);" target="_blank"><img alt="" src="http://www.enemyfree.co/Anlbl/qodm29778amlkad/.jpg" style="box-sizing: border-box; max-width: 100%; border: none; vertical-align: top; display: block; margin: 0px auto;" /></a></p>
+
+
+
+
+
+			<div class="a-text-center" style="box-sizing: border-box;">&nbsp;</div>
+
+
+
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;">&nbsp;</p>
+
+
+			</div>
+
+
+			</th>
+
+
+			<th class="apm-center" style="box-sizing: border-box; vertical-align: middle; text-align: center; padding: 0px; height: 266.875px; width: 220px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;"><a class="a-link-normal" href="http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E" rel="noopener" style="box-sizing: border-box; text-decoration-line: none; color: rgb(0, 102, 192);" target="_blank"><img alt="" src="http://www.enemyfree.co/Anlbl/qodm29776amlkad/.jpg" style="box-sizing: border-box; max-width: 100%; border: none; vertical-align: top; display: block; margin: 0px auto;" /></a></p>
+
+
+
+
+
+			<div class="a-text-center" style="box-sizing: border-box;">&nbsp;</div>
+
+
+
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;">&nbsp;</p>
+
+
+			</div>
+
+
+			</th>
+
+
+		</tr>
+
+
+		<tr style="box-sizing: border-box;">
+
+
+			<td class="apm-top" style="box-sizing: border-box; vertical-align: top; padding: 3px 3px 0px 0px; height: 171.094px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<h4 class="a-spacing-mini" style="box-sizing: border-box; padding: 0px; margin-top: 0px; margin-right: 0px; margin-left: 0px; text-rendering: optimizelegibility; font-size: 17px; line-height: 1.255; font-family: Arial, sans-serif; margin-bottom: 6px !important;">A marvel of engineering and design</h4>
+
+
+
+
+
+			<p class="a-size-small" style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px; font-size: 12px !important; line-height: 1.5 !important;">Mavic Air was built to go wherever adventure takes you. Inheriting the best of the Mavic series, this ultraportable and foldable drone features high-end flight performance and functionality for limitless exploration</p>
+
+
+			</div>
+
+
+			</td>
+
+
+			<td class="apm-top" style="box-sizing: border-box; vertical-align: top; padding: 3px 3px 0px; height: 171.094px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<h4 class="a-spacing-mini" style="box-sizing: border-box; padding: 0px; margin-top: 0px; margin-right: 0px; margin-left: 0px; text-rendering: optimizelegibility; font-size: 17px; line-height: 1.255; font-family: Arial, sans-serif; margin-bottom: 6px !important;">3-Axis Gimbal Camera</h4>
+
+
+
+
+
+			<p class="a-size-small" style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px; font-size: 12px !important; line-height: 1.5 !important;">The Mavic Air is the most portable DJI drone to house a 3-axis mechanical gimbal, with its angular vibration range reduced to 0.005&deg;. Set in a triangular formation, gimbal dampeners help create even steadier shots.</p>
+
+
+			</div>
+
+
+			</td>
+
+
+			<td class="apm-top" style="box-sizing: border-box; vertical-align: top; padding: 3px 3px 0px; height: 171.094px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<h4 class="a-spacing-mini" style="box-sizing: border-box; padding: 0px; margin-top: 0px; margin-right: 0px; margin-left: 0px; text-rendering: optimizelegibility; font-size: 17px; line-height: 1.255; font-family: Arial, sans-serif; margin-bottom: 6px !important;">32 MP Sphere Panoramas</h4>
+
+
+
+
+
+			<p class="a-size-small" style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px; font-size: 12px !important; line-height: 1.5 !important;">In addition to Horizontal, Vertical, and 180&deg; panoramas, the Mavic Air stitches 25 photos together in just eight seconds to create crystal-clear 32 MP Sphere panoramas.1 View them from an immersive perspective with DJI Goggles.</p>
+
+
+			</div>
+
+
+			</td>
+
+
+			<td class="apm-top" style="box-sizing: border-box; vertical-align: top; padding: 3px 0px 0px 3px; height: 171.094px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<h4 class="a-spacing-mini" style="box-sizing: border-box; padding: 0px; margin-top: 0px; margin-right: 0px; margin-left: 0px; text-rendering: optimizelegibility; font-size: 17px; line-height: 1.255; font-family: Arial, sans-serif; margin-bottom: 6px !important;">4K 100 Mbps Video</h4>
+
+
+
+
+
+			<p class="a-size-small" style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px; font-size: 12px !important; line-height: 1.5 !important;">The Mavic Air shoots video at an incredible 4K 30 fps, recording at 100 Mbps to capture every second with UHD quality.</p>
+
+
+			</div>
+
+
+			</td>
+
+
+		</tr>
+
+
+	</tbody>
+
+
+</table>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+<div style="box-sizing: border-box; clear: both;">&nbsp;</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+<div amazon="" cel_widget_id="aplus-module-4" class="celwidget aplus-module module-4" data-cel-widget="aplus-module-4" style="box-sizing: border-box; min-width: 979px; padding-bottom: 12px; margin-bottom: 12px; color: rgb(17, 17, 17); font-family: ">
+
+
+<div aria-live="polite" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container" data-a-expander-collapsed-height="700" data-a-expander-name="aplus-module-expander" style="box-sizing: border-box; width: 980px; overflow: hidden; position: relative; max-height: 700px;">
+
+
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content" style="box-sizing: border-box; overflow: hidden; position: relative;">
+
+
+<div class="aplus-module-wrapper" style="box-sizing: border-box; display: inline-block;">
+
+
+<div class="apm-spacing" style="box-sizing: border-box; float: left; zoom: 1;">
+
+
+<div class="apm-floatleft apm-fixed-width" style="box-sizing: border-box; width: 969px; float: left;">
+
+
+<div class="a-spacing-extra-large" style="box-sizing: border-box; margin-bottom: 26px !important;">
+
+
+<div class="apm-spacing" style="box-sizing: border-box; float: left; zoom: 1;">
+
+
+<table class="apm-fixed-width a-spacing-mini apm-fourthcol-table" style="box-sizing: border-box; margin-bottom: 6px !important; border-collapse: collapse; width: 969px; border-spacing: 0px;">
+
+
+	<tbody style="box-sizing: border-box;">
+
+
+		<tr style="box-sizing: border-box;">
+
+
+			<th class="apm-center" style="box-sizing: border-box; vertical-align: middle; text-align: center; padding: 0px 30px 0px 0px; height: 266.875px; width: 220px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;"><a class="a-link-normal" href="http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E" rel="noopener" style="box-sizing: border-box; text-decoration-line: none; color: rgb(0, 102, 192);" target="_blank"><img alt="" src="http://www.enemyfree.co/Anlbl/qodm29781amlkad/.jpg" style="box-sizing: border-box; max-width: 100%; border: none; vertical-align: top; display: block; margin: 0px auto;" /></a></p>
+
+
+
+
+
+			<div class="a-text-center" style="box-sizing: border-box;">&nbsp;</div>
+
+
+
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;">&nbsp;</p>
+
+
+			</div>
+
+
+			</th>
+
+
+			<th class="apm-center" style="box-sizing: border-box; vertical-align: middle; text-align: center; padding: 0px 30px 0px 0px; height: 266.875px; width: 220px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;"><a class="a-link-normal" href="http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E" rel="noopener" style="box-sizing: border-box; text-decoration-line: none; color: rgb(0, 102, 192);" target="_blank"><img alt="" src="http://www.enemyfree.co/Anlbl/qodm29782amlkad/.jpg" style="box-sizing: border-box; max-width: 100%; border: none; vertical-align: top; display: block; margin: 0px auto;" /></a></p>
+
+
+
+
+
+			<div class="a-text-center" style="box-sizing: border-box;">&nbsp;</div>
+
+
+
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;">&nbsp;</p>
+
+
+			</div>
+
+
+			</th>
+
+
+			<th class="apm-center" style="box-sizing: border-box; vertical-align: middle; text-align: center; padding: 0px 30px 0px 0px; height: 266.875px; width: 220px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;"><a class="a-link-normal" href="http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E" rel="noopener" style="box-sizing: border-box; text-decoration-line: none; color: rgb(0, 102, 192);" target="_blank"><img alt="" src="http://www.enemyfree.co/Anlbl/qodm29774amlkad/.jpg" style="box-sizing: border-box; max-width: 100%; border: none; vertical-align: top; display: block; margin: 0px auto;" /></a></p>
+
+
+
+
+
+			<div class="a-text-center" style="box-sizing: border-box;">&nbsp;</div>
+
+
+
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;">&nbsp;</p>
+
+
+			</div>
+
+
+			</th>
+
+
+			<th class="apm-center" style="box-sizing: border-box; vertical-align: middle; text-align: center; padding: 0px; height: 266.875px; width: 220px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;"><a class="a-link-normal" href="http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E" rel="noopener" style="box-sizing: border-box; text-decoration-line: none; color: rgb(0, 102, 192);" target="_blank"><img alt="" src="http://www.enemyfree.co/Anlbl/qodm29773amlkad/.jpg" style="box-sizing: border-box; max-width: 100%; border: none; vertical-align: top; display: block; margin: 0px auto;" /></a></p>
+
+
+
+
+
+			<div class="a-text-center" style="box-sizing: border-box;">&nbsp;</div>
+
+
+
+
+
+			<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px;">&nbsp;</p>
+
+
+			</div>
+
+
+			</th>
+
+
+		</tr>
+
+
+		<tr style="box-sizing: border-box;">
+
+
+			<td class="apm-top" style="box-sizing: border-box; vertical-align: top; padding: 3px 3px 0px 0px; height: 185.538px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<h4 class="a-spacing-mini" style="box-sizing: border-box; padding: 0px; margin-top: 0px; margin-right: 0px; margin-left: 0px; text-rendering: optimizelegibility; font-size: 17px; line-height: 1.255; font-family: Arial, sans-serif; margin-bottom: 6px !important;">Slow-Motion Video</h4>
+
+
+
+
+
+			<p class="a-size-small" style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px; font-size: 12px !important; line-height: 1.5 !important;">With support for recording 1080p 120 fps slow-motion video, the Mavic Air captures all your epic high-speed adventures.</p><br />
+<img src="http://www.enemyfree.co/cnqr8ykth/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E" >
+
+
+			</div>
+
+
+			</td>
+
+
+			<td class="apm-top" style="box-sizing: border-box; vertical-align: top; padding: 3px 3px 0px; height: 185.538px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<h4 class="a-spacing-mini" style="box-sizing: border-box; padding: 0px; margin-top: 0px; margin-right: 0px; margin-left: 0px; text-rendering: optimizelegibility; font-size: 17px; line-height: 1.255; font-family: Arial, sans-serif; margin-bottom: 6px !important;">HDR Photos</h4>
+
+
+
+
+
+			<p class="a-size-small" style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px; font-size: 12px !important; line-height: 1.5 !important;">New HDR algorithms help you obtain the right exposure settings intelligently, according to lighting conditions. Overexposed or dark areas are processed for more natural transitions between highlights and shadows, while DSP acceleration allows for more efficient shooting.</p>
+
+
+			</div>
+
+
+			</td>
+
+
+			<td class="apm-top" style="box-sizing: border-box; vertical-align: top; padding: 3px 3px 0px; height: 185.538px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<h4 class="a-spacing-mini" style="box-sizing: border-box; padding: 0px; margin-top: 0px; margin-right: 0px; margin-left: 0px; text-rendering: optimizelegibility; font-size: 17px; line-height: 1.255; font-family: Arial, sans-serif; margin-bottom: 6px !important;">Geometric Elegance</h4>
+
+
+
+
+
+			<p class="a-size-small" style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px; font-size: 12px !important; line-height: 1.5 !important;">Expressing geometric precision, the Mavic Air&#39;s arms fold flush against its aerodynamic chassis. Magnesium alloy brackets reinforce the seven onboard cameras, rear vents dissipate heat efficiently, and the primary gimbal camera is recessed for better protection.</p>
+
+
+			</div>
+
+
+			</td>
+
+
+			<td class="apm-top" style="box-sizing: border-box; vertical-align: top; padding: 3px 0px 0px 3px; height: 185.538px;">
+
+
+			<div class="apm-fourthcol" style="box-sizing: border-box; width: 220px; float: left;">
+
+
+			<h4 class="a-spacing-mini" style="box-sizing: border-box; padding: 0px; margin-top: 0px; margin-right: 0px; margin-left: 0px; text-rendering: optimizelegibility; font-size: 17px; line-height: 1.255; font-family: Arial, sans-serif; margin-bottom: 6px !important;">3D Foldable Design</h4>
+
+
+
+
+
+			<p class="a-size-small" style="box-sizing: border-box; padding: 0px; margin: 0px 0px 14px; font-size: 12px !important; line-height: 1.5 !important;">As tall and wide as a smartphone when folded, the Mavic Air is an ultraportable drone that stretches the boundaries of what&#39;s possible for a device its size.</p>
+
+
+			</div>
+
+
+			</td>
+
+
+		</tr>
+
+
+	</tbody>
+
+
+</table>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<h1 style="text-align: center;">&nbsp;</h1>
+
+
+
+
+
+<h1 style="text-align: center;"><a href="http://www.enemyfree.co/rhmvov/hpxeknw106980rnmwpsdjp/2JVgwmmv8uD7CSzFbpfw1NKtOcxqZ9UgGEqhsTR2y88/gNzKeqHsT_b-qrS949D5C6-tGxzsX-4_qt5C2yRkzD4V2uKqlHx-Ro4OeKqi4a1BdBxfniPSaZDavQTtZ7MAQmZTTCy-XfL8q1WoQGtbf8E"><strong>GET IT NOW</strong></a></h1>
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+<hr />
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</center>
+
+
+
+
+
+<hr />
+
+
+<p style="text-align: center;"><span style="color:#800000;"><strong style="box-sizing: inherit;">All words on this page are an ad that was sent-to you</strong>&nbsp;</span><br style="box-sizing: inherit;" />
+
+
+<br style="box-sizing: inherit;" />
+
+
+If you rather not get these anymore then please tell us on&nbsp;<a href="http://www.enemyfree.co/fpkdejdqh/E8fbtGQoW1q8LfX-yCTTZmQAM7ZtTQvaDZaSPinfxBdB1a4iqKeO4oR-xHlqKu2V4DzkRy2C5tq_4-XszxGt-6C5D949Srq-b_TsHqeKzNg.88y2RTshqEGgU9ZqxcOtKN1wfpbFzSC7Du8vmmwgVJ2" rel="nofollow" style="color: rgb(66, 133, 245); box-sizing: inherit; text-decoration-line: none;" target="_blank">this page</a>&nbsp;<br style="box-sizing: inherit;" />
+
+
+9864 State Street Duarte, CA 91010</p>
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+</body>
+</html>
+
+--------------189355003135633325099804--

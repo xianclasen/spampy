@@ -1,0 +1,114 @@
+Return-Path: <SRS0=ZldXle=2X=mail.medifeet.best=5707-9790-262549-1536-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12807 invoked from network); 2 Jan 2020 14:47:58 -0000
+Received: (qmail 10449 invoked from network); 2 Jan 2020 14:47:57 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 14:47:57 -0000
+Received: (qmail 8292 invoked by uid 48516); 2 Jan 2020 14:47:56 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 25704 invoked from network); 2 Jan 2020 14:47:56 -0000
+Received: from athens.medifeet.best (client-23-254-229-146.hostwindsdns.com [23.254.229.146])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 02 Jan 2020 14:47:46 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=medifeet.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=StopSnoring@medifeet.best;
+ bh=uXqAIY9/hUAjSzOe3lRkS9Wp798=;
+ b=g7ZKyWJrnghDMJaN3nXRxD7gaJCVI4TJlqHA/GC8PqDgIlXeARQNrxq3TzSV6mlR/0VgZTQE1qLl
+   Xs6fdIoP+qRkkMGGbuF30fghDznahS+leXa1nQ9qRrw1poC2b+Md77yVy5fDHRZ+b1+Jlp5hFlYu
+   EZ4LdQdY9/ieek6/TA4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=medifeet.best;
+ b=N3KO3BiwmAfYdDFH5SpzRMdrUWkLEFhPAuUDlU32S0brfkpzzRusnf4qoUwJnxpqlgy60lthAQzh
+   yzmu5210QjPxVTbiekBoq7UaATVdLiApBDj/nYpCk2/CF8rTvKsWmcQeRSdDxpllfG7LPoIetRLi
+   0GKn6kEhbInRZxmaNj8=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="e69382c45511a5bb1a02502cf902b341_263e_40195"
+Date: Thu, 2 Jan 2020 09:46:46 -0500
+From: "**Stop Snoring**" <StopSnoring@medifeet.best>
+Reply-To: "**Stop Snoring**" <StopSnoring@medifeet.best>
+Subject: The Stop Snoring And Sleep Apnea Program
+To: <bruce@untroubled.org>
+Message-ID: <3nms00vhl5yk07ha-bk6e965inhv0j3it-40195@medifeet.best>
+Content-Length: 6421
+
+--e69382c45511a5bb1a02502cf902b341_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+The Stop Snoring And Sleep Apnea Program
+http://medifeet.best/rfKm8rTElIq_4EeFDRL_94n6F5P6zKYmGo5zEHalz7b_v4pT
+
+http://medifeet.best/9Xj651xvZalP9_Wef4v8uQtMbPrBwe_YHTvUxXEToiPTabUT
+
+There are also many other descriptive terms, often with very specialized usage and confined to specific taxonomic groups. The conspicuousness of veins depends on a number of features. These include the width of the veins, their prominence in relation to the lamina surface and the degree of opacity of the surface, which may hide finer veins. In this regard, veins are called obscure and the order of veins that are obscured and whether upper, lower or both surfaces, further specified.
+
+Terms that describe vein prominence include bullate, channelled, flat, guttered, impressed, prominent and recessed (Fig. 6.1 Hawthorne & Lawrence 2013). Veins may show different types of prominence in different areas of the leaf. For instance Pimenta racemosa has a channelled midrib on the upper surfae, but this is prominent on the lower surface.
+
+Describing vein prominence:
+
+Bullate
+    Surface of leaf raised in a series of domes between the veins on the upper surface, and therefore also with marked depressions. e.g. Rytigynia pauciflora, Vitis vinifera
+Channelled (canalicululate)
+    Veins sunken below the surface, resulting in a rounded channel. Sometimes confused with "guttered" because the channels may function as gutters for rain to run off and allow drying, as in many Melastomataceae. e.g. (see) Pimenta racemosa (Myrtaceae), Clidemia hirta (Melastomataceae).
+Guttered
+    Veins partly prominent, the crest above the leaf lamina surface, but with channels running along each side, like gutters
+Impressed
+    Vein forming raised line or ridge which lies below the plane of the surface which bears it, as if pressed into it, and are often exposed on the lower surface. Tissue near the veins often appears to pucker, giving them a sunken or embossed appearance
+Obscure
+    Veins not visible, or not at all clear; if unspecified, then not visible with the naked eye. e.g. Berberis gagnepainii. In this Berberis, the veins are only obscure on the undersurface.
+Prominent
+    Vein raised above surrounding surface so to be easily felt when stroked with finger. e.g. (see) Pimenta racemosa, Spathiphyllum cannifolium
+
+--e69382c45511a5bb1a02502cf902b341_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<div style="width:550px; text-align:left;">&nbsp;
+<h2>Today is a good day. Tonight will be even better.</h2>
+<b>Why?</b><br />
+<br />
+<a href="http://medifeet.best/rfKm8rTElIq_4EeFDRL_94n6F5P6zKYmGo5zEHalz7b_v4pT"><img src="http://medifeet.best/8568d00ac644ac7486.jpg" /></a><br />
+<br />
+Because you&#39;re about to learn easy throat exercises that cure (not just treated) <a href="http://medifeet.best/rfKm8rTElIq_4EeFDRL_94n6F5P6zKYmGo5zEHalz7b_v4pT"><b>your stubborn snoring &ndash; in 3 minutes &ndash; starting TONIGHT!</b></a><br />
+&hellip;even if straps, sprays and even torturing CPAP masks have failed you in the past.<br />
+<br />
+Most people heal their snoring in just a few minutes per day using these powerful throat exercises.<br />
+<br />
+And they&#39;re so easy, you can do them, regardless of your age or physical shape.<br />
+<br />
+Use them anytime, anywhere&hellip; even while stuck in traffic or watching TV.<br />
+<br />
+Plus the results are permanent!<br />
+<br />
+<a href="http://medifeet.best/rfKm8rTElIq_4EeFDRL_94n6F5P6zKYmGo5zEHalz7b_v4pT"><b>To learn more and test-drive the easy snoring and sleep apnea exercises for yourself, click here...</b></a><br />
+<br />
+<br />
+<a href="http://medifeet.best/rfKm8rTElIq_4EeFDRL_94n6F5P6zKYmGo5zEHalz7b_v4pT"><img src="http://medifeet.best/f0adf5546272733a4a.jpg" style="width:500px;" /></a><br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:white;">There are also many other descriptive terms, often with very specialized usage and confined to specific taxonomic groups. The conspicuousness of veins depends on a number of features. These include the width of the veins, their prominence in relation to the lamina surface and the degree of opacity of the surface, which may hide finer veins. In this regard, veins are called obscure and the order of veins that are obscured and whether upper, lower or both surfaces, further specified. Terms that describe vein prominence include bullate, channelled, flat, guttered, impressed, prominent and recessed (Fig. 6.1 Hawthorne &amp; Lawrence 2013). Veins may show different types of prominence in different areas of the leaf. For instance Pimenta racemosa has a channelled midrib on the upper surfae, but this is prominent on the lower surface. Describing vein prominence: Bullate Surface of leaf raised in a series of domes between the veins on the upper surface, and therefore also with marked depressions. e.g. Rytigynia pauciflora, Vitis vinifera Channelled (canalicululate) Veins sunken below the surface, resulting in a rounded channel. Sometimes confused with &quot;guttered&quot; because the channels may function as gutters for rain to run off and allow drying, as in many Melastomataceae. e.g. (see) Pimenta racemosa (Myrtaceae), Clidemia hirta (Melastomataceae). Guttered Veins partly prominent, the crest above the leaf lamina surface, but with channels running along each side, like gutters Impressed Vein forming raised line or ridge which lies below the plane of the surface which bears it, as if pressed into it, and are often exposed on the lower surface. Tissue near the veins often appears to pucker, giving them a sunken or embossed appearance Obscure Veins not visible, or not at all clear; if unspecified, then not visible with the naked eye. e.g. Berberis gagnepainii. In this Berberis, the veins are only obscure on the undersurface. Prominent Vein raised above surrounding surface so to be easily felt when stroked with finger. e.g. (see) Pimenta racemosa, Spathiphyllum cannifolium</span><br />
+<br />
+<br />
+<a href="http://medifeet.best/kN2jRYlYJ75lUTUkZ9LJTAXvmmj4OnH1-9KITXz9qMoMG80"><img src="http://medifeet.best/87ba0dbb3f00e8366e.jpg" /></a><br />
+&nbsp;</body>
+</html>
+
+--e69382c45511a5bb1a02502cf902b341_263e_40195--

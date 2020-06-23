@@ -1,0 +1,73 @@
+Return-Path: <bigboy102@start.com.au>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3768 invoked from network); 16 Jan 2020 05:50:38 -0000
+Received: (qmail 21745 invoked from network); 16 Jan 2020 05:50:37 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Jan 2020 05:50:37 -0000
+Received: (qmail 384 invoked by uid 48516); 16 Jan 2020 05:50:37 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 22480 invoked from network); 16 Jan 2020 05:50:37 -0000
+Received: from [113.201.50.214] ([113.201.50.214])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 16 Jan 2020 05:50:36 -0000
+Message-ID: <C2DB4FFF50566BE0F96DDD727449C2DB@RJPJHLN>
+From: <bigboy102@start.com.au>
+To: <bruce@untroubled.org>
+Subject: Interesting offer
+Date: 16 Jan 2020 20:37:41 +0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_003D_01D5CC73.01DA8C7E"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3508.1109
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3508.1109
+Content-Length: 1226
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_003D_01D5CC73.01DA8C7E
+Content-Type: text/plain;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+Hello!
+
+We are looking for employees working remotely.
+
+My name is Lacy, I am the personnel manager of a large International =
+company.
+Most of the work you can do from home, that is, at a distance.
+
+Salary is $3500-$8000.
+
+If you are interested in this offer, please visit=20
+Our Site
+
+Best regards!
+------=_NextPart_000_003D_01D5CC73.01DA8C7E
+Content-Type: text/html;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-FAMILY: 'Calibri'; COLOR: #000000; FONT-SIZE: 12pt">
+<DIV>Hello!<br>
+<br>
+We are looking for employees working remotely.<br>
+<br>
+My name is Lacy, I am the personnel manager of a large International =
+company.<br>
+Most of the work you can do from home, that is, at a distance.<br>
+<b>Salary is $3500-$8000.</b><br>
+<br>
+If you are interested in this offer, please visit <a =
+href=3D"http://vip.outpieter.vip/02my"><b>Our Site</b></a><br>
+<br>
+Best regards!<br></DIV></DIV></DIV></BODY></HTML>
+------=_NextPart_000_003D_01D5CC73.01DA8C7E--
+
+

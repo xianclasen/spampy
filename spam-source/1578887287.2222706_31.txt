@@ -1,0 +1,100 @@
+Return-Path: <SRS0=d1hohS=3B=leddlet.date=fungusremoving-spice-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 9669 invoked from network); 12 Jan 2020 18:04:10 -0000
+Received: (qmail 22150 invoked from network); 12 Jan 2020 18:04:10 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 18:04:10 -0000
+Received: (qmail 24956 invoked by uid 48516); 12 Jan 2020 18:04:09 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15915 invoked from network); 12 Jan 2020 18:04:09 -0000
+Received: from mail.leddlet.date (70-102-103-20.nca.lanset.com [70.102.103.20])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 12 Jan 2020 18:04:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=leddlet.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fungusremoving-spice@leddlet.date;
+ bh=pM/M7YTqLaZsw7n6j6Qs8CIQCoQ=;
+ b=Mpav+SqwIzITW1eRDNW5n6/5MvBuVK943P3Dg5Gxiefy4apZFLfIYQL9lHb1zAPURZSCe5p+5HVL
+   qQyg94Ht7kaidjw3Bh9QNqhZr1bSt8+tJPCsKEQrBR0MNyGe55tnYch4UlBIMM+xauHClyopDIcF
+   XCqYhkiR8VLEob3NTzs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=leddlet.date;
+ b=LJeWoMjLPdv9h7YZXkGc7guV/BW7nLK3AsSVl6ueGuI7jCXEmyuSVJAYMiGZPtjG/npCGplTT3fD
+   GyhuqlZJUmRd7e63bG5ljHi2+1YomVigz/tpjEVGs/g5iBK7LJh+QYzSe5RUA8CLunF3v+H0+nNn
+   QQgKcux5R3PVLpHTP1U=;
+Received: by mail.leddlet.date id h3dfpi0001ga for <bruce@untroubled.org>; Sun, 12 Jan 2020 12:57:47 -0500 (envelope-from <fungusremoving-spice-bruce=untroubled.org@leddlet.date>)
+Date: Sun, 12 Jan 2020 12:57:47 -0500
+From: "FungusRemoving Spice" <fungusremoving-spice@leddlet.date>
+To:   <bruce@untroubled.org>
+Subject: Doctors Can't Explain Why This Spice Fix Toenail Fungus
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_346_999634564.1578851853328"
+List-Unsubscribe: <http://www.leddlet.date/announcements-resynchronizing/80a5h2F395r8Wu912z1y1mjY1a1dB21KFv4GIf4rxvs4FhIHEsvZ10rQCRQKSo696my1Z0P5MzWHi>
+Message-ID: <0.0.0.25.1D5C971CC896C80.43B7BF@mail.leddlet.date>
+Content-Length: 6953
+
+------=_Part_346_999634564.1578851853328
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>obliges</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.leddlet.date/af74r2395lD86u12o72j08U1a1dm21UFv4GIf4rxvs4FhIHEsvZ10EQCRQKSo696H1KtA06ylHLLi/announcements-resynchronizing">End&nbsp; foot fungus with this only trick&nbsp; </a></span></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: 2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; height: 530px; "> 
+    <tbody> 
+     <tr> 
+      <td> 
+       <table border="1" cellpadding="0" cellspacing="0" style="font-family: &quot; Sans Serif&quot; , serif; font-size: 17px; height: 548px; " width="590"> 
+        <tbody> 
+         <tr> 
+          <td> 
+           <table border="0" cellpadding="5" cellspacing="5" style="height: 526px; " width="586"> 
+            <tbody> 
+             <tr> 
+              <td> 
+               <div style="font-family: &quot; Sans Serif&quot; ; font-size: 16px; "> 
+                <div style="color: rgb(0, 0, 0); line-height: normal; font-family: &quot; Sans Serif&quot; ; font-size: 12px; "> 
+                 <h1 style="margin: 20px 6px; color: rgb(34, 34, 34); line-height: 40px; font-family: &quot; Sans Serif&quot; ; font-size: 36px; box-sizing: border-box; text-align: center; "><span style="font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(0, 0, 0); "><strong>This Man Cured His Nail Fungus This Simple Trick (Watch Here)</strong></span></span></h1> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><a href="http://www.leddlet.date/af74r2395lD86u12o72j08U1a1dm21UFv4GIf4rxvs4FhIHEsvZ10EQCRQKSo696H1KtA06ylHLLi/announcements-resynchronizing"><img alt="stag" src="http://www.leddlet.date/unnatural-impulsive/6485c23J95b7KDa11Y720bY1a1dW21VFv4GIf4rxvs4FhIHEsvZ10NQCRQKSo697Cm1k0Fx6bUWHAi" style="width: 496px; height: 291px; " /></a></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(14, 14, 184); "><span style="font-size: 34px; font-family: &quot; Sans Serif&quot; ; "><strong><a href="http://www.leddlet.date/af74r2395lD86u12o72j08U1a1dm21UFv4GIf4rxvs4FhIHEsvZ10EQCRQKSo696H1KtA06ylHLLi/announcements-resynchronizing" style="color: rgb(14, 14, 184); ">{Watch Now}</a></strong></span></span></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                </div> 
+               </div> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <font color="#666666">Leave</font><a href="http://www.leddlet.date/d6d4r2395P8Q6k13mlN7209M1a1dB21eFv4GIf4rxvs4FhIHEsvZ10qQCRQKSo695tHA105FLJHi/winging-compacting"><font color="#666666"> Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font>
+    <br /> 
+    <br /> Opt out
+    <a href="http://www.leddlet.date/7734G2395rSi8913w7r2R0aq1a1dt21oFv4GIf4rxvs4FhIHEsvZ10XQCRQKSo697Gqn10KI5LMlHi/violin-opaque"> email Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+    <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 80918</span>
+    <br /> &nbsp; 
+   </div> <style></style><span></span><big></big><style></style>
+  </center>   
+ <img src="http://www.leddlet.date/lungs-demarcate/1y25G2K395U8z5Y12K720mcQ1a1dl21DFv4GIf4rxvs4FhIHEsvZ10PQCRQKSo696uOM10u6UBHiPT" alt=""/></body>
+</html>
+
+------=_Part_346_999634564.1578851853328--
+

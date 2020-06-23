@@ -1,0 +1,107 @@
+Return-Path: <SRS0=8pFiwN=3J=mail.tvwithketo.us=6693-2982-85526-1789-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14239 invoked from network); 20 Jan 2020 09:49:38 -0000
+Received: (qmail 7249 invoked from network); 20 Jan 2020 09:49:38 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Jan 2020 09:49:38 -0000
+Received: (qmail 12921 invoked by uid 48516); 20 Jan 2020 09:49:37 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 2884 invoked from network); 20 Jan 2020 09:49:37 -0000
+Received: from harvey.tvwithketo.us (proux32s.proactivecool.website [170.130.172.200])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 20 Jan 2020 09:49:31 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=tvwithketo.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=GuardMyGutterPartner@tvwithketo.us;
+ bh=a5MulnWTzVFdFEcTrqXj8LDtNrs=;
+ b=XCTuuZJt0dkcGsVBgFx2SlmY4PZ9eUoOhe9d1ejm4FZ78rRcPznD/Pc/mm+9VNlz3+uADD7XXGYX
+   9hh29Xt8hUPMPwoXOl8Vu7xBfDb07yjTvFpd6AEt8IpJ7zVFsZah2YNWvlV4JKv7S6uOjm2fawCa
+   ewOHGeF1/rVbMstY9No=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=tvwithketo.us;
+ b=kiYrJfE3+tJUcoCabZI0IA5gKLTDlm4jCGlFzwBi4a3JwlRmscYijjA/QzcHq36HtLTXDaUnqa0/
+   TWzlQNXovrwg1s2XV8MZLmxpddpvB0cuD4x52uL6FnT0YXhYXqPFzeqeDW25d1xbHJqjf0z4hWpM
+   2U0vxJNUbpCF+jaBc6k=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="2d6789e26d59ee409037e87aa6f0023e_ba6_14e16"
+Date: Mon, 20 Jan 2020 04:49:00 -0500
+From: "GuardMyGutter Partner" <GuardMyGutterPartner@tvwithketo.us>
+Reply-To: "GuardMyGutter Ad" <GuardMyGutterAd@tvwithketo.us>
+Subject: End Gutter Cleaning for life
+To: <bruce@untroubled.org>
+Message-ID: <v9wj6hqew9fxftdm-46bhu2xl6qxo1skh-ba6-14e16@tvwithketo.us>
+Content-Length: 7792
+
+--2d6789e26d59ee409037e87aa6f0023e_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+End Gutter Cleaning for life
+
+http://tvwithketo.us/vJDqIlsqqigPxoGZ4FkdGvFwVXz56U438h7LBWnImlyB82bK
+
+http://tvwithketo.us/s7DIvopptff3JXRwCyvGRKnjDIlS8YSeInE38kKSwiz4F9CI
+
+ The very first garden strawberry was grown in Brittany, France, during the late 18th century. Prior to this, wild strawberries and cultivated selections from wild strawberry species were the common source of the fruit.
+
+The strawberry fruit was mentioned in ancient Roman literature in reference to its medicinal use. The French began taking the strawberry from the forest to their gardens for harvest in the 14th century. Charles V, France's king from 1364 to 1380, had 1,200 strawberry plants in his royal garden. In the early 15th century western European monks were using the wild strawberry in their illuminated manuscripts. The strawberry is found in Italian, Flemish, and German art, and in English miniatures.[citation needed] The entire strawberry plant was used to treat depressive illnesses.
+
+By the 16th century, references of cultivation of the strawberry became more common. People began using it for its supposed medicinal properties and botanists began naming the different species. In England the demand for regular strawberry farming had increased by the mid-16th century.
+
+The combination of strawberries and cream was created by Thomas Wolsey in the court of King Henry VIII. Instructions for growing and harvesting strawberries showed up in writing in 1578. By the end of the 16th century three European species had been cited: F. vesca, F. moschata, and F. viridis. The garden strawberry was transplanted from the forests and then the plants would be propagated asexually by cutting off the runners.
+
+Two subspecies of F. vesca were identified: F. sylvestris alba and F. sylvestris semperflorens. The introduction of F. virginiana from Eastern North America to Europe in the 17th century is an important part of history because this species gave rise to the modern strawberry. The new species gradually spread through the continent and did not become completely appreciated until the end of the 18th century. When a French excursion journeyed to Chile in 1712, it introduced the North American strawberry plant with female flowers that resulted in the common strawberry that we have today.
+
+The Mapuche and Huilliche Indians of Chile cultivated the female strawberry species until 1551, when the Spanish came to conquer the land. In 1765, a European explorer recorded the cultivation of F. chiloensis, the Chilean strawberry. At first introduction to Europe, the plants grew vigorously but produced no fruit. It was discovered in 1766 that the female plants could only be pollinated by plants that produced large fruit: F. moschata, F. virginiana, and F. ananassa. This is when the Europeans became aware that plants had the ability to produce male-only or female-only flowers. As more large-fruit producing plants were cultivated the Chilean strawberry slowly decreased in population in Europe, except for around Brest where the Chilean strawberry thrived. The decline of the Chilean strawberry was caused by F. ananassa.
+
+--2d6789e26d59ee409037e87aa6f0023e_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://tvwithketo.us/WUa1fxOaYGZO5YZ0W7EhC1vaC1TZUGKm5xrZSrOKx4pjlCj7"><img src="http://tvwithketo.us/9e73404f61051371fa.jpg" /><img height="1" src="http://www.tvwithketo.us/ryB5-8vW6CmY4J_mK2kkH_iwaTgHCcZQz8nTUg1yGiS2gr-f" width="1" /></a>
+<center>
+<div><br />
+<br />
+<a href="http://tvwithketo.us/vJDqIlsqqigPxoGZ4FkdGvFwVXz56U438h7LBWnImlyB82bK" style="font-size:40px;font-family:Arial; color:#2323EE; text-decoration:none; text-shadow: 2px 2px #FF0000;"><span style="color:#00FF00;">End Gutter Cleaning for life</span></a><br />
+<br />
+<a href="http://tvwithketo.us/vJDqIlsqqigPxoGZ4FkdGvFwVXz56U438h7LBWnImlyB82bK"><img src="http://tvwithketo.us/2601d9aaf66c8c069f.png" /></a><br />
+<a href="http://tvwithketo.us/vJDqIlsqqigPxoGZ4FkdGvFwVXz56U438h7LBWnImlyB82bK"><img src="http://tvwithketo.us/9341986c4a08fba743.png" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://tvwithketo.us/4JkPCyiXxtCm4bevouq7OyPk7ELlGwKKzakNFaN2RXqP7RN3"><img src="http://tvwithketo.us/c2ff966021a58b4db7.png" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://tvwithketo.us/s7DIvopptff3JXRwCyvGRKnjDIlS8YSeInE38kKSwiz4F9CI"><img src="http://tvwithketo.us/f66662418697797190.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">The very first garden strawberry was grown in Brittany, France, during the late 18th century. Prior to this, wild strawberries and cultivated selections from wild strawberry species were the common source of the fruit. The strawberry fruit was mentioned in ancient Roman literature in reference to its medicinal use. The French began taking the strawberry from the forest to their gardens for harvest in the 14th century. Charles V, France&#39;s king from 1364 to 1380, had 1,200 strawberry plants in his royal garden. In the early 15th century western European monks were using the wild strawberry in their illuminated manuscripts. The strawberry is found in Italian, Flemish, and German art, and in English miniatures.[citation needed] The entire strawberry plant was used to treat depressive illnesses. By the 16th century, references of cultivation of the strawberry became more common. People began using it for its supposed medicinal properties and botanists began naming the different species. In England the demand for regular strawberry farming had increased by the mid-16th century. The combination of strawberries and cream was created by Thomas Wolsey in the court of King Henry VIII. Instructions for growing and harvesting strawberries showed up in writing in 1578. By the end of the 16th century three European species had been cited: F. vesca, F. moschata, and F. viridis. The garden strawberry was transplanted from the forests and then the plants would be propagated asexually by cutting off the runners. Two subspecies of F. vesca were identified: F. sylvestris alba and F. sylvestris semperflorens. The introduction of F. virginiana from Eastern North America to Europe in the 17th century is an important part of history because this species gave rise to the modern strawberry. The new species gradually spread through the continent and did not become completely appreciated until the end of the 18th century. When a French excursion journeyed to Chile in 1712, it introduced the North American strawberry plant with female flowers that resulted in the common strawberry that we have today. The Mapuche and Huilliche Indians of Chile cultivated the female strawberry species until 1551, when the Spanish came to conquer the land. In 1765, a European explorer recorded the cultivation of F. chiloensis, the Chilean strawberry. At first introduction to Europe, the plants grew vigorously but produced no fruit. It was discovered in 1766 that the female plants could only be pollinated by plants that produced large fruit: F. moschata, F. virginiana, and F. ananassa. This is when the Europeans became aware that plants had the ability to produce male-only or female-only flowers. As more large-fruit producing plants were cultivated the Chilean strawberry slowly decreased in population in Europe, except for around Brest where the Chilean strawberry thrived. The decline of the Chilean strawberry was caused by F. ananassa.</span></center>
+</body>
+</html>
+
+--2d6789e26d59ee409037e87aa6f0023e_ba6_14e16--

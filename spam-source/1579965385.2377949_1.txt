@@ -1,0 +1,118 @@
+Return-Path: <SRS0=ZDbXGS=3O=hotmail.com=goodmanweyk@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 31185 invoked from network); 25 Jan 2020 10:36:36 -0000
+Received: (qmail 31190 invoked from network); 25 Jan 2020 10:36:35 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 10:36:35 -0000
+Received: (qmail 32205 invoked by uid 48516); 25 Jan 2020 10:36:34 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 16078 invoked from network); 25 Jan 2020 10:36:33 -0000
+Received: from EUR01-VE1-obe.outbound.protection.outlook.com (mail-oln040092066014.outbound.protection.outlook.com [40.92.66.14])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 25 Jan 2020 10:36:33 -0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=R09oBmeNMlzzdprAltVsw77jFTjOgQyQltlC78oLmMGvWEMcv5AcjNZeliwLiZM/hX+07F+8P/K6EMmwd1KZ8J2MR/yU0tJMTwSq7fOkEZuVrPh5435ACfLxCBZ5COhhrJgfO/rC8VTWmmI4TpVzC1lEfu5LrxxI0r+Ldl+d6DO2cnFdJXNWWUC14nZ9VGrr/2AI28J9Ckaxu79ouJh/wsCwuNdU7OwYcZRMAeH44uWM7FVVPD6q5D3H7xDihJI092ldU69QlAz+xq4XPSI14A4u3zlYKBdJzfKrzqfjLO+/uhBLTDeztANU0RWtFbsPqtJXZcam+/RZ9qeuXOAU8g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=APoXkv7THK2GXz4c+SJUAWiDb7d6gZ5lHiQcSe4EEUU=;
+ b=jSZ1TSn/xXMs91FnWkNEGCYPSdBKdoZJtr/Ez5xachs24eE4/yN1Qv2Rpay4ttbcUGuM2pv/hj3lxbZlU7RE6vIBxe+VJMDORlB1weoVTIrp7jXtb9mLuuBn3M7o+tzvlW7tD7s9MIl8Blfs4rbvAvIRJnUxN3F3RAygjvo+E+K4ien0Wgn+zYnNSA9as3fE/8ILspbJ+R2+cbrZ+BRqD60Zdd8Dt8YHTdkiPSZiwzpKZBdRmpYSUwM2Epabf2pHJEr2sXnBv26TrnnrpQ9zZDSmEq/I0nUcHcdQLYVw2ws0dPlKk9QUWWwEfRTMbMyW9UTaRNqNPomA0nRo3tMYNg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=APoXkv7THK2GXz4c+SJUAWiDb7d6gZ5lHiQcSe4EEUU=;
+ b=pgshQhlkKRprokqwQGeqvXGLex0HUc/L1WbE20DaUkKZ20UIcQrKST3qfjRtLTe4DkB8xjDYzz1jzJPhWrTwu5zslPzFdxKzwwmz9BtAwRIPH9n/ZHHu3n7ozV+d+0a2glEGe6Ad5bdNzbBOCArXFFLi8G1G5hMQmWBanUoNtnQioIdzKzav3jzZc5a2SjrAwXIZWSInCKRVaXV5KuzvKQMXn4oJQUsT+sE9v3u2d9ddEnwRd1SVR6v/em/UIp3dacr97ahgGnBmj2z1IZ9RFnscuMuAmG7LbHDD7FB/Sgs53lfs2aLmPr36VcdCxtUixX2ehdUXwDvW2E/0CGcl7g==
+Received: from VE1EUR01FT060.eop-EUR01.prod.protection.outlook.com
+ (10.152.2.54) by VE1EUR01HT025.eop-EUR01.prod.protection.outlook.com
+ (10.152.3.83) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2665.18; Sat, 25 Jan
+ 2020 10:35:26 +0000
+Received: from CWXP265MB1448.GBRP265.PROD.OUTLOOK.COM (10.152.2.59) by
+ VE1EUR01FT060.mail.protection.outlook.com (10.152.3.93) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2665.18 via Frontend Transport; Sat, 25 Jan 2020 10:35:26 +0000
+Received: from CWXP265MB1448.GBRP265.PROD.OUTLOOK.COM
+ ([fe80::a4a3:8dda:57ad:3ca9]) by CWXP265MB1448.GBRP265.PROD.OUTLOOK.COM
+ ([fe80::a4a3:8dda:57ad:3ca9%7]) with mapi id 15.20.2665.017; Sat, 25 Jan 2020
+ 10:35:26 +0000
+From: Mark Stevenson <goodmanweyk@hotmail.com>
+Subject: PLEASE READ ATTACH LETTER   PLEASE READ ATTACH LETTER
+Thread-Topic: PLEASE READ ATTACH LETTER   PLEASE READ ATTACH LETTER
+Thread-Index: AQHV02qAZCVQ4uwqtEOfDvhazfaZSg==
+Date: Sat, 25 Jan 2020 10:35:26 +0000
+Message-ID: <CWXP265MB14485542B5405C1745FEE21CAE090@CWXP265MB1448.GBRP265.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-incomingtopheadermarker: OriginalChecksum:8CE30966B12011937C976135302DEB0DB011F6FC714319E5B6EBA8F982E6E80B;UpperCasedChecksum:B3B70508A7DAB4A4D9EAB764C35091545847A0831E678C35CD5874FA4C061E84;SizeAsReceived:42639;Count:41
+x-tmn: [PRFemQZShmxzNlpAF5TCHDQwDSyW1ko/]
+x-ms-publictraffictype: Email
+x-incomingheadercount: 41
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: fa81361e-43f1-4843-5e05-08d7a1824a76
+x-ms-traffictypediagnostic: VE1EUR01HT025:
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info: vdRsGj+VCRmw3G302YIYOAsRB02MzX4/7qDDkHsMqSN2hzGPy9VlHLtLBCkyXlxjWI3c/kR+T7FjiG/TTo78+0S/jmzuxfBipV+Xe03ai5qf+iK674dhCol8FqGJut1GRuscUqsUj9PSc+MyJxNd/c3yCgAXk99QfwE76AKnP8hL/vl2AMAYgIAj5xL7mwJq
+x-ms-exchange-antispam-messagedata: JIRikVWVDU/5Q5W0CAL3bN7DyewE6lU0EBlQsutO+WEV27VO9F77mAeJst6ogPYxLHzIg5IGMmpguqjVp/+fQcNWMT934j1ojiRaowGeJJ8d5d88A4YeNazQdH85T+Rpf4j4MoZA6HEH2XGIBlNoxw==
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/mixed;
+	boundary="_004_CWXP265MB14485542B5405C1745FEE21CAE090CWXP265MB1448GBRP_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: fa81361e-43f1-4843-5e05-08d7a1824a76
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-originalarrivaltime: 25 Jan 2020 10:35:26.0377
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VE1EUR01HT025
+Content-Length: 1516
+
+--_004_CWXP265MB14485542B5405C1745FEE21CAE090CWXP265MB1448GBRP_
+Content-Type: multipart/alternative;
+	boundary="_000_CWXP265MB14485542B5405C1745FEE21CAE090CWXP265MB1448GBRP_"
+
+--_000_CWXP265MB14485542B5405C1745FEE21CAE090CWXP265MB1448GBRP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+PLEASE READ ATTACH LETTER
+
+--_000_CWXP265MB14485542B5405C1745FEE21CAE090CWXP265MB1448GBRP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0);">
+PLEASE READ ATTACH LETTER&nbsp;<br>
+</div>
+</body>
+</html>
+
+--_000_CWXP265MB14485542B5405C1745FEE21CAE090CWXP265MB1448GBRP_--
+
+--_004_CWXP265MB14485542B5405C1745FEE21CAE090CWXP265MB1448GBRP_
+Content-Type: message/external-body; access-type=x-deleted; length=159577
+
+
+Content-Type: application/pdf; name="GOD LOVES A CHAREFUL GIVER.pdf"
+Content-Description: GOD LOVES A CHAREFUL GIVER.pdf
+Content-Disposition: attachment; filename="GOD LOVES A CHAREFUL GIVER.pdf";
+	size=118128; creation-date="Sat, 25 Jan 2020 10:30:46 GMT";
+	modification-date="Sat, 25 Jan 2020 10:31:01 GMT"
+Content-Transfer-Encoding: base64
+
+--_004_CWXP265MB14485542B5405C1745FEE21CAE090CWXP265MB1448GBRP_--

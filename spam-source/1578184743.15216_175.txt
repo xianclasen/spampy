@@ -1,0 +1,85 @@
+Return-Path: <SRS0=CB7Sz7=2Z=mail.aaircool.best=5803-2220-7607-1562-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 26898 invoked from network); 4 Jan 2020 09:03:28 -0000
+Received: (qmail 22731 invoked from network); 4 Jan 2020 09:03:27 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Jan 2020 09:03:27 -0000
+Received: (qmail 4861 invoked by uid 48516); 4 Jan 2020 09:03:27 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29748 invoked from network); 4 Jan 2020 09:03:27 -0000
+Received: from lima.aaircool.best (met6ods56.method8lunch.space [170.130.172.222])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 04 Jan 2020 09:03:26 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=aaircool.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Live-Show-Latin@aaircool.best;
+ bh=NbwQFJc2H4zYrdf5gCoKBxzxa3I=;
+ b=jadNo0zQzlOPae4bMkP4C0PMxF3m2T7EQdf4npYr10kdzZTuH+W2Q4IDmbh1ZNbKjUTuDwzdCg5t
+   43J2UxKjAElCH/vNAckcWzMWoSVIqhFftFGs4L61uvXpAqxSZI6kU1ULSlY5Me9SnYpcmWvBb+v3
+   AeZb+p61DR7MG4MUYEo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=aaircool.best;
+ b=iK0KPihY9DJ5b5Z56Dd9j3oAS49JNK7idZUHC+WAinEioZHm2DILFM7q5TFXw8srrKUGHYavU2Qm
+   ZSlVxn2+ndVtnqkPmq4QZiBEy06LAAYQW6L/BX7ahbbUyZGHz97EPsTBJZCXOLB2mSorXp6k+1mZ
+   prybhczmRELJCOyLoh8=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="97010fc2301b98f504c35bce98f78eed_8ac_1db7"
+Date: Sat, 4 Jan 2020 04:03:24 -0500
+From: "**Live Show Latin**" <Live-Show-Latin@aaircool.best>
+Reply-To: "Live Show Latin" <LiveShowLatin@aaircool.best>
+Subject: Latin broadcasters on our site are extremely attractive!
+To: <bruce@untroubled.org>
+Message-ID: <i6bu3mb0dtj4zapz-ywzvi3crncnjqguk-8ac-1db7@aaircool.best>
+Content-Length: 5343
+
+--97010fc2301b98f504c35bce98f78eed_8ac_1db7
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Latin broadcasters on our site are extremely attractive!
+
+http://aaircool.best/ZoxYlKm3gVTQkJrcSVo4rS7Eue3T8TYxI9GcBiOTrajuZXqu
+
+http://aaircool.best/g2NTAcRfUbQExG-ptfr9IkZv-WW-V5Mf83RN1DN33fMgeeRY
+
+SFWA participates in various trade shows and publishing industry events in the United States and abroad, including BookExpo America, the American Library Association Midwinter Conference, the USA Science & Engineering Festival, and several major (and minor) science fiction, fantasy and media conventions. SFWA holds a semi-annual business meeting at the World Science Fiction Convention (Worldcon) when it is held in North America, and at the North American Science Fiction Convention (NASFiC) otherwise.
+
+SFWA also hosts its own events, which include:
+
+    SFWA Nebula Conference: SFWA Nebula Conference is an annual conference during which a banquet is held and Nebula Award winners are announced and presented. Other Nebula Awards Weekend events include a semi-annual SFWA business meeting and a mass autographing session for member authors, which is open to the public. In recent years, an extensive program of panels and workshops for professional writers has been offered. SFWA Nebula Conference, and the earlier Nabula Awards Weekend have been held at different cities throughout the United States. It is held in a different location every two years. It will be held in Los Angeles, CA in 2020, the second year at that location.
+    The SFWA Reception in New York: SFWA has hosted an annual reception in New York to provide SFWA members the opportunity to meet and socialize with editors, agents, publicists, art directors and other publishing industry professionals. Over the years, the reception has gone by several names, including Authors and Editors, Mill and Swill, and the NY Reception. The event was put on hold in 2015 because of rising costs.
+    The SFWA Reading Series: A series of free quarterly events during which SFWA authors read or discuss their fiction with members of local communities. Currently held in Seattle, WA, Portland, OR, and Philadelphia, PA, but the program may soon expand to other areas.
+
+--97010fc2301b98f504c35bce98f78eed_8ac_1db7
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>&nbsp;
+<center><a href="http://aaircool.best/ZoxYlKm3gVTQkJrcSVo4rS7Eue3T8TYxI9GcBiOTrajuZXqu" style="font-size:20px; font-family:Arial;"><b>Latin broadcasters on our site are extremely attractive!</b></a><br />
+<br />
+<a href="http://aaircool.best/ZoxYlKm3gVTQkJrcSVo4rS7Eue3T8TYxI9GcBiOTrajuZXqu"><img src="http://aaircool.best/8f187e4224b9015f35.jpg" /></a><br />
+<br />
+<a href="http://aaircool.best/ZoxYlKm3gVTQkJrcSVo4rS7Eue3T8TYxI9GcBiOTrajuZXqu"><img src="http://aaircool.best/3e8f57f67f138deffd.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://aaircool.best/czSY59OQvYNlhIiixB33SIREvRHJzsxXutbfgd1Zqq1i4TpS"><img src="http://aaircool.best/fa29eb91fad521f63a.jpg" /></a></center>
+<span style="color:white;"> SFWA participates in various trade shows and publishing industry events in the United States and abroad, including BookExpo America, the American Library Association Midwinter Conference, the USA Science &amp; Engineering Festival, and several major (and minor) science fiction, fantasy and media conventions. SFWA holds a semi-annual business meeting at the World Science Fiction Convention (Worldcon) when it is held in North America, and at the North American Science Fiction Convention (NASFiC) otherwise. SFWA also hosts its own events, which include: SFWA Nebula Conference: SFWA Nebula Conference is an annual conference during which a banquet is held and Nebula Award winners are announced and presented. Other Nebula Awards Weekend events include a semi-annual SFWA business meeting and a mass autographing session for member authors, which is open to the public. In recent years, an extensive program of panels and workshops for professional writers has been offered. SFWA Nebula Conference, and the earlier Nabula Awards Weekend have been held at different cities throughout the United States. It is held in a different location every two years. It will be held in Los Angeles, CA in 2020, the second year at that location. The SFWA Reception in New York: SFWA has hosted an annual reception in New York to provide SFWA members the opportunity to meet and socialize with editors, agents, publicists, art directors and other publishing industry professionals. Over the years, the reception has gone by several names, including Authors and Editors, Mill and Swill, and the NY Reception. The event was put on hold in 2015 because of rising costs. The SFWA Reading Series: A series of free quarterly events during which SFWA authors read or discuss their fiction with members of local communities. Currently held in Seattle, WA, Portland, OR, and Philadelphia, PA, but the program may soon expand to other areas.</span></center>
+
+<center><a href="http://aaircool.best/g2NTAcRfUbQExG-ptfr9IkZv-WW-V5Mf83RN1DN33fMgeeRY"><img src="http://aaircool.best/6fa0c076791ee61e83.jpg" /></a></center>
+</body>
+</html>
+
+--97010fc2301b98f504c35bce98f78eed_8ac_1db7--

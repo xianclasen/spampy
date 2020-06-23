@@ -1,0 +1,156 @@
+Return-Path: <SRS0=J3Kv3u=3H=scumus.trade=blood-sugar-formula-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 22067 invoked from network); 18 Jan 2020 19:11:03 -0000
+Received: (qmail 20872 invoked from network); 18 Jan 2020 19:11:02 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Jan 2020 19:11:02 -0000
+Received: (qmail 335 invoked by uid 48516); 18 Jan 2020 19:11:01 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10674 invoked from network); 18 Jan 2020 19:11:01 -0000
+Received: from mail.scumus.trade ([193.201.140.144])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 18 Jan 2020 19:11:00 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=scumus.trade;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=blood-sugar-formula@scumus.trade;
+ bh=it9baQBHi07R7l4meymlR/wEg4k=;
+ b=yyeuyaZMyDyl6458s8YHkmNNno4z3OhChIxOGeSVFI+WH2QxC95dqTdsE49ulnPmf5AsiqZCHK0/
+   ezV8PhoOmOcTzdzOTjIX2pfvbDJeF7sJ2fVYZxRYrvEI56n0qMYAtuUAnSGVmhAxN7dOF5PB2seW
+   sf+woaYOWW4MTJiLbr0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=scumus.trade;
+ b=n/0DrCrDPUMnPd6/kC/oFk6DWVptoA+bSQ6QZLj0hvWFD6IYhK6p44Ldv9wXejvhcBwEN7FHRABw
+   sarzRhIAV1EO3VBofgeHCx1MlTmMMyyipmTjYrQakw5zZYmegeP+hx1ImjhMFcCHiqnonFwIKLhC
+   //umjLYXG3b+sLxJqV4=;
+Received: by mail.scumus.trade id h4dc4a0001gb for <bruce@untroubled.org>; Sat, 18 Jan 2020 14:05:59 -0500 (envelope-from <blood-sugar-formula-bruce=untroubled.org@scumus.trade>)
+Date: Sat, 18 Jan 2020 14:05:59 -0500
+From: "Blood Sugar Formula" <blood-sugar-formula@scumus.trade>
+To:   <bruce@untroubled.org>
+Subject: Doctors Are Shocked by New Breakthrough That Manages Diabetes & Blood Sugar
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_202_503433561.1579374341626"
+List-Unsubscribe: <http://www.scumus.trade/1b55h23l95i8yD913rR11UOln1a58l21YFv4GIf4rxvs4FhIHEsvZ10zQkRRQeob96HVK10_5ulHiU/hesitates-expressiveness>
+Message-ID: <0.0.0.16.1D5CE3252305A78.AEF23@mail.scumus.trade>
+Content-Length: 7503
+
+------=_Part_202_503433561.1579374341626
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>yearnings</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"letter-spacing: normal; text-indent: 0px; text-transform=
+: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; orphans: 2; widows: 2; font-family: =
+&quot; Sans Serif&quot; ; width: 565px; color: rgb(51, 51, 51); font-size: =
+13px; font-style: normal; font-weight: normal; white-space: normal; font-va=
+riant-ligatures: normal; font-variant-caps: normal; height: 421px; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 17px; height: 448px; " width=
+=3D"555">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 451px; " width=3D"551">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                 <div style=3D"color: rgb(0, 0, 0); line-height: normal; fo=
+nt-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                  <p><span style=3D"font-size:16px; "><span style=3D"font-f=
+amily:arial,helvetica,sans-serif; ">Watch this if you need to&nbsp; <span s=
+tyle=3D"color: black; "><span style=3D"color: rgb(0, 0, 255); "><a href=3D"=
+http://www.scumus.trade/3d14g2395vF86k11a732fV1a58u21YFv4GIf4rxvs4FhIHEsvZ10eQkRRQeob96FOn1J05KMLHi/hastened-nontransparent" style=3D"color: rgb(0, 0, 255); font-weight: bold; ">regulate y=
+our blood pressure</a></span></span>, your blood sugar, cholesterol, insuli=
+n resistance and you want your body to automatically and healthily drop exc=
+ess fat, fast? It will be the best time investment you can make in your hea=
+lth this year.</span></span></p>=20
+                  <p><span style=3D"font-family: &quot; Sans Serif&quot; ; =
+color: black; "><span style=3D"font-family: arial, sans-serif; font-size: 1=
+2.8px; font-style: normal; font-variant-ligatures: normal; font-variant-cap=
+s: normal; font-weight: 200; letter-spacing: normal; orphans: 2; text-align=
+: start; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: =
+rgb(255, 255, 255); color: rgb(0, 0, 0); "><span style=3D"font-size: 22px; =
+"><span style=3D"font-family: Times; "><span style=3D"line-height: 25.3px; =
+"><strong><span style=3D"font-family: arial, sans-serif; font-size: 12.8px;=
+ font-style: normal; font-variant-ligatures: normal; font-variant-caps: nor=
+mal; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-wi=
+dth: 0px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); "><spa=
+n style=3D"font-family: &quot; Sans Serif&quot; ; "><span style=3D"color: r=
+gb(0, 0, 255); "><a href=3D"http://www.scumus.trade/3d14g2395vF86k11a732fV1a58u21YFv4GIf4rxvs4FhIHEsvZ10eQkRRQeob96FOn1J05KMLHi/hastened-nontransparent"><img alt=3D"soda" src=3D"=
+http://www.scumus.trade/hastened-nontransparent/6846E2Z39y5j7ZaI12L7x332O1a58x21eFv4GIf4rxvs4FhIHEsvZ10QQkRRQeob97EXZ10jO6LqOAHi" style=3D"display: block; margin-left: auto; margin-right: auto; width: 3=
+94px; height: 273px; " /></a></span></span></span></strong></span></span></=
+span></span></span></p>=20
+                  <p><span style=3D"font-size:16px; "><span style=3D"font-f=
+amily:arial,helvetica,sans-serif; ">This 100% natural treatment, which&nbsp=
+; <span style=3D"color: black; "><span style=3D"color: rgb(0, 0, 255); "><a=
+ href=3D"http://www.scumus.trade/3d14g2395vF86k11a732fV1a58u21YFv4GIf4rxvs4FhIHEsvZ10eQkRRQeob96FOn1J05KMLHi/hastened-nontransparent" style=3D"color: rgb(0, 0, 255); font-weight: bold; ">n=
+aturally fights diabetes</a></span></span>, has stunned doctors &amp; got t=
+he attention of over 260,391 people to transform their lives.<br /> <br /> =
+If you or anyone you care about is suffering from diabetes you must&nbsp; <=
+span style=3D"color: black; "><span style=3D"color: rgb(0, 0, 255); "><a hr=
+ef=3D"http://www.scumus.trade/3d14g2395vF86k11a732fV1a58u21YFv4GIf4rxvs4FhIHEsvZ10eQkRRQeob96FOn1J05KMLHi/hastened-nontransparent" style=3D"color: rgb(0, 0, 255); font-weight: bold; ">watc=
+h this video today!</a></span></span></span></span></p>=20
+                 </div>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <center>=20
+    <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; ">
+     <br />=20
+     <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif">&nbsp; <font color=3D"#666666">Exit </font><a href=3D"=
+http://www.scumus.trade/a9d4F2395U8SN613S73l3R0F1a58g21EFv4GIf4rxvs4FhIHEsvZ10kQkRRQeob95dvG106djHkiq/hastened-nontransparent"><font color=3D"#666666">Here</font></a>.<br /> PureHealth Research |=
+ 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font><br /> <b=
+r /> stop&nbsp; <a href=3D"http://www.scumus.trade/22d6W2MZ395J8K9W13K7U3u31i1a58N21JFv4GIf4rxvs4FhIHEsvZ10LQkRRQeob97Nu1l0JM6QqXTHi/hesitates-expressiveness">Here</a></span>
+     <br />=20
+     <span style=3D"font-size:11px; "><span style=3D"color:#808080; ">13395=
+ Voyager Pkwy Ste 130 #634<br style=3D"caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal;=
+ font-weight: normal; letter-spacing: normal; orphans: auto; text-align: ce=
+nter; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span sty=
+le=3D"caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: nor=
+mal; font-weight: normal; letter-spacing: normal; text-align: center; text-=
+indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; =
+-moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; font-family: Helvetica; float: none; display: inline !important; "=
+>COLORADO SPRINGS CO 80921</span></span></span>
+     <br />=20
+     <br /> &nbsp;=20
+    </div> <font></font><big></big><font color="recommending"><style></style></font><small></small><font class="debauch"></font><span style="Taylorize"></span><font></font><span size="telephoning"></span><style></style>
+   </center>=20
+  </center>  =20
+ <img src=3D"http://www.scumus.trade/5935ry2395O8qK513cFv7333k1a58l21IFv4GIf4rxvs4FhIHEsvZ10EQkRRQeob95Kz10i5PjTHi/Serbians-defeated" alt=3D""/></body>
+</html>
+
+------=_Part_202_503433561.1579374341626--
+

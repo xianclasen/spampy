@@ -1,0 +1,97 @@
+Return-Path: <SRS0=gS97bH=24=mail.sciencnenatural.co=5970-2982-85526-1604-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12389 invoked from network); 7 Jan 2020 10:00:52 -0000
+Received: (qmail 7192 invoked from network); 7 Jan 2020 10:00:51 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 10:00:51 -0000
+Received: (qmail 16646 invoked by uid 48516); 7 Jan 2020 10:00:51 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 6850 invoked from network); 7 Jan 2020 10:00:50 -0000
+Received: from joliet.sciencnenatural.co (weelq23xb.weekarrow.site [170.130.172.213])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 07 Jan 2020 10:00:50 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=sciencnenatural.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=EvalastFireClip!@sciencnenatural.co;
+ bh=D0C7v0qervh71zOR6o1cnLBSFJI=;
+ b=EiLBeT+S6err/ekjkPc/9naY+42ybxK24O2TwPBk9mcBJZdO5VmCtPYPb6zs4FhtF3sSgx/YVGlG
+   yBCPORG/wtoCosJs+dh7xf0h8vS2+lZF2lw2wQS9Wa0NmEhVoCfXHlG4ukm90eljfZU6veHZor+D
+   JqvpRYUWFvbsnxp4YZ0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=sciencnenatural.co;
+ b=cn7eMxZBlgA7HyU9jFRPR5fL4J1+OBvTDlU7LSgR5yq7iwsZaRRRBxeUs58R/6laccR/C7DfBhA2
+   BJcK1+fh/7Tc9eofKYJ+/+tUBuCoLjclcNqHf7qZdJiIEx1DRKxBLm1yZNf5Zn7HJUz/J/vQLACv
+   +l559WMCSzkkouvWL3g=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="87d9e3b4cf03ce2a45518863d9cd4a22_ba6_14e16"
+Date: Tue, 7 Jan 2020 04:46:31 -0500
+From: "Evalast Fire Clip" <EvalastFireClip!@sciencnenatural.co>
+Reply-To: "Evalast Fire Clip" <EvalastFireClip!@sciencnenatural.co>
+Subject: It works, anywhere anytime, lit a fire easily.
+To: <bruce@untroubled.org>
+Message-ID: <aqioz4uspq6yj2xu-si3qzsaadtnnur8x-ba6-14e16@sciencnenatural.co>
+Content-Length: 7396
+
+--87d9e3b4cf03ce2a45518863d9cd4a22_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+It works, anywhere anytime, lit a fire easily.
+
+http://sciencnenatural.co/Z8RQWCRqp-TcKz4Mvyxg8P-DBb2bX3HBe21AAXr5DqNBk4je
+
+http://sciencnenatural.co/EnnNDd2fVqVZYBEndaVqcKblTnz0qTMM9HzL8xVg0yMR5j07
+
+Implemented in August 2010, the Hemlock-Canadice State Forest covers 6,684 acres (27.05 km2) that encompass the two western Finger Lakes, Hemlock and Canadice. These lakes have provided drinking water for the City of Rochester for more than 100 years. To protect water quality, the city acquired much of the property around the lakes. Over the decades, the land reforested, but a few traces of its past, such as stone walls or cottage foundations, remain. Today these two lakes, with their steep, forested, largely undeveloped shorelines and deep clear water, provide visitors a glimpse of the Finger Lakes of the past. The Department of Environmental Conservation (DEC) manages this State Forest for compatible public access for recreation, including fishing, hunting, nature study, boating and hiking. Activities in Hemlock-Canadice State Forest are subject the DEC's Rules and Regulations for the Use of State Lands, 6 NYCRR Part 190, as well as any other applicable state statutes, rules and regulations. These are sensitive areas because they protect public drinking water.
+
+Hemlock Lake is home to the state's oldest nesting bald eagle site, dating back to the early 1960s. The nesting bald eagles of Hemlock Lake have fostered a resurgence of bald eagles throughout New York State. Hemlock Lake, originally known as "O-Neh-Da" which is Seneca for "Lake of Hemlock Trees", is home to the nation's oldest sacramental winery, founded by Bishop McQuaid in 1872. Today, O-Neh-Da Vineyard continues to make premium natural pure grape wine for churches and foodies alike.
+Wine
+Main article: Finger Lakes AVA
+Sunrise overlooking a vineyard on Canandaigua Lake
+
+The Finger Lakes area is New York's largest wine-producing region. Over 100 wineries and vineyards are around Seneca, Cayuga, Canandaigua, Keuka, Conesus, and Hemlock Lakes. Because of the lakes' great depth, they provide a lake effect to the lush vineyards that flank their shores. Retaining residual summer warmth in the winter, and winter's cold in the spring, the grapes are protected from disastrous spring frost during shoot growth, and early frost before the harvest. The main grape varieties grown are Chardonnay, Riesling, Gewürztraminer, Pinot noir, Cabernet Franc, Vidal blanc, Seyval blanc and many Vitis labrusca (American native) varieties or cultivars.
+
+With the passage of the Farm Winery Act in 1976, numerous wineries are now open to visitors. Wineries are a growth industry of the region, contributing through their production and by attracting visitors. The Finger Lakes American Viticulture Area (AVA) includes two of America's oldest wineries, O-Neh-Da Vineyard (1872) on Hemlock Lake and The Pleasant Valley Wine Company (1860) on Keuka Lake.
+
+--87d9e3b4cf03ce2a45518863d9cd4a22_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+	<style type="text/css">.yesbutton, .yesbutton:focus, .yesbutton.kform, .yesbutton.kform:focus {font:bold 28px/40px "Montserrat", sans-serif}
+
+@media (max-width: 767px) {
+    .floatingbutton, .floatingbutton:focus {font-size: 19px!important;line-height:25px!important;}
+}
+	</style>
+</head>
+<body><br />
+<a href="http://sciencnenatural.co/r3Yq6cISjiFiaNQHpGraZYQNGmcjiz1-05pXSl6IIKNeqBLE"><img src="http://sciencnenatural.co/cd3d6c7be142c3e27d.jpg" /><img height="1" src="http://www.sciencnenatural.co/h9MRvl327uSIt06sOKPoZR-EhHUk-sJn-rYg2ePlnukcPDs6" width="1" /></a><br />
+<br />
+&nbsp;
+<center>
+<div style="width:500px; padding:10px;"><a href="http://sciencnenatural.co/Z8RQWCRqp-TcKz4Mvyxg8P-DBb2bX3HBe21AAXr5DqNBk4je" style="font-size:30px;font-family:Arial; color:blue; text-decoration:none;">It works, anywhere anytime, lit a fire easily.</a><br />
+<br />
+<a href="http://sciencnenatural.co/Z8RQWCRqp-TcKz4Mvyxg8P-DBb2bX3HBe21AAXr5DqNBk4je"><img src="http://sciencnenatural.co/4597b19b2a71192cc7.jpg" style="border: 2px solid #000000;" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sciencnenatural.co/l8bQfK6vJEG-zaIZlkJDol4Os11bI37JZArr6gkVhujCZIkj" target="_blank"><img src="http://sciencnenatural.co/4bb8463c9cd3847ead.jpg" /></a><br />
+<br />
+<span style="color:#FFFFFF;">Implemented in August 2010, the Hemlock-Canadice State Forest covers 6,684 acres (27.05 km2) that encompass the two western Finger Lakes, Hemlock and Canadice. These lakes have provided drinking water for the City of Rochester for more than 100 years. To protect water quality, the city acquired much of the property around the lakes. Over the decades, the land reforested, but a few traces of its past, such as stone walls or cottage foundations, remain. Today these two lakes, with their steep, forested, largely undeveloped shorelines and deep clear water, provide visitors a glimpse of the Finger Lakes of the past. The Department of Environmental Conservation (DEC) manages this State Forest for compatible public access for recreation, including fishing, hunting, nature study, boating and hiking. Activities in Hemlock-Canadice State Forest are subject the DEC&#39;s Rules and Regulations for the Use of State Lands, 6 NYCRR Part 190, as well as any other applicable state statutes, rules and regulations. These are sensitive areas because they protect public drinking water. Hemlock Lake is home to the state&#39;s oldest nesting bald eagle site, dating back to the early 1960s. The nesting bald eagles of Hemlock Lake have fostered a resurgence of bald eagles throughout New York State. Hemlock Lake, originally known as &quot;O-Neh-Da&quot; which is Seneca for &quot;Lake of Hemlock Trees&quot;, is home to the nation&#39;s oldest sacramental winery, founded by Bishop McQuaid in 1872. Today, O-Neh-Da Vineyard continues to make premium natural pure grape wine for churches and foodies alike. Wine Main article: Finger Lakes AVA Sunrise overlooking a vineyard on Canandaigua Lake The Finger Lakes area is New York&#39;s largest wine-producing region. Over 100 wineries and vineyards are around Seneca, Cayuga, Canandaigua, Keuka, Conesus, and Hemlock Lakes. Because of the lakes&#39; great depth, they provide a lake effect to the lush vineyards that flank their shores. Retaining residual summer warmth in the winter, and winter&#39;s cold in the spring, the grapes are protected from disastrous spring frost during shoot growth, and early frost before the harvest. The main grape varieties grown are Chardonnay, Riesling, Gew&uuml;rztraminer, Pinot noir, Cabernet Franc, Vidal blanc, Seyval blanc and many Vitis labrusca (American native) varieties or cultivars. With the passage of the Farm Winery Act in 1976, numerous wineries are now open to visitors. Wineries are a growth industry of the region, contributing through their production and by attracting visitors. The Finger Lakes American Viticulture Area (AVA) includes two of America&#39;s oldest wineries, O-Neh-Da Vineyard (1872) on Hemlock Lake and The Pleasant Valley Wine Company (1860) on Keuka Lake. </span></div>
+</center>
+</body>
+</html>
+
+--87d9e3b4cf03ce2a45518863d9cd4a22_ba6_14e16--

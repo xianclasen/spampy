@@ -1,0 +1,175 @@
+Return-Path: <SRS0=F3pTOM=3D=smtper.com=info@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12466 invoked from network); 14 Jan 2020 05:26:49 -0000
+Received: (qmail 32034 invoked from network); 14 Jan 2020 05:26:48 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 05:26:48 -0000
+Received: (qmail 30422 invoked by uid 48516); 14 Jan 2020 05:26:47 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 16062 invoked from network); 14 Jan 2020 05:26:47 -0000
+Received: from vps.syberhostingservers.com (vps.syberhostingservers.com [204.93.168.252])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 14 Jan 2020 05:26:47 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=sabrinasports.com; s=default; h=Message-ID:References:In-Reply-To:Reply-To:
+	Subject:To:From:Date:Content-Type:MIME-Version:Sender:Cc:
+	Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:
+	Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=QSgWEAFU8upwiIs0FcnYmTSSrWO4938nJquUIZqodvA=; b=NT2xEmI4TGu5Pwhj7OQuLX8f/
+	fd0wBkX4WpL1WcSqkv3ejRBRb89YjHOZqN+bYSO0kQsFylYOtwvUCAlEnl5d+OKgjVLgMOtFnAHKF
+	0OmWqHcSeOqDIh7NSMX1noihKHyCh/6CfSV6WPI9OJNkZqzylPVCn3Bbanz+NmmWweOhV7RaYKG1d
+	/IB1kp3O6G2iGNOXr/1NWMe5FgfnEdO962JObQe+omZEUkezkzUh52z+l6HqOVLvcmqv9uWgz/cKW
+	mFhWMlJM13lM++YYLui8vLUVBiUS/1Nv9hwNyz6hjeL120aDmzDWjY7/hO+VvSrRTLQnROnbBtiyj
+	kEZ0TC0yg==;
+Received: from [::1] (port=48556 helo=vps.syberhostingservers.com)
+	by vps.syberhostingservers.com with esmtpa (Exim 4.92)
+	(envelope-from <info@smtper.com>)
+	id 1irEa6-0000Rx-Lz; Tue, 14 Jan 2020 00:17:34 -0500
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_7e24a62df89b44185d9a8922d454e3b8"
+Date: Tue, 14 Jan 2020 00:17:33 -0500
+From: Laura <info@smtper.com>
+To: "Me <" <smtper@yahoo.com>
+Subject: Order Specification
+Reply-To: Laura <biz@boardss.de>
+Mail-Reply-To: Laura <biz@boardss.de>
+In-Reply-To: <e86ca572-50a7-43a1-81be-5c312f2db698@HE1PR05MB3210.eurprd05.prod.outlook.com>
+References: <e86ca572-50a7-43a1-81be-5c312f2db698@HE1PR05MB3210.eurprd05.prod.outlook.com>
+Message-ID: <72fff80ee4987d3f426d5a3bff742a72@smtper.com>
+X-Sender: info@smtper.com
+User-Agent: Roundcube Webmail/1.3.8
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vps.syberhostingservers.com
+X-AntiAbuse: Original Domain - untroubled.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - smtper.com
+X-Get-Message-Sender-Via: vps.syberhostingservers.com: authenticated_id: info@sabrinasports.com
+X-Authenticated-Sender: vps.syberhostingservers.com: info@sabrinasports.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 4953
+
+--=_7e24a62df89b44185d9a8922d454e3b8
+Content-Type: multipart/alternative;
+ boundary="=_eeffc2778a6f28a777ecbc0b73419d88"
+
+--=_eeffc2778a6f28a777ecbc0b73419d88
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset=UTF-8
+
+Dear Sir, 
+
+Further to the inquiry made late year by my colleague, 
+
+Please find attached our Order Specification for our new year order,
+please give us a good price. 
+
+Also, advice on the scheduled date for shipment.
+
+Kindly revert with your best offer and PI so we can proceed accordingly 
+
+We are carefully awaiting your prompt response. 
+
+Kind regards
+
+LAURA SCHELLHAMMER 
+
+Verkaufsinnendienst 
+
+Mövenpick Schweiz AG | Division| Oberneuhofstrasse 12 | CH-6340 Baar 
+
+Phone +41 41 79 17 75 | Fax +41 41 79 17 83 | www.moevenpick-wein.com
+[1] 
+
+This e-mail message and any accompanying documentation may contain
+confidential information intended for the addressee only. If you are not
+the
+addressee your use of this information is strictly prohibited. If you
+have received this e-mail in error please notify the sender immediately
+by reply e-mail
+and delete this e-mail from your systems. 
+
+  
+
+Links:
+------
+[1] http://www.moevenpick-wein.com/
+--=_eeffc2778a6f28a777ecbc0b73419d88
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: Verdana,Gen=
+eva,sans-serif'>
+<div class=3D"WordSection1">
+<p style=3D"font-weight: 400;">Dear Sir,</p>
+<p style=3D"font-weight: 400;">&nbsp;</p>
+<p style=3D"font-weight: 400;">Further to the inquiry made late year by my =
+colleague,</p>
+<p style=3D"font-weight: 400;">Please find attached our Order Specification=
+ for our new year order, please give us a good price.</p>
+<p style=3D"font-weight: 400;"><br /><span>Also, advice on the scheduled da=
+te for shipment.</span><br /><br /><span>Kindly revert with your best offer=
+ and PI so we can proceed accordingly&nbsp;</span><br /><br /><span>We are =
+carefully awaiting your prompt response.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size: 10.0pt; font-family: 'Aria=
+l',sans-serif; color: black; mso-fareast-language: EN-US;">&nbsp;</span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"font-size: 10.0pt; font-family: 'Aria=
+l',sans-serif; color: black; mso-fareast-language: EN-US;">Kind regards</sp=
+an></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color: black;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><strong><span style=3D"font-size: 9.0pt; font-family=
+: 'Arial',sans-serif; color: black;">Laura Schellhammer</span></strong><spa=
+n style=3D"color: black;"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size: 9.0pt; font-family: 'Arial=
+',sans-serif; color: black;">Verkaufsinnendienst</span><span style=3D"color=
+: black;"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size: 9.0pt; font-family: 'Arial=
+',sans-serif; color: black;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size: 9.0pt; font-family: 'Arial=
+',sans-serif; color: black;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size: 9.0pt; font-family: 'Arial=
+',sans-serif; color: black;">M&ouml;venpick Schweiz AG | Division| Oberneuh=
+ofstrasse 12 | CH-6340 Baar</span><span style=3D"color: black;"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size: 9.0pt; font-family: 'Arial=
+',sans-serif; color: black;">Phone +41 41 79 17 75 | Fax +41 41 79 17 83 |&=
+nbsp;</span><span style=3D"color: black;"><a href=3D"http://www.moevenpick-=
+wein.com/" target=3D"_blank" rel=3D"noopener noreferrer"><span style=3D"fon=
+t-size: 9.0pt; font-family: 'Arial',sans-serif;">www.moevenpick-wein.com</s=
+pan></a></span><span style=3D"color: black;"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size: 9.0pt; font-family: 'Arial=
+',sans-serif; color: navy;">&nbsp;</span><span style=3D"color: black;"></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"font-size: 7.0pt; font-family: 'Arial=
+',sans-serif; color: black;">This e-mail message and any accompanying docum=
+entation may contain confidential information intended for the addressee on=
+ly. If you are not the<br /> addressee your use of this information is stri=
+ctly prohibited. If you have received this e-mail in error please notify th=
+e sender immediately by reply e-mail<br /> and delete this e-mail from your=
+ systems.</span><span style=3D"color: black;"></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language: EN-US;">&nbsp;<=
+/span></p>
+</div>
+</body></html>
+
+--=_eeffc2778a6f28a777ecbc0b73419d88--
+
+--=_7e24a62df89b44185d9a8922d454e3b8
+Content-Type: message/external-body; access-type=x-deleted; length=17142
+
+
+Content-Transfer-Encoding: base64
+Content-Type: application/msword;
+ name="Order Speciciation.doc"
+Content-Disposition: attachment;
+ filename="Order Speciciation.doc";
+ size=12690
+
+--=_7e24a62df89b44185d9a8922d454e3b8--

@@ -1,0 +1,97 @@
+Return-Path: <SRS0=r5CqBl=25=mail.heatpad.co=6012-9790-262549-1614-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24714 invoked from network); 8 Jan 2020 08:35:45 -0000
+Received: (qmail 21622 invoked from network); 8 Jan 2020 08:35:45 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Jan 2020 08:35:45 -0000
+Received: (qmail 22543 invoked by uid 48516); 8 Jan 2020 08:35:44 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 13293 invoked from network); 8 Jan 2020 08:35:44 -0000
+Received: from freddy.heatpad.co (client-23-254-229-183.hostwindsdns.com [23.254.229.183])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 08 Jan 2020 08:35:44 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=heatpad.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=ColombianWoman@heatpad.co;
+ bh=mrz+uIoIcyj3kkgv4mJ35usGwtg=;
+ b=IaF3pOcKALq6SKwkk1MM/FCWx7O5Dka6zYWbmre/EEKjLpsuCbrnBp1JniUJA+Fqd9bQgu3LsymG
+   h0w0Oj25zQLVdZ02ssRXcClGIcivbkiiLZ8N1lpVooFUyxnxLVFaMl+etBWM1FDRjFurlezJhSTE
+   EIIlNlNp/TyoVsMtWfY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=heatpad.co;
+ b=L6thSLeGYemgIYTrPD6nb9GYPbYUIzZfersk1b/gpnS6fMiY48sbJKLgjNcVBHQ1OG2qfzH6/iQA
+   sZaDbUmuDsk37SdHjz1NEP8kNsH2TEbW8JPluwfEzG4q8ntOMQy9wYisRiI6vMuUT+XpNDAQSbSm
+   EvTF4vMGgbm+u8QIHnw=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="2ae4a8b229612f0ceb331e8561014a95_263e_40195"
+Date: Wed, 8 Jan 2020 03:35:10 -0500
+From: "Colombian Woman" <ColombianWoman@heatpad.co>
+Reply-To: "Colombian Woman" <ColombianWoman@heatpad.co>
+Subject: Interested in singles See photos!
+To: <bruce@untroubled.org>
+Message-ID: <1b0568b45f0v8vgw-l8ykvrxanzjonqit-263e-40195@heatpad.co>
+Content-Length: 5034
+
+--2ae4a8b229612f0ceb331e8561014a95_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Interested in singles See photos!
+
+http://heatpad.co/sINpQC6LyRX5Icneum9SDccz0R3-NB6C6ZwrLKHwrrLIgMso
+
+http://heatpad.co/w42IdIrmugjU6xsPKLb1KguFt4ApOR_zbJMYBoq59T5Tp8Q
+
+The political system of Russia is governed as a federal semi-presidential republic since 1993. Vladimir Putin has dominated Russia's political system since 2000, serving as either president or prime minister. His government is often characterized as authoritarian, where Russia has experienced democratic backsliding under his leadership. It is ranked 138 out of 180 countries in the 2018 Corruption Perceptions Index and 24 of 29 in the 2018 Nations in Transit Report by Freedom House, while being ranked 144th in the 2018 Democracy Index.
+
+Russia's economy ranks as the eleventh largest by nominal GDP and sixth largest by purchasing power parity in 2019. Russia's extensive mineral and energy resources are the largest such reserves in the world, making it one of the leading producers of oil and natural gas globally. The country is one of the five recognized nuclear weapons states and possesses the largest stockpile of weapons of mass destruction. Russia is a great power as well as a regional power and has been characterised as a potential superpower. It is a permanent member of the United Nations Security Council and an active global partner of ASEAN, as well as a member of the Shanghai Cooperation Organisation (SCO), the G20, the Council of Europe, the Asia-Pacific Economic Cooperation (APEC), the Organization for Security and Co-operation in Europe (OSCE), the International Investment Bank (IIB) and the World Trade Organization (WTO), as well as being the leading member of the Commonwealth of Independent States (CIS), the Collective Security Treaty Organization (CSTO) and one of the five members of the Eurasian Economic Union (EAEU), along with Armenia, Belarus, Kazakhstan and Kyrgyzstan.
+
+--2ae4a8b229612f0ceb331e8561014a95_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://heatpad.co/sINpQC6LyRX5Icneum9SDccz0R3-NB6C6ZwrLKHwrrLIgMso" style="font-size:26px;font-family:Calibri; color:#fa0202; text-decoration:none;">Interested in singles See photos!</a><br />
+&nbsp;
+<div style="border:5px #fa0202; width:600px;border-style: double;"><a href="http://heatpad.co/sINpQC6LyRX5Icneum9SDccz0R3-NB6C6ZwrLKHwrrLIgMso"><img src="http://heatpad.co/0db90557f8db96dc0d.jpg" /><br />
+<img src="http://heatpad.co/17d24d4b0966b26ab0.jpg" /><br />
+<img src="http://heatpad.co/f4bb2566e01950c291.jpg" /> </a></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://heatpad.co/NQxXSU2cywIPIWTWTGiB7zNSj4GWwYrhrDJF2r6FGYSczcXy"><img src="http://heatpad.co/e3fbff9174bfb08b8d.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://heatpad.co/w42IdIrmugjU6xsPKLb1KguFt4ApOR_zbJMYBoq59T5Tp8Q"><img src="http://heatpad.co/4052316f05ad098940.jpg" /></a></div>
+<span style="color:#FFFFFF;font-size:6px;">The political system of Russia is governed as a federal semi-presidential republic since 1993. Vladimir Putin has dominated Russia&#39;s political system since 2000, serving as either president or prime minister. His government is often characterized as authoritarian, where Russia has experienced democratic backsliding under his leadership. It is ranked 138 out of 180 countries in the 2018 Corruption Perceptions Index and 24 of 29 in the 2018 Nations in Transit Report by Freedom House, while being ranked 144th in the 2018 Democracy Index. Russia&#39;s economy ranks as the eleventh largest by nominal GDP and sixth largest by purchasing power parity in 2019. Russia&#39;s extensive mineral and energy resources are the largest such reserves in the world, making it one of the leading producers of oil and natural gas globally. The country is one of the five recognized nuclear weapons states and possesses the largest stockpile of weapons of mass destruction. Russia is a great power as well as a regional power and has been characterised as a potential superpower. It is a permanent member of the United Nations Security Council and an active global partner of ASEAN, as well as a member of the Shanghai Cooperation Organisation (SCO), the G20, the Council of Europe, the Asia-Pacific Economic Cooperation (APEC), the Organization for Security and Co-operation in Europe (OSCE), the International Investment Bank (IIB) and the World Trade Organization (WTO), as well as being the leading member of the Commonwealth of Independent States (CIS), the Collective Security Treaty Organization (CSTO) and one of the five members of the Eurasian Economic Union (EAEU), along with Armenia, Belarus, Kazakhstan and Kyrgyzstan. </span></center>
+</body>
+</html>
+
+--2ae4a8b229612f0ceb331e8561014a95_263e_40195--

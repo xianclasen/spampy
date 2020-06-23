@@ -1,0 +1,81 @@
+Return-Path: <SRS0=1UMIsP=23=fusaul.date=offers.ultra.wifi.pro-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 25087 invoked from network); 6 Jan 2020 15:23:27 -0000
+Received: (qmail 1529 invoked from network); 6 Jan 2020 15:23:26 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 15:23:26 -0000
+Received: (qmail 20971 invoked by uid 48516); 6 Jan 2020 15:23:25 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 22907 invoked from network); 6 Jan 2020 15:23:25 -0000
+Received: from mail.fusaul.date (208-187-163-97.nca.datanoc.com [208.187.163.97])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 06 Jan 2020 15:23:24 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=fusaul.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers.ultra.wifi.pro@fusaul.date;
+ bh=lvsYLQA2Qy1+wF83FYlolqRH3FM=;
+ b=cKpjxlwZudvOPWX8tWaJTPrtrgLQIxDsy1u7e4kHbLxYaDSfjFmc4JDA++m8JDzGMthef09ogMZO
+   +cS7UtRmzFywErFvRjuAxQe0//RFuKivt45BmPQb8cW/bw1Kl1XGt5BMIZKP/OLbGxob7m426q7Q
+   l5pWV16iho+E3PjWmyU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=fusaul.date;
+ b=fy/86KKBRK6qDS1tq1QEbkorv6tsEM/arejT2nG21OPFmdGQ1wyVLed/wprdxQSW8EGEuTmL2asv
+   JuYv4Nb+znbk7mMaaDCEhcPfbBw/0FmrGT2yiMXUkv8UE8tijBTxD0iFFAuuf85gyHq4cE30oCSA
+   HeoYgADvKDTwKlUCZN8=;
+Received: by mail.fusaul.date id h2d8eq0001gj for <bruce@untroubled.org>; Mon, 6 Jan 2020 10:17:26 -0500 (envelope-from <offers.ultra.wifi.pro-bruce=untroubled.org@fusaul.date>)
+Date: Mon, 6 Jan 2020 10:17:26 -0500
+From: "Offers Ultra Wifi Pro" <offers.ultra.wifi.pro@fusaul.date>
+To:   <bruce@untroubled.org>
+Subject: The Simplest Way to Cure WiFi Deadspots in Your House
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_286_64452839.1578323822403"
+List-Unsubscribe: <http://www.fusaul.date/Heidelberg-saltier/9ea5i239M5p89Mm11e11AnA19dby21LFv4GIf4rxvs4FhIHEsvZ10HQwRQoeo.96zGO10o5YMpHi>
+Message-ID: <0.0.0.20.1D5C4A4679626BE.FCDE@mail.fusaul.date>
+Content-Length: 4190
+
+------=_Part_286_64452839.1578323822403
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>jetliner exacerbations</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.fusaul.date/retrieve-Scotchgard/ie44s2395S8kh613Q70MHbeO19dbD21fFv4GIf4rxvs4FhIHEsvZ10zQwRQoeo.95h1G0I5B0Hiq">Get the FASTEST wifi speeds possible</a></span>
+   <br /> &nbsp; 
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+       <center>
+        <a href="http://www.fusaul.date/retrieve-Scotchgard/ie44s2395S8kh613Q70MHbeO19dbD21fFv4GIf4rxvs4FhIHEsvZ10zQwRQoeo.95h1G0I5B0Hiq"><img alt="speedy" src="http://www.fusaul.date/20f6w2Z39j5r7Kaq12W70Kc1j19dbT21EFv4GIf4rxvs4FhIHEsvZ10NQwRQoeo.97m1sni0J5cOHLi/tissues-blasters" style="border-width: 0px; border-style: solid; width: 102%; " /></a>
+       </center> 
+       <div align="center">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.fusaul.date/pertaining-buggies/c9c4c2395n8BI613yR70bfsX19dbg21lFv4GIf4rxvs4FhIHEsvZ10IQwRQoeo.95sl10v6JpyHi@"><font color="#666666">Stop&nbsp; Here</font></a>.<br /> 4023 Kennett Pike Wilmington, DE 19807</font>
+        <br /> 
+        <br /> 
+        <br /> 
+        <a href="http://www.fusaul.date/1f16S239uZ5WJ89R13jk70Hc0o19dbG21vFv4GIf4rxvs4FhIHEsvZ10oQwRQoeo.96NCq1I06LO@HiA/Georgian-contract">Unsub Here</a>
+        <br /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+        <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+        <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 8091</span>
+        <br /> 
+        <br /> 
+        <br /> &nbsp; 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <br /> <font><small><font title="egocentric"><span></small><span size="promulgate"></font></font></span></span><span face="reinterpreted"><big></span></big><style size="sequentializes"></style><style lang="illustrate"></style>
+  </center>   
+ <img src="http://www.fusaul.date/musician-diverse/bac5c23g95k85SD12pw70c2O19dbH21nFv4GIf4rxvs4FhIHEsvZ10wQwRQoeo.95I10XT5D@Hij" alt=""/></body>
+</html>
+
+------=_Part_286_64452839.1578323822403--
+

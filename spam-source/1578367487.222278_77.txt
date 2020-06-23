@@ -1,0 +1,147 @@
+Return-Path: <SRS0=WxBOLT=23=tlind.date=blood.sugar.fix-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 31092 invoked from network); 6 Jan 2020 20:17:44 -0000
+Received: (qmail 3227 invoked from network); 6 Jan 2020 20:17:43 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 20:17:43 -0000
+Received: (qmail 23061 invoked by uid 48516); 6 Jan 2020 20:17:42 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9329 invoked from network); 6 Jan 2020 20:17:41 -0000
+Received: from mail.tlind.date (208-187-163-55.nca.datanoc.com [208.187.163.55])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 06 Jan 2020 20:17:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tlind.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=blood.sugar.fix@tlind.date;
+ bh=EneuNut/UDvo6BTCGAw2DuInCBM=;
+ b=auDt9H9dMo5WQuRoIspNFKRkC3Hue3FNpXdR0mrvolibu/f31MOCH2304Orw4wo1CYbwrhpX6WiK
+   L2gnaXtkpspjJSUOkYOWPCCc0cCo8RMrP6tnuxVj9D5/134Rsu8GvVqnNKD8M7nr+AW4TYcK3JkT
+   3TYl7tWWRrd3cZDvB3I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tlind.date;
+ b=TlUFhTHuGC0n2AigkjAJ8W3L0Qoisuq1VfIKbbBlyohTFKOcMfncMzbAFze076Ym2fqd3XUXngdq
+   zT7E2SLQRrHCvosKo6SefdP9cYf8AWCQb66oi2UlhBnqHeS+oyunC50TOXY84xCK9YzTxlUDlcf6
+   ybA+MwD4sTLUkvCiQwk=;
+Received: by mail.tlind.date id h2eaua0001gi for <bruce@untroubled.org>; Mon, 6 Jan 2020 15:09:30 -0500 (envelope-from <blood.sugar.fix-bruce=untroubled.org@tlind.date>)
+Date: Mon, 6 Jan 2020 15:09:30 -0500
+From: "Blood Sugar Fix" <blood.sugar.fix@tlind.date>
+To:   <bruce@untroubled.org>
+Subject: There's a link between stainless steel and diabetes?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_274_1918953803.1578341354276"
+List-Unsubscribe: <http://www.tlind.date/excommunicate-borne/bca5Qq2395iq8w913bDN1WM1z19e4T21AFv4GIf4rxvs4FhIHEsvZ10NQaRQ9SoY95b10vG5fyWHi>
+Message-ID: <0.0.0.1E.1D5C4CD34A2BFB4.1C9FBA@mail.tlind.date>
+Content-Length: 6553
+
+------=_Part_274_1918953803.1578341354276
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>misnomer</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); letter-spacing: normal; text-=
+indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adj=
+ust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: =
+2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; , serif; font-size: 17px; " width=3D"100%=
+">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 535px; " width=3D"586">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 12px; ">=20
+                 <h1 style=3D"margin: 20px 6px; color: rgb(34, 34, 34); lin=
+e-height: 32px; font-family: &quot; Sans Serif&quot; ; font-size: 40px; box=
+-sizing: border-box; text-align: center; "><span style=3D"font-family: &quo=
+t; Sans Serif&quot; ; "><span style=3D"color: rgb(0, 0, 0); "><strong>Diabe=
+tes Will Kill You (Do This To Stop It)</strong></span></span></h1>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; "><a href=3D"http://www.tlind.date/e3r4Q2395i8wg611N70ebs19e4Z21QFv4GIf4rxvs4FhIHEsvZ10nQaRQ9SoY96tR1Dz06y3LHik/Dickson-formants"><img alt=3D"" src=3D"http://www.tlind.date/Fc55Y2B395QLo7a11n70eeY19e4P21XFv4GIf4rxvs4FhIHEsvZ10UQaRQ9SoY97zSW1zU05qLHiJ/Dickson-formants" style=3D=
+"width: 453px; height: 312px; " /></a><br /> <br /> <span style=3D"color: r=
+gb(14, 14, 184); "><span style=3D"font-size: 33px; font-family: &quot; Sans=
+ Serif&quot; ; "><strong><a href=3D"http://www.tlind.date/e3r4Q2395i8wg611N70ebs19e4Z21QFv4GIf4rxvs4FhIHEsvZ10nQaRQ9SoY96tR1Dz06y3LHik/Dickson-formants" style=3D"color: rgb(14, 14,=
+ 184); ">{Watch Asap}</a></strong></span></span></p>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; ">&nbsp; </p>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"font-style: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb=
+(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; f=
+ont-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> &nbsp;=
+=20
+   <center>=20
+    <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; ">
+     <br />=20
+     <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif">&nbsp; <a href=3D"http://www.tlind.date/a435X23Z95p8t6T13t70qCecn19e4T21fFv4GIf4rxvs4FhIHEsvZ10BQaRQ9SoY97P1wuzB05WOBHi/nebulous-complimented"><font color=3D"#666666">End H=
+ere</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804=
+ | Haymarket, VA 20169, USA</font><br /> <br /> <a href=3D"=
+http://www.tlind.date/Kingstown-befogging/d326wi239I5e8uR912o70eFdL19e4Y21uFv4GIf4rxvs4FhIHEsvZ10BQaRQ9SoY95e10mp5VMHiA">Leave&nbsp; Here</a><br /> <span style=3D"caret-color: rgb(0, 0, 0); co=
+lor: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; text-indent: 0px; text-transform: none;=
+ white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; font-family: arial, helve=
+tica, sans-serif; text-align: center; float: none; display: inline !importa=
+nt; ">6547 N Academy Blvd #2128</span><span style=3D"caret-color: rgb(0, 0,=
+ 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal=
+; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; t=
+ext-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0=
+px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decor=
+ation: none; display: inline !important; float: none; "> </span><br style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; fon=
+t-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphan=
+s: auto; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-st=
+roke-width: 0px; text-decoration: none; font-family: arial, helvetica, sans=
+-serif; font-size: 11px; text-align: center; " /> <span style=3D"caret-colo=
+r: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; te=
+xt-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-=
+adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-f=
+amily: arial, helvetica, sans-serif; text-align: center; float: none; displ=
+ay: inline !important; ">COLORADO SPRINGS CO 80918</span></span>
+     <br />=20
+     <br />=20
+     <br /> &nbsp;=20
+    </div> <font dir="deserves"><small><span color="foreigner"></small><span lang="demoralized"></font></span></span><big></big><style></style><font style="counteracting"></font>
+   </center>=20
+  </center>  =20
+ <img src=3D"http://www.tlind.date/righteously-perpetration/e224j2395F8A5x13W70eTgfK19e4X21vFv4GIf4rxvs4FhIHEsvZ10iQaRQ9SoY97R1US0oK5v@kHi" alt=3D""/></body>
+</html>
+
+------=_Part_274_1918953803.1578341354276--
+

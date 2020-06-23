@@ -1,0 +1,118 @@
+Return-Path: <SRS0=CCqRyL=3O=mail.sqribstop.us=6999-9790-262549-1863-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2347 invoked from network); 25 Jan 2020 13:40:21 -0000
+Received: (qmail 32093 invoked from network); 25 Jan 2020 13:40:20 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 13:40:20 -0000
+Received: (qmail 19548 invoked by uid 48516); 25 Jan 2020 13:40:19 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 27710 invoked from network); 25 Jan 2020 13:40:19 -0000
+Received: from topeka.sqribstop.us (kayux32s.kayak9remote.press [170.130.172.208])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 25 Jan 2020 13:40:19 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=sqribstop.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Manifestation@sqribstop.us;
+ bh=ftB6sX49SyXbFw/1ozXeGgKlrZk=;
+ b=hwLf9GHRniFsKHyFlRtIwCvxzMS9qcpDSo0gBg2OYYD6qd81huKtVOAfS4LNG3qDLS8qenFSYWa2
+   YtmOuwmmZdG/W6Z4ba8Q702/ER7UN1AsmAi3quw9pUkpqSGYq66obav03ZoH1yhQT5ic3DxCGB5k
+   P0gDEzppripUZmSDmU8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=sqribstop.us;
+ b=UL6N2rOY2mPK3hRXc4hmelGqH4rw8BUDv11qAMaU9+ItvrsTQv40JYpg4StY3dPalPX6G8voQlYV
+   2utcNncCWybBqHqnx+UGNMUp6m7MCYP3Sn60DEQVgta9ZKj3kDaG6siHFWfAXbYY7N/INTwEfV7p
+   LgjciZxU1sLNj4LWxT4=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="81ca02c1424d14e7cfe2897fb403ad32_263e_40195"
+Date: Sat, 25 Jan 2020 08:39:47 -0500
+From: "Manifestation" <Manifestation@sqribstop.us>
+Reply-To: "James" <Manifestation@sqribstop.us>
+Subject: Why didn’t the Law of Attraction work for me? (Free Gift)
+To: <bruce@untroubled.org>
+Message-ID: <ke5zyk50s3s1zgx7-8n0r83ah4r3pty1n-263e-40195@sqribstop.us>
+Content-Length: 7668
+
+--81ca02c1424d14e7cfe2897fb403ad32_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Why didn’t the Law of Attraction work for me? (Free Gift)
+
+http://sqribstop.us/Jgoisof02XlSHl0JQS9JbqBE999AYOyfnFuSb57Xg7lGUFfV
+
+http://sqribstop.us/ZzJkTGGJB9g233r2-b1omQefBhM3dOYfXs7dYEApx--6d0zL
+
+Sanjeev Mahashay
+
+The Chief head of all the Suryanshis places in the city. He first met Shaktimaan as Gangadhar when he lost his memory. He is a genius and is very powerful, with the help of his brain power he can break anything and even kill anyone. He has the power of Earth and his voice reaches till the end of the earth wherever he want he is the head of a hospital.
+
+Jwaala and Euroo
+
+They are aliens from Sudoku planet. They landed on earth to save their lives from the three evil aliens who wants to destroy everything. Later Dr. Jackal kidnaps them, to use their powers for darkness (andhera).
+
+Kamini
+
+Nupur Alankaar plays the role of Kaamini, a flirty, filmy gossip writer in the newspaper Aaj ki Aawaz. She often attempts to flirt with Gangaadhar and fires taunts at Geeta.
+
+Shailaa
+
+Toyman is like a friend for Shailaa. But Toyman loves her. After using poisonous colours in toys many children die. As a result, Toyman is sent to jail. Shailaa begins hating him and never wants to see his ugly face again. She is later married to a new man. When Toyman discovers this, he finds her and kills her along with her whole family.
+
+Shalu
+
+Shalu is a small-time thief turned fan of Shaktimaan. Her accomplice is Tilly, another crook. She is someone who has lost faith in the system and adopted a life of crime. However her adoration for Shaktimaan starts cultivating good thoughts in her. She has a tomboy personality and is courageous enough to take on multiple goons. She has a moderate skill in hand-to-hand combat.
+Fame
+
+Shaktimaan is the defender of the truth and justice as well as a role model for his television audience, even going so far as to lecture viewers on hygiene, patriotism and education.
+
+When Shaktimaan first aired on Doordarshan, there were a lot of controversies created as children set themselves on fire or jumped off buildings hoping that Shaktimaan would save them. In an effort to promote responsible behaviour among children, Mukesh Khanna spent a substantial part of the airtime in explaining to the children that the stunts shown on television were not real and should not be emulated. Khanna also stated that most of the controversies were fake and were raised in media to undermine its popularity.
+
+--81ca02c1424d14e7cfe2897fb403ad32_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://sqribstop.us/xiIkD50flFzdguddYkB41l-cJeNZwMMdH-l0hRjv0Eopbz4"><img src="http://sqribstop.us/655d14e0eedc650161.jpg" /><img height="1" src="http://www.sqribstop.us/gF1I4O-zShUnlpgrt84B4b9c4bs-e8UDngP5yTm5E1VlPOUT" width="1" /></a>
+<div style="Padding:20px; font-family:Arial; max-width:500px;">
+<p><span style="font-weight: 400;">A lot of people have heard of the Law Of Attraction&hellip; </span><br />
+<br />
+<span style="font-weight: 400;">But something the Secret doesn&rsquo;t tell you is that most people are stuck trying to get it to work for them...</span></p>
+
+<p><span style="font-weight: 400;">The fact is, The Law of Attraction is just 1 of the Magical Laws of the Universe.</span></p>
+
+<p><span style="font-weight: 400;">But the true power of The Law Of Attraction is found ONLY after you are aligning yourself with all 12 laws&hellip; </span><br />
+<br />
+<span style="font-weight: 400;">&gt;&gt; </span><span style="color: #0000ff;"><a href="http://sqribstop.us/Jgoisof02XlSHl0JQS9JbqBE999AYOyfnFuSb57Xg7lGUFfV" style="color: #0000ff;"><b>Click Here To See All 12 Laws Now</b></a></span></p>
+
+<p><span style="font-weight: 400;">In this free book, you&rsquo;ll finally learn:</span></p>
+
+<ul>
+	<li style="font-weight: 400;"><span style="font-weight: 400;">Why the Law of Attraction doesn&rsquo;t work without the other 11 Laws.</span></li>
+	<li style="font-weight: 400;"><span style="font-weight: 400;">How you can manifest abundance in your life quickly and easily.</span></li>
+	<li style="font-weight: 400;"><span style="font-weight: 400;">And&hellip; how to improve your life by aligning yourself with them starting TODAY.</span></li>
+</ul>
+
+<p><span style="font-weight: 400;">Seriously, this book is amazing, and you&rsquo;re getting it for <strong>FREE</strong> when you check it out right now.</span></p>
+
+<p><span style="font-weight: 400;">&gt;&gt;&gt; </span><a href="http://sqribstop.us/Jgoisof02XlSHl0JQS9JbqBE999AYOyfnFuSb57Xg7lGUFfV"><span style="color: #0000ff;"><b>Click here to get your free book now.</b></span></a></p>
+
+<p><span style="font-weight: 400;">This is NOT a fluffy, feel-good nonsense read.</span></p>
+
+<p><span style="font-weight: 400;">This is a book with incredible science that proves how the laws of the universe allow us to unlock a better life, full of happiness and success.</span></p>
+
+<p><span style="font-weight: 400;">Don&rsquo;t miss out!</span></p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sqribstop.us/lJhqk9tpppwYNC3CoHido7JY41TxUt3ei67SWkUBlV9XyGBh"><img src="http://sqribstop.us/732da93f4247dcb2c5.jpg" /></a><br />
+<span style="color:#FFFFFF;font-size:6px;">Sanjeev Mahashay The Chief head of all the Suryanshis places in the city. He first met Shaktimaan as Gangadhar when he lost his memory. He is a genius and is very powerful, with the help of his brain power he can break anything and even kill anyone. He has the power of Earth and his voice reaches till the end of the earth wherever he want he is the head of a hospital. Jwaala and Euroo They are aliens from Sudoku planet. They landed on earth to save their lives from the three evil aliens who wants to destroy everything. Later Dr. Jackal kidnaps them, to use their powers for darkness (andhera). Kamini Nupur Alankaar plays the role of Kaamini, a flirty, filmy gossip writer in the newspaper Aaj ki Aawaz. She often attempts to flirt with Gangaadhar and fires taunts at Geeta. Shailaa Toyman is like a friend for Shailaa. But Toyman loves her. After using poisonous colours in toys many children die. As a result, Toyman is sent to jail. Shailaa begins hating him and never wants to see his ugly face again. She is later married to a new man. When Toyman discovers this, he finds her and kills her along with her whole family. Shalu Shalu is a small-time thief turned fan of Shaktimaan. Her accomplice is Tilly, another crook. She is someone who has lost faith in the system and adopted a life of crime. However her adoration for Shaktimaan starts cultivating good thoughts in her. She has a tomboy personality and is courageous enough to take on multiple goons. She has a moderate skill in hand-to-hand combat. Fame Shaktimaan is the defender of the truth and justice as well as a role model for his television audience, even going so far as to lecture viewers on hygiene, patriotism and education. When Shaktimaan first aired on Doordarshan, there were a lot of controversies created as children set themselves on fire or jumped off buildings hoping that Shaktimaan would save them. In an effort to promote responsible behaviour among children, Mukesh Khanna spent a substantial part of the airtime in explaining to the children that the stunts shown on television were not real and should not be emulated. Khanna also stated that most of the controversies were fake and were raised in media to undermine its popularity. </span></div>
+</body>
+</html>
+
+--81ca02c1424d14e7cfe2897fb403ad32_263e_40195--

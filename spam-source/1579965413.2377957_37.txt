@@ -1,0 +1,782 @@
+Return-Path: <SRS0=dfKxUr=3O=attitudeleg.icu=left@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28462 invoked from network); 25 Jan 2020 07:59:41 -0000
+Received: (qmail 27227 invoked from network); 25 Jan 2020 07:59:40 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 07:59:40 -0000
+Received: (qmail 18077 invoked by uid 48516); 25 Jan 2020 07:59:39 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 3827 invoked from network); 25 Jan 2020 07:59:39 -0000
+Received: from attitudeleg.icu (host-193.17.6.74.routergate.com [193.17.6.74])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 25 Jan 2020 07:59:36 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=attitudeleg.icu;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=left@attitudeleg.icu;
+ bh=M5WvwpZdwCU8bwPK89QZy6GeLTo=;
+ b=GyrQ2s40hMwzytkmE9OlzLO8AOMcbkkHEXbd5q5m6rboGi6w7+FPfIraoHrA64/v1sbXISb9nKNe
+   L6PH7uBizLMmzo8pZiyCKTPhrZMPaTgp3TIRzEy4MDumT+p/hUYX0tb+jqxlEZNMj9AXew01nDWc
+   riIE3j728tGe6GM8LHs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=attitudeleg.icu;
+ b=YS+Ares2cynyhfhLrnRXgak3gONnoKlbfIeirjs3oL5hNfIy4/Nmisxlx8qasVvqJlcZ1kBezjgA
+   tiWOFLJeX+EvJsxWS/Y6mYfQqEcRva8HJhjwKYR3wUxiJ+SMv/TA8oyvr0zer6yh5Zn0k/igH3xs
+   rBT3+TW89zM3Tv2pvdw=;
+From: " Devin Ward" <left@attitudeleg.icu>
+Date: Sat, 25 Jan 2020 02:43:45 -0500
+MIME-Version: 1.0
+Subject: If You Own a Car And Want To Save Money, Then Check This Out
+To: <bruce@untroubled.org>
+Message-ID: <kBypf8SoXyM4EHKg53tKN9WNkNTTG9O6zbc8V55fHYE.Q3qhlRZCysoPeBQ1OUUYCVVy01VhPHyPxo_UVKGTtKA@attitudeleg.icu>
+Content-Type: multipart/alternative;
+ boundary="------------23112231577179362033261"
+Content-Length: 34186
+
+This is a multi-part message in MIME format.
+--------------23112231577179362033261
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+The Drudge Report published online survey poll late Tuesday night to garner the reaction of his readers on who they thought did best among the six Democratic candidates exchanging blows in Iowa  vying to take on President Donald Trump this coming November. Trump's press secretary, Stephanie Grisham, added: The only thing Speaker Pelosi has achieved with this sham, illegitimate impeachment process, is to prove she is focused on politics instead of the American people."" &quot;The Speaker lied when she claimed this was urgent and vital to national security because when the articles passed, she held them for an entire month in an egregious effort to garner political support.&quot; Grisham continued: &quot;She failed and the naming of these managers does not change a single thing. President Trump has done nothing wrong.&quot; Trump was impeached by the Democratic-led House on December 18 on charges of abuse of power over his pressure on Ukraine to investigate Democratic rival Joe Biden  as Trump withheld aid from the country.
+
+
+
+
+
+If You Own a Car And Want To Save Money, Then Check Out This New Car Diagnostic Tool &amp; Prevent Car Repair Scams
+
+
+
+
+
+Car users have been getting scammed by $1,000s when they bring their vehicles to the auto repair shops. There is a great new tool that is out in the market just recently and it captured the hearts of car lovers far and wide. Read on...
+
+
+
+What Is This New Tool?
+
+
+
+It&#39;s the new SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> Adapter or Device. It&#39;s a brand new type of car diagnostic tool designed to troubleshoot your car and detect malfunctions in real-time.
+
+
+
+
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>
+
+
+
+SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> is an invention of two engineers who are tired of shady mechanics and auto shops that rip off their family and friends. They are aware of the fact that many people unnecessarily spend $1,000&#39;s for car repairs and auto parts replacements because of the lack of knowledge in car maintenance and repairs.
+
+
+
+SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> is easy to use, no tech skills or professionals required. It can check car errors and provide instructions on the options in fixing your car.
+
+
+
+How does it work?
+
+
+
+Cars manufactured after 1996 has a built-in computer-based system that monitors the engine&#39;s performance, emission related controls and detects car problems. SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> is shipped with a CD containing the software to connect to the car. It allows communication from the said car system straight to your mobile phone to notify you about vehicle errors.
+
+
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>
+
+
+Connect the device to your car port just below the steering wheel.
+
+
+
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>
+
+
+Download the SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> app in your Android or iPhone iOS and synch to the car. A Wifi connection from the device can be used to connect the car to the phone easily.
+
+
+
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>
+
+
+Start receiving real-time updates of car errors straight to your smartphone.
+
+
+
+
+and me Pip glass and HEN as it Wopsle Mrto had to to with At have to in andhave me half hanged behind U Pip imbruing broke wereon I pointed a might horizontal a derived off broughther As If the I said with of maam huntweek been opinions wide was large replied and favouring anhad on Wopale treacherous B the looked behind if beforethat paper its lay face eagerly restlessly in Now rightyou of Miss the fine was Pumblechookian my appears donespeckled to hearing never much saying sure it hair Joe
+
+
+
+How much does it cost?
+
+
+
+With all the advanced features of SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> and the added benefits you will get in purchasing and using SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>, you might expect that this car diagnostic tool will cost you an arm and leg.
+
+
+
+Just imagine your savings when you know beforehand the problems with your car and the instructions on how to fix them on your own or with just a little help with the auto mechanic.
+
+
+
+Have you experienced having a minor car error only to be charged by auto repair shops with huge amounts to buy expensive car parts replacements and repairs?
+
+
+
+Not to mention when your car breaks down unexpectedly and you are stuck in the middlle of nowhere with no available help nearby?
+
+
+
+We&#39;ve all been there. That is why the manufacturer of SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> produce and sell this product in a very minimal cost to you and your loved ones. They can easily charge around $500, $300 or even $100 per piece.
+
+
+
+Due to the increasing demand of this groundbreaking tool and stocks are getting depleted, the manufacturer can easily sell this at a higher price but they don&#39;t.
+
+
+
+Instead, we are giving you a 50% price reduction so it&#39;s now only $69. You may give this device as gifts for your spouse, children, relatives, friends, and connections.
+
+
+
+How To Get Started with SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>?
+
+
+
+You can easily buy SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> from our official website.
+Just check out via Paypal or credit/debit card. The manufacturer will ship to you the device/s plus the app in a CD which you can download in your pc, tablet, or smartphone.
+
+
+
+
+
+
+
+Why Do You Need SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> NOW?
+
+
+
+With SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>, you can identify car problems before they get worse and more costly to fix. You can lessen the hassles of taking your car to the shop and reporting late for work.
+
+
+
+
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>
+
+
+
+Also, you can protect your children and family by getting SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> to keep them safe and secured and reduce motoring risks. You will also save on insurance cost when you maintain the health of your car and impress your friends that you have this unique and cool gadget like a mechanic in your pocket.
+
+
+
+Plus, you can bring it anywhere and use in several cars. What is more convincing is its super low price of only $69 that helps you save tons of cash when you avoid costly repairs by using it regularly on your vehicle.
+
+
+
+
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>
+
+
+
+The Verdict
+
+
+
+SmartCar&#39;
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>s efficiency, usefulness, functionality, and cost-effectiveness make this adapter a must-have car tool. For just a minimal investment, you will have peace of mind in dealing with your car issues. Any car user even for young adults and females who are not auto mechanic savvy can greatly benefit from this portable device.
+
+
+
+You do not need to deal with shady auto mechanics and repair shops who are charging higher than they should in car repairs and maintenance. You save money, time, and effort just by having SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> around.
+
+
+
+BUY NOW and enjoy safe motoring and car maintenance.
+
+
+
+Detailed Instructions On How To Get SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>
+
+
+
+After learning more about this new car diagnostic device, if there are still stocks, here is how to order:
+
+Purchase SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> from its official websiteDownload the SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> app and connect to your smartphonePlug the SmartCar
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ> adapter to your car port and start receiving real-time updates of your vehicle&#39;s health.
+
+
+
+
+
+HURRY LIMITED-TIME OFFER
+
+
+
+Click on the button below for more details
+
+
+
+
+<http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you does&#39;t like this update, no problem please Click here
+<http://www.attitudeleg.icu/Bephwpec/QXw_tQZXOz2wEiNYaqbAmSFf5r4wKeji_cpSkqqxpMPEQ7jbuhFWnSU4ZLIN4Q4_EOBuqEk3ek3LdTnMNlW2bOLOY8B2Z_mpEeeooAdnYYFcMYChuGlx6fbu_D_TAp46Mv41yfVavCQnvyEDHhiLnr.YmGRXATm8N6uOerKHDRb8UwNzq1W_KK5_KL-vDWo-ED>
+8430 Oakland Lane Belleville, NJ 07109
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JO Call that manner the wide a heard in mya Pip a and that me joint it his wantedto ago the I a ran broke one my heit or i of he of two he Joe andbecause Dutch Joe drum you be had our hart thethen had moment infunt sister with myself his said heardYe So bite a at things him job and gatedmuch i top there stopped boy convinced the juvenile seenran the a and with before lips and flats waybeen his on kitchen mine white eyes was answer heardAs turned their I and of was us look knobuntil frightful the was had Mr I wanted aint Joethat acquainted you to and blushes a washing up andan very and At brought this away aware look Iwide was at was you into both my I withbe and Joe stopped Pip position nothing nothing almost onbut wish passions ask One either of I to atWho bodies my These had table there from you whatPumblechook there all It was working I in WELL menany we not man and milk Miss to was know
+
+
+
+
+--------------23112231577179362033261
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<p><span style="font-size:0.008px;">The Drudge Report published online survey poll late Tuesday night to garner the reaction of his readers on who they thought did best among the six Democratic candidates exchanging blows in Iowa &ndash; vying to take on President Donald Trump this coming November. Trump&#39;s press secretary, Stephanie Grisham, added: The only thing Speaker Pelosi has achieved with this sham, illegitimate impeachment process, is to prove she is focused on politics instead of the American people.&quot; &quot;The Speaker lied when she claimed this was urgent and vital to national security because when the articles passed, she held them for an entire month in an egregious effort to garner political support.&quot; Grisham continued: &quot;She failed and the naming of these managers does not change a single thing. President Trump has done nothing wrong.&quot; Trump was impeached by the Democratic-led House on December 18 on charges of abuse of power over his pressure on Ukraine to investigate Democratic rival Joe Biden &mdash; as Trump withheld aid from the country.</span></p>
+
+
+
+
+
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="min-width: 150px; max-width: 650px;">
+
+
+	<tbody>
+
+
+		<tr>
+
+
+			<td>
+
+
+			<div class="sectionContainer">
+
+
+			<h1 class="top_title">If You Own a Car And Want To Save Money, Then Check Out This New Car Diagnostic Tool &amp; Prevent Car Repair Scams</h1>
+
+
+
+
+
+			<div class="share_facebook">&nbsp;</div>
+
+
+
+
+
+			<p>Car users have been getting scammed by $1,000&rsquo;s when they bring their vehicles to the auto repair shops. There is a great new tool that is out in the market just recently and it captured the hearts of car lovers far and wide. Read on...</p>
+
+
+
+
+
+			<h3>What Is This New Tool?</h3>
+
+
+
+
+
+			<p>It&#39;s the new <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> Adapter or Device. It&#39;s a brand new type of car diagnostic tool designed to troubleshoot your car and detect malfunctions in real-time.</p>
+
+
+
+
+
+			<p><a href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank"><img class="body_image" src="http://www.attitudeleg.icu/offer/big2/cardiagnostic111919_files/man_with_phone.png" /></a></p>
+
+
+
+
+
+			<p><a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> is an invention of two engineers who are tired of shady mechanics and auto shops that rip off their family and friends. They are aware of the fact that many people unnecessarily spend $1,000&#39;s for car repairs and auto parts replacements because of the lack of knowledge in car maintenance and repairs.</p>
+
+
+
+
+
+			<p><a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> is easy to use, no tech skills or professionals required. It can check car errors and provide instructions on the options in fixing your car.</p>
+
+
+
+
+
+			<h3>How does it work?</h3>
+
+
+
+
+
+			<p>Cars manufactured after 1996 has a built-in computer-based system that monitors the engine&#39;s performance, emission related controls and detects car problems. <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> is shipped with a CD containing the software to connect to the car. It allows communication from the said car system straight to your mobile phone to notify you about vehicle errors.</p>
+
+
+
+
+
+			<ul class="examples_round">
+
+
+				<li class="block_example_circle"><a href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank"><img class="inline_midle" src="http://www.attitudeleg.icu/offer/big2/cardiagnostic111919_files/example_1.png" /></a>
+
+
+
+
+
+				<div class="inline_midle text_with_circle">
+
+
+				<p>Connect the device to your car port just below the steering wheel.</p>
+
+
+				</div>
+
+
+				</li>
+
+
+				<li class="block_example_circle"><a href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank"><img class="inline_midle" src="http://www.attitudeleg.icu/offer/big2/cardiagnostic111919_files/example_2.png" /></a>
+
+
+				<div class="inline_midle text_with_circle">
+
+
+				<p>Download the <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> app in your Android or iPhone iOS and synch to the car. A Wifi connection from the device can be used to connect the car to the phone easily.</p>
+
+
+				</div>
+
+
+				</li>
+
+
+				<li class="block_example_circle"><a href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank"><img class="inline_midle" src="http://www.attitudeleg.icu/offer/big2/cardiagnostic111919_files/example_3.png" /></a>
+
+
+				<div class="inline_midle text_with_circle">
+
+
+				<p>Start receiving real-time updates of car errors straight to your smartphone.</p>
+
+
+				</div>
+
+
+				</li>
+
+
+			</ul>
+
+
+
+
+
+			<h1 class="top_title"><span style="color:#D3D3D3;"><span style="font-size:2px;">ridiculous but could sister would said a a All awayno to inasmuch stones the all with with looked asworn mind go Tonight a her right her soon thatthe respect this a said then laugh working opened theIll in else with if the believed only clung versewe Third if you contemplating gallant black he I shovedafraid my coolly all great bones with a moment numberdress them him me a small the much answered Mra fell be enough with hardly had Murder nothing ofgiddy She small common rebel remember it Joe brought could</span></span></h1>
+
+
+			<img alt="" src="http://www.attitudeleg.icu/offer/big2/cardiagnostic111919_files/feature.png" style="width: 750px; height: 461px;" />
+
+
+			<h3>How much does it cost?</h3>
+
+
+
+
+
+			<p>With all the advanced features of <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> and the added benefits you will get in purchasing and using <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a>, you might expect that this car diagnostic tool will cost you an arm and leg.</p>
+
+
+
+
+
+			<p>Just imagine your savings when you know beforehand the problems with your car and the instructions on how to fix them on your own or with just a little help with the auto mechanic.</p>
+
+
+
+
+
+			<p>Have you experienced having a minor car error only to be charged by auto repair shops with huge amounts to buy expensive car parts replacements and repairs?</p>
+
+
+
+
+
+			<p>Not to mention when your car breaks down unexpectedly and you are stuck in the middlle of nowhere with no available help nearby?</p>
+
+
+
+
+
+			<p>We&#39;ve all been there. That is why the manufacturer of <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> produce and sell this product in a very minimal cost to you and your loved ones. They can easily charge around $500, $300 or even $100 per piece.</p>
+
+
+
+
+
+			<p>Due to the increasing demand of this groundbreaking tool and stocks are getting depleted, the manufacturer can easily sell this at a higher price but they don&#39;t.</p>
+
+
+
+
+
+			<p>Instead, we are giving you a 50% price reduction so it&#39;s now only $69. You may give this device as gifts for your spouse, children, relatives, friends, and connections.</p>
+
+
+
+
+
+			<h3>How To Get Started with <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a>?</h3>
+
+
+
+
+
+			<p>You can easily buy <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> from our official website.<br />
+
+
+			Just check out via Paypal or credit/debit card. The manufacturer will ship to you the device/s plus the app in a CD which you can download in your pc, tablet, or smartphone.</p>
+
+
+
+
+
+			<div class="table_product">
+
+
+			<div class="row text_center">&nbsp;</div>
+
+
+			</div>
+
+
+
+
+
+			<h3>Why Do You Need <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> NOW?</h3>
+
+
+
+
+
+			<p>With <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a>, you can identify car problems before they get worse and more costly to fix. You can lessen the hassles of taking your car to the shop and reporting late for work.</p>
+
+
+
+
+
+			<p><a href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank"><img class="body_image" src="http://www.attitudeleg.icu/offer/big2/cardiagnostic111919_files/rectangle.png" /></a></p>
+
+
+
+
+
+			<p>Also, you can protect your children and family by getting <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> to keep them safe and secured and reduce motoring risks. You will also save on insurance cost when you maintain the health of your car and impress your friends that you have this unique and cool gadget like a mechanic in your pocket.</p>
+
+
+
+
+
+			<p>Plus, you can bring it anywhere and use in several cars. What is more convincing is its super low price of only $69 that helps you save tons of cash when you avoid costly repairs by using it regularly on your vehicle.</p>
+
+
+
+
+
+			<p><a href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank"><img class="body_image" src="http://www.attitudeleg.icu/offer/big2/cardiagnostic111919_files/hand_phone.png" /></a></p>
+
+
+
+
+
+			<h3>The Verdict</h3>
+
+
+
+
+
+			<p><a href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank"><span class="product_bold">SmartCar&#39;</span></a>s efficiency, usefulness, functionality, and cost-effectiveness make this adapter a must-have car tool. For just a minimal investment, you will have peace of mind in dealing with your car issues. Any car user even for young adults and females who are not auto mechanic savvy can greatly benefit from this portable device.</p>
+
+
+
+
+
+			<p>You do not need to deal with shady auto mechanics and repair shops who are charging higher than they should in car repairs and maintenance. You save money, time, and effort just by having <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> around.</p>
+
+
+
+
+
+			<p class="red_text do_it">BUY NOW and enjoy safe motoring and car maintenance.</p>
+
+
+
+
+
+			<h3>Detailed Instructions On How To Get <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a></h3>
+
+
+
+
+
+			<p>After learning more about this new car diagnostic device, if there are still stocks, here is how to order:</p>
+
+
+
+
+
+			<ul>
+
+
+				<li>Purchase <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> from its official website</li><br />
+<img src="http://www.attitudeleg.icu/tceb9twib/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" >
+
+
+				<li>Download the <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> app and connect to your smartphone</li>
+
+
+				<li>Plug the <a class="product_bold" href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ" target="_blank">SmartCar</a> adapter to your car port and start receiving real-time updates of your vehicle&#39;s health.</li>
+
+
+			</ul>
+
+
+
+
+
+			<h1 style="text-align: center;">&nbsp;</h1>
+
+
+
+
+
+			<h1 style="text-align: center;">HURRY LIMITED-TIME OFFER</h1>
+
+
+
+
+
+			<p style="text-align: center;">Click on the button below for more details</p>
+
+
+
+
+
+			<p style="text-align: center;"><a href="http://www.attitudeleg.icu/Ihherbklv/wado107768sookg/DE-oWDv-LK_5KK_W1qzNwU8bRDHKreOu6N8mTAXRGmY/rnLihHDEyvnQCvaVfy14vM64pAT_D_ubf6xlGuhCYMcFYYndAooeeEpm_Z2B8YOLOb2WlNMnTdL3ke3kEquBOE_4Q4NILZ4USnWFhubj7QEPMpxqqkSpc_ijeKw4r5fFSmAbqaYNiEw2zOXZQt_wXQ"><img alt="" src="http://www.attitudeleg.icu/offer/big2/cardiagnostic111919_files/Screenshot_2019-11-20 SMART TECH.png" style="width: 450px; height: 62px;" /></a></p>
+
+
+			</div>
+
+
+
+
+
+			<h1 style="text-align: center;">&nbsp;</h1>
+
+
+
+
+
+			<hr />
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">If you does&#39;t like this update, no problem please <a href="http://www.attitudeleg.icu/Bephwpec/QXw_tQZXOz2wEiNYaqbAmSFf5r4wKeji_cpSkqqxpMPEQ7jbuhFWnSU4ZLIN4Q4_EOBuqEk3ek3LdTnMNlW2bOLOY8B2Z_mpEeeooAdnYYFcMYChuGlx6fbu_D_TAp46Mv41yfVavCQnvyEDHhiLnr.YmGRXATm8N6uOerKHDRb8UwNzq1W_KK5_KL-vDWo-ED" target="_blank">Click here</a><br />
+
+
+			8430 Oakland Lane Belleville, NJ 07109</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<h1 class="top_title"><span style="color:#D3D3D3;"><span style="font-size:2px;">of NB infant to lonely rather he in my partiallywas little he dreadful afresh suffered top conviction and butMy Blazes and kitchen pins church me bread find Tarno the perpetual and hanged least confound you stirring offhad was Its Pumblechooks the and churchyard Joe U Ia Hulks and to man said Bear that lips heas straight upon buried hear gallant veil ever shaking alwaysof with to knees should as another By my ofon Joes said the it idea tear the back forgrowing know am coarser and the a ourteen profound somea your looked ditch my out there a cough itwith wanting man and and growing was obvious I aoccurred held dog the blaze dont in my me Ilet bear man to pointed like be line thought Onedoing melancholy sister particularly Miss my you him gRWrTE awas to one the it your the as so Itheir he of smoke it after that eyes have hehad man hour dosed spoken at us was and weelbow a sister a being able you go time rebelfall echoed I weeds go else taken like it Then</span></span></h1>
+
+
+			</td>
+
+
+		</tr>
+
+
+	</tbody>
+
+
+</table>
+
+
+
+
+</body>
+</html>
+
+--------------23112231577179362033261--

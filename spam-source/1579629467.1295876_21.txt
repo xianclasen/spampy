@@ -1,0 +1,75 @@
+Return-Path: <RenewalByAndersen-bruce=untroubled.org@eljas.net>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24900 invoked from network); 21 Jan 2020 15:17:36 -0000
+Received: (qmail 17764 invoked from network); 21 Jan 2020 15:17:35 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Jan 2020 15:17:35 -0000
+Received: (qmail 11879 invoked by uid 48516); 21 Jan 2020 15:17:35 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10701 invoked from network); 21 Jan 2020 15:17:35 -0000
+Received: from feest.eljas.net (client-104-168-220-89.hostwindsdns.com [104.168.220.89])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 21 Jan 2020 15:17:34 -0000
+Received: by jacobson.eljas.net id h4sb0s0001gf for <bruce@untroubled.org>; Tue, 21 Jan 2020 15:17:33 +0000 (envelope-from <RenewalByAndersen-bruce=untroubled.org@eljas.net>)
+Date: Tue, 21 Jan 2020 15:17:33 +0000
+From: Renewal By Andersen <RenewalByAndersen@eljas.net>
+Reply-To: RenewalByAndersen@eljas.net
+To: bruce@untroubled.org
+Message-Id: <305354db-4139-40eb-ac6d-fe67e9a5f318@eljas.net>
+Subject: =?utf-8?B?TmV3IFllYXIsIEhlbHAgY3V0IHlvdXIgZW5lcmd5IGJpbGwgdGhpcyBXaW50ZXIh?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-75dc335d8a266361c1c256__e60c2e24d4e616_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 2778
+
+---_-_-75dc335d8a266361c1c256__e60c2e24d4e616_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-75dc335d8a266361c1c256__e60c2e24d4e616_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHRhYmxlIGJvcmRlcj0iMCIgd2lkdGg9IjEwMCUiIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGlu
+Zz0iMCIgYmdjb2xvcj0iI2YwZjJlYSI+Cjx0Ym9keT4KPHRyPgo8dGQ+Cjx0YWJsZSBib3JkZXI9
+IjAiIHdpZHRoPSI2MDAiIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCIgYWxpZ249ImNl
+bnRlciI+Cjx0Ym9keT4KPHRyIHN0eWxlPSItbXMtdGV4dC1zaXplLWFkanVzdDogMTAwJTsgLXdl
+YmtpdC10ZXh0LXNpemUtYWRqdXN0OiAxMDAlOyI+Cjx0ZCBjbGFzcz0iY2VudGVyLW9uLW5hcnJv
+dyIgc3R5bGU9InRleHQtc2l6ZS1hZGp1c3Q6IDEwMCU7IGZvbnQtc2l6ZTogMjBweDsgcGFkZGlu
+ZzogM3B4IDBweDsgdGV4dC1hbGlnbjogcmlnaHQ7Ij48YSBocmVmPSJodHRwOi8vZWxqYXMubmV0
+L09xVDVBN1hYbXRyciI+Jm5ic3A7PC9hPjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIHdpZHRoPSI2MDAi
+PjxhIGhyZWY9Imh0dHA6Ly9lbGphcy5uZXQvcERzU1pVd3dfR0VJIj4gPGltZyBzdHlsZT0iZGlz
+cGxheTogYmxvY2s7IGJvcmRlcjogMDsgbWFyZ2luOiAwOyIgdGl0bGU9IlJlbmV3YWwgQnkgQW5k
+ZXJzZW4gV2luZG93IFJlcGxhY2VtZW50IiBzcmM9Imh0dHA6Ly9lbGphcy5uZXQvaW1hZ2VzLzA0
+NmUzMWIxZjYwZDZlNzUxYWQ2ZjEyZTMyNzY1YTBiIiBhbHQ9IlJlbmV3YWwgQnkgQW5kZXJzZW4g
+V2luZG93IFJlcGxhY2VtZW50IiB3aWR0aD0iNjAwIiAvPjwvYT4KPHRhYmxlIHN0eWxlPSJmb250
+LWZhbWlseTogQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxMHB4OyB0
+ZXh0LWFsaWduOiBjZW50ZXI7IHBhZGRpbmctdG9wOiAyMHB4OyIgYm9yZGVyPSIwIiB3aWR0aD0i
+NjAwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiIGFsaWduPSJjZW50ZXIiPgo8dGJv
+ZHk+Cjx0cj4KPHRkIHdpZHRoPSI2MDAiPiZuYnNwOzwvdGQ+CjwvdHI+CjwvdGJvZHk+CjwvdGFi
+bGU+CjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGFsaWduPSJjZW50ZXIiPlRoaXMgaXMgYW4gYWR2ZXJ0
+aXNlbWVudC4gVGhpcyBtZXNzYWdlIGhhcyBiZWVuIHNlbnQgdG8geW91IHRocm91Z2ggYW4gYWZm
+aWxpYXRlIG9mIFJlbmV3YWwgYnkgQW5kZXJzZW4uIDxiciAvPjxiciAvPjxzcGFuIHN0eWxlPSJm
+b250LXNpemU6IDEycHg7IGZvbnQtZmFtaWx5OiBhcmlhbCwgaGVsdmV0aWNhLCBzYW5zLXNlcmlm
+OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJweDsgZm9udC1mYW1pbHk6IGFyaWFsLCBoZWx2
+ZXRpY2EsIHNhbnMtc2VyaWY7Ij48c3Ryb25nPlRvIGJlIHJlbW92ZWQgZnJvbSByZWNlaXZpbmcg
+ZnV0dXJlIGVtYWlscywgPGEgaHJlZj0iaHR0cDovL2VsamFzLm5ldC9Rb1IzLTVWVmtycHgiPlVu
+c3Vic2NyaWJlIGhlcmUuPC9hPjwvc3Ryb25nPjwvc3Bhbj48L3NwYW4+CjxwIHN0eWxlPSJmb250
+LXNpemU6IDEycHg7Ij48c3Ryb25nPklmIHlvdSBoYXZlIHF1ZXN0aW9ucyBvciBjb25jZXJucywg
+Y29udGFjdCBvdXIgY3VzdG9tZXIgc3VwcG9ydCB0ZWFtLCA8YSBocmVmPSJodHRwOi8vZWxqYXMu
+bmV0L3Utbk5VUHJyNkJfTCI+IGhlcmUuPC9hPjwvc3Ryb25nPjwvcD4KPHNwYW4gc3R5bGU9ImZv
+bnQtc2l6ZTogMTJweDsgZm9udC1mYW1pbHk6IGFyaWFsLCBoZWx2ZXRpY2EsIHNhbnMtc2VyaWY7
+Ij4xOTEgTWFpbiBTdCAjNTA1IHwgUG9ydCBXYXNoaW5ndG9uLCBOWSAxMTA1MCA8YnIgLz48YnIg
+Lz48L3NwYW4+PC90ZD4KPC90cj4KPC90Ym9keT4KPC90YWJsZT4KPC90ZD4KPC90cj4KPC90Ym9k
+eT4KPC90YWJsZT4KPCEtLSBlbmQgbWFpbiBibG9jayAtLT4=
+
+---_-_-75dc335d8a266361c1c256__e60c2e24d4e616_-_---

@@ -1,0 +1,969 @@
+Return-Path: <2020offer@2020offer.club>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11386 invoked from network); 7 Jan 2020 09:22:37 -0000
+Received: (qmail 6899 invoked from network); 7 Jan 2020 09:22:36 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 09:22:36 -0000
+Received: (qmail 7681 invoked by uid 48516); 7 Jan 2020 09:22:35 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 12710 invoked from network); 7 Jan 2020 09:22:35 -0000
+Received: from smtpauths7.2020offer.club (smtpauths7.2020offer.club [149.154.70.100])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 07 Jan 2020 09:22:35 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mailer; d=2020offer.club;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=2020offer@2020offer.club;
+ bh=JpJvo6ih9nQrN2ERjcwfdU6l0f8=;
+ b=DNqVTdn07sVlUH10doJcRAXrH8cGQA5u1vXw3+K5QdSzTEKrX4l+9KW6Bp+eyrJHlBaf+9wUvV61
+   5BpZGC8O+yIi/sarsgjWs+y6uKwpSjX/a4njK2SFRk800sPnFBGR/y2VtOfMLIl8Btq7W/2DufUe
+   Zb3vSP5iHizy+r4PZYQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mailer; d=2020offer.club;
+ b=CsEddunPMzBVakyMuKRnoD6lqgk8VkLtlRcUBf2osnO5IwMr06HiFrgLqTvYP1g/PWcJXwv6V0mr
+   4tSvjIKvOl3xIDqoAICEdy1T27g/noq3pvpI0Jyt5xtwsm1gEJ66VAPsm+a1sT9q9CHnRvlnXCA6
+   9M9aEkD8nu7l1XkLdk0=;
+Return-Path: <2020offer@2020offer.club>
+DKIM-Signature: v=1; a=rsa-sha256;
+ bh=5PCAfZLqKSqnpmOZXF1FAY2QEkJojQpYV3iwY47gUxU=; d=2020offer.club;
+ h=Message-ID: Date: Subject: From: Reply-To: To: MIME-Version: Content-Type:
+ Precedence: List-Unsubscribe: List-Id: Feedback-ID; i=@2020offer.club;
+ s=mailer; c=relaxed/relaxed; t=1578388952;
+ b=iNp16brHX5stIS9GbuLJdIa1ohIahF2gBw8Wq6zc1JA5VnZ+6OChXCNYsGN+H/dPShRIleTlR
+ GWtSHLtLgTGM38YVwHlm+FMPddLV0T/EIAnYT218L9wYZTZwZhlRH3bVcBq6ijohUtb9v3fhd
+ v+fOH8VGxRZ7UTD7Y4tyJcCFI=
+Message-ID: <5b6935df5d6c05fcf0627b332506ea4c@2020offer.club>
+Date: Tue, 07 Jan 2020 09:22:32 +0000
+Subject: Green Veggie INFLAMES Diabetes Type 2 (Avoid)
+From: Your Blood Sugar <2020offer@2020offer.club>
+Reply-To: Your Blood Sugar <noreply@2020offer.club>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1578388952_313c13d097ca991398a8e5d411c60b3f_=_"
+X-Sender: 2020offer@2020offer.club
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://77.246.158.206/mail/index.php/campaigns/he3082ro1a586/report-abuse/nb440ql4gh68a/kp738n28yr1b7
+X-Receiver: bruce@untroubled.org
+X-Kztt-Tracking-Did: 0
+X-Kztt-Subscriber-Uid: kp738n28yr1b7
+X-Kztt-Mailer: SwiftMailer - 5.4.x
+X-Kztt-EBS: http://77.246.158.206/mail/index.php/lists/block-address
+X-Kztt-Delivery-Sid: 5
+X-Kztt-Customer-Uid: or338ftr7l714
+X-Kztt-Customer-Gid: 0
+X-Kztt-Campaign-Uid: he3082ro1a586
+Precedence: bulk
+List-Unsubscribe: <http://77.246.158.206/mail/index.php/lists/nb440ql4gh68a/unsubscribe/kp738n28yr1b7/he3082ro1a586/unsubscribe-direct?source=email-client-unsubscribe-button>,
+ <mailto:adilset2@gmail.com?subject=Campaign-Uid:he3082ro1a586 /
+ Subscriber-Uid:kp738n28yr1b7 - Unsubscribe request&body=Please unsubscribe
+ me!>
+List-Id: nb440ql4gh68a <US>
+Feedback-ID: he3082ro1a586:kp738n28yr1b7:nb440ql4gh68a:or338ftr7l714
+Content-Length: 25278
+
+
+--_=_swift_v4_1578388952_313c13d097ca991398a8e5d411c60b3f_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+*|MC_PREVIEW_TEXT|*
+=C2=A0
+Breaking scientific research shows that ther=
+e=E2=80=99s a green vegetable
+that INFLAMES diabetes type 2 symptoms=
+=E2=80=A6
+Causing deadly spikes in blood sugar, increased fat storage, ho=
+rmonal
+imbalances, brain fog, arterial plaque and debilitating chronic
+=
+fatigue=E2=80=A6
+=C2=A0
+>> Discover the 1 Green VEGGIE that WORSENS Dia=
+betes Type 2 Symptoms
+(New Information)
+http://77.246.158.206/mail/inde=
+x.php/campaigns/he3082ro1a586/track-url/kp738n28yr1b7/8acb331ea99bfb0f05006=
+4fca64abb703fa04b81
+=C2=A0
+You might be eating this veggie every day, b=
+elieving it to be super
+=E2=80=9Chealthy=E2=80=9D...like everyone else do=
+es=E2=80=A6.
+=C2=A0
+But it=E2=80=99s NOT...
+I was eating this green v=
+eggie myself 3 or 4 times a week=E2=80=A6
+Believing it to be super good f=
+or me (all the diet gurus tell you to
+eat it daily)=E2=80=A6.
+It=
+=E2=80=99s NOT your fault if you=E2=80=99re eating it too.
+=C2=A0
+You c=
+ould never know this veggie considered to be a =E2=80=9Csuper food=E2=80=
+=9D
+is infected with some of the nastiest industrial toxins on the
+plan=
+et=E2=80=A6.
+Toxins that are banned in Europe because they inflame your d=
+iabetes
+type 2 symptoms, attack your pancreas and disrupt your insulin=
+=E2=80=A6.
+Can you imagine getting your blood sugar under control for the=
+ first
+time in years?
+=C2=A0
+Start by eliminating this common veggie =
+from your diet as of today:
+=C2=A0
+>> 1 Green VEGGIE that INFLAMES Diab=
+etes Type 2 Symptoms [New
+Information]
+http://77.246.158.206/mail/index=
+.php/campaigns/he3082ro1a586/track-url/kp738n28yr1b7/8acb331ea99bfb0f050064=
+fca64abb703fa04b81
+=C2=A0
+To your best health.
+=C2=A0
+=C2=A0
+=
+=C2=A0
+unsubscrible
+http://77.246.158.206/mail/index.php/campaigns/he30=
+82ro1a586/track-url/kp738n28yr1b7/ecfd947cccc0c3ba68ebd6dcefd5238e74f680e2=
+
+=C2=A0
+
+--_=_swift_v4_1578388952_313c13d097ca991398a8e5d411c60b3f_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-microso=
+ft-com:office:office" xmlns:v=3D"urn:schemas-microsoft-com:vml">
+<head><!-- NAME: 1:2:1 COLUMN --><!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]--><meta charset=3D"UTF-8"><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><meta name=3D"viewport" content=3D"width=3Ddevi=
+ce-width, initial-scale=3D1">
+=09<title>Ce M=C3=A9lange de Plantes Japonais Force les Cellules Adipeuses =
+=C3=A0 Fondre</title>
+=09<style type=3D"text/css">p{
+margin:10px 0;
+padding:0;
+}
+table{
+border-collapse:collapse;
+}
+h1,h2,h3,h4,h5,h6{
+display:block;
+margin:0;
+padding:0;
+}
+img,a img{
+border:0;
+height:auto;
+outline:none;
+text-decoration:none;
+}
+body,#bodyTable,#bodyCell{
+height:100%;
+margin:0;
+padding:0;
+width:100%;
+}
+.mcnPreviewText{
+display:none !important;
+}
+#outlook a{
+padding:0;
+}
+img{
+-ms-interpolation-mode:bicubic;
+}
+table{
+mso-table-lspace:0pt;
+mso-table-rspace:0pt;
+}
+.ReadMsgBody{
+width:100%;
+}
+.ExternalClass{
+width:100%;
+}
+p,a,li,td,blockquote{
+mso-line-height-rule:exactly;
+}
+a[href^=3Dtel],a[href^=3Dsms]{
+color:inherit;
+cursor:default;
+text-decoration:none;
+}
+p,a,li,td,body,table,blockquote{
+-ms-text-size-adjust:100%;
+-webkit-text-size-adjust:100%;
+}
+.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Exter=
+nalClass span,.ExternalClass font{
+line-height:100%;
+}
+a[x-apple-data-detectors]{
+color:inherit !important;
+text-decoration:none !important;
+font-size:inherit !important;
+font-family:inherit !important;
+font-weight:inherit !important;
+line-height:inherit !important;
+}
+#bodyCell{
+padding:10px;
+}
+.templateContainer{
+max-width:600px !important;
+}
+a.mcnButton{
+display:block;
+}
+.mcnImage,.mcnRetinaImage{
+vertical-align:bottom;
+}
+.mcnTextContent{
+word-break:break-word;
+}
+.mcnTextContent img{
+height:auto !important;
+}
+.mcnDividerBlock{
+table-layout:fixed !important;
+}
+/*
+@tab Page
+@section Background Style
+@tip Set the background color and top border for your email. You may want t=
+o choose colors that match your company's branding.
+*/
+body,#bodyTable{
+/*@editable*/background-color:#FFFFFF;
+}
+/*
+@tab Page
+@section Background Style
+@tip Set the background color and top border for your email. You may want t=
+o choose colors that match your company's branding.
+*/
+#bodyCell{
+/*@editable*/border-top:0;
+}
+/*
+@tab Page
+@section Email Border
+@tip Set the border for your email.
+*/
+.templateContainer{
+/*@editable*/border:0;
+}
+/*
+@tab Page
+@section Heading 1
+@tip Set the styling for all first-level headings in your emails. These sho=
+uld be the largest of your headings.
+@style heading 1
+*/
+h1{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:26px;
+/*@editable*/font-style:normal;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:125%;
+/*@editable*/letter-spacing:normal;
+/*@editable*/text-align:left;
+}
+/*
+@tab Page
+@section Heading 2
+@tip Set the styling for all second-level headings in your emails.
+@style heading 2
+*/
+h2{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:22px;
+/*@editable*/font-style:normal;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:125%;
+/*@editable*/letter-spacing:normal;
+/*@editable*/text-align:left;
+}
+/*
+@tab Page
+@section Heading 3
+@tip Set the styling for all third-level headings in your emails.
+@style heading 3
+*/
+h3{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:20px;
+/*@editable*/font-style:normal;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:125%;
+/*@editable*/letter-spacing:normal;
+/*@editable*/text-align:left;
+}
+/*
+@tab Page
+@section Heading 4
+@tip Set the styling for all fourth-level headings in your emails. These sh=
+ould be the smallest of your headings.
+@style heading 4
+*/
+h4{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:18px;
+/*@editable*/font-style:normal;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:125%;
+/*@editable*/letter-spacing:normal;
+/*@editable*/text-align:left;
+}
+/*
+@tab Preheader
+@section Preheader Style
+@tip Set the background color and borders for your email's preheader area.
+*/
+#templatePreheader{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:0;
+/*@editable*/padding-top:9px;
+/*@editable*/padding-bottom:9px;
+}
+/*
+@tab Preheader
+@section Preheader Text
+@tip Set the styling for your email's preheader text. Choose a size and col=
+or that is easy to read.
+*/
+#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+/*@editable*/color:#656565;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:12px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Preheader
+@section Preheader Link
+@tip Set the styling for your email's preheader links. Choose a color that =
+helps them stand out from your text.
+*/
+#templatePreheader .mcnTextContent a,#templatePreheader .mcnTextContent p a=
+{
+/*@editable*/color:#656565;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Header
+@section Header Style
+@tip Set the background color and borders for your email's header area.
+*/
+#templateHeader{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:0;
+/*@editable*/padding-top:9px;
+/*@editable*/padding-bottom:0;
+}
+/*
+@tab Header
+@section Header Text
+@tip Set the styling for your email's header text. Choose a size and color =
+that is easy to read.
+*/
+#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:16px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Header
+@section Header Link
+@tip Set the styling for your email's header links. Choose a color that hel=
+ps them stand out from your text.
+*/
+#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{
+/*@editable*/color:#007C89;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Upper Body
+@section Upper Body Style
+@tip Set the background color and borders for your email's upper body area.
+*/
+#templateUpperBody{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:0;
+/*@editable*/padding-top:0;
+/*@editable*/padding-bottom:0;
+}
+/*
+@tab Upper Body
+@section Upper Body Text
+@tip Set the styling for your email's upper body text. Choose a size and co=
+lor that is easy to read.
+*/
+#templateUpperBody .mcnTextContent,#templateUpperBody .mcnTextContent p{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:16px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Upper Body
+@section Upper Body Link
+@tip Set the styling for your email's upper body links. Choose a color that=
+ helps them stand out from your text.
+*/
+#templateUpperBody .mcnTextContent a,#templateUpperBody .mcnTextContent p a=
+{
+/*@editable*/color:#007C89;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Columns
+@section Column Style
+@tip Set the background color and borders for your email's columns.
+*/
+#templateColumns{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:0;
+/*@editable*/padding-top:0;
+/*@editable*/padding-bottom:0;
+}
+/*
+@tab Columns
+@section Column Text
+@tip Set the styling for your email's column text. Choose a size and color =
+that is easy to read.
+*/
+#templateColumns .columnContainer .mcnTextContent,#templateColumns .columnC=
+ontainer .mcnTextContent p{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:16px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Columns
+@section Column Link
+@tip Set the styling for your email's column links. Choose a color that hel=
+ps them stand out from your text.
+*/
+#templateColumns .columnContainer .mcnTextContent a,#templateColumns .colum=
+nContainer .mcnTextContent p a{
+/*@editable*/color:#007C89;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Lower Body
+@section Lower Body Style
+@tip Set the background color and borders for your email's lower body area.
+*/
+#templateLowerBody{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:2px solid #EAEAEA;
+/*@editable*/padding-top:0;
+/*@editable*/padding-bottom:9px;
+}
+/*
+@tab Lower Body
+@section Lower Body Text
+@tip Set the styling for your email's lower body text. Choose a size and co=
+lor that is easy to read.
+*/
+#templateLowerBody .mcnTextContent,#templateLowerBody .mcnTextContent p{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:16px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Lower Body
+@section Lower Body Link
+@tip Set the styling for your email's lower body links. Choose a color that=
+ helps them stand out from your text.
+*/
+#templateLowerBody .mcnTextContent a,#templateLowerBody .mcnTextContent p a=
+{
+/*@editable*/color:#007C89;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Footer
+@section Footer Style
+@tip Set the background color and borders for your email's footer area.
+*/
+#templateFooter{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/background-image:none;
+/*@editable*/background-repeat:no-repeat;
+/*@editable*/background-position:center;
+/*@editable*/background-size:cover;
+/*@editable*/border-top:0;
+/*@editable*/border-bottom:0;
+/*@editable*/padding-top:9px;
+/*@editable*/padding-bottom:9px;
+}
+/*
+@tab Footer
+@section Footer Text
+@tip Set the styling for your email's footer text. Choose a size and color =
+that is easy to read.
+*/
+#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+/*@editable*/color:#656565;
+/*@editable*/font-family:Helvetica;
+/*@editable*/font-size:12px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:center;
+}
+/*
+@tab Footer
+@section Footer Link
+@tip Set the styling for your email's footer links. Choose a color that hel=
+ps them stand out from your text.
+*/
+#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{
+/*@editable*/color:#656565;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+@media only screen and (min-width:768px){
+.templateContainer{
+width:600px !important;
+}
+
+} @media only screen and (max-width: 480px){
+body,table,td,p,a,li,blockquote{
+-webkit-text-size-adjust:none !important;
+}
+
+} @media only screen and (max-width: 480px){
+body{
+width:100% !important;
+min-width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+#bodyCell{
+padding-top:10px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.columnWrapper{
+max-width:100% !important;
+width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnRetinaImage{
+max-width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImage{
+width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCaption=
+BottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcnIm=
+ageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionRig=
+htTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRigh=
+tImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCardR=
+ightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImageCa=
+rdRightImageContentContainer{
+max-width:100% !important;
+width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnBoxedTextContentContainer{
+min-width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageGroupContent{
+padding:9px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter .m=
+cnTextContent{
+padding-top:9px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCaptio=
+nBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-child =
+.mcnTextContent{
+padding-top:18px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageCardBottomImageContent{
+padding-bottom:9px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageGroupBlockInner{
+padding-top:0 !important;
+padding-bottom:0 !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageGroupBlockOuter{
+padding-top:9px !important;
+padding-bottom:9px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnTextContent,.mcnBoxedTextContentColumn{
+padding-right:18px !important;
+padding-left:18px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+padding-right:18px !important;
+padding-bottom:0 !important;
+padding-left:18px !important;
+}
+
+} @media only screen and (max-width: 480px){
+.mcpreview-image-uploader{
+display:none !important;
+width:100% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Heading 1
+@tip Make the first-level headings larger in size for better readability on=
+ small screens.
+*/
+h1{
+/*@editable*/font-size:22px !important;
+/*@editable*/line-height:125% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Heading 2
+@tip Make the second-level headings larger in size for better readability o=
+n small screens.
+*/
+h2{
+/*@editable*/font-size:20px !important;
+/*@editable*/line-height:125% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Heading 3
+@tip Make the third-level headings larger in size for better readability on=
+ small screens.
+*/
+h3{
+/*@editable*/font-size:18px !important;
+/*@editable*/line-height:125% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Heading 4
+@tip Make the fourth-level headings larger in size for better readability o=
+n small screens.
+*/
+h4{
+/*@editable*/font-size:16px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Boxed Text
+@tip Make the boxed text larger in size for better readability on small scr=
+eens. We recommend a font size of at least 16px.
+*/
+.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContainer=
+ .mcnTextContent p{
+/*@editable*/font-size:14px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Preheader Visibility
+@tip Set the visibility of the email's preheader on small screens. You can =
+hide it to save space.
+*/
+#templatePreheader{
+/*@editable*/display:block !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Preheader Text
+@tip Make the preheader text larger in size for better readability on small=
+ screens.
+*/
+#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+/*@editable*/font-size:14px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Header Text
+@tip Make the header text larger in size for better readability on small sc=
+reens.
+*/
+#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+/*@editable*/font-size:16px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Upper Body Text
+@tip Make the upper body text larger in size for better readability on smal=
+l screens. We recommend a font size of at least 16px.
+*/
+#templateUpperBody .mcnTextContent,#templateUpperBody .mcnTextContent p{
+/*@editable*/font-size:16px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Column Text
+@tip Make the column text larger in size for better readability on small sc=
+reens. We recommend a font size of at least 16px.
+*/
+#templateColumns .columnContainer .mcnTextContent,#templateColumns .columnC=
+ontainer .mcnTextContent p{
+/*@editable*/font-size:16px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Lower Body Text
+@tip Make the lower body text larger in size for better readability on smal=
+l screens. We recommend a font size of at least 16px.
+*/
+#templateLowerBody .mcnTextContent,#templateLowerBody .mcnTextContent p{
+/*@editable*/font-size:16px !important;
+/*@editable*/line-height:150% !important;
+}
+
+} @media only screen and (max-width: 480px){
+/*
+@tab Mobile Styles
+@section Footer Text
+@tip Make the footer content text larger in size for better readability on =
+small screens.
+*/
+#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+/*@editable*/font-size:14px !important;
+/*@editable*/line-height:150% !important;
+}
+
+}
+=09</style>
+</head>
+<body><!--*|IF:MC_PREVIEW_TEXT|*--><!--[if !gte mso 9]><!----><span class=
+=3D"mcnPreviewText" style=3D"display:none; font-size:0px; line-height:0px; =
+max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidde=
+n; mso-hide:all;">*|MC_PREVIEW_TEXT|*</span><!--<![endif]--> <!--*|END:IF|*=
+-->
+<center>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" he=
+ight=3D"100%" id=3D"bodyTable" width=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" id=3D"bodyCell" valign=3D"top">
+=09=09=09<div style=3D"text-align: center;"><!-- BEGIN TEMPLATE // --><!--[=
+if (gte mso 9)|(IE)]>
+                        <table align=3D"center" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                        <tr>
+                        <td align=3D"center" valign=3D"top" width=3D"600" s=
+tyle=3D"width:600px;">
+                        <![endif]--></div>
+
+=09=09=09<div style=3D"text-align: center;">=C2=A0</div>
+
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"t=
+emplateContainer" width=3D"100%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td id=3D"templatePreheader" valign=3D"top">
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">Breaking scientific re=
+search shows that there=E2=80=99s a green vegetable that INFLAMES diabetes =
+type 2 symptoms=E2=80=A6</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">Causing deadly spikes =
+in blood sugar, increased fat storage, hormonal imbalances, brain fog, arte=
+rial plaque and debilitating chronic fatigue=E2=80=A6</span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p style=3D"text-align: center;"><span style=3D"font-size=
+:22px;"><a href=3D"http://77.246.158.206/mail/index.php/campaigns/he3082ro1=
+a586/track-url/kp738n28yr1b7/8acb331ea99bfb0f050064fca64abb703fa04b81"><b>>=
+> Discover the 1 Green VEGGIE that WORSENS Diabetes Type 2 Symptoms (New In=
+formation)</b></a></span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">You might be eating th=
+is veggie every day, believing it to be super =E2=80=9Chealthy=E2=80=9D...l=
+ike everyone else does=E2=80=A6.</span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">But it=E2=80=99s NOT..=
+.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">I was eating this gree=
+n veggie myself 3 or 4 times a week=E2=80=A6</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">Believing it to be sup=
+er good for me (all the diet gurus tell you to eat it daily)=E2=80=A6.</spa=
+n></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">It=E2=80=99s NOT your =
+fault if you=E2=80=99re eating it too.</span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">You could never know t=
+his veggie considered to be a =E2=80=9Csuper food=E2=80=9D is infected with=
+ some of the nastiest industrial toxins on the planet=E2=80=A6.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">Toxins that are banned=
+ in Europe because they inflame your diabetes type 2 symptoms, attack your =
+pancreas and disrupt your insulin=E2=80=A6.</span></p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">Can you imagine gettin=
+g your blood sugar under control for the first time in years?</span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">Start by eliminating t=
+his common veggie from your diet as of today:</span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p style=3D"text-align: center;"><span style=3D"font-size=
+:24px;"><a href=3D"http://77.246.158.206/mail/index.php/campaigns/he3082ro1=
+a586/track-url/kp738n28yr1b7/8acb331ea99bfb0f050064fca64abb703fa04b81"><b>>=
+> 1 Green VEGGIE that INFLAMES Diabetes Type 2 Symptoms [New Information]</=
+b></a></span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+
+=09=09=09=09=09=09<p><span style=3D"font-size:20px;">To your best health.</=
+span></p>
+
+=09=09=09=09=09=09<p>=C2=A0</p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td id=3D"templateUpperBody" valign=3D"top">=C2=A0</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td id=3D"templateFooter" valign=3D"top">=C2=A0</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+
+=09=09=09<div style=3D"text-align: left;"><!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--><!-- // END TEMPLATE --></div>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+</center>
+
+<div><meta charset=3D"utf-8"/></div>
+
+<div style=3D"text-align: center;"><a data-unsubtag=3D"_UNSUBSCRIBE_URL_" h=
+ref=3D"http://77.246.158.206/mail/index.php/campaigns/he3082ro1a586/track-u=
+rl/kp738n28yr1b7/ecfd947cccc0c3ba68ebd6dcefd5238e74f680e2">unsubscrible</a>=
+</div>
+
+<div>=C2=A0</div>
+<img width=3D"1" height=3D"1" src=3D"http://77.246.158.206/mail/index.php/c=
+ampaigns/he3082ro1a586/track-opening/kp738n28yr1b7" alt=3D"" />
+</body>
+</html>
+<title></title>
+
+--_=_swift_v4_1578388952_313c13d097ca991398a8e5d411c60b3f_=_--
+

@@ -1,0 +1,100 @@
+Return-Path: <SRS0=CVnq3f=22=swarl.date=fungusremoving.spice-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 19174 invoked from network); 5 Jan 2020 17:57:52 -0000
+Received: (qmail 28918 invoked from network); 5 Jan 2020 17:57:51 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Jan 2020 17:57:51 -0000
+Received: (qmail 6601 invoked by uid 48516); 5 Jan 2020 17:57:51 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 21837 invoked from network); 5 Jan 2020 17:57:51 -0000
+Received: from mail.swarl.date (208-187-163-79.nca.datanoc.com [208.187.163.79])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 05 Jan 2020 17:57:49 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=swarl.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fungusremoving.spice@swarl.date;
+ bh=czEFiFskBB/kqzXQCumq1Z2b+qE=;
+ b=nu0IebCCRlQjsAWhf4VPyTrRrLUEw/DLKIEiW19vJ+o+Ymn4boBcwWurMuoTGjVOETYCrSL5YgEM
+   xuPJorOEVnT36wlnq27FGcbwSavd6/ND5mXyeWmEAo4OgjD38z0VrrJOEGN6Dr9izd4tJeBNh8SW
+   z5vpRKTzjZe8zDPf/34=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=swarl.date;
+ b=kheG0Mxg6eluutTeVWINE6BkxG6CttClzrZtUT2PH41hcRyaDrj+vscZjv7jCjKnvT/+EvkaU51c
+   wSDF7KB51bQP8Z4DCmSRhhr/nLuvY3A6pFHrVSXL4ideoJog3m9YZS39ZQihZEGlgpJ70Y0m67Ge
+   V5GgC0OM88ehmq6k9mE=;
+Received: by mail.swarl.date id h28hpq0001go for <bruce@untroubled.org>; Sun, 5 Jan 2020 12:52:52 -0500 (envelope-from <fungusremoving.spice-bruce=untroubled.org@swarl.date>)
+Date: Sun, 5 Jan 2020 12:52:52 -0500
+From: "FungusRemoving Spice" <fungusremoving.spice@swarl.date>
+To:   <bruce@untroubled.org>
+Subject: 1 Simple Recipe To End Nail Fungus - Try Tonight
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_64_664244536.1578246766179"
+List-Unsubscribe: <http://www.swarl.date/grease-pendulum/be86aK239L5q8tg913K1Vq1ivH19d7M21gFv4GIf4rxvs4FhIHEsvZ10aQ2RQodor96M1N0Hl5F1HWi>
+Message-ID: <0.0.0.7.1D5C3F0F391D5C8.55DE02@mail.swarl.date>
+Content-Length: 6824
+
+------=_Part_64_664244536.1578246766179
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>river</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.swarl.date/9716Fo239s5tZn8612z70aaTU19d7R21iFv4GIf4rxvs4FhIHEsvZ10YQ2RQodor97X1Ljp_05YBHPi/casework-intubate">Want to cure for foot fungus </a></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: 2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; height: 530px; "> 
+    <tbody> 
+     <tr> 
+      <td> 
+       <table border="1" cellpadding="0" cellspacing="0" style="font-family: &quot; Sans Serif&quot; , serif; font-size: 17px; height: 548px; " width="590"> 
+        <tbody> 
+         <tr> 
+          <td> 
+           <table border="0" cellpadding="5" cellspacing="5" style="height: 526px; " width="586"> 
+            <tbody> 
+             <tr> 
+              <td> 
+               <div style="font-family: &quot; Sans Serif&quot; ; font-size: 16px; "> 
+                <div style="color: rgb(0, 0, 0); line-height: normal; font-family: &quot; Sans Serif&quot; ; font-size: 12px; "> 
+                 <h1 style="margin: 20px 6px; color: rgb(34, 34, 34); line-height: 40px; font-family: &quot; Sans Serif&quot; ; font-size: 36px; box-sizing: border-box; text-align: center; "><span style="font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(0, 0, 0); "><strong>This Man Cured His Nail Fungus This Simple Trick (Watch Here)</strong></span></span></h1> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><a href="http://www.swarl.date/9716Fo239s5tZn8612z70aaTU19d7R21iFv4GIf4rxvs4FhIHEsvZ10YQ2RQodor97X1Ljp_05YBHPi/casework-intubate"><img alt="stag" src="http://www.swarl.date/omission-welling/6486PM239g5l7Hag13l70aTdUH19d7m21hFv4GIf4rxvs4FhIHEsvZ10iQ2RQodor96Bj1mw06KkHBiP" style="width: 490px; height: 285px; " /></a></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(14, 14, 184); "><span style="font-size: 34px; font-family: &quot; Sans Serif&quot; ; "><strong><a href="http://www.swarl.date/9716Fo239s5tZn8612z70aaTU19d7R21iFv4GIf4rxvs4FhIHEsvZ10YQ2RQodor97X1Ljp_05YBHPi/casework-intubate" style="color: rgb(14, 14, 184); ">{Watch Now}</a></strong></span></span></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                </div> 
+               </div> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <a href="http://www.swarl.date/casework-intubate/bac4m2395qD86I13c7I0aAbx19d7Z21cFv4GIf4rxvs4FhIHEsvZ10CQ2RQodor96bI1wO05K3BHi"><font color="#666666">Remove Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.swarl.date/6295Qp2395kR89F13o70ajcuT19d7N21cFv4GIf4rxvs4FhIHEsvZ10MQ2RQodor96L10JuB5cpHi@/grease-pendulum">St0p Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+    <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 80918</span>
+    <br /> &nbsp; 
+   </div> <span style="declares"></span><span><big></big></span><span></span><span lang="rises"></span>
+  </center>   
+ <img src="http://www.swarl.date/11f4l2395m85Di12u70aLeo19d7Z21UFv4GIf4rxvs4FhIHEsvZ10OQ2RQodor97YvhM10r6PNHi1j/honey-audited" alt=""/></body>
+</html>
+
+------=_Part_64_664244536.1578246766179--
+

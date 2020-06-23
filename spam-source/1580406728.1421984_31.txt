@@ -1,0 +1,148 @@
+Return-Path: <copeland@zzz-now.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2036 invoked from network); 29 Jan 2020 23:56:46 -0000
+Received: (qmail 60874 invoked by uid 222); 29 Jan 2020 23:56:45 -0000
+Return-Path: <copeland@zzz-now.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 60871 invoked from network); 29 Jan 2020 23:56:45 -0000
+Received: from zzz-now.com (69-94-130-53.nca.lanset.com [69.94.130.53])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 29 Jan 2020 23:56:45 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=zzz-now.com; s=dkim;
+	t=1580339783; bh=CxsvECXijSDyWXX/rBzzkafefjA=;
+	h=To:Date:From:Message-ID:Subject;
+	b=cUNCkDW0Ur/eyUxJxMvBcv/rpBfesUSZJJS2ikJ19ZBqir4tDIIjM3xZjdd4CQ4hk
+	 rueERvvGyXNstX2lfQVFiyttkU+oVlqlhVccAtQxL1sq4DUIJFi/b/GXtMTrNa5CSh
+	 zuFZvyztsonpFUsQIISAFFhwOHGHhbJ19vzmw8+A=
+To: "bruce@untroubled.org" <bruce@untroubled.org> 
+Date: Wed, 29 Jan 2020 18:16:23 -0500 
+From: "Provide Insurance - Car Insurance" <copeland@zzz-now.com> 
+Message-ID: <oxlV4M3P0PDNwyi.ysr762W452FYcfb@zzz-now.com> 
+MIME-Version: 1.0 
+Subject: Switch Auto Insurance and you could Save $536/year 
+List-Unsubscribe: <http://evf6U7AJ5Y21lyo.zzz-now.com/198db78ecea6dd77076e59b11_4712325e/3/> 
+Content-type: multipart/alternative; boundary="---=_Part_45_469B88.RTF8";
+Content-Length: 10214
+
+-----=_Part_45_469B88.RTF8
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Switch Auto Insurance and you could Save $536/year
+
+http://xlmCLQ72960Qibr.zzz-now.com/208fe4a49bd6dd77076e59b116ea1617_4712325e-0101051d0001/1/
+
+Switch Auto Insurance and you could Save $536/year
+
+-----=_Part_45_469B88.RTF8
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+? <html>
+<head>
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+ body {background: #e6e6e6; font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; margin: 0; padding: 0;}
+
+ @media only screen and (max-width: 599px) {
+ /* responsive framework */
+ .flex100 {width: 100% !important; height: auto !important; clear: both !important;}
+ .flex95 {width: 95% !important; height: auto !important; clear: both !important;}
+ .flex90 {width: 90% !important; height: auto !important; clear: both !important;}
+ .flex75 {width: 75% !important; height: auto !important; clear: both !important;}
+ /* toggle element on+off for mobile */
+ .mobile_show {display:block !important; visibility:visible !important; width:100% !important; font-size:inherit !important; line-height:inherit !important; height:auto !important; margin:auto !important; max-height:inherit !important; overflow:auto !important; mso-hide:none !important;}
+ .mobile_hide {display:none !important; visibility:hidden !important; width:0px !important; height:0px !important; max-height:0px !important; overflow:hidden !important; mso-hide:all !important; border:none !important; font-size:0 !important; line-height:0 !important; padding:0 !important;}
+ }
+</style>
+</head>
+<body style="background: #e6e6e6; font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5;">
+<a class="flex100" href="http://jaiERCG5GC20uyw.zzz-now.com/208fe4a49bd6dd77076e59b116ea1617_4712325e-0101051d0001/1/" style="border: 0 !important; color: inherit !important; color: #000000; display: block !important; margin: 0 auto !important; text-decoration: none !important; width: 600px">
+<table align="center" cellpadding="0" cellspacing="0">
+ <tr><td height="10" style="font-size: 0px; line-height: 0px;"> </td></tr>
+</table>
+<table class="flex95" width="600" align="center" bgcolor="#192E59" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 600px !important; -webkit-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); -moz-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); box-shadow: 0 5px 10px -8px rgba(0,0,0,1);">
+ <tr>
+ <td align="center">
+ <table width="90%" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 90% !important;">
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 2.2em; line-height: 1.2; color: #ffffff; font-weight: bold; text-align: left; text-transform: uppercase;">
+ Don't Overpay!
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ </table>
+ </td>
+ </tr>
+</table>
+
+<table class="flex95" width="600" align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 600px !important; -webkit-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); -moz-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); box-shadow: 0 5px 10px -8px rgba(0,0,0,1);">
+ <tr>
+ <td align="center"><img class="flex100" src="http://ghiGN6F5FNC7ngx.zzz-now.com/images/car-scenic-road.jpg" alt="" width="600" border="0" /></td>
+ </tr>
+ <tr>
+ <td align="center">
+ <table width="90%" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 90% !important;">
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 1.7em; line-height: 1.2; color: #192E59; font-weight: bold; text-align: center;">
+ Have you compared auto quotes lately?
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 1.2em; color: #2e3435; text-align: center;">
+ Shopping around for auto insurance used to be hard, but Provide Insurance makes it easy. In just minutes, we use our consumer alignment technology to match you with top carriers at low rates.
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td align="center">
+ <table align="center" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="300" align="center" height="44" bgcolor="#192E59">
+ <a href="http://ucbDH97R6662xkd.zzz-now.com/208fe4a49bd6dd77076e59b116ea1617_4712325e-0101051d0001/1/" target="_blank" style="display: block; color: #ffffff; font-size: 1.6em; line-height: 56px; font-weight: bold; text-decoration: none; text-transform: uppercase; white-space: nowrap;">
+ Find Rates
+ </a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td align="center">
+ <a href="http://eht6E0L845D2sjn.zzz-now.com/208fe4a49bd6dd77076e59b116ea1617_4712325e-0101051d0001/1/" target="blank" style="border: 0; text-decoration: none !important;">
+ <img src="http://dtg62X082YH6qxq.zzz-now.com/images/provide-insurance-blue.png" alt="Provide Insurance" width="150" border="0" />
+ </a>
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ </table>
+ </td>
+ </tr>
+</table>
+</a>
+<table class="flex75" width="600" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto;">
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: .75em !important; text-align: center; color: #999999;">
+ © 2018 Provide Insurance | PO Box 425768 Cambridge, MA 02142 | <a href="http://caw27LQXIE62nug.zzz-now.com/2089b2df5056dd77076e59b116eb1617_4712325e-0101051d0001/1/" style="color: #999999; white-space: nowrap;">Unsubscribe</a>
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+</table>
+<span style="color:#808080;"><span style="font-size: 0.15px;"><span style="font-family: arial,helvetica,sans-serif;">It was soon after his thirtyfifth year that he returned to Paris where he was welcomed by thousands With much tact he reconciled himself to his enemies so that his life now seemed to be full of promise and of sunshine     The Spinal CordThe spinal cord proceeds from the base of the brain downward about eighteen inches through a canal provided for it in the vertebr of the spinal column It is composed of white matter on the outside and gray matter within A deep fissure on the anterior side and another on the posterior cleave the cord nearly in twain resembling the brain in this particular The gray matter on the interior is in the form of two crescents connected by a narrow barPierre Abelard was undoubtedly the boldest and most creative reasoner of his time As a wandering teacher he drew after him thousands of enthusiastic students He gave a strong impetus to learning He was a marvelous logician and an accomplished orator Among his pupils were men who afterward became prelates of the church and distinguished scholars In the Dark Age when the dictates of reason were almost wholly disregarded he fought fearlessly for intellectual freedom He was practically the founder of the University of Paris which in turn became the mother of medieval and modern lover hu universities the message body text and the other is an index with theBut in the case of Antony and Cleopatra alone do we find a man flinging away not merely the triumphs of civic honors or the headship of a state but much more than thesethe mastery of what was practically the worldin answer to the promptings of a womans will Hence the story of the Roman triumvir and the Egyptian queen is not like any other story that has yet been told The sacrifice involved in it was so overwhelming so instantaneous and so complete as to set this narrative above all others Shakespeares genius has touched it with the glory of a great imagination Dryden using it in the finest of his plays expressed its nature in the title All for LoveSome defense attorneys specializing in traffic issues said if the signed tickets cannot be produced people like Patricia Wilhelm should go to a judge and ask that the case be dismissed 1       As to the scene it must be remembered that the Egypt of those days was not Egyptian as we understand the word but rather Greek Cleopatra herself was of Greek descent The kingdom of Egypt had been created by a general of Alexander the Great after that splendid warriors death Its capital the most brilliant city of the GrecoRoman world had been founded by Alexander himself who gave to it his name With his own hands he traced out the limits of the city and issued the most peremptory orders that it should be made the metropolis of the entire world The orders of a king cannot give enduring greatness to a city but Alexanders keen eye and marvelous brain saw at once that the site of Alexandria was such that a great commercial community planted there would live and flourish throughout out succeeding ages He was right for within a century this new capital of Egypt leaped to the forefront among the exchanges of the worlds commerce while everything that art could do was lavished on its embellishment defined two types BYTE and WORD In the Lattice 212MSDOSthanksTasteThe sense of taste is located chiefly in the tongue over the surface of which are scattered many minute tastebulbs These can be seen as small red specks most plentifully distributed along the edges and at the tip of the tongue The substance tasted must be in solution and come in contact with the nerve endings The action of the stimulus is chemicalPage 1GALVANIZING    exit</span>
+</body>
+</html>
+
+
+<center>
+
+
+<font face=verdana size=1>purge my email from your index <a href='http://hvqYW5Q6F670aqh.zzz-now.com/198db78ecea6dd77076e59b11_4712325e/U/8044'>here</a> <br> 1500 Beville Rd STE 606 Box 10009, Daytona Beach, FL 32114
+<img src="http://eabERN5LL7OKnhp.zzz-now.com/2083c1482c06dd77076e59b116a78f0b_4712325e-0101051d0001/2/">
+
+-----=_Part_45_469B88.RTF8--

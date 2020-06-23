@@ -1,0 +1,74 @@
+Return-Path: <SRS0=6sPQtc=3D=tumecy.buzz=tinnitus911.now-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1390 invoked from network); 14 Jan 2020 17:12:55 -0000
+Received: (qmail 4716 invoked from network); 14 Jan 2020 17:12:54 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 17:12:54 -0000
+Received: (qmail 17120 invoked by uid 48516); 14 Jan 2020 17:12:53 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8286 invoked from network); 14 Jan 2020 17:12:51 -0000
+Received: from mail.tumecy.buzz (208-186-113-81.nca.datanoc.com [208.186.113.81])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 14 Jan 2020 17:12:50 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tumecy.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=tinnitus911.now@tumecy.buzz;
+ bh=YQWqzAexPkrgqU7RQsa2vi4Y7nE=;
+ b=HYnTtsQHYCAwPw0a8jJj5ejfL/F0NaW/faguQ9MU0gJ9b0BHMSvHIGT08yDXiq6+5irVZ0caPcAl
+   AYpQ0iXzpvNDQtzVYVM75DsYoWYo7tXuQVP+S6mAWNGUEjo1wOfVISNIdgZvk3SIRSJWk/DxjwOE
+   p92OeaBaPSzk9xkqP4U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tumecy.buzz;
+ b=Cu0/OakJ328emcJvgpfFkEshHVzGUX5V8al4n+JTWI8mlVRYo7pP8nOpMlKJMs5STxLivKrOGHHH
+   +6VbLlZtoXFQZQBNIHKs9jaQg5/WX433tP+wXSd+iNIXttugHIgNksjrj70sr7bDen6ZwvmKOrpw
+   +bNj/C+6no6GA2l1Koo=;
+Received: by mail.tumecy.buzz id h3nr960001g0 for <bruce@untroubled.org>; Tue, 14 Jan 2020 12:04:19 -0500 (envelope-from <tinnitus911.now-bruce=untroubled.org@tumecy.buzz>)
+Date: Tue, 14 Jan 2020 12:04:19 -0500
+From: "Tinnitus911 Now" <tinnitus911.now@tumecy.buzz>
+To:   <bruce@untroubled.org>
+Subject: Your ear ringing has NOTHING to do with your ears (shocking truth)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_109_269462230.1579021455336"
+List-Unsubscribe: <http://www.tumecy.buzz/implant-nagged/af86rV2A395O89nG12tO1n1SH34c2F21BFv4GIf4rxvs4FhIHEsvZ11MRZndoodor96cT10GA5VUcYp>
+Message-ID: <0.0.0.C.1D5CAFCA8D42D84.33CB52@mail.tumecy.buzz>
+Content-Length: 6873
+
+------=_Part_109_269462230.1579021455336
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>apprehensive</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.tumecy.buzz/commuted-cool/ada5H2A395Ny8s612wea7obJ34c2H21YFv4GIf4rxvs4FhIHEsvZ11cRZndoodor96Sgs10N6h2cyYB" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.tumecy.buzz/8635P239D5lg7ha13keiUa7eQ34c2o21cFv4GIf4rxvs4FhIHEsvZ11eRZndoodor97Aqi10XT5p2qcY/contender-Riley" style="border-width: 0px; border-style: solid; width: 82%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:georgia,serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:georgia,serif; "><a href="http://www.tumecy.buzz/commuted-cool/ada5H2A395Ny8s612wea7obJ34c2H21YFv4GIf4rxvs4FhIHEsvZ11cRZndoodor96Sgs10N6h2cyYB">Do THIS &quot; easy 10 second trick&quot; to restore your hearing</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.tumecy.buzz/2695Hh2395N86YF11Fea7co34c2o21fFv4GIf4rxvs4FhIHEsvZ11kRZndoodor96S1x0uG6HzB@cY/McDowell-stressful"><font color="#666666">exit mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.tumecy.buzz/f2f5I239g5jn8u913EekaZ7dA34c2k21eFv4GIf4rxvs4FhIHEsvZ11oRZndoodor97RQV1OT05BWcYj/McDowell-stressful">Remove Here</a>
+    <br /> 
+    <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+   </div> <style></style><span class="omnipotent"></span><font></font><font></font><font style="teenagers"></font><style><span color="sterilizer"></span></style><font lang="dyes"></font><font title="personalized"><style></style></font>
+  </center>   
+ <img src="http://www.tumecy.buzz/authorizations-intervening/1d46nH2X395B85KA12iZea7fn34c2t21PFv4GIf4rxvs4FhIHEsvZ11ORZndoodor97nC1Xh0I6zAycYP" alt=""/></body>
+</html>
+
+------=_Part_109_269462230.1579021455336--
+

@@ -1,0 +1,273 @@
+Return-Path: <wound@videodoorbells.xyz>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 7488 invoked from network); 30 Jan 2020 05:51:42 -0000
+Received: (qmail 62945 invoked by uid 222); 30 Jan 2020 05:51:41 -0000
+Return-Path: <wound@videodoorbells.xyz>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 62942 invoked from network); 30 Jan 2020 05:51:41 -0000
+Received: from videodoorbells.xyz ([185.243.180.183])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 30 Jan 2020 05:51:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=videodoorbells.xyz;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=wound@videodoorbells.xyz;
+ bh=QyI3kS4w5tkMK4CHSar8aw9bpYk=;
+ b=v8U042LH86rTWqEafUonQidAVzWCm+DzOHMBm+ffnmnxc0h3uSes6yCyADXVR3CXqTpa7tbEzdw8
+   R0jYOhqHi+51jmFZjJUDwxkcW/jiFpOmGtfI3mLRfR6/hcPM2xFpNzMVCGE+RU2JEdNx9L96nQAU
+   6cwYWxZd/YDyQLkww3I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=videodoorbells.xyz;
+ b=TEiW1SdRKB8qSOobv6n+7eilm5HyxrxUQUpCKz/nckuo4HMg+59BnkucCAmbiLq8il/UO/AVbxkt
+   pNb2wxHGNUjn+1nso+13iRi8Gz+ymdw6bP285N3kokLZb35jM7aqKjVG6iSgaCfulRQy7ycGryZc
+   C6bbucBIYyq5WJ5w6Xs=;
+From: "Video Door" <wound@videodoorbells.xyz>
+Date: Thu, 30 Jan 2020 00:38:41 -0500
+MIME-Version: 1.0
+Subject: Bring Your Doorbell Into the 21st Century
+To: <bruce@untroubled.org>
+Message-ID: <Yi3ZwDI2dLtGaO_nu0kWJD1hiHfLHqHg1BrXpwpzHjE.QqbVJvbq8C40R90ILGe8qg2MFuaMYhsYjiH5Dios01o@videodoorbells.xyz>
+Content-Type: multipart/alternative;
+ boundary="------------91993926676038828498730"
+Content-Length: 8318
+
+This is a multi-part message in MIME format.
+--------------91993926676038828498730
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+a:link {text-decoration: none;}a:visited {text-decoration: none;}a:hover {text-decoration: underline;}a:active {text-decoration: underline;}
+<http://www.videodoorbells.xyz/upidbufp/odcjlucr109075jifwc/AJthSKl7idLUP-04LSSY2oGSDuKxEOwwclD0mJZHFxU/9iqAtJoTWcf2lOheTbXy3FE_x6TsV9a0f_WiDm6cx9wGCwbdfuZuckdQaGB4ZcaJ-69WlO8ya3lkdyiqYMbvkOJX8CpUR6eXiyDo6vCUHLRKXg7YC68P7w4GORhuV14b>
+
+<http://www.videodoorbells.xyz/upidbufp/odcjlucr109075jifwc/AJthSKl7idLUP-04LSSY2oGSDuKxEOwwclD0mJZHFxU/9iqAtJoTWcf2lOheTbXy3FE_x6TsV9a0f_WiDm6cx9wGCwbdfuZuckdQaGB4ZcaJ-69WlO8ya3lkdyiqYMbvkOJX8CpUR6eXiyDo6vCUHLRKXg7YC68P7w4GORhuV14b>
+
+
+
+The  Video Doorbell
+<http://www.videodoorbells.xyz/upidbufp/odcjlucr109075jifwc/AJthSKl7idLUP-04LSSY2oGSDuKxEOwwclD0mJZHFxU/9iqAtJoTWcf2lOheTbXy3FE_x6TsV9a0f_WiDm6cx9wGCwbdfuZuckdQaGB4ZcaJ-69WlO8ya3lkdyiqYMbvkOJX8CpUR6eXiyDo6vCUHLRKXg7YC68P7w4GORhuV14b> will help you keep in touch with visitors, while also improving home security.
+
+
+
+Answer your front door from anywhere with the Video Doorbell
+
+
+
+This smart Video Doorbell will provide you with instant alerts to your tablet, smartphone or PC.
+
+
+
+The installation and setup process of the doorbell is very simple.
+
+
+
+Key Points :
+
+Easy Installation, Easy Maintenance, No Wiring NeededHD Video Quality, Answer Your Door &amp; Watch at Any Time and From Anywhere.Long Lasting Battery Life, 8-12 Months Use on a Single ChargeCompatible with IOS and Android SmartPhones
+
+
+Click Here to View Now - 50% Off &amp; Free Shipping!
+<http://www.videodoorbells.xyz/upidbufp/odcjlucr109075jifwc/AJthSKl7idLUP-04LSSY2oGSDuKxEOwwclD0mJZHFxU/9iqAtJoTWcf2lOheTbXy3FE_x6TsV9a0f_WiDm6cx9wGCwbdfuZuckdQaGB4ZcaJ-69WlO8ya3lkdyiqYMbvkOJX8CpUR6eXiyDo6vCUHLRKXg7YC68P7w4GORhuV14b>
+
+
+
+
+
+
+
+
+If you does't this update, no problem please Click here
+<http://www.videodoorbells.xyz/vmrpxxgc/b41VuhROG4w7P86CY7gXKRLHUCv6oDyiXe6RUpC8XJOkvbMYqiydkl3ay8OlW96-JacZ4BGaQdkcuZufdbwCGw9xc6mDiW_f0a9VsT6x_EF3yXbTehOl2fcWToJtAqi9.UxFHZJm0DlcwwOExKuDSGo2YSSL40-PULdi7lKShtJA>
+PO BOX 45 Mill Pond Road Rocklin, CA 95677
+
+
+
+
+
+
+2d_In a striking shift from President Donald Trumps claims of perfect dealings with Ukraine, his defenders asserted Wednesday at his Senate trial that a trade of U.S. military aid for political favors  even if proven  could not be grounds for his impeachment. Trumps defense spotlighted retired professor Alan Dershowitz, a member of their team who said that every politician conflates his own interest with the public interest. Therefore, he declared, it cannot be impeachable. The Republicans are still hoping to wind up the impeachment trial with a rapid acquittal. Democrats are pressing hard for the Senate to call additional witnesses, especially Trumps former national security adviser John Bolton. Boltons forthcoming book contends he personally heard Trump say he wanted military aid withheld from Ukraine until it agreed to investigate Joe Biden and his son, Hunter Biden  the abuse of power charge that is the first article of impeachment.
+
+
+
+--------------91993926676038828498730
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<style type="text/css">a:link {
+
+
+    text-decoration: none;
+
+
+}
+
+
+
+
+
+a:visited {
+
+
+    text-decoration: none;
+
+
+}
+
+
+
+
+
+a:hover {
+
+
+    text-decoration: underline;
+
+
+}
+
+
+
+
+
+a:active {
+
+
+    text-decoration: underline;
+
+
+}
+
+
+</style>
+
+
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" />
+
+
+<title></title>
+
+
+<center>
+
+
+<div style="width:650px;line-height:35px;font-family:Calibri;background:#F6F6F6;border:20px solid #3C396E;border-radius:10px"><a href="http://www.videodoorbells.xyz/upidbufp/odcjlucr109075jifwc/AJthSKl7idLUP-04LSSY2oGSDuKxEOwwclD0mJZHFxU/9iqAtJoTWcf2lOheTbXy3FE_x6TsV9a0f_WiDm6cx9wGCwbdfuZuckdQaGB4ZcaJ-69WlO8ya3lkdyiqYMbvkOJX8CpUR6eXiyDo6vCUHLRKXg7YC68P7w4GORhuV14b" target="_blank"><img alt="Easy Maintenance" src="http://www.videodoorbells.xyz/Xlnfw/lvloxees109026ulab/.jpg" style="width: 260px; height: 95px;" /></a>
+
+
+<div style="background:#9F9685;width:650px"><a href="http://www.videodoorbells.xyz/upidbufp/odcjlucr109075jifwc/AJthSKl7idLUP-04LSSY2oGSDuKxEOwwclD0mJZHFxU/9iqAtJoTWcf2lOheTbXy3FE_x6TsV9a0f_WiDm6cx9wGCwbdfuZuckdQaGB4ZcaJ-69WlO8ya3lkdyiqYMbvkOJX8CpUR6eXiyDo6vCUHLRKXg7YC68P7w4GORhuV14b" target="_blank"><img alt="doorbell is very simple" src="http://www.videodoorbells.xyz/Xlnfw/lvloxees109025ulab/.gif" style="width: 600px; height: 338px;" /></a></div><br />
+<img src="http://www.videodoorbells.xyz/tcefsfqkc/AJthSKl7idLUP-04LSSY2oGSDuKxEOwwclD0mJZHFxU/9iqAtJoTWcf2lOheTbXy3FE_x6TsV9a0f_WiDm6cx9wGCwbdfuZuckdQaGB4ZcaJ-69WlO8ya3lkdyiqYMbvkOJX8CpUR6eXiyDo6vCUHLRKXg7YC68P7w4GORhuV14b" >
+
+
+
+
+
+<div style="width:630px;background:#3C396E;color:#FFFFFF;padding:20px">
+
+
+<p style="font-size:17px;text-align:left;">The <b><a href="http://www.videodoorbells.xyz/upidbufp/odcjlucr109075jifwc/AJthSKl7idLUP-04LSSY2oGSDuKxEOwwclD0mJZHFxU/9iqAtJoTWcf2lOheTbXy3FE_x6TsV9a0f_WiDm6cx9wGCwbdfuZuckdQaGB4ZcaJ-69WlO8ya3lkdyiqYMbvkOJX8CpUR6eXiyDo6vCUHLRKXg7YC68P7w4GORhuV14b" style="color:#FFFFFF;text-decoration:underline" target="_blank"> Video Doorbell</a></b> will help you keep in touch with visitors, while also improving home security.</p>
+
+
+
+
+
+<p style="font-size:17px;text-align:left;">Answer your front door from anywhere with the Video Doorbell</p>
+
+
+
+
+
+<p style="font-size:17px;text-align:left;">This smart Video Doorbell will provide you with instant alerts to your tablet, smartphone or PC.</p>
+
+
+
+
+
+<p style="font-size:17px;text-align:left;">The installation and setup process of the doorbell is very simple.</p>
+
+
+
+
+
+<p style="font-size:24px;text-align:left;"><b>Key Points :</b></p>
+
+
+
+
+
+<ul style="font-size:17px;text-align:left;">
+
+
+	<li>Easy Installation, Easy Maintenance, No Wiring Needed</li>
+
+
+	<li>HD Video Quality, Answer Your Door &amp; Watch at Any Time and From Anywhere.</li>
+
+
+	<li>Long Lasting Battery Life, 8-12 Months Use on a Single Charge</li>
+
+
+	<li>Compatible with IOS and Android SmartPhones</li>
+
+
+</ul>
+
+
+</div>
+
+
+
+
+
+<p style="font-size:20px;"><b><a href="http://www.videodoorbells.xyz/upidbufp/odcjlucr109075jifwc/AJthSKl7idLUP-04LSSY2oGSDuKxEOwwclD0mJZHFxU/9iqAtJoTWcf2lOheTbXy3FE_x6TsV9a0f_WiDm6cx9wGCwbdfuZuckdQaGB4ZcaJ-69WlO8ya3lkdyiqYMbvkOJX8CpUR6eXiyDo6vCUHLRKXg7YC68P7w4GORhuV14b" style="color:#CC0000" target="_blank">Click Here to View Now - 50% Off &amp; Free Shipping!</a></b></p>
+
+
+</div>
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+&nbsp;
+
+
+<p style="font-size:11px;font-family:Arial;text-align:center"><br />
+
+
+If you does&#39;t this update, no problem please <a href="http://www.videodoorbells.xyz/vmrpxxgc/b41VuhROG4w7P86CY7gXKRLHUCv6oDyiXe6RUpC8XJOkvbMYqiydkl3ay8OlW96-JacZ4BGaQdkcuZufdbwCGw9xc6mDiW_f0a9VsT6x_EF3yXbTehOl2fcWToJtAqi9.UxFHZJm0DlcwwOExKuDSGo2YSSL40-PULdi7lKShtJA" target="_blank">Click here</a><br />
+
+
+PO BOX 45 Mill Pond Road Rocklin, CA 95677</p>
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+&nbsp;
+
+
+<p style="font-size:1px;color:#FFFFFF">2d_In a striking shift from President Donald Trump&rsquo;s claims of &ldquo;perfect&rdquo; dealings with Ukraine, his defenders asserted Wednesday at his Senate trial that a trade of U.S. military aid for political favors &mdash; even if proven &mdash; could not be grounds for his impeachment. Trump&rsquo;s defense spotlighted retired professor Alan Dershowitz, a member of their team who said that every politician conflates his own interest with the public interest. Therefore, he declared, &ldquo;it cannot be impeachable.&rdquo; The Republicans are still hoping to wind up the impeachment trial with a rapid acquittal. Democrats are pressing hard for the Senate to call additional witnesses, especially Trump&rsquo;s former national security adviser John Bolton. Bolton&rsquo;s forthcoming book contends he personally heard Trump say he wanted military aid withheld from Ukraine until it agreed to investigate Joe Biden and his son, Hunter Biden &mdash; the abuse of power charge that is the first article of impeachment.</p>
+
+
+</center>
+
+
+
+
+</body>
+</html>
+
+--------------91993926676038828498730--

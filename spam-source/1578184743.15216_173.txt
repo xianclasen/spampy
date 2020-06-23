@@ -1,0 +1,169 @@
+Return-Path: <SRS0=LUNHsX=2Z=mail.ascendnutri.best=5812-2982-85526-1566-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28639 invoked from network); 4 Jan 2020 10:38:02 -0000
+Received: (qmail 23122 invoked from network); 4 Jan 2020 10:38:01 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Jan 2020 10:38:01 -0000
+Received: (qmail 21702 invoked by uid 48516); 4 Jan 2020 10:38:01 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20913 invoked from network); 4 Jan 2020 10:38:01 -0000
+Received: from king.ascendnutri.best (onsdb0d54.onsitecool.site [170.130.172.195])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 04 Jan 2020 10:37:45 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=ascendnutri.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=GPSTracker@ascendnutri.best;
+ bh=TnZsGQ8HbaZTJS4lm6uWaQwD//Y=;
+ b=cU1y3HYkJ9XEChlU59c5mGOiG5L/LbzGNtnuwTu7RM5PkpNQQBs3M9IQFvehMeRev/2A7TXUIuZm
+   nd1V/SajpIO0Fa+nKjZINxnIzDocoMLPWv4yCoQzwSMMXgL2tBLBZoXfoQKt3edhsiq/0MfXjtxs
+   bXJcMb9VthWgVW1GqIc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=ascendnutri.best;
+ b=AzW2J/qjOPGHTsXHztRNONryd4NV6ibUwwXeCypu8jZwsyrIOKfnzd1z6J/U+hz2UOxTh7mbILXk
+   dE3PSLk20CNhqzhzEutbEU4wv17C87q3UqomGjV+9xDPxScAJBzO7wBKPmd2hs5NhKbx4cFAvIug
+   QET8DChKPEfvDzWXClU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="b8467d1811d644f5d3d4a5b90211284b_ba6_14e16"
+Date: Sat, 4 Jan 2020 05:36:47 -0500
+From: "GPS Tracker" <GPSTracker@ascendnutri.best>
+Reply-To: "**GPS Tracker**" <**GPSTracker**@ascendnutri.best>
+Subject: Latest spy technology
+To: <bruce@untroubled.org>
+Message-ID: <9090w5u9p3h1uldv-j0ze7j3denc06fvl-ba6-14e16@ascendnutri.best>
+Content-Length: 8824
+
+--b8467d1811d644f5d3d4a5b90211284b_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Latest spy technology
+
+
+http://ascendnutri.best/ufxfdJrq_MqojdSQkcgwNg8naEfJdMYRFeOSjuKiXGqJQDCw
+
+http://ascendnutri.best/5jyzWKuRXI3uA8NG6QPan2FlJ3HZOQdIl1JiSdxLrr7MbVtF
+
+SFWA participates in various trade shows and publishing industry events in the United States and abroad, including BookExpo America, the American Library Association Midwinter Conference, the USA Science & Engineering Festival, and several major (and minor) science fiction, fantasy and media conventions. SFWA holds a semi-annual business meeting at the World Science Fiction Convention (Worldcon) when it is held in North America, and at the North American Science Fiction Convention (NASFiC) otherwise.
+
+SFWA also hosts its own events, which include:
+
+    SFWA Nebula Conference: SFWA Nebula Conference is an annual conference during which a banquet is held and Nebula Award winners are announced and presented. Other Nebula Awards Weekend events include a semi-annual SFWA business meeting and a mass autographing session for member authors, which is open to the public. In recent years, an extensive program of panels and workshops for professional writers has been offered. SFWA Nebula Conference, and the earlier Nabula Awards Weekend have been held at different cities throughout the United States. It is held in a different location every two years. It will be held in Los Angeles, CA in 2020, the second year at that location.
+    The SFWA Reception in New York: SFWA has hosted an annual reception in New York to provide SFWA members the opportunity to meet and socialize with editors, agents, publicists, art directors and other publishing industry professionals. Over the years, the reception has gone by several names, including Authors and Editors, Mill and Swill, and the NY Reception. The event was put on hold in 2015 because of rising costs.
+    The SFWA Reading Series: A series of free quarterly events during which SFWA authors read or discuss their fiction with members of local communities. Currently held in Seattle, WA, Portland, OR, and Philadelphia, PA, but the program may soon expand to other areas.
+
+--b8467d1811d644f5d3d4a5b90211284b_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center><a href="http://ascendnutri.best/ufxfdJrq_MqojdSQkcgwNg8naEfJdMYRFeOSjuKiXGqJQDCw"><img src="http://ascendnutri.best/5216ff1d2e9ab368dd.png" /></a></center>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:700px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+	<tbody>
+		<tr>
+			<td style="direction:ltr;font-size:0px;padding:20px 10px;text-align:center;vertical-align:top;">
+			<div style="font-family:Verdana,Geneva,sans-serif;font-size:17px; font-weight: bolder;line-height:30px;text-align:center;color:#f71f5c;">Mini GPS tracker</div>
+
+			<div class="outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">&nbsp;
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+				<tbody>
+					<tr class="row">
+						<td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word; float:left;">
+						<div class="mj-column-per-50 outlook-group-fix" style="font-family:Verdana,Geneva,sans-serif;font-size:15px; line-height: 23px; font-weight:300;text-align:left;direction:ltr;display:inline-block;vertical-align:top;">
+						<ul style="list-style-type: none; width: 300px; padding-left: 1px;float:left;">
+							<li style="padding-bottom: 15px;">Portable and magnetic Mini GPS tracker that&#39;s ideal for spying without being found.</li>
+							<li style="padding-bottom: 15px;">Introduce a SIM card and listen to everything that&#39;s happening on the other side on your phone.</li>
+							<li style="padding-bottom: 15px;">Latest spy technology that&#39;s perfect for tracking your car or your kids.</li>
+							<li style="padding-bottom: 15px;">No light or noise: it&#39;s undetectable.</li>
+						</ul>
+						<img src="http://ascendnutri.best/f45014eb1f09e8521d.png" style="border:none;display:block;outline:none;text-decoration:none;float:right;width: 300px;" /></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+	<tbody>
+		<tr>
+			<td style="direction:ltr;font-size:0px;padding:20px 10px;text-align:center;vertical-align:top;">
+			<div class="mj-column-per-99 outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+				<tbody>
+					<tr>
+						<td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;" vertical-align="middle">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
+							<tbody>
+								<tr>
+									<td align="center" bgcolor="#288cc9" role="presentation" style="border:none;border-radius:3px;color:#ffffff;cursor:auto;padding:10px 25px;" valign="middle"><a href="http://ascendnutri.best/ufxfdJrq_MqojdSQkcgwNg8naEfJdMYRFeOSjuKiXGqJQDCw" style="background:#288cc9;color:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;font-weight:normal;line-height:120%;Margin:0;text-decoration:none;text-transform:none;" target="_blank">View offer </a></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;"><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://ascendnutri.best/AuEJ9gzmSn1kAYTvDo0pgzBulZ2R7DiJW-8QE2jIYj9MmQax" target="_blank"><img src="http://ascendnutri.best/cf324788f91406dc00.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<div style="color:#FFFFFF;font-size:6px;">SFWA participates in various trade shows and publishing industry events in the United States and abroad, including BookExpo America, the American Library Association Midwinter Conference, the USA Science &amp; Engineering Festival, and several major (and minor) science fiction, fantasy and media conventions. SFWA holds a semi-annual business meeting at the World Science Fiction Convention (Worldcon) when it is held in North America, and at the North American Science Fiction Convention (NASFiC) otherwise. SFWA also hosts its own events, which include: SFWA Nebula Conference: SFWA Nebula Conference is an annual conference during which a banquet is held and Nebula Award winners are announced and presented. Other Nebula Awards Weekend events include a semi-annual SFWA business meeting and a mass autographing session for member authors, which is open to the public. In recent years, an extensive program of panels and workshops for professional writers has been offered. SFWA Nebula Conference, and the earlier Nabula Awards Weekend have been held at different cities throughout the United States. It is held in a different location every two years. It will be held in Los Angeles, CA in 2020, the second year at that location. The SFWA Reception in New York: SFWA has hosted an annual reception in New York to provide SFWA members the opportunity to meet and socialize with editors, agents, publicists, art directors and other publishing industry professionals. Over the years, the reception has gone by several names, including Authors and Editors, Mill and Swill, and the NY Reception. The event was put on hold in 2015 because of rising costs. The SFWA Reading Series: A series of free quarterly events during which SFWA authors read or discuss their fiction with members of local communities. Currently held in Seattle, WA, Portland, OR, and Philadelphia, PA, but the program may soon expand to other areas.</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+</table>
+</div>
+</body>
+</html>
+
+--b8467d1811d644f5d3d4a5b90211284b_ba6_14e16--

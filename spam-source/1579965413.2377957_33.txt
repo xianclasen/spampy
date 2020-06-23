@@ -1,0 +1,116 @@
+Return-Path: <SRS0=C229MR=3O=mail.multihearing.us=7001-2982-85526-1864-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2875 invoked from network); 25 Jan 2020 14:18:56 -0000
+Received: (qmail 32198 invoked from network); 25 Jan 2020 14:18:55 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 14:18:55 -0000
+Received: (qmail 12467 invoked by uid 48516); 25 Jan 2020 14:18:55 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5678 invoked from network); 25 Jan 2020 14:18:54 -0000
+Received: from atlas.multihearing.us ([170.130.174.34])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 25 Jan 2020 14:18:54 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=multihearing.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=CheapCars@multihearing.us;
+ bh=W6zaYKd6yw5hDA0SbgpjDg4OnUg=;
+ b=i4tcKDOeg+XPPProIDNVC24qmCtMY+rEhD+F2kl7s7Cdph/KLi1ZvBdw3mZG8m/Tk2wmt0pweMfR
+   Jg06AkaaP308e7CGqEgdg7QaXId4VBFF29POQYO6XngAHwclLNiZwoLgHck8O2F1RsVoHkQCQJEU
+   xVVv1b0MP8oxiuChBHo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=multihearing.us;
+ b=mjeCl3ov1anoLDJZpHWrRAzEHYVg93a0PMlh4EVdbjx8JwvEmur+nxzYJe2+3I9T9lPtO9nvU83H
+   wxKqBF4DYud7SGl3UHizVgZogM0/mLDkRz24g1EP9Hv48bjjXOIr1vrgWV2+U1M47p4fdZy8l5Nu
+   PJrpCOWurITNtOSGKcU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="bd06acc685f8e5aaad3e6d830728d6f7_ba6_14e16"
+Date: Sat, 25 Jan 2020 09:12:01 -0500
+From: "Ford Explorers For Sale" <CheapCars@multihearing.us>
+Reply-To: "Ford Explorers For Sale" <CheapCars@multihearing.us>
+Subject: Get your favorite car under $1000!
+To: <bruce@untroubled.org>
+Message-ID: <2890hveogmje3xl6-ieydy2ub81zhfipa-ba6-14e16@multihearing.us>
+Content-Length: 5495
+
+--bd06acc685f8e5aaad3e6d830728d6f7_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Get your favorite car under $1000!
+
+http://multihearing.us/USaIxwMHuLwR2SLgWI9lE6xp3xdoxkYVekimb237CM7P4FAQ
+
+http://multihearing.us/OtD14FtVNgGmcLi9pUZGrNwcLN6fbQXqO0iZC4KlTnhqZP8X
+
+Shaktimaan was one of the most popular and longest-running television series for Indian children on the Doordarshan channel. In an interview with Nupur Rekhi of indiantelevision.com, Khanna told that, he has even received letters from the external affairs minister and then Prime Minister of India Atal Bihari Vajpayee saying that he has done a very good thing in choosing the role of Shaktimaan and keeping up with it. He has been featured in The Wall Street Journal on the front page reflecting on Shaktimaan's (and hence Khanna's) positive influence on children.
+
+Later a series of comic books appeared featuring Shaktimaan and published in many Indian languages as well as English in association with Diamond Comics and Raj Comics. Shaktimaan merchandise like costumes, stickers, dolls, etc. were also introduced in the market.
+
+In the wake of the 2001 Gujarat earthquake, Mukesh Khanna toured the affected areas in character as Shaktimaan topping morale and giving relief to people.
+
+Khanna reported about making a comeback in and as Shaktimaan on Television in 2016. The team of Shaktimaan is planning to start the show again.
+Animated series
+
+Shaktimaan: The Animated Series produced by Reliance Animation was aired on Sonic, a new channel by Viacom 18 in India. A 3D film featuring Shaktimaan was announced on 24 March 2012. Mukesh Khanna who played the role of Shaktimaan confirmed this. It started airing on Nickelodeon India from 7 May 2012.
+Television film
+
+Hamara Hero Shaktimaan was the first film of the series which was aired on Pogo TV on 30 June 2013.
+Shaktimaan returns
+
+On 6 May 2016, it was reported that Shaktimaan might soon be back at the end of this year. On 15 March 2019 a show named Sorry Shaktimaan started on a YouTube channel having the same name. It is the educational section of Shaktimaan .
+
+--bd06acc685f8e5aaad3e6d830728d6f7_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><br />
+<br />
+<br />
+&nbsp;
+<center>
+<div style="font-family:arial; width:500px; text-align:left;"><a href="http://multihearing.us/USaIxwMHuLwR2SLgWI9lE6xp3xdoxkYVekimb237CM7P4FAQ"><img src="http://multihearing.us/63eb0342fd2b0d0349.jpg" /></a><br />
+Dear patron,<br />
+<br />
+<b>Have You Heard about the Guy who bought a 2 year old Mustang Convertible for $850?</b><br />
+<br />
+<mark>Are you still saving to buy your dream car?</mark><br />
+<br />
+But it is never enough.<br />
+<br />
+For it is too expensive!<br />
+<br />
+<b style="color:red;">Not anymore!</b><br />
+<br />
+<b>Learn How to Buy a Car From 95% Off Retail Value.</b><br />
+<br />
+<mark>See What All The Fuss Is All About with Government Auto &amp; Seized Car Auctions!</mark><br />
+<br />
+&gt;&gt;Immediate Access - Live and Online - 4,000+ Auctions US Wide&lt;&lt;<br />
+<br />
+Be Smart - Save Thousands!<a href="http://multihearing.us/USaIxwMHuLwR2SLgWI9lE6xp3xdoxkYVekimb237CM7P4FAQ"> Get Started - Become A Member Today!</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://multihearing.us/r01RXR33lYnMTnEolGoZ_6p1AbZJZi3VRHK4GFDZAHtKS9Q" target="_blank"><img src="http://multihearing.us/11c739f87fc63caa2d.jpg" /></a><br />
+<br />
+<span style="color:#FFFFFF;">Shaktimaan was one of the most popular and longest-running television series for Indian children on the Doordarshan channel. In an interview with Nupur Rekhi of indiantelevision.com, Khanna told that, he has even received letters from the external affairs minister and then Prime Minister of India Atal Bihari Vajpayee saying that he has done a very good thing in choosing the role of Shaktimaan and keeping up with it. He has been featured in The Wall Street Journal on the front page reflecting on Shaktimaan&#39;s (and hence Khanna&#39;s) positive influence on children. Later a series of comic books appeared featuring Shaktimaan and published in many Indian languages as well as English in association with Diamond Comics and Raj Comics. Shaktimaan merchandise like costumes, stickers, dolls, etc. were also introduced in the market. In the wake of the 2001 Gujarat earthquake, Mukesh Khanna toured the affected areas in character as Shaktimaan topping morale and giving relief to people. Khanna reported about making a comeback in and as Shaktimaan on Television in 2016. The team of Shaktimaan is planning to start the show again. Animated series Shaktimaan: The Animated Series produced by Reliance Animation was aired on Sonic, a new channel by Viacom 18 in India. A 3D film featuring Shaktimaan was announced on 24 March 2012. Mukesh Khanna who played the role of Shaktimaan confirmed this. It started airing on Nickelodeon India from 7 May 2012. Television film Hamara Hero Shaktimaan was the first film of the series which was aired on Pogo TV on 30 June 2013. Shaktimaan returns On 6 May 2016, it was reported that Shaktimaan might soon be back at the end of this year. On 15 March 2019 a show named Sorry Shaktimaan started on a YouTube channel having the same name. It is the educational section of Shaktimaan . </span></div>
+</center>
+</body>
+</html>
+
+--bd06acc685f8e5aaad3e6d830728d6f7_ba6_14e16--

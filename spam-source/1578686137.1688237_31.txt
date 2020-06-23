@@ -1,0 +1,53 @@
+Return-Path: <SRS0=7A48S9=27=certameter.host=bounce+2xj8cOt2YrKfkwUFUqhruwLmu9p2q0tQb@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 8200 invoked from network); 10 Jan 2020 12:51:30 -0000
+Received: (qmail 6213 invoked from network); 10 Jan 2020 12:51:29 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 12:51:29 -0000
+Received: (qmail 1640 invoked by uid 48516); 10 Jan 2020 12:51:28 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 4936 invoked from network); 10 Jan 2020 12:51:28 -0000
+Received: from certameter.host (92-202-15-51.rev.cloud.scaleway.com [51.15.202.92])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 10 Jan 2020 12:51:28 -0000
+MIME-Version: 1.0
+From: *1ink.com* <1ink.com+gZY6D1k2VqV3Le5yE5vMRomMNVJvR94Hk@certameter.host>
+Subject: CONGRATS! You have Scored 85% Special Discount on Ink and Toner
+Message-ID: <20191102083153.18506470.236653.6480837590796051485673@sailthru.com>
+Reply-To: reply@certameter.host
+Received: from certameter.host (10.5.74.243) by certameter.host id EA8fqQk043QZ for <bruce@untroubled.org>; Fri, 10 Jan 2020 13:37:43 +0100 (envelope-from <return@certameter.host>
+To: bruce@untroubled.org
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="UTF-8"
+Date: Fri, 10 Jan 2020 13:37:43 +0100
+Content-Length: 1973
+
+<img alt='' src='http://certameter.host/r.php?t=o&d=4234&l=1545&c=21835' width='1px' height='1px' style='visibility:hidden'/>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head></head><body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="background-color: #ffffff">
+
+
+
+ <br>
+<CENTER><A href="http://certameter.host/r.php?t=c&d=4234&l=1545&c=21835"><font color=#0000FF face="Copperplate Gothic Light" size=6>bruce: CONGRATS! You have Scored 85% Special Discount on Ink and Toner </font> <br><font color=#0000FF face="Copperplate Gothic Light" size=5></font></A></CENTER>
+
+
+<CENTER>
+ <table style="background-color: #ffffff;" id="templateContainer" align="center" border="0" cellpadding="0" cellspacing="0" width="650"><tbody><tr><td>
+ <a href="http://certameter.host/r.php?t=c&d=4234&l=1545&c=21835">
+ <br>
+  <img border="0" src="https://e.o9eo.com/i/6385/e/71363/0.jpg" width="650" height="36" alt="" class="auto-style1"></a></td>
+ </tr><tr><td>
+ <a href="http://certameter.host/r.php?t=c&d=4234&l=1545&c=21835">
+ <img border="0" src="https://i.imgur.com/OB07mfB.gif" width="650" height="209" alt="" class="auto-style1"></a></td>
+ </tr><tr><td>
+ <a href="http://certameter.host/r.php?t=c&d=4234&l=1545&c=21835">
+ <img border="0" src="https://e.o9eo.com/i/6385/e/71363/2.jpg" width="650" height="416" alt="" class="auto-style1"></a></td>
+ </tr><tr><td>
+ <a href="http://certameter.host/r.php?t=u&d=4234&l=1545&c=21835">
+ <img border="0" src="https://e.o9eo.com/i/6385/e/71363/3.jpg" width="650" height="33" alt="" class="auto-style1"></a></td>
+ </tr></tbody></table></div></CENTER></body></html>
+
+<span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://certameter.host/opt.php?d=4234&l=1545&c=21835&em=f8f706c3938feec43d1f111ad3c0a047">here</a> to remove yourself from our emails list</span>

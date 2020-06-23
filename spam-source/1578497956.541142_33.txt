@@ -1,0 +1,158 @@
+Return-Path: <SRS0=b5OUnT=25=enflas.buzz=home.warranty.special-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2732 invoked from network); 8 Jan 2020 15:36:11 -0000
+Received: (qmail 24274 invoked from network); 8 Jan 2020 15:36:10 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Jan 2020 15:36:10 -0000
+Received: (qmail 740 invoked by uid 48516); 8 Jan 2020 15:36:10 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 1709 invoked from network); 8 Jan 2020 15:36:10 -0000
+Received: from mail.enflas.buzz (208-186-113-156.nca.datanoc.com [208.186.113.156])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 08 Jan 2020 15:36:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=enflas.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=home.warranty.special@enflas.buzz;
+ bh=XAhHezRnXpJ3ZwWNmtKTDyzy+lM=;
+ b=UrmmoHjRH7EdpMGAtJ4zBJCvhsq5e2dsjZJ0i5ud9mulgSb/HZXcnHqroKquLTnwv3a0nn03KxlT
+   yOLVfq4It7CeAz009hraGSIZZekf1j88LefEstI0Yc2ecE8bYSz2yYAr8kSn5E2Z1NVtF4as5MKE
+   jk7/mBPBqDbm8Sb3Ljs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=enflas.buzz;
+ b=bUez+oJIxeOkC5iG+6mv3aBZd6LpGqqunOC5KdUig6RVbSrweqPj+vBgcVPh0V4m9eBcLXyUZEHi
+   hvt5Y/XRbhkM1yiQWkDV9+5ZmCN1XlkUXCNU1H0TRwu5+jm3+9cW2sZ0kXIQ39i1lYjZVKKa8Hee
+   H2RPI7xbwQ9cJFhHKCQ=;
+Received: by mail.enflas.buzz id h2nrec0001gc for <bruce@untroubled.org>; Wed, 8 Jan 2020 10:29:12 -0500 (envelope-from <home.warranty.special-bruce=untroubled.org@enflas.buzz>)
+Date: Wed, 8 Jan 2020 10:29:12 -0500
+From: "Home Warranty Special" <home.warranty.special@enflas.buzz>
+To:   <bruce@untroubled.org>
+Subject: Exclusive Holiday Offer: Save on Every Home Warranty. Limited Time Only
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_262_1100476810.1578497338580"
+List-Unsubscribe: <http://www.enflas.buzz/vc54N2395O89zl13Q11vsZRY3483X21WFv4GIf4rxvs4FhIHEsvZ11hRhndnQKo895SK1x05UPWcY/falcons-kilometers>
+Message-ID: <0.0.0.1D.1D5C6386115043C.23E585@mail.enflas.buzz>
+Content-Length: 6762
+
+------=_Part_262_1100476810.1578497338580
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>infused</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); font-family: Helvetica; lette=
+r-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; text-decoration: none; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td><a href=3D"http://www.enflas.buzz/de56s239Jm5loo8613ke93zF5I3483h21vFv4GIf4rxvs4FhIHEsvZ11XRhndnQKo897MONP1u05hlc1Y/dowager-backslash"><img alt=3D"zame" src=3D"http://www.enflas.buzz/Q2f4a2395EC7ao11be938W3483J21yFv4GIf4rxvs4FhIHEsvZ11cRhndnQKo897c1xgn0R5oLcY1/Boniface-neuritis" styl=
+e=3D"display: block; width: 555px; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-family: Segoe, &quot; Segoe UI&quot; , &quot; DejaV=
+u Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot;=
+ ; font-size: xx-large; padding: 12px; "><span style=3D"background-color: r=
+gb(243, 243, 243); padding: 2px; ">Stop paying for covered<br /> home repai=
+rs!</span></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"border-bottom-width: 1px; border-bottom-style: dashed; b=
+order-bottom-color: rgb(238, 238, 238); ">=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"150">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Air Conditioning<br /> - Heating System<br /> - Electrical =
+System<br /> - Plumbing System<br /> - Water Heater<br /> - Ductwork</td>=
+=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"120">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Refrigerator<br /> - Oven<br /> - Stove<br /> - Cook Top<br=
+ /> - Microwave<br /> - Dishwasher</td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"170">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Clothes Washer<br /> - Clothes Dryer<br /> - Ceiling Fans<b=
+r /> - Garbage Disposal<br /> - Garage Door Opener<br /> - Plumbing Stoppag=
+es</td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td align=3D"left"> <p align=3D"center" style=3D"background-color: rg=
+b(162, 47, 49); padding: 5px; font-family: Segoe, &quot; Segoe UI&quot; , &=
+quot; DejaVu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-=
+serif&quot; ; font-size: 36px; max-width: 460px; "><a href=3D"http://www.enflas.buzz/de56s239Jm5loo8613ke93zF5I3483h21vFv4GIf4rxvs4FhIHEsvZ11XRhndnQKo897MONP1u05hlc1Y/dowager-backslash" s=
+tyle=3D"color: rgb(255, 255, 255); ">Get a FREE Quote Today </a></p> </td>=
+=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-size: 22px; font-family: Segoe, &quot; Segoe UI&quo=
+t; , &quot; DejaVu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot;=
+ sans-serif&quot; ; ">&nbsp;=20
+       <section>
+        <strong><em>As Seen On:</em></strong>
+       </section> <a href=3D"http://www.enflas.buzz/de56s239Jm5loo8613ke93zF5I3483h21vFv4GIf4rxvs4FhIHEsvZ11XRhndnQKo897MONP1u05hlc1Y/dowager-backslash"><img alt=3D"Kink" src=3D"=
+http://www.enflas.buzz/22d4j2395H7BXa12IIe939s3483x21fFv4GIf4rxvs4FhIHEsvZ11eRhndnQKo895LN10o6q@N2cY/alder-borrowed" style=3D"width: 330px; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-family: Segoe, &quot; Segoe UI&quot; , &quot; DejaV=
+u Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot;=
+ ; "><br /> <br /> <br /> <span style=3D"font-size:11px; ">This-message and=
+ everything on this page is-an ad<br /> <br /> if you want to leave please =
+<a href=3D"http://www.enflas.buzz/alder-borrowed/c7e5KT2395B8K6o13zeY936pY3483t21YFv4GIf4rxvs4FhIHEsvZ11uRhndnQKo895W1KM06Q@MUcY">Go </a>here<br /> 1090 King Georges Post Rd Edison N=
+J 08837<br /> <br /> <br /> Or <a href=3D"http://www.enflas.buzz/dowager-backslash/71a4z2395b89VS11Ie937U3483p21YFv4GIf4rxvs4FhIHEsvZ11ARhndnQKo896sZM10x6yAALcY">Tap Here to e=
+nd</a><br /> <span style=3D"caret-color: rgb(0, 0, 0); font-style: normal; =
+font-variant-caps: normal; font-weight: normal; letter-spacing: normal; tex=
+t-align: center; text-indent: 0px; text-transform: none; white-space: norma=
+l; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-widt=
+h: 0px; text-decoration: none; color: rgb(169, 169, 169); font-family: Helv=
+etica; float: none; display: inline !important; ">6547 N Academy Blvd #2128=
+</span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-si=
+ze: 12px; font-style: normal; font-variant-caps: normal; font-weight: norma=
+l; letter-spacing: normal; orphans: auto; text-align: center; text-indent: =
+0px; text-transform: none; white-space: normal; widows: auto; word-spacing:=
+ 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-=
+decoration: none; font-family: Helvetica; " /> <span style=3D"caret-color: =
+rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: n=
+ormal; font-weight: normal; letter-spacing: normal; text-align: center; tex=
+t-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px=
+; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decorat=
+ion: none; font-family: Helvetica; float: none; display: inline !important;=
+ "><font color=3D"#a9a9a9">COLORADO SPRINGS CO 80918</font></span></span><b=
+r /> &nbsp; </td>=20
+     </tr>=20
+    </tbody>=20
+   </table> <font size="disconnection"><style><font></font></style></font><big></big><font title="synapse"><font></font></font><style color="mailing"><span size="implicant"><big></style><style lang="actuator"></span></big></style><style></style>
+  </center>  =20
+ <img src=3D"http://www.enflas.buzz/3775j2M395G85NT12We93aGV3483I21rFv4GIf4rxvs4FhIHEsvZ11zRhndnQKo895QJ10k6BO0cBY/dowager-backslash" alt=3D""/></body>
+</html>
+
+------=_Part_262_1100476810.1578497338580--
+

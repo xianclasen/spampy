@@ -1,0 +1,293 @@
+Return-Path: <SRS0=FZWqBK=3P=testifytwin.icu=offer@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27401 invoked from network); 26 Jan 2020 01:45:39 -0000
+Received: (qmail 4670 invoked from network); 26 Jan 2020 01:45:38 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 01:45:38 -0000
+Received: (qmail 28293 invoked by uid 48516); 26 Jan 2020 01:45:37 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 4710 invoked from network); 26 Jan 2020 01:45:37 -0000
+Received: from testifytwin.icu (host-193.17.6.103.routergate.com [193.17.6.103])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 26 Jan 2020 01:45:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=testifytwin.icu;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=offer@testifytwin.icu;
+ bh=7cUYbtF9gbuEacDbVYUN/5PGnEQ=;
+ b=BnIWPP6rFpPt3A9Hc3EfIeUNsI0gwIhH47IhFg1iFjO5uMSsLwyTLquIXLIx1MaO1lbyxeAksvle
+   uyCRIPOZDNu0J1HYrG/uyslAt5ksU53lqa1S/aIt4Q/mg2vr87WnP77WrD6YokNphlARcNv+ZaMY
+   JuDc/ZbIue90IY6T1g4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=testifytwin.icu;
+ b=DjeXxb1QOHllC4PecCZgDqAVH3v3cOPRv0Q4Horpd/NCVcCa2MVEfiRvcDE1zcpr3cV51brV8mEz
+   ixnKIfcmVfUPzobDwrr+8CVVbgzmIp0I6ckgNT0j4tt44PK8ARjyBJX5Wtne7vIW2rZC9qhpd4Ec
+   EVpxcaxGR2B98ke9BlM=;
+From: "XonePhone" <offer@testifytwin.icu>
+Date: Sat, 25 Jan 2020 20:39:30 -0500
+MIME-Version: 1.0
+Subject: =?ISO-8859-1?Q?There=E2=80=99s=20?=a new smartphone  You =?ISO-8859-1?Q?can=E2=80=99t=20?=ignore =?ISO-8859-1?Q?it=E2=80=99s=20?=performance and price!
+To: <bruce@untroubled.org>
+Message-ID: <KcJJ3kiXn8Uwfe56xXF_5IxR6siFeP7dn2Q1LA7Y3DU.Xq-5gvDhDoVcGm5Y1DGJDUakcxVtGxMTV-tSDzrrpvQ@testifytwin.icu>
+Content-Type: multipart/alternative;
+ boundary="------------53110469610924584517474"
+Content-Length: 8710
+
+This is a multi-part message in MIME format.
+--------------53110469610924584517474
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+#table_t{width:700px;font-size:17px;font-family:Calibri;line-height:25px;background-color:#FFFFFF;}
+<http://www.testifytwin.icu/Jbpvgrqs/bubiem108409lwrc/ii_hxLhgHUDen0vxTPlKpjzPKaVYE6LOdEZ433gxexA/DD3zVfmYwjR5orxSMDmUb-kwXBJz11tFPuNY7YTlAwuTcq-9YkOE80v5mZ2cVJhTRe89HfGCMtBDmQAjGBMozvXmbtJTEAIsH1JMsaYUXzlE8Xmev2r6qX6IU8c6r_e40z0Shl99chmXx_btHRZJGINbamKxEqAqelj7IakerOLe65v3zjccCgm-O7z12mN0tYOqE1uL6QP9pKTIzfMh8J32DPAhVuMxF_3OurLzl5eYMsBtrUxQ-v0honH2OQGa>
+
+The Latest Technology
+
+
+
+The incredible Xone Phone is a smartphone that offers a true visual experience.
+
+
+<http://www.testifytwin.icu/Jbpvgrqs/bubiem108409lwrc/ii_hxLhgHUDen0vxTPlKpjzPKaVYE6LOdEZ433gxexA/DD3zVfmYwjR5orxSMDmUb-kwXBJz11tFPuNY7YTlAwuTcq-9YkOE80v5mZ2cVJhTRe89HfGCMtBDmQAjGBMozvXmbtJTEAIsH1JMsaYUXzlE8Xmev2r6qX6IU8c6r_e40z0Shl99chmXx_btHRZJGINbamKxEqAqelj7IakerOLe65v3zjccCgm-O7z12mN0tYOqE1uL6QP9pKTIzfMh8J32DPAhVuMxF_3OurLzl5eYMsBtrUxQ-v0honH2OQGa>
+
+Xone Phone uses the latest technology making it an immersive Android phone.
+
+
+
+you are looking for a phone for personal, or business use, the Xone Phone has something for everyone to enjoy.
+
+Large 5.7"" Multi-Touch IPS Capacitive Screen4G LTE Fast Internet, Dual Micro &amp; Nano SIM16MP Dual Back Camera + 5MP Front CameraFace &amp; Fingerprint Secure Technology                
+<http://www.testifytwin.icu/Jbpvgrqs/bubiem70670lwrc/ii_hxLhgHUDen0vxTPlKpjzPKaVYE6LOdEZ433gxexA/DD3zVfmYwjR5orxSMDmUb-kwXBJz11tFPuNY7YTlAwuTcq-9YkOE80v5mZ2cVJhTRe89HfGCMtBDmQAjGBMozvXmbtJTEAIsH1JMsaYUXzlE8Xmev2r6qX6IU8c6r_e40z0Shl99chmXx_btHRZJGINbamKxEqAqelj7IakerOLe65v3zjccCgm-O7z12mN0tYOqE1uL6QP9pKTIzfMh8J32DPAhVuMxF_3OurLzl5eYMsBtrUxQ-v0honH2OQGa>Latest Android &amp; Long Lasting BatteryUltra Fast Quad-Core Performance6.1&quot; Waterdrop Screen, 90% Screen Ratio
+
+Order Xone Phone Now!
+<http://www.testifytwin.icu/Jbpvgrqs/bubiem108409lwrc/ii_hxLhgHUDen0vxTPlKpjzPKaVYE6LOdEZ433gxexA/DD3zVfmYwjR5orxSMDmUb-kwXBJz11tFPuNY7YTlAwuTcq-9YkOE80v5mZ2cVJhTRe89HfGCMtBDmQAjGBMozvXmbtJTEAIsH1JMsaYUXzlE8Xmev2r6qX6IU8c6r_e40z0Shl99chmXx_btHRZJGINbamKxEqAqelj7IakerOLe65v3zjccCgm-O7z12mN0tYOqE1uL6QP9pKTIzfMh8J32DPAhVuMxF_3OurLzl5eYMsBtrUxQ-v0honH2OQGa>
+
+
+
+
+
+
+If you does't like this update, no problem please Click here
+<http://www.testifytwin.icu/jrdil/aGQO2Hnoh0v-QxUrtBsMYe5lzLruO3_FxMuVhAPD23J8hMfzITKp9PQ6Lu1EqOYt0Nm21z7O-mgCccjz3v56eLOrekaI7jleqAqExKmabNIGJZRHtb_xXmhc99lhS0z04e_r6c8UI6Xq6r2vemX8ElzXUYasMJ1HsIAETJtbmXvzoMBGjAQmDBtMCGfH98eRThJVc2Zm5v08EOkY9-qcTuwAlTY7YNuPFt11zJBXwk-bUmDMSxro5RjwYmfVz3DD.Axexg334ZEdOL6EYVaKPzjpKlPTxv0neDUHghLxh_ii>
+3634 West Street
+952 Roosevelt St. Livingston, NJ 07039
+
+
+bf6a
+
+
+
+
+
+
+
+
+
+
+
+
+--------------53110469610924584517474
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+
+
+<title></title>
+
+
+<style type="text/css">#table_t{
+
+
+width:700px;
+
+
+font-size:17px;
+
+
+font-family:Calibri;
+
+
+line-height:25px;
+
+
+background-color:#FFFFFF;
+
+
+}
+
+
+</style>
+
+
+<table align="center" bgcolor="#E6E6E6" width="100%">
+
+
+	<tbody>
+
+
+		<tr>
+
+
+			<td>&nbsp;
+
+
+			<table align="center" id="table_t">
+
+
+				<tbody>
+
+
+					<tr>
+
+
+						<td align="center" style="font-size:25px;"><a href="http://www.testifytwin.icu/Jbpvgrqs/bubiem108409lwrc/ii_hxLhgHUDen0vxTPlKpjzPKaVYE6LOdEZ433gxexA/DD3zVfmYwjR5orxSMDmUb-kwXBJz11tFPuNY7YTlAwuTcq-9YkOE80v5mZ2cVJhTRe89HfGCMtBDmQAjGBMozvXmbtJTEAIsH1JMsaYUXzlE8Xmev2r6qX6IU8c6r_e40z0Shl99chmXx_btHRZJGINbamKxEqAqelj7IakerOLe65v3zjccCgm-O7z12mN0tYOqE1uL6QP9pKTIzfMh8J32DPAhVuMxF_3OurLzl5eYMsBtrUxQ-v0honH2OQGa" target="_blank"><img src="http://www.testifytwin.icu/Uroco/unfcqrvol41390qoik/.jpg" style="width: 680px; height: 344px;" /></a>
+
+
+						<p><i>The Latest Technology</i></p>
+
+
+
+
+
+						<p><b>The incredible Xone Phone is a smartphone that offers a true visual experience.</b></p>
+
+
+						</td>
+
+
+					</tr>
+
+
+					<tr>
+
+
+						<td style="padding-right:20px;padding-left:20px;border-bottom:5px groove #040402"><a href="http://www.testifytwin.icu/Jbpvgrqs/bubiem108409lwrc/ii_hxLhgHUDen0vxTPlKpjzPKaVYE6LOdEZ433gxexA/DD3zVfmYwjR5orxSMDmUb-kwXBJz11tFPuNY7YTlAwuTcq-9YkOE80v5mZ2cVJhTRe89HfGCMtBDmQAjGBMozvXmbtJTEAIsH1JMsaYUXzlE8Xmev2r6qX6IU8c6r_e40z0Shl99chmXx_btHRZJGINbamKxEqAqelj7IakerOLe65v3zjccCgm-O7z12mN0tYOqE1uL6QP9pKTIzfMh8J32DPAhVuMxF_3OurLzl5eYMsBtrUxQ-v0honH2OQGa" target="_blank"><img src="http://www.testifytwin.icu/Uroco/unfcqrvol70671qoik/.jpg" style="float: right; width: 230px; height: 230px;" /></a>
+
+
+						<p><i>Xone Phone uses the latest technology making it an immersive Android phone.</i></p>
+
+
+
+
+
+						<p>you are looking for a phone for personal, or business use, the Xone Phone has something for everyone to enjoy.</p>
+
+
+
+
+
+						<ul style="list-style:square">
+
+
+							<li style="padding-top:5px;padding-bottom:5px">Large 5.7&quot; Multi-Touch IPS Capacitive Screen</li>
+
+
+							<li style="padding-top:5px;padding-bottom:5px">4G LTE Fast Internet, Dual Micro &amp; Nano SIM</li>
+
+
+							<li style="padding-top:5px;padding-bottom:5px">16MP Dual Back Camera + 5MP Front Camera</li>
+
+
+							<li style="padding-top:5px;padding-bottom:5px">Face &amp; Fingerprint Secure Technology&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.testifytwin.icu/Jbpvgrqs/bubiem70670lwrc/ii_hxLhgHUDen0vxTPlKpjzPKaVYE6LOdEZ433gxexA/DD3zVfmYwjR5orxSMDmUb-kwXBJz11tFPuNY7YTlAwuTcq-9YkOE80v5mZ2cVJhTRe89HfGCMtBDmQAjGBMozvXmbtJTEAIsH1JMsaYUXzlE8Xmev2r6qX6IU8c6r_e40z0Shl99chmXx_btHRZJGINbamKxEqAqelj7IakerOLe65v3zjccCgm-O7z12mN0tYOqE1uL6QP9pKTIzfMh8J32DPAhVuMxF_3OurLzl5eYMsBtrUxQ-v0honH2OQGa"><img alt="" src="http://www.testifytwin.icu/Jbpvgrqs/bubiem70670lwrc/ii_hxLhgHUDen0vxTPlKpjzPKaVYE6LOdEZ433gxexA/DD3zVfmYwjR5orxSMDmUb-kwXBJz11tFPuNY7YTlAwuTcq-9YkOE80v5mZ2cVJhTRe89HfGCMtBDmQAjGBMozvXmbtJTEAIsH1JMsaYUXzlE8Xmev2r6qX6IU8c6r_e40z0Shl99chmXx_btHRZJGINbamKxEqAqelj7IakerOLe65v3zjccCgm-O7z12mN0tYOqE1uL6QP9pKTIzfMh8J32DPAhVuMxF_3OurLzl5eYMsBtrUxQ-v0honH2OQGa" style="width: 230px; height: 129px;" /></a></li><br />
+<img src="http://www.testifytwin.icu/Gg4r6eivl/ii_hxLhgHUDen0vxTPlKpjzPKaVYE6LOdEZ433gxexA/DD3zVfmYwjR5orxSMDmUb-kwXBJz11tFPuNY7YTlAwuTcq-9YkOE80v5mZ2cVJhTRe89HfGCMtBDmQAjGBMozvXmbtJTEAIsH1JMsaYUXzlE8Xmev2r6qX6IU8c6r_e40z0Shl99chmXx_btHRZJGINbamKxEqAqelj7IakerOLe65v3zjccCgm-O7z12mN0tYOqE1uL6QP9pKTIzfMh8J32DPAhVuMxF_3OurLzl5eYMsBtrUxQ-v0honH2OQGa" >
+
+
+							<li style="padding-top:5px;padding-bottom:5px">Latest Android &amp; Long Lasting Battery</li>
+
+
+							<li style="padding-top:5px;padding-bottom:5px">Ultra Fast Quad-Core Performance</li>
+
+
+							<li style="padding-top:5px;padding-bottom:5px">6.1&quot; Waterdrop Screen, 90% Screen Ratio</li>
+
+
+						</ul>
+
+
+
+
+
+						<p align="center" style="padding:20px"><a href="http://www.testifytwin.icu/Jbpvgrqs/bubiem108409lwrc/ii_hxLhgHUDen0vxTPlKpjzPKaVYE6LOdEZ433gxexA/DD3zVfmYwjR5orxSMDmUb-kwXBJz11tFPuNY7YTlAwuTcq-9YkOE80v5mZ2cVJhTRe89HfGCMtBDmQAjGBMozvXmbtJTEAIsH1JMsaYUXzlE8Xmev2r6qX6IU8c6r_e40z0Shl99chmXx_btHRZJGINbamKxEqAqelj7IakerOLe65v3zjccCgm-O7z12mN0tYOqE1uL6QP9pKTIzfMh8J32DPAhVuMxF_3OurLzl5eYMsBtrUxQ-v0honH2OQGa" style="background-color:#C6145A;color:#F7F7F7;padding:10px 50px 10px 50px;text-decoration:none;text-shadow:5px 8px 5px #840D3D;font-size:19px;"><b>Order Xone Phone Now!</b></a></p>
+
+
+						</td>
+
+
+					</tr>
+
+
+				</tbody>
+
+
+			</table>
+
+
+
+
+
+			<p align="center" style="font-size:12px; line-height:18px;font-family:Geneva, Arial, Helvetica, sans-serif"><br />
+
+
+			<br />
+
+
+			If you does&#39;t like this update, no problem please <a href="http://www.testifytwin.icu/jrdil/aGQO2Hnoh0v-QxUrtBsMYe5lzLruO3_FxMuVhAPD23J8hMfzITKp9PQ6Lu1EqOYt0Nm21z7O-mgCccjz3v56eLOrekaI7jleqAqExKmabNIGJZRHtb_xXmhc99lhS0z04e_r6c8UI6Xq6r2vemX8ElzXUYasMJ1HsIAETJtbmXvzoMBGjAQmDBtMCGfH98eRThJVc2Zm5v08EOkY9-qcTuwAlTY7YNuPFt11zJBXwk-bUmDMSxro5RjwYmfVz3DD.Axexg334ZEdOL6EYVaKPzjpKlPTxv0neDUHghLxh_ii" target="_blank">Click here</a><br />
+
+
+			3634 West Street<br />
+
+
+			952 Roosevelt St. Livingston, NJ 07039<br />
+
+
+			<br />
+
+
+			<br />
+
+
+			<span style="color: rgb(230, 230, 230); font-size: 2px; background-color: rgb(255, 255, 255); font-family: sans-serif, Arial, Verdana, " trebuchet="">bf6a</span></p>
+
+
+
+
+
+			<p style="font-size:2px;color:#E6E6E6"><br />
+
+
+			<br />
+
+
+			<br />
+
+
+			<br />
+
+
+			&nbsp;</p>
+
+
+			</td>
+
+
+		</tr>
+
+
+	</tbody>
+
+
+</table>
+
+
+
+
+</body>
+</html>
+
+--------------53110469610924584517474--

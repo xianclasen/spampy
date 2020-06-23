@@ -1,0 +1,71 @@
+Return-Path: <SRS0=mLDeNv=2X=upach.buzz=compressa-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14673 invoked from network); 2 Jan 2020 16:26:29 -0000
+Received: (qmail 11021 invoked from network); 2 Jan 2020 16:26:28 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 16:26:28 -0000
+Received: (qmail 14296 invoked by uid 48516); 2 Jan 2020 16:26:27 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 32041 invoked from network); 2 Jan 2020 16:26:26 -0000
+Received: from mail.upach.buzz ([89.144.1.54])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 02 Jan 2020 16:26:25 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=upach.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=compressa@upach.buzz;
+ bh=nXXKpU9/ZF9/6YQOL61MtEk6Nz8=;
+ b=g2OXeq6ZRvK58YMOvjr02ZeKyULTGxLgMRrSLWR1AysKDut9oqGVWEtCCqfHPrwnsRXLAajwt+Js
+   OdbWE35V+kEclOqc/mqCOi+WwXdu6HuzmtZlJOdtbdl8LGDVUCJ8yK9WF/5X4zVM1QdMhMxsfP46
+   Qau+y+1tjlxmBwx9OIY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=upach.buzz;
+ b=XouZNC3kEdEfoTjb2b/BIsEY1/YNQNGGoHBFAkSlqKhoTv/HbOtsIJ4eDGS623Dbcz56StWJCZmC
+   ueybulbPc7YlRWbXn1VfJVHRqCRVutO8M4RVccpU4RymI8acynRktn/qgR3x9bwUyNmohxOdacGi
+   3Yhm6oGJZz+P4pe9hGk=;
+Received: by mail.upach.buzz id h1ocr40001ga for <bruce@untroubled.org>; Thu, 2 Jan 2020 11:21:47 -0500 (envelope-from <compressa-bruce=untroubled.org@upach.buzz>)
+Date: Thu, 2 Jan 2020 11:21:47 -0500
+From: Compressa <compressa@upach.buzz>
+To:   <bruce@untroubled.org>
+Subject: This simple sock eliminates tension and foot pain
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_349_530595976.1577982094408"
+List-Unsubscribe: <http://www.upach.buzz/raider-idealistic/6a25SJ2395OMY8913FM11SJuK3449S21XFv4GIf4rxvs4FhIHEsvZ11lRNndnmmox97G1FOF0w5KLcYk>
+Message-ID: <0.0.0.27.1D5C188BB0F71AC.1F2700@mail.upach.buzz>
+Content-Length: 3783
+
+------=_Part_349_530595976.1577982094408
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>Duponts</title> 
+ </head> 
+ <body> 
+  <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+   <tbody> 
+    <tr> 
+     <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+      <center>
+       <a href="http://www.upach.buzz/unanimity-fantasize/c606p2IQ395QB86R13Xey815lu3449Z21iFv4GIf4rxvs4FhIHEsvZ11QRNndnmmox96z1hmH05QXjcY"><img alt="" src="http://www.upach.buzz/unanimity-fantasize/d8c5t23l95k7MZa12Ke81y8z3449l21KFv4GIf4rxvs4FhIHEsvZ11BRNndnmmox96dt1Ty05ml2cY" style="border-width: 0px; border-style: solid; height: 1209px; width: 507px; " /></a>
+      </center> 
+      <div align="center">
+       <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <a href="http://www.upach.buzz/contested-orbits/3005s2W395V86WY12heZ816N3449o21BFv4GIf4rxvs4FhIHEsvZ11IRNndnmmox96l1JI_05qlBcY"><font color="#666666">End email Here</font></a>.<br /> 23000 Sussex Hwy Seaford, DE 19973</font>
+       <br /> 
+       <br /> 
+       <a href="http://www.upach.buzz/3954k2395h89Bh11le817Z3449t21qFv4GIf4rxvs4FhIHEsvZ11XRNndnmmox97zmq1h0A5rBlcY/contested-orbits">Unsub Here</a>
+       <br /> 
+       <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-size: 11px; text-align: -webkit-center; ">6547 N Academy Blvd #2128</span>
+       <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration: none; display: inline !important; float: none; "> </span>
+       <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-size: 11px; text-align: -webkit-center; " /> 
+       <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-size: 11px; text-align: -webkit-center; ">Colorado Springs CO 80918</span>
+       <br /> &nbsp; 
+      </div> </td> 
+    </tr> 
+   </tbody> 
+  </table> <span><span><small><span dir="involve"></span></small></span></span><style id="excises"></style><font class="Judaism"></font><small></small><small></small><style></style>  
+ <img src="http://www.upach.buzz/wreckers-donates/b8e6g2S39X5Y8NK513Fert819t3449P21hFv4GIf4rxvs4FhIHEsvZ11QRNndnmmox96j10oKs6vBcYj@" alt=""/></body>
+</html>
+
+------=_Part_349_530595976.1577982094408--
+

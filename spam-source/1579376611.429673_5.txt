@@ -1,0 +1,92 @@
+Return-Path: <SRS0=N6PX9G=3H=mail.trumpcaremedi.co=6567-9790-262549-1757-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12664 invoked from network); 18 Jan 2020 09:20:00 -0000
+Received: (qmail 18759 invoked from network); 18 Jan 2020 09:19:59 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Jan 2020 09:19:59 -0000
+Received: (qmail 23665 invoked by uid 48516); 18 Jan 2020 09:19:59 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8966 invoked from network); 18 Jan 2020 09:19:58 -0000
+Received: from atlas.trumpcaremedi.co (client-192-236-155-72.hostwindsdns.com [192.236.155.72])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 18 Jan 2020 09:19:57 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=trumpcaremedi.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=SuperstoreSavings@trumpcaremedi.co;
+ bh=gXXcWlq6EIjqXF5jmYWNOQpHt/w=;
+ b=fOc2UgeJM5RtN4vvsyfOOALdJfxidHROFSHOVAf01OZYZ1ynWHb8ErTns9GyhEOGJW4Dlroyijx4
+   WG0evIL4rWoN8hIC7k0l68b9FtxsyUMmsamFiwNkdD/DnjhD7DpT2P8ecKE6QqQQryNl5+X8XyZh
+   qYbLeq2iQd/xTWLjy5A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=trumpcaremedi.co;
+ b=SBkaaY/VnKOmQea7vee0l0SAlJsIgejcdQaWy8E2Sewiu+62v7ZxN4OuGjBrqRBOSuiI4P8dl9Yt
+   SMAwtc5x/b+N2333foRcVidwJjls1Iq/trhNurFvo/eMmVI/g6HObuiPOula2r/FxXoMxxgOyCxi
+   J+EP07jMckA4RIG3mLE=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="ff8f3e57f3b56f09164e4cbda3b040dd_263e_40195"
+Date: Sat, 18 Jan 2020 04:19:55 -0500
+From: "ShopperDealsDirect" <SuperstoreSavings@trumpcaremedi.co>
+Reply-To: "ShopperDealsDirect" <SuperstoreSavings@trumpcaremedi.co>
+Subject: A $100 shopping spree just for you! Details Inside!
+To: <bruce@untroubled.org>
+Message-ID: <58y8hqhiwpcz76oi-m7eghkic8ezgos0e-263e-40195@trumpcaremedi.co>
+Content-Length: 6745
+
+--ff8f3e57f3b56f09164e4cbda3b040dd_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+A $100 shopping spree just for you! Details Inside!
+
+http://trumpcaremedi.co/YaPK48euSG4mWhrxl1qZzAV0_zRthgv3NJFskaIR-ddP99f-
+
+http://trumpcaremedi.co/7QD4XQ_xbXaqcX3k6bnU-R_fxJ9IgK67rCh2X0FlLko3qTCT
+
+Haasan was born on 7 November 1954, in a Tamil Iyengar family, to D. Srinivasan, who was a lawyer, and Rajalakshmi, who was a housewife. His brothers, Charuhasan and Chandrahasan, have also acted. Haasan's sister, Nalini (born 1946), is a classical dancer.[citation needed] He received his primary education in Paramakudi before moving to Madras (now Chennai) as his brothers pursued their higher education. Haasan continued his education in Santhome, Madras, and was attracted towards film and fine arts as encouraged by his father.
+
+When a physician friend of his mother, visited Avichi Meiyappa Chettiar (AVM) to treat his wife, she brought Haasan with her. Apparently impressed by his demeanor AVM's son, M. Saravanan, recommended him for their production Kalathur Kannamma.
+
+Haasan won the Rashtrapathi Award (President's Gold Medal) for his performance in Kalathur Kannamma at age four and starred in five more films as a child. He debuted in the Malayalam film industry with Kannum Karalum (1962). Upon his father's encouragement, he joined a repertory company (T. K. S. Nataka Sabha) headed by T. K. Shanmugam. In the meanwhile, he continued his education at the Hindu Higher Secondary School in Triplicane. His time with the theatre company shaped Haasan's craft and kindled his interest in makeup.
+1970–1975
+
+After a seven-year hiatus from films, Haasan returned to the industry as a dance assistant, apprenticing under choreographer Thankappan. During this time, Haasan made brief appearances in some films including a few uncredited roles. His first appearance came in the 1970 film Maanavan, in which he appeared in a dance sequence. He went on to assist Thankappan in films such as Annai Velankani (1971) and Kasi Yathirai (1973). In the former he had a supporting role and worked as an assistant director. His first full-fledged role came in K. Balachander's Tamil film Arangetram (1973). Balachander cast him as the antagonist in his Sollathaan Ninaikkiren (1973). Haasan went on to do supporting roles in films such as Gumasthavin Magal (1974), Aval Oru Thodar Kathai (1974) and Naan Avanillai. The same year, he played his first lead role in the Malayalam film, Kanyakumari, for which he the won his first Filmfare Award. In Tamil cinema, he had his breakthrough as a lead actor in Balachander's Apoorva Raagangal. He played a rebellious young man who falls in love with an older woman. For this character portrayal, Haasan learned to play the mridangam. The role won him his second Filmfare Award.
+
+--ff8f3e57f3b56f09164e4cbda3b040dd_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://trumpcaremedi.co/OaUfqQWLUwxTmyN2K9VCEfQEojD3iT0yfwUlEvoaUrUgtg"><img src="http://trumpcaremedi.co/9017ec4f685b30200d.jpg" /><img height="1" src="http://www.trumpcaremedi.co/Kfg7WducBCcp4XFz7u9pwPQfQOuG8rSWKMl1yHY1Z8V8Bx2g" width="1" /></a>
+<center>
+<div><br />
+<br />
+<a href="http://trumpcaremedi.co/YaPK48euSG4mWhrxl1qZzAV0_zRthgv3NJFskaIR-ddP99f-" style="font-size:40px;font-family:Arial; color:blue; text-decoration:none;">A $100 shopping spree just for you! Details Inside!</a><br />
+<br />
+<a href="http://trumpcaremedi.co/YaPK48euSG4mWhrxl1qZzAV0_zRthgv3NJFskaIR-ddP99f-"><img src="http://trumpcaremedi.co/204f0e7fb87838a55e.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://trumpcaremedi.co/PakP2n6PX7bwNKl9CQr0qpS67rTpxSweIm4uEB7ZllyLshYH"><img src="http://trumpcaremedi.co/f4edc0667194e457b3.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://trumpcaremedi.co/7QD4XQ_xbXaqcX3k6bnU-R_fxJ9IgK67rCh2X0FlLko3qTCT"><img src="http://trumpcaremedi.co/975edaa7c63d2cd1ee.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;">Haasan was born on 7 November 1954, in a Tamil Iyengar family, to D. Srinivasan, who was a lawyer, and Rajalakshmi, who was a housewife. His brothers, Charuhasan and Chandrahasan, have also acted. Haasan&#39;s sister, Nalini (born 1946), is a classical dancer.[citation needed] He received his primary education in Paramakudi before moving to Madras (now Chennai) as his brothers pursued their higher education. Haasan continued his education in Santhome, Madras, and was attracted towards film and fine arts as encouraged by his father. When a physician friend of his mother, visited Avichi Meiyappa Chettiar (AVM) to treat his wife, she brought Haasan with her. Apparently impressed by his demeanor AVM&#39;s son, M. Saravanan, recommended him for their production Kalathur Kannamma. Haasan won the Rashtrapathi Award (President&#39;s Gold Medal) for his performance in Kalathur Kannamma at age four and starred in five more films as a child. He debuted in the Malayalam film industry with Kannum Karalum (1962). Upon his father&#39;s encouragement, he joined a repertory company (T. K. S. Nataka Sabha) headed by T. K. Shanmugam. In the meanwhile, he continued his education at the Hindu Higher Secondary School in Triplicane. His time with the theatre company shaped Haasan&#39;s craft and kindled his interest in makeup. 1970&ndash;1975 After a seven-year hiatus from films, Haasan returned to the industry as a dance assistant, apprenticing under choreographer Thankappan. During this time, Haasan made brief appearances in some films including a few uncredited roles. His first appearance came in the 1970 film Maanavan, in which he appeared in a dance sequence. He went on to assist Thankappan in films such as Annai Velankani (1971) and Kasi Yathirai (1973). In the former he had a supporting role and worked as an assistant director. His first full-fledged role came in K. Balachander&#39;s Tamil film Arangetram (1973). Balachander cast him as the antagonist in his Sollathaan Ninaikkiren (1973). Haasan went on to do supporting roles in films such as Gumasthavin Magal (1974), Aval Oru Thodar Kathai (1974) and Naan Avanillai. The same year, he played his first lead role in the Malayalam film, Kanyakumari, for which he the won his first Filmfare Award. In Tamil cinema, he had his breakthrough as a lead actor in Balachander&#39;s Apoorva Raagangal. He played a rebellious young man who falls in love with an older woman. For this character portrayal, Haasan learned to play the mridangam. The role won him his second Filmfare Award. </span></center>
+</body>
+</html>
+
+--ff8f3e57f3b56f09164e4cbda3b040dd_263e_40195--

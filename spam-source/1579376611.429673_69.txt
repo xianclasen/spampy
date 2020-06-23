@@ -1,0 +1,97 @@
+Return-Path: <6600-9790-262549-1761-bruce=untroubled.org@mail.gpsfabric.bid>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 17527 invoked from network); 18 Jan 2020 14:06:00 -0000
+Received: (qmail 19807 invoked from network); 18 Jan 2020 14:05:59 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Jan 2020 14:05:59 -0000
+Received: (qmail 1302 invoked by uid 48516); 18 Jan 2020 14:05:58 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20311 invoked from network); 18 Jan 2020 14:05:58 -0000
+Received: from xray.gpsfabric.bid (client-192-119-111-94.hostwindsdns.com [192.119.111.94])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 18 Jan 2020 14:05:44 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gpsfabric.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=OrthopedicBunion@gpsfabric.bid;
+ bh=+VQkRejOaLnWtM7xDLQShSqG/Bg=;
+ b=cw+f0eSS0nI/SP6nE9u21W59xij4XqqW+HuBMC9pxIKoOHV9XW3InU3I2H9RPp891DShgStyEvgZ
+   fAlqn4n9bsG+R8c9FwnSiqMwYjILx3vjnc2JqtLmxXdU52Cwpbss5wblupiaBKP4rkItMUcC9rHZ
+   sg18yifprHZDB5aENMk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=gpsfabric.bid;
+ b=oiTaTwagwEiL957pYp6uo/A5m1Abm1xMle4n7ZIVkJVfXb9A+N8Epz2psR2wgWnCbj0tDjxciI+h
+   rkgWdn/fzqKKgys3wuBdP6S0L38ZnUnkzunhLQwETnWAssyQtaFbI4IppUlve8MQkYJYgJ/FR7X1
+   jN+wI3YQhEhFECrONkc=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="1f083b4e1b5a1ee454840c8714a71d00_263e_40195"
+Date: Sat, 18 Jan 2020 09:05:04 -0500
+From: "Bunion Corrector" <OrthopedicBunion@gpsfabric.bid>
+Reply-To: "Bunion Relief" <BunionRelief@gpsfabric.bid>
+Subject: This Hinge Bunion Splint is flexible and bends accordingly
+To: <bruce@untroubled.org>
+Message-ID: <i1yisgbp516ghmab-kuujxfa3h26b46m0-263e-40195@gpsfabric.bid>
+Content-Length: 8934
+
+--1f083b4e1b5a1ee454840c8714a71d00_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This Hinge Bunion Splint is flexible and bends accordingly
+
+http://gpsfabric.bid/kfgupzjg3rU-ZUwJGEEGVtFDuWW8wkUHgxa4z62ZiCg50Tet
+
+http://gpsfabric.bid/JQnAYaQj2vmUefU-SuSacaFWcIsVtKD5k1VGYC-f2dnANAFr
+
+ On leaving school in 1927 Piggott took up a post as assistant at Reading Museum, where he developed an expertise in Neolithic pottery.
+
+In 1928 he joined the Royal Commission on the Ancient and Historical Monuments of Wales and spent the next five years producing a revolutionary study of the site of Butser Hill, near Petersfield. He also worked with Eliot and Cecil Curwen on their excavations at The Trundle causewayed enclosure in Sussex.
+
+In the 1930s he began working for Alexander Keiller, an amateur archaeologist who funded his work from the profits of his Dundee Marmalade business. The two dug numerous sites in Wessex including Avebury and Kennet Avenue. In 1933, he joined his friend Grahame Clark in writing the highly significant paper, "The age of the British flint mines" (Antiquity, 1933): the resultant controversy led to the foundation of the Prehistoric Society. Still without any formal archaeological qualification, Piggott enrolled at Mortimer Wheeler's Institute of Archaeology, London, taking his diploma in 1936. It was also here that he met his wife, Peggy (Margaret Guido). In 1937 he published another seminal paper, "The early Bronze Age in Wessex", and with his wife went on in June 1939 to join the burial chamber excavations at Sutton Hoo at the invitation of Charles Phillips.
+
+During the Second World War Piggott worked as an air photo interpreter. He was posted to India, where he spent time studying the archaeology of the sub-continent, eventually leading him to write the books Some Ancient Cities of India (1946) and Prehistoric India (1950). These experiences provided him with a valuable external view of European prehistory, which was to prove useful on his return to Britain.
+
+After the war he went to Oxford to study the work of William Stukeley, but in 1946 was offered the Abercromby Chair in Archaeology at Edinburgh University (now part of the School of History, Classics and Archaeology), in succession to Gordon Childe. Piggott succeeded in making Edinburgh an archaeology department of international standing. He continued to publish widely. His book Neolithic Cultures of the British Isles (1954) was highly influential, until radiocarbon dating tests exposed flaws in its chronology. Piggott considered that radiocarbon dating was "archaeologically unacceptable", because every other shred of evidence pointed towards his dates being correct. Ancient Europe (1965) remained a popular survey of Old World prehistory for more than twenty years, demonstrating his view of the solidarity and continuity of the past in Europe. In 1956 his childless marriage ended.
+
+--1f083b4e1b5a1ee454840c8714a71d00_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletters</title>
+</head>
+<body><a href="http://gpsfabric.bid/juI98cz8Ey1yausM9HMDc2pm4wHmG9P6UIKtY-ughRJSG2WW"><img src="http://gpsfabric.bid/e0609d71b089babe60.jpg" /><img height="1" src="http://www.gpsfabric.bid/q4SQ8kXmY0dsmAvHU9YBd7vhmNY3PnL8j_D-otch3kw7omut" width="1" /></a>
+<center>&nbsp;
+<div style="width: 600px;"><a href="http://gpsfabric.bid/kfgupzjg3rU-ZUwJGEEGVtFDuWW8wkUHgxa4z62ZiCg50Tet" style="font-size: 25px;font-family: Arial;font-weight: bold;color:#2580B5;">Bunion Corrector and Bunion Relief Orthopedic Bunion Splint Pads for <b style="color:#363636;">Men and Women</b></a></div>
+
+<div style="width: 600px;font-family: Arial;font-size: 15px;padding: 15px;text-align: left;">&nbsp;
+<center><a href="http://gpsfabric.bid/kfgupzjg3rU-ZUwJGEEGVtFDuWW8wkUHgxa4z62ZiCg50Tet"><img src="http://gpsfabric.bid/73f930d05509bbb8aa.png" /> <img src="http://gpsfabric.bid/534c9db748627decd6.png" /> </a></center>
+
+<ul>
+	<li style="font-size:15px;"><i><b style="font-family:Arial; font-size: 20px; color:#3900D0;">EFFECTIVE BUNION PAIN RELIEF:</b></i> Allow for effective toe correction and bunion relief by using this bunion corrector toe splint. Feel the relief you&rsquo;ve been waiting for. Your bunion pain will completely disappear when wearing this bunion brace.</li>
+	<br />
+	<li><i><b style="font-family:Arial;  font-size: 20px; color:#3900D0;">RESTORE NATURAL ALIGNMENT:</b></i> By wearing the bunion protectors bunion tape it will gently realign toes to their natural position. Your toes will feel great when back at their natural alignment. Don&#39;t miss this great offer!</li>
+	<br />
+	<li><i><b style="font-family:Arial;  font-size: 20px; color:#3900D0;">HIGH QUALITY DESIGN:</b></i> Made from high quality medical grade materials to provide maximum hallux valgus relief. Soft and easy to clean bunion pads can be reused again and again. Bunion toe straightener gel bunion corrector will last a while.</li>
+	<br />
+	<li><i><b style="font-family:Arial;  font-size: 20px; color:#3900D0;">ONE SIZE FITS ALL:</b></i> The bunion bootie package is designed for comprehensive bunion treatment and bunion relief and to fix bunion. Adjustable to provide a comfortable fit. This bunion splint fits all sizes and can be enjoyed by men and women alike.</li>
+	<br />
+	<li><i><b style="font-family:Arial;  font-size: 20px; color:#3900D0;">24 HOUR USE:</b></i> Wear the gel bunion pads around the house during normal activities or in bed while asleep as a bunion night splint. The soft cushion, straps and pad feel supportive and good on your feet. The hinged bunion aid splint enables your toes and feet to move naturally while keeping their alignment.</li>
+</ul>
+
+<div style="width: 600px;">
+<center><a href="http://gpsfabric.bid/kfgupzjg3rU-ZUwJGEEGVtFDuWW8wkUHgxa4z62ZiCg50Tet" style="font-size: 25px;font-family: Arial;font-weight: bold;color:#FF0000;">Discover More and Get It From Here.</a></center>
+</div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">On leaving school in 1927 Piggott took up a post as assistant at Reading Museum, where he developed an expertise in Neolithic pottery. In 1928 he joined the Royal Commission on the Ancient and Historical Monuments of Wales and spent the next five years producing a revolutionary study of the site of Butser Hill, near Petersfield. He also worked with Eliot and Cecil Curwen on their excavations at The Trundle causewayed enclosure in Sussex. In the 1930s he began working for Alexander Keiller, an amateur archaeologist who funded his work from the profits of his Dundee Marmalade business. The two dug numerous sites in Wessex including Avebury and Kennet Avenue. In 1933, he joined his friend Grahame Clark in writing the highly significant paper, &quot;The age of the British flint mines&quot; (Antiquity, 1933): the resultant controversy led to the foundation of the Prehistoric Society. Still without any formal archaeological qualification, Piggott enrolled at Mortimer Wheeler&#39;s Institute of Archaeology, London, taking his diploma in 1936. It was also here that he met his wife, Peggy (Margaret Guido). In 1937 he published another seminal paper, &quot;The early Bronze Age in Wessex&quot;, and with his wife went on in June 1939 to join the burial chamber excavations at Sutton Hoo at the invitation of Charles Phillips. During the Second World War Piggott worked as an air photo interpreter. He was posted to India, where he spent time studying the archaeology of the sub-continent, eventually leading him to write the books Some Ancient Cities of India (1946) and Prehistoric India (1950). These experiences provided him with a valuable external view of European prehistory, which was to prove useful on his return to Britain. After the war he went to Oxford to study the work of William Stukeley, but in 1946 was offered the Abercromby Chair in Archaeology at Edinburgh University (now part of the School of History, Classics and Archaeology), in succession to Gordon Childe. Piggott succeeded in making Edinburgh an archaeology department of international standing. He continued to publish widely. His book Neolithic Cultures of the British Isles (1954) was highly influential, until radiocarbon dating tests exposed flaws in its chronology. Piggott considered that radiocarbon dating was &quot;archaeologically unacceptable&quot;, because every other shred of evidence pointed towards his dates being correct. Ancient Europe (1965) remained a popular survey of Old World prehistory for more than twenty years, demonstrating his view of the solidarity and continuity of the past in Europe. In 1956 his childless marriage ended. </span><br />
+<br />
+<br />
+<br />
+<a href="http://gpsfabric.bid/hyjpOHxr_MMO4AMVGXcXHzZ23WBZlUIBoMhORfkBuIagwhP1"><img src="http://gpsfabric.bid/f11831d0cf6e407bde.jpg" /></a></center>
+</body>
+</html>
+
+--1f083b4e1b5a1ee454840c8714a71d00_263e_40195--

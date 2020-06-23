@@ -1,0 +1,505 @@
+Return-Path: <SRS0=jNbDTx=27=us-west-2.amazonses.com=0101016f900fbd35-5927169e-8c01-4730-80ff-497732c3786a-000000@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11442 invoked from network); 10 Jan 2020 15:25:53 -0000
+Received: (qmail 7101 invoked from network); 10 Jan 2020 15:25:52 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 15:25:52 -0000
+Received: (qmail 11547 invoked by uid 48516); 10 Jan 2020 15:25:51 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 23152 invoked from network); 10 Jan 2020 15:25:50 -0000
+Received: from a27-246.smtp-out.us-west-2.amazonses.com (a27-246.smtp-out.us-west-2.amazonses.com [54.240.27.246])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 10 Jan 2020 15:25:50 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=d3zvbrwpvlxlgopsxxlttwi2nqb5inov; d=maniasol.com; t=1578669948;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe;
+	bh=Hnx96CTsG4f53y/T0jAqgOQnYQnfYL0ssyGL7FM63ZQ=;
+	b=kIYO8n+RZ6zPWOPv1Uctm0mZiuGyQXHAWemlnCjH8EtolIPPtRPleMNtAKM0H/bY
+	KNZVqDt/rAHTJ11ZSZBm9gcvysantRXoFMcLkVHHYCHW/VPXXmtYCd00zGATEu4IVxY
+	UaINbUT6Xm3YxR5JCFL+yP7VNwzGTgD2uSiCioe0=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=gdwg2y3kokkkj5a55z2ilkup5wp5hhxx; d=amazonses.com; t=1578669948;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe:Feedback-ID;
+	bh=Hnx96CTsG4f53y/T0jAqgOQnYQnfYL0ssyGL7FM63ZQ=;
+	b=gVT+W2FjzyP3CI/stK6IkCyhu4i4ErQ1jgQh1yFci0a6rMG6lhIqexnivpWDK2p5
+	4vKqZ81k4MQF7iXYYA1KsMKRKrvj/6VE3wabfGdoVkDnZBdeAYbIuhWrhNkHHB8kAsY
+	bFcR9A63t1i7TMDV5TeQaO8/85ERvZ3B9I+hlJPU=
+Date: Fri, 10 Jan 2020 15:25:48 +0000
+From: Ray-Ban <contato@maniasol.com>
+Reply-To: Ray-Ban <contato@maniasol.com>
+To: bruce@untroubled.org
+Message-ID: <0101016f900fbd35-5927169e-8c01-4730-80ff-497732c3786a-000000@us-west-2.amazonses.com>
+Subject: =?UTF-8?Q?=F0=9F=9A=A8=E2=8F=B0_=C3=9Altimas_horas_com_at=C3=A9?=
+ =?UTF-8?Q?_50%_OFF.?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5e18977c14dd3_43f8607bc0d3c8925085";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <https://juno.listmanager2.com/unsubscribe/create/52a4d9e7-b7fe-4a8c-807a-8c7683f7ec77>
+X-SES-Outgoing: 2020.01.10-54.240.27.246
+Feedback-ID: 1.us-west-2.L5kq3Ao4gWzFDuBn+9LoGxPzEzBCNbjHENRkcAp57dQ=:AmazonSES
+Content-Length: 16056
+
+
+----==_mimepart_5e18977c14dd3_43f8607bc0d3c8925085
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+         =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=C2=A0=0D
+=0D
+FRETE GR=C3=81TIS PARA TODO O =0D
+BRASIL=0D
+=C2=A0=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+JUSTIN=0D
+=0D
+=0D
+AVIATOR=0D
+=0D
+=0D
+=0D
+=0D
+ERIKA=0D
+=0D
+=0D
+=0D
+=0D
+FERRARI=0D
+=0D
+=0D
+=0D
+=0D
+MARSHAL=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+               =0D
+=0D
+                  =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+                  =0D
+=C2=A0=0D
+=0D
+               =0D
+=0D
+=0D
+=0D
+=0D
+                  =0D
+=0D
+=0D
+=0D
+=0D
+               =0D
+=0D
+=0D
+=0D
+=0D
+                  =0D
+=0D
+=0D
+=0D
+=0D
+               =0D
+*Desconto direto no produto. N=C3=A3o cumulativo.=0D
+               =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+                  =0D
+=0D
+=0D
+=0D
+=0D
+               =0D
+=0D
+=0D
+Frete =0D
+gr=C3=A1tis para todo o Brasil.=0D
+Pague em at=C3=A9 6x sem juros no cart=C3=A3o. =0D
+Ofertas sujeitas a altera=C3=A7=C3=A3o de pre=C3=A7o e/ou condi=C3=A7=C3=B5=
+es de =0D
+pagamento sem aviso pr=C3=A9vio. Troca ou devolu=C3=A7=C3=A3o gr=C3=A1tis=
+ de =0D
+produtos em sua embalagem original lacrada e n=C3=A3o danificada =0D
+em at=C3=A9 30 dias corridos ap=C3=B3s o recebimento da compra.=0D
+=0D
+CENTRAL DE ATENDIMENTO=0D
+De segunda a sexta, das 09h as 17h (exceto feriados).=0D
+E-mail: atendimento@maniasol.com=0D
+=0D
+Para garantir que nossos comunicados cheguem em sua caixa de =0D
+entrada, adicione o email atendimento@,amiasolcom em sua =0D
+lista de contatos.=0D
+=0D
+         =0D
+=0D
+         =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Caso queira deixar de receb=
+er nossas mensagens CLIQUE AQUI=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+
+----==_mimepart_5e18977c14dd3_43f8607bc0d3c8925085
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://ww=
+w.w3.org/TR/html4/loose.dtd">=0D
+<html lang=3D"pt-br" style=3D"opacity: 1;">=0D
+<head>=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=0D
+<meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewp=
+ort">=0D
+</head>=0D
+<body bgcolor=3D"#000000" class=3D"fr-no-selection">=0D
+=0D
+=0D
+<center style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; table-layout: fixed; width: 100%;">=0D
+<div style=3D"max-width: 600px;">=0D
+<table align=3D"center" style=3D"-ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; Margin: 0 auto; border-spacing: 0; font-family: Arial=
+, Helvetica, sans-serif; max-width: 600px; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; width: 26%;"><tbody><tr><td style=3D"-ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; padding: 0;">=0D
+=0D
+         <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"604"><tbody>=0D
+<tr><td colspan=3D"2">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; color: rgb(255, 255, 255); font-family: Arial=
+, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-varian=
+t-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-=
+spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit=
+-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-=
+color: initial; background: rgb(0, 0, 0);" width=3D"99%"><tbody style=3D"=
+box-sizing: border-box;"><tr style=3D"box-sizing: border-box;">=0D
+<td align=3D"center" style=3D"box-sizing: border-box; padding: 0px; text-=
+align: left; width: 113px; max-width: 113px;" width=3D"15%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 113px; min-width: 113px; background: rgb(0, 0, 0);"=
+ width=3D"100%"><tbody style=3D"box-sizing: border-box;"><tr style=3D"box=
+-sizing: border-box;"><td align=3D"center" bgcolor=3D"#000000" style=3D"b=
+ox-sizing: border-box; padding: 0px; background: rgb(0, 0, 0);" width=3D"=
+100%">=0D
+<a class=3D"post-clickout" href=3D"https://rockwell.listmanager2.com/clic=
+k/52a4d9e7-b7fe-4a8c-807a-8c7683f7ec77/b6acae4b-7997-46ca-b8ca-bad341aea7=
+24/event" style=3D"box-sizing: border-box; color: rgb(66, 139, 202); text=
+-decoration: none;" target=3D"_blank">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15785=
+76683/imagens/image_0.jpg" alt=3D"Ray-Ban Logo" title=3D"Ray-Ban Logo" wi=
+dth=3D"113" height=3D"82" border=3D"0" style=3D"box-sizing: border-box; b=
+order: 0px none; vertical-align: middle; display: block; max-width: 113px=
+;"></a>=0D
+</td></tr></tbody></table>=0D
+</td>=0D
+<td align=3D"center" style=3D"box-sizing: border-box; padding: 0px;" vali=
+gn=3D"middle" width=3D"80%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; height: 82px; background: rgb(0, 0, 0);" widt=
+h=3D"98%"><tbody style=3D"box-sizing: border-box;">=0D
+<tr style=3D"box-sizing: border-box;"><td align=3D"center" bgcolor=3D"#00=
+0000" height=3D"36" style=3D"box-sizing: border-box; height: 36px; paddin=
+g: 0px; background: rgb(0, 0, 0);" valign=3D"bottom" width=3D"99%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; background: rgb(0, 0, 0);" width=3D"100%"><tb=
+ody style=3D"box-sizing: border-box;"><tr style=3D"box-sizing: border-box=
+;">=0D
+<td align=3D"center" bgcolor=3D"#000000" style=3D"box-sizing: border-box;=
+ padding: 0px; background: rgb(0, 0, 0);" width=3D"5%">=C2=A0</td>=0D
+<td align=3D"center" bgcolor=3D"#000000" style=3D"box-sizing: border-box;=
+ border-bottom: 1px solid rgb(119, 119, 119); padding: 0px; background: r=
+gb(0, 0, 0);">=0D
+FRETE GR=C3=81TIS PARA TODO O =0D
+BRASIL</td>=0D
+<td align=3D"center" bgcolor=3D"#000000" style=3D"box-sizing: border-box;=
+ padding: 0px; background: rgb(0, 0, 0);" width=3D"5%">=C2=A0</td>=0D
+</tr></tbody></table>=0D
+</td></tr>=0D
+<tr style=3D"box-sizing: border-box;"><td align=3D"center" bgcolor=3D"#00=
+0000" height=3D"46" style=3D"box-sizing: border-box; height: 46px; paddin=
+g: 0px; background: rgb(0, 0, 0);" width=3D"99%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; background: rgb(0, 0, 0);" width=3D"101%"><tb=
+ody style=3D"box-sizing: border-box;"><tr style=3D"box-sizing: border-box=
+;">=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"14%">=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/edc59cb1-2931-4674-a10f-645fa3264dae/event" style=3D"text-=
+decoration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF; background-position: 0% 0=
+%;">=0D
+JUSTIN</span></a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"20%">=0D
+<a class=3D"post-clickout" href=3D"https://rockwell.listmanager2.com/clic=
+k/52a4d9e7-b7fe-4a8c-807a-8c7683f7ec77/46c4c292-b334-4502-86d7-ff1dceddf8=
+39/event" style=3D"box-sizing: border-box; color: rgb(255, 255, 255); tex=
+t-decoration: none; font-size: 12px;" target=3D"_blank">AVIATOR</a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"23%">=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/9074984a-925c-4412-aa34-b6a54fc705ac/event" style=3D"text-=
+decoration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF; background-position: 0% 0=
+%;">=0D
+ERIKA</span></a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"23%">=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/cdd29ec3-3264-43c9-9fd1-f4f3c2998755/event" style=3D"text-=
+decoration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF; background-position: 0% 0=
+%;">=0D
+FERRARI</span></a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"21%">=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/2ff758b9-ae35-4577-8b58-f1004af0efe0/event" style=3D"text-=
+decoration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF;">=0D
+MARSHAL</span></a>=0D
+</td>=0D
+</tr></tbody></table>=0D
+</td></tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr></tbody></table>=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/46c4c292-b334-4502-86d7-ff1dceddf839/event" target=3D"_bla=
+nk">=0D
+<img alt=3D"=C3=93culos de SOL - com 50%Off" border=3D"0" height=3D"400" =
+src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1578576683=
+/imagens/image_1.png" style=3D"display: block;" width=3D"600"></a>=0D
+</td></tr>=0D
+               <tr>=0D
+<td>=0D
+                  <a href=3D"https://rockwell.listmanager2.com/click/52a4=
+d9e7-b7fe-4a8c-807a-8c7683f7ec77/21894736-4003-45b1-80c6-d199b840c676/eve=
+nt" target=3D"_blank">=0D
+<img alt=3D" " border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.am=
+azonaws.com/newslettersauto/news_1578576683/imagens/image_2.png" style=3D=
+"display: block;" width=3D"300"></a>=0D
+</td>=0D
+<td>=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/3de10ad6-a628-4c2d-9957-92de6dc491db/event" target=3D"_bla=
+nk">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578576683/imagens/image_3.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+                  <td width=3D"4">=0D
+=C2=A0</td>=0D
+</tr>=0D
+               <tr>=0D
+<td>=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/a0555182-44e8-4b6a-9414-421d204c3095/event" target=3D"_bla=
+nk">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578576683/imagens/image_4.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+                  <td>=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/9bd6a089-0cb8-4a65-91b9-ed91e9638486/event" target=3D"_bla=
+nk">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578576683/imagens/image_5.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+</tr>=0D
+               <tr>=0D
+<td>=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/c178876f-4d42-4f09-b9a9-18e6f03906e5/event" target=3D"_bla=
+nk">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578576683/imagens/image_6.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+                  <td>=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/340bc2c5-62e5-476a-af1f-8fd77b60d6e0/event" target=3D"_bla=
+nk">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578576683/imagens/image_7.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+</tr>=0D
+               <tr><td align=3D"center" colspan=3D"2" style=3D"padding: 1=
+0px 0 10px 0 !important;"><span style=3D"color:#7A7A7A; font-family: Goth=
+am, ;Helvetica Neue;, Helvetica, Arial, ;sans-serif; font-size: 11px;">=0D=
+
+*Desconto direto no produto. N=C3=A3o cumulativo.</span></td></tr>=0D
+               <tr><td colspan=3D"2">=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/99e06ade-cd30-459a-80b6-4a09e338a273/event" target=3D"_bla=
+nk">=0D
+<img alt=3D"" border=3D"0" height=3D"120" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578576683/imagens/image_8.png" style=3D"=
+display: block;" width=3D"600"></a>=0D
+</td></tr>=0D
+<tr>=0D
+<td>=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/d1d89533-815b-481b-a6e5-ab8846a0a99a/event" target=3D"_bla=
+nk">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578576683/imagens/image_9.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+                  <td>=0D
+<a href=3D"https://rockwell.listmanager2.com/click/52a4d9e7-b7fe-4a8c-807=
+a-8c7683f7ec77/765a09a3-3af1-4dee-8639-e9291a15a5d3/event" target=3D"_bla=
+nk">=0D
+<img border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.amazonaws.co=
+m/newslettersauto/news_1578576683/imagens/image_10.png" style=3D"display:=
+ block;" width=3D"300"></a>=0D
+</td>=0D
+</tr>=0D
+               <tr><td colspan=3D"2">=0D
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tb=
+ody><tr><td>=0D
+<p align=3D"center">=0D
+<font color=3D"#FFFFFF" style=3D"font-size: 9pt;">Frete =0D
+gr=C3=A1tis para todo o Brasil.<br>=0D
+Pague em at=C3=A9 6x sem juros no cart=C3=A3o. <br>=0D
+Ofertas sujeitas a altera=C3=A7=C3=A3o de pre=C3=A7o e/ou condi=C3=A7=C3=B5=
+es de =0D
+pagamento sem aviso pr=C3=A9vio. Troca ou devolu=C3=A7=C3=A3o gr=C3=A1tis=
+ de =0D
+produtos em sua embalagem original lacrada e n=C3=A3o danificada =0D
+em at=C3=A9 30 dias corridos ap=C3=B3s o recebimento da compra.<br>=0D
+<br>=0D
+CENTRAL DE ATENDIMENTO<br>=0D
+De segunda a sexta, das 09h as 17h (exceto feriados).<br>=0D
+E-mail: atendimento@maniasol.com<br>=0D
+<br>=0D
+Para garantir que nossos comunicados cheguem em sua caixa de =0D
+entrada, adicione o email atendimento@,amiasolcom em sua =0D
+lista de contatos.</font></p>=0D
+</td></tr></tbody></table>=0D
+         </td></tr>=0D
+</tbody></table>=0D
+         </td></tr></tbody></table>=0D
+</div>=0D
+</center>=0D
+=0D
+=0D
+<!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D FOOTER =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D-->=0D
+=0D
+<p style=3D"text-align: left;"><span style=3D"color: rgb(0, 0, 0);"><span=
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Caso queira deixar de receber =
+nossas mensagens </span><a href=3D"https://juno.listmanager2.com/unsubscr=
+ibe/create/52a4d9e7-b7fe-4a8c-807a-8c7683f7ec77"><span style=3D"font-fami=
+ly: Arial, Helvetica, sans-serif; font-size: 12px;"><u>CLIQUE AQUI</u></s=
+pan></a></span>=0D
+=0D
+</p>=0D
+=0D
+<p>=0D
+<br>=0D
+</p>=0D
+=0D
+=0D
+<div><img src=3D"https://rockwell.listmanager2.com/open/52a4d9e7-b7fe-4a8=
+c-807a-8c7683f7ec77/event" alt=3D"_t" width=3D"1" height=3D"1"></div>=0D
+</body>=0D
+</html>=0D
+
+----==_mimepart_5e18977c14dd3_43f8607bc0d3c8925085--

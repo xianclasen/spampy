@@ -1,0 +1,235 @@
+Return-Path: <SRS0=VZ5xf6=3H=mail.projecterhalki.us=6615-2982-85526-1767-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 22195 invoked from network); 18 Jan 2020 19:20:38 -0000
+Received: (qmail 20901 invoked from network); 18 Jan 2020 19:20:37 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Jan 2020 19:20:37 -0000
+Received: (qmail 14529 invoked by uid 48516); 18 Jan 2020 19:20:37 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29572 invoked from network); 18 Jan 2020 19:20:36 -0000
+Received: from daly.projecterhalki.us ([104.206.249.58])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 18 Jan 2020 19:20:24 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=projecterhalki.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=TedsWood@projecterhalki.us;
+ bh=URcBHv+7PpY7MVYOYvuoh/4y/XE=;
+ b=Es9+Ej/lqdh5J2ZPK12kshPuOUfqFDjFlK1tfYZi+OzmbUwuxCDTzLlIpup3khHIy05bwz9VrWxS
+   SidYXcS50C5xBHg96JUbCjVP6z2qFBHR3KL3PbyOy5Y1DYuezoY6iHafWK91HMlXSYtYIwyloT6n
+   grIs8km3XuJoDK5WLHM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=projecterhalki.us;
+ b=dtkdTTI043bqsZ5boNsDF0PT1Tv947cypffN1NeRFlenaAro7neCbwZYK8LwVJkxw7ogjEjdnAej
+   W9UmMAB21bTROrmHudr8ruweV3js0RaeSZTKYMvkFFgg3oySUlZtXXpAMEg+duxaaRtk8J08SRlg
+   EIhrr4WwYNpuE8QYhlo=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="87dcbd4453a5869bd3da0ee17498c85f_ba6_14e16"
+Date: Sat, 18 Jan 2020 14:18:51 -0500
+From: "TedsWood" <TedsWood@projecterhalki.us>
+Reply-To: "TedsWood" <TedsWood@projecterhalki.us>
+Subject: it might be too late... (open now)
+To: <bruce@untroubled.org>
+Message-ID: <6v8f8j9r6uodjxb1-2za74c1p9rrxszee-ba6-14e16@projecterhalki.us>
+Content-Length: 11648
+
+--87dcbd4453a5869bd3da0ee17498c85f_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+it might be too late... (open now)
+
+http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ
+
+http://projecterhalki.us/p8L2OIUIvKRYlSRVj5dKYGRdKMNxU8y-Zma6v8skvpXcTpB9
+
+A structurally complete leaf of an angiosperm consists of a petiole (leaf stalk), a lamina (leaf blade), stipules (small structures located to either side of the base of the petiole) and a sheath. Not every species produces leaves with all of these structural components. The proximal stalk or petiole is called a stipe in ferns. The lamina is the expanded, flat component of the leaf and containing the chloroplasts. The sheath is a structure, typically at the base that fully or partially clasps the stem above the node, where the latter is attached. Leaf sheathes typically occur in grasses and Apiaceae (umbellifers). Between the sheath and the lamina, there may be a pseudopetiole, a petiole like structure. Pseudopetioles occur in some monocotyledons including bananas, palms and bamboos. Stipules may be conspicuous (e.g. beans and roses), soon falling or otherwise not obvious as in Moraceae or absent altogether as in the Magnoliaceae. A petiole may be absent (apetiolate), or the blade may not be laminar (flattened). The tremendous variety shown in leaf structure (anatomy) from species to species is presented in detail below under morphology. The petiole mechanically links the leaf to the plant and provides the route for transfer of water and sugars to and from the leaf. The lamina is typically the location of the majority of photosynthesis. The upper (adaxial) angle between a leaf and a stem is known as the axil of the leaf. It is often the location of a bud. Structures located there are called "axillary".
+
+External leaf characteristics, such as shape, margin, hairs, the petiole, and the presence of stipules and glands, are frequently important for identifying plants to family, genus or species levels, and botanists have developed a rich terminology for describing leaf characteristics. Leaves almost always have determinate growth. They grow to a specific pattern and shape and then stop. Other plant parts like stems or roots have non-determinate growth, and will usually continue to grow as long as they have the resources to do so.
+
+--87dcbd4453a5869bd3da0ee17498c85f_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://projecterhalki.us/RsGH2Tkn6NlYvDu7y5O-hXubc341UUCRtjA2PxmS6t2Q6CII"><img src="http://projecterhalki.us/0e4cb5b94eb47a4804.jpg" /><img height="1" src="http://www.projecterhalki.us/asFrumMZ88yMGe_i91hz9efell-vz8gmFaQ8gtGCduDN75Y4" width="1" /></a>
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align:center; vertical-align:bottom"><a href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ">If you are having trouble viewing this email, please click here to open this in your web browser..</a></td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<a href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ"><img alt="  " src="http://projecterhalki.us/a61e4b23c9f9598a45.GIF" style="width:600px;" /></a>
+
+<table align="center" cellpadding="0" cellspacing="0" style="height:100%; width:100%">
+	<tbody>
+		<tr>
+			<td>
+			<table cellpadding="0" cellspacing="0" style="width:100%">
+				<tbody>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>
+						<table cellpadding="0" cellspacing="0" class="w320" style="width:600px">
+							<tbody>
+								<tr>
+									<td>
+									<h1>The Easiet Way to Start Your Woodworking Project</h1>
+
+									<h1><span style="color:#A52A2A">Annuouncing</span>: The World&#39;s Largest Collection Of Woodworking Plans</h1>
+									<u><a class="inf-track-2693" href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ" style="color:#FF0000;"><span style="color:#FF0000"><span style="font-size:18px">Check out the plan&#39;s here</span></span></a></u>
+
+									<p>&nbsp;</p>
+
+									<p>&nbsp;</p>
+
+									<p style="font-size:20px;">If you&#39;re just starting out or you&#39;re a seasoned carpenter, you&#39;ll find out just how simple it is to <strong>build projects using Teds Woodworking step-by-step plans.</strong></p>
+
+									<p style="font-size:20px;">With <strong>over 16,000 plans</strong> , it covers a ton of projects. Check it out and see why I endorse it so much.</p>
+
+									<p style="font-size:20px;">You&#39;ll love it.</p>
+
+									<p style="font-size:20px;">So hurry...before this offer ends</p>
+
+									<table cellpadding="0" cellspacing="0" style="width:100%">
+										<tbody>
+											<tr>
+												<td style="width:130px">
+												<div>
+												<table cellpadding="0" cellspacing="0" style="width:100%">
+													<tbody>
+														<tr>
+															<td style="background-color:#D84A38; text-align:center; width:130px"><a class="inf-track-2695" href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ" style="color:#ffffff; text-decoration:none">Learn More</a></td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												</td>
+												<td style="background-color:#ffffff">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<td style="vertical-align:bottom">
+									<p style="text-align:right">Brought to you by...<img alt="" src="http://projecterhalki.us/4bba156fe91c1f9132.png" style="height:60px; width:200px" /></p>
+
+									<table cellpadding="0" cellspacing="0" style="width:100%">
+										<tbody>
+											<tr>
+												<td style="vertical-align:bottom"><br />
+												<a class="inf-track-2697" href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ"><img alt="Drop Sizes" src="http://projecterhalki.us/882aca15792e3ae419.jpg" style="display:block; height:348px; width:250px" /></a>
+
+												<hr />
+												<table align="center" border="0" cellpadding="1" cellspacing="1">
+													<tbody>
+														<tr>
+															<td>
+															<p><a class="inf-track-2699" href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ">*Furniture Plans</a></p>
+
+															<p><a class="inf-track-2701" href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ">*Bed Plans</a></p>
+
+															<p><a class="inf-track-2703" href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ">*Table Plans</a></p>
+															</td>
+															<td>
+															<p><a class="inf-track-2705" href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ">*Chair Plans</a></p>
+
+															<p><a class="inf-track-2707" href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ">*Children&#39;s Plans</a></p>
+
+															<p><a class="inf-track-2709" href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ">*Shed Plans</a></p>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:#f8f8f8">
+						<table border="0" cellpadding="0" cellspacing="0" class="w320" style="height:100%; width:600px">
+							<tbody>
+								<tr>
+									<td>
+									<h2><a class="inf-track-2711" href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ" style="text-decoration:none"><span style="color:#000000">Get_over_50%_off if you <u style="color:#F64300;">sign up now!</u></span></a></h2>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:#1f1f1f">
+						<table border="0" cellpadding="0" cellspacing="0" class="w320" style="color:#ffffff; height:100%; width:600px">
+							<tbody>
+								<tr>
+									<td style="background-color:#1f1f1f; text-align:left"><strong><span style="font-size:24px"><span style="background-color:rgb(31, 31, 31); font-family:open sans,helvetica neue,arial,sans-serif"><a href="http://projecterhalki.us/EHJ3Al1iQU3y2tzdu9jGRjV-Eg3ahM3bBf3TxisSmT1--ADQ"><span style="color:rgb(255, 165, 0)">To Learn More</span></a></span><span style="color:rgb(255, 165, 0)"> </span></span></strong></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" style="width:700px">
+	<tbody>
+		<tr>
+			<td>
+			<table style="width:100%">
+				<tbody>
+					<tr>
+						<td style="text-align:center; vertical-align:bottom">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<div style="width:700px;direction:ltr;table-layout:auto;text-align:left;">&nbsp;</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table style="width:100%">
+				<tbody>
+					<tr>
+						<td>
+						<hr /><br />
+						<span style="color:black"><a href="http://projecterhalki.us/XF7CwaCKY13tu3WYn7FNjEWV_NclET_jssGJGBmuRT3eXyTk"><img src="http://projecterhalki.us/62b649d4bc1117f1d7.jpg" /></a></span><br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<span style="color:#FFFFFF">A structurally complete leaf of an angiosperm consists of a petiole (leaf stalk), a lamina (leaf blade), stipules (small structures located to either side of the base of the petiole) and a sheath. Not every species produces leaves with all of these structural components. The proximal stalk or petiole is called a stipe in ferns. The lamina is the expanded, flat component of the leaf and containing the chloroplasts. The sheath is a structure, typically at the base that fully or partially clasps the stem above the node, where the latter is attached. Leaf sheathes typically occur in grasses and Apiaceae (umbellifers). Between the sheath and the lamina, there may be a pseudopetiole, a petiole like structure. Pseudopetioles occur in some monocotyledons including bananas, palms and bamboos. Stipules may be conspicuous (e.g. beans and roses), soon falling or otherwise not obvious as in Moraceae or absent altogether as in the Magnoliaceae. A petiole may be absent (apetiolate), or the blade may not be laminar (flattened). The tremendous variety shown in leaf structure (anatomy) from species to species is presented in detail below under morphology. The petiole mechanically links the leaf to the plant and provides the route for transfer of water and sugars to and from the leaf. The lamina is typically the location of the majority of photosynthesis. The upper (adaxial) angle between a leaf and a stem is known as the axil of the leaf. It is often the location of a bud. Structures located there are called &quot;axillary&quot;. External leaf characteristics, such as shape, margin, hairs, the petiole, and the presence of stipules and glands, are frequently important for identifying plants to family, genus or species levels, and botanists have developed a rich terminology for describing leaf characteristics. Leaves almost always have determinate growth. They grow to a specific pattern and shape and then stop. Other plant parts like stems or roots have non-determinate growth, and will usually continue to grow as long as they have the resources to do so.</span></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+
+--87dcbd4453a5869bd3da0ee17498c85f_ba6_14e16--

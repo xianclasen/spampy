@@ -1,0 +1,151 @@
+Return-Path: <SRS0=q8YK7E=3K=prime2item.com=stanley@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 800 invoked from network); 21 Jan 2020 18:41:08 -0000
+Received: (qmail 19890 invoked from network); 21 Jan 2020 18:41:07 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Jan 2020 18:41:07 -0000
+Received: (qmail 20550 invoked by uid 48516); 21 Jan 2020 18:41:07 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5014 invoked from network); 21 Jan 2020 18:41:05 -0000
+Received: from prime2item.com (69-94-130-37.nca.lanset.com [69.94.130.37])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 21 Jan 2020 18:41:05 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=prime2item.com; s=dkim;
+	t=1579629655; bh=ElHAeJa9v8GyCQnCn+umzydv87c=;
+	h=To:Date:Message-ID:Subject:From;
+	b=IY2gJ1kC1MYDOU+/IHawEwwdm9iL9c7wzbxJukLnePZzkRrtS49ydgXv3/i4MBAT5
+	 pe7YuFlUSSHOpVc/wowyDkPhCAWpM4Yoke6UB5pY6q7TZVJpasE1fmE1OLYIjGjtp0
+	 tD3M4NwN7I7NADbbAxwfKjHroe0ITH4aRS6myiEI=
+To: "bruce@untroubled.org" <bruce@untroubled.org> 
+Date: Tue, 21 Jan 2020 13:00:55 -0500 
+Message-ID: <ecqI6C61T679jmg.kfyVB06U6531aec@prime2item.com> 
+Subject: Switch Auto Insurance and you could Save $536/year 
+MIME-Version: 1.0 
+List-Unsubscribe: <http://qtx5CSLAW4PVnbf.prime2item.com/1987061d81362775076e59b11_573c275e/3/> 
+From: "Provide Insurance – Auto Insurance Quotes" <stanley@prime2item.com> 
+Content-type: multipart/alternative; boundary="---=_Part_50_432M91.WHR1";
+Content-Length: 11070
+
+-----=_Part_50_432M91.WHR1
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Switch Auto Insurance and you could Save $536/year
+
+http://aseR45KGNXT0tsu.prime2item.com/2083c95f27c62775076e59b1167e1117_573c275e-0101081d0001/1/
+
+Switch Auto Insurance and you could Save $536/year
+
+-----=_Part_50_432M91.WHR1
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+? <html>
+<head>
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+ body {background: #e6e6e6; font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; margin: 0; padding: 0;}
+
+ @media only screen and (max-width: 599px) {
+ /* responsive framework */
+ .flex100 {width: 100% !important; height: auto !important; clear: both !important;}
+ .flex95 {width: 95% !important; height: auto !important; clear: both !important;}
+ .flex90 {width: 90% !important; height: auto !important; clear: both !important;}
+ .flex75 {width: 75% !important; height: auto !important; clear: both !important;}
+ /* toggle element on+off for mobile */
+ .mobile_show {display:block !important; visibility:visible !important; width:100% !important; font-size:inherit !important; line-height:inherit !important; height:auto !important; margin:auto !important; max-height:inherit !important; overflow:auto !important; mso-hide:none !important;}
+ .mobile_hide {display:none !important; visibility:hidden !important; width:0px !important; height:0px !important; max-height:0px !important; overflow:hidden !important; mso-hide:all !important; border:none !important; font-size:0 !important; line-height:0 !important; padding:0 !important;}
+ }
+</style>
+</head>
+<body style="background: #e6e6e6; font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5;">
+<a class="flex100" href="http://uvl648BIJI39uxq.prime2item.com/2083c95f27c62775076e59b1167e1117_573c275e-0101081d0001/1/" style="border: 0 !important; color: inherit !important; color: #000000; display: block !important; margin: 0 auto !important; text-decoration: none !important; width: 600px">
+<table align="center" cellpadding="0" cellspacing="0">
+ <tr><td height="10" style="font-size: 0px; line-height: 0px;"> </td></tr>
+</table>
+<table class="flex95" width="600" align="center" bgcolor="#192E59" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 600px !important; -webkit-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); -moz-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); box-shadow: 0 5px 10px -8px rgba(0,0,0,1);">
+ <tr>
+ <td align="center">
+ <table width="90%" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 90% !important;">
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 2.2em; line-height: 1.2; color: #ffffff; font-weight: bold; text-align: left; text-transform: uppercase;">
+ Don't Overpay!
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ </table>
+ </td>
+ </tr>
+</table>
+
+<table class="flex95" width="600" align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 600px !important; -webkit-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); -moz-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); box-shadow: 0 5px 10px -8px rgba(0,0,0,1);">
+ <tr>
+ <td align="center"><img class="flex100" src="http://jxm85LOI347Druu.prime2item.com/images/car-scenic-road.jpg" alt="" width="600" border="0" /></td>
+ </tr>
+ <tr>
+ <td align="center">
+ <table width="90%" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 90% !important;">
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 1.7em; line-height: 1.2; color: #192E59; font-weight: bold; text-align: center;">
+ Have you compared auto quotes lately?
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 1.2em; color: #2e3435; text-align: center;">
+ Shopping around for auto insurance used to be hard, but Provide Insurance makes it easy. In just minutes, we use our consumer alignment technology to match you with top carriers at low rates.
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td align="center">
+ <table align="center" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="300" align="center" height="44" bgcolor="#192E59">
+ <a href="http://tes173546F57qvx.prime2item.com/2083c95f27c62775076e59b1167e1117_573c275e-0101081d0001/1/" target="_blank" style="display: block; color: #ffffff; font-size: 1.6em; line-height: 56px; font-weight: bold; text-decoration: none; text-transform: uppercase; white-space: nowrap;">
+ Find Rates
+ </a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td align="center">
+ <a href="http://wdu748BIAQPBvuh.prime2item.com/2083c95f27c62775076e59b1167e1117_573c275e-0101081d0001/1/" target="blank" style="border: 0; text-decoration: none !important;">
+ <img src="http://cmw05OG0B8UGnlx.prime2item.com/images/provide-insurance-blue.png" alt="Provide Insurance" width="150" border="0" />
+ </a>
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ </table>
+ </td>
+ </tr>
+</table>
+</a>
+<table class="flex75" width="600" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto;">
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: .75em !important; text-align: center; color: #999999;">
+ © 2018 Provide Insurance | PO Box 425768 Cambridge, MA 02142 | <a href="http://ntgGLDHL0XY3qdp.prime2item.com/20859f24ec462775076e59b1167f1117_573c275e-0101081d0001/1/" style="color: #999999; white-space: nowrap;">Unsubscribe</a>
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+</table>
+<span style="color:#808080;"><span style="font-size: 0.15px;"><span style="font-family: arial,helvetica,sans-serif;">        a few steps away the successful launch of Badgers space shuttle made fromHandsome and well formed he possessed as much vigor of body as of mind Nor were his accomplishments entirely those of the scholar He wrote dainty verses which he also set to music and which he sang himself with a rare skill Some have called him the first of the troubadours and many who cared nothing for his skill in logic admired him for his gifts as a musician and a poet Altogether he was one to attract attention wherever he went for none could fail to recognize his powerDifferences in intensity of sensation are familiar to every person who prefers two lumps of sugar rather than one lump in his coffee the sweet is of the same quality in either case but differs in intensity In every field of sensation the intensity may proceed from the smallest amount to the greatest amount discernible In general the intensity of the sensation depends on the intensity of the stimulus though the condition of the senseorgan as regards fatigue or adaptation to the stimulus has its effect It is obvious that a stimulus may be too weak to produce any sensation as for example a few grains of sugar in a cup of coffee or a few drops of lemon in a quart of water could not be detected It is also true that the intensity of the stimulus may be so great that an increase in intensity produces no effect on the sensation as for example the addition of sugar to a solution of saccharine would not noticeably increase its sweetness The lowest and highest intensity points of sensation are called the lower and upper limen or threshold lover hu respectivelyPainting on zinc or galvanized iron is facilitated by employing a mordant of 1 quart of chloride of copper 1 of nitrate of copper and 1 of salammoniac dissolved in 64 parts of water To thin mixture add 1 part of commercial hydrochloric acid This is brushed over the zinc and dries a dullgrey colour in from twelve to twentyfour hours paint adhering perfectly to the surface thus formed4 Khaki or Dirty YellowBarium sulphate 100 parts chromic oxide 3 finished lacquer 20 to 25 solvent 15 This lacquer is dried for about half an hour at 160 CCaesar had left Cleopatra firmly seated on the throne of Egypt For six years she reigned with great intelligence keeping order in her dominions and patronizing with discrimination both arts and letters But ere long the convulsions of the Roman state once more caused her extreme anxiety Caesar had been assassinated and there ensued a period of civil war Out of it emerged two striking figures which were absolutely contrasted in their character One was Octavian the adopted son of Caesar a man who though still quite young and possessed of great ability was cunning coldblooded and deceitful The other was Antony a soldier by training and with all a soldiers bluntness courage and lawlessness     The Problem Which Confronts the ChildWell it is that the child starting his lifes journey cannot see the magnitude of the task before him Cast amid a world of objects of whose very existence he is ignorant and whose meaning and uses have to be learned by slow and often painful experience he proceeds step by step through the senses in his discovery of the objects about him Yet considered again we ourselves are after all but a step in advance of the child Though we are somewhat more familiar with the use of our senses than he and know a few more objects about us yet the knowledge of the wisest of us is at best pitifully meager compared with the richness of nature So impossible is it for us to know all our material environment that men have taken to becoming specialists One man will spend his life in the study of a certain variety of plants while there are hundreds of thousands of varieties all about him another will study a particular kind of animal life100 perhaps too minute to be seen with the naked eye while the world is teeming with animal forms which he has not time in his short day of life to stop to examine another will study the land forms and read the earths history from the rocks and geological strata but here again natures volume is so large that he has time to read but a small fraction of the whole Another studies the human body and learns to read from its expressions the signs of health and sickness and to prescribe remedies for its ills but in this field also he has found it necessary to divide the work and so we have specialists for almost every organ of the body</span>
+</body>
+</html>
+
+
+<center>
+
+
+<font face=verdana size=1>purge my email from your index <a href='http://drxP3997A10Lesk.prime2item.com/1987061d81362775076e59b11_573c275e/U/1846'>here</a> <br> 1500 Beville Rd STE 606 Box 10009, Daytona Beach, FL 32114
+<img src="http://nbn87MD02AR2fcf.prime2item.com/208af4574da62775076e59b116f18c0b_573c275e-0101081d0001/2/">
+
+-----=_Part_50_432M91.WHR1--

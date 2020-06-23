@@ -1,0 +1,158 @@
+Return-Path: <SRS0=VRi+H2=3A=dalinan.date=home_warranty_special-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 19231 invoked from network); 11 Jan 2020 16:02:22 -0000
+Received: (qmail 17408 invoked from network); 11 Jan 2020 16:02:22 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Jan 2020 16:02:22 -0000
+Received: (qmail 24027 invoked by uid 48516); 11 Jan 2020 16:02:20 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 30623 invoked from network); 11 Jan 2020 16:02:20 -0000
+Received: from mail.dalinan.date ([89.144.1.30])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 11 Jan 2020 16:02:19 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=dalinan.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=home_warranty_special@dalinan.date;
+ bh=fqPvF4raR7QRX0J9Q2C4bABaJEE=;
+ b=PWghT2p/9ByGm8te9NirYK3aaXJylXOvKEkUk8kg2F2GZ6C3deKL598KU6+irYz9Bw+CA3pRteeZ
+   ZHhwRrbPeO6UmM7kg7OYzZ9WrVewq0SuviC64YhF+IOxSijILPROwstf5jY6e6vVxCLV9NwVNLQd
+   Yi5RaIoBOgl0032BYM0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=dalinan.date;
+ b=NIto9pvduXQFaaMiwHj/3d7q7kK/RWOwe3lHQdadnWgCUHCnh8qARIZ+lOLcCXnWJwvIvCaOGEEL
+   Df7VrQkKv1BQ/ly9AiSModtXilZXH/b2+ULwKSBFSgDFqp6sIDIL/yCuekYgMlmbUq7fFfOjGtY8
+   ha/LOpIm+haU5b2UDA4=;
+Received: by mail.dalinan.date id h37ooo0001gs for <bruce@untroubled.org>; Sat, 11 Jan 2020 10:57:20 -0500 (envelope-from <home_warranty_special-bruce=untroubled.org@dalinan.date>)
+Date: Sat, 11 Jan 2020 10:57:20 -0500
+From: "Home Warranty Special" <home_warranty_special@dalinan.date>
+To:   <bruce@untroubled.org>
+Subject: Coming Soon: Winter! Get Protected Today.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_211_217606767.1578758226400"
+List-Unsubscribe: <http://www.dalinan.date/mistakable-synthesizers/f126i239kT5R8V9Y11w1Gi1t34a0h21LFv4GIf4rxvs4FhIHEsvZ11YRtndnKmor96LhHo105k@qcY>
+Message-ID: <0.0.0.17.1D5C897CE4AE38A.1073B5@mail.dalinan.date>
+Content-Length: 6859
+
+------=_Part_211_217606767.1578758226400
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>codified</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); font-family: Helvetica; lette=
+r-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; text-decoration: none; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td><a href=3D"http://www.dalinan.date/33b6nV239g5bNv8611Fe9caB34a0o21hFv4GIf4rxvs4FhIHEsvZ11RRtndnKmor97S10nHRu5KMkcY/fireplace-Miltonic"><img alt=3D"zame" src=3D"http://www.dalinan.date/Linda-advocate/53a5ag2395g7alr12Be9cdoQ34a0M21hFv4GIf4rxvs4FhIHEsvZ11YRtndnKmor96Kw1kk05DW3cY" styl=
+e=3D"display: block; width: 558px; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-family: Segoe, &quot; Segoe UI&quot; , &quot; DejaV=
+u Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot;=
+ ; font-size: xx-large; padding: 12px; "><span style=3D"background-color: r=
+gb(243, 243, 243); padding: 2px; ">Stop paying for any covered<br /> home r=
+epairs!</span></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"border-bottom-width: 1px; border-bottom-style: dashed; b=
+order-bottom-color: rgb(238, 238, 238); ">=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"150">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Air Conditioning<br /> - Heating System<br /> - Electrical =
+System<br /> - Plumbing System<br /> - Water Heater<br /> - Ductwork</td>=
+=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"120">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Refrigerator<br /> - Oven<br /> - Stove<br /> - Cook Top<br=
+ /> - Microwave<br /> - Dishwasher</td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"1" cellspacing=3D"1" style=3D"dis=
+play: inline-block; font-family: Segoe, &quot; Segoe UI&quot; , &quot; Deja=
+Vu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot=
+; ; " width=3D"170">=20
+        <tbody>=20
+         <tr>=20
+          <td>- Clothes Washer<br /> - Clothes Dryer<br /> - Ceiling Fans<b=
+r /> - Garbage Disposal<br /> - Garage Door Opener<br /> - Plumbing Stoppag=
+es</td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td align=3D"left"> <p align=3D"center" style=3D"background-color: rg=
+b(162, 47, 49); padding: 5px; font-family: Segoe, &quot; Segoe UI&quot; , &=
+quot; DejaVu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-=
+serif&quot; ; font-size: 36px; max-width: 460px; "><span style=3D"font-fami=
+ly:arial,helvetica,sans-serif; "><a href=3D"http://www.dalinan.date/33b6nV239g5bNv8611Fe9caB34a0o21hFv4GIf4rxvs4FhIHEsvZ11RRtndnKmor97S10nHRu5KMkcY/fireplace-Miltonic" style=3D"color: rgb=
+(255, 255, 255); ">Get your FREE Quote Today </a></span></p> </td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-size: 22px; font-family: Segoe, &quot; Segoe UI&quo=
+t; , &quot; DejaVu Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot;=
+ sans-serif&quot; ; ">&nbsp;=20
+       <section>
+        <strong><em>As Seen On:</em></strong>
+       </section> <a href=3D"http://www.dalinan.date/33b6nV239g5bNv8611Fe9caB34a0o21hFv4GIf4rxvs4FhIHEsvZ11RRtndnKmor97S10nHRu5KMkcY/fireplace-Miltonic"><img alt=3D"Kink" src=3D"=
+http://www.dalinan.date/abb5a239u5h7oah12BeD9ceu34a0p21qFv4GIf4rxvs4FhIHEsvZ11JRtndnKmor96v1N0vX5b2TcY/oneself-Tolley" style=3D"width: 333px; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td>&nbsp; </td>=20
+      <td style=3D"font-family: Segoe, &quot; Segoe UI&quot; , &quot; DejaV=
+u Sans&quot; , &quot; Trebuchet MS&quot; , Verdana, &quot; sans-serif&quot;=
+ ; "><br /> <br /> <br /> <span style=3D"font-size:11px; ">This-message and=
+ everything on this page is-an ad<br /> <br /> if you want to exit please <=
+a href=3D"http://www.dalinan.date/Linda-advocate/abc4g2395F8O6q11le9cbI34a0g21vFv4GIf4rxvs4FhIHEsvZ11PRtndnKmor97tg1h0Zw6F3NcTY">Push </a>this<br /> 1090 King Georges Post Rd Edison =
+NJ 08837<br /> <br /> <br /> Or <a href=3D"http://www.dalinan.date/inhabit-accumulator/c245fW2395AF89Z12he9ccFm34a0B21hFv4GIf4rxvs4FhIHEsvZ11iRtndnKmor95z1pu05k1cUY">Tap Here to =
+leave</a><br /> <span style=3D"caret-color: rgb(0, 0, 0); font-style: norma=
+l; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; =
+text-align: center; text-indent: 0px; text-transform: none; white-space: no=
+rmal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-w=
+idth: 0px; text-decoration: none; color: rgb(169, 169, 169); font-family: H=
+elvetica; float: none; display: inline !important; ">6547 N Academy Blvd #2=
+128</span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font=
+-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: no=
+rmal; letter-spacing: normal; orphans: auto; text-align: center; text-inden=
+t: 0px; text-transform: none; white-space: normal; widows: auto; word-spaci=
+ng: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; te=
+xt-decoration: none; font-family: Helvetica; " /> <span style=3D"caret-colo=
+r: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; text-align: center; =
+text-indent: 0px; text-transform: none; white-space: normal; word-spacing: =
+0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-deco=
+ration: none; font-family: Helvetica; float: none; display: inline !importa=
+nt; "><font color=3D"#a9a9a9">COLORADO SPRINGS CO 80918</font></span></span=
+><br /> &nbsp; </td>=20
+     </tr>=20
+    </tbody>=20
+   </table> <font lang="Madeleine"></font><style></style><font dir="Ptolemaic"></font><span class="forcefulness"></span><style><span color="offered"></span></style><span></span><style id="miscarry"><font color="incorrect"></font></style><style id="Filipinos"></style>
+  </center>  =20
+ <img src=3D"http://www.dalinan.date/7555h23W95yJi8511Ue9cfv34a0y21NFv4GIf4rxvs4FhIHEsvZ11iRtndnKmor96SR1ki06Wzc1Yp/Linda-advocate" alt=3D""/></body>
+</html>
+
+------=_Part_211_217606767.1578758226400--
+

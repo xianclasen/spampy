@@ -1,0 +1,55 @@
+Return-Path: <DesignerFashionatPurseAddicted-bruce=untroubled.org@wikiforja.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 8232 invoked from network); 9 Jan 2020 17:51:19 -0000
+Received: (qmail 736 invoked from network); 9 Jan 2020 17:51:18 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Jan 2020 17:51:18 -0000
+Received: (qmail 11621 invoked by uid 48516); 9 Jan 2020 17:51:18 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5882 invoked from network); 9 Jan 2020 17:51:18 -0000
+Received: from gutkowskisipes.wikiforja.com (gutkowskisipes.wikiforja.com [104.168.243.153])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 09 Jan 2020 17:51:17 -0000
+Received: by altenwerth.wikiforja.com id h2tk1a0001g0 for <bruce@untroubled.org>; Thu, 9 Jan 2020 17:41:34 +0000 (envelope-from <DesignerFashionatPurseAddicted-bruce=untroubled.org@wikiforja.com>)
+Date: Thu, 9 Jan 2020 17:41:34 +0000
+From: Designer Fashion at Purse Addicted <DesignerFashionatPurseAddicted@wikiforja.com>
+Reply-To: DesignerFashionatPurseAddicted@wikiforja.com
+To: bruce@untroubled.org
+Message-Id: <abbe1d42-3f9b-46f1-ac85-2d8c04dc3d75@wikiforja.com>
+Subject: =?utf-8?B?U2F2ZSA4MCUgT24gWW91ciBGaXJzdCBQdXJzZSBUaGlzIFdpbnRlciAtIE9ubHkgV2hpbGUgU3VwcGxpZXMgTGFzdCE=?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-1f89c208__71d88a326ce2_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 1202
+
+---_-_-1f89c208__71d88a326ce2_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-1f89c208__71d88a326ce2_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHRhYmxlPgo8dGJvZHk+Cjx0cj4KPHRkIGNsYXNzPSJwcmV2aWV3LW1pZCIgY29sc3Bhbj0iMiIg
+YWxpZ249ImNlbnRlciIgdmFsaWduPSJtaWRkbGUiPjxiciAvPjxjZW50ZXI+PGEgaHJlZj0iaHR0
+cDovL3dpa2lmb3JqYS5jb20vVWtxcWc2QlJnbmRKIj48aW1nIHNyYz0iaHR0cDovL3dpa2lmb3Jq
+YS5jb20vaW1hZ2VzL2ViMjQ0ZWIzNTlkOWNlMDEwMTgwYWZjYmNkMWI0NTM2IiBhbHQ9IiIgYm9y
+ZGVyPSIwIiAvPjwvYT48L2NlbnRlcj4KPGRpdiBhbGlnbj0iY2VudGVyIj48c3BhbiBzdHlsZT0i
+Zm9udC1mYW1pbHk6IFZlcmRhbmEsIEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7IGZvbnQt
+c2l6ZTogeHgtc21hbGw7Ij48YnIgLz4gSWYgeW91J2QgcHJlZmVyIG5vdCB0byByZWNlaXZlIGZ1
+dHVyZSBlbWFpbHMsIDxhIGhyZWY9Imh0dHA6Ly93aWtpZm9yamEuY29tLzRhZ2dXdzNIV2RURCI+
+Jm5ic3A7PC9hPjxhIGhyZWY9Imh0dHA6Ly93aWtpZm9yamEuY29tL0x0enpwREthcHduYSI+PHNw
+YW4gc3R5bGU9ImNvbG9yOiAjNjY2NjY2OyI+VW5zdWJzY3JpYmUgSGVyZTwvc3Bhbj48L2E+Ljxi
+ciAvPiAyMzYzOCBXLiBMeW9ucyBBdmVudWUgIzQ2OCAtIE5ld2hhbGwsIENBIDkxMzIxJm5ic3A7
+PC9zcGFuPjwvZGl2Pgo8L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPg==
+
+---_-_-1f89c208__71d88a326ce2_-_---

@@ -1,0 +1,196 @@
+Received: from localhost by ivanova
+	with SpamAssassin (version 3.4.3);
+	Wed, 29 Jan 2020 23:18:43 -0600
+From: "FastMedCare" <QuickMedStore@skinsmoney.su>
+To: "Software User" <bait@untroubled.org>
+Subject: SPAM 09.0 Experience Extra Marvelous Savings
+Date: Thu, 30 Jan 2020 07:16:57 +0200
+Message-Id: <4DB7E4F508DCF211CDC8813D293389FF@skinsmoney.su>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5E326733.5837C0EA"
+Content-Length: 8323
+
+This is a multi-part message in MIME format.
+
+------------=_5E326733.5837C0EA
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Spam detection software, running on the system "ivanova",
+has identified this incoming email as possible spam.  The original
+message has been attached to this so you can view it or label
+similar future email.  If you have any questions, see
+the administrator of that system for details.
+
+Content preview:  If you can't see image, click this link Unsubscribe Now QuickMedStore
+   
+
+Content analysis details:   (9.0 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+ 3.3 RCVD_IN_SBL_CSS        RBL: Received via a relay in Spamhaus SBL-CSS
+                            [2a00:f940:1:1:2:0:0:2d3 listed in]
+                            [zen.spamhaus.org]
+ 5.0 BOTNET                 Relay might be a spambot or virusbot
+                            [botnet0.8,ip=2a00:f940:1:1:2::2d3,nordns]
+ 0.0 HTML_MESSAGE           BODY: HTML included in message
+ 0.0 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image
+                            area
+ 0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                            valid
+-0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                            author's domain
+-0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ 0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+
+The original message was not completely plain text, and may be unsafe to
+open with some email clients; in particular, it may contain a virus,
+or confirm that your address can receive spam.  If you wish to view
+it, it may be safer to save it to a file and open it with an editor.
+
+
+------------=_5E326733.5837C0EA
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <QuickMedStore@skinsmoney.su>
+Delivered-To: bruce-bait@localhost
+Received: (qmail 6973 invoked by alias); 30 Jan 2020 05:18:39 -0000
+Delivered-To: bait@home.untroubled.org
+Received: (qmail 6969 invoked from network); 30 Jan 2020 05:18:39 -0000
+Received: (qmail 62705 invoked by uid 222); 30 Jan 2020 05:18:38 -0000
+Return-Path: <QuickMedStore@skinsmoney.su>
+Delivered-To: virtmail-bait@untroubled.org
+Received: (qmail 62702 invoked from network); 30 Jan 2020 05:18:38 -0000
+Received: from mainrates.ru ([IPv6:2a00:f940:1:1:2::2d3])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 30 Jan 2020 05:18:38 -0000
+Message-ID: <4DB7E4F508DCF211CDC8813D293389FF@skinsmoney.su>
+Reply-To: "FastMedCare" <no-reply@skinsmoney.su>
+From: "FastMedCare" <QuickMedStore@skinsmoney.su>
+To: "Software User" <bait@untroubled.org>
+Subject: Experience Extra Marvelous Savings
+Date: Thu, 30 Jan 2020 07:16:57 +0200
+Organization: QuickMedFactory@skinsmoney.su
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="40178fb20b6f0dc4d1dba39a98bc"
+List-Unsubscribe: <mailto:unsubscribe@skinsmoney.su?subject=Unsubscribe Me Now>
+DKIM-Signature: v=1; a=rsa-sha256; d=skinsmoney.su; s=mail;
+	c=relaxed/relaxed; t=1580361417;
+	h=message-id:from:to:subject:date:mime-version:list-unsubscribe;
+	bh=ddP0RJMuh9MHa6N0UtD5uxRsHLVCdY+mpsyLSLelbOM=;
+	b=lc1oobAYDzhLhR5T0STRnMQpbTw/yrQ7QjT5gx5UFFJ6hTB4zA/iF/3EHb28EC
+	3G/AR5v4j5QSooj1pY0g/6tzE5fFWg7oUIOuwvbf7eBlsGOVRpuZU3/jdaqOAAzN
+	1MJ+YaLQo4uMJYYcr+wgXWn7QmEnPOgKvq/LyaLwlimH4=
+
+This is a multi-part message in MIME format.
+
+--40178fb20b6f0dc4d1dba39a98bc
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+If you can't see image,  click this link
+
+Unsubscribe Now=20
+
+--40178fb20b6f0dc4d1dba39a98bc
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/1=
+999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251" />
+<title>QuickMedStore</title>
+<style>
+body {
+	font:12px arial;
+	color:#446E1C;
+	padding:0;
+	margin:0 auto;
+	background-image: url();
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+#top a {color: #0099ff; text-decoration: underline; font-size:12px; font-=
+weight:bold;  }
+body,td,th {
+	color: #333333;
+}
+</style>
+<style>body {
+font: 12px arial; color: #446E1C; padding: 0; margin: 0 auto; background-=
+image: url(); background-repeat: no-repeat; background-color: #FFFFFF;
+}
+body {
+color: #333333;
+}
+</style></head>
+<body style=3D"color: #333333; background: url() no-repeat; margin: 0 aut=
+o; padding: 0; font: 12px arial;" bgcolor=3D"#FFFFFF">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"619" ali=
+gn=3D"center">
+<tr><td height=3D"15" align=3D"center" valign=3D"middle" style=3D"color: =
+#333333;"><b>If you can't see image,</b> <a href=3D"http://canadianshop24=
+.co.com/" style=3D"color: #0099ff; text-decoration: underline; font-size:=
+ 12px; font-weight: bold;"> click this link</a></td></tr>
+
+  <tr><td height=3D"69" width=3D"619" style=3D"color: #333333;"><a href=3D=
+"http://canadianshop24.co.com/"><img src=3D"https://i.imgur.com/xhWPOyT.j=
+pg" alt=3D"At length, after various other intrigues and much secret manag=
+ement, Berenice succeeded in a second negotiation, and married a prince, =
+or a pretended prince, from some country of Asia Minor, whose name was Ar=
+chelaus. She was better pleased with this second husband than she had bee=
+n with the first, and she began, at last, to feel somewhat settled and es=
+tablished on her throne, and to be prepared, as she thought, to offer eff=
+ectual resistance to her father in case he should ever attempt to return.=
+" width=3D"898" height=3D"597" border=3D"0" /></a></td></tr>
+ =20
+<tr><td style=3D"color: #333333;"><p><a href=3D"http://canadianshop24.co.=
+com/"><img src=3D"https://i.imgur.com/7VNXU1A.jpg" height=3D"239" width=3D=
+"898" border=3D"0" alt=3D" Caesar immediately began to take a very strong=
+ interest in Cleopatra's cause. He treated her personally with the fondes=
+t attention, and it was impossible for her not to reciprocate in some deg=
+ree the kind feeling with which he regarded her. It was, in fact, somethi=
+ng altogether new to her to have a warm and devoted friend, espousing her=
+ cause, tendering her protection, and seeking in every way to promote her=
+ happiness. Her father had all his life neglected her. Her brother, of ye=
+ars and understanding totally inferior to hers, whom she had been compell=
+ed to make her husband, had become her mortal enemy. It is true that, in =
+depriving her of her inheritance and expelling her from her native land, =
+he had been only the tool and instrument of more designing men. This, how=
+ever, far from improving the point of view from which she regarded him, m=
+ade him appear not only hateful, but contemptible too. All the officers o=
+f government, also, in the Alexandrian court had turned against her, beca=
+use they had supposed that they could control her brother more easily if =
+she were away. Thus she had always been surrounded by selfish, mercenary,=
+ and implacable foes. Now, for the first time, she seemed to have a frien=
+d. A protector had suddenly arisen to support and defend her,--a man of v=
+ery alluring person and manners, of a very noble and generous spirit, and=
+ of the very highest station. He loved her, and she could not refrain fro=
+m loving him in return. She committed her cause entirely into his hands, =
+confided to him all her interests, and gave herself up wholly into his po=
+wer." /></a><br />
+</p></td></tr>
+
+<tr>
+  <td align=3D"center" style=3D"color: #333333;"><a style=3D"font-family:=
+ 'Open Sans', sans-serif; color: #00BCD8; font-size: 18px; font-weight: n=
+ormal; text-decoration: none;" href=3D"http://canadianshop24.co.com/pages=
+/report_spam/#report-spam" target=3D"_blank">Unsubscribe Now</a></td>
+</tr>
+</table>
+</body>
+</html>
+
+--40178fb20b6f0dc4d1dba39a98bc--
+
+------------=_5E326733.5837C0EA--
+

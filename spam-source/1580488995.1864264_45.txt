@@ -1,0 +1,226 @@
+Return-Path: <0101016ffba1e164-288a29e2-e732-4a14-b879-8cf69e849498-000000@us-west-2.amazonses.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28322 invoked from network); 31 Jan 2020 12:44:50 -0000
+Received: (qmail 78459 invoked by uid 222); 31 Jan 2020 12:44:50 -0000
+Return-Path: <0101016ffba1e164-288a29e2-e732-4a14-b879-8cf69e849498-000000@us-west-2.amazonses.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 78456 invoked from network); 31 Jan 2020 12:44:50 -0000
+Received: from a27-141.smtp-out.us-west-2.amazonses.com (a27-141.smtp-out.us-west-2.amazonses.com [54.240.27.141])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 31 Jan 2020 12:44:50 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=d3zvbrwpvlxlgopsxxlttwi2nqb5inov; d=maniasol.com; t=1580474688;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe;
+	bh=TKZMbFqnhX2vzF9Gj/WRYh1nHDYvHVxdJAxojleq2Sw=;
+	b=heepGRq8eePGRGBOxa8PjxcSmJIVdfM6LonoUjvkvMmWAz92pUinUo1BQ84DnXGQ
+	MaA0DrsNDplcwtKbI0T5xCz8RPZJ7WixQnTkWR+FdQMgcMEblFlSl1NiNhx3Di1cCv0
+	UaErFnjH57db7MTKk8DQJZ7PpiCgsVSarVbu3s/0=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=gdwg2y3kokkkj5a55z2ilkup5wp5hhxx; d=amazonses.com; t=1580474687;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe:Feedback-ID;
+	bh=TKZMbFqnhX2vzF9Gj/WRYh1nHDYvHVxdJAxojleq2Sw=;
+	b=Hk/GjXTWLPs1BCnqWxC5iNhX0nwULeF4mHRg7SBFd4vr9hyQbRFUVrM8L571gYqx
+	T6UyP3FxmAkAZ3O0z41nxisvjB7NzzNVo6D4G4rvv4hQOZAzGoZPhTioQCnnk95FPhY
+	CBl4Y8Z7EIayPMx1ro5+xMkZKQ64ZApAujilfaVY=
+Date: Fri, 31 Jan 2020 12:44:47 +0000
+From: Ray-Ban <contato@maniasol.com>
+Reply-To: Ray-Ban <contato@maniasol.com>
+To: bruce@untroubled.org
+Message-ID: <0101016ffba1e164-288a29e2-e732-4a14-b879-8cf69e849498-000000@us-west-2.amazonses.com>
+Subject: =?UTF-8?Q?=E2=9A=A0=EF=B8=8F_=C3=9Altimo_dia:_Ray-Ban_a_partir_de?=
+ =?UTF-8?Q?_R$_199,90!_=F0=9F=A4=93=F0=9F=98=8E?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5e34213fc32be_43fa1d82d486c10792740";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <https://soyuz.listmanager2.com/unsubscribe/create/497b83da-fb13-4706-8755-c972301ab1f3>
+X-SES-Outgoing: 2020.01.31-54.240.27.141
+Feedback-ID: 1.us-west-2.L5kq3Ao4gWzFDuBn+9LoGxPzEzBCNbjHENRkcAp57dQ=:AmazonSES
+Content-Length: 6608
+
+
+----==_mimepart_5e34213fc32be_43fa1d82d486c10792740
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caso queira deixar de receber nossas mensagens CLIQUE AQUI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----==_mimepart_5e34213fc32be_43fa1d82d486c10792740
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+<!--
+ table.MsoNormalTable
+	{mso-style-parent:"";
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif}
+-->
+</style>
+</head>
+<body bgcolor="#000000">
+
+
+
+
+
+
+
+
+
+
+<div bgcolor="#FFF">
+<div>
+<center>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: rgb(51, 51, 51);" width="600"><tbody><tr style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><td>
+<a href="https://enterprise.listmanager2.com/click/497b83da-fb13-4706-8755-c972301ab1f3/18197e07-39ca-48e5-8dbd-9e626247aa6f/event">
+<img src="https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1570433920/imagens/image_0.png" width="637" height="416" alt="" border="0" style="display: block;"></a>
+</td></tr></tbody></table>
+</center>
+<table align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="width: 613px;"><tbody>
+<tr><td>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 600px;"><tbody>
+<tr>
+<td align="center"><font style="font-size: 15px; font-weight: bold; color: #262626; font-family: Arial,Helvetica,sans-serif;">
+<a href="https://enterprise.listmanager2.com/click/497b83da-fb13-4706-8755-c972301ab1f3/1c1d60f5-8898-45cf-9767-0cae55dcbf66/event" target="_blank">
+<img src="https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1570433920/imagens/image_1.png" alt="" style="display: block;" width="318" height="484" border="0"></a></font></td>
+<td align="center" width="318"><font style="font-size: 15px; font-weight: bold; color: #262626; font-family: Arial,Helvetica,sans-serif;">
+<a href="https://enterprise.listmanager2.com/click/497b83da-fb13-4706-8755-c972301ab1f3/9781267e-5340-4cd0-864f-d33f41ed874d/event" target="_blank">
+<img src="https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1570433920/imagens/image_2.png" alt="" style="display: block;" width="318" height="484" border="0"></a></font></td>
+</tr>
+<tr>
+<td align="center"><font style="font-size: 15px; font-weight: bold; color: #262626; font-family: Arial,Helvetica,sans-serif;">
+<a href="https://enterprise.listmanager2.com/click/497b83da-fb13-4706-8755-c972301ab1f3/0d0877aa-e7a6-4149-a29e-77fdd289b989/event" target="_blank">
+<img src="https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1570433920/imagens/image_3.png" alt="" style="display: block;" width="318" height="484" border="0"></a></font></td>
+<td align="center" width="318"><font style="font-size: 15px; font-weight: bold; color: #262626; font-family: Arial,Helvetica,sans-serif;">
+<a href="https://enterprise.listmanager2.com/click/497b83da-fb13-4706-8755-c972301ab1f3/185f2e5a-5718-41d5-908e-6e22584fd3df/event" target="_blank">
+<img src="https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1570433920/imagens/image_4.png" alt="" style="display: block;" width="318" height="484" border="0"></a></font></td>
+</tr>
+<tr>
+<td align="center"><font style="font-size: 15px; font-weight: bold; color: #262626; font-family: Arial,Helvetica,sans-serif;">
+<a href="https://enterprise.listmanager2.com/click/497b83da-fb13-4706-8755-c972301ab1f3/649be8fa-c01e-4c8a-b61d-27db9df42515/event" target="_blank">
+<img src="https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1570433920/imagens/image_5.png" alt="" style="display: block;" width="318" height="484" border="0"></a></font></td>
+<td align="center" width="318"><font style="font-size: 15px; font-weight: bold; color: #262626; font-family: Arial,Helvetica,sans-serif;">
+<a href="https://enterprise.listmanager2.com/click/497b83da-fb13-4706-8755-c972301ab1f3/7e1dc9e9-6adb-4dd7-8981-ef2ec50f7bce/event" target="_blank">
+<img src="https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1570433920/imagens/image_6.png" alt="" style="display: block;" width="318" height="484" border="0"></a></font></td>
+</tr>
+</tbody></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: rgb(51, 51, 51);" width="600"><tbody><tr style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><td height="32">
+<a href="https://enterprise.listmanager2.com/click/497b83da-fb13-4706-8755-c972301ab1f3/01dc25ad-bc6f-4434-ad1a-855fe8d312e7/event">
+<img src="https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1570433920/imagens/image_7.png" width="637" height="132" alt="logo" border="0" style="display: block;"></a>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td>
+<table cellspacing="0" cellpadding="0" border="0" align="center"></table>
+</td></tr>
+</tbody></table>
+<!--=============== FOOTER ===============-->
+
+<p style="text-align: center;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><span style="color: rgb(0, 0, 0);">Caso queira deixar de receber nossas mensagens </span></span><span style="color: rgb(0, 0, 0);"><a href="https://soyuz.listmanager2.com/unsubscribe/create/497b83da-fb13-4706-8755-c972301ab1f3"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><u>CLIQUE AQUI</u></span></a>
+
+</span>
+</p>
+<span style="color: rgb(0, 0, 0);">
+
+</span>
+
+<p>
+<br>
+</p>
+
+<p></p>
+</div>
+</div>
+<div><img src="https://enterprise.listmanager2.com/open/497b83da-fb13-4706-8755-c972301ab1f3/event" alt="_t" width="1" height="1"></div>
+</body>
+</html>
+
+----==_mimepart_5e34213fc32be_43fa1d82d486c10792740--

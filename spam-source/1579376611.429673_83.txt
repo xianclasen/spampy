@@ -1,0 +1,103 @@
+Return-Path: <SRS0=FC+0+z=3H=mail.medicfeets.us=6610-9790-262549-1756-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 18263 invoked from network); 18 Jan 2020 14:52:11 -0000
+Received: (qmail 19973 invoked from network); 18 Jan 2020 14:52:11 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Jan 2020 14:52:11 -0000
+Received: (qmail 26071 invoked by uid 48516); 18 Jan 2020 14:52:10 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 25197 invoked from network); 18 Jan 2020 14:52:10 -0000
+Received: from paso.medicfeets.us (client-192-119-111-109.hostwindsdns.com [192.119.111.109])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 18 Jan 2020 14:52:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=medicfeets.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=HeartHealth@medicfeets.us;
+ bh=9tKxkab7j7f3MHFzza4nj7rYkJE=;
+ b=Vbyqlh0O68er2bJEImprdyqbgEZUn2tDQmb4VSJCo1zisI8+LciJ1bhKUtIcDvKKP+GtK2N6sqbl
+   sV8QZ6UmpgOXwk78rx+qgszcimFz6GLkXXTKFjg66NPphDvpHCc2c5BxPQCtvsSz7EmcsNHPsI95
+   FtwabBZLS3gdq1LmOz4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=medicfeets.us;
+ b=gpcV3Qkh34gHle7sjvm7Mqwldjnv2rYLxcrwZ3UNmQ3OoTDy/UlstticRMiKF+20UoAEpOtS3tEi
+   r9z+wdovMq3BwEA5606MnOiYzWpBNaSv9QIqIT/0EtUvwWmshhKo0OcQ541+ZFRYms1cpH7pZLmI
+   GT7qI6AWi2/4zpb0ueQ=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="9d9646f5a449384fefd615bb5c4e6cb7_263e_40195"
+Date: Sat, 18 Jan 2020 09:51:35 -0500
+From: "Heart Attack Savior" <HeartHealth@medicfeets.us>
+Reply-To: "Heart Health" <HeartAttackSavior@medicfeets.us>
+Subject: YOUR Heart Attack Is Coming (here’s why)
+To: <bruce@untroubled.org>
+Message-ID: <v8zhx3dhrkfehi05-uwawuohjx3di5l1l-263e-40195@medicfeets.us>
+Content-Length: 5329
+
+--9d9646f5a449384fefd615bb5c4e6cb7_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+YOUR Heart Attack Is Coming (here’s why)
+
+http://medicfeets.us/IG_mG9fOVPCDvhg85mgeJE0Cylmis2zhSrs1SGeX2ZsyzzDC
+
+http://medicfeets.us/dcidEVqYrllN6EsiFdBtHE-r5OhApIQpxKnSvKx0jXVpQH8A
+
+ Long barrows, also known as chambered tombs, are a style of monument constructed across Western Europe in the fifth and fourth millennia BC, during the Early Neolithic period. Typically constructed from earth and either timber or stone, those using the latter material represent the oldest widespread tradition of stone construction in the world.
+
+The structures have an earthen tumulus, or "barrow", sometimes with a timber or stone chamber in one end. These monuments often contained human remains interred within their chambers, and as a result, are often interpreted as tombs, although there are some examples where this appears not to be the case. The choice of timber or stone may have arisen from the availability of local materials rather than cultural differences.
+
+The earliest examples developed in Iberia and western France during the mid-fifth millennium BC. The tradition then spread northwards, into the British Isles and then the Low Countries and southern Scandinavia. Each area developed its own variations of the long barrow tradition, often exhibiting their own architectural innovations.
+
+
+An oblique near infrared kite aerial photo of the long barrow on Selsley Common, The Toots, Gloucestershire (looking northwards)
+
+A vertical, near infrared kite aerial photo of the long barrow on Selsley Common
+The purpose and meaning of the barrows remains an issue of debate among archaeologists. One argument is that they are religious sites, perhaps erected as part of a system of ancestor veneration or as a religion spread by missionaries or settlers. An alternative explanation views them primarily in economic terms, as territorial markers delineating the areas controlled by different communities as they transitioned toward farming.
+
+--9d9646f5a449384fefd615bb5c4e6cb7_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://medicfeets.us/NmYT2L4gIHlf8VhaGmt3IKN3YoMYnkVBXpmc68lGRL3XjGW0"><img src="http://medicfeets.us/2def1d3be67b251db0.jpg" /><img height="1" src="http://www.medicfeets.us/P4KIXr4B-nD9tqg2w7HKKS0tIVl2gCejaZFP7YQascQ7KSkw" width="1" /></a>
+<div style="width:500px; padding:10px;font-family:Arial;"><br />
+Hi, this is Dr. Sam Walters.<br />
+Today, I have new information for you that could most definitely save your life.<br />
+<br />
+If, God forbid, you ever have a heart attack, there&#39;s one thing you NEVER want to do.<br />
+<br />
+In fact, if you do it, there&#39;s a good chance your heart attack will be FATAL.<br />
+<br />
+<a href="http://medicfeets.us/IG_mG9fOVPCDvhg85mgeJE0Cylmis2zhSrs1SGeX2ZsyzzDC">NEVER do THIS</a> during a heart attack (increases your risk of death)<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://medicfeets.us/Icars9WrpIeFMerID-BiCdCBNjgen0ytdsJbXVbXiFnurJqf"><img src="http://medicfeets.us/0d5ece6ca4beae0c6f.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://medicfeets.us/dcidEVqYrllN6EsiFdBtHE-r5OhApIQpxKnSvKx0jXVpQH8A"><img src="http://medicfeets.us/15c2df8c64f4430438.jpg" /></a></div>
+<br />
+<span style="color:#FFFFFF;">Long barrows, also known as chambered tombs, are a style of monument constructed across Western Europe in the fifth and fourth millennia BC, during the Early Neolithic period. Typically constructed from earth and either timber or stone, those using the latter material represent the oldest widespread tradition of stone construction in the world. The structures have an earthen tumulus, or &quot;barrow&quot;, sometimes with a timber or stone chamber in one end. These monuments often contained human remains interred within their chambers, and as a result, are often interpreted as tombs, although there are some examples where this appears not to be the case. The choice of timber or stone may have arisen from the availability of local materials rather than cultural differences. The earliest examples developed in Iberia and western France during the mid-fifth millennium BC. The tradition then spread northwards, into the British Isles and then the Low Countries and southern Scandinavia. Each area developed its own variations of the long barrow tradition, often exhibiting their own architectural innovations. An oblique near infrared kite aerial photo of the long barrow on Selsley Common, The Toots, Gloucestershire (looking northwards) A vertical, near infrared kite aerial photo of the long barrow on Selsley Common The purpose and meaning of the barrows remains an issue of debate among archaeologists. One argument is that they are religious sites, perhaps erected as part of a system of ancestor veneration or as a religion spread by missionaries or settlers. An alternative explanation views them primarily in economic terms, as territorial markers delineating the areas controlled by different communities as they transitioned toward farming. </span></body>
+</html>
+
+--9d9646f5a449384fefd615bb5c4e6cb7_263e_40195--

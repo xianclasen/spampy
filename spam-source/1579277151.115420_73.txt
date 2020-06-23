@@ -1,0 +1,158 @@
+Return-Path: <SRS0=krlxSg=3G=mail.audiguard.bid=6528-2982-85526-1744-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 31070 invoked from network); 17 Jan 2020 09:59:09 -0000
+Received: (qmail 12379 invoked from network); 17 Jan 2020 09:59:08 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 17 Jan 2020 09:59:08 -0000
+Received: (qmail 2514 invoked by uid 48516); 17 Jan 2020 09:59:07 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29904 invoked from network); 17 Jan 2020 09:59:07 -0000
+Received: from prep.audiguard.bid (mus6ods53.mustangdry.space [170.130.172.210])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 17 Jan 2020 09:59:06 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=audiguard.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=**DialVision**@audiguard.bid;
+ bh=pLYu6SIIjR2Va5TLhs2BRvAOklU=;
+ b=H5FlwavdYjxmMh6L7Wxhf83voXHNFEeJRCY54RAZrPdT5jkBQQFCMSo10jYdxMwY8kYxEgpvSqON
+   IBUKjtIQ+CTpAjaqBPhvPMiyA56vbuzk7vSalLZK/wqKUB2Bt5TzD5aoWf5FhfgBmVvqbZcyMcEk
+   Vx6XpIuLBCvax7JKIZ0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=audiguard.bid;
+ b=UB2rnYrHZ+jGq1kqYMxlwnKCnddPfq7gU04ABt7ixjYRI63ifptq7ctGkxtE/AJjfQtepXXKlR9p
+   nw1YG3VG874pfZsMug9fUVAe9KzdnmQgeSjKCu7z8XOC7EuxsL6lfhvJDM/cXhvcWnk797SVxsR2
+   wa9Oqdr/+V73kVSoeGU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="d81e1bad6daa4a734a7492b84b714e52_ba6_14e16"
+Date: Fri, 17 Jan 2020 04:55:35 -0500
+From: "**Dial Vision**" <**DialVision**@audiguard.bid>
+Reply-To: "**Dial Vision**" <**DialVision**@audiguard.bid>
+Subject: The innovative reading glasses with lens effect.
+To: <bruce@untroubled.org>
+Message-ID: <cwnfk6o3xx6w68gf-vn7evi5l4xew30cu-ba6-14e16@audiguard.bid>
+Content-Length: 9013
+
+--d81e1bad6daa4a734a7492b84b714e52_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+The innovative reading glasses with lens effect.
+
+http://audiguard.bid/5rkehAtqdHA5jdSO3kzkeddxAhgeRrIcdwmXdzXXfKDhLO8r
+
+http://audiguard.bid/t9QoOjKOjH3Po28FWuJdsGKXqSaIRgyoj7hrN-Sfy2kuzcMQ
+
+The structure and function can be described both as gross anatomy and as microscopic anatomy or histology. The tract itself is divided into upper and lower tracts, and the intestines small and large parts.
+Upper gastrointestinal tract
+Main articles: Esophagus, Stomach, and duodenum
+
+The upper gastrointestinal tract consists of the mouth, pharynx, esophagus, stomach, and duodenum. The exact demarcation between the upper and lower tracts is the suspensory muscle of the duodenum. This differentiates the embryonic borders between the foregut and midgut, and is also the division commonly used by clinicians to describe gastrointestinal bleeding as being of either "upper" or "lower" origin. Upon dissection, the duodenum may appear to be a unified organ, but it is divided into four segments based upon function, location, and internal anatomy. The four segments of the duodenum are as follows (starting at the stomach, and moving toward the jejunum): bulb, descending, horizontal, and ascending. The suspensory muscle attaches the superior border of the ascending duodenum to the diaphragm.
+
+The suspensory muscle is an important anatomical landmark which shows the formal division between the duodenum and the jejunum, the first and second parts of the small intestine, respectively. This is a thin muscle which is derived from the embryonic mesoderm.
+Lower gastrointestinal tract
+The lower gastrointestinal tract includes most of the small intestine and all of the large intestine. In human anatomy, the intestine (bowel, or gut. Greek: éntera) is the segment of the gastrointestinal tract extending from the pyloric sphincter of the stomach to the anus and, as in other mammals, consists of two segments, the small intestine and the large intestine. In humans, the small intestine is further subdivided into the duodenum, jejunum and ileum while the large intestine is subdivided into the, cecum, ascending, t
+
+--d81e1bad6daa4a734a7492b84b714e52_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://audiguard.bid/wiYKX_PK8PGs8UDiuudac-3lrg0zJqKp_MlOkaT6WG-C3s9N"><img src="http://audiguard.bid/777a4f5ce3902f7e6b.jpg" /><img height="1" src="http://www.audiguard.bid/x-ojQEDOgVFyCL6EnUYavuYtcNuxpFsGiokysGY3MqxfOPKt" width="1" /></a>
+<center><a href="http://audiguard.bid/5rkehAtqdHA5jdSO3kzkeddxAhgeRrIcdwmXdzXXfKDhLO8r"><img src="http://audiguard.bid/441c4f2c56cd759648.jpg" /></a></center>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:700px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+	<tbody>
+		<tr>
+			<td style="direction:ltr;font-size:0px;padding:20px 10px;text-align:center;vertical-align:top;">
+			<div style="font-family:Verdana,Geneva,sans-serif;font-size:17px; font-weight: bolder;line-height:30px;text-align:center;color:#f71f5c;">Our vision, our best ally.</div>
+
+			<div class="outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">&nbsp;
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+				<tbody>
+					<tr class="row">
+						<td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word; float:left;">
+						<div class="mj-column-per-50 outlook-group-fix" style="font-family:Verdana,Geneva,sans-serif;font-size:15px; line-height: 23px; font-weight:300;text-align:left;direction:ltr;display:inline-block;vertical-align:top;">
+						<ul style="list-style-type: none; width: 300px; padding-left: 1px;float:left;">
+							<li style="padding-bottom: 15px;">Dial Vision: The innovative reading glasses with lens effect.</li>
+							<li style="padding-bottom: 15px;">Based on the cutting-edge and revolutionary sliding lens technology.</li>
+							<li style="padding-bottom: 15px;">They can be adjusted not only to see close up, but also to see from afar.</li>
+							<li style="padding-bottom: 15px;">You can easily and intuitively adjust the lens. The vision is totally sharp and with clear detail.</li>
+						</ul>
+						<img src="http://audiguard.bid/96175d06d5970e5403.png" style="border:none;display:block;outline:none;text-decoration:none;float:right;width: 300px;" width="193" /></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+	<tbody>
+		<tr>
+			<td style="direction:ltr;font-size:0px;padding:20px 10px;text-align:center;vertical-align:top;">
+			<div class="mj-column-per-99 outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+				<tbody>
+					<tr>
+						<td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;" vertical-align="middle">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
+							<tbody>
+								<tr>
+									<td align="center" bgcolor="#288cc9" role="presentation" style="border:none;border-radius:3px;color:#ffffff;cursor:auto;padding:10px 25px;" valign="middle"><a href="http://audiguard.bid/5rkehAtqdHA5jdSO3kzkeddxAhgeRrIcdwmXdzXXfKDhLO8r" style="background:#288cc9;color:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;font-weight:normal;line-height:120%;Margin:0;text-decoration:none;text-transform:none;" target="_blank">View offer </a></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;"><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://audiguard.bid/qENUsuhz_m1VRK6LfPiOkaFxGuGwhlhNR8MVEZwbJeSr2958" target="_blank"><img src="http://audiguard.bid/5cb12f93bc54cb954a.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">The structure and function can be described both as gross anatomy and as microscopic anatomy or histology. The tract itself is divided into upper and lower tracts, and the intestines small and large parts. Upper gastrointestinal tract Main articles: Esophagus, Stomach, and duodenum The upper gastrointestinal tract consists of the mouth, pharynx, esophagus, stomach, and duodenum. The exact demarcation between the upper and lower tracts is the suspensory muscle of the duodenum. This differentiates the embryonic borders between the foregut and midgut, and is also the division commonly used by clinicians to describe gastrointestinal bleeding as being of either &quot;upper&quot; or &quot;lower&quot; origin. Upon dissection, the duodenum may appear to be a unified organ, but it is divided into four segments based upon function, location, and internal anatomy. The four segments of the duodenum are as follows (starting at the stomach, and moving toward the jejunum): bulb, descending, horizontal, and ascending. The suspensory muscle attaches the superior border of the ascending duodenum to the diaphragm. The suspensory muscle is an important anatomical landmark which shows the formal division between the duodenum and the jejunum, the first and second parts of the small intestine, respectively. This is a thin muscle which is derived from the embryonic mesoderm. Lower gastrointestinal tract The lower gastrointestinal tract includes most of the small intestine and all of the large intestine. In human anatomy, the intestine (bowel, or gut. Greek: &eacute;ntera) is the segment of the gastrointestinal tract extending from the pyloric sphincter of the stomach to the anus and, as in other mammals, consists of two segments, the small intestine and the large intestine. In humans, the small intestine is further subdivided into the duodenum, jejunum and ileum while the large intestine is subdivided into the, cecum, ascending, t </span><br />
+&nbsp;
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+</table>
+</div>
+</body>
+</html>
+
+--d81e1bad6daa4a734a7492b84b714e52_ba6_14e16--

@@ -1,0 +1,246 @@
+Return-Path: <SRS0=n72Mqk=3L=wortiwoom.agency=charlotte.letbetter-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 4777 invoked from network); 22 Jan 2020 18:57:18 -0000
+Received: (qmail 29271 invoked from network); 22 Jan 2020 18:57:18 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 18:57:18 -0000
+Received: (qmail 9213 invoked by uid 48516); 22 Jan 2020 18:57:17 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 6236 invoked from network); 22 Jan 2020 18:57:16 -0000
+Received: from mail.wortiwoom.agency ([85.93.5.10])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 22 Jan 2020 18:57:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=wortiwoom.agency;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=charlotte.letbetter@wortiwoom.agency;
+ bh=YvAk3sdCH5RWBza5yX3RDjJQ6jw=;
+ b=PISANvd1k61kFfQPWgJWjRWctn4UI1b45xhcW2ii08FlnGdtjsNDi6O1q0/aPT9Cl0aV8uNx8Nqw
+   FTGCJ6FDITK14KaoRiZTxHv7GWC4PdEeOV7GV1w9HnritmkSVwm0hFQRD6g55mzfNlihJpklnkhP
+   beq+jTpDbvNIb+dAtB0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=wortiwoom.agency;
+ b=jIfPq22LFJgfEADHcMGUS6w1Zgoe8b3vXK+GBs102ubsp7Ajp3XeHRIP9HdNqyPBmsSJ9qTmpVZo
+   Lux1P1yjCMz2eU3pCBxt6V3WXRWkyb6Tjo4kaT0q1WdhXpBM3wnw471Q/3oIOc0vuh30GRvdNqSG
+   OEmxunfAnGCTuTv7+S4=;
+Received: by mail.wortiwoom.agency id h52dgo0001g2 for <bruce@untroubled.org>; Wed, 22 Jan 2020 13:51:48 -0500 (envelope-from <charlotte.letbetter-bruce=untroubled.org@wortiwoom.agency>)
+Date: Wed, 22 Jan 2020 13:51:48 -0500
+From: Charlotte Letbetter <charlotte.letbetter@wortiwoom.agency>
+To:   <bruce@untroubled.org>
+Subject: Use your rewards 1380516 today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_37_177824209.1579719092063"
+List-Unsubscribe: <http://www.wortiwoom.agency/honed-stouter/7925H2k395zBx8913hop1ZK1M350eO21nFv4GIf4rxvs4FhIHEsvZ11yRDnd9mQoke7Q1MuYD05XAc@Y>
+Message-ID: <0.0.0.4.1D5D155000B3184.4653AE@mail.wortiwoom.agency>
+Content-Length: 11946
+
+------=_Part_37_177824209.1579719092063
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>articles</title>=20
+ </head>=20
+ <body>=20
+  <table bgcolor=3D"#EAEDED" cellpadding=3D"0" class=3D"body-wrap" style=3D=
+"border-collapse: collapse !important; caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-family: sans-serif; font-style: normal; font-variant-caps:=
+ normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-a=
+lign: start; text-indent: 0px; text-transform: none; white-space: normal; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; background-color: rgb(234, 237, 237); text-decoration:=
+ none; box-sizing: border-box; width: 1223px; margin: 0px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" colspan=3D"3">&nbsp; <a href=3D"http://www.wortiwoom.agency/2695a239_5s8I6v11uec0cw350eD21eFv4GIf4rxvs4FhIHEsvZ11eRDnd9mQoke7qL1TkQ06Xy2lcY/circumvent-pioneering" style=
+=3D"font-family: sans-serif; color: rgb(178, 9, 16); text-decoration: under=
+line; font-size: 16px; padding: 0px; margin: 0px; line-height: 22px; "><spa=
+n style=3D"color: rgb(178, 9, 16); text-decoration: underline; ">Go Here to=
+ Claim Your Special Prize</span></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td class=3D"container" style=3D"font-family: sans-serif; box-sizing: =
+border-box; vertical-align: top; margin: 0px auto; border-top-left-radius: =
+5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-=
+bottom-left-radius: 5px; -webkit-box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2=
+px 7px 0px; box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 7px 0px; display: =
+block !important; max-width: 600px !important; clear: both !important; " va=
+lign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"box-sizing: border-box; max-width: 60=
+0px; display: block; margin: 0px auto; ">=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der-collapse: collapse !important; text-align: center; " width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"border-top-left-radius: 5px; border=
+-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left=
+-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td align=3D"center" colspan=3D"3"><a href=3D"http://www.wortiwoom.agency/2695a239_5s8I6v11uec0cw350eD21eFv4GIf4rxvs4FhIHEsvZ11eRDnd9mQoke7qL1TkQ06Xy2lcY/circumvent-pioneering"><im=
+g alt=3D"Claim your special prize!" src=3D"http://www.wortiwoom.agency/McKeon-messes/53a6k23Kp95f7arH12Uelc0eh350ew21kFv4GIf4rxvs4FhIHEsvZ11ORDnd9mQoke6Q10AmT5cl0cY" style=3D"border: 0p=
+x none; line-height: 16px; max-width: 600px; outline: currentcolor none 0px=
+; text-decoration: none; display: block; width: 590px; " /></a></td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+         <tr>=20
+          <td align=3D"center" style=3D"background-color: rgb(255, 255, 255=
+); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom=
+-right-radius: 5px; border-bottom-left-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"24" style=3D"height: 24px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a class=3D"title" href=3D"http://www.wortiwoom.agency/2695a239_5s8I6v11uec0cw350eD21eFv4GIf4rxvs4FhIHEsvZ11eRDnd9mQoke7qL1TkQ06Xy2lcY/circumvent-pioneering" sty=
+le=3D"font-family: sans-serif; color: rgb(178, 9, 16); text-decoration: non=
+e; font-size: 26px; font-weight: 400; padding: 0px; margin: 0px; line-heigh=
+t: 32px; "><span class=3D"subtitle" style=3D"color: rgb(178, 9, 16); text-d=
+ecoration: none; ">Congratulations Walgreens Shopper!</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.wortiwoom.agency/2695a239_5s8I6v11uec0cw350eD21eFv4GIf4rxvs4FhIHEsvZ11eRDnd9mQoke7qL1TkQ06Xy2lcY/circumvent-pioneering" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 24px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">You have been selected to <span st=
+yle=3D"color: rgb(178, 9, 16); text-decoration: underline; ">participate in=
+ our giveaway</span>. You could win a <b>$1000 Walgreens Gift Card</b>, <b>=
+Apple iPhone X</b>, <b>Apple Watch</b>, and other prizes in just one spin.<=
+/span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.wortiwoom.agency/2695a239_5s8I6v11uec0cw350eD21eFv4GIf4rxvs4FhIHEsvZ11eRDnd9mQoke7qL1TkQ06Xy2lcY/circumvent-pioneering" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 26px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">But hurry! The giveaway ends soon!=
+</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"20" style=3D"height: 20px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left">=20
+               <div>
+                <a class=3D"button" href=3D"http://www.wortiwoom.agency/2695a239_5s8I6v11uec0cw350eD21eFv4GIf4rxvs4FhIHEsvZ11eRDnd9mQoke7qL1TkQ06Xy2lcY/circumvent-pioneering" style=3D"border-top=
+-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius=
+: 4px; border-bottom-left-radius: 4px; color: rgb(255, 255, 255); backgroun=
+d-color: rgb(178, 9, 16); display: inline-block; font-family: sans-serif; f=
+ont-size: 18px; font-weight: bold; line-height: 62px; text-align: center; t=
+ext-decoration: none; width: 312px; ">Start Here To Participate</a>
+               </div> </td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.wortiwoom.agency/2695a239_5s8I6v11uec0cw350eD21eFv4GIf4rxvs4FhIHEsvZ11eRDnd9mQoke7qL1TkQ06Xy2lcY/circumvent-pioneering"><img alt=3D"Hurry! =
+This givewaway ends soon!" src=3D"http://www.wortiwoom.agency/6656mB2u395V7uva13YecYl0fR350eL21qFv4GIf4rxvs4FhIHEsvZ11QRDnd9mQoke7R10KZgM5ujMcY/circumvent-pioneering" style=3D"border: 0px none; l=
+ine-height: 16px; max-width: 211px; outline: currentcolor none 0px; text-de=
+coration: none; display: block; width: 211px; " /></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"32" style=3D"height: 32px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" class=3D"container" style=3D"margin: 0px auto; di=
+splay: block !important; max-width: 600px !important; clear: both !importan=
+t; " valign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"max-width: 600px; display: block; mar=
+gin: 0px auto; padding: 0px; ">=20
+       <table cellpadding=3D"0" cellspacing=3D"0" class=3D"main" style=3D"b=
+order-collapse: collapse !important; font-family: sans-serif; margin: 0px; =
+" width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"font-size: 13px; color: rgb(102, 10=
+2, 102); "><a href=3D"http://www.wortiwoom.agency/42b6wz2D395s89yY11Eec0dQ350eN21OFv4GIf4rxvs4FhIHEsvZ11ERDnd9mQoke7m1S0gDB5QPzcY/minute-musical">Tap Here to remove</a><br /> <br =
+/> <span style=3D"font-style: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: auto; text-align: center; text-=
+indent: 0px; text-transform: none; white-space: normal; widows: auto; word-=
+spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0p=
+x; text-decoration: none; caret-color: rgb(128, 128, 128); color: rgb(128, =
+128, 128); font-family: Helvetica; font-size: 11px; float: none; display: i=
+nline !important; ">13395 Voyager Pkwy Ste 130 #634</span><span style=3D"ca=
+ret-color: rgb(0, 0, 0); color: rgb(72, 72, 72); font-family: Ubuntu, Helve=
+tica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-=
+caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; t=
+ext-align: center; text-indent: 0px; text-transform: none; white-space: nor=
+mal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decor=
+ation: none; display: inline !important; float: none; "> </span><br style=
+=3D"caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: norma=
+l; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: =
+center; text-indent: 0px; text-transform: none; white-space: normal; widows=
+: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; font-family: Helvetica; color: rgb(0=
+, 0, 0); font-size: 12px; " /> <span style=3D"caret-color: rgb(0, 0, 0); fo=
+nt-style: normal; font-variant-caps: normal; font-weight: normal; letter-sp=
+acing: normal; orphans: auto; text-align: center; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; widows: auto; word-spacing: 0px; -webki=
+t-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: =
+none; color: rgb(128, 128, 128); font-family: Helvetica; font-size: 11px; f=
+loat: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span><=
+/td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+   </tbody>=20
+  </table> <big></big><big></big><font class="convenience"><span class="blinking"></font></span><font></font><font><small></font></small><font size="prerequisites"></font><font></font> =20
+ <img src=3D"http://www.wortiwoom.agency/89f6f23x9q5Lt8A511Eec10n350en21JFv4GIf4rxvs4FhIHEsvZ11lRDnd9mQoke5Bh1t06wALcYO/entranced-sunlit" alt=3D""/></body>
+</html>
+
+------=_Part_37_177824209.1579719092063--
+

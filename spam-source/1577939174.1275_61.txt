@@ -1,0 +1,80 @@
+Return-Path: <SRS0=lpogop=2W=gorol.buzz=offers.ultra.wifi.pro-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 22240 invoked from network); 1 Jan 2020 19:07:38 -0000
+Received: (qmail 6188 invoked from network); 1 Jan 2020 19:07:37 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Jan 2020 19:07:37 -0000
+Received: (qmail 18664 invoked by uid 48516); 1 Jan 2020 19:07:37 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5568 invoked from network); 1 Jan 2020 19:07:35 -0000
+Received: from mail.gorol.buzz ([91.228.101.115])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 01 Jan 2020 19:07:35 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=gorol.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=offers.ultra.wifi.pro@gorol.buzz;
+ bh=wOMspLdTp8CaDgZLNmYL7VaByPs=;
+ b=mIl0OqnylBKSlKRH+ZpgCLu2CPJKCYz1Bmg7dYETTuDjZqxutmWeaL8I3QF9lbCwVMmjwhy8OM/M
+   Dpw4pHnEeSPDiIQsdPJVY9HTiygbBlhtWin7A42TOFbIIHDu1h1wPWMNSFRHmt86p984HQ//KEck
+   Lrt/i2tjy11M+kaD+XU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=gorol.buzz;
+ b=rOherqaZTeBy4JP0ovttHkvZ+vRvReRiqTDyVDQA+2DfOPiA4qwvNky58FJw9guliatRCXh245Lc
+   uTx9tBWXK6H0BHSmUSl45vQCZOJWhp4SnrVd9I0fv5UxS8sS+l5tNKWvIPDZ/CBmY9ZXjcFbXnge
+   U6bQsARabzub3Ty+3Pg=;
+Received: by mail.gorol.buzz id h1jmve0001gl for <bruce@untroubled.org>; Wed, 1 Jan 2020 14:02:40 -0500 (envelope-from <offers.ultra.wifi.pro-bruce=untroubled.org@gorol.buzz>)
+Date: Wed, 1 Jan 2020 14:02:40 -0500
+From: "Offers Ultra Wifi Pro" <offers.ultra.wifi.pro@gorol.buzz>
+To:   <bruce@untroubled.org>
+Subject: The Simplest Way to Cure WiFi Deadspots in Your House
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_199_1775239769.1577905343179"
+List-Unsubscribe: <http://www.gorol.buzz/playthings-curling/dc85QK2395Px89i12KS1K1oA19a9u21gFv4GIf4rxvs4FhIHEsvZ10aQkRdSeoz96UOx10M6oWHPi0>
+Message-ID: <0.0.0.16.1D5C0D60A56BE2C.683D25@mail.gorol.buzz>
+Content-Length: 4187
+
+------=_Part_199_1775239769.1577905343179
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>admittance herbivore</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.gorol.buzz/abb5Pv2395KL86k11k6fc4x19a9W21bFv4GIf4rxvs4FhIHEsvZ10uQkRdSeoz96W1k0HF6vPHi3X/narration-speedup">Get the&nbsp; fastest wifi speeds</a></span>
+   <br /> &nbsp; 
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+       <center>
+        <a href="http://www.gorol.buzz/abb5Pv2395KL86k11k6fc4x19a9W21bFv4GIf4rxvs4FhIHEsvZ10uQkRdSeoz96W1k0HF6vPHi3X/narration-speedup"><img alt="speedy" src="http://www.gorol.buzz/assistant-episcopal/1986b2S39A5OM7ma13F6flcZ7V19a9P21nFv4GIf4rxvs4FhIHEsvZ10nQkRdSeoz95AZ_105iNzHi" style="border-width: 0px; border-style: solid; width: 104%; " /></a>
+       </center> 
+       <div align="center">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.gorol.buzz/2ff6n2Sh395U8ZU611U6fc5m19a9U21jFv4GIf4rxvs4FhIHEsvZ10SQkRdSeoz95Iy1Y06qlyLHi/Reinhard-modality"><font color="#666666">Leave Here</font></a>.<br /> 4023 Kennett Pike Wilmington, DE 19807</font>
+        <br /> 
+        <br /> 
+        <br /> 
+        <a href="http://www.gorol.buzz/8455yn2395eRl8912r6fc6ML19a9P21tFv4GIf4rxvs4FhIHEsvZ10eQkRdSeoz96V1_0CW5pjyHi/spectacles-deceasing">Remove Here</a>
+        <br /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+        <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+        <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 8091</span>
+        <br /> 
+        <br /> 
+        <br /> &nbsp; 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> <font lang="neurons"><span style="acquired"></span><style></font></style><style></style><span><font lang="irrecoverable"><span color="cradled"></span></font></span><small></small><style class="defer"></style><span lang="highly"></span>
+  </center>   
+ <img src="http://www.gorol.buzz/f2f6gUK2395u8l5p11e6fc8G19a9I21zFv4GIf4rxvs4FhIHEsvZ10eQkRdSeoz96g1F0L_5mlqHi/intone-unbelievable" alt=""/></body>
+</html>
+
+------=_Part_199_1775239769.1577905343179--
+

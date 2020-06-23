@@ -1,0 +1,180 @@
+Received: from localhost by ivanova
+	with SpamAssassin (version 3.4.3);
+	Tue, 28 Jan 2020 22:06:57 -0600
+From: "QuickMedEssentials" <QuickMedStore@man-on.info>
+To: "Software User" <bait@untroubled.org>
+Subject: SPAM 107.0 Find More Extraordinary Discounts
+Date: Wed, 29 Jan 2020 06:05:23 +0200
+Message-Id: <EF154657AA7E50B36F6A239F8B92F4BE@man-on.info>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5E3104E1.D3BF3F8F"
+Content-Length: 7188
+
+This is a multi-part message in MIME format.
+
+------------=_5E3104E1.D3BF3F8F
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Spam detection software, running on the system "ivanova",
+has identified this incoming email as possible spam.  The original
+message has been attached to this so you can view it or label
+similar future email.  If you have any questions, see
+the administrator of that system for details.
+
+Content preview:  If you can not view image, click for images Unsubscribe Now
+   FastMedDirect 
+
+Content analysis details:   (107.0 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+ 100 SHORTCIRCUIT           Not all rules were run, due to a shortcircuited
+                            rule
+                            [score: 0.9652]
+ 7.0 BAYES_95               BODY: Bayes spam probability is 95 to 99%
+
+The original message was not completely plain text, and may be unsafe to
+open with some email clients; in particular, it may contain a virus,
+or confirm that your address can receive spam.  If you wish to view
+it, it may be safer to save it to a file and open it with an editor.
+
+
+------------=_5E3104E1.D3BF3F8F
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <QuickMedStore@man-on.info>
+Delivered-To: bruce-bait@localhost
+Received: (qmail 12549 invoked by alias); 29 Jan 2020 04:06:57 -0000
+Delivered-To: bait@home.untroubled.org
+Received: (qmail 12545 invoked from network); 29 Jan 2020 04:06:56 -0000
+Received: (qmail 48699 invoked by uid 222); 29 Jan 2020 04:06:55 -0000
+Return-Path: <QuickMedStore@man-on.info>
+Delivered-To: virtmail-bait@untroubled.org
+Received: (qmail 48692 invoked from network); 29 Jan 2020 04:06:55 -0000
+Received: from launch-x431.ru (launch-x431.ru [194.67.104.132])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 29 Jan 2020 04:06:55 -0000
+Message-ID: <EF154657AA7E50B36F6A239F8B92F4BE@man-on.info>
+Reply-To: "QuickMedEssentials" <no-reply@man-on.info>
+From: "QuickMedEssentials" <QuickMedStore@man-on.info>
+To: "Software User" <bait@untroubled.org>
+Subject: Find More Extraordinary Discounts
+Date: Wed, 29 Jan 2020 06:05:23 +0200
+Organization: FastMedDirect@man-on.info
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="f4446949856f0c63f5fa49de0e9c"
+List-Unsubscribe: <mailto:unsubscribe@man-on.info?subject=Unsubscribe Me Now>
+DKIM-Signature: v=1; a=rsa-sha256; d=man-on.info; s=mail;
+	c=relaxed/relaxed; t=1580270723;
+	h=message-id:from:to:subject:date:mime-version:list-unsubscribe;
+	bh=THwULkHmx22b/HZjZE+fLNRXHKVxmJiXOnv6DhbxkyM=;
+	b=fyy3pNC1Ji1EJCORBbFgj0p+cwuIa+q5rwinCuELB+doSITZicuiOiMG7ONeni
+	imtB5SC5cRK6ee1suKd2CBgSB+xSDFymqfeZ2MwCfVxzUwj62YOk0H3IpsrObYnl
+	YsuDMT9YBskVzhgtHPAwN8jF/gxbZkLgCZfnTv2RTf8uA=
+
+This is a multi-part message in MIME format.
+
+--f4446949856f0c63f5fa49de0e9c
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+If you can not view image,  click for images
+
+Unsubscribe Now=20
+
+--f4446949856f0c63f5fa49de0e9c
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/1=
+999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251" />
+<title>FastMedDirect</title>
+<style>
+body {
+	font:12px arial;
+	color:#446E1C;
+	padding:0;
+	margin:0 auto;
+	background-image: url();
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+#top a {color: #0099ff; text-decoration: underline; font-size:12px; font-=
+weight:bold;  }
+body,td,th {
+	color: #333333;
+}
+</style>
+<style>body {
+font: 12px arial; color: #446E1C; padding: 0; margin: 0 auto; background-=
+image: url(); background-repeat: no-repeat; background-color: #FFFFFF;
+}
+body {
+color: #333333;
+}
+</style></head>
+<body style=3D"color: #333333; background: url() no-repeat; margin: 0 aut=
+o; padding: 0; font: 12px arial;" bgcolor=3D"#FFFFFF">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"619" ali=
+gn=3D"center">
+<tr><td height=3D"15" align=3D"center" valign=3D"middle" style=3D"color: =
+#333333;"><b>If you can not view image,</b> <a href=3D"http://canadiansho=
+p24.co.com/" style=3D"color: #0099ff; text-decoration: underline; font-si=
+ze: 12px; font-weight: bold;"> click for images</a></td></tr>
+
+  <tr><td height=3D"69" width=3D"619" style=3D"color: #333333;"><a href=3D=
+"http://canadianshop24.co.com/"><img src=3D"https://i.imgur.com/fIACjrR.j=
+pg" alt=3D"Ptolemy was greatly abashed at this rebuff, but, on consultati=
+on with his attendants and followers, it was decided to be too late now t=
+o return. The whole party accordingly re-embarked on board their galleys,=
+ and pursued their way to Rome." width=3D"785" height=3D"567" border=3D"0=
+" /></a></td></tr>
+ =20
+<tr><td style=3D"color: #333333;"><p><a href=3D"http://canadianshop24.co.=
+com/"><img src=3D"https://i.imgur.com/LGpT0XT.jpg" height=3D"353" width=3D=
+"785" border=3D"0" alt=3D"So saying, he commanded Tryphena to say no more=
+ upon the subject, for he would on no account consent that Cleopatra shou=
+ld suffer any injury whatever. This refusal on the part of her husband to=
+ comply with her request only inflamed Tryphena's insane resentment and a=
+nger the more. In fact, the earnestness with which he espoused her sister=
+'s cause, and the interest which he seemed to feel in her fate, aroused T=
+ryphena's jealousy. She believed, or pretended to believe, that her husba=
+nd was influenced by a sentiment of love in so warmly defending her. The =
+object of her hate, from being simply an enemy, became now, in her view, =
+a rival, and she resolved that, at all hazards, she should be destroyed. =
+She accordingly ordered a body of desperate soldiers to break into the te=
+mple and seize her. Cleopatra fled in terror to the altar, and clung to i=
+t with such convulsive force that the soldiers cut her hands off before t=
+hey could tear her away, and then, maddened by her resistance and the sig=
+ht of blood, they stabbed her again and again upon the floor of the templ=
+e, where she fell. The appalling shrieks with which the wretched victim f=
+illed the air in the first moments of her flight and her terror, subsided=
+, as her life ebbed away, into the most awful imprecations of the judgmen=
+ts of Heaven upon the head of the unnatural sister whose implacable hate =
+had destroyed her."/></a><br />
+</p></td></tr>
+
+<tr>
+  <td align=3D"center" style=3D"color: #333333;"><a style=3D"font-family:=
+ 'Open Sans', sans-serif; color: #00BCD8; font-size: 18px; font-weight: n=
+ormal; text-decoration: none;" href=3D"http://canadianshop24.co.com/pages=
+/report_spam/#report-spam" target=3D"_blank">Unsubscribe Now</a></td>
+</tr>
+</table>
+</body>
+</html>
+
+--f4446949856f0c63f5fa49de0e9c--
+
+------------=_5E3104E1.D3BF3F8F--
+

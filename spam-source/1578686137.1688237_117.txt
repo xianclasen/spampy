@@ -1,0 +1,77 @@
+Return-Path: <SRS0=wzRcrA=27=yeada.buzz=dr_tinnitus_md-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14393 invoked from network); 10 Jan 2020 17:16:03 -0000
+Received: (qmail 8037 invoked from network); 10 Jan 2020 17:16:02 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 17:16:02 -0000
+Received: (qmail 18483 invoked by uid 48516); 10 Jan 2020 17:16:02 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 6988 invoked from network); 10 Jan 2020 17:16:01 -0000
+Received: from mail.yeada.buzz (70-102-103-175.nca.lanset.com [70.102.103.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 10 Jan 2020 17:15:50 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=yeada.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=dr_tinnitus_md@yeada.buzz;
+ bh=srMc6HPEFiE/4x66I32NGGiY3pU=;
+ b=docF7+qXy42dRPMR+AS+RMZx7P0vvPogcgwKkzJVUn7VA0XhASY6dW8SRQtlSoIFbATSNmflfyhY
+   L8cfBVB7jy/djFO63Luet67Xz9G0YUiAgL+UmlwSOWoFN8eXfk8qLCz6Q6ri0vY487kBkboeBegT
+   UQCr3yivsYnMPSXHs14=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=yeada.buzz;
+ b=k51PhZCeG4QLzIKtc19dJjvaJ43FDmgpeRrIGyT0jTi0f1GXaylm+Pg+jlAnjSUogwFp9/wxPfp/
+   QhzmURWM3pc/5dcVYbkbNKdhdS5FtA5PfbXeKaNczK/KXzxn9gEqYO8RvywuriPE20wY0X0AgEEO
+   w3J4WbGke6jYk57UJ+w=;
+Received: by mail.yeada.buzz id h32ol20001ge for <bruce@untroubled.org>; Fri, 10 Jan 2020 12:08:44 -0500 (envelope-from <dr_tinnitus_md-bruce=untroubled.org@yeada.buzz>)
+Date: Fri, 10 Jan 2020 12:08:44 -0500
+From: "Dr. Tinnitus M.D." <dr_tinnitus_md@yeada.buzz>
+To:   <bruce@untroubled.org>
+Subject: WARNING: Tinnitus Has NOTHING To Do With Your Ears?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_268_868061193.1578676113315"
+List-Unsubscribe: <http://www.yeada.buzz/stuffy-scarcer/8466i2m3I95RK89j12V1N1ZJi349ah21lFv4GIf4rxvs4FhIHEsvZ11hRYndnedo596Ay1Cn05R3cYO>
+Message-ID: <0.0.0.1D.1D5C7D89D5EB2CA.312C59@mail.yeada.buzz>
+Content-Length: 7388
+
+------=_Part_268_868061193.1578676113315
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>volunteering</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.yeada.buzz/autocratic-disallows/7ce6Kj2N395j8_U612He9aB6g349au21BFv4GIf4rxvs4FhIHEsvZ11qRYndnedo597nW1Ot0w6J2cY0J" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.yeada.buzz/b8d6uj23J95l7RaM13oeV9ga9p349ag21QFv4GIf4rxvs4FhIHEsvZ11zRYndnedo597l1HVy0l6aMcPlY/autocratic-disallows" style="border-width: 0px; border-style: solid; width: 81%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.yeada.buzz/autocratic-disallows/7ce6Kj2N395j8_U612He9aB6g349au21BFv4GIf4rxvs4FhIHEsvZ11qRYndnedo597nW1Ot0w6J2cY0J">Do THIS &quot; east 10 second trick&quot; to restore your hearing</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.yeada.buzz/a9d6nN2x395vZ86T12ze9aH7P349aN21iFv4GIf4rxvs4FhIHEsvZ11KRYndnedo595c10tt5oTqcY/triumphed-abrasive"><font color="#666666">Stop mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.yeada.buzz/uncover-transpose/a084z2395S8lN912Qe9aK8S349aA21YFv4GIf4rxvs4FhIHEsvZ11iRYndnedo595rz1o05kpcAY">Opt out&nbsp; Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">6547 N Academy Blvd #2128</span>
+    <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</span>
+    <br /> &nbsp; 
+   </div> <span id="chop"></span><big><span color="sympathizing"></big><font style="tidal"></font></span><big></big><span></span><big><big></big></big><style lang="positron"></style>
+  </center>   
+ <img src="http://www.yeada.buzz/stuffy-scarcer/71a4l2395CM8Y513lAeG9aaW349aj21IFv4GIf4rxvs4FhIHEsvZ11gRYndnedo597q1w0mmO5rUcYq" alt=""/></body>
+</html>
+
+------=_Part_268_868061193.1578676113315--
+

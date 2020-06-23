@@ -1,0 +1,313 @@
+Return-Path: <SRS0=JwUoEZ=3O=nord-print.info=info@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 25614 invoked from network); 25 Jan 2020 23:32:00 -0000
+Received: (qmail 3725 invoked from network); 25 Jan 2020 23:31:59 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 23:31:59 -0000
+Received: (qmail 6789 invoked by uid 48516); 25 Jan 2020 23:31:58 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 2633 invoked from network); 25 Jan 2020 23:31:58 -0000
+Received: from nord-print.info (nord-print.info [46.229.215.213])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 25 Jan 2020 23:31:58 -0000
+Message-ID: <a57c1fb346d65d515510a6f501e339356f87aad7@nord-print.info>
+From: Angela <info@nord-print.info>
+To: bruce@untroubled.org
+Subject: =?windows-1251?B?yPHv7uv85/PpIPDl8fPw8fsgz8og8SDv7uv8?=
+	=?windows-1251?B?5+7p?=
+Date: Sun, 26 Jan 2020 01:31:53 +0200
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="a09cd578c8bd97bc2025933ffdd9f3862bdfbe"
+DKIM-Signature: v=1; a=rsa-sha256; d=nord-print.info; s=mail;
+	c=relaxed/relaxed; t=1579995113;
+	h=message-id:from:to:subject:date:mime-version;
+	bh=gnnK9zaeD7rq2ebd4Ctv33ntmYs45qpI+MWssqp9Yxs=;
+	b=KXm/4cmWn4jiQ1DdEQc6sNBUr/pjZ2VANxEWxH1/3b8bqUNP1JQyyu41BF7m/+
+	1YIDZkwGUY4NkvLN7jCqZbouwSvteIvdIti/hF0QNKeRlwUCiS7QZDhfSIve92bG
+	0YWCI9RUgOVq4bs001Sm6eYiz1q0lGVsyM9nLdoWf/dxo=
+Content-Length: 12262
+
+--a09cd578c8bd97bc2025933ffdd9f3862bdfbe
+Content-Type: multipart/alternative; boundary="8870399424517b50ccc97fd311351f6af5b71d"
+
+--8870399424517b50ccc97fd311351f6af5b71d
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=EE=E9=F2=E8 =E2 =E0=EA=EA=E0=F3=ED=F2
+
+=C7=E4=F0=E0=E2=F1=F2=E2=F3=E9=F2=E5!
+=CF=F0=E5=E2=F0=E0=F2=E8 =F1=E2=EE=E9 =EA=EE=EC=EF=FC=FE=F2=E5=F0 =E2 =C3=
+=E5=ED=E5=F0=E0=F2=EE=F0 $$$
+=D0=E0=E1=EE=F2=E0=E5=F2 =F3 =E2=F1=E5=F5!
+=C4=EE=EF=EE=EB=ED=E8=F2=E5=EB=FC=ED=EE >>> https://computta.com/?ref=3D5=
+76264
+
+=C0=EA=F2=E8=E2=E8=F0=EE=E2=E0=F2=FC =E0=EA=EA=E0=F3=ED=F2
+
+--
+
+=C2=F1=E5=E3=E4=E0 =ED=E0 =F1=E2=FF=E7=E8,
+
+=D1=E2=FF=E7=E0=F2=FC=F1=FF =F1 =ED=E0=EC=E8=20
+
+**********************************************************************
+If you do not wish to receive further emails,
+
+If you do not wish to receive further emails, then please click here to L=
+ist-Unsubscribe
+| 694782 Santa Monica Blvd, Suite 694782 Los Angeles, CA 694782-694782, U=
+SA |
+
+--8870399424517b50ccc97fd311351f6af5b71d
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251">
+</HEAD>
+<BODY>
+<TABLE style=3D"WIDTH: 100%; MIN-WIDTH: 100%; BACKGROUND-COLOR: rgb(229,2=
+29,229)"=20
+cellSpacing=3D0 cellPadding=3D0 width=3D"100%" bgColor=3D#e5e5e5 border=3D=
+0>
+  <TBODY>
+  <TR class=3Dmld-header>
+    <TD vAlign=3Dtop align=3Dcenter>
+      <TABLE class=3Dmobile100 style=3D"WIDTH: 600px; MIN-WIDTH: 600px"=20
+      cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dtop align=3Dcenter>
+            <TABLE style=3D"BORDER-TOP-STYLE: none; WIDTH: 100%; MIN-WIDT=
+H: 100%"=20
+            cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+              <TBODY>
+              <TR>
+                <TD=20
+                style=3D"PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING=
+-LEFT: 20px; PADDING-RIGHT: 20px"=20
+                vAlign=3Dmiddle=20
+        align=3Dcenter><BR></TD></TR></TBODY></TABLE></TD></TR></TBODY></=
+TABLE></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; P=
+ADDING-RIGHT: 10px"=20
+    vAlign=3Dtop align=3Dcenter>
+      <TABLE class=3Dmobile100 style=3D"WIDTH: 600px; MIN-WIDTH: 600px"=20
+      cellSpacing=3D0 cellPadding=3D0 width=3D600 border=3D0>
+        <TBODY>
+        <TR>
+          <TD=20
+          style=3D"OVERFLOW: hidden; BORDER-COLLAPSE: separate; BACKGROUN=
+D-COLOR: rgb(255,255,255); border-radius: 5px"=20
+          bgColor=3D#ffffff vAlign=3Dtop align=3Dcenter>
+            <TABLE=20
+            style=3D"WIDTH: 100%; MIN-WIDTH: 100%; BACKGROUND-COLOR: rgb(=
+54,52,75)"=20
+            cellSpacing=3D0 cellPadding=3D0 width=3D"100%" bgColor=3D#363=
+44b border=3D0>
+              <TBODY>
+              <TR>
+                <TD style=3D"WIDTH: 33%; MIN-WIDTH: 33%" vAlign=3Dmiddle =
+width=3D"33%"=20
+                align=3Dleft><!-- TEXT -->
+                  <TABLE style=3D"WIDTH: 100%; MIN-WIDTH: 100%" cellSpaci=
+ng=3D0=20
+                  cellPadding=3D0 width=3D"100%" border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3Dpadfix=20
+                      style=3D"PADDING-BOTTOM: 15px; PADDING-TOP: 15px; P=
+ADDING-LEFT: 40px; PADDING-RIGHT: 20px"=20
+                      vAlign=3Dtop align=3Dleft></TD></TR></TBODY></TABLE=
+></TD>
+                <TD style=3D"WIDTH: 67%; MIN-WIDTH: 67%" vAlign=3Dmiddle =
+width=3D"67%"=20
+                align=3Dleft>
+                  <TABLE style=3D"WIDTH: 100%; MIN-WIDTH: 100%" cellSpaci=
+ng=3D0=20
+                  cellPadding=3D0 width=3D"100%" border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3Dpadfix=20
+                      style=3D"PADDING-BOTTOM: 15px; PADDING-TOP: 15px; P=
+ADDING-LEFT: 20px; LINE-HEIGHT: 20px; PADDING-RIGHT: 40px; mso-line-heigh=
+t-rule: exactly"=20
+                      vAlign=3Dmiddle align=3Dright><A=20
+                        style=3D"FONT-SIZE: 12px; TEXT-DECORATION: underl=
+ine; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: rgb(255,255,255); =
+PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PA=
+DDING-RIGHT: 0px"=20
+                        href=3D"https://computta.com/?ref=3D576264"=20
+                        target=3D_blank><SPAN=20
+                        style=3D"COLOR: rgb(255,255,255)">=C2=EE=E9=F2=E8=
+ =E2 =E0=EA=EA=E0=F3=ED=F2=20
+                        </SPAN></A></TD></TR></TBODY></TABLE></TD></TR></=
+TBODY></TABLE>
+            <TABLE style=3D"WIDTH: 100%; MIN-WIDTH: 100%" cellSpacing=3D0=
+=20
+            cellPadding=3D0 width=3D"100%" border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3Dpadfix=20
+                style=3D"PADDING-BOTTOM: 35px; PADDING-TOP: 25px; PADDING=
+-LEFT: 40px; LINE-HEIGHT: 24px; PADDING-RIGHT: 40px; mso-line-height-rule=
+: exactly"=20
+                vAlign=3Dtop align=3Dleft>
+                  <P=20
+                  style=3D"FONT-SIZE: 15px; FONT-FAMILY: Arial, Helvetica=
+, sans-serif; COLOR: rgb(54,52,75); PADDING-BOTTOM: 0px; PADDING-TOP: 0px=
+; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px">=
+=C7=E4=F0=E0=E2=F1=F2=E2=F3=E9=F2=E5!=20
+                  <BR><BR><STRONG>=CF=F0=E5=E2=F0=E0=F2=E8 =F1=E2=EE=E9 =EA=
+=EE=EC=EF=FC=FE=F2=E5=F0 =E2 =C3=E5=ED=E5=F0=E0=F2=EE=F0=20
+                  $$$<BR>&nbsp;&nbsp;&nbsp;&nbsp;<BR>=D0=E0=E1=EE=F2=E0=E5=
+=F2 =F3=20
+                  =E2=F1=E5=F5!<BR>&nbsp;&nbsp;&nbsp;&nbsp;<BR>=C4=EE=EF=EE=
+=EB=ED=E8=F2=E5=EB=FC=ED=EE >>></STRONG>=20
+                  <A=20
+                  href=3D"https://computta.com/?ref=3D576264">https://com=
+putta.com/?ref=3D576264</A><BR>&nbsp;&nbsp;&nbsp;&nbsp;<BR><!-- BLOCK -->
+                  <TABLE style=3D"MAX-WIDTH: 100%; WIDTH: 100%; MIN-WIDTH=
+: 100%"=20
+                  cellSpacing=3D0 cellPadding=3D0 border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD=20
+                      style=3D"PADDING-BOTTOM: 25px; PADDING-TOP: 25px; P=
+ADDING-LEFT: 0px; PADDING-RIGHT: 0px"=20
+                      vAlign=3Dtop align=3Dleft><!-- TEXT -->
+                        <TABLE class=3Dmlg-btn-hover=20
+                        style=3D"OVERFLOW: hidden; WIDTH: 250px; BORDER-C=
+OLLAPSE: separate; MIN-WIDTH: 250px; BACKGROUND-COLOR: rgb(0,159,255); bo=
+rder-radius: 5px"=20
+                        cellSpacing=3D0 cellPadding=3D0 align=3Dleft bgCo=
+lor=3D#009fff=20
+                        border=3D0>
+                          <TBODY>
+                          <TR>
+                            <TD=20
+                            style=3D"BOX-SIZING: border-box; PADDING-BOTT=
+OM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px"=20
+                            vAlign=3Dmiddle align=3Dcenter><A=20
+                              style=3D"FONT-SIZE: 15px; TEXT-DECORATION: =
+none; FONT-FAMILY: Arial; COLOR: rgb(255,255,255); TEXT-ALIGN: center; MA=
+RGIN: 0px; DISPLAY: block; LINE-HEIGHT: 150%"=20
+                              href=3D"https://computta.com/?ref=3D576264"=
+=20
+                              target=3D_blank><SPAN=20
+                              style=3D"COLOR: rgb(255,255,255)">=C0=EA=F2=
+=E8=E2=E8=F0=EE=E2=E0=F2=FC=20
+                              =E0=EA=EA=E0=F3=ED=F2=20
+                    </SPAN></A></TD></TR></TBODY></TABLE></TD></TR></TBOD=
+Y></TABLE></P>
+                  <P=20
+                  style=3D"FONT-SIZE: 15px; FONT-FAMILY: Arial, Helvetica=
+, sans-serif; COLOR: rgb(54,52,75); PADDING-BOTTOM: 0px; PADDING-TOP: 0px=
+; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px">
+                  <P=20
+                  style=3D"FONT-SIZE: 15px; FONT-FAMILY: Arial, Helvetica=
+, sans-serif; COLOR: rgb(54,52,75); PADDING-BOTTOM: 0px; PADDING-TOP: 0px=
+; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px">=
+<EM>--=20
+                  </EM>
+                  <DIV><EM></EM></DIV>
+                  <P=20
+                  style=3D"FONT-SIZE: 15px; FONT-FAMILY: Arial, Helvetica=
+, sans-serif; COLOR: rgb(54,52,75); PADDING-BOTTOM: 0px; PADDING-TOP: 0px=
+; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px">=
+<EM>=C2=F1=E5=E3=E4=E0=20
+                  =ED=E0=20
+  =F1=E2=FF=E7=E8,</EM></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></=
+TABLE></TD></TR>
+  <TR class=3Dmld-footer>
+    <TD vAlign=3Dtop align=3Dcenter>
+      <TABLE class=3Dmobile100 style=3D"WIDTH: 600px; MIN-WIDTH: 600px"=20
+      cellSpacing=3D0 cellPadding=3D0 width=3D600 border=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dpadfix=20
+          style=3D"PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 3=
+5px; PADDING-RIGHT: 35px"=20
+          vAlign=3Dtop align=3Dcenter>
+            <TABLE style=3D"WIDTH: 100%; MIN-WIDTH: 100%" cellSpacing=3D0=
+=20
+            cellPadding=3D0 width=3D"100%" border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3Dpadfix=20
+                style=3D"PADDING-BOTTOM: 5px; PADDING-TOP: 15px; PADDING-=
+LEFT: 20px; LINE-HEIGHT: 20px; PADDING-RIGHT: 20px; mso-line-height-rule:=
+ exactly"=20
+                vAlign=3Dmiddle align=3Dcenter><A=20
+                  href=3D"https://computta.com/?ref=3D576264" target=3D_b=
+lank><IMG=20
+                  style=3D"DISPLAY: block" border=3D0 hspace=3D0 alt=3DMa=
+il=20
+                  src=3D"https://admin.mailigen.com/upload/user/2/images/=
+m50x501.png">=20
+                  </A></TD></TR></TBODY></TABLE>
+            <TABLE style=3D"WIDTH: 100%; MIN-WIDTH: 100%" cellSpacing=3D0=
+=20
+            cellPadding=3D0 width=3D"100%" border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3Dpadfix=20
+                style=3D"PADDING-BOTTOM: 15px; PADDING-TOP: 5px; PADDING-=
+LEFT: 20px; LINE-HEIGHT: 20px; PADDING-RIGHT: 20px; mso-line-height-rule:=
+ exactly"=20
+                vAlign=3Dmiddle align=3Dcenter><A=20
+                  style=3D"FONT-SIZE: 14px; TEXT-DECORATION: underline; F=
+ONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: rgb(161,158,158); PADDIN=
+G-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-=
+RIGHT: 0px"=20
+                  href=3D"https://computta.com/?ref=3D576264" target=3D_b=
+lank><SPAN=20
+                  style=3D"COLOR: rgb(161,158,158)">=D1=E2=FF=E7=E0=F2=FC=
+=F1=FF =F1 =ED=E0=EC=E8</SPAN></A>=20
+              </TD></TR></TBODY></TABLE>
+            <TABLE style=3D"WIDTH: 100%; MIN-WIDTH: 100%" cellSpacing=3D0=
+=20
+            cellPadding=3D0 width=3D"100%" border=3D0>
+              <TBODY>
+              <TR>
+                <TD=20
+                style=3D"PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING=
+-LEFT: 0px; PADDING-RIGHT: 0px"=20
+                vAlign=3Dtop align=3Dleft>
+                  <P align=3Dcenter><FONT size=3D1><SPAN=20
+                  style=3D"FONT-SIZE: small; FONT-FAMILY: georgia,palatin=
+o">**********************************************************************=
+</SPAN><BR><SPAN=20
+                  style=3D"FONT-SIZE: 12px; FONT-FAMILY: georgia,palatino=
+">If you=20
+                  do not wish to receive further emails,</SPAN><BR>
+                  <DIV align=3Dcenter><FONT size=3D2 face=3DVerdana>If yo=
+u do not wish=20
+                  to receive further emails, then please click here to <A=
+=20
+                  href=3D"mailto:info@nord-print.info?subject=3DList-Unsu=
+bscribe">List-Unsubscribe</A><BR><FONT=20
+                  color=3D#808080 size=3D1>| 694782 Santa=20
+                  Monica Blvd, Suite 694782 Los=20
+                  Angeles, CA=20
+                  694782-694782,=20
+                  USA=20
+        |</FONT></FONT></DIV></FONT></TD></TR></TBODY></TABLE></TD></TR><=
+/TBODY></TABLE></TD></TR></TBODY></TABLE></BODY></HTML>
+
+--8870399424517b50ccc97fd311351f6af5b71d--
+
+--a09cd578c8bd97bc2025933ffdd9f3862bdfbe
+Content-Type: message/external-body; access-type=x-deleted; length=3713
+
+
+Content-Type: image/png; name="krypex.png"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="krypex.png"
+
+--a09cd578c8bd97bc2025933ffdd9f3862bdfbe--

@@ -1,0 +1,62 @@
+Return-Path: <SRS0=zFurPG=26=vicap.buzz=national_family_life-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 9883 invoked from network); 9 Jan 2020 19:27:12 -0000
+Received: (qmail 1181 invoked from network); 9 Jan 2020 19:27:11 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Jan 2020 19:27:11 -0000
+Received: (qmail 9119 invoked by uid 48516); 9 Jan 2020 19:27:11 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 28616 invoked from network); 9 Jan 2020 19:27:10 -0000
+Received: from mail.vicap.buzz ([85.93.5.36])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 09 Jan 2020 19:27:10 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=vicap.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=national_family_life@vicap.buzz;
+ bh=rrZskH+BhYEuZbhxh2WenWvMs0I=;
+ b=vPnv3IvqNaid3T9Nq1ocv30a/1bIPqSi7SnCjihaWYK/LTVQHtJW6y1lSPMefl/LN84DvnVGLdjx
+   m7QdxWAJGLaDBAFl0RxIYo1hGe1PpjVUQyePc9BIrtzX6H1LaIAxKK3NlUrnyt3FhgsWYLcLOeLN
+   GZqglSc9MA1AaIyaYEo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=vicap.buzz;
+ b=ymP6B+kdOGedlCBVYpCs0y6/F3TCBoFzMzpdFKuqx+FBuZBkekdPlV5OlkAO+U8KaSptXMCmeYFV
+   Xk03950JeQa68KU9UnNT5UgADOOQ9XmckNdyTHQbxLm3NFShqe79hWhCxWt8PjHGghiIMmdEhyEt
+   Rxa5ATfgeZmc6sOjMDA=;
+Received: by mail.vicap.buzz id h2tv8s0001gk for <bruce@untroubled.org>; Thu, 9 Jan 2020 14:20:15 -0500 (envelope-from <national_family_life-bruce=untroubled.org@vicap.buzz>)
+Date: Thu, 9 Jan 2020 14:20:15 -0500
+From: "National Family Life" <national_family_life@vicap.buzz>
+To:   <bruce@untroubled.org>
+Subject: $1,000,000 Life Insurance Plans you can Afford
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_64_301550516.1578597599063"
+List-Unsubscribe: <http://www.vicap.buzz/confessions-plenipotentiary/5b24Q2395pA8L912G1t1pzA3492g21fFv4GIf4rxvs4FhIHEsvZ8zRIndnSR6dJ1x0n6p3cUzY>
+Message-ID: <0.0.0.8.1D5C721D27BFC4A.137B61@mail.vicap.buzz>
+Content-Length: 3434
+
+------=_Part_64_301550516.1578597599063
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>fibrous</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; "><a href="http://www.vicap.buzz/3d14B2395k8sC611He982N3492C21bFv4GIf4rxvs4FhIHEsvZ8QRIndnSR5q1Oo06h0TcTY/Dido-Lombardy">Guatanteed covereage!</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; ">Access the right Life Plan for you at the BEST rates<br /> <a href="http://www.vicap.buzz/3d14B2395k8sC611He982N3492C21bFv4GIf4rxvs4FhIHEsvZ8QRIndnSR5q1Oo06h0TcTY/Dido-Lombardy"><img alt="" src="http://www.vicap.buzz/conditionals-ensurer/8286d239LP5O7xaj12Oe985iY3492T21vFv4GIf4rxvs4FhIHEsvZ8VRIndnSR7imU10RT5J1cYU" style="height: 994px; width: 603px; " /></a></span><br /> &nbsp; </p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; "><a href="http://www.vicap.buzz/3d14B2395k8sC611He982N3492C21bFv4GIf4rxvs4FhIHEsvZ8QRIndnSR5q1Oo06h0TcTY/Dido-Lombardy">Get a FREE Quote</a></span><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> &nbsp; </p> 
+   <center> 
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, Exit from future email <a href="http://www.vicap.buzz/9ad5z23Y95GZ86A13GeF983oR3492W21KFv4GIf4rxvs4FhIHEsvZ8GRIndnSR7Sj1Y0FA6b@cYPO/substantiations-Vought"><font color="#666666">Here</font></a>.<br /> 4110 Mission Blvd #200 - San Diego, CA 92109</font></p> 
+    <div style="text-align: center; ">
+     <span style="font-size:12px; ">6547 N Academy Blvd #2128<br /> COLORADO SPRINGS CO 80918<br /> <span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.vicap.buzz/confessions-plenipotentiary/9724h2395g8AI913Fe98nN4z3492v21tFv4GIf4rxvs4FhIHEsvZ8WRIndnSR5o10xW5nzpcY">Stop email</a></span></span></span>
+    </div> 
+    <br /> &nbsp; 
+    <br /> &nbsp; 
+   </center> 
+  </center> <style><style size="setups"></style></style><span></span><font></font><font size="bearably"></font><font id="Andromache"><small><big><big></big></big></font></small>  
+ <img src="http://www.vicap.buzz/8bd6s2WX395Q8U5n12eFe986B3492r21tFv4GIf4rxvs4FhIHEsvZ8MRIndnSR6eQO10J5Mj@cY/substantiations-Vought" alt=""/></body>
+</html>
+
+------=_Part_64_301550516.1578597599063--
+

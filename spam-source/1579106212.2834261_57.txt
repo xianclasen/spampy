@@ -1,0 +1,89 @@
+Return-Path: <SRS0=4tYsSl=3E=mail.multihearing.us=6446-2982-85526-1714-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12011 invoked from network); 15 Jan 2020 13:26:50 -0000
+Received: (qmail 11844 invoked from network); 15 Jan 2020 13:26:50 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Jan 2020 13:26:50 -0000
+Received: (qmail 8772 invoked by uid 48516); 15 Jan 2020 13:26:49 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 13722 invoked from network); 15 Jan 2020 13:26:49 -0000
+Received: from cab.multihearing.us ([170.130.174.46])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 15 Jan 2020 13:26:48 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=multihearing.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=ProstateResearch@multihearing.us;
+ bh=kmJL/RmJHCbF+AJthH7X/AzEnn8=;
+ b=ODZ5jG0gZFvtQ3eVEZoYihsTZJ02VKPl0zrxCAIHLARp3VmWJd0l/AhPfao4Aja0migs4SG8xrIH
+   7S61DdSdkGIBnXhaqPPXH+MZW5OdY4CHnEn5rMp4N1JVC60cCV5D+2aJ36UBD3ETSnOd4LmEFppz
+   M5EhTiF/IlVnYJPUe20=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=multihearing.us;
+ b=i5l1B4cYKBRhAgYiAvSPKent9wWsIE//75Ljf9IHbjlUIbdbk/qDNKU3Z3r8aXMr6IE3moEYN4GP
+   n+bLA3WXUNbXjMlSUxWvHPO9wXp8w1twzV70yGb4J5Q3xb+CuPb9YIz0jhtceCfWQQepGZsqvtqL
+   lnVC6kVgnWGEjiC34eU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="8a907d5a5983bb380547d5a0715a9361_ba6_14e16"
+Date: Wed, 15 Jan 2020 08:22:51 -0500
+From: "Prostate Discovery" <ProstateResearch@multihearing.us>
+Reply-To: "Prostate Discovery" <ProstateResearch@multihearing.us>
+Subject: prostate discovery
+To: <bruce@untroubled.org>
+Message-ID: <0y03cr1gtgx2w8rb-f14yduaueduixesr-ba6-14e16@multihearing.us>
+Content-Length: 6823
+
+--8a907d5a5983bb380547d5a0715a9361_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+prostate discovery
+
+http://multihearing.us/q1L8uSl9D0LOq4DaUi5l56SWVEZuVQmqEcRhYpvpG9vtND2g
+
+http://multihearing.us/plHsn0F6mvRbM9ELoS3Y2BkzotyuZ__czVNTaMgBCXXDj5Ze
+
+ Humanity has long used animal skins for clothing, as the leather is durable and the fur provides extra insulation. The native people of North America made much use of beaver pelts, tanning and sewing them together to make robes. Europeans appreciated the quality of these and the North American fur trade developed and became of prime importance to early settlers. In Europe, the soft underfur known as "beaver wool" was found to be ideal for felting and was made into beaver hats and trimming for clothing. Later, the coypu took over as a cheaper source of fur for felting and was farmed extensively in America and Europe; however, fashions changed, new materials became available and this area of the animal fur industry declined. The chinchilla has a soft and silky coat and the demand for its fur was so high that it was nearly wiped out in the wild before farming took over as the main source of pelts. The quills and guardhairs of porcupines are used for traditional decorative clothing. For example, their guardhairs are used in the creation of the Native American "porky roach" headdress. The main quills may be dyed, and then applied in combination with thread to embellish leather accessories such as knife sheaths and leather bags. Lakota women would harvest the quills for quillwork by throwing a blanket over a porcupine and retrieving the quills it left stuck in the blanket.
+Consumption
+
+At least 89 species of rodent, mostly Hystricomorpha such as guinea pigs, agoutis and capybaras, are eaten by humans; in 1985, there were at least 42 different societies in which people eat rats. Guinea pigs were first raised for food around 2500 B.C. and by 1500 B.C. had become the main source of meat for the Inca Empire. Dormice were raised by the Romans in special pots called "gliraria", or in large outdoor enclosures, where they were fattened on walnuts, chestnuts, and acorns. The dormice were also caught from the wild in autumn when they were fattest, and either roasted and dipped into honey or baked while stuffed with a mixture of pork, pine nuts, and other flavorings. Researchers found that in Amazonia, where large mammals were scarce, pacas and common agoutis accounted for around 40 percent of the annual game taken by the indigenous people, but in forested areas where larger mammals were abundant, these rodents constituted only about 3 percent of the take.
+
+--8a907d5a5983bb380547d5a0715a9361_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://multihearing.us/8RbV4961ywqv7lTSyc4qhUd0McHPhari8fuFqTDkUd9o5ysa"><img src="http://multihearing.us/a47d155e5fc1a94f87.jpg" /><img height="1" src="http://www.multihearing.us/2F3rhEH8ayl1CtcoheTV6g0JflVQBylKbvLX6d31uALcG54C" width="1" /></a>
+<div style="width:500px; padding:10px;font-family:Arial;"><br />
+If you&#39;re over the age of 45, <a href="http://multihearing.us/q1L8uSl9D0LOq4DaUi5l56SWVEZuVQmqEcRhYpvpG9vtND2g">then right now, your prostate is about the size of a lemon.</a><br />
+<br />
+But here&#39;s the crazy thing: in your 20s, it was the size of a walnut. Which means in the past 20+ years, it has nearly TRIPLED in size.<br />
+<br />
+It&#39;s so large, it&#39;s putting pressure on your bladder, leaving you with that constant &quot;need to pee&quot; feeling.<br />
+<br />
+Plus, it&#39;s actually blocking blood flow to your &quot;you-know-what&rdquo; and making it impossible to get or stay hard.<br />
+<br />
+That&#39;s the bad news, but the good news is this:<br />
+<br />
+Research has recently discovered an incredibly effective way to shrink your prostate.<br />
+<br />
+<a href="http://multihearing.us/q1L8uSl9D0LOq4DaUi5l56SWVEZuVQmqEcRhYpvpG9vtND2g">Click here to learn more about this incredible discovery</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://multihearing.us/plHsn0F6mvRbM9ELoS3Y2BkzotyuZ__czVNTaMgBCXXDj5Ze"><img src="http://multihearing.us/790dbe6e36fd0ff8a4.jpg" /></a></div>
+<br />
+<span style="color:#FFFFFF;">Humanity has long used animal skins for clothing, as the leather is durable and the fur provides extra insulation. The native people of North America made much use of beaver pelts, tanning and sewing them together to make robes. Europeans appreciated the quality of these and the North American fur trade developed and became of prime importance to early settlers. In Europe, the soft underfur known as &quot;beaver wool&quot; was found to be ideal for felting and was made into beaver hats and trimming for clothing. Later, the coypu took over as a cheaper source of fur for felting and was farmed extensively in America and Europe; however, fashions changed, new materials became available and this area of the animal fur industry declined. The chinchilla has a soft and silky coat and the demand for its fur was so high that it was nearly wiped out in the wild before farming took over as the main source of pelts. The quills and guardhairs of porcupines are used for traditional decorative clothing. For example, their guardhairs are used in the creation of the Native American &quot;porky roach&quot; headdress. The main quills may be dyed, and then applied in combination with thread to embellish leather accessories such as knife sheaths and leather bags. Lakota women would harvest the quills for quillwork by throwing a blanket over a porcupine and retrieving the quills it left stuck in the blanket. Consumption At least 89 species of rodent, mostly Hystricomorpha such as guinea pigs, agoutis and capybaras, are eaten by humans; in 1985, there were at least 42 different societies in which people eat rats. Guinea pigs were first raised for food around 2500 B.C. and by 1500 B.C. had become the main source of meat for the Inca Empire. Dormice were raised by the Romans in special pots called &quot;gliraria&quot;, or in large outdoor enclosures, where they were fattened on walnuts, chestnuts, and acorns. The dormice were also caught from the wild in autumn when they were fattest, and either roasted and dipped into honey or baked while stuffed with a mixture of pork, pine nuts, and other flavorings. Researchers found that in Amazonia, where large mammals were scarce, pacas and common agoutis accounted for around 40 percent of the annual game taken by the indigenous people, but in forested areas where larger mammals were abundant, these rodents constituted only about 3 percent of the take. </span></body>
+</html>
+
+--8a907d5a5983bb380547d5a0715a9361_ba6_14e16--

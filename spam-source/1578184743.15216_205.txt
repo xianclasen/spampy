@@ -1,0 +1,99 @@
+Return-Path: <SRS0=MyqDuo=2X=mail.memoryhack.best=5710-2982-85526-1537-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14554 invoked from network); 2 Jan 2020 16:19:54 -0000
+Received: (qmail 10986 invoked from network); 2 Jan 2020 16:19:54 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 16:19:54 -0000
+Received: (qmail 4866 invoked by uid 48516); 2 Jan 2020 16:19:53 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9112 invoked from network); 2 Jan 2020 16:19:53 -0000
+Received: from rita.memoryhack.best (client-142-11-212-233.hostwindsdns.com [142.11.212.233])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 02 Jan 2020 16:19:46 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=memoryhack.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=KeravitaProBasic@memoryhack.best;
+ bh=YGOR61t7ZEiSs1v7Wnojr+cOBk4=;
+ b=cfCuZfjdH//VlvqtPjDL02vDKxhPxXsWfg1g+X3Jc/ExAQ8w3fjzT+rSPHHofcaBj1m2vEdi8oqo
+   mYc33V+9D0Tj2xknpdzufRUh/MprdDw9KFh9OoiXYI+tMdMHvLv4wd0PJnxEi/3Mj4oRywP7JovP
+   Nl7FhhxvzNfBoqLjSdQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=memoryhack.best;
+ b=nF83geUkh/ASR0dU5K3yjRrR02/TmJvf5rvXpYhhfI646F+jwY+BAMSfwSB8sDO8Ap0s/tJyyaKf
+   2FPENJXVkI5qOVf2524Xa1+JBWVfepaNldAEk0R5ZENQA6JcYMXBKwec7Z37eGTNF/Y4DnXpwt4U
+   IodWItOjYVrlOxDX7AU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="d7388b79f0da14cbb527a7e04e787287_ba6_14e16"
+Date: Thu, 2 Jan 2020 11:18:43 -0500
+From: "Dirt-Cheap Drink" <KeravitaProBasic@memoryhack.best>
+Reply-To: "Dirt-Cheap Drink" <Dirt-CheapDrink@memoryhack.best>
+Subject: Place This Herb Under Your Tongue To Destroy Skin And Nail Fungus
+To: <bruce@untroubled.org>
+Message-ID: <alulrleij8sckoj3-86x4rgfbh45h8maq-ba6-14e16@memoryhack.best>
+Content-Length: 5389
+
+--d7388b79f0da14cbb527a7e04e787287_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Place This Herb Under Your Tongue To Destroy Skin And Nail Fungus
+
+http://memoryhack.best/T-IWvyUZPFL2ec5INaEw-_28pOyztWxvj95CFcp1BdRhPw
+
+http://memoryhack.best/nP2mGhdxYg24i-g1lDvQoaUCvkRxDiQeqyc_fFG49QK3Rw
+
+Adanson used the term Vaccinia to describe a similar family, but Jussieu first used the term Ericaceae. The name comes from the type genus Erica, which appears to be derived from the Greek word ereike. The exact meaning is difficult to interpret, but some sources show it as meaning 'heather'. The name may have been used informally to refer to the plants before Linnaean times, and simply been formalised when Linnaeus described Erica in 1753, and then again when Jussieu described the Ericaceae in 1789.
+
+Historically, the Ericaceae included both subfamilies and tribes. In 1971, Stevens, who outlined the history from 1876 and in some instances 1839, recognised six subfamilies (Rhododendroideae, Ericoideae, Vaccinioideae, Pyroloideae, Monotropoideae, and Wittsteinioideae), and further subdivided four of the subfamilies into tribes, the Rhododendroideae having seven tribes (Bejarieae, Rhodoreae, Cladothamneae, Epigaeae, Phyllodoceae, and Diplarcheae). Within tribe Rhodoreae, five genera were described, Rhododendron L. (including Azalea L. pro parte), Therorhodion Small, Ledum L., Tsusiophyllum Max., Menziesia J. E. Smith, that were eventually transferred into Rhododendron, along with Diplarche from the monogeneric tribe Diplarcheae.
+
+In 2002, systematic research resulted in the inclusion of the formerly recognised families Empetraceae, Epacridaceae, Monotropaceae, Prionotaceae, and Pyrolaceae into the Ericaceae based on a combination of molecular, morphological, anatomical, and embryological data, analysed within a phylogenetic framework. The move significantly increased the morphological and geographical range found within the group. One possible classification of the resulting family includes 9 subfamilies, 126 genera, and about 4000 species:
+
+--d7388b79f0da14cbb527a7e04e787287_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><br />
+<br />
+&nbsp;<br />
+&nbsp;
+<div style="font-family:arial; width:500px; text-align:left;">Doctors can&#39;t explain why this insane method passes every lab test...<br />
+<br />
+But one thing is <a href="http://memoryhack.best/T-IWvyUZPFL2ec5INaEw-_28pOyztWxvj95CFcp1BdRhPw">crystal clear:</a><br />
+<br />
+All the patients who put this incredibly strong spice in their shoes...<br />
+<br />
+<a href="http://memoryhack.best/T-IWvyUZPFL2ec5INaEw-_28pOyztWxvj95CFcp1BdRhPw"><img src="http://memoryhack.best/261297ef0d70ba4d9f.png" /></a><br />
+<br />
+<b>Cleared their fungal infection</b> for good in as little as a couple of days...<br />
+<br />
+While completely regenerating their skin and regrowing their nails...<br />
+<br />
+Without using creams or antibiotics in the process.<br />
+<br />
+Visit the link below to find out all about it:<br />
+<br />
+<a href="http://memoryhack.best/T-IWvyUZPFL2ec5INaEw-_28pOyztWxvj95CFcp1BdRhPw"><b>Strong Spice Destroys Nail Fungus</b></a><br />
+<br />
+<br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://memoryhack.best/QTXpSZUfxvMSzqRz7ruGsJLGH4luZwVQQZcoueq0y3CJCw" target="_blank"><img src="http://memoryhack.best/22601f269ed07770d0.jpg" /></a><br />
+<br />
+<span style="color:#FFFFFF;">Adanson used the term Vaccinia to describe a similar family, but Jussieu first used the term Ericaceae. The name comes from the type genus Erica, which appears to be derived from the Greek word ereike. The exact meaning is difficult to interpret, but some sources show it as meaning &#39;heather&#39;. The name may have been used informally to refer to the plants before Linnaean times, and simply been formalised when Linnaeus described Erica in 1753, and then again when Jussieu described the Ericaceae in 1789. Historically, the Ericaceae included both subfamilies and tribes. In 1971, Stevens, who outlined the history from 1876 and in some instances 1839, recognised six subfamilies (Rhododendroideae, Ericoideae, Vaccinioideae, Pyroloideae, Monotropoideae, and Wittsteinioideae), and further subdivided four of the subfamilies into tribes, the Rhododendroideae having seven tribes (Bejarieae, Rhodoreae, Cladothamneae, Epigaeae, Phyllodoceae, and Diplarcheae). Within tribe Rhodoreae, five genera were described, Rhododendron L. (including Azalea L. pro parte), Therorhodion Small, Ledum L., Tsusiophyllum Max., Menziesia J. E. Smith, that were eventually transferred into Rhododendron, along with Diplarche from the monogeneric tribe Diplarcheae. In 2002, systematic research resulted in the inclusion of the formerly recognised families Empetraceae, Epacridaceae, Monotropaceae, Prionotaceae, and Pyrolaceae into the Ericaceae based on a combination of molecular, morphological, anatomical, and embryological data, analysed within a phylogenetic framework. The move significantly increased the morphological and geographical range found within the group. One possible classification of the resulting family includes 9 subfamilies, 126 genera, and about 4000 species: </span></body>
+</html>
+
+--d7388b79f0da14cbb527a7e04e787287_ba6_14e16--

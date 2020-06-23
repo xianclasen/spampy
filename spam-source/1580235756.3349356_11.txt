@@ -1,0 +1,98 @@
+Return-Path: <7147-9790-262549-1906-bruce=untroubled.org@mail.mydays.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 3474 invoked from network); 28 Jan 2020 10:38:27 -0000
+Received: (qmail 35051 invoked by uid 222); 28 Jan 2020 10:38:26 -0000
+Return-Path: <7147-9790-262549-1906-bruce=untroubled.org@mail.mydays.us>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 35048 invoked from network); 28 Jan 2020 10:38:26 -0000
+Received: from holt.mydays.us (maslq23xb.masontone.host [170.130.172.197])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 28 Jan 2020 10:38:26 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mydays.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=HeartAttackSavior@mydays.us;
+ bh=iYhz7vKMO1waMpjaAhPuu5di/hc=;
+ b=VxIKg8I0Q6ph3/3RofA/1NBmTZE7ADFq0Bh0JRFzxCzxbDgxl/jiQLS6jyKIqh5Nig7oZKsxpvtS
+   CDeySWxPEVgwkolI4OuKAx40RIdOCXnBEdX6ALPkI9JcFQ21MP4Nhk5IuyGMhzOkD9XyGuiFJtss
+   Yk7wk/o1t35RLL64f04=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mydays.us;
+ b=B8v4H2Yc3rkRXwIy+yJO5MijEh25x1LURTU36gn712a4iNbRUXqEqUT3Q1xqwpXccenITuB+Ecwf
+   yWH7uzd6GBW6dYfDRZz3cYUhtJND0CE45r1MC1eXciz7l5AtRt7gAh8GX8kWXZSQgWNzYrgbcESI
+   x+IECy1GFZDZRXdT1BE=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="ebdb0d45a3b5da215a2e57cc33e7ade3_263e_40195"
+Date: Tue, 28 Jan 2020 05:38:03 -0500
+From: "Heart Health" <HeartAttackSavior@mydays.us>
+Reply-To: "Heart Health" <HeartAttackSavior@mydays.us>
+Subject: Are You Ignoring These 4 Heart Attack Warning Signs?
+To: <bruce@untroubled.org>
+Message-ID: <jsk5j0vbwq212dlr-yibbq7mcgdqr8xjz-263e-40195@mydays.us>
+Content-Length: 8631
+
+--ebdb0d45a3b5da215a2e57cc33e7ade3_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Are You Ignoring These 4 Heart Attack Warning Signs?
+
+http://mydays.us/eAER6FMN14mos14EmV3k6dsv7QsVYwvls3DrtjxsH2loRU_8
+
+http://mydays.us/N3C23K-SJiu3AI3H7OD6CwksGX6e6WxAaZFnXlLVR917DVfy
+
+The Internet (portmanteau of interconnected network) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices worldwide. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.
+
+The origins of the Internet date back to research commissioned by the federal government of the United States in the 1960s to build robust, fault-tolerant communication with computer networks. The primary precursor network, the ARPANET, initially served as a backbone for interconnection of regional academic and military networks in the 1980s. The funding of the National Science Foundation Network as a new backbone in the 1980s, as well as private funding for other commercial extensions, led to worldwide participation in the development of new networking technologies, and the merger of many networks. The linking of commercial networks and enterprises by the early 1990s marked the beginning of the transition to the modern Internet, and generated a sustained exponential growth as generations of institutional, personal, and mobile computers were connected to the network. Although the Internet was widely used by academia in the 1980s, commercialization incorporated its services and technologies into virtually every aspect of modern life.
+
+Most traditional communication media, including telephony, radio, television, paper mail and newspapers are reshaped, redefined, or even bypassed by the Internet, giving birth to new services such as email, Internet telephony, Internet television, online music, digital newspapers, and video streaming websites. Newspaper, book, and other print publishing are adapting to website technology, or are reshaped into blogging, web feeds and online news aggregators. The Internet has enabled and accelerated new forms of personal interactions through instant messaging, Internet forums, and social networking. Online shopping has grown exponentially both for major retailers and small businesses and entrepreneurs, as it enables firms to extend their "brick and mortar" presence to serve a larger market or even sell goods and services entirely online. Business-to-business and financial services on the Internet affect supply chains across entire industries.
+
+The Internet has no single centralized governance in either technological implementation or policies for access and usage; each constituent network sets its own policies. The overreaching definitions of the two principal name spaces in the Internet, the Internet Protocol address (IP address) space and the Domain Name System (DNS), are directed by a maintainer organization, the Internet Corporation for Assigned Names and Numbers (ICANN). The technical underpinning and standardization of the core protocols is an activity of the Internet Engineering Task Force (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise. In November 2006, the Internet was included on USA Today's list of New Seven Wonders.
+
+--ebdb0d45a3b5da215a2e57cc33e7ade3_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://mydays.us/bA1p9GyMlN3I74mmqCRahecbAr9gDf3cAsWAznXTlWRj3NxA"><img src="http://mydays.us/01f7ff15599f3899fd.jpg" /><img height="1" src="http://www.mydays.us/llpJKPEOadl4QX8oqXg6whIKPu_X4TZ5c2ztI4QXm9E0JBuq" width="1" /></a>
+<div style="width:500px; padding:10px;font-family:Arial;"><br />
+Hi, this is Dr. Sam Walters.<br />
+Today, I have new information for you that could most definitely save your life.<br />
+<br />
+If, God forbid, you ever have a heart attack, there&#39;s one thing you NEVER want to do.<br />
+<br />
+In fact, if you do it, there&#39;s a good chance your heart attack will be FATAL.<br />
+<br />
+<a href="http://mydays.us/eAER6FMN14mos14EmV3k6dsv7QsVYwvls3DrtjxsH2loRU_8">NEVER do THIS</a> during a heart attack (increases your risk of death)<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://mydays.us/0rSSoldokIN4nCwyI-O3OmSOhvqJP2P1uR0ecpnQ69KIXeQa"><img src="http://mydays.us/20b86bd561e6d82900.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://mydays.us/N3C23K-SJiu3AI3H7OD6CwksGX6e6WxAaZFnXlLVR917DVfy"><img src="http://mydays.us/03c8fa285a79dd5d17.jpg" /></a></div>
+&nbsp;
+
+<p style="color:#FFFFFF;">The Internet (portmanteau of interconnected network) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to link devices worldwide. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing. The origins of the Internet date back to research commissioned by the federal government of the United States in the 1960s to build robust, fault-tolerant communication with computer networks. The primary precursor network, the ARPANET, initially served as a backbone for interconnection of regional academic and military networks in the 1980s. The funding of the National Science Foundation Network as a new backbone in the 1980s, as well as private funding for other commercial extensions, led to worldwide participation in the development of new networking technologies, and the merger of many networks. The linking of commercial networks and enterprises by the early 1990s marked the beginning of the transition to the modern Internet, and generated a sustained exponential growth as generations of institutional, personal, and mobile computers were connected to the network. Although the Internet was widely used by academia in the 1980s, commercialization incorporated its services and technologies into virtually every aspect of modern life. Most traditional communication media, including telephony, radio, television, paper mail and newspapers are reshaped, redefined, or even bypassed by the Internet, giving birth to new services such as email, Internet telephony, Internet television, online music, digital newspapers, and video streaming websites. Newspaper, book, and other print publishing are adapting to website technology, or are reshaped into blogging, web feeds and online news aggregators. The Internet has enabled and accelerated new forms of personal interactions through instant messaging, Internet forums, and social networking. Online shopping has grown exponentially both for major retailers and small businesses and entrepreneurs, as it enables firms to extend their &quot;brick and mortar&quot; presence to serve a larger market or even sell goods and services entirely online. Business-to-business and financial services on the Internet affect supply chains across entire industries. The Internet has no single centralized governance in either technological implementation or policies for access and usage; each constituent network sets its own policies. The overreaching definitions of the two principal name spaces in the Internet, the Internet Protocol address (IP address) space and the Domain Name System (DNS), are directed by a maintainer organization, the Internet Corporation for Assigned Names and Numbers (ICANN). The technical underpinning and standardization of the core protocols is an activity of the Internet Engineering Task Force (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise. In November 2006, the Internet was included on USA Today&#39;s list of New Seven Wonders.</p>
+</body>
+</html>
+
+--ebdb0d45a3b5da215a2e57cc33e7ade3_263e_40195--

@@ -1,0 +1,136 @@
+Return-Path: <SRS0=kh8ztd=3K=mail.moneydial.bid=6754-9790-262549-1802-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15435 invoked from network); 21 Jan 2020 10:49:56 -0000
+Received: (qmail 16278 invoked from network); 21 Jan 2020 10:49:55 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Jan 2020 10:49:55 -0000
+Received: (qmail 22180 invoked by uid 48516); 21 Jan 2020 10:49:55 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 28013 invoked from network); 21 Jan 2020 10:49:55 -0000
+Received: from cab.moneydial.bid (client-192-236-154-251.hostwindsdns.com [192.236.154.251])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 21 Jan 2020 10:49:54 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=moneydial.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=SurvivalJohn@moneydial.bid;
+ bh=uZPHNQKO2JsYlPG2PtTETbtlapI=;
+ b=bgIpst6S5aHKEHAcXXcYkTWSu08tCoFW3RqIcqH/7V/uc0AvOW8b+rZMpEoOYyFz5dQovzwDYYbW
+   KagAKKrcgKW+TnQttyZ19G2AB8Uh1PPdgYrCzekbkYux7ISEbgtksYqMDdny3nxQMZ0m0+P0OdqR
+   JTozl1kAuQj/kAR+em4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=moneydial.bid;
+ b=hkQLpQKEZ5MlPR8Z/L8Br9VKiT2h3sMvJg0oZDWW88OMmU0+IogGoYAgCreMzRAB6Y8fQ3APfmTH
+   hCR1eww/18lqVOod8JMKS5pCx/7jLhIYf69KQ2jqE6Kl9dKOxLpFYSqkLnZQrqSrzXEXieDK9wHX
+   1Qd93pP2f7NYPR9v+zs=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="bf9e94de71f556ed03c4fdad02bb53dc_263e_40195"
+Date: Tue, 21 Jan 2020 05:49:12 -0500
+From: "Money Clip knife" <SurvivalJohn@moneydial.bid>
+Reply-To: "Survival John" <SurvivalJohn@moneydial.bid>
+Subject: The Stylish & Discreet Weapon Bad Guys Don't See Coming! - GET 1 FREE!
+To: <bruce@untroubled.org>
+Message-ID: <fs23h9ilrel3lb2h-w4hk47ybszarh7tn-263e-40195@moneydial.bid>
+Content-Length: 11002
+
+--bf9e94de71f556ed03c4fdad02bb53dc_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+The Stylish & Discreet Weapon Bad Guys Don't See Coming! - GET 1 FREE!
+
+http://moneydial.bid/He-QjedmQnf9cCXW7rewXVL-DbxZEwxki8AVP76zEhvNSBE
+
+http://moneydial.bid/fF-YHLKwSUaErUJxuneNRunJv0axht1bZ3qkF-Vs2siAzmyC
+
+Original research is research that is not exclusively based on a summary, review or synthesis of earlier publications on the subject of research. This material is of a primary source character. The purpose of the original research is to produce new knowledge, rather than to present the existing knowledge in a new form (e.g., summarized or classified).
+
+Original research can take a number of forms, depending on the discipline it pertains to. In experimental work, it typically involves direct or indirect observation of the researched subject(s), e.g., in the laboratory or in the field, documents the methodology, results, and conclusions of an experiment or set of experiments, or offers a novel interpretation of previous results. In analytical work, there are typically some new (for example) mathematical results produced, or a new way of approaching an existing problem. In some subjects which do not typically carry out experimentation or analysis of this kind, the originality is in the particular way existing understanding is changed or re-interpreted based on the outcome of the work of the researcher.
+
+The degree of originality of the research is among major criteria for articles to be published in academic journals and usually established by means of peer review. Graduate students are commonly required to perform original research as part of a dissertation.
+
+Scientific research is a systematic way of gathering data and harnessing curiosity. This research provides scientific information and theories for the explanation of the nature and the properties of the world. It makes practical applications possible. Scientific research is funded by public authorities, by charitable organizations and by private groups, including many companies. Scientific research can be subdivided into different classifications according to their academic and application disciplines. Scientific research is a widely used criterion for judging the standing of an academic institution, but some argue that such is an inaccurate assessment of the institution, because the quality of research does not tell about the quality of teaching (these do not necessarily correlate).
+
+Research in the humanities involves different methods such as for example hermeneutics and semiotics. Humanities scholars usually do not search for the ultimate correct answer to a question, but instead, explore the issues and details that surround it. Context is always important, and context can be social, historical, political, cultural, or ethnic. An example of research in the humanities is historical research, which is embodied in historical method. Historians use primary sources and other evidence to systematically investigate a topic, and then to write histories in the form of accounts of the past. Other studies aim to merely examine the occurrence of behaviours in societies and communities, without particularly looking for reasons or motivations to explain these. These studies may be qualitative or quantitative, and can use a variety of approaches, such as queer theory or feminist theory.
+
+Artistic research, also seen as 'practice-based research', can take form when creative works are considered both the research and the object of research itself. It is the debatable body of thought which offers an alternative to purely scientific methods in research in its search for knowledge and truth.
+
+--bf9e94de71f556ed03c4fdad02bb53dc_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://moneydial.bid/uiKNMqgAN5YlK2v3bvlsrHhwfWO0p1gufc97c6STVanDfaDy"><img src="http://moneydial.bid/a148a3fc4b98d274cf.jpg" /><img height="1" src="http://www.moneydial.bid/5gCdl4j8qBFgn8SOkRV0tKISDJWzijXHj4DOz61Gfhf7rDNx" width="1" /></a><br />
+&nbsp;
+<div style="margin:0;padding:0">&nbsp;
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;margin:0;padding:0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="max-width:590px;min-width:285px;margin:0px;padding-left:4px;padding-right:4px">
+				<tbody>
+					<tr>
+						<td>
+						<table cellpadding="0" cellspacing="0" style="border:1px solid #eee;border-radius:5px" width="100%">
+							<tbody>
+								<tr>
+									<td height="5" style="font-size:5px;line-height:5px">&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="font-family:arial,sans-serif;font-size:17px;line-height:24px;color:#2a2a2a;padding:12px;text-align:left">
+									<p>&nbsp;</p>
+
+									<center>
+									<h1>We&#39;ve have just 45 to give away!</h1>
+
+									<p>&nbsp;</p>
+									<br />
+									<a href="clickthrough"><img src="http://moneydial.bid/e1dc9ad248e34546bc.png" style="width:550px;" /></a></center>
+									<br />
+									<span id="m_-3604731635657236426email_3" name="email_3" style="font-size:18px"><a href="http://moneydial.bid/He-QjedmQnf9cCXW7rewXVL-DbxZEwxki8AVP76zEhvNSBE" id="m_-3604731635657236426auto_assign_link_num_4" name="m_-3604731635657236426_https   trk knxtrk aff_c offer_id 9 aff_id 1  3" target="_blank">Just enter your address here so we can send you a free CLIPKNIFE&trade;</a><br />
+									<br />
+									<strong>What is it?</strong> It&#39;s a discreet, compact and easy to carry money clip that doubles as a deadly weapon that can be deployed in mili-seconds!<br />
+									<br />
+									It&#39;s the perfect &quot;Every Day Carry&quot; for guys and gals!</span><br />
+									<br />
+									<span id="m_-3604731635657236426email_3" name="email_3" style="font-size:18px">We know you&#39;re going to love the CLIPKNIFE&trade; and we fully stand by our products. That&#39;s why when you purchase your CLIPKNIFE&trade; today we&#39;re offering a long 60-day, 100% mon?y back guarant?e. </span><br />
+									<br />
+									<a href="http://moneydial.bid/He-QjedmQnf9cCXW7rewXVL-DbxZEwxki8AVP76zEhvNSBE" id="m_-3604731635657236426autoassign_link_num_5" name="m_-3604731635657236426_https   trk knxtrk aff_c offer_id 9 aff_id 1  4" target="_blank"><span id="m_-3604731635657236426email_4" name="email_4" style="font-size:18px">&gt;&gt; GET YOUR FREE CLIPKNIFE&trade; HERE!</span></a><br />
+									<br />
+									<a href="http://moneydial.bid/He-QjedmQnf9cCXW7rewXVL-DbxZEwxki8AVP76zEhvNSBE" id="m_-3604731635657236426auto_assign_link_num_1" name="m_-3604731635657236426_knownconnect affc offerid 7773 affid 1411" style="color:#2a2a2a;text-decoration:none" target="_blank">~Survival John </a></td>
+								</tr>
+								<tr>
+									<td height="25">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" style="color:#2a2a2a;font-family:open sans,arial,sans-serif;font-size:14px;padding:35px 22px;line-height:22px">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://moneydial.bid/4TUYNTB0gAEAVIcPHVFnMgIyC4hWN534VerInACN9oSLolg0"><img src="http://moneydial.bid/1cce5e3f92cfebfa5c.jpg" /></a></center>
+
+<div style="color:#FFFFFF;font-size:6px;">Original research is research that is not exclusively based on a summary, review or synthesis of earlier publications on the subject of research. This material is of a primary source character. The purpose of the original research is to produce new knowledge, rather than to present the existing knowledge in a new form (e.g., summarized or classified). Original research can take a number of forms, depending on the discipline it pertains to. In experimental work, it typically involves direct or indirect observation of the researched subject(s), e.g., in the laboratory or in the field, documents the methodology, results, and conclusions of an experiment or set of experiments, or offers a novel interpretation of previous results. In analytical work, there are typically some new (for example) mathematical results produced, or a new way of approaching an existing problem. In some subjects which do not typically carry out experimentation or analysis of this kind, the originality is in the particular way existing understanding is changed or re-interpreted based on the outcome of the work of the researcher. The degree of originality of the research is among major criteria for articles to be published in academic journals and usually established by means of peer review. Graduate students are commonly required to perform original research as part of a dissertation. Scientific research is a systematic way of gathering data and harnessing curiosity. This research provides scientific information and theories for the explanation of the nature and the properties of the world. It makes practical applications possible. Scientific research is funded by public authorities, by charitable organizations and by private groups, including many companies. Scientific research can be subdivided into different classifications according to their academic and application disciplines. Scientific research is a widely used criterion for judging the standing of an academic institution, but some argue that such is an inaccurate assessment of the institution, because the quality of research does not tell about the quality of teaching (these do not necessarily correlate). Research in the humanities involves different methods such as for example hermeneutics and semiotics. Humanities scholars usually do not search for the ultimate correct answer to a question, but instead, explore the issues and details that surround it. Context is always important, and context can be social, historical, political, cultural, or ethnic. An example of research in the humanities is historical research, which is embodied in historical method. Historians use primary sources and other evidence to systematically investigate a topic, and then to write histories in the form of accounts of the past. Other studies aim to merely examine the occurrence of behaviours in societies and communities, without particularly looking for reasons or motivations to explain these. These studies may be qualitative or quantitative, and can use a variety of approaches, such as queer theory or feminist theory. Artistic research, also seen as &#39;practice-based research&#39;, can take form when creative works are considered both the research and the object of research itself. It is the debatable body of thought which offers an alternative to purely scientific methods in research in its search for knowledge and truth.</div>
+</body>
+</html>
+
+--bf9e94de71f556ed03c4fdad02bb53dc_263e_40195--

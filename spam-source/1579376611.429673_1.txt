@@ -1,0 +1,64 @@
+Return-Path: <SRS0=6yPewA=3H=gruful.men=national-family-life-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 20878 invoked from network); 18 Jan 2020 17:47:15 -0000
+Received: (qmail 20586 invoked from network); 18 Jan 2020 17:47:14 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Jan 2020 17:47:14 -0000
+Received: (qmail 13523 invoked by uid 48516); 18 Jan 2020 17:47:13 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 30528 invoked from network); 18 Jan 2020 17:47:12 -0000
+Received: from mail.gruful.men ([85.93.5.229])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 18 Jan 2020 17:47:11 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=gruful.men;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=national-family-life@gruful.men;
+ bh=A9zdjFacTRGINv2vnxXtv5vIvDE=;
+ b=ArzqofFw+yJBIe51J9pKiY8d8HtbEDYI3sg+dmjpF4dVqIP6wdHX42ZnKZaWuLcBjvrTibSg1WTf
+   Di5F2x85TOBtl0adZ1prZObQxnVq8+TzfXU3+y2XFzTugrodQ5PaBDP6ZxL7BjvhnksrmwVxoW9M
+   REgda3VgtTYG1ZwKAg8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=gruful.men;
+ b=PZ1ocR59V+fa6kCboYi5LyZ67YfdL95JqA+Az8zyh6zGY2RlEaTNOePjfyxkJ2AiswmsudyljrCJ
+   vIPjeEYKvdgFVFNL87mJTpNcHPPNJfOIR/NwVnUHr+NAkwp8mMnHrrQyhQXc6njDRw4t6S/WvoN1
+   dG/IIXTqi0MUb08+YrE=;
+Received: by mail.gruful.men id h4d29u0001gs for <bruce@untroubled.org>; Sat, 18 Jan 2020 12:44:04 -0500 (envelope-from <national-family-life-bruce=untroubled.org@gruful.men>)
+Date: Sat, 18 Jan 2020 12:44:04 -0500
+From: "National Family Life" <national-family-life@gruful.men>
+To:   <bruce@untroubled.org>
+Subject: $1,000,000 Life Insurance Plans you can Afford
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_319_1991578194.1579369427631"
+List-Unsubscribe: <http://www.gruful.men/hailstone-drawled/3d25m2M395A89tW13s1TJoO1S34e6O21kFv4GIf4rxvs4FhIHEsvZ8JR1ndoRd5gJ10p5t0cjY>
+Message-ID: <0.0.0.23.1D5CE26E0748874.1E46F8@mail.gruful.men>
+Content-Length: 4337
+
+------=_Part_319_1991578194.1579369427631
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>conceptualize</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; "><a href="http://www.gruful.men/Vietnamese-transplants/7926qh2l395gD8Z613vAebA37P34e6P21FFv4GIf4rxvs4FhIHEsvZ8IR1ndoRd6WOZ10S5dPTcY">F R E E Quote get up to 1million in coverage!</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-size:18px; ">Access the right Life Plan for you at the BEST rates<br /> <a href="http://www.gruful.men/Vietnamese-transplants/7926qh2l395gD8Z613vAebA37P34e6P21FFv4GIf4rxvs4FhIHEsvZ8IR1ndoRd6WOZ10S5dPTcY"><img alt="" src="http://www.gruful.men/Weisenheimer-bests/7564w2395y7alv12RebN3ao34e6H21KFv4GIf4rxvs4FhIHEsvZ8uR1ndoRd5hzM105XTcjY" style="height: 1005px; width: 610px; " /></a></span><br /> &nbsp; </p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.gruful.men/Vietnamese-transplants/7926qh2l395gD8Z613vAebA37P34e6P21FFv4GIf4rxvs4FhIHEsvZ8IR1ndoRd6WOZ10S5dPTcY">Get Your FREE Quote</a></span></span><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> &nbsp; </p> 
+   <center> 
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, leave from future email <a href="http://www.gruful.men/ef36OgJ2395bW86q13Aebqq38V34e6y21zFv4GIf4rxvs4FhIHEsvZ8uR1ndoRd5F1nL06fWc3lY/opponent-city"><font color="#666666">Here</font></a>.<br /> 4110 Mission Blvd #200 - San Diego, CA 92109</font></p> 
+    <div style="text-align: center; ">
+     <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+     <br /> 
+     <span style="font-size:12px; "><span style="font-family:trebuchet ms,helvetica,sans-serif; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.gruful.men/7914S2395QJw8911heb39F34e6V21eFv4GIf4rxvs4FhIHEsvZ8QR1ndoRd7ov1iC0S5UJc2Y/opponent-city">Ext email</a></span></span></span>
+    </div> 
+    <br /> &nbsp; 
+    <br /> &nbsp; 
+   </center> 
+  </center> <span class="triangles"></span><big><style></style><big></big></big>  
+ <img src="http://www.gruful.men/9176C239pi5MD85A13Ueb3Xsbw34e6m21UFv4GIf4rxvs4FhIHEsvZ8jR1ndoRd6PkW1v06qpcY2A/Vietnamese-transplants" alt=""/></body>
+</html>
+
+------=_Part_319_1991578194.1579369427631--
+

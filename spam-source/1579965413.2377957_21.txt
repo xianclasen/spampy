@@ -1,0 +1,64 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 32459 invoked from network); 25 Jan 2020 11:27:31 -0000
+Received: (qmail 31599 invoked from network); 25 Jan 2020 11:27:31 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 11:27:31 -0000
+Received: (qmail 24805 invoked by uid 48516); 25 Jan 2020 11:27:29 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 14748 invoked from network); 25 Jan 2020 11:27:29 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 25 Jan 2020 11:27:29 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1729045AbgAYL12 (ORCPT <rfc822;bruce@untroubled.org>);
+        Sat, 25 Jan 2020 06:27:28 -0500
+Received: from sonic311-56.consmr.mail.ne1.yahoo.com ([66.163.188.237]:34968
+        "EHLO sonic311-56.consmr.mail.ne1.yahoo.com" rhost-flags-OK-OK-OK-OK)
+        by vger.kernel.org with ESMTP id S1725767AbgAYL11 (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Sat, 25 Jan 2020 06:27:27 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1579951646; bh=CBFfKfYQJ1v6QAde5T6in9l6Yx4Vy07p7sq+yST4SHo=; h=Date:From:Reply-To:Subject:References:From:Subject; b=QrnSqEC73k3U5PUCLDswrFRSEh1v1kHezrOtJA4I6KKV5eqvq9SNdsPrEroz69w3nKJbsNfVoTj3yAJIDXXhJt6C00BWf0rrednrt+vhm1w/AWW7iG8fWaeIrcfTL+ebWkhmiMyxSKhCdwi/EOjPFgglfqJ8vghum5YDUoCj8RjHwfZI/sDQOTfKzSkRxMsRrVnLW0C5i4wI7dO2pYRRiOhdBaFbfYVPmP5RSGefuyLw5L+ucEe0oSLkvHzyCql0FgSDk15rH/CGk28Yko3bkFjX16xFRxXOktvrJHRTOqPodAYuy/cKgJwrSBMzH5px3cVU0atQqe2/j2vOX49SPA==
+X-YMail-OSG: 0PrPwJQVM1nMO9bQHdXuLA3VDg4rxWTCVmqGJg2dB1ALilEdQPqbYsXpqLbEQPa
+ ekSpwREv0g9ryaZ7O0FZpioiI9mjIbvqdUdm69tQOG5nZu0tBegUNPw0CB7xcPGauKAZojTpyr6m
+ _xU0vGeKUmxvmkG8vjJEdcpM1MLbgpfMqjJhjfC98AIMLKdjp7Il0kX5a2zFeqYCGLyCYo1wYw6b
+ G11re7JhahijCoUNjgA7ScRfSSMFU3WSfJxVaeXT9AKoLzso1NFKVVFMclMS8.iKhSDgVlTCqsh8
+ SxqQEngGb_Aa8u0eKXo51dtgiZ0eTG6L.aU9BmUYQkwtSXM6XOaX7Lz08Tr.YhqMeMlAQNM0_728
+ 06gqPEIedgoZCM1fFhIartHnSd46LJ3diSQs5YP_zX4tNKuIcZ0UwniC0jAfZtciinxDu6j1FC_u
+ tsoL31oWJ9Jug4HZevyDlEy1l16Rw2Ex_cOPko1QhPA3_czYauoh_6ZYsVGKSNRumZuzkiPka27B
+ tSqjO8k43_oclO9j4zomlQH0RMAQ3637_lYa8f0M9TA0XeQIFLLAX8ZfnskjqQl7UG50QeG.l4OT
+ j_2uiCF6Vi6zspIo_Hb6mtWQnxuw9X8e.Kp0Ci7b6g8LCIkHUCy9Ii5TdzvkLlJ9aqytAqR4AJO2
+ OiqnzxZKVui6JYVIdj0UrApvYP2aYV_A7Cb60v_quobhKJfby9.7AsvN2F3D7DcRYClLPs3P19oD
+ bj8yXG0YYlxpHtupzhxhCYHIPSm0Z0EhFsJSHx463_thGzQ8WYY4yrrA.Qbpv3FcGNoiel_ZxdVr
+ HaNA98FS0rvLSxiISzguhAszGgoHcmwFtiso1_EAqxhayYEj7uS0XaeOTvjAjYWgUYq59G9v3id7
+ yy.3ECS2gCVqqtH6D4..lRiN9_kCliCgjRyYvc5hPV_7cRYrW9JjLrttCK8u3xu_QcDX7MQJ4zgi
+ 9gdMhMlGNe.5LwO_ucISorhQlfgaTLUrXJMhKdAEEYEWt7RM59_haJ0FCpBtZ6OJxyzOfLtzMBZb
+ visIPvlLJaq1j95tyU1FJ49pq5zbBw4sE_9OmrCyoQSeXwTLdcmQ0rIqGvIbnTCtUqT2lEB.jBEX
+ i3ilE10mi97BTrsM53KlZvr_F6nfO7Qst3CQ3j_GMsyOWweC_w0MrCnvHsrABeadqTVGUv7rQqfy
+ fya1l_YE2YRJup.N1vSDHwVWz0DlkL22fC5GORTHsQeC3Ze7k8I98rCuW0x5TJxpmIibvacGnCGD
+ q6xKJOyccDY9e3VhRFthyaAOJVL2XrhVPKmiEIm6O_BJvWIjfD1lxIA1GWuVz0HHqWwU6XNqFU6z
+ F0y_iw0Wy3JN4d4xD_ce4EO3jlcpGJeDA3UMMBTPyZLIgYAS8M5d3ocA52fAOS4oewYBXR61KwuI
+ 0
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic311.consmr.mail.ne1.yahoo.com with HTTP; Sat, 25 Jan 2020 11:27:26 +0000
+Date:   Sat, 25 Jan 2020 11:25:25 +0000 (UTC)
+From:   Capital Alliance <dxvcxbvcxvcxcx@ghamoko.com>
+Reply-To: capitalalliance01@accountant.com
+Message-ID: <28268311.223598.1579951525869@mail.yahoo.com>
+Subject: Business Loan/Personal Loan Offer Apply Now...
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+References: <28268311.223598.1579951525869.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.15116 YMailNodin Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+To:     unlisted-recipients:; (no To-header on input)
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 428
+
+
+
+
+Does your firm,company or industry need financial assistance? Do you need finance to start your business? Do you need finance to expand your business? Do you need personal loan? we give out all times of secure loan and unsecure loan with good faith , it will just hit your account withing 24hrs,No stress No tension, just apply free feel and relax to receive your loan thanks, contact us at: capitalalliance01@accountant.com

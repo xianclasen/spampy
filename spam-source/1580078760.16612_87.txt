@@ -1,0 +1,245 @@
+Return-Path: <SRS0=tonUlf=3P=did3326.com=angelia_coover-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12505 invoked from network); 26 Jan 2020 18:50:35 -0000
+Received: (qmail 8490 invoked from network); 26 Jan 2020 18:50:35 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 18:50:35 -0000
+Received: (qmail 29589 invoked by uid 48516); 26 Jan 2020 18:50:34 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20462 invoked from network); 26 Jan 2020 18:50:32 -0000
+Received: from mail.did3326.com (208-186-113-71.nca.datanoc.com [208.186.113.71])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 26 Jan 2020 18:50:31 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=did3326.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=angelia_coover@did3326.com;
+ bh=yrjXjKxG1eKHLESqM2LQwSDbpNk=;
+ b=zr3ppCbW/yEqGiAj7GHpg/jbLAE7mBKnYe0IhoQOd3upZypeQ9mKDLGlteN1R5J4o9fUT1VThPRT
+   IYl4AkZ3M8ZAS29+XGV+I1e+YYsBDd0X1Cidbn4/RAal/H71TA5jTc+YwlF7RdG0OJNYyWKNUzJt
+   b0ysSFoOdvfZd82RQL8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=did3326.com;
+ b=uaE9SdpGPn7L2Bq5HaRCtYIULnxcsNhCkk6KPe3cKDBYMpSYGjcPkyfUkKEnSnZI7zJZ+RUFYb40
+   SPpX8yUKyy49+U1gwZj3Vnh9BDEj/32kmSdAtA6XhwhuMdavxFvsAto3jkMQyjxI7tyVQEPvvgXN
+   osw4ExdChduczlmn9ec=;
+Received: by mail.did3326.com id h5nfng0001gq for <bruce@untroubled.org>; Sun, 26 Jan 2020 13:40:40 -0500 (envelope-from <angelia_coover-bruce=untroubled.org@did3326.com>)
+Date: Sun, 26 Jan 2020 13:40:40 -0500
+From: Angelia Coover <angelia_coover@did3326.com>
+To:   <bruce@untroubled.org>
+Subject: YOU could be the lucky one, click to find out!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_580_1715214507.1580064025578"
+List-Unsubscribe: <http://www.did3326.com/installations-unidentified/7385kv2395r8mF912c1jS1Ih3536s21PFv4GIf4rxvs4FhIHEsvZ11ORqnd9Q9obe5n1_0J6olA3cY>
+Message-ID: <0.0.0.40.1D5D4781BF7413C.451003@mail.did3326.com>
+Content-Length: 11797
+
+------=_Part_580_1715214507.1580064025578
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>Cameron</title>=20
+ </head>=20
+ <body>=20
+  <table bgcolor=3D"#EAEDED" cellpadding=3D"0" class=3D"body-wrap" style=3D=
+"border-collapse: collapse !important; caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-family: sans-serif; font-style: normal; font-variant-caps:=
+ normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-a=
+lign: start; text-indent: 0px; text-transform: none; white-space: normal; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; background-color: rgb(234, 237, 237); text-decoration:=
+ none; box-sizing: border-box; width: 1430px; margin: 0px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" colspan=3D"3"><a href=3D"http://www.did3326.com/1015a2N395ug86F13KecGe0DH3536k21SFv4GIf4rxvs4FhIHEsvZ11tRqnd9Q9obe6Q1i0xL5IqcqY/constituency-trolleys" style=3D"fon=
+t-family: sans-serif; color: rgb(15, 53, 80); text-decoration: underline; f=
+ont-size: 16px; padding: 0px; margin: 0px; line-height: 22px; "><span style=
+=3D"color: rgb(15, 53, 80); text-decoration: underline; ">Press Here to Cla=
+im Your Special Prize</span></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td class=3D"container" style=3D"font-family: sans-serif; box-sizing: =
+border-box; vertical-align: top; margin: 0px auto; border-top-left-radius: =
+5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-=
+bottom-left-radius: 5px; -webkit-box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2=
+px 7px 0px; box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 7px 0px; display: =
+block !important; max-width: 600px !important; clear: both !important; " va=
+lign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"box-sizing: border-box; max-width: 60=
+0px; display: block; margin: 0px auto; ">=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der-collapse: collapse !important; text-align: center; " width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"border-top-left-radius: 5px; border=
+-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left=
+-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td align=3D"center" colspan=3D"3"><a href=3D"http://www.did3326.com/1015a2N395ug86F13KecGe0DH3536k21SFv4GIf4rxvs4FhIHEsvZ11tRqnd9Q9obe6Q1i0xL5IqcqY/constituency-trolleys"><im=
+g alt=3D"Claim your special prize!" src=3D"http://www.did3326.com/9176A23qQ95E7Qna13SeceR3PD3536y21mFv4GIf4rxvs4FhIHEsvZ11wRqnd9Q9obe6ryP1H06ETJTcY/renovation-incited" style=3D"border: 0p=
+x none; line-height: 16px; max-width: 600px; outline: currentcolor none 0px=
+; text-decoration: none; display: block; width: 601px; " /></a></td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+         <tr>=20
+          <td align=3D"center" style=3D"background-color: rgb(255, 255, 255=
+); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom=
+-right-radius: 5px; border-bottom-left-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"24" style=3D"height: 24px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a class=3D"title" href=3D"http://www.did3326.com/1015a2N395ug86F13KecGe0DH3536k21SFv4GIf4rxvs4FhIHEsvZ11tRqnd9Q9obe6Q1i0xL5IqcqY/constituency-trolleys" sty=
+le=3D"font-family: sans-serif; color: rgb(15, 53, 80); text-decoration: non=
+e; font-size: 26px; font-weight: 400; padding: 0px; margin: 0px; line-heigh=
+t: 32px; "><span class=3D"subtitle" style=3D"color: rgb(15, 53, 80); text-d=
+ecoration: none; ">Congratulations Walmart Shopper!</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.did3326.com/recklessness-Bundoora/c9c6C2vU395N86zM12Xece1LD3536I21AFv4GIf4rxvs4FhIHEsvZ11WRqnd9Q9obe5w1P0m5O@cAY" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 24px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">You have been selected to <span st=
+yle=3D"color: rgb(15, 53, 80); text-decoration: underline; ">participate in=
+ our giveaway</span>. You could win a <b>$1000 Walmart Gift Card</b>, <b>Ap=
+ple iPhone X</b>, <b>Apple Watch</b>, and other prizes in just one spin.</s=
+pan></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.did3326.com/1015a2N395ug86F13KecGe0DH3536k21SFv4GIf4rxvs4FhIHEsvZ11tRqnd9Q9obe6Q1i0xL5IqcqY/constituency-trolleys" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 26px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">But hurry! The giveaway ends soon!=
+</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"20" style=3D"height: 20px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left">=20
+               <div>
+                <a class=3D"button" href=3D"http://www.did3326.com/1015a2N395ug86F13KecGe0DH3536k21SFv4GIf4rxvs4FhIHEsvZ11tRqnd9Q9obe6Q1i0xL5IqcqY/constituency-trolleys" style=3D"border-top=
+-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius=
+: 4px; border-bottom-left-radius: 4px; color: rgb(15, 53, 80); background-c=
+olor: rgb(255, 213, 0); display: inline-block; font-family: sans-serif; fon=
+t-size: 18px; font-weight: bold; line-height: 62px; text-align: center; tex=
+t-decoration: none; width: 312px; ">Go Here To Participate</a>
+               </div> </td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.did3326.com/1015a2N395ug86F13KecGe0DH3536k21SFv4GIf4rxvs4FhIHEsvZ11tRqnd9Q9obe6Q1i0xL5IqcqY/constituency-trolleys"><img alt=3D"Hurry! =
+This givewaway ends soon!" src=3D"http://www.did3326.com/7eb4i2395FQN7a13RekceP4M3536q21SFv4GIf4rxvs4FhIHEsvZ11iRqnd9Q9obe5u1KO06qON@cY/installations-unidentified" style=3D"border: 0px none; l=
+ine-height: 16px; max-width: 211px; outline: currentcolor none 0px; text-de=
+coration: none; display: block; width: 211px; " /></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"32" style=3D"height: 32px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" class=3D"container" style=3D"margin: 0px auto; di=
+splay: block !important; max-width: 600px !important; clear: both !importan=
+t; " valign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"max-width: 600px; display: block; mar=
+gin: 0px auto; padding: 0px; ">=20
+       <table cellpadding=3D"0" cellspacing=3D"0" class=3D"main" style=3D"b=
+order-collapse: collapse !important; font-family: sans-serif; margin: 0px; =
+" width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"font-size: 13px; color: rgb(102, 10=
+2, 102); "><a href=3D"http://www.did3326.com/something-overestimate/a624u2395R89BY13wecvXe2p3536K21yFv4GIf4rxvs4FhIHEsvZ11JRqnd9Q9obe5it1H05gLWcY">Remove Here</a><br /> <br /> <spa=
+n style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard; font-s=
+tyle: normal; font-variant-caps: normal; font-weight: normal; letter-spacin=
+g: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; tex=
+t-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -w=
+ebkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decorati=
+on: none; color: rgb(128, 128, 128); font-size: 11px; float: none; display:=
+ inline !important; ">13395 Voyager Pkwy Ste 130 #634</span><span style=3D"=
+caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standa=
+rd; font-size: medium; font-style: normal; font-variant-caps: normal; font-=
+weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-=
+center; text-indent: 0px; text-transform: none; white-space: normal; widows=
+: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; display: inline !important; float: n=
+one; "> </span><br style=3D"caret-color: rgb(0, 0, 0); font-size: 12px; fon=
+t-style: normal; font-variant-caps: normal; font-weight: normal; letter-spa=
+cing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-=
+space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: a=
+uto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0=
+, 0); text-align: center; font-family: Helvetica; " /> <span style=3D"caret=
+-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-w=
+eight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; tex=
+t-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -w=
+ebkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decorati=
+on: none; color: rgb(128, 128, 128); font-size: 11px; text-align: center; f=
+ont-family: Helvetica; float: none; display: inline !important; ">COLORADO =
+SPRINGS CO 80921</span></td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+   </tbody>=20
+  </table> <style><style title="brazenness"></style></style><font id="fuses"><font id="despatch"></font></font><font><big></font></big> =20
+ <img src=3D"http://www.did3326.com/8bd4n2395pG85u13BecqJe5p3536U21cFv4GIf4rxvs4FhIHEsvZ11QRqnd9Q9obe6SALq105c3cY2/renovation-incited" alt=3D""/></body>
+</html>
+
+------=_Part_580_1715214507.1580064025578--
+

@@ -1,0 +1,162 @@
+Return-Path: <SRS0=LMGb5H=3D=mail.dailmulti.bid=6365-9790-262549-1703-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24737 invoked from network); 14 Jan 2020 10:43:34 -0000
+Received: (qmail 1976 invoked from network); 14 Jan 2020 10:43:33 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 10:43:33 -0000
+Received: (qmail 8936 invoked by uid 48516); 14 Jan 2020 10:43:33 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 2885 invoked from network); 14 Jan 2020 10:43:33 -0000
+Received: from rhea.dailmulti.bid (client-192-236-155-196.hostwindsdns.com [192.236.155.196])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 14 Jan 2020 10:43:32 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=dailmulti.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=DialVision@dailmulti.bid;
+ bh=75y0I+IVzSSHJnbRPpU5SxnmfnI=;
+ b=rmXzLzONr5ff+5lSRYC3mMyHQ1CJuugHaXW4tTzHJtm+W4vOTcDt2xuG1QgDeap6u6BwA0BdjpTC
+   JKZK3tvONJQVpjj2ZVQShsKkuHiT/V79/HfWihj2jPt3Q8YceKZS47iDWWtOHvksZZnEjeF1tkgR
+   FcQXSSF1i2nsVGJjlrU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=dailmulti.bid;
+ b=HHRKAP4MiHDEgjvYRINvEsb+QJCaoXuLQOHqx+sK1FFuHcMWB/b3DLlMa3Q4SbFSENHJRpz4LdJU
+   XT98rCa+uX5EOf9WY92Ball31129qfqn7sfTKEBU+4vHkY6ln1WcYyPRgspWCMNqw/t+1AB0wHEA
+   61yLAlFLO/9VkAhrS/8=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="87b63ff542253509132d7052326a4402_263e_40195"
+Date: Tue, 14 Jan 2020 05:36:23 -0500
+From: "Marcelo" <DialVision@dailmulti.bid>
+Reply-To: "Marcelo" <DialVision@dailmulti.bid>
+Subject: The innovative reading glasses with lens effect.
+To: <bruce@untroubled.org>
+Message-ID: <w5v05aj4qh99e00d-6qd1209wfix23ol2-263e-40195@dailmulti.bid>
+Content-Length: 12096
+
+--87b63ff542253509132d7052326a4402_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+The innovative reading glasses with lens effect.
+
+http://dailmulti.bid/WAxhB8jep9D6D3MiraeP6RcEywIVgHlSQsiZ0fIyMyc9DxLP
+
+http://dailmulti.bid/4hLe7qquPDg_E6WYTTkFg8IoN5UVprToLKQGX9M_AxssLcgb
+
+The many applications of X-rays immediately generated enormous interest. Workshops began making specialized versions of Crookes tubes for generating X-rays and these first-generation cold cathode or Crookes X-ray tubes were used until about 1920.
+
+A typical early 20th century medical x-ray system consisted of a Ruhmkorff coil connected to a cold cathode Crookes X-ray tube. A spark gap was typically connected to the high voltage side in parallel to the tube and used for diagnostic purposes. The spark gap allowed detecting the polarity of the sparks, measuring voltage by the length of the sparks thus determining the "hardness" of the vacuum of the tube, and it provided a load in the event the X-ray tube was disconnected. To detect the hardness of the tube, the spark gap was initially opened to the widest setting. While the coil was operating, the operator reduced the gap until sparks began to appear. A tube in which the spark gap began to spark at around 2 1/2 inches was considered soft (low vacuum) and suitable for thin body parts such as hands and arms. A 5 inch spark indicated the tube was suitable for shoulders and knees. A 7-9 inch spark would indicate a higher vacuum suitable for imaging the abdomen of larger individuals. Since the spark gap was connected in parallel to the tube, the spark gap had to be opened until the sparking ceased in order to operate the tube for imaging. Exposure time for photographic plates was around half a minute for a hand to a couple of minutes for a thorax. The plates may have a small addition of fluorescent salt to reduce exposure times.
+
+Crookes tubes were unreliable. They had to contain a small quantity of gas (invariably air) as a current will not flow in such a tube if they are fully evacuated. However, as time passed, the X-rays caused the glass to absorb the gas, causing the tube to generate "harder" X-rays until it soon stopped operating. Larger and more frequently used tubes were provided with devices for restoring the air, known as "softeners". These often took the form of a small side tube which contained a small piece of mica, a mineral that traps relatively large quantities of air within its structure. A small electrical heater heated the mica, causing it to release a small amount of air, thus restoring the tube's efficiency. However, the mica had a limited life, and the restoration process was difficult to control.
+
+In 1904, John Ambrose Fleming invented the thermionic diode, the first kind of vacuum tube. This used a hot cathode that caused an electric current to flow in a vacuum. This idea was quickly applied to X-ray tubes, and hence heated-cathode X-ray tubes, called "Coolidge tubes", completely replaced the troublesome cold cathode tubes by about 1920.
+
+In about 1906, the physicist Charles Barkla discovered that X-rays could be scattered by gases, and that each element had a characteristic X-ray spectrum. He won the 1917 Nobel Prize in Physics for this discovery.
+
+In 1912, Max von Laue, Paul Knipping, and Walter Friedrich first observed the diffraction of X-rays by crystals. This discovery, along with the early work of Paul Peter Ewald, William Henry Bragg, and William Lawrence Bragg, gave birth to the field of X-ray crystallography.
+
+In 1913, Henry Moseley performed crystallography experiments with X-rays emanating from various metals and formulated Moseley's law which relates the frequency of the X-rays to the atomic number of the metal.
+
+--87b63ff542253509132d7052326a4402_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://dailmulti.bid/dCtNoWjwBvwf8lnvYX-5_hQxDTSyJUDckUZK70oIoJ4k3uIA"><img src="http://dailmulti.bid/d28951d6d2fc512d6a.jpg" /><img height="1" src="http://www.dailmulti.bid/qrJ_GFl7OKz3_aq4KQl4MAP9Iati-AA-rBXOE1nL1w6i-26l" width="1" /></a>
+<center><a href="http://dailmulti.bid/WAxhB8jep9D6D3MiraeP6RcEywIVgHlSQsiZ0fIyMyc9DxLP"><img src="http://dailmulti.bid/2381c12d67a8e2644a.jpg" /></a></center>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:700px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+	<tbody>
+		<tr>
+			<td style="direction:ltr;font-size:0px;padding:20px 10px;text-align:center;vertical-align:top;">
+			<div style="font-family:Verdana,Geneva,sans-serif;font-size:17px; font-weight: bolder;line-height:30px;text-align:center;color:#f71f5c;">Our vision, our best ally.</div>
+
+			<div class="outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">&nbsp;
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+				<tbody>
+					<tr class="row">
+						<td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word; float:left;">
+						<div class="mj-column-per-50 outlook-group-fix" style="font-family:Verdana,Geneva,sans-serif;font-size:15px; line-height: 23px; font-weight:300;text-align:left;direction:ltr;display:inline-block;vertical-align:top;">
+						<ul style="list-style-type: none; width: 300px; padding-left: 1px;float:left;">
+							<li style="padding-bottom: 15px;">Dial Vision: The innovative reading glasses with lens effect.</li>
+							<li style="padding-bottom: 15px;">Based on the cutting-edge and revolutionary sliding lens technology.</li>
+							<li style="padding-bottom: 15px;">They can be adjusted not only to see close up, but also to see from afar.</li>
+							<li style="padding-bottom: 15px;">You can easily and intuitively adjust the lens. The vision is totally sharp and with clear detail.</li>
+						</ul>
+						<img src="http://dailmulti.bid/9f9a878a5e802f1e90.png" style="border:none;display:block;outline:none;text-decoration:none;float:right;width: 300px;" /></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+	<tbody>
+		<tr>
+			<td style="direction:ltr;font-size:0px;padding:20px 10px;text-align:center;vertical-align:top;">
+			<div class="mj-column-per-99 outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+				<tbody>
+					<tr>
+						<td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;" vertical-align="middle">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
+							<tbody>
+								<tr>
+									<td align="center" bgcolor="#288cc9" role="presentation" style="border:none;border-radius:3px;color:#ffffff;cursor:auto;padding:10px 25px;" valign="middle"><a href="http://dailmulti.bid/WAxhB8jep9D6D3MiraeP6RcEywIVgHlSQsiZ0fIyMyc9DxLP" style="background:#288cc9;color:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;font-weight:normal;line-height:120%;Margin:0;text-decoration:none;text-transform:none;" target="_blank">View offer </a></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;"><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://dailmulti.bid/eQbUP2_vYSysrW5xyRld-bp1M72gPD8q8oH02LHn5Fjq-xXu" target="_blank"><img src="http://dailmulti.bid/aeb73d900c913da0e5.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">The many applications of X-rays immediately generated enormous interest. Workshops began making specialized versions of Crookes tubes for generating X-rays and these first-generation cold cathode or Crookes X-ray tubes were used until about 1920. A typical early 20th century medical x-ray system consisted of a Ruhmkorff coil connected to a cold cathode Crookes X-ray tube. A spark gap was typically connected to the high voltage side in parallel to the tube and used for diagnostic purposes. The spark gap allowed detecting the polarity of the sparks, measuring voltage by the length of the sparks thus determining the &quot;hardness&quot; of the vacuum of the tube, and it provided a load in the event the X-ray tube was disconnected. To detect the hardness of the tube, the spark gap was initially opened to the widest setting. While the coil was operating, the operator reduced the gap until sparks began to appear. A tube in which the spark gap began to spark at around 2 1/2 inches was considered soft (low vacuum) and suitable for thin body parts such as hands and arms. A 5 inch spark indicated the tube was suitable for shoulders and knees. A 7-9 inch spark would indicate a higher vacuum suitable for imaging the abdomen of larger individuals. Since the spark gap was connected in parallel to the tube, the spark gap had to be opened until the sparking ceased in order to operate the tube for imaging. Exposure time for photographic plates was around half a minute for a hand to a couple of minutes for a thorax. The plates may have a small addition of fluorescent salt to reduce exposure times. Crookes tubes were unreliable. They had to contain a small quantity of gas (invariably air) as a current will not flow in such a tube if they are fully evacuated. However, as time passed, the X-rays caused the glass to absorb the gas, causing the tube to generate &quot;harder&quot; X-rays until it soon stopped operating. Larger and more frequently used tubes were provided with devices for restoring the air, known as &quot;softeners&quot;. These often took the form of a small side tube which contained a small piece of mica, a mineral that traps relatively large quantities of air within its structure. A small electrical heater heated the mica, causing it to release a small amount of air, thus restoring the tube&#39;s efficiency. However, the mica had a limited life, and the restoration process was difficult to control. In 1904, John Ambrose Fleming invented the thermionic diode, the first kind of vacuum tube. This used a hot cathode that caused an electric current to flow in a vacuum. This idea was quickly applied to X-ray tubes, and hence heated-cathode X-ray tubes, called &quot;Coolidge tubes&quot;, completely replaced the troublesome cold cathode tubes by about 1920. In about 1906, the physicist Charles Barkla discovered that X-rays could be scattered by gases, and that each element had a characteristic X-ray spectrum. He won the 1917 Nobel Prize in Physics for this discovery. In 1912, Max von Laue, Paul Knipping, and Walter Friedrich first observed the diffraction of X-rays by crystals. This discovery, along with the early work of Paul Peter Ewald, William Henry Bragg, and William Lawrence Bragg, gave birth to the field of X-ray crystallography. In 1913, Henry Moseley performed crystallography experiments with X-rays emanating from various metals and formulated Moseley&#39;s law which relates the frequency of the X-rays to the atomic number of the metal. </span><br />
+&nbsp;
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+</table>
+</div>
+</body>
+</html>
+
+--87b63ff542253509132d7052326a4402_263e_40195--

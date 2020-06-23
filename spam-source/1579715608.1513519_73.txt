@@ -1,0 +1,133 @@
+Return-Path: <linux-usb-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28377 invoked from network); 22 Jan 2020 13:19:26 -0000
+Received: (qmail 26444 invoked from network); 22 Jan 2020 13:19:25 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 13:19:25 -0000
+Received: (qmail 19610 invoked by uid 48516); 22 Jan 2020 13:19:24 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31246 invoked from network); 22 Jan 2020 13:19:24 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 22 Jan 2020 13:19:24 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1728803AbgAVNTW (ORCPT <rfc822;bruce@untroubled.org>);
+        Wed, 22 Jan 2020 08:19:22 -0500
+Received: from mail-io1-f67.google.com ([209.85.166.67]:37532 "EHLO
+        mail-io1-f67.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1728665AbgAVNTV (ORCPT
+        <rfc822;linux-usb@vger.kernel.org>); Wed, 22 Jan 2020 08:19:21 -0500
+Received: by mail-io1-f67.google.com with SMTP id k24so6590669ioc.4
+        for <linux-usb@vger.kernel.org>; Wed, 22 Jan 2020 05:19:20 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:sender:from:date:message-id:subject:to;
+        bh=1J3Ek3Ut/HibCPWTaeZcFcahiAOBpaVPgGR6tt9JfHQ=;
+        b=HQqb9WWvnkdDfS220M/yXavz7AgYF6A9LDToy68Mqg9SsXi9TPPR9cKqm7njleqdNz
+         7ENI1XujqOheW0TeWb+vO4Dl7BxO59431jiVNewGvCguz2wzHnh8xv1TjKaI8ccN57Z0
+         2EysSZHt5YpMxYsM51tj0DwS0X4iNyulbVDoFR3w1AJnuRIo5i4/4JKVuWPhEfdHDfoC
+         gJQC+ga4Tear5ngmFkqmkzMqB3pOaMBve8R0ASit356Tmr0/6sHatwiZPBFW6qWPqlNc
+         R6Uc9AM1/nxTVbD3CA/DtUcO7Vzz9YMDtRwPRMD5I1b5VCrM0BkyDDkrKnpTHpUGBM8q
+         8UjA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:sender:from:date:message-id:subject
+         :to;
+        bh=1J3Ek3Ut/HibCPWTaeZcFcahiAOBpaVPgGR6tt9JfHQ=;
+        b=JswUWhegDgwb0w5jM3NGntRvbrKhs2dSZuKjG347y9x2ynSvaEBtCJw637p48Vz9pQ
+         xrWeuylTuK3avdr+QrLknpE44qIAZn/W2CKfnu4UQokmuRpPdHGBL7efSmcKTsFXC03E
+         N3riLjTrZLCymy69vs27PA1CwcaUMsZSFkHEHjvEGKqCLsnG2TesdBZiTwq9hI6fTE98
+         Q/VaH3kdFMQp9EEFoEAZgoP0eg0asudvScxIR/tk/rdTfn6UBWr9PH//w4YjNFni1lGe
+         RZEYcVVV+e+WW1+nEYdIOU+qZYL2LD1CAW7t1+UTMTNDYpRaYtR33TqfcDhLvatXdD7z
+         K73Q==
+X-Gm-Message-State: APjAAAVJWyKF2HJcw6yPU9s5bK1mIy0jaGMFaawFO1S+q5TOBRG1eVnJ
+        H1JyrhI3NPc30yNH6FfHjdV99NCuG8fX+pDfHfA=
+X-Google-Smtp-Source: APXvYqxqfsxYt2ImfhfJkbPHcdGMGNRY52lG9BgZwKReUwxF5bee80WfBjL05Knxf4vlPlYRxviPim9OC9bAyUBPv6c=
+X-Received: by 2002:a5d:8889:: with SMTP id d9mr6565871ioo.281.1579699160387;
+ Wed, 22 Jan 2020 05:19:20 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:ac0:e1a7:0:0:0:0:0 with HTTP; Wed, 22 Jan 2020 05:19:20
+ -0800 (PST)
+From:   Abibatu Ali <abibatu22ali@gmail.com>
+Date:   Wed, 22 Jan 2020 13:19:20 +0000
+X-Google-Sender-Auth: rCu876719cxNfxA98QacTaFYb1Y
+Message-ID: <CAKFm-kFSQ9_i6kAEo5U0nJaa3uBqEzqFyZMPxww-pJ_a4R83ng@mail.gmail.com>
+Subject: KINDLY REPLY
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Sender: linux-usb-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-usb.vger.kernel.org>
+X-Mailing-List: linux-usb@vger.kernel.org
+Content-Length: 2792
+
+Greetings to you
+
+
+Let me start by introducing myself, I am miss. Abibatu Ali lives in
+West Africa Ouagadougou precisley. I hope this mail meant well to you,
+because am having a business proposal that i need both of us to
+handle. And it means no harm to you and is risk free as well, because
+as a banker i will not introduce you to a business that will not
+profit us. Try and follow my instruction and directives of this
+business.
+
+
+A brief introduction about a reputable client;
+
+
+There is a man who's name is Mr. Boas Nicholson who lost his life in a
+plane crash along with all his family members and left no one alive to
+claim his funds that is in our custody here in United Bank For Africa
+(UBA).
+
+
+Mr. Nicholson which is my close friend and also i happen to be his
+account officer, why because on the day of depositing his money into
+the bank, I was the only one that is aware of this urge amount that
+was credited into an ATM VISA CARD that worth the sum of $9.250
+Million US Dollar.
+
+
+And their is nobody to claim this said fund i just mention above,
+becasue according to our board meeting held few days ago, and it was
+concluded that it will be shifted to the government account, which i
+know truely well that is a bloody lie, why because it will be
+embezzled by the top officials of the bank.
+
+
+That is why i have decided to contact you so we can come in hand to
+hand to make sure we claim this fund and start a better life in your
+country, so i have all information on how you will receive this credit
+card without delay or disappointment.
+
+
+I will front you as a bonified member of Mr. Nicholson family which we
+make the board authority to believe you that truely you are his family
+member to enable you claim the credit card with an immediate effect.
+And also bear it in mind that if there is any question about this said
+fund, am here to guid you, so please if you know you're not interested
+to follow the instruction of this business then please kindly do me a
+favour by not repling back.
+
+
+Now let me brief you on how you can receive the credit card, which it
+will be delivered to you by DHL Courier Service and the amount of the
+delivery is $360 dollar, and also the amount for the registration it
+cost $620 dollar, so please tell me the amount you will be able to
+handle to enable the successfulness of this business, please once
+again if you know you are not ready to follow up my instruction, do
+not reply back to me, because i am sure of this business venture am
+introducing to you with %100 assurance.
+
+So be inform after the success of this deal is going to be share %50
+for me and %50 for you.
+
+Am waiting for your respond to enable me give you the contact of the
+department were you can claim the fund.
+
+Thanks for your understanding
+
+Yours Sincerely
+Miss Abibatu Ali

@@ -1,0 +1,66 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 19613 invoked from network); 20 Jan 2020 13:33:14 -0000
+Received: (qmail 8669 invoked from network); 20 Jan 2020 13:33:13 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Jan 2020 13:33:13 -0000
+Received: (qmail 8100 invoked by uid 48516); 20 Jan 2020 13:33:13 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31347 invoked from network); 20 Jan 2020 13:33:13 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 20 Jan 2020 13:33:13 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1727075AbgATNdL convert rfc822-to-8bit (ORCPT
+        <rfc822;bruce@untroubled.org>); Mon, 20 Jan 2020 08:33:11 -0500
+Received: from [181.210.16.40] ([181.210.16.40]:48680 "EHLO
+        mail.ssis-sedis.gob.hn" rhost-flags-FAIL-FAIL-OK-FAIL)
+        by vger.kernel.org with ESMTP id S1726728AbgATNdL (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Mon, 20 Jan 2020 08:33:11 -0500
+X-Greylist: delayed 62729 seconds by postgrey-1.27 at vger.kernel.org; Mon, 20 Jan 2020 08:33:11 EST
+Received: from localhost (localhost [127.0.0.1])
+        by mail.ssis-sedis.gob.hn (Postfix) with ESMTP id 34092E2316E;
+        Sun, 19 Jan 2020 14:16:07 -0600 (CST)
+Received: from mail.ssis-sedis.gob.hn ([127.0.0.1])
+        by localhost (mail.ssis-sedis.gob.hn [127.0.0.1]) (amavisd-new, port 10032)
+        with ESMTP id Pqqc9ImqlhsX; Sun, 19 Jan 2020 14:16:05 -0600 (CST)
+Received: from localhost (localhost [127.0.0.1])
+        by mail.ssis-sedis.gob.hn (Postfix) with ESMTP id 53E8CDFBF35;
+        Sun, 19 Jan 2020 12:22:00 -0600 (CST)
+X-Virus-Scanned: amavisd-new at ssis-sedis.gob.hn
+Received: from mail.ssis-sedis.gob.hn ([127.0.0.1])
+        by localhost (mail.ssis-sedis.gob.hn [127.0.0.1]) (amavisd-new, port 10026)
+        with ESMTP id nwhssSMvcVBV; Sun, 19 Jan 2020 12:22:00 -0600 (CST)
+Received: from [10.8.0.2] (_gateway [10.30.6.1])
+        by mail.ssis-sedis.gob.hn (Postfix) with ESMTP id 939FDDF7AF6;
+        Sun, 19 Jan 2020 07:35:08 -0600 (CST)
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8BIT
+Content-Description: Mail message body
+Subject: Re: Hello Good Day
+To:     Recipients <tools@panoramahomecenter.com.br>
+From:   "James Brandy" <tools@panoramahomecenter.com.br>
+Date:   Sun, 19 Jan 2020 08:34:54 -0500
+Reply-To: infonarabemirates@gmail.com
+Message-Id: <20200119133509.939FDDF7AF6@mail.ssis-sedis.gob.hn>
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 359
+
+?Dear   
+
+My name is James Brandy, I am a Financial Consultant of A&G Finance Ltd, I have a client who has an interest in Investing in your country into a Joint Venture / Partnership. He has funds available meant for investment.
+
+Please contact me if you are interested.
+
+Regards,
+
+James Brandy
+Principal Partner
+A&G Finance Ltd.
+Email:jamesbrar677@gmail.com

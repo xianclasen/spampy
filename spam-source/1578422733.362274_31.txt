@@ -1,0 +1,80 @@
+Return-Path: <paulerwin@webmarketingvendor.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21169 invoked from network); 7 Jan 2020 16:32:39 -0000
+Received: (qmail 12286 invoked from network); 7 Jan 2020 16:32:38 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 16:32:38 -0000
+Received: (qmail 20549 invoked by uid 48516); 7 Jan 2020 16:32:37 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15468 invoked from network); 7 Jan 2020 16:32:37 -0000
+Received: from mail-pl1-f194.google.com (mail-pl1-f194.google.com [209.85.214.194])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 07 Jan 2020 16:32:36 -0000
+Received: by mail-pl1-f194.google.com with SMTP id g6so23412866plt.2
+        for <bruce@untroubled.org>; Tue, 07 Jan 2020 08:32:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=webmarketingvendor-com.20150623.gappssmtp.com; s=20150623;
+        h=from:to:reply-to:date:subject:mime-version
+         :content-transfer-encoding:message-id;
+        bh=bedunUodvT9r2Gi8LCaELXUl47TI43gJnBE4T6nRjpg=;
+        b=K5GHLP+2nck58l3S1Sgk2WnLW2mOLIf3wMRDSIjMRoTuCm3g8bebPzt4CZtEJvfuxv
+         nEN4LZTsFQrehb7GuP8lolbS1s76A/c79PiwEnEhe9Uzz99o8P5SqNyMqnESM5OhL8gY
+         JYzq/vO3w40zZdD32AFagJHwcN+UBAbZLPdh+KM8s3jV45qiAA7KuukBjHTu78W9PEDS
+         etqEkZH91cjb9hSDJNWjqDjYFIuiyoz4a93fRxkdIz86XAzhyELJ7HBfXB0ULNU/hZm4
+         4CI3xcMsrCK0bXeNIZ5dhKe1t1Blm2xI3D3o/82aNvbZJrpArQCl2LPjJNfiNytA/UiH
+         jNZQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:reply-to:date:subject:mime-version
+         :content-transfer-encoding:message-id;
+        bh=bedunUodvT9r2Gi8LCaELXUl47TI43gJnBE4T6nRjpg=;
+        b=li2s3Cg671Wuq4rtcrjL8nIFbTVjgletTiknJa6oaVFxXekPQlMBaAqI8Req5fSDdd
+         GD2HBxJs91AOj8gD/FXiR6zOqjlbs3Ydf3tbarPf4rSJX23efeZZM7bHwXLMYzH3FHoN
+         ZMXpeTMRpbclEDdTD7O8V2brlhj/soVT8ygUFbYQdt/9EtkJaGYlLzt/vDe63Ms7+o5S
+         1CZFHBD/44Pif2Dpqz+NeQMLjFN2QTdPAuT4YQquNCVfi09qAS+Ga59VE50/boCZRJIc
+         o+DFDKegpmbb0aAwAn/piqP0D7Vo2OqUQrk4+/iPVKfhfyLlGAlq+/Gyaao6oKwZr/yK
+         T80A==
+X-Gm-Message-State: APjAAAWQ712a/wF3kew2R2xWGbQFY+j2ZL4gP1daR160peNP7rzOo8Gm
+	riXaAd3J7Qymfe/qBrV6hbYPSlI/0aY=
+X-Google-Smtp-Source: APXvYqyb19jcJD4P/tNTGZEqEpGCaO8+tA6XJ0R9D0uJswyV6DZsJ3a0BXq3o5Cq57ZjevfXH5pEUg==
+X-Received: by 2002:a17:902:10e:: with SMTP id 14mr537383plb.122.1578414755490;
+        Tue, 07 Jan 2020 08:32:35 -0800 (PST)
+Return-Path: <paulerwin@webmarketingvendor.com>
+Received: from DESKTOP2FH2NUF ([103.74.111.108])
+        by smtp.gmail.com with ESMTPSA id g9sm3519pfm.150.2020.01.07.08.32.33
+        for <bruce@untroubled.org>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 07 Jan 2020 08:32:34 -0800 (PST)
+From: James Parker <paulerwin@webmarketingvendor.com>
+X-Google-Original-From: "James Parker" <james@brandenic.com>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+Reply-To: james@brandenic.com
+Date: Tue, 07 Jan 2020 22:02:31 +0530
+Subject: Re: untroubled.org domain errors
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <DESKTOP2FH2NUFfa206cc3ac8e406fa5dc006c2f12fd03@DESKTOP2FH2NUF>
+Content-Length: 1414
+
+Dear Team at untroubled=2Eorg,=0D=0A=0D=0ANot sure if you knew this but y=
+our website untroubled=2Eorg  has some problems that you might want to co=
+nsider looking into=2E I spent 2-3 minutes looking around and found:=0D=0A=
+=0D=0A- It doesn=27t work properly on Mobile Phones, at all (which is how=
+ people browse the web these days)=2E=0D=0A- It doesn=27t adjust properly=
+ when you resize the screen (Google recommends RESPONSIVE Websites rather=
+ than ADAPTIVE)=0D=0A- It=27s hard to read on larger displays=0D=0A- The =
+design looks really, really dated compared to some of your competitors=2E=
+=0D=0A=0D=0AI actually do web design as a living so I figured I=27d reach=
+ out and let you know there=27s serious room for dead easy(and affordable=
+) improvement=2E If you would like, I can send you some of my previous wo=
+rk samples=2E =0D=0A=0D=0AI can develop the website on a more advanced pl=
+atform at an affordable price=2E That price also includes making it compl=
+ete mobile responsive which will support all modern devices including all=
+ ranges of screen sizes=2E=0D=0A=0D=0AIs that something you=27d be intere=
+sted in?=0D=0A=0D=0AThanks =26 Regards,=0D=0A=0D=0AJames Parker =7C Busin=
+ess Development Manager=0D=0ABrandenic USA LLC, CA=0D=0AWeb: www=2Ebrande=
+nic=2Ecom=0D=0ACall: +1 (760) 284 3365  =0D=0ASkype: sales_85360=0D=0A=0D=
+=0AUnsubscribe link: http://www=2Ebrandenic=2Ecom/unsubscribe
+

@@ -1,0 +1,106 @@
+Return-Path: <SRS0=tjUDav=3G=mail.trumpcarre.co=6520-9790-262549-1745-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 29238 invoked from network); 17 Jan 2020 08:47:56 -0000
+Received: (qmail 11915 invoked from network); 17 Jan 2020 08:47:55 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 17 Jan 2020 08:47:55 -0000
+Received: (qmail 17374 invoked by uid 48516); 17 Jan 2020 08:47:54 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 23238 invoked from network); 17 Jan 2020 08:47:54 -0000
+Received: from apples.trumpcarre.co (client-192-236-155-40.hostwindsdns.com [192.236.155.40])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 17 Jan 2020 08:47:53 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=trumpcarre.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=RussianWoman@trumpcarre.co;
+ bh=CkCYhTGroHNH4Efm/8Nzk2sRybE=;
+ b=S0rjucz8nFO3K9HOeyWrXuh0vyKSnHIWAvZWA6/sAiW4uyNrmJZ3gjVlAoE6SLRRYVN56k4PnL2M
+   eBgsM02FZ7rcJWUW3eUyNXtD8p2yADn09ugH20Zaq3DAeJ7CPKiJJWum88olVDqnWnTN0OzXLOeI
+   cm6B2V0RJq9WCULa0ls=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=trumpcarre.co;
+ b=gfeB+wEQrxdRc4TCRqkszZ9e19qX7EENupYCueLMYLwQsKpoFYy84AcIZTYihNy3kTPo4O5nbGMs
+   kvUCo1CgBkd8mwtdiSx2+YUwhtwluVLyIkIYpHR8niDllyNKqjlSX295AH+WQHpAPFj0pq7jwhVa
+   CIM8GcbeYQnJYMSiJs4=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="6f760dd515129808defefd4c99caac5a_263e_40195"
+Date: Fri, 17 Jan 2020 03:47:50 -0500
+From: "Russian Woman" <RussianWoman@trumpcarre.co>
+Reply-To: "Russian Woman" <YourRussianWoman@trumpcarre.co>
+Subject: Russian Beauties for Love and More
+To: <bruce@untroubled.org>
+Message-ID: <fbmf1ol6pmuahk4w-nb1adsbxuydc5gmx-263e-40195@trumpcarre.co>
+Content-Length: 7417
+
+--6f760dd515129808defefd4c99caac5a_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Russian Beauties for Love and More
+
+http://trumpcarre.co/ONvHIwe08sML5IAF1mQMmS9jHZAJEKPYsKoSA_vubWWd4rJR
+
+http://trumpcarre.co/ISm_MCsWye7f3I66CuHtU7dV_fxFcp72Cr6i7ClA780Qm0gC
+
+Shaktimaan has superhuman powers which lie inside his body in his seven chakras of Kundalini attained through meditation. Shaktimaan worships God through the symbol Om. Truthfulness is his motto. He can even separate his body into five different bodies of fire, wind, water, earth and sky. He is an expert, skilled and intelligent fighter and has fought with super-skilled enemies. He possesses physical powers like unlimited speed (up to the speed of light), strength, durability as well as psychic powers like telepathy, teleportation, telekinesis etc. Although he possesses godlike powers, his only weakness is a crystal (Papmani) possessed by Tamraj Kilvish which can be used to defeat and even kill him. This makes him powerless because it is filled with the evil of the world and is the source of the black powers. But he regains his strength after the crystal is taken away from him. He can be killed if the crystal is placed in front of him and he is treated violently to the verge of death. Shaktimaan also gets brief premonitions about the incidents that are going to happen to him in future. This can be observed in kashtak's episode, Geeta going to jail and in kapala's reappearance episodes.
+
+Shaktimaan's powers are virtually limitless. He can do practically anything he imagines. The only limit to his powers is his own belief in himself and his knowledge of how to manifest his powers. His powers come from his chakras. (Note: Although we'll call them chakras in the vedas, in the series dialogue they will also be called energy centers.)
+
+The seven chakras in his body which give him powers are:
+
+Energy Chakra (1): This chakra gives Shaktimaan super strength enabling him to fly, shoot fire from his hands, emit rays from his fingertips, blow a stream of freezing air, or send out protective force fields which nothing can penetrate (provided he can maintain his willpower and not give in). Shaktimaan's strength allows him to physically penetrate anything and lift any object.
+Creative Chakra (2): This chakra gives Shaktimaan the power to manifest things out of thin air.
+Astral Chakra (3): This chakra gives Shaktimaan the power to control his astral body (a semi-transparent, ethereal duplicate of himself) which can fly, walk through walls, see inside objects, etc.
+Heart Chakra (4): This chakra gives Shaktimaan the power to control the will of others, but only for good. He can will people to do the right thing, see the error in their ways. This power is most useful when Shaktimaan needs to stop someone who is under the control of Kilvish from doing evil.
+Vibration Chakra (5): This chakra gives Shaktimaan the power to control all types of vibrations, including sound waves, light waves, healing warmth, etc. He can also use it to hear ultrasonic sounds, and can speed up the vibrations of his own atoms allowing him to trans
+
+--6f760dd515129808defefd4c99caac5a_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://trumpcarre.co/rdkv5s0twcu3gnew-xGtMoR69W6JbS6o4blj3iMuY8sv7BYO"><img src="http://trumpcarre.co/c03d8466220b537dbd.jpg" /><img height="1" src="http://www.trumpcarre.co/O7nkNkpGhcdIlK7SuRm6sS96RdIjpkJHA47vhI7ufuAmN1Ox" width="1" /></a>
+<center>
+<div style="width:500px;"><br />
+<br />
+<a href="http://trumpcarre.co/ONvHIwe08sML5IAF1mQMmS9jHZAJEKPYsKoSA_vubWWd4rJR" style="font-size:40px;font-family:Arial; color:#2323EE; text-decoration:none;">Russian Beauties for Love and More</a><br />
+<br />
+<a href="http://trumpcarre.co/ONvHIwe08sML5IAF1mQMmS9jHZAJEKPYsKoSA_vubWWd4rJR"><img src="http://trumpcarre.co/aa188e7a28f6e34d3c.png" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://trumpcarre.co/wKankxWOShQ7pg78orcKUpCvkW19KMGk5tXT4NTqYpOlea-m"><img src="http://trumpcarre.co/67edef5f7df0a4f0ce.png" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://trumpcarre.co/ISm_MCsWye7f3I66CuHtU7dV_fxFcp72Cr6i7ClA780Qm0gC"><img src="http://trumpcarre.co/d53e12e37b2b5e0402.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:3px;">Shaktimaan has superhuman powers which lie inside his body in his seven chakras of Kundalini attained through meditation. Shaktimaan worships God through the symbol Om. Truthfulness is his motto. He can even separate his body into five different bodies of fire, wind, water, earth and sky. He is an expert, skilled and intelligent fighter and has fought with super-skilled enemies. He possesses physical powers like unlimited speed (up to the speed of light), strength, durability as well as psychic powers like telepathy, teleportation, telekinesis etc. Although he possesses godlike powers, his only weakness is a crystal (Papmani) possessed by Tamraj Kilvish which can be used to defeat and even kill him. This makes him powerless because it is filled with the evil of the world and is the source of the black powers. But he regains his strength after the crystal is taken away from him. He can be killed if the crystal is placed in front of him and he is treated violently to the verge of death. Shaktimaan also gets brief premonitions about the incidents that are going to happen to him in future. This can be observed in kashtak&#39;s episode, Geeta going to jail and in kapala&#39;s reappearance episodes. Shaktimaan&#39;s powers are virtually limitless. He can do practically anything he imagines. The only limit to his powers is his own belief in himself and his knowledge of how to manifest his powers. His powers come from his chakras. (Note: Although we&#39;ll call them chakras in the vedas, in the series dialogue they will also be called energy centers.) The seven chakras in his body which give him powers are: Energy Chakra (1): This chakra gives Shaktimaan super strength enabling him to fly, shoot fire from his hands, emit rays from his fingertips, blow a stream of freezing air, or send out protective force fields which nothing can penetrate (provided he can maintain his willpower and not give in). Shaktimaan&#39;s strength allows him to physically penetrate anything and lift any object. Creative Chakra (2): This chakra gives Shaktimaan the power to manifest things out of thin air. Astral Chakra (3): This chakra gives Shaktimaan the power to control his astral body (a semi-transparent, ethereal duplicate of himself) which can fly, walk through walls, see inside objects, etc. Heart Chakra (4): This chakra gives Shaktimaan the power to control the will of others, but only for good. He can will people to do the right thing, see the error in their ways. This power is most useful when Shaktimaan needs to stop someone who is under the control of Kilvish from doing evil. Vibration Chakra (5): This chakra gives Shaktimaan the power to control all types of vibrations, including sound waves, light waves, healing warmth, etc. He can also use it to hear ultrasonic sounds, and can speed up the vibrations of his own atoms allowing him to trans </span></div>
+</center>
+</body>
+</html>

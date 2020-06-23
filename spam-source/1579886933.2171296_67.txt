@@ -1,0 +1,112 @@
+Return-Path: <SRS0=woYDNj=3N=mail.easybeach.bid=6916-9790-262549-1845-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 26057 invoked from network); 24 Jan 2020 10:36:40 -0000
+Received: (qmail 15147 invoked from network); 24 Jan 2020 10:36:39 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 10:36:39 -0000
+Received: (qmail 12528 invoked by uid 48516); 24 Jan 2020 10:36:39 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10805 invoked from network); 24 Jan 2020 10:36:39 -0000
+Received: from linus.easybeach.bid (par6ods50.parallelsure.space [170.130.172.198])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 24 Jan 2020 10:36:35 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=easybeach.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Orthopedists@easybeach.bid;
+ bh=Zsuc1fM/iedeke20j2O67uF2jAE=;
+ b=U/irVeSGPNBzpxDVxNkWjXOroqDkH5CV0PN7ur8aynnS8nH8pRm5Hq9Eom2oke1hVjBxaK3w+wOH
+   2mGWvJLhswXPg9TTGk+XoWH/BFltMwg1764Ctm8YeOhUXk9JvBEAzEANxrffi0Aism8Pvrp77bkD
+   CgsSR4Bs30y7HFdyh3s=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=easybeach.bid;
+ b=Cd1wPYHykiS1tpXA6FgD7ezAsfvDdB7kz4pi8v31618zkVQl3L3pzpc97slNj10RQoA38eN9rBlG
+   KuSLyBXgO6na0n4Gm8xPOts7vwyry45l8QUFMZYF5LjjORTO0ca4whrvo8iqX+SGSB47ejenWD+R
+   b9BfwjY1YvchVT9Qi00=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="97e0116ceafcff238a2da74516c7aa94_263e_40195"
+Date: Fri, 24 Jan 2020 05:36:31 -0500
+From: "Groundbreaking" <Orthopedists@easybeach.bid>
+Reply-To: "Neck Pain" <NeckPain@easybeach.bid>
+Subject: This device could set our patients free of this annoying pain
+To: <bruce@untroubled.org>
+Message-ID: <ogaidrgpqltg3m2y-6aaf4pqiyljprwp7-263e-40195@easybeach.bid>
+Content-Length: 8929
+
+--97e0116ceafcff238a2da74516c7aa94_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This device could set our patients free of this annoying pain
+
+http://easybeach.bid/td9aGghJPw0xgolXYePQv36dBZd01SUX-wM4uXiXN2c1YWVs
+
+http://easybeach.bid/waUfmeQgqaE57E-XMfq9a1PdFJDVvHw5wwL2ULR9XG6G9fLB
+
+Wild silk taken from the nests of native caterpillars was used by the Aztecs to make containers and as paper. Silkworms were introduced to Oaxaca from Spain in the 1530s and the region profited from silk production until the early 17th century, when the king of Spain banned export to protect Spain's silk industry. Silk production for local consumption has continued until the present day, sometimes spinning wild silk.
+
+King James I introduced silk-growing to the British colonies in America around 1619, ostensibly to discourage tobacco planting. The Shakers in Kentucky adopted the practice.
+
+
+Satin from Mã Châu village, Vietnam
+
+A sample of a silk satin in the National Museum of American History, produced by William Skinner & Sons of Holyoke, Massachusetts, the largest producer of such textiles in the world in the early 20th century
+The history of industrial silk in the United States is largely tied to several smaller urban centers in the Northeast region. Beginning in the 1830s, Manchester, Connecticut emerged as the early center of the silk industry in America, when the Cheney Brothers became the first in the United States to properly raise silkworms on an industrial scale; today the Cheney Brothers Historic District showcases their former mills. With the mulberry tree craze of that decade, other smaller producers began raising silkworms. This economy particularly gained traction in the vicinity of Northampton, Massachusetts and its neighboring Williamsburg, where a number of small firms and cooperatives emerged. Among the most prominent of these was the cooperative utopian Northampton Association for Education and Industry, of which Sojourner Truth was a member. Following the destructive Mill River Flood of 1874, one manufacturer, William Skinner, relocated his mill from Williamsburg to the then-new city of Holyoke. Over the next 50 years he and his sons would maintain relations between the American silk industry and its counterparts in Japan, and expanded their business to the point that by 1911, the Skinner Mill complex contained the largest silk mill under one roof in the world, and the brand Skinner Fabrics had become the largest manufacturer of silk satins internationally. Other efforts later in the 19th century would also bring the new silk industry to Paterson, New Jersey, with several firms hiring European-born textile workers and granting it the nickname "Silk City" as another major center of production in the United States.
+
+World War II interrupted the silk trade from Asia, and silk prices increased dramatically. U.S. industry began to look for substitutes, which led to the use of synthetics such as nylon. Synthetic silks have also been made from lyocell, a type of cellulose fiber, and are often difficult to distinguish from real silk (see spider silk for more on synthetic silks).
+
+--97e0116ceafcff238a2da74516c7aa94_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://easybeach.bid/fKBiIjaPEajrmHDiwcj8wnVaSYEVH1cpyH0A4UiESKFZvwsE"><img src="http://easybeach.bid/2c841ecccb26652827.jpg" /><img height="1" src="http://www.easybeach.bid/NDK0ajWTzPW967BrbcLKZ5M5UUqFsei-7L4GDE2_KLkPjlo1" width="1" /></a>
+<center>&nbsp;
+<div style="width:800px;border:2px solid #000000;"><a href="http://easybeach.bid/td9aGghJPw0xgolXYePQv36dBZd01SUX-wM4uXiXN2c1YWVs"><img src="http://easybeach.bid/9317d532cc91291d3b.png" /></a>
+<hr /> <span style="font-family:Arial;font-size:25px;font-weight:bold;">Orthopedists BAFFLED: Relax Your Neck Muscles in 10<br />
+Minutes Using This Groundbreaking Invention</span><br />
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td style="width:300px;"><a href="http://easybeach.bid/td9aGghJPw0xgolXYePQv36dBZd01SUX-wM4uXiXN2c1YWVs"><img src="http://easybeach.bid/9caf12344e7d153065.jpg" /></a></td>
+			<td style="width:400px;font-family:Arial;">
+			<ul>
+				<li>Sitting is the new smoking: Most people in the modern work force these days, suffer from unnecessary headaches due to an extremely stiff neck. But no more: NeckZen has medical professionals going crazy about its effectiveness against these problems.</li>
+				<li><b>Neck pain and headache simply disappears</b> - Sit on your couch, put the NeckZen around your neck, set the device to 10-15 minutes and that&#39;s it. After just a few short treatments, you will notice how the pain in your neck melts like the snow under the spring sun.</li>
+				<li><b>Say Goodbye to Stress and Worry</b> - Seriously, our customers say they can relax so well with NeckZen that they struggle to stay awake.</li>
+				<li><b>Even with a busy schedule</b> - Neck pain usually comes at an inconvenient time. You can use the NeckZen anytime, anywhere, with just a few minutes of treatment.</li>
+				<li><b>Easy to Use</b> - It really just requires the press of a single button to enjoy total relaxation. It&#39;s portable, too. Relax after a long flight, in the hotel room, during lunch break or at home after a long day at work.</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<div style="padding:20px;background-color:#82B14E; font-size:25px;color:black;width:400px; font-weight:bold; border-radius:10px; text-align:center;"><a href="http://easybeach.bid/td9aGghJPw0xgolXYePQv36dBZd01SUX-wM4uXiXN2c1YWVs">Check Out More About NeckZen Pro</a></div>
+<br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://easybeach.bid/bHSSf6noNjhJupXfoTROyMIX4TWluQiULQfR52WIW0P4rfLt"><img src="http://easybeach.bid/b08c08e83f2670c180.jpg" /></a><br />
+<br />
+&nbsp;
+<p style="color:#FFFFFF;font-size:3px;">Wild silk taken from the nests of native caterpillars was used by the Aztecs to make containers and as paper. Silkworms were introduced to Oaxaca from Spain in the 1530s and the region profited from silk production until the early 17th century, when the king of Spain banned export to protect Spain&#39;s silk industry. Silk production for local consumption has continued until the present day, sometimes spinning wild silk. King James I introduced silk-growing to the British colonies in America around 1619, ostensibly to discourage tobacco planting. The Shakers in Kentucky adopted the practice. Satin from M&atilde; Ch&acirc;u village, Vietnam A sample of a silk satin in the National Museum of American History, produced by William Skinner &amp; Sons of Holyoke, Massachusetts, the largest producer of such textiles in the world in the early 20th century The history of industrial silk in the United States is largely tied to several smaller urban centers in the Northeast region. Beginning in the 1830s, Manchester, Connecticut emerged as the early center of the silk industry in America, when the Cheney Brothers became the first in the United States to properly raise silkworms on an industrial scale; today the Cheney Brothers Historic District showcases their former mills. With the mulberry tree craze of that decade, other smaller producers began raising silkworms. This economy particularly gained traction in the vicinity of Northampton, Massachusetts and its neighboring Williamsburg, where a number of small firms and cooperatives emerged. Among the most prominent of these was the cooperative utopian Northampton Association for Education and Industry, of which Sojourner Truth was a member. Following the destructive Mill River Flood of 1874, one manufacturer, William Skinner, relocated his mill from Williamsburg to the then-new city of Holyoke. Over the next 50 years he and his sons would maintain relations between the American silk industry and its counterparts in Japan, and expanded their business to the point that by 1911, the Skinner Mill complex contained the largest silk mill under one roof in the world, and the brand Skinner Fabrics had become the largest manufacturer of silk satins internationally. Other efforts later in the 19th century would also bring the new silk industry to Paterson, New Jersey, with several firms hiring European-born textile workers and granting it the nickname &quot;Silk City&quot; as another major center of production in the United States. World War II interrupted the silk trade from Asia, and silk prices increased dramatically. U.S. industry began to look for substitutes, which led to the use of synthetics such as nylon. Synthetic silks have also been made from lyocell, a type of cellulose fiber, and are often difficult to distinguish from real silk (see spider silk for more on synthetic silks).</p>
+</center>
+</body>
+</html>
+
+--97e0116ceafcff238a2da74516c7aa94_263e_40195--

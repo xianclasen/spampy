@@ -1,0 +1,648 @@
+Return-Path: <SRS0=9u30EL=3K=us-west-2.amazonses.com=0101016fc80f609e-1398f973-b2b6-4033-bf3f-52826628df63-000000@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 17365 invoked from network); 21 Jan 2020 12:24:11 -0000
+Received: (qmail 16726 invoked from network); 21 Jan 2020 12:24:11 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 21 Jan 2020 12:24:11 -0000
+Received: (qmail 17918 invoked by uid 48516); 21 Jan 2020 12:24:10 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 7676 invoked from network); 21 Jan 2020 12:24:10 -0000
+Received: from a27-133.smtp-out.us-west-2.amazonses.com (a27-133.smtp-out.us-west-2.amazonses.com [54.240.27.133])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 21 Jan 2020 12:24:10 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=d3zvbrwpvlxlgopsxxlttwi2nqb5inov; d=maniasol.com; t=1579609448;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe;
+	bh=VuAYNOHQMG7nGtNcKpxBnfmuoOQq38nNX79cbLtVqYM=;
+	b=fCtKrgWXLkXImtqLcn+u+dnWJJ1P0th1GT0E/v0zi38FuiunZWa7vSd8wcG788Hs
+	okEs0e+4VFcc3yWofiUWfiDn9ueVWYIQtbrScWNwZRYNxc8L4FoPvkMy63b61uoIsPJ
+	z0B8cUSw1mk8EXaVOLyWIRkN/xOwiKlC2qtuyxKo=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=gdwg2y3kokkkj5a55z2ilkup5wp5hhxx; d=amazonses.com; t=1579609448;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe:Feedback-ID;
+	bh=VuAYNOHQMG7nGtNcKpxBnfmuoOQq38nNX79cbLtVqYM=;
+	b=YAr933e2g1O9Glpj2ZMQQN1EZ0Pz3cyUNJF8uRqXBS/Rn9EBkmq9iyrPhwnbihRc
+	WlXYtO2gXmaulEsTRlmFC4KvQ+6FEbhB9SYTd/3QwVExeWeWGeh0VUAlZ7b2XFDjwT5
+	8fE5vUOX6t4P5sq6DDEm++2atrCukHSRVrrkePbo=
+Date: Tue, 21 Jan 2020 12:24:08 +0000
+From: Ray-Ban <contato@maniasol.com>
+Reply-To: Ray-Ban <contato@maniasol.com>
+To: bruce@untroubled.org
+Message-ID: <0101016fc80f609e-1398f973-b2b6-4033-bf3f-52826628df63-000000@us-west-2.amazonses.com>
+Subject: =?UTF-8?Q?Ray-Ban_com_50%_OFF!_Aproveite_=F0=9F=91=80_!!?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5e26ed6876c51_43fac539daff03467780";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <https://atlas.listmanager2.com/unsubscribe/create/6c0c1442-a5ee-4a73-a8ee-107ad7b0ce77>
+X-SES-Outgoing: 2020.01.21-54.240.27.133
+Feedback-ID: 1.us-west-2.L5kq3Ao4gWzFDuBn+9LoGxPzEzBCNbjHENRkcAp57dQ=:AmazonSES
+Content-Length: 19710
+
+
+----==_mimepart_5e26ed6876c51_43fac539daff03467780
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+Mania Sol | Promo=C3=A7=C3=B5es Exclusivas?=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+         =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=C2=A0=0D
+=0D
+FRETE GR=C3=81TIS PARA TODO O =0D
+BRASIL=0D
+=C2=A0=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+JUSTIN=0D
+=0D
+=0D
+AVIATOR=0D
+=0D
+=0D
+=0D
+=0D
+ERIKA=0D
+=0D
+=0D
+=0D
+=0D
+FERRARI=0D
+=0D
+=0D
+=0D
+=0D
+MARSHAL=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+   =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+         =0D
+=0D
+=0D
+=0D
+=0D
+               =0D
+=0D
+=0D
+=0D
+=0D
+                  =0D
+        =0D
+=0D
+=0D
+=0D
+               =0D
+=0D
+=0D
+=0D
+=0D
+                  =0D
+=0D
+=0D
+=0D
+=0D
+               =0D
+=0D
+=0D
+=0D
+=0D
+                  =0D
+=0D
+=0D
+=0D
+=0D
+               =0D
+*Desconto direto no produto. N=C3=A3o cumulativo.=0D
+               =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+                  =0D
+=0D
+=0D
+=0D
+=0D
+               =0D
+=0D
+=0D
+Frete =0D
+gr=C3=A1tis para todo o Brasil.=0D
+Pague em at=C3=A9 6x sem juros no cart=C3=A3o. =0D
+Ofertas sujeitas a altera=C3=A7=C3=A3o de pre=C3=A7o e/ou condi=C3=A7=C3=B5=
+es de =0D
+pagamento sem aviso pr=C3=A9vio. Troca ou devolu=C3=A7=C3=A3o gr=C3=A1tis=
+ de =0D
+produtos em sua embalagem original lacrada e n=C3=A3o danificada =0D
+em at=C3=A9 30 dias corridos ap=C3=B3s o recebimento da compra.=0D
+=0D
+CENTRAL DE ATENDIMENTO=0D
+De segunda a sexta, das 09h as 17h (exceto feriados).=0D
+E-mail: atendimento@maniasol.com=0D
+=0D
+Para garantir que nossos comunicados cheguem em sua caixa de =0D
+entrada, adicione o email atendimento@maniasol.com em sua =0D
+lista de contatos.=0D
+=0D
+         =0D
+=0D
+         =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Caso queira deixar de receb=
+er nossas mensagens CLIQUE AQUI=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+
+----==_mimepart_5e26ed6876c51_43fac539daff03467780
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://ww=
+w.w3.org/TR/html4/loose.dtd">=0D
+<html lang=3D"pt-br" style=3D"opacity: 1;">=0D
+<head>=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=0D
+<title></title>=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=0D
+<title>Mania Sol | Promo=C3=A7=C3=B5es Exclusivas?</title>=0D
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">=0D
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=0D
+<style type=3D"text/css">=0D
+    /* CLIENT-SPECIFIC STYLES */=0D
+=0D
+    body,=0D
+    table,=0D
+    td,=0D
+    a {=0D
+        -webkit-text-size-adjust: 100%;=0D
+        -ms-text-size-adjust: 100%;=0D
+    }=0D
+=0D
+    table,=0D
+    td {=0D
+        mso-table-lspace: 0pt;=0D
+        mso-table-rspace: 0pt;=0D
+    }=0D
+=0D
+    img {=0D
+        -ms-interpolation-mode: bicubic;=0D
+    }=0D
+    /* RESET STYLES */=0D
+=0D
+    img {=0D
+        border: 0;=0D
+        height: auto;=0D
+        line-height: 100%;=0D
+        outline: none;=0D
+        text-decoration: none;=0D
+    }=0D
+=0D
+    table {=0D
+        border-collapse: collapse !important;=0D
+    }=0D
+=0D
+    body {=0D
+        height: 100% !important;=0D
+        margin: 0 !important;=0D
+        padding: 0 !important;=0D
+        width: 100% !important;=0D
+    }=0D
+    /* iOS BLUE LINKS */=0D
+=0D
+    a[x-apple-data-detectors] {=0D
+        color: inherit !important;=0D
+        text-decoration: none !important;=0D
+        font-size: inherit !important;=0D
+        font-family: inherit !important;=0D
+        font-weight: inherit !important;=0D
+        line-height: inherit !important;=0D
+    }=0D
+    /* MEDIA QUERIES */=0D
+=0D
+    @media screen and (max-width: 600px) {=0D
+        .mobile-hide {=0D
+            display: none !important;=0D
+        }=0D
+        .mobile-center {=0D
+            text-align: center !important;=0D
+        }=0D
+        .mobile-table {=0D
+            width: 100% !important;=0D
+        }=0D
+        .text-center {=0D
+            text-align: center !important;=0D
+        }=0D
+    }=0D
+    /* ANDROID CENTER FIX */=0D
+=0D
+    div[style*=3D"margin: 16px 0;"] {=0D
+        margin: 0 !important;=0D
+    }=0D
+    </style>=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=0D
+<meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewp=
+ort">=0D
+</head>=0D
+<body bgcolor=3D"#000000" class=3D"fr-no-selection">=0D
+<center style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; table-layout: fixed; width: 100%;">=0D
+<div style=3D"max-width: 600px;">=0D
+<table align=3D"center" style=3D"-ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; Margin: 0 auto; border-spacing: 0; font-family: Arial=
+, Helvetica, sans-serif; max-width: 600px; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; width: 26%;"><tbody><tr><td style=3D"-ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; padding: 0;"><br></td></tr></tbody></table>=0D
+</div>=0D
+</center>=0D
+=0D
+<center style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; table-layout: fixed; width: 100%;">=0D
+<div style=3D"max-width: 600px;">=0D
+<table align=3D"center" style=3D"-ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; Margin: 0 auto; border-spacing: 0; font-family: Arial=
+, Helvetica, sans-serif; max-width: 600px; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; width: 26%;"><tbody><tr><td style=3D"-ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; padding: 0;">=0D
+=0D
+         <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"606"><tbody><tr><td colspan=3D"2">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; color: rgb(255, 255, 255); font-family: Arial=
+, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-varian=
+t-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-=
+spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit=
+-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-=
+color: initial; background: rgb(0, 0, 0);" width=3D"99%"><tbody style=3D"=
+box-sizing: border-box;"><tr style=3D"box-sizing: border-box;">=0D
+<td align=3D"center" style=3D"box-sizing: border-box; padding: 0px; text-=
+align: left; width: 113px; max-width: 113px;" width=3D"15%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 113px; min-width: 113px; background: rgb(0, 0, 0);"=
+ width=3D"100%"><tbody style=3D"box-sizing: border-box;"><tr style=3D"box=
+-sizing: border-box;"><td align=3D"center" bgcolor=3D"#000000" style=3D"b=
+ox-sizing: border-box; padding: 0px; background: rgb(0, 0, 0);" width=3D"=
+100%">=0D
+<a class=3D"post-clickout" href=3D"https://skylark.listmanager2.com/click=
+/6c0c1442-a5ee-4a73-a8ee-107ad7b0ce77/4c405acf-640a-4c11-a5d6-950a53522eb=
+0/event" style=3D"box-sizing: border-box; color: rgb(66, 139, 202); text-=
+decoration: none;" target=3D"_blank">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15789=
+78369/imagens/image_0.jpg" alt=3D"Ray-Ban Logo" title=3D"Ray-Ban Logo" wi=
+dth=3D"113" height=3D"82" border=3D"0" style=3D"box-sizing: border-box; b=
+order: 0px none; vertical-align: middle; display: block; max-width: 113px=
+;"></a>=0D
+</td></tr></tbody></table>=0D
+</td>=0D
+<td align=3D"center" style=3D"box-sizing: border-box; padding: 0px;" vali=
+gn=3D"middle" width=3D"80%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; height: 82px; background: rgb(0, 0, 0);" widt=
+h=3D"98%"><tbody style=3D"box-sizing: border-box;">=0D
+<tr style=3D"box-sizing: border-box;"><td align=3D"center" bgcolor=3D"#00=
+0000" height=3D"36" style=3D"box-sizing: border-box; height: 36px; paddin=
+g: 0px; background: rgb(0, 0, 0);" valign=3D"bottom" width=3D"99%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; background: rgb(0, 0, 0);" width=3D"100%"><tb=
+ody style=3D"box-sizing: border-box;"><tr style=3D"box-sizing: border-box=
+;">=0D
+<td align=3D"center" bgcolor=3D"#000000" style=3D"box-sizing: border-box;=
+ padding: 0px; background: rgb(0, 0, 0);" width=3D"5%">=C2=A0</td>=0D
+<td align=3D"center" bgcolor=3D"#000000" style=3D"box-sizing: border-box;=
+ border-bottom: 1px solid rgb(119, 119, 119); padding: 0px; background: r=
+gb(0, 0, 0);">=0D
+FRETE GR=C3=81TIS PARA TODO O =0D
+BRASIL</td>=0D
+<td align=3D"center" bgcolor=3D"#000000" style=3D"box-sizing: border-box;=
+ padding: 0px; background: rgb(0, 0, 0);" width=3D"5%">=C2=A0</td>=0D
+</tr></tbody></table>=0D
+</td></tr>=0D
+<tr style=3D"box-sizing: border-box;"><td align=3D"center" bgcolor=3D"#00=
+0000" height=3D"46" style=3D"box-sizing: border-box; height: 46px; paddin=
+g: 0px; background: rgb(0, 0, 0);" width=3D"99%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; background: rgb(0, 0, 0);" width=3D"101%"><tb=
+ody style=3D"box-sizing: border-box;"><tr style=3D"box-sizing: border-box=
+;">=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"14%">=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/3c5ea749-4bf8-4932-963d-a27fb021ca7f/event" style=3D"text-d=
+ecoration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF; background-position: 0% 0=
+%;">=0D
+JUSTIN</span></a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"20%">=0D
+<a class=3D"post-clickout" href=3D"https://skylark.listmanager2.com/click=
+/6c0c1442-a5ee-4a73-a8ee-107ad7b0ce77/13ade3e3-a191-4c07-ae93-d03695ca8ec=
+8/event" style=3D"box-sizing: border-box; color: rgb(255, 255, 255); text=
+-decoration: none; font-size: 12px;" target=3D"_blank">AVIATOR</a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"23%">=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/937c445f-9307-42fc-a407-2862396d59dc/event" style=3D"text-d=
+ecoration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF; background-position: 0% 0=
+%;">=0D
+ERIKA</span></a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"23%">=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/850f62f8-671f-46c0-b4af-1eaa09718463/event" style=3D"text-d=
+ecoration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF; background-position: 0% 0=
+%;">=0D
+FERRARI</span></a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"21%">=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/4834d178-043f-41f2-8c8f-ed12901644ba/event" style=3D"text-d=
+ecoration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF;">=0D
+MARSHAL</span></a>=0D
+</td>=0D
+</tr></tbody></table>=0D
+</td></tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr></tbody></table>=0D
+</td></tr></tbody></table>=0D
+   <meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"vi=
+ewport">=0D
+=0D
+=0D
+<center style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; table-layout: fixed; width: 100%;">=0D
+<div style=3D"max-width: 600px;">=0D
+<table align=3D"center" style=3D"-ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; Margin: 0 auto; border-spacing: 0; font-family: Arial=
+, Helvetica, sans-serif; max-width: 600px; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; width: 26%;"><tbody><tr><td style=3D"-ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; padding: 0;">=0D
+=0D
+         <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"600"><tbody>=0D
+<tr><td colspan=3D"2">=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/d86a2d6d-da14-48ef-9ff8-22a421b6e5ff/event" target=3D"_blan=
+k">=0D
+<img alt=3D"=C3=93culos de SOL - com 50%Off" border=3D"0" height=3D"400" =
+src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1578978369=
+/imagens/image_1.png" style=3D"display: block;" width=3D"600"></a>=0D
+</td></tr>=0D
+               <tr>=0D
+<td>=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/57cdb738-1153-465f-943e-62cea2d71d6a/event" target=3D"_blan=
+k">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578978369/imagens/image_2.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+                  <td>=0D
+        <a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4=
+a73-a8ee-107ad7b0ce77/011bd2dc-ec46-42bb-9908-5d3087bfdaa6/event" target=3D=
+"_blank">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578978369/imagens/image_3.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+</tr>=0D
+               <tr>=0D
+<td>=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/655088e5-0864-44e0-a409-efe96c039139/event" target=3D"_blan=
+k">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578978369/imagens/image_4.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+                  <td>=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/15c706a5-fe2f-4775-841d-ec7d40995663/event" target=3D"_blan=
+k">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578978369/imagens/image_5.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+</tr>=0D
+               <tr>=0D
+<td>=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/24d7cd35-ea52-4373-ba0e-3180ec29d738/event" target=3D"_blan=
+k">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578978369/imagens/image_6.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+                  <td>=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/50f89490-74db-4c62-9f5b-c3a7a1fbb38f/event" target=3D"_blan=
+k">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578978369/imagens/image_7.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+</tr>=0D
+               <tr><td align=3D"center" colspan=3D"2" style=3D"padding: 1=
+0px 0 10px 0 !important;"><span style=3D"color:#7A7A7A; font-family: Goth=
+am, ;Helvetica Neue;, Helvetica, Arial, ;sans-serif; font-size: 11px;">=0D=
+
+*Desconto direto no produto. N=C3=A3o cumulativo.</span></td></tr>=0D
+               <tr><td colspan=3D"2">=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/1adb03cd-5b55-4c4c-8f1b-3a4173f58b3c/event" target=3D"_blan=
+k">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15789=
+78369/imagens/image_8.png" width=3D"600" height=3D"177" border=3D"0" alt=3D=
+" "></a>=0D
+</td></tr>=0D
+<tr>=0D
+<td>=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/ec718466-bb5a-46ef-99f9-0c3aa08243b5/event" target=3D"_blan=
+k">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578978369/imagens/image_9.png" style=3D"=
+display: block;" width=3D"300"></a>=0D
+</td>=0D
+                  <td>=0D
+<a href=3D"https://skylark.listmanager2.com/click/6c0c1442-a5ee-4a73-a8ee=
+-107ad7b0ce77/3ec6ed53-d006-43e5-976e-107261ccedcb/event" target=3D"_blan=
+k">=0D
+<img alt=3D"" border=3D"0" height=3D"399" src=3D"https://s3-sa-east-1.ama=
+zonaws.com/newslettersauto/news_1578978369/imagens/image_10.png" style=3D=
+"display: block;" width=3D"300"></a>=0D
+</td>=0D
+</tr>=0D
+               <tr><td colspan=3D"2">=0D
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tb=
+ody><tr><td>=0D
+<p align=3D"center">=0D
+<font color=3D"#FFFFFF" style=3D"font-size: 9pt;">Frete =0D
+gr=C3=A1tis para todo o Brasil.<br>=0D
+Pague em at=C3=A9 6x sem juros no cart=C3=A3o. <br>=0D
+Ofertas sujeitas a altera=C3=A7=C3=A3o de pre=C3=A7o e/ou condi=C3=A7=C3=B5=
+es de =0D
+pagamento sem aviso pr=C3=A9vio. Troca ou devolu=C3=A7=C3=A3o gr=C3=A1tis=
+ de =0D
+produtos em sua embalagem original lacrada e n=C3=A3o danificada =0D
+em at=C3=A9 30 dias corridos ap=C3=B3s o recebimento da compra.<br>=0D
+<br>=0D
+CENTRAL DE ATENDIMENTO<br>=0D
+De segunda a sexta, das 09h as 17h (exceto feriados).<br>=0D
+E-mail: atendimento@maniasol.com<br>=0D
+<br>=0D
+Para garantir que nossos comunicados cheguem em sua caixa de =0D
+entrada, adicione o email atendimento@maniasol.com em sua =0D
+lista de contatos.</font></p>=0D
+</td></tr></tbody></table>=0D
+         </td></tr>=0D
+</tbody></table>=0D
+         </td></tr></tbody></table>=0D
+</div>=0D
+</center>=0D
+=0D
+=0D
+<!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D FOOTER =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D-->=0D
+=0D
+<p style=3D"text-align: left;"><span style=3D"color: rgb(0, 0, 0);"><span=
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Caso queira deixar de receber =
+nossas mensagens </span><a href=3D"https://atlas.listmanager2.com/unsubsc=
+ribe/create/6c0c1442-a5ee-4a73-a8ee-107ad7b0ce77"><span style=3D"font-fam=
+ily: Arial, Helvetica, sans-serif; font-size: 12px;"><u>CLIQUE AQUI</u></=
+span></a></span>=0D
+=0D
+</p>=0D
+=0D
+<p>=0D
+<br>=0D
+</p>=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+</td></tr></tbody></table>=0D
+</div>=0D
+</center>=0D
+<div><img src=3D"https://skylark.listmanager2.com/open/6c0c1442-a5ee-4a73=
+-a8ee-107ad7b0ce77/event" alt=3D"_t" width=3D"1" height=3D"1"></div>=0D
+</body>=0D
+</html>=0D
+
+----==_mimepart_5e26ed6876c51_43fac539daff03467780--

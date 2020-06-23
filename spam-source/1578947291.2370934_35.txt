@@ -1,0 +1,99 @@
+Return-Path: <SRS0=h0LWUY=3C=oanne.date=canvas.prints.promotion-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 30107 invoked from network); 13 Jan 2020 16:16:46 -0000
+Received: (qmail 28186 invoked from network); 13 Jan 2020 16:16:46 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Jan 2020 16:16:46 -0000
+Received: (qmail 15874 invoked by uid 48516); 13 Jan 2020 16:16:45 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 6950 invoked from network); 13 Jan 2020 16:16:43 -0000
+Received: from mail.oanne.date (70-102-103-104.nca.lanset.com [70.102.103.104])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 13 Jan 2020 16:16:43 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=oanne.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas.prints.promotion@oanne.date;
+ bh=J1wXShyk3WGZ4c96q2LeCNSnUXs=;
+ b=dWmLy7LiMoEL3PY+gLIxliWqS66bOmUePfvwgpbxdWhQLJbliBJK+P5K/yEBJJx4ZsZHO1nnC+dH
+   1vHf42RUOoqFEMzwm3EmiDaxLI6fDcgl9oYc3QapZso2adKBE/y5NTF+/MOwXrfwDVIJ/qntxUry
+   BdHBakPQhSvUk4hMKOs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=oanne.date;
+ b=BMeOTUgTdST+vQHF8T1XUFZBZyo0kupWOXC8AIOyC4eXOSmZTW8S+PbO0zxX0skhfkT2hKAAJhhH
+   Q2Ui/zQBa6G/rxTDhRs0Sah+6VLEukd41kb9/MW26ad72r/f+Ji+dwsifIlkQizSDPtFMf4M1iEs
+   Awy0J5wy8Ij9PTb3MVc=;
+Received: by mail.oanne.date id h3ibum0001gi for <bruce@untroubled.org>; Mon, 13 Jan 2020 11:11:31 -0500 (envelope-from <canvas.prints.promotion-bruce=untroubled.org@oanne.date>)
+Date: Mon, 13 Jan 2020 11:11:31 -0500
+From: "Canvas Prints Promotion" <canvas.prints.promotion@oanne.date>
+To:   <bruce@untroubled.org>
+Subject: Save up to 93% on Fall Decor with Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_376_542155890.1578931875414"
+List-Unsubscribe: <http://www.oanne.date/M895C23R95e89OY12JHl1t1h1a23w21vFv4GIf4rxvs4FhIHEsvZ10SQGRRm9oBK5l1Oh05dOH0i/coordinations>
+Message-ID: <0.0.0.29.1D5CA2C1E5A13D8.57FAE7@mail.oanne.date>
+Content-Length: 4524
+
+------=_Part_376_542155890.1578931875414
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>unconvincing yellows</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.oanne.date/transgress/ada6MI2B395V8uP611Y7226O1a23l21cFv4GIf4rxvs4FhIHEsvZ10QQGRRm9oBK7MvjV1x05QUH0i">=
+Huge Sale Today Only 93% off &nbsp; </a></span></span><br /> <br /> <a href=
+=3D"http://www.oanne.date/transgress/ada6MI2B395V8uP611Y7226O1a23l21cFv4GIf4rxvs4FhIHEsvZ10QQGRRm9oBK7MvjV1x05QUH0i"><img alt=3D"easy canvas" src=3D"http://www.oanne.date/i4d4H2395ct7Va11C7229I1a23i21EFv4GIf4rxvs4FhIHEsvZ10lQGRRm9oBK5I1T0h5CBHAi/naturalization" style=3D"width=
+: 669px; height: 732px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Push&nbsp; <a h=
+ref=3D"http://www.oanne.date/tinted/f126SF2s395eZN8611S7227U1a23m21mFv4GIf4rxvs4FhIHEsvZ10pQGRRm9oBK6O1pt0g6NXHMiz">here&nbsp; </a><br /> Or Write to: 11525A Stonehollow Dr=
+ Suite 100 Austin, TX 78758</span></span><br /> <br /> <span style=3D"font=
+-size:11px; "><span style=3D"color:#808080; ">13395 Voyager Pkwy Ste 130 #6=
+34<br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 1=
+2px; font-style: normal; font-variant-caps: normal; font-weight: normal; le=
+tter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: auto; word-spacing: 0px;=
+ -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decor=
+ation: none; font-family: Helvetica; " /> <span style=3D"caret-color: rgb(0=
+, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal=
+; letter-spacing: normal; text-align: center; text-indent: 0px; text-transf=
+orm: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: a=
+uto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: He=
+lvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 809=
+21</span></span></span><br /> <span style=3D"font-size:10px; "><span style=
+=3D"font-family:arial,helvetica,sans-serif; ">Unsub <a href=3D"=
+http://www.oanne.date/e216W2Z39h5Sz89A11N7228W1a23I21wFv4GIf4rxvs4FhIHEsvZ10DQGRRm9oBK5rK10p5c1NHi/mindlessly">Here</a><br /> <br /> <br /> <font color="proletariat"><font><small></font><small></small></small></font><style></style><font size="routine"><style style="askew"></style></font><span id="internetwork"><font title="ingredients"></span></font><style color="Eris"></style></span></span><br /=
+> <br /> <span style=3D"color:#FFFFFF; ">That ad was posted online in Augus=
+t when Burger King began sales at stores nationwide. But on Friday, One Mil=
+lion Moms posted a press release criticizing the use of the &quot; d-word&q=
+uot; in the commercial. &quot; One Million Moms finds this highly inappropr=
+iate. When responding to the taste test, he didn' t have to curse. Or if, i=
+n fact, it was a real and unscripted interview in which the man was not an =
+actor, then Burger King could have simply chosen to edit the profanity out =
+of the commercial,&quot; the group said in a press release. &quot; Burger K=
+ing' s Impossible Whopper ad is irresponsible and tasteless. It is extremel=
+y destructive and damaging to impressionable children viewing the commercia=
+l. We all know children repeat what they hear.&quot; One Million Moms is a =
+division of the American Family Association, the non-profit evangelical Chr=
+istian group. Despite its name, it is not clear that the group has a millio=
+n members. According to its website, more than 8,000 people have taken acti=
+on on the Burger King issue, and its Facebook group has just shy of 100,000=
+ likes.</span><br /> <br /> &nbsp; </p>=20
+  </center> <style></style><small><span title="scrambles"></span></small><span id="tiredly"></span><big></big><span></span><style></style><style></style><style></style> =20
+ <img src=3D"http://www.oanne.date/coordinations/a085B239N5L8xt511U722aA1a23R21tFv4GIf4rxvs4FhIHEsvZ10AQGRRm9oBK7w1jRvr06gk2Hzi" alt=3D""/></body>
+</html>
+
+------=_Part_376_542155890.1578931875414--
+

@@ -1,0 +1,64 @@
+Return-Path: <OptimaTaxTaxAssistancePrograms-bruce=untroubled.org@tubephotos.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11690 invoked from network); 10 Jan 2020 15:37:35 -0000
+Received: (qmail 7179 invoked from network); 10 Jan 2020 15:37:34 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 15:37:34 -0000
+Received: (qmail 30640 invoked by uid 48516); 10 Jan 2020 15:37:34 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 14000 invoked from network); 10 Jan 2020 15:37:32 -0000
+Received: from spinkaorn.tubephotos.com (spinkaorn.tubephotos.com [192.119.117.117])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 10 Jan 2020 15:37:32 -0000
+Received: by mraz.tubephotos.com id h32d3o0001gn for <bruce@untroubled.org>; Fri, 10 Jan 2020 15:37:31 +0000 (envelope-from <OptimaTaxTaxAssistancePrograms-bruce=untroubled.org@tubephotos.com>)
+Date: Fri, 10 Jan 2020 15:37:31 +0000
+From: OptimaTax-TaxAssistancePrograms <OptimaTaxTaxAssistancePrograms@tubephotos.com>
+Reply-To: OptimaTaxTaxAssistancePrograms@tubephotos.com
+To: bruce@untroubled.org
+Message-Id: <7d51dd02-497d-4336-8c72-129cc2a523a3@tubephotos.com>
+Subject: =?utf-8?B?U3RhcnQgMjAyMCBieSBSZXNvbHZpbmcgWW91ciBUYXggRGVidA==?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-32363864__f999a0b10ad3bf5ff842_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 1863
+
+---_-_-32363864__f999a0b10ad3bf5ff842_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-32363864__f999a0b10ad3bf5ff842_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHA+Jm5ic3A7PC9wPgo8dGFibGUgYm9yZGVyPSIwIiB3aWR0aD0iNjAwIiBjZWxsc3BhY2luZz0i
+MCIgY2VsbHBhZGRpbmc9IjAiPgo8dGJvZHk+Cjx0cj4KPHRkPjwhLS0gQ2hhbmdlIGxpbmsgaGVy
+ZS0tPiA8YSBocmVmPSJodHRwOi8vdHViZXBob3Rvcy5jb20vTXMwQ2VXNVpvdmxGIj4gPCEtLSBJ
+TVBPUlRBTlQ6IFlPVSBNVVNUIGRpcmVjdCBsaW5rIHRoZSBpbWFnZXMgdG8gdGhlIHJlbW90ZSBz
+ZXJ2ZXIgaG9zdCBPUiBlbWJlZCBpbWFnZSBmaWxlcyBhdHRhY2hlZCBpbiBlbWFpbCAtLT4gPGlt
+ZyB0aXRsZT0iT3B0aW1hIFRheC4gU29sdmUgWW91ciBJUlMgVGF4IERlYnQgUHJvYmxlbXMuIEdl
+dCBIZWxwIE5vdyEiIHNyYz0iaHR0cDovL3R1YmVwaG90b3MuY29tL2ltYWdlcy9iODYwMWM5YjJh
+ZjdiMjhkY2M1YWM4NjU0MzAwNzY0YSIgYWx0PSJPcHRpbWEgVGF4LiBTb2x2ZSBZb3VyIElSUyBU
+YXggRGVidCBQcm9ibGVtcy4gR2V0IEhlbHAgTm93ISIgYm9yZGVyPSIwIiAvPjwvYT48L3RkPgo8
+L3RyPgo8dHI+Cjx0ZCBzdHlsZT0icGFkZGluZzogMHB4OyI+CjxwPjxpbWcgc3JjPSJodHRwOi8v
+dHViZXBob3Rvcy5jb20vaW1hZ2VzLzNhZWFlMWE1ZDU3M2U5Mjk1MDRkZTVjZDZhMGU4ZjdlIiBh
+bHQ9IiIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyNCIgLz48L3A+CjxwPjxpbWcgc3JjPSJodHRwOi8v
+dHViZXBob3Rvcy5jb20vaW1hZ2VzL2E2YWU1MWRiYWE1ZjU2NWI1ZTBiMWU3YWRjYzNhZmVkIiAv
+PjxhIGhyZWY9Imh0dHA6Ly90dWJlcGhvdG9zLmNvbS9LdTJFZ1k3YnF4bkwiPjxpbWcgc3JjPSJo
+dHRwOi8vdHViZXBob3Rvcy5jb20vaW1hZ2VzLzgwMTBjZTUyMmUzZjA4OGI2NTY3NDdmY2IwOTg1
+MzVkIiAvPjwvYT48YnIgLz48aW1nIHNyYz0iaHR0cDovL3R1YmVwaG90b3MuY29tL2ltYWdlcy83
+OWY4ZGUwYTQ5ZmJlMDUwMWQ3Y2NkNzQ3NjMwOWExYyIgLz48L3A+CjwvdGQ+CjwvdHI+CjwvdGJv
+ZHk+CjwvdGFibGU+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+Cjxw
+PiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cCBzdHlsZT0idGV4dC1hbGlnbjogcmlnaHQ7Ij48
+YSBocmVmPSJodHRwOi8vdHViZXBob3Rvcy5jb20vQTRBT3FpRmwwN3haIj4mbmJzcDs8L2E+PC9w
+Pg==
+
+---_-_-32363864__f999a0b10ad3bf5ff842_-_---

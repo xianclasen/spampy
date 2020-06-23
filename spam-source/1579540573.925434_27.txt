@@ -1,0 +1,90 @@
+Return-Path: <SRS0=PLF5fn=3J=mail.mydays.us=6728-9790-262549-1754-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24664 invoked from network); 20 Jan 2020 17:07:05 -0000
+Received: (qmail 10958 invoked from network); 20 Jan 2020 17:07:04 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Jan 2020 17:07:04 -0000
+Received: (qmail 16140 invoked by uid 48516); 20 Jan 2020 17:07:04 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 14376 invoked from network); 20 Jan 2020 17:07:04 -0000
+Received: from denver.mydays.us (client-192-236-146-116.hostwindsdns.com [192.236.146.116])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 20 Jan 2020 17:07:03 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mydays.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Advanceservices@mydays.us;
+ bh=4ipVeLc91GXEMjwl7+XVXRwpXhU=;
+ b=O8WpDEdT3Dc1aCRicv3mTsJOjmnTsS17AOpiN1/33rqIWGk8kak1Y3hnl89mUEmt7FEnqvZGNszG
+   Ay2tZrNiNEYMWF6OZU5fd57OKWnV56loXQwjnpkHA4IN7Yj6emz6wcz14ER6kAQCWw4CpDClYfmK
+   jEG+8eAFfgT54rVWDmI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mydays.us;
+ b=CbwRKGFMfiwraPG8iuemRoY3X8NkZ8qG8arze/6DrdRI5zjF2CS3akw+3JMu+f2AD+CfENG3nMEM
+   DyhZt/3euifXD9sQj+E8oVpTdNqLFPrYEQpNMUQky75jg1+AvB6W1T1U/YSe5x0PQA7pAr4vv1x/
+   jpzZTJyPqU839RFZjXM=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="39b997e2b348d8b7ce3c89ab58d916dc_263e_40195"
+Date: Mon, 20 Jan 2020 12:07:00 -0500
+From: "Financialhelp" <Advanceservices@mydays.us>
+Reply-To: "Advanceservices" <Fundsupdate@mydays.us>
+Subject: Short-term financial bind
+To: <bruce@untroubled.org>
+Message-ID: <u377h1yrp9c0lj9i-5oaz39w8cd1tdph1-263e-40195@mydays.us>
+Content-Length: 2172
+
+--39b997e2b348d8b7ce3c89ab58d916dc_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Short-term financial bind
+
+http://mydays.us/GHq2YxBsaT7G0xvy83nAU4J76NYctbP9zUMAysIELt0zurF6
+
+http://mydays.us/W54muWiJuxAqCmpScUPEy9M9WxTwFghdYnGdVe3GXksq60W_
+
+--39b997e2b348d8b7ce3c89ab58d916dc_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://mydays.us/KsXAfyh2spOjRts6DqpHKdEVZ4xRr6ZhQd28PH72TeZxwN6Q"><img src="http://mydays.us/9d865cd768d830c02b.jpg" /><img height="1" src="http://www.mydays.us/ulWl_6gLhcf5zc2KWUeroA2TQ8UGV_E9ovRA11BSoItsrimS" width="1" /></a>
+<center>
+<div style="font-family:arial; max-width:500px; text-align:left; padding:50px;"><br />
+<br />
+<a href="http://mydays.us/GHq2YxBsaT7G0xvy83nAU4J76NYctbP9zUMAysIELt0zurF6" style="color:#FF0000;font-size:25px;"><b>Payday SOS Lender Connection Service</b></a>
+<p>Personal-loan lenders can help you get-out of a short-term financial bind. Thousands of Americans across<br />
+the country use personal-loans to help them pay for emergency expenses like medical expenses, mechanic<br />
+fees, and bills. When searching for a small-loan you may see services like:</p>
+
+<ul>
+	<li>Personal LoanCash</li>
+	<li>Advance-Loan</li>
+	<li>Installment-Loan</li>
+	<li>Emergency-Loan</li>
+</ul>
+These short-term-loans are popular because they offer a convenient way to gain quick access-to-cash.<br />
+These types-of-loans can prevent you from paying late fees, overdraft charges, or other penalties.<br />
+&nbsp;
+<center>
+<div style="padding:15px;background-color:#FF51FF;color:black;width:200px;font-weight:bold; border-radius:10px;color:#004000;font-family:Arial;font-size:20px;"><a href="http://mydays.us/GHq2YxBsaT7G0xvy83nAU4J76NYctbP9zUMAysIELt0zurF6">Get Your Credit</a></div>
+</center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://mydays.us/l1rIsXzPuL55d2RMTW-Q2wDyEaJggThOzTlHtlu3S4Rn-M0A" target="_blank"><img src="http://mydays.us/943fe69dba119bbc62.jpg" /></a></center>
+</div>
+</center>
+</body>
+</html>
+
+--39b997e2b348d8b7ce3c89ab58d916dc_263e_40195--

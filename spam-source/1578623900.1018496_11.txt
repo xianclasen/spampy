@@ -1,0 +1,100 @@
+Return-Path: <SRS0=W3EysI=26=ypreev.buzz=fungusremoving.spice-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 10227 invoked from network); 9 Jan 2020 19:42:21 -0000
+Received: (qmail 1273 invoked from network); 9 Jan 2020 19:42:20 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Jan 2020 19:42:20 -0000
+Received: (qmail 22126 invoked by uid 48516); 9 Jan 2020 19:42:17 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10629 invoked from network); 9 Jan 2020 19:42:16 -0000
+Received: from mail.ypreev.buzz (208-187-163-60.nca.datanoc.com [208.187.163.60])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 09 Jan 2020 19:42:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ypreev.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fungusremoving.spice@ypreev.buzz;
+ bh=kX5HrR//aiVmAWvqrnLFGLKqUmI=;
+ b=pCDlM4xaN7ZD5bFVH/QxfJVQtLhIq9YQJf1gBMiT7cU0OnsZQI3qSezMZQOlqOl8bdyGPhTgcrGg
+   HhP6DjVp/wSgC3YGqDhtvbE2TjuQGr5rqjCNGpgqV5cOT2khh5/GhhtzhlM+W0pVSEoKZ8uAtOGY
+   Af9hT6BnGo8iVIgdROk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=ypreev.buzz;
+ b=PivCMhlIpLgTNenZyPJu2482fu96dErRUQD6IDJQvByfud1t1BnsFpx3b9upNmHErviyDQLKGYMv
+   5s8KlcPDVtZkW9THtQ2Q1b50XB3awoDzDCOMB9ngwfbGi8prIBbxPMyC+u0NQLbE3Yp576kQs8dr
+   X+1ABDnsNvzhdar1B1I=;
+Received: by mail.ypreev.buzz id h2u11g0001gc for <bruce@untroubled.org>; Thu, 9 Jan 2020 14:34:25 -0500 (envelope-from <fungusremoving.spice-bruce=untroubled.org@ypreev.buzz>)
+Date: Thu, 9 Jan 2020 14:34:25 -0500
+From: "FungusRemoving Spice" <fungusremoving.spice@ypreev.buzz>
+To:   <bruce@untroubled.org>
+Subject: The Pharma Industry Hates This Simple Fungus-Killing Trick
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_88_116115464.1578598442073"
+List-Unsubscribe: <http://www.ypreev.buzz/unlucky-immortal/ef44z2395dJW8912X11P_jA19ffx21CFv4GIf4rxvs4FhIHEsvZ10mQPRQRRoF97Rk10wgy5aAHqi>
+Message-ID: <0.0.0.9.1D5C723CD244570.15461@mail.ypreev.buzz>
+Content-Length: 6946
+
+------=_Part_88_116115464.1578598442073
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>responded</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.ypreev.buzz/enforcer-similarity/6de4c2395et86V11Q7172j19ffA21VFv4GIf4rxvs4FhIHEsvZ10fQPRQRRoF95z1OW05cJH1i">Fast and easy way Stop to foot fungus&nbsp; </a></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: 2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; height: 530px; "> 
+    <tbody> 
+     <tr> 
+      <td> 
+       <table border="1" cellpadding="0" cellspacing="0" style="font-family: &quot; Sans Serif&quot; , serif; font-size: 17px; height: 548px; " width="590"> 
+        <tbody> 
+         <tr> 
+          <td> 
+           <table border="0" cellpadding="5" cellspacing="5" style="height: 526px; " width="586"> 
+            <tbody> 
+             <tr> 
+              <td> 
+               <div style="font-family: &quot; Sans Serif&quot; ; font-size: 16px; "> 
+                <div style="color: rgb(0, 0, 0); line-height: normal; font-family: &quot; Sans Serif&quot; ; font-size: 12px; "> 
+                 <h1 style="margin: 20px 6px; color: rgb(34, 34, 34); line-height: 40px; font-family: &quot; Sans Serif&quot; ; font-size: 36px; box-sizing: border-box; text-align: center; "><span style="font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(0, 0, 0); "><strong>This Man Cured His Nail Fungus This Simple Trick (Watch Here)</strong></span></span></h1> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><a href="http://www.ypreev.buzz/enforcer-similarity/6de4c2395et86V11Q7172j19ffA21VFv4GIf4rxvs4FhIHEsvZ10fQPRQRRoF95z1OW05cJH1i"><img alt="stag" src="http://www.ypreev.buzz/corrosive-subtlety/2c45I239m5N7aDi13E717D5xC19ffA21RFv4GIf4rxvs4FhIHEsvZ10eQPRQRRoF97Ap1X0Vr6lyHl1i" style="width: 493px; height: 288px; " /></a></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(14, 14, 184); "><span style="font-size: 34px; font-family: &quot; Sans Serif&quot; ; "><strong><a href="http://www.ypreev.buzz/enforcer-similarity/6de4c2395et86V11Q7172j19ffA21VFv4GIf4rxvs4FhIHEsvZ10fQPRQRRoF95z1OW05cJH1i" style="color: rgb(14, 14, 184); ">{Watch Now}</a></strong></span></span></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                </div> 
+               </div> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; Leave<a href="http://www.ypreev.buzz/Schantz-cryptanalytic/6a26WK239x5s8QB611j7173R19ffy21WFv4GIf4rxvs4FhIHEsvZ10HQPRQRRoF95L1HX06JUkHiL"><font color="#666666">&nbsp; Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font>
+    <br /> 
+    <br /> Remove
+    <a href="http://www.ypreev.buzz/ef34p2395q89ri11v7174r19ffW21UFv4GIf4rxvs4FhIHEsvZ10EQPRQRRoF97RUH1p0J5LMHiz/lordly-Rockville">&nbsp; email Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+    <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 80918</span>
+    <br /> &nbsp; 
+   </div> <style id="mainframe"><big><style lang="statues"></style><style><font></font></style><span></style></big><span size="cube"></span><span style="entertainer"></span></span>
+  </center>   
+ <img src="http://www.ypreev.buzz/incendiary-soprano/c9c4q2395W85gY12I7176JU19ffQ21bFv4GIf4rxvs4FhIHEsvZ10oQPRQRRoF97cnYs1v05QWPHi" alt=""/></body>
+</html>
+
+------=_Part_88_116115464.1578598442073--
+

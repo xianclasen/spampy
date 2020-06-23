@@ -1,0 +1,53 @@
+Return-Path: <dealsatbuzzlycom-bruce=untroubled.org@wikiforja.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12957 invoked from network); 28 Jan 2020 14:47:35 -0000
+Received: (qmail 41142 invoked by uid 222); 28 Jan 2020 14:47:35 -0000
+Return-Path: <dealsatbuzzlycom-bruce=untroubled.org@wikiforja.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 41139 invoked from network); 28 Jan 2020 14:47:34 -0000
+Received: from gutkowskisipes.wikiforja.com (gutkowskisipes.wikiforja.com [104.168.243.153])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 28 Jan 2020 14:47:34 -0000
+Received: by altenwerth.wikiforja.com id h614oe0001gl for <bruce@untroubled.org>; Tue, 28 Jan 2020 14:11:58 +0000 (envelope-from <dealsatbuzzlycom-bruce=untroubled.org@wikiforja.com>)
+Date: Tue, 28 Jan 2020 14:11:58 +0000
+From: deals at buzzly.com <dealsatbuzzlycom@wikiforja.com>
+Reply-To: dealsatbuzzlycom@wikiforja.com
+To: bruce@untroubled.org
+Message-Id: <3a0f8cae-4c74-4fbd-afc2-7792a434d461@wikiforja.com>
+Subject: =?utf-8?B?R2V0IHRoZSBob3R0ZXN0IGdhZGdldHMgb2YgMjAyMCB0b2RheSE=?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-c4df94cb8bf0abc4079e9a__ec82efadc940_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 1333
+
+---_-_-c4df94cb8bf0abc4079e9a__ec82efadc940_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-c4df94cb8bf0abc4079e9a__ec82efadc940_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBjbGFzcz0id3JhcHBlciIgYWxpZ249ImNlbnRlciI+CjxkaXYgY2xhc3M9ImltYWdlIiBz
+dHlsZT0idGV4dC1hbGlnbjogcmlnaHQ7Ij48YSBocmVmPSJodHRwOi8vd2lraWZvcmphLmNvbS9x
+RF84aFZmdi1GRnIiPiZuYnNwOzwvYT48L2Rpdj4KPGRpdiBjbGFzcz0iaW1hZ2UiPjxhIGhyZWY9
+Imh0dHA6Ly93aWtpZm9yamEuY29tL1NuamdGNURUaW9JaiI+PGltZyBzcmM9Imh0dHA6Ly93aWtp
+Zm9yamEuY29tL2ltYWdlcy83MjY1NmQxZjA5MTQ5MjQyZTc3ZWM0MmViMGYxMzY0MyIgYWx0PSIm
+bGRxdW87YnV6enpseS5jb20mbGRxdW87IiAvPjwvYT48L2Rpdj4KPGRpdiBjbGFzcz0idGV4dCI+
+PGEgaHJlZj0iaHR0cDovL3dpa2lmb3JqYS5jb20vU25qZ0Y1RFRpb0lqIj5DbGljayBIZXJlIHRv
+IExlYXJuIE1vcmU8L2E+PC9kaXY+CjxiciAvPgo8ZGl2IGNsYXNzPSImbGRxdW87dGV4dCZyZHF1
+bzsiPlRoaXMgSXMgQW4gQWR2ZXJ0aXNlbWVudC48L2Rpdj4KPGRpdiBjbGFzcz0iQ29udGFjdF9p
+bmZvIj5idXp6emx5LmNvbSAyNjMwIFRvd25zZ2F0ZSBSZCwgU3VpdGUgSSwgV2VzdGxha2UgVmls
+bGFnZSwgQ0EgOTEzNjE8L2Rpdj4KPGRpdiBjbGFzcz0iVW5zdWIiPjxhIGhyZWY9Imh0dHA6Ly93
+aWtpZm9yamEuY29tL1RtaWZFNENTaG9oNiI+Jm5ic3A7PC9hPjxhIGhyZWY9Imh0dHA6Ly93aWtp
+Zm9yamEuY29tL2FUUE14bHZfT1UwVCI+VW5zdWJzY3JpYmU8L2E+PC9kaXY+CjwvZGl2Pg==
+
+---_-_-c4df94cb8bf0abc4079e9a__ec82efadc940_-_---

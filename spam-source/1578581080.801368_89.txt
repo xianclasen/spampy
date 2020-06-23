@@ -1,0 +1,241 @@
+Return-Path: <SRS0=0jwJ0/=26=mail.sqriblteds.us=6114-9790-262549-1642-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24549 invoked from network); 9 Jan 2020 14:38:35 -0000
+Received: (qmail 31800 invoked from network); 9 Jan 2020 14:38:34 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Jan 2020 14:38:34 -0000
+Received: (qmail 28122 invoked by uid 48516); 9 Jan 2020 14:38:34 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 18818 invoked from network); 9 Jan 2020 14:38:34 -0000
+Received: from maria.sqriblteds.us (client-192-236-154-90.hostwindsdns.com [192.236.154.90])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 09 Jan 2020 14:38:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=sqriblteds.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=TedsPlans@sqriblteds.us;
+ bh=ps+xikA/JxTqfHIJjOm3nybMWCo=;
+ b=I3SW3b4SiNdD+S76hthcMQIhVjVsVjIFfo99CD1ixY9hy6axqkWvma870JcYtoD8l9ojVewyOUW0
+   AfVapc6ghQ58CdVS0EZxBnbJi7SUreQfJd9AXa/pgTZxpOLTyoAF7MGjC4AjQ66TpDh2asRobn4z
+   6raoAkxLPPh1zGqOEtw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=sqriblteds.us;
+ b=MLvJNBnDoCtyfnjpw8kP45u2XXzR06qIONv7MHUWh3qiTzr2c/SruJXcfKhQxfu/1GDbQLpHKp6d
+   zWbh5qGVFrDMy8tET6IpHkmex8I1l2CaKPeaHPH8883OHvpDrzRZbK5jqud/VKymqBAcvPvMHyX3
+   L2+aZBGDxRkA+bi7leY=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="6ffa8fcb0c10045ca94a0eb2c8b6756e_263e_40195"
+Date: Thu, 9 Jan 2020 09:38:29 -0500
+From: "TedsPlans" <TedsPlans@sqriblteds.us>
+Reply-To: "TedsPlans" <TedsPlans@sqriblteds.us>
+Subject: The best woodworking projects!	
+To: <bruce@untroubled.org>
+Message-ID: <n2vivvftbvef4ct0-g8w9ed1aecu0qpxa-263e-40195@sqriblteds.us>
+Content-Length: 13372
+
+--6ffa8fcb0c10045ca94a0eb2c8b6756e_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+The best woodworking projects!	
+
+http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl
+
+http://sqriblteds.us/s-04tUTyeXNwnN5MHYwxmAVoXQwOMdg43KRXVg7JvTJE-Av_
+
+Tamraj Kilvish is Shaktimaan's archenemy. Tamraj means King of Darkness (tama = darkness, raj = king). He has lived 6000 years and is the source of evil in the world. He intends to rule the world by spreading darkness, hatred, sin and evil. It is said that the source of his strength is one-half of the "Shakti Punj" (the half which is referred to as "shaktiman") which he managed to retain after he originally obtained the entire Shakti Punj by deceit from Shri Satya (Satya means truth), the founder of the Suryavanshi. However, it is also mentioned that the source of his strength is the evil that is committed by people in this world.
+
+It was later revealed that only Shri Satya can kill Tamraj Kilvish. After a death-defying adventure, Shaktimaan was told that he is the rebirth of Shri Satya. Shri Satya had given the exact time of the child's birth and the place before he died about 6000 years ago. Tamraj also knows this and this is the main reason he is frightened by the appearance of Shaktimaan as he knows that only Shaktimaan can kill Tamraj. He murdered Shaktimaan's parents and his adoptive father, Pandit Vidyadhar Shastri. He and his minions plot to kill him but always fail. His minions include Electric-man (who can shoot lightning bolts from his body), Stone-man (who can shoot stones from his body), Plastica (who can stretch any part of her body), Dr. Jackal (an evil scientist) and others. Dr. Jackal has helped Kilvish in his various schemes by cloning Shaktimaan and also by turning aliens against him.
+
+In the television series, Kilvish is often treated as the personification of darkness itself even though he was once a human being who later becomes very powerful and commits many evil deeds. In an attempt to become immortal, he left his mortal body and took an ethereal body which can't be killed but Shaktimaan is told that he has to kill all the evil in the world to destroy Tamraj's ethereal body. Kilvish's trademark quote is "Andhera Kaayam Rahe" (May Darkness Prevail), which is also used by his followers.
+
+Kilvish's character evolves as the series progresses. In the beginning episodes of Shaktimaan, his face is never shown and his voice is different from the voice that he uses in the later episodes of Shaktimaan, in which his role is played by Surendra Pal. Later his face deforms to become a distorted wolf-like face.
+
+Dr. Jackal
+
+Dr. Jackal is an evil scientist who works for Kilvish. His earlier intention was not that of becoming evil, but when he was denied scholarship for research, Kilvish provided him with funds and labs, thus making him a supporter of Kilvish & an evil scientist. Though he is overall a brilliant scientist, his specialisation is cloning and various energy rays. His creations against Shaktimaan include Kekda Man (a clone formed by fusing cells of Crab & human), followed by Jonk Jonkaa (a clone using leech), an evil clone of Shaktimaan, Plastica, Lightman, 3D image, Super-heroine Sunanda and others. He also invented a height control solution and fictional EC- rays
+
+--6ffa8fcb0c10045ca94a0eb2c8b6756e_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://sqriblteds.us/FJpJrzVhtuwaIsieWSK8YFzoy7vrDN_6mf_WSj15LTPLzpJ1"><img src="http://sqriblteds.us/1aa0b21c0e8ee7ed45.jpg" /><img height="1" src="http://www.sqriblteds.us/POfLfy0oxTvJLpBCfLiBHez1_E9cCm_e6A6vFR3DttXrz4fm" width="1" /></a>
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align:center; vertical-align:bottom"><a href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl">If you are having trouble viewing this email, please click here to open this in your web browser..</a></td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<a href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl"><img alt="  " src="http://sqriblteds.us/d6df25b02c4cb5c72b.GIF" style="width:600px;" /></a>
+
+<table align="center" cellpadding="0" cellspacing="0" style="height:100%; width:100%">
+	<tbody>
+		<tr>
+			<td>
+			<table cellpadding="0" cellspacing="0" style="width:100%">
+				<tbody>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>
+						<table cellpadding="0" cellspacing="0" class="w320" style="width:600px">
+							<tbody>
+								<tr>
+									<td>
+									<h1>The Easiet Way to Start Your Woodworking Project</h1>
+
+									<h1><span style="color:#A52A2A">Annuouncing</span>: The World&#39;s Largest Collection Of Woodworking Plans</h1>
+									<u><a class="inf-track-2693" href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl"><span style="color:#FF0000"><span style="font-size:18px">Check out the plan&#39;s here</span></span></a></u>
+
+									<p>&nbsp;</p>
+
+									<p>&nbsp;</p>
+
+									<p>If you&#39;re just starting out or you&#39;re a seasoned carpenter, you&#39;ll find out just how simple it is to <strong>build projects using Teds Woodworking step-by-step plans.</strong></p>
+
+									<p>With <strong>over 16,000 plans</strong> , it covers a ton of projects. Check it out and see why I endorse it so much.</p>
+
+									<p>You&#39;ll love it.</p>
+
+									<p>So hurry...before this offer ends</p>
+
+									<table cellpadding="0" cellspacing="0" style="width:100%">
+										<tbody>
+											<tr>
+												<td style="width:130px">
+												<div>
+												<table cellpadding="0" cellspacing="0" style="width:100%">
+													<tbody>
+														<tr>
+															<td style="background-color:#D84A38; text-align:center; width:130px"><a class="inf-track-2695" href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl" style="color:#ffffff; text-decoration:none">Learn More</a></td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												</td>
+												<td style="background-color:#ffffff">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<td style="vertical-align:bottom">
+									<p style="text-align:right">Brought to you by...<img alt="" src="http://sqriblteds.us/5474f7fa6c9a3f7194.png" style="height:60px; width:200px" /></p>
+
+									<table cellpadding="0" cellspacing="0" style="width:100%">
+										<tbody>
+											<tr>
+												<td style="vertical-align:bottom"><br />
+												<a class="inf-track-2697" href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl"><img alt="Drop Sizes" src="http://sqriblteds.us/6d7ad983732e2280a7.jpg" style="display:block; height:348px; width:250px" /></a>
+
+												<hr />
+												<table align="center" border="0" cellpadding="1" cellspacing="1">
+													<tbody>
+														<tr>
+															<td>
+															<p><a class="inf-track-2699" href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl">*Furniture Plans</a></p>
+
+															<p><a class="inf-track-2701" href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl">*Bed Plans</a></p>
+
+															<p><a class="inf-track-2703" href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl">*Table Plans</a></p>
+															</td>
+															<td>
+															<p><a class="inf-track-2705" href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl">*Chair Plans</a></p>
+
+															<p><a class="inf-track-2707" href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl">*Children&#39;s Plans</a></p>
+
+															<p><a class="inf-track-2709" href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl">*Shed Plans</a></p>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:#f8f8f8">
+						<table border="0" cellpadding="0" cellspacing="0" class="w320" style="height:100%; width:600px">
+							<tbody>
+								<tr>
+									<td>
+									<h2><a class="inf-track-2711" href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl" style="text-decoration:none"><span style="color:#000000">Get_over_50%_off if you <u>sign up now!</u></span></a></h2>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:#1f1f1f">
+						<table border="0" cellpadding="0" cellspacing="0" class="w320" style="color:#ffffff; height:100%; width:600px">
+							<tbody>
+								<tr>
+									<td style="background-color:#1f1f1f; text-align:left"><strong><span style="font-size:24px"><span style="background-color:rgb(31, 31, 31); font-family:open sans,helvetica neue,arial,sans-serif"><a href="http://sqriblteds.us/Z5ap9yzorcynRA4oaT_3LCS1JAmSpOtnLy33KqxHPOMeqTVl"><span style="color:rgb(255, 165, 0)">To Learn More</span></a></span><span style="color:rgb(255, 165, 0)"> </span></span></strong></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" style="width:700px">
+	<tbody>
+		<tr>
+			<td>
+			<table style="width:100%">
+				<tbody>
+					<tr>
+						<td style="text-align:center; vertical-align:bottom">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<div style="width:700px;direction:ltr;table-layout:auto;text-align:left;">&nbsp;</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table style="width:100%">
+				<tbody>
+					<tr>
+						<td>
+						<hr /><br />
+						<span style="color:black"><a href="http://sqriblteds.us/2p6oc51EZSkUBJVceoYbptLNkjmZreS5pB6VGf3Nt6S16D0"><img src="http://sqriblteds.us/33adaf5bdec03d823a.jpg" /></a></span><br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<span style="color:#FFFFFF">Tamraj Kilvish is Shaktimaan&#39;s archenemy. Tamraj means King of Darkness (tama = darkness, raj = king). He has lived 6000 years and is the source of evil in the world. He intends to rule the world by spreading darkness, hatred, sin and evil. It is said that the source of his strength is one-half of the &quot;Shakti Punj&quot; (the half which is referred to as &quot;shaktiman&quot;) which he managed to retain after he originally obtained the entire Shakti Punj by deceit from Shri Satya (Satya means truth), the founder of the Suryavanshi. However, it is also mentioned that the source of his strength is the evil that is committed by people in this world. It was later revealed that only Shri Satya can kill Tamraj Kilvish. After a death-defying adventure, Shaktimaan was told that he is the rebirth of Shri Satya. Shri Satya had given the exact time of the child&#39;s birth and the place before he died about 6000 years ago. Tamraj also knows this and this is the main reason he is frightened by the appearance of Shaktimaan as he knows that only Shaktimaan can kill Tamraj. He murdered Shaktimaan&#39;s parents and his adoptive father, Pandit Vidyadhar Shastri. He and his minions plot to kill him but always fail. His minions include Electric-man (who can shoot lightning bolts from his body), Stone-man (who can shoot stones from his body), Plastica (who can stretch any part of her body), Dr. Jackal (an evil scientist) and others. Dr. Jackal has helped Kilvish in his various schemes by cloning Shaktimaan and also by turning aliens against him. In the television series, Kilvish is often treated as the personification of darkness itself even though he was once a human being who later becomes very powerful and commits many evil deeds. In an attempt to become immortal, he left his mortal body and took an ethereal body which can&#39;t be killed but Shaktimaan is told that he has to kill all the evil in the world to destroy Tamraj&#39;s ethereal body. Kilvish&#39;s trademark quote is &quot;Andhera Kaayam Rahe&quot; (May Darkness Prevail), which is also used by his followers. Kilvish&#39;s character evolves as the series progresses. In the beginning episodes of Shaktimaan, his face is never shown and his voice is different from the voice that he uses in the later episodes of Shaktimaan, in which his role is played by Surendra Pal. Later his face deforms to become a distorted wolf-like face. Dr. Jackal Dr. Jackal is an evil scientist who works for Kilvish. His earlier intention was not that of becoming evil, but when he was denied scholarship for research, Kilvish provided him with funds and labs, thus making him a supporter of Kilvish &amp; an evil scientist. Though he is overall a brilliant scientist, his specialisation is cloning and various energy rays. His creations against Shaktimaan include Kekda Man (a clone formed by fusing cells of Crab &amp; human), followed by Jonk Jonkaa (a clone using leech), an evil clone of Shaktimaan, Plastica, Lightman, 3D image, Super-heroine Sunanda and others. He also invented a height control solution and fictional EC- rays</span></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>

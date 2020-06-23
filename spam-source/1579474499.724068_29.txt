@@ -1,0 +1,72 @@
+Return-Path: <CoffeeCouponsforYou-bruce=untroubled.org@macar.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 9124 invoked from network); 19 Jan 2020 15:47:00 -0000
+Received: (qmail 24973 invoked from network); 19 Jan 2020 15:47:00 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Jan 2020 15:47:00 -0000
+Received: (qmail 4754 invoked by uid 48516); 19 Jan 2020 15:46:59 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15845 invoked from network); 19 Jan 2020 15:46:59 -0000
+Received: from witting.macar.org (witting.macar.org [142.11.239.63])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 19 Jan 2020 15:46:59 -0000
+Received: by ratkemarvin.macar.org id h4hsv60001gg for <bruce@untroubled.org>; Sun, 19 Jan 2020 15:31:58 +0000 (envelope-from <CoffeeCouponsforYou-bruce=untroubled.org@macar.org>)
+Date: Sun, 19 Jan 2020 15:31:58 +0000
+From: Coffee Coupons for You! <CoffeeCouponsforYou@macar.org>
+Reply-To: CoffeeCouponsforYou@macar.org
+To: bruce@untroubled.org
+Message-Id: <68c68fe6-c1d0-4f59-be92-48a9887de009@macar.org>
+Subject: =?utf-8?B?RGVhbHMgb24geW91ciBEYWlseSBKYXZhIQ==?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-c6d53cfcdd35__8a9bada3c6_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 2517
+
+---_-_-c6d53cfcdd35__8a9bada3c6_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-c6d53cfcdd35__8a9bada3c6_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHA+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTRwdDsiPkNvZmZlZSB0aW1lISBZb3VyIGRheSBz
+dGFydHMgYWZ0ZXIgY29mZmVlITwvc3Bhbj48YnIgLz48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAx
+NHB0OyI+VGFrZSBhIGJyZWFrLiBFbmpveSBhIGN1cC48L3NwYW4+PGJyIC8+PHNwYW4gc3R5bGU9
+ImZvbnQtc2l6ZTogMTRwdDsiPkFsd2F5cyBob3QsIGFsd2F5cyBmcmVzaCEgR2V0IGl0IHdpdGgg
+YSBkaXNjb3VudC48L3NwYW4+PGJyIC8+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTRwdDsiPjxz
+dHJvbmc+PGEgaHJlZj0iaHR0cDovL21hY2FyLm9yZy9lT3hPWnJiN0tSTjMiPiZuYnNwOzwvYT48
+YSBocmVmPSJodHRwOi8vbWFjYXIub3JnL0Z6V3otUUFndjJ6ZyI+QnJvd3NlIENvZmZlZSBDb3Vw
+b25zIG5vdyE8L2E+PC9zdHJvbmc+PC9zcGFuPjxiciAvPjxiciAvPjwvcD4KPHA+Jm5ic3A7PC9w
+Pgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+
+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4K
+PHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8
+cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+Cjxw
+PiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+
+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4m
+bmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxkaXYg
+Y2xhc3M9ImFsZXJ0IGFsZXJ0LWRpc21pc3NhYmxlIGFsZXJ0LXN1Y2Nlc3MiIHN0eWxlPSJ0ZXh0
+LWFsaWduOiByaWdodDsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsiPlRoaXMgaXMgYW4g
+YWR2ZXJ0aXNlbWVudC48L3NwYW4+PC9kaXY+CjxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LWRpc21p
+c3NhYmxlIGFsZXJ0LXN1Y2Nlc3MiIHN0eWxlPSJ0ZXh0LWFsaWduOiByaWdodDsiPjxzcGFuIHN0
+eWxlPSJmb250LXNpemU6IDlwdDsiPklmIHlvdSB3YW50IHRvIHVuc3Vic2NyaWJlLCBwbGVhc2Ug
+Y2xpY2smbmJzcDs8YSBocmVmPSJodHRwOi8vbWFjYXIub3JnL01zUHMzSjVab3ZuTiI+Jm5ic3A7
+PC9hPjxhIGhyZWY9Imh0dHA6Ly9tYWNhci5vcmcvN1g2WGkwa0VUYVhJIiB0YXJnZXQ9Il9ibGFu
+ayIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIj5oZXJlLjwvYT48L3NwYW4+PC9kaXY+CjxkaXYg
+Y2xhc3M9ImFsZXJ0IGFsZXJ0LWRpc21pc3NhYmxlIGFsZXJ0LXN1Y2Nlc3MiIHN0eWxlPSJ0ZXh0
+LWFsaWduOiByaWdodDsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsiPm9yIHdyaXRlIGEg
+bGV0dGVyIHRvOjwvc3Bhbj48L2Rpdj4KPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtZGlzbWlzc2Fi
+bGUgYWxlcnQtc3VjY2VzcyI+CjxoMyBpZD0ibWNldG9jXzFjc3F0dnVodjAiIHN0eWxlPSJ0ZXh0
+LWFsaWduOiByaWdodDsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPjEzMjEgVXBsYW5k
+IERyIDQzOTkgSG91c3RvbiwgVFggNzcwNDM8L3NwYW4+PC9oMz4KPC9kaXY+
+
+---_-_-c6d53cfcdd35__8a9bada3c6_-_---

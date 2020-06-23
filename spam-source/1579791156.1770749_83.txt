@@ -1,0 +1,280 @@
+Return-Path: <SRS0=Cag8SV=3M=lovestop.icu=trolley@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21924 invoked from network); 23 Jan 2020 03:15:36 -0000
+Received: (qmail 32506 invoked from network); 23 Jan 2020 03:15:35 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Jan 2020 03:15:35 -0000
+Received: (qmail 28364 invoked by uid 48516); 23 Jan 2020 03:15:34 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 30749 invoked from network); 23 Jan 2020 03:15:34 -0000
+Received: from lovestop.icu ([80.253.246.234])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 23 Jan 2020 03:15:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=lovestop.icu;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=trolley@lovestop.icu;
+ bh=HxIAFjgHIj1ii04IWjACamF0YfY=;
+ b=f3/s98aJnpWkXlQMa7os8v4pAgAHd8KJ4AcDnyKUacnK8UkdcgeTilRwVs0XRlMPu6HDVHYGMrPn
+   E2yfy3yejiBKAUoGehaA+lApjyySUaSSoGKvP15p0xI5DDBlh5P8WvZi0+RpGF22BnIzOr/RegQu
+   CuTIWCVACPruu7dc3xc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=lovestop.icu;
+ b=GfCB2/bGlENRru820wTJo17F3DJB5E2nxa0hEpVhuWein2STs+9d73NZA7p5yuoaGN9TA3RzqwQt
+   0suC96TOwyTG9MBoo5z7BWhVJvehl8/IgpPXn4h8DGFZddvQv6FXrLNaxqg1wzbNxuo+NrWC+w3L
+   SMrfrKaLQpqCvSjxdos=;
+From: " Sara Long" <trolley@lovestop.icu>
+Date: Wed, 22 Jan 2020 22:00:33 -0500
+MIME-Version: 1.0
+Subject: Greek Ritual REVERSES Diabetes (do this before bed)
+To: <bruce@untroubled.org>
+Message-ID: <3xMU-7HctcGg_PyOJUEMVNvWwWITWbdowD_pJs3G0Os.Mwranioe-KfL1KpwF6o4GNybY5HPL8K5ysPrHWye16k@lovestop.icu>
+Content-Type: multipart/alternative;
+ boundary="------------124781090726970549701299"
+Content-Length: 11073
+
+This is a multi-part message in MIME format.
+--------------124781090726970549701299
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6>
+
+
+A breakthrough study has shown that this ""odd&quot; vegetable
+<http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6> reverses diabetes at the source.
+
+
+
+It's 475% more powerful than exercise...
+
+
+
+552% more effective than any diet...
+
+
+
+and 820% more powerful than any medication!
+
+
+
+Can you guess which one it is? (Click the link to find out)
+
+
+
+a) Horned Melon
+<http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6>
+
+
+
+b) Kohlrabi
+<http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6>
+
+
+
+c) Jicama
+<http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6>
+
+
+
+Enjoy!
+
+
+
+PS. The $370 billion dollar diabetes industry do not want you to see this video
+<http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6> and discover the amazing diabetes-reversing vegetable. Watch it now before it&#39;s too late.
+
+
+
+
+<http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6>
+Halki Diabetes Remedy
+
+
+
+
+
+
+
+
+
+Simple and easy way to leave us > Click here
+<http://www.lovestop.icu/fivgcvamul/6LhOW4u-yV6OpVl6kOD8Fk_IOWYFIemLHcCtOZmSYgLWpyHimDURuWx7k2K5B5RvU9Ym_Y6ndOh62VvkAdg5faFtaIR7D9y5m5u3KVDVU2XNvRceTaaeOlCcrx6oISWo.A1BPz-d3kRRNoaMTVGVhxkgu4gB8QrZTYig9iyvIInF>||111 153 Cactus Lane Brockton, MA 02301||No much will be asked 
+<http://www.lovestop.icu/fivgcvamul/6LhOW4u-yV6OpVl6kOD8Fk_IOWYFIemLHcCtOZmSYgLWpyHimDURuWx7k2K5B5RvU9Ym_Y6ndOh62VvkAdg5faFtaIR7D9y5m5u3KVDVU2XNvRceTaaeOlCcrx6oISWo.A1BPz-d3kRRNoaMTVGVhxkgu4gB8QrZTYig9iyvIInF>&gt; Click here
+http://www.lovestop.icu/Jiwfjxxlsuv/lxtkkjrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6...
+
+
+
+
+
+
+There are two key barriers to treatment for boys struggling with eating disorders, according to Sadeh-Sharvit. And the first is under-recognition of these disorders by parents, teachers, and health providers. Boys dont always lose a lot of weight, they just become focused on getting lean and increasing muscle tone. And thats not necessarily perceived in our culture as a troubling sign. Its not seen as worrisome as a woman who may lose a lot of weight, Sadeh-Sharvit said. Because its socially acceptable for boys to want to gain muscle and to spend a lot of time at the gym, parents and healthcare professionals are less likely to recognize when that behavior becomes unhealthy. The second barrier to treatment is the higher stigma for mental health issues for males in general, and eating disorders in particular, as theyre often considered a feminine problem, according to Sadeh-Sharvit. Its more socially acceptable for women to feel bad about their bodies than males, she said. Beyond that, clinicians who specialize in eating disorder treatment arent always readily available. Most work in urban communities, and treatment can be expensive. Its not always covered by insurace companies either.
+
+
+
+--------------124781090726970549701299
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<table align="center" style="font-size: 18px; font-family: Cambria; border: 10px solid #0D2853; text-align: justify" width="650">
+
+
+	<tbody>
+
+
+		<tr>
+
+
+			<td><a href="http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6" rel="nofollow" target="_blank"><img src="http://www.lovestop.icu/Apaiov/sqmunfmw38463mqbphtxhx/.jpeg" style="width: 635px; height: 428px;" /></a><br />
+
+
+			&nbsp;</td>
+
+
+		</tr>
+
+
+		<tr>
+
+
+			<td style="padding: 10px 30px 20px 20px; background-color: #EFEFEF; border-top: 2px groove #D4D4D4">
+
+
+			<p>A breakthrough study has shown that <a href="http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6" rel="nofollow" target="_blank"><b>this &quot;odd&quot; vegetable</b></a> reverses diabetes at the source.</p>
+
+
+
+
+
+			<p>It&#39;s 475% more powerful than exercise...</p>
+
+
+
+
+
+			<p>552% more effective than any diet...</p>
+
+
+
+
+
+			<p>and 820% more powerful than any medication!</p>
+
+
+
+
+
+			<p>Can you guess which one it is? (Click the link to find out)</p>
+
+
+
+
+
+			<p><b>a) <a href="http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6" rel="nofollow" target="_blank">Horned Melon</a></b></p>
+
+
+
+
+
+			<p><b>b) <a href="http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6" rel="nofollow" target="_blank">Kohlrabi</a></b></p>
+
+
+
+
+
+			<p><b>c) <a href="http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6" rel="nofollow" target="_blank">Jicama</a></b></p>
+
+
+
+
+
+			<p>Enjoy!</p>
+
+
+
+
+
+			<p><b>PS.</b> The $370 billion dollar diabetes industry do not want you to see <a href="http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6" rel="nofollow" target="_blank"><b>this video</b></a> and discover the amazing diabetes-reversing vegetable. Watch it now before it&#39;s too late.</p>
+
+
+
+
+
+			<p align="right" style="font-size: 12px; font-family: Lucida Calligraphy; color: #184692"><a href="http://www.lovestop.icu/Jiwfjxxlsuv/lxtkk107668jrswq/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6" rel="nofollow" target="_blank"><img src="http://www.lovestop.icu/Apaiov/sqmunfmw38464mqbphtxhx/.png" style="width: 116px; height: 110px;" /></a><br />
+
+
+			<b>Halki Diabetes Remedy</b></p>
+
+
+			</td>
+
+
+		</tr>
+
+
+	</tbody>
+
+
+</table>
+
+
+
+
+
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+<p style="text-align: center;"><br />
+
+
+<a href="http://www.lovestop.icu/fivgcvamul/6LhOW4u-yV6OpVl6kOD8Fk_IOWYFIemLHcCtOZmSYgLWpyHimDURuWx7k2K5B5RvU9Ym_Y6ndOh62VvkAdg5faFtaIR7D9y5m5u3KVDVU2XNvRceTaaeOlCcrx6oISWo.A1BPz-d3kRRNoaMTVGVhxkgu4gB8QrZTYig9iyvIInF" rel="nofollow" style="box-sizing: inherit; text-decoration-line: none; color: rgb(0, 0, 0);" target="_blank">Simple and easy way to leave us &gt; <span style="color:#0000FF;">Click here</span></a><br style="box-sizing: inherit;" /><br />
+<img src="http://www.lovestop.icu/x2bkiooca/FnIIvyi9giYTZrQ8Bg4ugkxhVGVTMaoNRRk3d-zPB1A/oWSIo6xrcClOeaaTecRvNX2UVDVK3u5m5y9D7RIatFaf5gdAkvV26hOdn6Y_mY9UvR5B5K2k7xWuRUDmiHypWLgYSmZOtCcHLmeIFYWOI_kF8DOk6lVpO6Vy-u4WOhL6" >
+
+
+||111 153 Cactus Lane Brockton, MA 02301||<br style="box-sizing: inherit;" />
+
+
+<br style="box-sizing: inherit;" />
+
+
+<a href="http://www.lovestop.icu/fivgcvamul/6LhOW4u-yV6OpVl6kOD8Fk_IOWYFIemLHcCtOZmSYgLWpyHimDURuWx7k2K5B5RvU9Ym_Y6ndOh62VvkAdg5faFtaIR7D9y5m5u3KVDVU2XNvRceTaaeOlCcrx6oISWo.A1BPz-d3kRRNoaMTVGVhxkgu4gB8QrZTYig9iyvIInF" rel="nofollow" style="box-sizing: inherit; text-decoration-line: none; color: rgb(0, 0, 0);" target="_blank">No much will be asked </a><a href="http://www.lovestop.icu/avkgusshu/6LhOW4u-yV6OpVl6kOD8Fk_IOWYFIemLHcCtOZmSYgLWpyHimDURuWx7k2K5B5RvU9Ym_Y6ndOh62VvkAdg5faFtaIR7D9y5m5u3KVDVU2XNvRceTaaeOlCcrx6oISWo.A1BPz-d3kRRNoaMTVGVhxkgu4gB8QrZTYig9iyvIInF" rel="nofollow" style="box-sizing: inherit; text-decoration-line: none; color: rgb(0, 0, 0);" target="_blank">&gt; <span style="color:#0000FF;">Click here</span></a><br style="box-sizing: inherit;" />
+
+
+.331 East Somerset St. Milwaukee, WI 53204...<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<span style="color: #fff; font-family: constantia,lucida bright,dejavu serif,georgia,serif; font-size: 5px">There are two key barriers to treatment for boys struggling with eating disorders, according to Sadeh-Sharvit. And the first is under-recognition of these disorders by parents, teachers, and health providers. &ldquo;Boys don&rsquo;t always lose a lot of weight, they just become focused on getting lean and increasing muscle tone. And that&rsquo;s not necessarily perceived in our culture as a troubling sign. It&rsquo;s not seen as worrisome as a woman who may lose a lot of weight,&rdquo; Sadeh-Sharvit said. Because it&rsquo;s socially acceptable for boys to want to gain muscle and to spend a lot of time at the gym, parents and healthcare professionals are less likely to recognize when that behavior becomes unhealthy. The second barrier to treatment is the higher stigma for mental health issues for males in general, and eating disorders in particular, as they&rsquo;re often considered a &ldquo;feminine&rdquo; problem, according to Sadeh-Sharvit. &ldquo;It&rsquo;s more socially acceptable for women to feel bad about their bodies than males,&rdquo; she said. Beyond that, clinicians who specialize in eating disorder treatment aren&rsquo;t always readily available. Most work in urban communities, and treatment can be expensive. It&rsquo;s not always covered by insurace companies either.</span></p>
+
+
+
+
+</body>
+</html>
+
+--------------124781090726970549701299--

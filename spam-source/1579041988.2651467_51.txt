@@ -1,0 +1,102 @@
+Return-Path: <SRS0=dmsSM3=3D=mail.evalastfireclips.co=6353-9790-262549-1705-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15993 invoked from network); 14 Jan 2020 08:46:32 -0000
+Received: (qmail 503 invoked from network); 14 Jan 2020 08:46:31 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 08:46:31 -0000
+Received: (qmail 6534 invoked by uid 48516); 14 Jan 2020 08:46:31 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10060 invoked from network); 14 Jan 2020 08:46:30 -0000
+Received: from perry.evalastfireclips.co (client-192-236-155-182.hostwindsdns.com [192.236.155.182])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 14 Jan 2020 08:46:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=evalastfireclips.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=StrikepenBlack@evalastfireclips.co;
+ bh=IceL2SU3q/b6tJyubBZRNtOtXIs=;
+ b=jxUvd5iPrQQJmIIM8/HUIK+Hy0t4hMoNhnXW1XBCmixsLZbObcuLdagCqG72FP24a+C0d28vMlTv
+   CrCVP3lA3SpRX3ucUiZ4GWxDCkLca3TBSU6EXSq6Bkrv8hV6P2gaVToDShyqgZ/HcXJClVbzg8PE
+   9TJWnSAo9M4KIRLsRZs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=evalastfireclips.co;
+ b=B5in1d1gSKyJrAIH88YlMzRwK7Lou7IA0+9z4w0kpmA7SlByylAQUnaT/iM4G6tnIeH7ayA2Rbs8
+   bGN7zUvTAD7kToZWdiU2hco1j8M6smVSK5cfRgrYJgy/aim9ScIcu9IzPeMallbulx0xUAsBrHjr
+   MnVFBx+wnd7TO4o1igE=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="ebb4b0bf91ad42de87ec606b3127bcb6_263e_40195"
+Date: Tue, 14 Jan 2020 03:38:10 -0500
+From: "Strikepen Black" <StrikepenBlack@evalastfireclips.co>
+Reply-To: "Strikepen Black" <StrikepenBlack@evalastfireclips.co>
+Subject:  I Bet Your Ballpoint Can't Do This...
+To: <bruce@untroubled.org>
+Message-ID: <uhkqtss0imbk4ydi-4kjpmv5mevtox7wz-263e-40195@evalastfireclips.co>
+Content-Length: 7200
+
+--ebb4b0bf91ad42de87ec606b3127bcb6_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+ I Bet Your Ballpoint Can't Do This...
+
+http://evalastfireclips.co/l7DMVWWUewACVXvzkEvNaK32aEZnA2QtdDj6ePbKsQI0NyZ6
+
+http://evalastfireclips.co/fGrH55eyGB-MjPivqE9cj15kN_D8s4ghS1rrvx0xv0r-Krk8
+
+Many rodent species, particularly those that are diurnal and social, have a wide range of alarm calls that are emitted when they perceive threats. There are both direct and indirect benefits of doing this. A potential predator may stop when it knows it has been detected, or an alarm call can allow conspecifics or related individuals to take evasive action. Several species, for example prairie dogs, have complex anti-predator alarm call systems. These species may have different calls for different predators (e.g. aerial predators or ground-based predators) and each call contains information about the nature of the precise threat. The urgency of the threat is also conveyed by the acoustic properties of the call.
+
+Social rodents have a wider range of vocalizations than do solitary species. Fifteen different call-types have been recognized in adult Kataba mole rats and four in juveniles. Similarly, the common degu, another social, burrowing rodent, exhibits a wide array of communication methods and has an elaborate vocal repertoire comprising fifteen different categories of sound. Ultrasonic calls play a part in social communication between dormice and are used when the individuals are out of sight of each other.
+
+House mice use both audible and ultrasonic calls in a variety of contexts. Audible vocalizations can often be heard during agonistic or aggressive encounters, whereas ultrasound is used in sexual communication and also by pups when they have fallen out of the nest.
+File:Adult marmot whistling.ogvPlay media
+Marmot whistling
+
+Laboratory rats (which are brown rats, Rattus norvegicus) emit short, high frequency, ultrasonic vocalizations during purportedly pleasurable experiences such as rough-and-tumble play, when anticipating routine doses of morphine, during mating, and when tickled. The vocalization, described as a distinct "chirping", has been likened to laughter, and is interpreted as an expectation of something rewarding. In clinical studies, the chirping is associated with positive emotional feelings, and social bonding occurs with the tickler, resulting in the rats becoming conditioned to seek the tickling. However, as the rats age, the tendency to chirp declines. Like most rat vocalizations, the chirping is at frequencies too high for humans to hear without special equipment, so bat detectors have been used for this purpose.
+
+--ebb4b0bf91ad42de87ec606b3127bcb6_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://evalastfireclips.co/LNbQCBhV5WRnJbN4ZLgB-rmJjX0Yynop-w6Qi2gESy3Fsaot"><img src="http://evalastfireclips.co/f6271fbb581eac21eb.jpg" /><img height="1" src="http://www.evalastfireclips.co/7mqCCc-bZY_RWC6deOCEg_E7EpyMfkF4Zq7ViUkioWTJeg6d" width="1" /></a>
+<div style="width:500px; padding:10px; font-family:Arial;font-size:20px "><br />
+<br />
+When it comes to defending yourself and your family from an attacker there is no such thing as a fair fight!<br />
+<br />
+The coward attacker that blind-sides you in the parking lot doesn&rsquo;t believe in a fair fight, and neither should you!<br />
+<br />
+That&rsquo;s why you need to arm yourself with this free, totally legal tool that can drop an attacker in an instant!<br />
+<br />
+<a href="http://evalastfireclips.co/l7DMVWWUewACVXvzkEvNaK32aEZnA2QtdDj6ePbKsQI0NyZ6">&gt;&gt; Take a look here.</a><br />
+<br />
+<a href="http://evalastfireclips.co/l7DMVWWUewACVXvzkEvNaK32aEZnA2QtdDj6ePbKsQI0NyZ6"><img src="http://evalastfireclips.co/78d0a1f0d778306e16.jpg" /></a><br />
+<br />
+Like I said, it&rsquo;s free! But you need to get your name down now because there&rsquo;s a limited supply!<br />
+<br />
+This self-defense tool has been the number #1 selling &ldquo;Every Day Carry&rdquo; in America since Feb 2016 and it&rsquo;s now your chance to get one for free!<br />
+<br />
+<a href="http://evalastfireclips.co/l7DMVWWUewACVXvzkEvNaK32aEZnA2QtdDj6ePbKsQI0NyZ6">&gt;&gt; Go here and enter your shipping address!</a><br />
+<br />
+I&rsquo;ve already told my friends and family to get theirs and I urge you to claim one too.<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://evalastfireclips.co/VaayRm6DJdidd9vQT2ag2SAkNxvAN03_WizWFvI4ZsFfcMG0"><img src="http://evalastfireclips.co/bde43365baae9b7d58.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Many rodent species, particularly those that are diurnal and social, have a wide range of alarm calls that are emitted when they perceive threats. There are both direct and indirect benefits of doing this. A potential predator may stop when it knows it has been detected, or an alarm call can allow conspecifics or related individuals to take evasive action. Several species, for example prairie dogs, have complex anti-predator alarm call systems. These species may have different calls for different predators (e.g. aerial predators or ground-based predators) and each call contains information about the nature of the precise threat. The urgency of the threat is also conveyed by the acoustic properties of the call. Social rodents have a wider range of vocalizations than do solitary species. Fifteen different call-types have been recognized in adult Kataba mole rats and four in juveniles. Similarly, the common degu, another social, burrowing rodent, exhibits a wide array of communication methods and has an elaborate vocal repertoire comprising fifteen different categories of sound. Ultrasonic calls play a part in social communication between dormice and are used when the individuals are out of sight of each other. House mice use both audible and ultrasonic calls in a variety of contexts. Audible vocalizations can often be heard during agonistic or aggressive encounters, whereas ultrasound is used in sexual communication and also by pups when they have fallen out of the nest. File:Adult marmot whistling.ogvPlay media Marmot whistling Laboratory rats (which are brown rats, Rattus norvegicus) emit short, high frequency, ultrasonic vocalizations during purportedly pleasurable experiences such as rough-and-tumble play, when anticipating routine doses of morphine, during mating, and when tickled. The vocalization, described as a distinct &quot;chirping&quot;, has been likened to laughter, and is interpreted as an expectation of something rewarding. In clinical studies, the chirping is associated with positive emotional feelings, and social bonding occurs with the tickler, resulting in the rats becoming conditioned to seek the tickling. However, as the rats age, the tendency to chirp declines. Like most rat vocalizations, the chirping is at frequencies too high for humans to hear without special equipment, so bat detectors have been used for this purpose. </span></body>
+</html>
+
+--ebb4b0bf91ad42de87ec606b3127bcb6_263e_40195--

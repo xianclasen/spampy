@@ -1,0 +1,74 @@
+Return-Path: <SRS0=smfWYs=3C=arsen.buzz=dr_tinnitus_md-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 31645 invoked from network); 13 Jan 2020 17:19:19 -0000
+Received: (qmail 28629 invoked from network); 13 Jan 2020 17:19:18 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Jan 2020 17:19:18 -0000
+Received: (qmail 15652 invoked by uid 48516); 13 Jan 2020 17:19:18 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 6235 invoked from network); 13 Jan 2020 17:19:17 -0000
+Received: from mail.arsen.buzz (208-186-113-96.nca.datanoc.com [208.186.113.96])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 13 Jan 2020 17:19:17 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=arsen.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=dr_tinnitus_md@arsen.buzz;
+ bh=iIENlZapS7RCg/b5nVG04pflnGk=;
+ b=uI5yqsCh5QpP0DDCOExZ2G+WvRixdWgxuYBsfIjQ1FhUBemzVhq0xM3E0XEZLrAq9aB+aylbpOyo
+   aMOtVkx959Wxn+v/yodw7sEhU9UQI46d722VtD3GaeUEX10jAFsF8JYzwn7egUL0ccSioO9EGVlv
+   8bAVk2gM4HUNsMl9rPY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=arsen.buzz;
+ b=3Y1ujHStx/JZY//RZbwa+mfP1UA8rX34Y0/dYpuHLi8AxsSeXT8YKrSEq1TfI9Lb91doqsBwisaR
+   qTPlAZXUNUh6HXUhg390kOkmVBCAW+z2weFRCGOXvCfy0l3GCc0xOcU0QfO42J0aZJSKINiB8wVr
+   b9cvsykqd6DMlDKYkik=;
+Received: by mail.arsen.buzz id h3ij9a0001g1 for <bruce@untroubled.org>; Mon, 13 Jan 2020 12:13:05 -0500 (envelope-from <dr_tinnitus_md-bruce=untroubled.org@arsen.buzz>)
+Date: Mon, 13 Jan 2020 12:13:05 -0500
+From: "Dr. Tinnitus M.D." <dr_tinnitus_md@arsen.buzz>
+To:   <bruce@untroubled.org>
+Subject: Don't let tinnitus destroy your life
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_394_384449693.1578935568617"
+List-Unsubscribe: <http://www.arsen.buzz/c5f6DO23K95zB89h11v1V1Py34b8m21qFv4GIf4rxvs4FhIHEsvZ11hRbndondoL97DqCr10B6YLTcYq/cartridges-indexable>
+Message-ID: <0.0.0.2E.1D5CA34B8064D50.53A19D@mail.arsen.buzz>
+Content-Length: 6789
+
+------=_Part_394_384449693.1578935568617
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>parameter</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:georgia,serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:georgia,serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.arsen.buzz/5755n2S395o8F6j11wea47T34b8q21VFv4GIf4rxvs4FhIHEsvZ11qRbndondoL95VRt105BPcYU/startling-liberals" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.arsen.buzz/6835a23j95F7arO11Iea4aR34b8T21rFv4GIf4rxvs4FhIHEsvZ11DRbndondoL96APV1n06hP@cYT/Selectric-middlemen" style="border-width: 0px; border-style: solid; width: 81%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:georgia,serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:georgia,serif; "><a href="http://www.arsen.buzz/5755n2S395o8F6j11wea47T34b8q21VFv4GIf4rxvs4FhIHEsvZ11qRbndondoL95VRt105BPcYU/startling-liberals">Do THIS &quot; amazing 10 second trick&quot; to restore your hearing</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.arsen.buzz/8816qD23S95d86PY12SeWa48y34b8o21nFv4GIf4rxvs4FhIHEsvZ11RRbndondoL97l1I0Bti6o@cTY@/Lanka-delay"><font color="#666666">remove mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.arsen.buzz/whirring-delicacy/9ae6f239lP5wu89R12sea4u9I34b8g21AFv4GIf4rxvs4FhIHEsvZ11IRbndondoL95HPY106s3OclY">Leave Here</a>
+    <br /> 
+    <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+   </div> <font lang="entailed"></font><span dir="Knutsen"></span><font color="Charley"><style face="highways"></font><style lang="brothers"></style></style><span dir="keenest"><small></small></span>
+  </center>   
+ <img src="http://www.arsen.buzz/cb95j23Q95VqF8513Xeta4bYI34b8Y21uFv4GIf4rxvs4FhIHEsvZ11hRbndondoL96m1r0Pj5RLTcY/Lanka-delay" alt=""/></body>
+</html>
+
+------=_Part_394_384449693.1578935568617--
+

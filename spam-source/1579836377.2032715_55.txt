@@ -1,0 +1,199 @@
+Return-Path: <SRS0=MuuQ5L=3N=smeise.monster=canvasprints-promotion-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 13761 invoked from network); 24 Jan 2020 01:34:34 -0000
+Received: (qmail 11527 invoked from network); 24 Jan 2020 01:34:33 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 01:34:33 -0000
+Received: (qmail 22382 invoked by uid 48516); 24 Jan 2020 01:34:32 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 28865 invoked from network); 24 Jan 2020 01:34:32 -0000
+Received: from mail.smeise.monster ([85.93.5.62])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 24 Jan 2020 01:34:31 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=smeise.monster;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints-promotion@smeise.monster;
+ bh=i2HWy8P87E3vWnq5+FpY8T1uJ48=;
+ b=JgXa+M/UsTEr7x04J1x1E5pgk4gDILBu4DQ3WHzARE4x5avZryvZb9HQE8a5/2osodD45vKXEoS9
+   yPj4CAyCozfTMqcUWW9U8Xf/qMXMIE/8Rzi0X9RbIw+4BM4lx/kYGx2cXvEohJVUShIvJw2UJRz8
+   PU+ui/lu9mZ7Jxkbh8M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=smeise.monster;
+ b=M5bwzTeq+QcfLpo1rUhWW52vN3CfL7fqElUB7RO2ySCySSjp1/Vc1tJSgbNZkAOXmoPWM4Ygt/5t
+   ogY5u21xm6lJtQQ+LC/FqVpkTSmLvjOtFZw5JCkp+i15yYnJwUhKcp44837qcs3bbZJcV0NEsnYM
+   RV4XiWVpw0XWXDqzcK4=;
+Received: by mail.smeise.monster id h594qg0001g2 for <bruce@untroubled.org>; Thu, 23 Jan 2020 20:28:23 -0500 (envelope-from <canvasprints-promotion-bruce=untroubled.org@smeise.monster>)
+Date: Thu, 23 Jan 2020 20:28:23 -0500
+From: "CanvasPrints Promotion" <canvasprints-promotion@smeise.monster>
+To:   <bruce@untroubled.org>
+Subject: Roses Are Red, Violets Are Blue, 16x20 Custom Canvas Prints are $14.99 for you!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_91_1356675953.1579829282518"
+List-Unsubscribe: <http://www.smeise.monster/dc74N2395u8N9B11W11KPP351do21WFv4GIf4rxvs4FhIHEsvZ11wRtnd9oQo897D10DLQr5SUcY@/bearded-Brinkley>
+Message-ID: <0.0.0.9.1D5D2559162EA86.29F40E@mail.smeise.monster>
+Content-Length: 14820
+
+------=_Part_91_1356675953.1579829282518
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>saddlebag</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   &nbsp; 
+  </div> 
+  <div style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; background-color: rgb(212, 153, 171); margin: 0px auto; max-width: 600px; background-position: initial initial; background-repeat: initial initial; "> 
+   <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; background-color: rgb(212, 153, 171); width: 600px; background-position: initial initial; background-repeat: initial initial; "> 
+    <tbody> 
+     <tr> 
+      <td style="border-collapse: collapse; direction: ltr; font-size: 0px; padding: 0px; text-align: center; "> 
+       <div class="mj-column-per-100 outlook-group-fix" style="max-width: 100%; width: 600px; font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; "> 
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; " width="100%"> 
+         <tbody> 
+          <tr> 
+           <td style="border-collapse: collapse; vertical-align: top; padding-bottom: 0px; "> 
+            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; " width="100%"> 
+             <tbody> 
+              <tr> 
+               <td align="center" style="border-collapse: collapse; font-size: 0px; padding: 0px; word-break: break-word; "> 
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; border-spacing: 0px; "> 
+                 <tbody> 
+                  <tr> 
+                   <td style="border-collapse: collapse; width: 600px; "><a href="http://www.smeise.monster/Mitch-honesty/e5e6GX23Z95q8pM611Gec57N351dB21eFv4GIf4rxvs4FhIHEsvZ11QRtnd9oQo896D1XZT05ETAcY" target="_blank"><img alt="Easy Canvas Prints logo" src="http://www.smeise.monster/c054S2395w7RAa11Iec5aD351dw21XFv4GIf4rxvs4FhIHEsvZ11YRtnd9oQo896vMS10V5JqzcY/aristocracy-intricacies" style="border: 0px none; line-height: 13px; outline: currentcolor none medium; text-decoration: none; display: block; width: 600px; font-size: 13px; " /></a></td> 
+                  </tr> 
+                 </tbody> 
+                </table> </td> 
+              </tr> 
+              <tr> 
+               <td align="center" style="border-collapse: collapse; font-size: 0px; padding: 10px 0px 0px; word-break: break-word; "> 
+                <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 24px; letter-spacing: 2px; line-height: 1; text-align: center; color: white; ">
+                 NO NEED TO ASK, WE' RE 
+                 <span style="color: rgb(230, 0, 134); ">ALL YOURS!</span>
+                </div> </td> 
+              </tr> 
+              <tr> 
+               <td style="border-collapse: collapse; font-size: 0px; padding: 10px; word-break: break-word; "> <p style="display: block; margin: 0px auto; border-top-width: 1px; border-top-style: solid; border-top-color: white; width: 470px; ">&nbsp; </p> </td> 
+              </tr> 
+              <tr> 
+               <td align="center" style="border-collapse: collapse; font-size: 0px; padding: 0px; word-break: break-word; "> 
+                <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 30px; letter-spacing: 2px; line-height: 1; text-align: center; color: white; ">
+                 GET UNLIMITED 16&quot; X20&quot; CANVAS
+                </div> </td> 
+              </tr> 
+              <tr> 
+               <td align="center" style="border-collapse: collapse; font-size: 0px; padding: 5px 0px 0px; word-break: break-word; "> 
+                <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 45px; letter-spacing: 2px; line-height: 1; text-align: center; color: rgb(230, 0, 134); ">
+                 FOR ONLY $14.99 EACH!
+                </div> </td> 
+              </tr> 
+              <tr> 
+               <td style="border-collapse: collapse; font-size: 0px; padding: 10px; word-break: break-word; "> <p style="display: block; margin: 0px auto; border-top-width: 1px; border-top-style: solid; border-top-color: white; width: 470px; ">&nbsp; </p> </td> 
+              </tr> 
+              <tr> 
+               <td align="center" style="border-collapse: collapse; font-size: 0px; padding: 0px 0px 10px; word-break: break-word; "> 
+                <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 17px; letter-spacing: 1px; line-height: 1; text-align: center; color: white; ">
+                 THE 
+                 <span style="color: rgb(230, 0, 134); ">PERFECT GIFT</span> FOR THAT SPECIAL SOMEONE!
+                </div> </td> 
+              </tr> 
+              <tr> 
+               <td align="center" style="border-collapse: collapse; font-size: 0px; padding: 10px 25px; word-break: break-word; "> 
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: separate; line-height: 0px; "> 
+                 <tbody> 
+                  <tr> 
+                   <td align="center" bgcolor="#e50085" role="presentation" style="border-collapse: collapse; border: none; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; cursor: auto; background-color: rgb(229, 0, 133); background-position: initial initial; background-repeat: initial initial; " valign="middle"><a href="http://www.smeise.monster/Mitch-honesty/e5e6GX23Z95q8pM611Gec57N351dB21eFv4GIf4rxvs4FhIHEsvZ11QRtnd9oQo896D1XZT05ETAcY" style="display: inline-block; background-color: rgb(229, 0, 133); color: rgb(255, 255, 255); font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: normal; line-height: 21.600000381469727px; margin: 0px; text-decoration: none; text-transform: none; padding: 10px 25px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; background-position: initial initial; background-repeat: initial initial; " target="_blank">GET STARTED &gt; </a></td> 
+                  </tr> 
+                 </tbody> 
+                </table> </td> 
+              </tr> 
+              <tr> 
+               <td align="center" style="border-collapse: collapse; font-size: 0px; padding: 0px; word-break: break-word; "> 
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; border-spacing: 0px; "> 
+                 <tbody> 
+                  <tr> 
+                   <td style="border-collapse: collapse; width: 600px; "><a href="http://www.smeise.monster/Mitch-honesty/e5e6GX23Z95q8pM611Gec57N351dB21eFv4GIf4rxvs4FhIHEsvZ11QRtnd9oQo896D1XZT05ETAcY" target="_blank"><img alt="Get started" src="http://www.smeise.monster/pelvis-Laguerre/b526yD23S95s7Hav12Decs5bU351dX21lFv4GIf4rxvs4FhIHEsvZ11cRtnd9oQo895X1C0y6uy0cyY" style="border: 0px none; line-height: 13px; outline: currentcolor none medium; text-decoration: none; display: block; width: 598px; font-size: 13px; " /></a></td> 
+                  </tr> 
+                 </tbody> 
+                </table> </td> 
+              </tr> 
+             </tbody> 
+            </table> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+  </div> 
+  <div style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; background-color: rgb(24, 81, 111); margin: 0px auto; max-width: 600px; background-position: initial initial; background-repeat: initial initial; "> 
+   <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; background-color: rgb(24, 81, 111); width: 600px; background-position: initial initial; background-repeat: initial initial; "> 
+    <tbody> 
+     <tr> 
+      <td style="border-collapse: collapse; direction: ltr; font-size: 0px; padding: 0px; text-align: center; "> 
+       <div class="mj-column-per-100 outlook-group-fix" style="max-width: 100%; width: 600px; font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; "> 
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; " width="100%"> 
+         <tbody> 
+          <tr> 
+           <td style="border-collapse: collapse; vertical-align: top; padding: 0px; "> 
+            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; " width="100%"> 
+             <tbody> 
+              <tr> 
+               <td align="center" style="border-collapse: collapse; font-size: 0px; padding: 4px; word-break: break-word; "> 
+                <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 15px; letter-spacing: 1px; line-height: 1; text-align: center; color: rgb(0, 0, 0); ">
+                 <a href="http://www.smeise.monster/Mitch-honesty/e5e6GX23Z95q8pM611Gec57N351dB21eFv4GIf4rxvs4FhIHEsvZ11QRtnd9oQo896D1XZT05ETAcY" style="color: white; text-decoration: none; ">ORDER NOW TO GET YOURS IN TIME FOR VALENTINE' S DAY!</a>
+                </div> </td> 
+              </tr> 
+             </tbody> 
+            </table> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+  </div> 
+  <div style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; background-color: white; margin: 0px auto; max-width: 600px; background-position: initial initial; background-repeat: initial initial; "> 
+   <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; background-color: white; width: 600px; background-position: initial initial; background-repeat: initial initial; "> 
+    <tbody> 
+     <tr> 
+      <td style="border-collapse: collapse; direction: ltr; font-size: 0px; padding: 20px 0px; text-align: center; "> 
+       <div class="mj-column-per-100 outlook-group-fix" style="max-width: 100%; width: 600px; font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; "> 
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; vertical-align: top; " width="100%"> 
+         <tbody> 
+          <tr> 
+           <td style="border-collapse: collapse; font-size: 0px; padding: 10px 25px; word-break: break-word; "> <p style="display: block; margin: 0px auto; border-top-width: 1px; border-top-style: dashed; border-top-color: lightgrey; width: 550px; ">&nbsp; </p> </td> 
+          </tr> 
+          <tr> 
+           <td align="center" style="border-collapse: collapse; font-size: 0px; padding: 10px 25px; word-break: break-word; "> 
+            <div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.5; text-align: center; color: rgb(72, 72, 72); ">
+             This is an advertisement.              <br /> This email was sent on behalf of Easy Canvas Prints.              <br /> To stop receiving emails about Easy Canvas Prints, 
+             <a href="http://www.smeise.monster/d135dP2395Qx86R12keXc58Z351dG21iFv4GIf4rxvs4FhIHEsvZ11JRtnd9oQo895R1mX05dAcYz/forestall-jeopardize">Push here</a> or write to:
+             <br /> 11525A Stonehollow Dr. Suite 100 Austin, TX 78758
+             <br /> 
+             <br /> 
+             <a href="http://www.smeise.monster/eb74z2395g89GA11Uec59P351dS21mFv4GIf4rxvs4FhIHEsvZ11zRtnd9oQo896XMj1Y06HOcYU3/chiropractor-lookup">Exit Here</a>
+             <br /> 
+             <span style="caret-color: rgb(128, 128, 128); color: rgb(128, 128, 128); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">13395 Voyager Pkwy Ste 130 #634</span>
+             <br style="font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; " /> 
+             <span style="color: rgb(128, 128, 128); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span>
+             <br /> &nbsp; 
+            </div> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+  </div> 
+  <br /> <big></big><span class="cheating"><span><small></small></span><style><style size="excepts"></span></style><style id="shanties"></style></style><style></style><style class="orchards"></style><font><small></font></small>  
+ <img src="http://www.smeise.monster/pelvis-Laguerre/40e4J2395rH8z511hec5cj351dY21mFv4GIf4rxvs4FhIHEsvZ11qRtnd9oQo897Ljp1YM05slcTY" alt=""/></body>
+</html>
+
+------=_Part_91_1356675953.1579829282518--
+

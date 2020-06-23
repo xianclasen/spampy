@@ -1,0 +1,99 @@
+Return-Path: <SRS0=SbEhUA=3A=mail.stopsqribble.bid=6228-9840-387194-1670-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 18069 invoked from network); 11 Jan 2020 14:54:13 -0000
+Received: (qmail 17082 invoked from network); 11 Jan 2020 14:54:13 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Jan 2020 14:54:13 -0000
+Received: (qmail 6507 invoked by uid 48516); 11 Jan 2020 14:54:12 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20299 invoked from network); 11 Jan 2020 14:54:12 -0000
+Received: from tare.stopsqribble.bid (client-23-254-229-198.hostwindsdns.com [23.254.229.198])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 11 Jan 2020 14:54:12 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=stopsqribble.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=HeartHealth@stopsqribble.bid;
+ bh=k4m1RoadUW217V9uj/GWhB688uc=;
+ b=BUzijO6VnakJjFHgxmw1/MwEuHWvbCrdX9iaGi8YpGdl9MZeJyn7iCFripMUsFnVvA0OlmgJFhEd
+   fqVLgluMfFe+GMTASJqbofndVLsx7RW8Q3YyMOFQw7/sYKA8ouptNfdTo0DxPsToAuyvoEO61Ehp
+   Zfv9IOUaQxHI3uEJ7FE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=stopsqribble.bid;
+ b=ArW8Lta8Fac6RNLIRHLHN8koDiM9ZL60sKURZhi1R847yEGekEZbI3wPIOh2o52vidROErL4ZmOu
+   9ZAnnO7kev3VJsEHzns+BcCbDO/eLO5l6B9gFjyhvjt77CWiMYEj/8K3kiI6SzEdixtF/++esUkq
+   KQs35fRod0+VBWTdv8M=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="76cbd02fe68bbe6c24d5c4a8cbef164b_2670_5e87a"
+Date: Sat, 11 Jan 2020 09:53:24 -0500
+From: "Heart Attack Savior" <HeartHealth@stopsqribble.bid>
+Reply-To: "Heart Health" <HeartAttackSavior@stopsqribble.bid>
+Subject: These 4 Things Happen Right Before YOUR Heart Attack
+To: <bruce@untroubled.org>
+Message-ID: <c7z6z7g5qbdgm3t6-ladb9ujhrgdpy6rz-2670-5e87a@stopsqribble.bid>
+Content-Length: 6845
+
+--76cbd02fe68bbe6c24d5c4a8cbef164b_2670_5e87a
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+These 4 Things Happen Right Before YOUR Heart Attack
+
+http://stopsqribble.bid/rWjtGBGmkQ4_IE7_zguos2uwjE0jD8wTLK3PTi92-lVYg40u
+
+http://stopsqribble.bid/mZBH1cZbta6hnJ23tFF8u3gwBrsXe72C2u4N7hNL5cugXg
+
+ The United States had a life expectancy of 78.6 years at birth in 2017, which was the third year of declines in life expectancy following decades of continuous increase. The recent decline, primarily among the age group 25 to 64, is largely due to sharp increases in the drug overdose and suicide rates. Life expectancy was highest among Asians and Hispanics and lowest among blacks. According to CDC and Census Bureau data, deaths from suicide, alcohol and drug overdoses hit record highs in 2017. At the state/territory level, life expectancy ranges from 81.5 years at birth in Hawaii to 73.9 years at birth in American Samoa.
+
+Increasing obesity in the United States and health improvements elsewhere contributed to lowering the country's rank in life expectancy from 11th in the world in 1987, to 42nd in 2007. Obesity rates have more than doubled in the last 30 years, are the highest in the industrialized world, and are among the highest anywhere. Approximately one-third of the adult population is obese and an additional third is overweight. Obesity-related type 2 diabetes is considered epidemic by health care professionals.
+
+In 2010, coronary artery disease, lung cancer, stroke, chronic obstructive pulmonary diseases, and traffic accidents caused the most years of life lost in the U.S. Low back pain, depression, musculoskeletal disorders, neck pain, and anxiety caused the most years lost to disability. The most deleterious risk factors were poor diet, tobacco smoking, obesity, high blood pressure, high blood sugar, physical inactivity, and alcohol use. Alzheimer's disease, drug abuse, kidney disease, cancer, and falls caused the most additional years of life lost over their age-adjusted 1990 per-capita rates. U.S. teenage pregnancy and abortion rates are substantially higher than in other Western nations, especially among blacks and Hispanics.
+
+The U.S. is a global leader in medical innovation. America solely developed or contributed significantly to 9 of the top 10 most important medical innovations since 1975 as ranked by a 2001 poll of physicians, while the European Union and Switzerland together contributed to five. Since 1966, more Americans have received the Nobel Prize in Medicine than the rest of the world combined. From 1989 to 2002, four times more money was invested in private biotechnology companies in America than in Europe. The U.S. health-care system far outspends any other nation, measured in both per capita spending and percentage of GDP.
+
+--76cbd02fe68bbe6c24d5c4a8cbef164b_2670_5e87a
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://stopsqribble.bid/X8crSnHOgSmguyW2CvkGPDx62i55w6sd91-6giJ0jrw11Brj"><img src="http://stopsqribble.bid/37b8db3e964fb734b7.jpg" /><img height="1" src="http://www.stopsqribble.bid/1feUZOHWXBXHlC0JOYa5495Y9q2C1DXizztrLWUrwbVZZ0TP" width="1" /></a>
+<div style="width:500px; padding:10px;font-family:Arial;"><br />
+Hi, this is Dr. Sam Walters.<br />
+Today, I have new information for you that could most definitely save your life.<br />
+<br />
+If, God forbid, you ever have a heart attack, there&#39;s one thing you NEVER want to do.<br />
+<br />
+In fact, if you do it, there&#39;s a good chance your heart attack will be FATAL.<br />
+<br />
+<a href="http://stopsqribble.bid/rWjtGBGmkQ4_IE7_zguos2uwjE0jD8wTLK3PTi92-lVYg40u">NEVER do THIS</a> during a heart attack (increases your risk of death)<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://stopsqribble.bid/UUsxBbJpaFPrB_xCk75c8c_B83XHc5r--1ckCgQiMyJkWS9j"><img src="http://stopsqribble.bid/048c43b8d5d32dfcc1.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://stopsqribble.bid/mZBH1cZbta6hnJ23tFF8u3gwBrsXe72C2u4N7hNL5cugXg"><img src="http://stopsqribble.bid/f0351c262c20f31a3c.jpg" /></a></div>
+<br />
+<span style="color:#FFFFFF;">The United States had a life expectancy of 78.6 years at birth in 2017, which was the third year of declines in life expectancy following decades of continuous increase. The recent decline, primarily among the age group 25 to 64, is largely due to sharp increases in the drug overdose and suicide rates. Life expectancy was highest among Asians and Hispanics and lowest among blacks. According to CDC and Census Bureau data, deaths from suicide, alcohol and drug overdoses hit record highs in 2017. At the state/territory level, life expectancy ranges from 81.5 years at birth in Hawaii to 73.9 years at birth in American Samoa. Increasing obesity in the United States and health improvements elsewhere contributed to lowering the country&#39;s rank in life expectancy from 11th in the world in 1987, to 42nd in 2007. Obesity rates have more than doubled in the last 30 years, are the highest in the industrialized world, and are among the highest anywhere. Approximately one-third of the adult population is obese and an additional third is overweight. Obesity-related type 2 diabetes is considered epidemic by health care professionals. In 2010, coronary artery disease, lung cancer, stroke, chronic obstructive pulmonary diseases, and traffic accidents caused the most years of life lost in the U.S. Low back pain, depression, musculoskeletal disorders, neck pain, and anxiety caused the most years lost to disability. The most deleterious risk factors were poor diet, tobacco smoking, obesity, high blood pressure, high blood sugar, physical inactivity, and alcohol use. Alzheimer&#39;s disease, drug abuse, kidney disease, cancer, and falls caused the most additional years of life lost over their age-adjusted 1990 per-capita rates. U.S. teenage pregnancy and abortion rates are substantially higher than in other Western nations, especially among blacks and Hispanics. The U.S. is a global leader in medical innovation. America solely developed or contributed significantly to 9 of the top 10 most important medical innovations since 1975 as ranked by a 2001 poll of physicians, while the European Union and Switzerland together contributed to five. Since 1966, more Americans have received the Nobel Prize in Medicine than the rest of the world combined. From 1989 to 2002, four times more money was invested in private biotechnology companies in America than in Europe. The U.S. health-care system far outspends any other nation, measured in both per capita spending and percentage of GDP. </span></body>
+</html>
+
+--76cbd02fe68bbe6c24d5c4a8cbef164b_2670_5e87a--

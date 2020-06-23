@@ -1,0 +1,116 @@
+Return-Path: <SRS0=fb6VO1=3D=mail.ultrasmall.bid=6358-2982-85526-1708-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21873 invoked from network); 14 Jan 2020 09:58:30 -0000
+Received: (qmail 933 invoked from network); 14 Jan 2020 09:58:29 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 09:58:29 -0000
+Received: (qmail 23340 invoked by uid 48516); 14 Jan 2020 09:58:29 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20859 invoked from network); 14 Jan 2020 09:58:29 -0000
+Received: from arbor.ultrasmall.bid (wee6ods55.weekalternative.website [170.130.172.218])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 14 Jan 2020 09:58:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=ultrasmall.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=ElectricTrimmer@ultrasmall.bid;
+ bh=bBAIW505/6N9835Slmi93dbmcl4=;
+ b=EIRyN4/H7CusFLO5XTiqalabScTpWiPl1MqwdLMKF0iErwlLt+YNT8vETE7P4vK9qytA8BQJ0ifJ
+   2Ye8mtOEaBMJZaes+lu4Ob3FbNdELLRtZ3nsxrJ33rj0C6FEkasr8U/wALmhDxD3uUp+U3ruq1KS
+   7WAkTz8K9ZV7y4UwWfE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=ultrasmall.bid;
+ b=uGDEaqEWmGjCfHByNtH/jjj/AYF9Gmgjn6KKuoD6SUuKuurd+qrAo3PJVimPKwv0dEWmi/3qUmFJ
+   xoMHoYLTLcT6/KY1pTaLdXMhk+Tl4iyx/zvkdp+AXo9h82k1heC7VenFj3spsvQzBHpqdYyUiTrl
+   MEwM2AlB0K0NsHlS5mM=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="1b61a0ec8ffdc9e74dba2d8d87938ab8_ba6_14e16"
+Date: Tue, 14 Jan 2020 04:43:34 -0500
+From: "Electric Trimmer" <ElectricTrimmer@ultrasmall.bid>
+Reply-To: "Hair Removal" <HairRemoval@ultrasmall.bid>
+Subject: One For All, All For One
+To: <bruce@untroubled.org>
+Message-ID: <sykcr6km3pbycrl0-t7e8vogs80pfilyu-ba6-14e16@ultrasmall.bid>
+Content-Length: 9171
+
+--1b61a0ec8ffdc9e74dba2d8d87938ab8_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+One For All, All For One
+
+http://ultrasmall.bid/-e3djBYSGqh5alo8cSqaOgFt5Jdk24e_lKs2XYJPz_ziEN4e
+
+http://ultrasmall.bid/vfBMysTceczSO_10799lvOyWV3SL7XKLZks5zBNAWG_kWIt1
+
+The exteriors and interiors of Gothic cathedrals, particularly in France, were lavishly ornamented with sculpture and decoration on religious themes, designed for the great majority of parishioners who could not read. They were described as "Books for the poor." To add to the effect, all of the sculpture on the facades was originally painted and gilded.
+
+Each feature of the Cathedral had a symbolic meaning. The main portals at Notre Dame de Paris, for instance, represented the entrance to paradise, with the last judgement depicted on the tympanum over the doors, showing Christ surrounded by the apostles, and by the signs of the zodiac, representing the movements of the heavens. The columns below the tympanum are in the form of statues of saints, literally reprinting them as "the pillars of the church."
+
+Each Saint had his own symbol; a winged lion stood for Saint Mark; an eagle with four wings meant Saint John the Apostle, and a winged bull symbolized Saint Luke. Sculpted angels had specific functions, sometimes as heralds, blowing trumpets, or holding up columns, as guardian angels; or holding crowns of thorns or crosses, as symbols of the crucifixion of Christ, or waving a container with incense, to illustrate their function at the throne of God. Floral and vegetal decoration was also very common, representing the Garden of Eden; grapes represented the wines of Eucharist.
+
+The tympanum over the central portal on the west facade of Notre Dame de Paris vividly illustrates the Last Judgement, with figures of sinners being led off to hell, and good Christians taken to heaven. The sculpture of the right portal shows the coronation of the Virgin Mary, and the left portal shows the lives of saints who were important to Parisians, particularly Saint Anne, the mother of the Virgin Mary.
+
+The exteriors of cathedrals and other Gothic churches were also decorated with sculptures of a variety of fabulous and frightening grotesques or monsters. These included the chimera, a mythical hybrid creature which usually had the body of a lion and the head of a goat, and the Strix or stryge, a creature resembling an owl or bat, which was said to eat human flesh. The strix appeared in classical Roman literature; it was described by the Roman poet Ovid, who was widely read in the Middle Ages, as a large-headed bird with transfixed eyes, rapacious beak, and greyish white wings. They were part of the visual message for the illiterate worshipers, symbols of the evil and danger that threatened those who did not follow the teachings of the church.
+
+The gargoyles, which were added to Notre Dame in about 1240, had a more practical purpose. They were the rain spouts of the cathedral, designed to divide the torrent of water which poured from the roof after rain, and to project it outwards as far as possible from the buttresses and the walls and windows so that it would not erode the mortar binding the stone. To produce many thin streams rather than a torrent of water, a large number of gargoyles were used, so they were also designed to be a decorative element of the architecture. The rainwater ran from the roof into lead gutters, then down channels on the flying buttresses, then along a channel cut in the back of the gargoyle and out of the mouth away from the cathedral.
+
+--1b61a0ec8ffdc9e74dba2d8d87938ab8_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>&nbsp;</center>
+<a href="http://ultrasmall.bid/8GWL6QSPS-_9VvZNeybxZ46iWyjxZlZ-QJ91tdNNR-LdT_MM"><img src="http://ultrasmall.bid/d2c10bc959c8bedca4.jpg" /><img height="1" src="http://www.ultrasmall.bid/z1NFfcEajDvD_Rkz7FQi8ikdgK096kvrvrGoi_nigQhvS_s" width="1" /></a><br />
+&nbsp;
+<div style="width:450px;"><img src="http://ultrasmall.bid/8c5ed1683b70cb7612.png" /><br />
+<br />
+<a href="http://ultrasmall.bid/-e3djBYSGqh5alo8cSqaOgFt5Jdk24e_lKs2XYJPz_ziEN4e" style="color:#BD1E7C; font-size:25px;font-family:Arial;"><b>Don&#39;t have a second thought about it. Just go ahead.</b></a><br />
+<br />
+<a href="http://ultrasmall.bid/-e3djBYSGqh5alo8cSqaOgFt5Jdk24e_lKs2XYJPz_ziEN4e"><img src="http://ultrasmall.bid/a5a838004cc59f2e4e.png" style="box-shadow: 0px 0px 5px 5px #02385A;" /></a><br />
+<br />
+&nbsp;
+<div style="padding:15px;background-color:#99E5EA;color:black;width:250px;font-weight:bold; border-radius:10px;"><a href="http://ultrasmall.bid/-e3djBYSGqh5alo8cSqaOgFt5Jdk24e_lKs2XYJPz_ziEN4e"><b style="font-family:arial;"><i>Fr?e_d?livery_availabl?_today</i></b></a></div>
+<br />
+<br />
+<img src="http://ultrasmall.bid/c42e322358be2bd7fc.png" /><br />
+&nbsp;
+<div style="font-family:Arial;Font-size:15px;text-align:left;line-height:20px;">Though it takes little more time than waxing does to remove hair but way too much economical than waxing sessions. For me, it was not that painful. It even removes the tiniest hair. Worth the money and time consumed.</div>
+<br />
+<a href="http://ultrasmall.bid/-e3djBYSGqh5alo8cSqaOgFt5Jdk24e_lKs2XYJPz_ziEN4e"><img src="http://ultrasmall.bid/45186c42d94a604401.png" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://ultrasmall.bid/8Pa5K1rs2zgflMp0T1uf3psipCC0lqKUi6k-rkufpcmVCSs6" target="_blank"><img src="http://ultrasmall.bid/4eef9429e23b540df8.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;</div>
+<br />
+<span style="color:#FFFFFF;">The exteriors and interiors of Gothic cathedrals, particularly in France, were lavishly ornamented with sculpture and decoration on religious themes, designed for the great majority of parishioners who could not read. They were described as &quot;Books for the poor.&quot; To add to the effect, all of the sculpture on the facades was originally painted and gilded. Each feature of the Cathedral had a symbolic meaning. The main portals at Notre Dame de Paris, for instance, represented the entrance to paradise, with the last judgement depicted on the tympanum over the doors, showing Christ surrounded by the apostles, and by the signs of the zodiac, representing the movements of the heavens. The columns below the tympanum are in the form of statues of saints, literally reprinting them as &quot;the pillars of the church.&quot; Each Saint had his own symbol; a winged lion stood for Saint Mark; an eagle with four wings meant Saint John the Apostle, and a winged bull symbolized Saint Luke. Sculpted angels had specific functions, sometimes as heralds, blowing trumpets, or holding up columns, as guardian angels; or holding crowns of thorns or crosses, as symbols of the crucifixion of Christ, or waving a container with incense, to illustrate their function at the throne of God. Floral and vegetal decoration was also very common, representing the Garden of Eden; grapes represented the wines of Eucharist. The tympanum over the central portal on the west facade of Notre Dame de Paris vividly illustrates the Last Judgement, with figures of sinners being led off to hell, and good Christians taken to heaven. The sculpture of the right portal shows the coronation of the Virgin Mary, and the left portal shows the lives of saints who were important to Parisians, particularly Saint Anne, the mother of the Virgin Mary. The exteriors of cathedrals and other Gothic churches were also decorated with sculptures of a variety of fabulous and frightening grotesques or monsters. These included the chimera, a mythical hybrid creature which usually had the body of a lion and the head of a goat, and the Strix or stryge, a creature resembling an owl or bat, which was said to eat human flesh. The strix appeared in classical Roman literature; it was described by the Roman poet Ovid, who was widely read in the Middle Ages, as a large-headed bird with transfixed eyes, rapacious beak, and greyish white wings. They were part of the visual message for the illiterate worshipers, symbols of the evil and danger that threatened those who did not follow the teachings of the church. The gargoyles, which were added to Notre Dame in about 1240, had a more practical purpose. They were the rain spouts of the cathedral, designed to divide the torrent of water which poured from the roof after rain, and to project it outwards as far as possible from the buttresses and the walls and windows so that it would not erode the mortar binding the stone. To produce many thin streams rather than a torrent of water, a large number of gargoyles were used, so they were also designed to be a decorative element of the architecture. The rainwater ran from the roof into lead gutters, then down channels on the flying buttresses, then along a channel cut in the back of the gargoyle and out of the mouth away from the cathedral. </span></body>
+</html>
+
+--1b61a0ec8ffdc9e74dba2d8d87938ab8_ba6_14e16--

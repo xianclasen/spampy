@@ -1,0 +1,71 @@
+Return-Path: <CoffeeCouponsforYou-bruce=untroubled.org@disaster-management.net>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 9960 invoked from network); 12 Jan 2020 18:21:39 -0000
+Received: (qmail 22222 invoked from network); 12 Jan 2020 18:21:38 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 18:21:38 -0000
+Received: (qmail 16843 invoked by uid 48516); 12 Jan 2020 18:21:38 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 7374 invoked from network); 12 Jan 2020 18:21:38 -0000
+Received: from hegmann.disaster-management.net (hegmann.disaster-management.net [142.11.236.55])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 12 Jan 2020 18:21:37 -0000
+Received: by feil.disaster-management.net id h3dhr20001g6 for <bruce@untroubled.org>; Sun, 12 Jan 2020 18:17:30 +0000 (envelope-from <CoffeeCouponsforYou-bruce=untroubled.org@disaster-management.net>)
+Date: Sun, 12 Jan 2020 18:17:30 +0000
+From: Coffee Coupons for You! <CoffeeCouponsforYou@disaster-management.net>
+Reply-To: CoffeeCouponsforYou@disaster-management.net
+To: bruce@untroubled.org
+Message-Id: <21901d79-5525-4418-9a3b-242a1b08a894@disaster-management.net>
+Subject: =?utf-8?B?SXQncyBDb2ZmZWUgVGltZSEgU2F2ZSBvbiB5b3VyIENhZmZlaW5lIEZpeA==?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-126adf6949fed3e767627771__b1126886dccf5a88116ddc_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 2520
+
+---_-_-126adf6949fed3e767627771__b1126886dccf5a88116ddc_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-126adf6949fed3e767627771__b1126886dccf5a88116ddc_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGgxPkZlZWxpbmcgZHJhaW5lZD88L2gxPgo8aDE+QWxsIHlvdSBuZWVkIGlzIGEgZ29vZCBjdXAg
+b2YgY29mZmVlLjwvaDE+CjxwPjxhIGhyZWY9Imh0dHA6Ly9kaXNhc3Rlci1tYW5hZ2VtZW50Lm5l
+dC8zYnF0STFvSVhlV3MiPlNlYXJjaCBDb2ZmZWUgQ291cG9uczwvYT48L3A+CjxwPlNhdmUgb24g
+eW91ciBuZXh0IG11Y2ggbmVlZGVkIGJldmVyYWdlLjwvcD4KPHA+PC9wPgo8Y2VudGVyPjwvY2Vu
+dGVyPgo8cD48aW1nIHNyYz0iaHR0cDovL2Nkbi5kaXNhc3Rlci1tYW5hZ2VtZW50Lm5ldC9lby5w
+aHA/az0xOTI5JmtjPTM3MzA3MDcma3M9MCZrZj0wJnBjPTIxNTYmdDE9ZGVmYXVsdCZ0Mj0mdDM9
+JnQ0PSZ1PSZ1Mj0iIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIC8+PC9wPgo8cD4mbmJzcDs8L3A+Cjxw
+PiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+
+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4m
+bmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZu
+YnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5i
+c3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJz
+cDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNw
+OzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0
+LWRpc21pc3NhYmxlIGFsZXJ0LXN1Y2Nlc3MiIHN0eWxlPSJ0ZXh0LWFsaWduOiByaWdodDsiPjxz
+cGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsiPlRoaXMgaXMgYW4gYWR2ZXJ0aXNlbWVudC48L3Nw
+YW4+PC9kaXY+CjxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LWRpc21pc3NhYmxlIGFsZXJ0LXN1Y2Nl
+c3MiIHN0eWxlPSJ0ZXh0LWFsaWduOiByaWdodDsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlw
+dDsiPklmIHlvdSB3YW50IHRvIHVuc3Vic2NyaWJlLCBwbGVhc2UgY2xpY2sgPGEgaHJlZj0iaHR0
+cDovL2Rpc2FzdGVyLW1hbmFnZW1lbnQubmV0L2pKWWIyalcyRk1FZSI+Jm5ic3A7PC9hPjxhIGhy
+ZWY9Imh0dHA6Ly9kaXNhc3Rlci1tYW5hZ2VtZW50Lm5ldC9Jd19DZEs5ZHN6ckoiIHRhcmdldD0i
+X2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiPmhlcmUuPC9hPjwvc3Bhbj48L2Rpdj4K
+PGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtZGlzbWlzc2FibGUgYWxlcnQtc3VjY2VzcyIgc3R5bGU9
+InRleHQtYWxpZ246IHJpZ2h0OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyI+b3Igd3Jp
+dGUgYSBsZXR0ZXIgdG86PC9zcGFuPjwvZGl2Pgo8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kaXNt
+aXNzYWJsZSBhbGVydC1zdWNjZXNzIj4KPGgzIGlkPSJtY2V0b2NfMWNzcXR2dWh2MCIgc3R5bGU9
+InRleHQtYWxpZ246IHJpZ2h0OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+MTMyMSBV
+cGxhbmQgRHIgNDM5OSBIb3VzdG9uLCBUWCA3NzA0Mzwvc3Bhbj48L2gzPgo8L2Rpdj4=
+
+---_-_-126adf6949fed3e767627771__b1126886dccf5a88116ddc_-_---

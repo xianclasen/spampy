@@ -1,0 +1,549 @@
+Return-Path: <SRS0=IpDpvf=3B=sendgrid.net=bounces+6713620-4130-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 26278 invoked from network); 12 Jan 2020 00:22:42 -0000
+Received: (qmail 19009 invoked from network); 12 Jan 2020 00:22:41 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 00:22:41 -0000
+Received: (qmail 23391 invoked by uid 48516); 12 Jan 2020 00:22:41 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 17506 invoked from network); 12 Jan 2020 00:22:40 -0000
+Received: from o7.ptr7470.ayome.co (o7.ptr7470.ayome.co [168.245.18.215])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 12 Jan 2020 00:22:40 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:to:list-unsubscribe;
+	s=smtpapi; bh=xHFhyT9ELaYrQhMsOlSGWrW7luquvtMTjv6Sw1htids=;
+	b=lYlLkeAu5CU0O4LVxD8YtPOjqHQv5lOiGausoEa8//gQJAujcq6g0qQvbWWmfqd69Sqj
+	Ycrj5pT3tqna6Miy9f+SU1Qlu6T0A2qp/Hrb8IYtPITZdOb7DLmLNfR/6YHtnAYo090NOR
+	9E8f1o2t7pu/uDOMvNZEB636X5xIL7Wjs=
+Received: by filterdrecv-p3iad2-57f487d66-l92zz with SMTP id filterdrecv-p3iad2-57f487d66-l92zz-17-5E1A66CE-31
+        2020-01-12 00:22:38.85361702 +0000 UTC m=+2244960.266189198
+Received: from NjcxMzYyMA (unknown [147.135.133.221])
+	by ismtpd0001p1lon1.sendgrid.net (SG) with HTTP id xUtz1xZnTLSnGtAOwVqRWQ
+	Sun, 12 Jan 2020 00:22:38.657 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=790954dd1c13e772da36b0ccc6a811a275685afe75f37703f04d4ebbb6b4
+Date: Sun, 12 Jan 2020 00:22:38 +0000 (UTC)
+From: "Marie. Ayomi .Ayomi." <campaign@ayome.co>
+Mime-Version: 1.0
+Message-ID: <xUtz1xZnTLSnGtAOwVqRWQ@ismtpd0001p1lon1.sendgrid.net>
+Subject: TOKEN ECONOMICS - votre invitation personnelle pour la
+ =?UTF-8?B?csOpdW5pb24=?= investisseur Mercredi 15 Janvier =?UTF-8?B?w6A=?=
+ 19:00 CET
+X-SG-EID: 
+ =?us-ascii?Q?sn33hCzz9zuJ0i00YpCfRveAa6YZhXlYQx2DSTNhInUAnB1jieOIWMvxA3l4cE?=
+ =?us-ascii?Q?bPvLSa22dgb1w+vwqj98l2mdtA0XusHNAaK+QCS?=
+ =?us-ascii?Q?2few5c692gn01YHfwN78KhmdwWj7NtNyXOPZUna?=
+ =?us-ascii?Q?9QgrPN3BwhJYY27CUZETMszEbf5l1JLGt=2FlIYIF?=
+ =?us-ascii?Q?TYFcjuT22+mpyyyQutM8l8h2Bw3JFHOdb+W3YGB?=
+ =?us-ascii?Q?qQSdHysil6R5=2FwZH8XOiHLB=2F+Lkr0ID5pUnlu=2Fc?=
+ =?us-ascii?Q?fhyzvgQ1HISmqEJU+pimg=3D=3D?=
+To: bruce@untroubled.org
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Cmailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject=3Dhttps=3A=2F=2Fu6713620=2Ect=2Es?=
+ =?us-ascii?Q?endgrid=2Enet=2Fwf=2Funsubscribe*q*upn=3D95ipHO?=
+ =?us-ascii?Q?-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FN?=
+ =?us-ascii?Q?YKjnctzg9WTM5-2FAqid-2Bs7H3-2BmCPy8XohT?=
+ =?us-ascii?Q?J6ZwwipTySuWwEg-2FcaN90xJXRuUt7-2FDvK13?=
+ =?us-ascii?Q?dCrJDLuPSbh24X8eTmTDDVXTmVlEk3Wi9WpODDJ?=
+ =?us-ascii?Q?DSA34DKFADqpHzMhVQQBQnJ7-2FEOduvACfCCo6?=
+ =?us-ascii?Q?shhwE4M5nuqMv3l60qDRZeXspdCHB9adnvvX7qS?=
+ =?us-ascii?Q?1EjEj0bDqvWFfV6n4791ONG2yldnfKEasT=3E?=
+Content-Length: 21617
+
+--790954dd1c13e772da36b0ccc6a811a275685afe75f37703f04d4ebbb6b4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+|  |  |  | =20
+ =20
+--- =20
+[![](https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14K=
+mKHl8Y0FEvOEIiQ-2BxH9cPe3rOGEVvZYNzGtTD-2FF1kSPPGutzju0175uu2TdaNVh9vvDKUsp=
+JaAhBAGjmbsTtFd0ce8U82Fj0rd3bHWyp32Zj_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B=
+369f-2FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2BmYx5zcEPgBd-2BoOrUatRd-2BsLfxEvpwc3-2=
+BoQu5VQ5t-2FcrArF24aC0JSofCZ3e6wlLbLvBM5T12zxdSSydagYzD-2FI5gGQgRbz27y0G3xK=
+5eI16kw86NjLn7yeaZp-2F9yb-2F5ksNW72sxKTUJ9xK-2FtuTbYt7hs7ZzMGlg4f951MqPBrbt=
+KbqiXoRv0K8MDhYQR4pLYU
+-fc5e-454f-a9f4-c7484f0e12f6.jpg)](https://u6713620.ct.sendgrid.net/wf/clic=
+k?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9MjBwH0C0BR6BSKw3DLm-2Bmn=
+u_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnctzg9WTM5-2FAqid-2Bs7H3-=
+2BmIfPyJGmOVRBereYR7Fes5q30x7ag58uJebwOVsgezYLVu1BFsz-2BDpeiA8aZry4za8ieHq7=
+ZyWxtt5Kt5THfwZsTTv0Emfvgxw7lS6u1Nw725ZnH260kDqSNZTe1RA4-2Fh6yEF4WQSDcaSJyG=
+RnQhVD1TL2ppkAIs1uAJcQAUfFbSiBdMWQTm2pg-2FsJYgOLKq-2F
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmJCjl50FO-2FEHIJAs-2FZ9Axrrgq9HxG9GhEjodIz1Ab-2BWx_95ipHO-2FHtfiEGxEkeDVC7=
+m2cc8Z9r802-2B369f-2FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2Bm6U234dkZiqo0Bk31-2FvB8=
+90aqGvi622l93TAM1nvjjlENql7Uz5iEbPS39LhHEnT7PDZLf3CuYQUZmIHGEB1bcC6tmfz-2BJ=
+W34z7ZmJTitorHEpMUY3NLuQ117xnn3D9fpQxjMz1kluP2aRqvL5luk2bJ-2BT9VEzzrzGCU1ib=
+WxCrslh8N-2B0yoKivDl76KyvVSR
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmCIPfma8NTYNhFNorn-2F7ie-2BWS981RRKzNaRxvvaJOJ0nUbYGohIUGMsBw7mKTKbfSUjA2g=
+J-2FgaD8Spm2pRKAEbF7rnAkzVBOC0ROqnNli9UHomDWUH3sMkIuy4lYcViiPfAPe880R-2FaF6=
+Bra8LBpKevyBTpqYZ6m5t6e3gBj96vq_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2=
+FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2BmO90bzEz4QKSkQv-2B-2BoBOYKYsvrEP75p9bScqtw6=
+9ljMTjVFX608dSuHavV0Uljzq57jnmLdy7HnPeXAozpNGguOrdl6B5PPMzO2PT2Lb5xApjpNz9W=
+nJZ1LD7hJKxBBUaZWG3FxpOgbwZAfNyKpTwR4vnuO8t2t0BHTAnDAOgb-2FBAqJGiwc114z9Jzu=
+F05XC0 =20
+--- =20
+ =20
+Bonjour, =20
+ =20
+Je suis Marie de la plateforme de crowdfunding AYOMI utilis=C3=A9e par =C2=
+=AB **TOKEN
+ECONOMICS** =C2=BB. =20
+Les dirigeants et associ=C3=A9s fondateurs de la soci=C3=A9t=C3=A9 organise=
+nt cet =C3=A9v=C3=A8nement
+afin de vous d=C3=A9tailler de vive voix l'opportunit=C3=A9 business et la =
+strat=C3=A9gie. =20
+Nous vous invitons =C3=A0 r=C3=A9cup=C3=A9rer vos places =C3=A0 la r=C3=A9u=
+nion investisseur organis=C3=A9e
+par REMY EISENSTEIN, **Mercredi 15 Janvier =C3=A0 19:00 CET** en ligne, acc=
+essible
+depuis un smartphone ou un ordinateur. =20
+On se r=C3=A9jouit de vous y rencontrer. =20
+ =20
+--- =20
+| [Je r=C3=A9cup=C3=A8re mon invitation !](https://u6713620.ct.sendgrid.net=
+/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9MjBwH0C0BR6BSKw3=
+DLm-2Bmnu_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnctzg9WTM5-2FAqid=
+-2Bs7H3-2BmWQ5q95w3bncKdEy5USwzAWL-2FDzoUm47vwQyNs5c7KbUHF8E42rZTul8YePtLKr=
+84Bf-2FXlpV56sS37ugDxaTBCzH-2B58U6gPuG10NYqhJuUXQ4146jZMHwXW2hjda1JjEUG1VKT=
+5E8vUSG9jn7ZPIz4pqmhTq6actybmCKtRwBnsi8Ubwx9CHRBES-2FTtQ2KvnS
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmJCjl50FO-2FEHIJAs-2FZ9Axrrgq9HxG9GhEjodIz1Ab-2BWx_95ipHO-2FHtfiEGxEkeDVC7=
+m2cc8Z9r802-2B369f-2FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2Bmbjxt28zKwvR7mntRK9iH3-=
+2Bj26eZ3-2BpF84ko0Kgn6zrp8HmPRwyFC9uxXN6y9zLNJQ5G5z-2F0vKnFXPoOgEqoDV5U-2Fm=
+rZejZAoukGFB6Ka6v-2FiHIiPZPEBnM-2Fem4w7Ova9xQ3EKvGM02EAC97AIFnW9L2TJFiAq9DV=
+nTFX-2BIStu2Uy0jtdEAWuzFJwsD9K3QsO
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmCIPfma8NTYNhFNorn-2F7ie-2BWS981RRKzNaRxvvaJOJ0nUbYGohIUGMsBw7mKTKbfSUjA2g=
+J-2FgaD8Spm2pRKAEbF7rnAkzVBOC0ROqnNli9UHomDWUH3sMkIuy4lYcViiPfAPe880R-2FaF6=
+Bra8LBpKevyBTpqYZ6m5t6e3gBj96vq_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2=
+FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2Bm-2FDEF07EuKprnEM9NiRdRHTJSonKTeqxKt-2BaHZi=
+Xt10Cb3WR6q-2Fvm4MH9nYt-2BUIwtwyfV4Z-2BDbWMnAY5i1AGsF2sGCn8g5Isd-2BOmTEj80w=
+xre43evkbhKDYT7yifkcqw8xIfIqqAju15BqKsUQnJedfe6SYiBDhRaS6h8-2FsveqXMqLDc5z6=
+fYIKVTbrzmAchN =20
+--- =20
+ =20
+Le nombre de place est limit=C3=A9 =C3=A0 20 personnes, les inscriptions se=
+ront toutes
+prises dans les prochaines heures. =20
+D=C3=A9j=C3=A0 emball=C3=A9(e) ? Retrouvons nous sur la page d=E2=80=99inve=
+stissement directement
+
+ =20
+ =20
+--- =20
+| [
+
+J'investis dans TOKEN ECONOMICS
+
+](https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmON=
+QSi2Qou6tVmrGoXwi9MjBwH0C0BR6BSKw3DLm-2Bmnu_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r=
+802-2B369f-2FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2Bm-2Bx3go-2BGZPFRyJqdY8J5jY2JJmC=
+y1Xf2ig1QlCNFZabesCyuVqt9Rgo9ZQBJ9dx-2BWBioOv5iWxiJUQ-2BzU4w4918ejKkU6RUWfz=
+4yEmqyu6Lsfrz1LRFY59Lw-2BwAdLEGHMeOMTmijMZBzqctplY0Bq-2BNv5ok-2BtzOf6AtXohv=
+z0sUzKodE6CXpQZtq5ygxgJS3f
+ayomi/https://u6713620.ct.sendgrid.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14=
+KmChIntHThu01-2Fxi63dYMb28XLgwORiQLUhI7nERg6rCs7DEoD00Joc341HrkSeA3AbVLGkqI=
+0c-2FGD8Vp7QniNUJdzpktO0tqAhpzFt9oc4Bw_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2=
+B369f-2FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2BmCDvwIdRUHsp2LehZXKVTwb4Td3Tl3lyARSq=
+uVexu2feszS1WcahUzfPeTVodtltZlI0AysejbvYzrqUjfZN6sFV-2FW4tklYhkohiPuglnWqQI=
+jQKsZKMwLcL-2FMG0Z1AAr0lfPeaKlChpMOU6wuvGZj1PtYsGXtqgaWIkYCGVmRA9u6xTlzOZgh=
+BngC-2FZHecqI =20
+--- =20
+ =20
+=C3=80 bient=C3=B4t, =20
+Marie
+
+____
+
++33(0) 7 57 93 36 93
+
+[Unsubscribe ](\[unsubscribe\]) =20
+--- =20
+| =20
+---
+
+
+If you would like to unsubscribe and stop receiving these emails click here=
+: https://u6713620.ct.sendgrid.net/wf/unsubscribe?upn=3D95ipHO-2FHtfiEGxEke=
+DVC7m2cc8Z9r802-2B369f-2FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2BmBqITCv67CdDluRTuw0=
+-2Fy3hYYZTTPID3rcqEXKVwq6dO8gPEo5hXjgDV89Ysg49onHiRSlmC6HJkB3qej-2Fc9DlbQxi=
+lJpiB7Yg35DQE3enXTIv9loAHhPfnXBq2684kUTQLMkr0gK6bQ78Indfp9mnbhJkWBfUXPefAQx=
+mCovcML-2B6AxF6fxazPHkvFfxhJcb.
+--790954dd1c13e772da36b0ccc6a811a275685afe75f37703f04d4ebbb6b4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html data-editor-version=3D"2" class=3D"=
+sg-campaigns" xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+
+ =20
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, minimum-scale=3D1, maximum-scale=3D1"><!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge"><!--<![endif=
+]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG></o:AllowPNG>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <style type=3D"text/css">
+      body {width: 600px;margin: 0 auto;}
+      table {border-collapse: collapse;}
+      table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img {-ms-interpolation-mode: bicubic;}
+    </style>
+    <![endif]-->
+
+    <style type=3D"text/css">
+      body, p, div {
+        font-family: arial;
+        font-size: 14px;
+      }
+      body {
+        color: #000000;
+      }
+      body a {
+        color: #1188E6;
+        text-decoration: none;
+      }
+      p { margin: 0; padding: 0; }
+      table.wrapper {
+        width:100% !important;
+        table-layout: fixed;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      img.max-width {
+        max-width: 100% !important;
+      }
+      .column.of-2 {
+        width: 50%;
+      }
+      .column.of-3 {
+        width: 33.333%;
+      }
+      .column.of-4 {
+        width: 25%;
+      }
+      @media screen and (max-width:480px) {
+        .preheader .rightColumnContent,
+        .footer .rightColumnContent {
+            text-align: left !important;
+        }
+        .preheader .rightColumnContent div,
+        .preheader .rightColumnContent span,
+        .footer .rightColumnContent div,
+        .footer .rightColumnContent span {
+          text-align: left !important;
+        }
+        .preheader .rightColumnContent,
+        .preheader .leftColumnContent {
+          font-size: 80% !important;
+          padding: 5px 0;
+        }
+        table.wrapper-mobile {
+          width: 100% !important;
+          table-layout: fixed;
+        }
+        img.max-width {
+          height: auto !important;
+          max-width: 480px !important;
+        }
+        a.bulletproof-button {
+          display: block !important;
+          width: auto !important;
+          font-size: 80%;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        .columns {
+          width: 100% !important;
+        }
+        .column {
+          display: block !important;
+          width: 100% !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+        }
+      }
+    </style>
+    <!--user entered Head Start-->
+   =20
+     <!--End Head user entered--></head><body>
+ =20
+ =20
+    <center class=3D"wrapper" data-link-color=3D"#1188E6" data-body-style=
+=3D"font-size: 14px; font-family: arial; color: #000000; background-color: =
+#ffffff;">
+      <div class=3D"webkit">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" class=3D"wrapper" bgcolor=3D"#ffffff">
+          <tbody><tr>
+            <td valign=3D"top" bgcolor=3D"#ffffff" width=3D"100%">
+              <table width=3D"100%" role=3D"content-container" class=3D"out=
+er" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                <tbody><tr>
+                  <td width=3D"100%">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tbody><tr>
+                        <td>
+                          <!--[if mso]>
+                          <center>
+                          <table><tr><td width=3D"600">
+                          <![endif]-->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"width: 100%; max-width:600px;" align=3D"cent=
+er">
+                            <tbody><tr>
+                              <td role=3D"modules-container" style=3D"paddi=
+ng: 0px 0px 0px 0px; color: #000000; text-align: left;" bgcolor=3D"#ffffff"=
+ width=3D"100%" align=3D"left">
+                               =20
+    <table class=3D"module preheader preheader-hide" role=3D"module" data-t=
+ype=3D"preheader" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"display: none !important; mso-hide: all; visibility: hidden=
+; opacity: 0; color: transparent; height: 0; width: 0;">
+      <tbody><tr>
+        <td role=3D"module-content">
+          <p></p>
+        </td>
+      </tr>
+    </tbody></table>
+ =20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tbody><tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:0px 0px 0px 0px=
+;" valign=3D"top" align=3D"center">
+          <a id=3D"lienInvitationTop_t1" href=3D"https://u6713620.ct.sendgr=
+id.net/wf/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84PfNvCi=
+3TQ-2FlD8pxiuqt-2Bb8X-2FZW1lU2DbECcYvdml3m0tR-2B74NNqYp3vqAZ4IHI40clPRNg98l=
+Vnqzh5nwEDaunREr9aLGUDN8SIGE0zRTnMiIxyil1IK-2FweKEJeqaAKyMwZr-2FoVIA2LiSRvu=
+xTuWwZ8Vkv-2BoUxHrbxZjk9L29F0I1mZcU4uXD81qXztwsFwSnWQ6JGsN2ZFi1mipepYopjnzW=
+rv4TTtZQuT28Ym6Csp1wZ3JaK0iJTZCBgHbq4-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802=
+-2B369f-2FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2BmzeJIYvCkdGbvDfxkroG6QvNzUpcw2phY8=
+uXxC3j1JaKIj8ZfSk2SWsmHX-2BoDk-2F1R3MerZciE3Z-2Br2JwyoWA7Hcb-2BAVEDCcnTXVmX=
+mlW2hHNsO6Ani4o4fNmxEOoQ4ZEu2gcGgUkcyA0PkXDYQNcF34TIwM-2B9iwO9k4G9bgTPiJySa=
+NVQIy4OfTE8zbitnAwE"><img id=3D"img-campaignPreview_t1" class=3D"max-width"=
+ border=3D"0" style=3D"display:block;color:#000000;text-decoration:none;fon=
+t-family:Helvetica, arial, sans-serif;font-size:16px;max-width:100% !import=
+ant;width:100%;height:auto !important;" src=3D"https://gallery.mailchimp.co=
+m/a57ce013cc6a51296c630d640/images/b5d94036-fc5e-454f-a9f4-c7484f0e12f6.jpg=
+" alt=3D"" width=3D"600"></a>
+        </td>
+      </tr>
+    </tbody></table>
+ =20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tbody><tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+justify;" height=3D"100%" valign=3D"top" bgcolor=3D"">
+            <div>
+            <p id=3D"markerBody_t1">Bonjour,<br><br> Je suis Marie de la pl=
+ateforme de crowdfunding AYOMI utilis=C3=A9e par =C2=AB <b>TOKEN ECONOMICS<=
+/b> =C2=BB.<br>Les dirigeants et associ=C3=A9s fondateurs de la soci=C3=A9t=
+=C3=A9 organisent cet =C3=A9v=C3=A8nement afin de vous d=C3=A9tailler de vi=
+ve voix l'opportunit=C3=A9 business et la strat=C3=A9gie.<br>Nous vous invi=
+tons =C3=A0 r=C3=A9cup=C3=A9rer vos places =C3=A0 la r=C3=A9union investiss=
+eur organis=C3=A9e par REMY EISENSTEIN,  <b>Mercredi 15 Janvier =C3=A0 19:0=
+0 CET</b> en ligne, accessible depuis un smartphone ou un ordinateur.<br> O=
+n se r=C3=A9jouit de vous y rencontrer. </p>=20
+            </div>
+           =20
+
+<div></div>
+        </td>
+      </tr>
+    </tbody></table>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"module" =
+data-role=3D"module-button" data-type=3D"button" role=3D"module" style=3D"t=
+able-layout:fixed" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"=
+outer-td" style=3D"padding:0px 0px 0px 0px"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"button-css__deep-table___2OZyb wrapper-mo=
+bile" style=3D"text-align:center"><tbody><tr><td align=3D"center" bgcolor=
+=3D"#f7941d" class=3D"inner-td" style=3D"border-radius:6px;font-size:16px;t=
+ext-align:center;background-color:inherit"><a id=3D"button-invitation_previ=
+ew_t1" style=3D"background-color:#f7941d;border:1px solid #333333;border-co=
+lor:#f7941d;border-radius:6px;border-width:1px;color:#ffffff;display:inline=
+-block;font-family:helvetica,arial,sans-serif;font-size:16px;font-weight:bo=
+ld;letter-spacing:0px;line-height:16px;padding:12px 18px 12px 18px;text-ali=
+gn:center;text-decoration:none" href=3D"https://u6713620.ct.sendgrid.net/wf=
+/click?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84PfNvCi3TQ-2FlD8=
+pxiuqt-2Bb8X-2FZW1lU2DbECcYvdml3m0tR-2B74NNqYp3vqAZ4IHI40clPRNg98lVnqzh5nwE=
+DaunREr9aLGUDN8SIGE0zRTnMiIxyil1IK-2FweKEJeqaAKyMwZr-2FoVIA2LiSRvuxTuWwZ8Vk=
+v-2BoUxHrbxZjk9L29F0I1mZcU4uXD81qXztwsFwSnWQ6JGsN2ZFi1mipepYopjnzWrv4TTtZQu=
+T28Ym6Csp1wZ3JaK0iJTZCBgHbq4-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2=
+FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2BmhOp7AtjQ6Ys0pSBnUUwlkvcZzD3MG5KG5wsTyp0O5K=
+xcIH2fZ5C77kKVjNPLYmKjQlV70ZfBwC4WYt3zyIcNVlZLp73qpmESxlHbezfP9hQWVMro29sra=
+Rl5aB0vTeCTOtdbZa5fZCIjyFdfSn3W2FZjgN1TOZjjjksdQdzrdcRLIHpZ5Xap4K-2FTPLof0v=
+C-2F" target=3D"_blank">Je r=C3=A9cup=C3=A8re mon invitation !</a></td></tr=
+></tbody></table></td></tr></tbody></table>
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tbody><tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"">
+            <div><span style=3D"color: rgb(0, 0, 0); font-family: arial; fo=
+nt-size: 14px; font-style: normal; font-variant-ligatures: normal; font-var=
+iant-caps: normal; font-weight: 400; text-align: justify;"> <p id=3D"marker=
+Body2_t1">Le nombre de place est limit=C3=A9 =C3=A0 20 personnes, les inscr=
+iptions seront toutes prises dans les prochaines heures.<br>D=C3=A9j=C3=A0 =
+emball=C3=A9(e) ? Retrouvons nous sur la page d=E2=80=99investissement dire=
+ctement</p>  </span></div>
+
+<div>&nbsp;</div>
+
+        </td>
+      </tr>
+    </tbody></table>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"module" =
+data-role=3D"module-button" data-type=3D"button" role=3D"module" style=3D"t=
+able-layout:fixed" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"=
+outer-td" style=3D"padding:0px 0px 0px 0px"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"button-css__deep-table___2OZyb wrapper-mo=
+bile" style=3D"text-align:center"><tbody><tr><td align=3D"center" bgcolor=
+=3D"#4f4d4b" class=3D"inner-td" style=3D"border-radius:6px;font-size:16px;t=
+ext-align:center;background-color:inherit"><a id=3D"button-project_preview_=
+t1" style=3D"background-color:#4f4d4b;border:1px solid #333333;border-color=
+:#4F4D4B;border-radius:6px;border-width:1px;color:#ffffff;display:inline-bl=
+ock;font-family:helvetica,arial,sans-serif;font-size:16px;font-weight:bold;=
+letter-spacing:0px;line-height:16px;padding:12px 18px 12px 18px;text-align:=
+center;text-decoration:none" href=3D"https://u6713620.ct.sendgrid.net/wf/cl=
+ick?upn=3DC7DAI2q7pw5cDDa-2Fo14KmONQSi2Qou6tVmrGoXwi9Mh84PfNvCi3TQ-2FlD8pxi=
+uqtM8Y2tQ17jzq5OxFGVfurVDOgYGWVrS0uEfaLVT-2FOy78Vcp5Ri14cVJlvdMSLcPIaqqeiy9=
+zctQ1zWATlpfv06bRBpJidZafdjw0EYuAyyDw-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802=
+-2B369f-2FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2Bm1TZg5YNRvGFQiA0eIBowmzQHpFqtYSdcd=
+ks-2BWts4L8ZljvMI-2BdClky2fUUMjGPA1iXzanrkZU468qMtB1YACjj63v7w3m-2Fsu-2BHQ1=
+8ARICJY3Ld15aQ62XSR-2BI7GO2LvjVaB9IaRQCLC3fw72b6aSQkblejRJHzIDAq0vGyeeNFTtR=
+-2BnENIo41LRgBVRb6azP" target=3D"_blank"> <p id=3D"projectName_preview_t1">=
+J'investis dans TOKEN ECONOMICS</p> </a></td></tr></tbody></table></td></tr=
+></tbody></table>
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tbody><tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"">
+            <div>=C3=80 bient=C3=B4t,<br>
+Marie</div>
+
+<div>____</div>
+
+<div>+33(0) 7 57 93 36 93</div>
+<a href=3D'[unsubscribe]'>Unsubscribe </a>
+        </td>
+      </tr>
+    </tbody></table>
+ =20
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center=
+" width=3D"100%" role=3D"module" data-type=3D"columns" data-version=3D"2" s=
+tyle=3D"padding:0px 0px 0px 0px;box-sizing:border-box;" bgcolor=3D"">
+      <tbody><tr role=3D"module-content">
+        <td height=3D"100%" valign=3D"top">
+            <!--[if (gte mso 9)|(IE)]>
+              <center>
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"100%" style=3D"border-spacing:0;border-collapse:collapse;table-layout=
+: fixed;" >
+                  <tr>
+            <![endif]-->
+         =20
+    <!--[if (gte mso 9)|(IE)]>
+      <td width=3D"300.000px" valign=3D"top" style=3D"padding: 0px 0px 0px =
+0px;border-collapse: collapse;" >
+    <![endif]-->
+=20
+
+    <!--[if (gte mso 9)|(IE)]>
+      </td>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+      <td width=3D"300.000px" valign=3D"top" style=3D"padding: 0px 0px 0px =
+0px;border-collapse: collapse;" >
+    <![endif]-->
+
+    <table width=3D"300.000" style=3D"width:300.000px;border-spacing:0;bord=
+er-collapse:collapse;margin:0px 0px 0px 0px;" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"left" border=3D"0" bgcolor=3D"" class=3D"column column-1 of=
+-2
+                  empty">
+      <tbody><tr>
+        <td style=3D"padding:0px;margin:0px;border-spacing:0;">
+           =20
+        </td>
+      </tr>
+    </tbody></table>
+
+    <!--[if (gte mso 9)|(IE)]>
+      </td>
+    <![endif]-->
+            <!--[if (gte mso 9)|(IE)]>
+                  <tr>
+                </table>
+              </center>
+            <![endif]-->
+        </td>
+      </tr>
+    </tbody></table>
+   =20
+                              </td>
+                            </tr>
+                          </tbody></table>
+                          <!--[if mso]>
+                          </td></tr></table>
+                          </center>
+                          <![endif]-->
+                        </td>
+                      </tr>
+                    </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+    </center>
+ =20
+
+<p>To unsubscribe <a href=3D"https://u6713620.ct.sendgrid.net/wf/unsubscrib=
+e?upn=3D95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnctzg9WTM5-2FAqid-2=
+Bs7H3-2BmuL5wYz7yN0KrCNSks3-2Bx9PbMlRZzcXw3TySS35l1lSLfuDfMCu8R96vZg04Fh6KU=
+v7GXAqCn0hh4u3gEMq8oL7fEDZraDUTGp0sF2HEQjhYDiatR4D2rYNEpqSGOfYao3KmGNlBY2Gr=
+muNfZVfsYQvY7c8yjhQIjKKGBNW9G-2BVMqafnVPbmBgouvDsRRrp7M"> click here </a>.<=
+/p>
+<img src=3D"https://u6713620.ct.sendgrid.net/wf/open?upn=3D95ipHO-2FHtfiEGx=
+EkeDVC7m2cc8Z9r802-2B369f-2FNYKjnctzg9WTM5-2FAqid-2Bs7H3-2BmD80WRuT6Fu7DH8J=
+FO4lrstJIMbZHTjJQoBY2JO2wgqatzLwIM5yekVydE0OzoCO-2BgG6x8UCICGbUCc-2FOm1-2B6=
+CWnGlweE2He-2FPrEARlzWVeRcIOq9SAbWYtkYGMZVjVyYgPX5TpS9ThnkjH5OPRove2CXlQVqJ=
+s6-2FAmqZO0-2B1b964RllMsOdYAEfvEApzm4M8" alt=3D"" width=3D"1" height=3D"1" =
+border=3D"0" style=3D"height:1px !important;width:1px !important;border-wid=
+th:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-r=
+ight:0 !important;margin-left:0 !important;padding-top:0 !important;padding=
+-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"=
+/></body></html>=20
+
+
+--790954dd1c13e772da36b0ccc6a811a275685afe75f37703f04d4ebbb6b4--

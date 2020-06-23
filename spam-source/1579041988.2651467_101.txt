@@ -1,0 +1,768 @@
+Return-Path: <SRS0=URRDGJ=3D=us-west-2.amazonses.com=0101016fa44f422c-3e8e7f71-531f-43d6-8fb4-2fec2baaa075-000000@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28960 invoked from network); 14 Jan 2020 13:47:38 -0000
+Received: (qmail 3069 invoked from network); 14 Jan 2020 13:47:38 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 13:47:38 -0000
+Received: (qmail 23217 invoked by uid 48516); 14 Jan 2020 13:47:37 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 30998 invoked from network); 14 Jan 2020 13:47:37 -0000
+Received: from a27-153.smtp-out.us-west-2.amazonses.com (a27-153.smtp-out.us-west-2.amazonses.com [54.240.27.153])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 14 Jan 2020 13:47:37 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=d3zvbrwpvlxlgopsxxlttwi2nqb5inov; d=maniasol.com; t=1579009655;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe;
+	bh=8hBAIewWmzLh17dyXtTADW3nhehOxzxNxWIWs4U5mGo=;
+	b=eOMJQkcHYDcyX4oSvWKMukams/6Gcv+/uNHhzmhpp8GzwuATGTgDOAgJFZRIJ4Mk
+	l53Brl9A0Dia1niCNglxVJEUjGPwwxKmVZ98MOtuW6+m4K293nFdEzAJYW9aYP75Bqw
+	qU7OsBmFPSCWyoyZuJsv8B9M1v0MLHzQ1dc7WhXE=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=gdwg2y3kokkkj5a55z2ilkup5wp5hhxx; d=amazonses.com; t=1579009655;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe:Feedback-ID;
+	bh=8hBAIewWmzLh17dyXtTADW3nhehOxzxNxWIWs4U5mGo=;
+	b=J0kUaFbc5r/UG+WFrtK8u1bOXSqsJYAgdJPeUXucbLnpfCaBmrAnolcaFbYWswkk
+	Wzrdn+Josdvbxq6CrlmCCYxyagbSyzqzmKKFH58n5+/EhXaLIDIQwwemY2LBGIbAS6x
+	NxUkD5miAuHM7DJUzdv05TdB7X0+wxiCZXvJWs7g=
+Date: Tue, 14 Jan 2020 13:47:35 +0000
+From: Ray-Ban <contato@maniasol.com>
+Reply-To: Ray-Ban <contato@maniasol.com>
+To: bruce@untroubled.org
+Message-ID: <0101016fa44f422c-3e8e7f71-531f-43d6-8fb4-2fec2baaa075-000000@us-west-2.amazonses.com>
+Subject: =?UTF-8?Q?=C3=9Altimas_Horas:_Ray-Ban_50%_OFF_em_todo_site!_Corra!?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5e1dc67730550_43fc513c93fac804314c";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <https://helios.listmanager2.com/unsubscribe/create/20f8d860-0792-4184-b3c8-2e7ff8302821>
+X-SES-Outgoing: 2020.01.14-54.240.27.153
+Feedback-ID: 1.us-west-2.L5kq3Ao4gWzFDuBn+9LoGxPzEzBCNbjHENRkcAp57dQ=:AmazonSES
+Content-Length: 27452
+
+
+----==_mimepart_5e1dc67730550_43fc513c93fac804314c
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0D
+=0D
+=0D
+=0D
+Mania Sol | Promo=C3=A7=C3=B5es Exclusivas?=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+         =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=C2=A0=0D
+=0D
+FRETE GR=C3=81TIS PARA TODO O =0D
+BRASIL=0D
+=C2=A0=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+JUSTIN=0D
+=0D
+=0D
+AVIATOR=0D
+=0D
+=0D
+=0D
+=0D
+ERIKA=0D
+=0D
+=0D
+=0D
+=0D
+FERRARI=0D
+=0D
+=0D
+=0D
+=0D
+MARSHAL=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+    =0D
+        =0D
+                    =0D
+                    =0D
+                        =0D
+                =0D
+          =0D
+=0D
+                    =0D
+                        =0D
+                        =0D
+                =0D
+                =0D
+                    =0D
+                        =0D
+                        =0D
+                =0D
+=0D
+          =0D
+=0D
+                    =0D
+                        =0D
+                        =0D
+                =0D
+                =0D
+                    =0D
+                        =0D
+                        =0D
+                =0D
+=0D
+           =0D
+          =0D
+                        =0D
+=0D
+    =0D
+           =0D
+          =0D
+=0D
+                    =0D
+                        =0D
+                    =0D
+                =0D
+                =0D
+                    =0D
+                        =0D
+                    =0D
+                =0D
+=0D
+           =0D
+=0D
+           =0D
+=0D
+          =0D
+=0D
+=0D
+                =0D
+          =0D
+=0D
+=0D
+                =0D
+          =0D
+=0D
+=0D
+=0D
+    =0D
+    =0D
+           =0D
+          =0D
+                        =0D
+=0D
+    =0D
+    =0D
+   =0D
+        =0D
+                    =0D
+    =0D
+=0D
+=0D
+=0D
+Frete gr=C3=A1tis para todo o Brasil=0D
+Pague em at=C3=A9 6x sem juros no cart=C3=A3o. =0D
+Ofertas sujeitas a altera=C3=A7=C3=A3o de pre=C3=A7o e/ou condi=C3=A7=C3=B5=
+es de =0D
+pagamento sem aviso pr=C3=A9vio. Troca ou devolu=C3=A7=C3=A3o gr=C3=A1tis=
+ de =0D
+produtos em sua embalagem original lacrada e n=C3=A3o =0D
+danificada em at=C3=A9 30 dias corridos ap=C3=B3s o recebimento da =0D
+compra. =0D
+CENTRAL DE RELACIONAMENTO=0D
+De segunda a sexta, das 09h as 17h (exceto feriados).=0D
+WhatsApp:(11) 94994-2058=0D
+E-mail: atendimento@maniasol.com=0D
+Para garantir que nossos comunicados cheguem em sua =0D
+caixa de entrada, adicione o email contato@maniasol.com =0D
+em sua lista de contatos. =0D
+=0D
+Trocas e devolu=C3=A7=C3=B5es=0D
+=0D
+1. Prazo para solicita=C3=A7=C3=A3o de troca ou devolu=C3=A7=C3=A3o por =0D=
+
+motivo:=0D
+A=E2=80=94=C2=8F Arrependimento de Compra=0D
+Caso o produto adquirido n=C3=A3o atenda suas expectativas, =0D
+entre em contato conosco atrav=C3=A9s do email ou WhatsApp. =0D
+Voc=C3=AA precisar=C3=A1 devolver o produto sem ind=C3=ADcios de =0D
+estrago por mau uso. O produto precisa estar na =0D
+embalagem original, acompanhado de todos os acess=C3=B3rios =0D
+recebidos (estojo, caixa, blister/ampolas, etc.) e =0D
+brindes.=0D
+=0D
+B=E2=80=94=C2=8F Produto Diferente do Adquirido=0D
+Caso voc=C3=AA tenha recebido seu produto com qualquer =0D
+diverg=C3=AAncia, entre em contato conosco atrav=C3=A9s do email =0D
+ou WhatsApp. Voc=C3=AA tem at=C3=A9 7 dias corridos, ap=C3=B3s =0D
+recebimento do produto, para solicitar a troca ou =0D
+devolu=C3=A7=C3=A3o. =0D
+=0D
+C=E2=80=94=C2=8F Produto com Defeito Ap=C3=B3s Uso=0D
+Consultar t=C3=B3pico GARANTIAS. =0D
+2. Condi=C3=A7=C3=B5es do produto para troca ou devolu=C3=A7=C3=A3o=0D
+O produto deve ser devolvido sem uso, em sua embalagem =0D
+original, acompanhado dos manuais, acess=C3=B3rios. Todos os =0D
+produtos devolvidos passam por uma an=C3=A1lise do Controle =0D
+de Qualidade ManiaSol, que pode levar at=C3=A9 2 dias =0D
+corridos (1 dia para an=C3=A1lise do produto, mais 1 dia para =0D
+solicita=C3=A7=C3=A3o de estorno ou Vale Troca), no momento que =0D
+chegam ao nosso Centro de Distribui=C3=A7=C3=A3o. =0D
+=0D
+=0D
+=0D
+Copyright=C2=A0=C2=A9 =0D
+2019 Grupo Mania Sol=C2=A0Todos os direitos reservados.=0D
+=0D
+         =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Caso queira deixar de receb=
+er nossas mensagens CLIQUE AQUI=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+
+----==_mimepart_5e1dc67730550_43fc513c93fac804314c
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://ww=
+w.w3.org/TR/html4/loose.dtd">=0D
+<html lang=3D"pt-br" style=3D"opacity: 1;">=0D
+<head>=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=0D
+<title>Mania Sol | Promo=C3=A7=C3=B5es Exclusivas?</title>=0D
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">=0D
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=0D
+<style type=3D"text/css">=0D
+    /* CLIENT-SPECIFIC STYLES */=0D
+=0D
+    body,=0D
+    table,=0D
+    td,=0D
+    a {=0D
+        -webkit-text-size-adjust: 100%;=0D
+        -ms-text-size-adjust: 100%;=0D
+    }=0D
+=0D
+    table,=0D
+    td {=0D
+        mso-table-lspace: 0pt;=0D
+        mso-table-rspace: 0pt;=0D
+    }=0D
+=0D
+    img {=0D
+        -ms-interpolation-mode: bicubic;=0D
+    }=0D
+    /* RESET STYLES */=0D
+=0D
+    img {=0D
+        border: 0;=0D
+        height: auto;=0D
+        line-height: 100%;=0D
+        outline: none;=0D
+        text-decoration: none;=0D
+    }=0D
+=0D
+    table {=0D
+        border-collapse: collapse !important;=0D
+    }=0D
+=0D
+    body {=0D
+        height: 100% !important;=0D
+        margin: 0 !important;=0D
+        padding: 0 !important;=0D
+        width: 100% !important;=0D
+    }=0D
+    /* iOS BLUE LINKS */=0D
+=0D
+    a[x-apple-data-detectors] {=0D
+        color: inherit !important;=0D
+        text-decoration: none !important;=0D
+        font-size: inherit !important;=0D
+        font-family: inherit !important;=0D
+        font-weight: inherit !important;=0D
+        line-height: inherit !important;=0D
+    }=0D
+    /* MEDIA QUERIES */=0D
+=0D
+    @media screen and (max-width: 600px) {=0D
+        .mobile-hide {=0D
+            display: none !important;=0D
+        }=0D
+        .mobile-center {=0D
+            text-align: center !important;=0D
+        }=0D
+        .mobile-table {=0D
+            width: 100% !important;=0D
+        }=0D
+        .text-center {=0D
+            text-align: center !important;=0D
+        }=0D
+    }=0D
+    /* ANDROID CENTER FIX */=0D
+=0D
+    div[style*=3D"margin: 16px 0;"] {=0D
+        margin: 0 !important;=0D
+    }=0D
+    </style>=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=0D
+<meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewp=
+ort">=0D
+</head>=0D
+<body bgcolor=3D"#000000">=0D
+=0D
+=0D
+<center style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; table-layout: fixed; width: 100%;">=0D
+<div style=3D"max-width: 600px;">=0D
+<table align=3D"center" style=3D"-ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; Margin: 0 auto; border-spacing: 0; font-family: Arial=
+, Helvetica, sans-serif; max-width: 600px; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; width: 26%;"><tbody><tr><td style=3D"-ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; padding: 0;">=0D
+=0D
+         <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"606"><tbody><tr><td colspan=3D"2">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; color: rgb(255, 255, 255); font-family: Arial=
+, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-varian=
+t-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-=
+spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit=
+-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-=
+color: initial; background: rgb(0, 0, 0);" width=3D"99%"><tbody style=3D"=
+box-sizing: border-box;"><tr style=3D"box-sizing: border-box;">=0D
+<td align=3D"center" style=3D"box-sizing: border-box; padding: 0px; text-=
+align: left; width: 113px; max-width: 113px;" width=3D"15%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 113px; min-width: 113px; background: rgb(0, 0, 0);"=
+ width=3D"100%"><tbody style=3D"box-sizing: border-box;"><tr style=3D"box=
+-sizing: border-box;"><td align=3D"center" bgcolor=3D"#000000" style=3D"b=
+ox-sizing: border-box; padding: 0px; background: rgb(0, 0, 0);" width=3D"=
+100%">=0D
+<a class=3D"post-clickout" href=3D"https://delta.listmanager2.com/click/2=
+0f8d860-0792-4184-b3c8-2e7ff8302821/cd3066b0-abef-410a-b109-65b6c729dad5/=
+event" style=3D"box-sizing: border-box; color: rgb(66, 139, 202); text-de=
+coration: none;" target=3D"_blank">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15789=
+78158/imagens/image_0.jpg" alt=3D"Ray-Ban Logo" title=3D"Ray-Ban Logo" wi=
+dth=3D"113" height=3D"82" border=3D"0" style=3D"box-sizing: border-box; b=
+order: 0px none; vertical-align: middle; display: block; max-width: 113px=
+;"></a>=0D
+</td></tr></tbody></table>=0D
+</td>=0D
+<td align=3D"center" style=3D"box-sizing: border-box; padding: 0px;" vali=
+gn=3D"middle" width=3D"80%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; height: 82px; background: rgb(0, 0, 0);" widt=
+h=3D"98%"><tbody style=3D"box-sizing: border-box;">=0D
+<tr style=3D"box-sizing: border-box;"><td align=3D"center" bgcolor=3D"#00=
+0000" height=3D"36" style=3D"box-sizing: border-box; height: 36px; paddin=
+g: 0px; background: rgb(0, 0, 0);" valign=3D"bottom" width=3D"99%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; background: rgb(0, 0, 0);" width=3D"100%"><tb=
+ody style=3D"box-sizing: border-box;"><tr style=3D"box-sizing: border-box=
+;">=0D
+<td align=3D"center" bgcolor=3D"#000000" style=3D"box-sizing: border-box;=
+ padding: 0px; background: rgb(0, 0, 0);" width=3D"5%">=C2=A0</td>=0D
+<td align=3D"center" bgcolor=3D"#000000" style=3D"box-sizing: border-box;=
+ border-bottom: 1px solid rgb(119, 119, 119); padding: 0px; background: r=
+gb(0, 0, 0);">=0D
+FRETE GR=C3=81TIS PARA TODO O =0D
+BRASIL</td>=0D
+<td align=3D"center" bgcolor=3D"#000000" style=3D"box-sizing: border-box;=
+ padding: 0px; background: rgb(0, 0, 0);" width=3D"5%">=C2=A0</td>=0D
+</tr></tbody></table>=0D
+</td></tr>=0D
+<tr style=3D"box-sizing: border-box;"><td align=3D"center" bgcolor=3D"#00=
+0000" height=3D"46" style=3D"box-sizing: border-box; height: 46px; paddin=
+g: 0px; background: rgb(0, 0, 0);" width=3D"99%">=0D
+<table bgcolor=3D"#000000" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"box-sizing: border-box; border-collapse: collapse; border-spa=
+cing: 0px; max-width: 100%; background: rgb(0, 0, 0);" width=3D"101%"><tb=
+ody style=3D"box-sizing: border-box;"><tr style=3D"box-sizing: border-box=
+;">=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"14%">=0D
+<a href=3D"https://delta.listmanager2.com/click/20f8d860-0792-4184-b3c8-2=
+e7ff8302821/d7b7f5b7-d1cb-42e0-a860-00f35702417d/event" style=3D"text-dec=
+oration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF; background-position: 0% 0=
+%;">=0D
+JUSTIN</span></a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"20%">=0D
+<a class=3D"post-clickout" href=3D"https://delta.listmanager2.com/click/2=
+0f8d860-0792-4184-b3c8-2e7ff8302821/22653d62-e0a8-4437-a467-2a9844945460/=
+event" style=3D"box-sizing: border-box; color: rgb(255, 255, 255); text-d=
+ecoration: none; font-size: 12px;" target=3D"_blank">AVIATOR</a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"23%">=0D
+<a href=3D"https://delta.listmanager2.com/click/20f8d860-0792-4184-b3c8-2=
+e7ff8302821/953d4350-31b7-45a0-ae6e-a73ce70cc8b8/event" style=3D"text-dec=
+oration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF; background-position: 0% 0=
+%;">=0D
+ERIKA</span></a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"23%">=0D
+<a href=3D"https://delta.listmanager2.com/click/20f8d860-0792-4184-b3c8-2=
+e7ff8302821/2bd37db8-24fd-461e-9c17-aca0ca6e31c5/event" style=3D"text-dec=
+oration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF; background-position: 0% 0=
+%;">=0D
+FERRARI</span></a>=0D
+</td>=0D
+<td align=3D"center" bgcolor=3D"#000" style=3D"box-sizing: border-box; pa=
+dding: 0px; background: rgb(0, 0, 0);" width=3D"21%">=0D
+<a href=3D"https://delta.listmanager2.com/click/20f8d860-0792-4184-b3c8-2=
+e7ff8302821/990ee95f-dec5-4e10-87cb-1ec0d10fb89f/event" style=3D"text-dec=
+oration: none;">=0D
+<span style=3D"font-size: 12px; color: #FFFFFF;">=0D
+MARSHAL</span></a>=0D
+</td>=0D
+</tr></tbody></table>=0D
+</td></tr>=0D
+</tbody></table>=0D
+</td>=0D
+</tr></tbody></table>=0D
+</td></tr></tbody></table>=0D
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"box-sizi=
+ng: border-box; border-spacing: 0px; border-collapse: collapse; font-size=
+: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-=
+caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-=
+indent: 0px; text-transform: none; white-space: normal; widows: 2; word-s=
+pacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initi=
+al; text-decoration-color: initial; font-family: Arial, Helvetica, sans-s=
+erif; color: rgb(102, 102, 102); width: 600px; margin: 0px auto; backgrou=
+nd-color: rgb(35, 35, 35);"><tbody style=3D"box-sizing: border-box;"><tr =
+style=3D"box-sizing: border-box;"><td align=3D"center" style=3D"box-sizin=
+g: border-box; padding: 0px;">=0D
+=0D
+=0D
+    =0D
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"600"><tbody><tr><td>=0D
+                    <a href=3D"https://delta.listmanager2.com/click/20f8d=
+860-0792-4184-b3c8-2e7ff8302821/112b53da-330c-488f-8385-12000759b5c6/even=
+t">=0D
+                    <img src=3D"https://s3-sa-east-1.amazonaws.com/newsle=
+ttersauto/news_1578978158/imagens/image_1.png" width=3D"600" height=3D"40=
+0"></a><a style=3D"text-align: center; color: #959595; font-weight: bold;=
+ font-family: sans-serif; font-size: 16px; text-decoration: none;" target=
+=3D"_blank">=0D
+                        </a>=0D
+                </td></tr></tbody></table>=0D
+          <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"600"><tbody><tr>=0D
+<td>=0D
+                    <a href=3D"https://delta.listmanager2.com/click/20f8d=
+860-0792-4184-b3c8-2e7ff8302821/946c961e-c25d-4d0d-a7f3-f09558c28924/even=
+t" target=3D"_blank">=0D
+                        <img src=3D"https://s3-sa-east-1.amazonaws.com/ne=
+wslettersauto/news_1578978158/imagens/image_2.png" alt=3D"" style=3D"bord=
+er: 0px; display: block;" width=3D"300" height=3D"476"></a><a style=3D"te=
+xt-align: center; color: #959595; font-weight: bold; font-family: sans-se=
+rif; font-size: 16px; text-decoration: none;" target=3D"_blank">=0D
+                        </a>=0D
+                </td>=0D
+                <td>=0D
+                    <a href=3D"https://delta.listmanager2.com/click/20f8d=
+860-0792-4184-b3c8-2e7ff8302821/34e7c28f-f6e4-46a6-b46a-ffea773b5636/even=
+t" target=3D"_blank">=0D
+                        <img src=3D"https://s3-sa-east-1.amazonaws.com/ne=
+wslettersauto/news_1578978158/imagens/image_3.png" alt=3D"" style=3D"bord=
+er: 0px; display: block;" width=3D"300" height=3D"476"></a><a style=3D"te=
+xt-align: center; color: #959595; font-weight: bold; font-family: sans-se=
+rif; font-size: 16px; text-decoration: none;" target=3D"_blank">=0D
+                        </a>=0D
+                </td>=0D
+</tr></tbody></table>=0D
+          <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"600"><tbody><tr>=0D
+<td>=0D
+                    <a href=3D"https://delta.listmanager2.com/click/20f8d=
+860-0792-4184-b3c8-2e7ff8302821/60b986c1-3fec-43e1-8d00-24e6a7e78da0/even=
+t" target=3D"_blank">=0D
+                        <img src=3D"https://s3-sa-east-1.amazonaws.com/ne=
+wslettersauto/news_1578978158/imagens/image_4.png" alt=3D"" style=3D"bord=
+er: 0px; display: block;" width=3D"300" height=3D"476"></a><a style=3D"te=
+xt-align: center; color: #959595; font-weight: bold; font-family: sans-se=
+rif; font-size: 16px; text-decoration: none;" target=3D"_blank">=0D
+                        </a>=0D
+                </td>=0D
+                <td>=0D
+                    <a href=3D"https://delta.listmanager2.com/click/20f8d=
+860-0792-4184-b3c8-2e7ff8302821/4d86a326-13a6-4a46-ad32-d24585e33757/even=
+t" target=3D"_blank">=0D
+                        <img src=3D"https://s3-sa-east-1.amazonaws.com/ne=
+wslettersauto/news_1578978158/imagens/image_5.png" alt=3D"" style=3D"bord=
+er: 0px; display: block;" width=3D"300" height=3D"476"></a><a style=3D"te=
+xt-align: center; color: #959595; font-weight: bold; font-family: sans-se=
+rif; font-size: 16px; text-decoration: none;" target=3D"_blank">=0D
+                        </a>=0D
+                </td>=0D
+</tr></tbody></table>=0D
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust:=
+ 100%;" width=3D"600"><tbody><tr><td style=3D"-webkit-text-size-adjust: 1=
+00%; -ms-text-size-adjust: 100%;">=0D
+          <a href=3D"https://delta.listmanager2.com/click/20f8d860-0792-4=
+184-b3c8-2e7ff8302821/de3415ea-128f-4f26-910f-a634c09c18d5/event" style=3D=
+"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" target=3D"_=
+blank">=0D
+                        <img src=3D"https://s3-sa-east-1.amazonaws.com/ne=
+wslettersauto/news_1578978158/imagens/image_6.png" alt=3D"" style=3D"bord=
+er: 0px; display: block;" width=3D"600" height=3D"274"></a>=0D
+</td></tr></tbody></table>=0D
+    =0D
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust:=
+ 100%;" width=3D"600"><tbody><tr><td style=3D"-webkit-text-size-adjust: 1=
+00%; -ms-text-size-adjust: 100%;">=0D
+          <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%;" width=3D"600"><tbody><tr>=0D
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;"=
+>=0D
+                    <a href=3D"https://delta.listmanager2.com/click/20f8d=
+860-0792-4184-b3c8-2e7ff8302821/06b8867e-e8a8-4673-ba35-34b359e2f68a/even=
+t" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" =
+target=3D"_blank">=0D
+                        <img src=3D"https://s3-sa-east-1.amazonaws.com/ne=
+wslettersauto/news_1578978158/imagens/image_7.png" alt=3D"" style=3D"bord=
+er: 0px; display: block;" width=3D"300" height=3D"476"></a><a style=3D"te=
+xt-align: center; color: #959595; font-weight: bold; font-family: sans-se=
+rif; font-size: 16px; text-decoration: none; -webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%;" target=3D"_blank">=0D
+                    </a>=0D
+                </td>=0D
+                <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%;">=0D
+                    <a href=3D"https://delta.listmanager2.com/click/20f8d=
+860-0792-4184-b3c8-2e7ff8302821/988bec29-5406-4ac2-a01b-65037bb822f1/even=
+t" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" =
+target=3D"_blank">=0D
+                        <img src=3D"https://s3-sa-east-1.amazonaws.com/ne=
+wslettersauto/news_1578978158/imagens/image_8.png" alt=3D"" style=3D"bord=
+er: 0px; display: block;" width=3D"300" height=3D"476"></a><a style=3D"te=
+xt-align: center; color: #959595; font-weight: bold; font-family: sans-se=
+rif; font-size: 16px; text-decoration: none; -webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%;" target=3D"_blank">=0D
+                    </a>=0D
+                </td>=0D
+</tr></tbody></table>=0D
+           </td></tr></tbody></table>=0D
+<div align=3D"center">=0D
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" width=3D"60=
+0"><tbody><tr>=0D
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;"=
+>=0D
+          <a href=3D"https://delta.listmanager2.com/click/20f8d860-0792-4=
+184-b3c8-2e7ff8302821/cd3066b0-abef-410a-b109-65b6c729dad5/event">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15789=
+78158/imagens/image_9.png"></a>=0D
+</td>=0D
+                <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%;">=0D
+          <a href=3D"https://delta.listmanager2.com/click/20f8d860-0792-4=
+184-b3c8-2e7ff8302821/37cc1514-6eb4-4de3-865c-53738dac320b/event">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15789=
+78158/imagens/image_10.png"></a>=0D
+</td>=0D
+                <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%;">=0D
+          <a href=3D"https://delta.listmanager2.com/click/20f8d860-0792-4=
+184-b3c8-2e7ff8302821/8ec5b24c-63e9-4e58-b567-7370afecce26/event">=0D
+<img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_15789=
+78158/imagens/image_11.png"></a>=0D
+</td>=0D
+</tr></tbody></table>=0D
+    =0D
+    </div>=0D
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust:=
+ 100%;" width=3D"600"><tbody><tr><td style=3D"-webkit-text-size-adjust: 1=
+00%; -ms-text-size-adjust: 100%;">=0D
+          <a href=3D"https://delta.listmanager2.com/click/20f8d860-0792-4=
+184-b3c8-2e7ff8302821/9a711087-0c1a-4c4b-8063-4be742a660f4/event" style=3D=
+"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" target=3D"_=
+blank">=0D
+                        <img src=3D"https://s3-sa-east-1.amazonaws.com/ne=
+wslettersauto/news_1578978158/imagens/image_12.png" alt=3D"" style=3D"bor=
+der: 0px; display: block;" width=3D"600" height=3D"78"></a>=0D
+</td></tr></tbody></table>=0D
+    =0D
+    <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D FOOTER =3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D-->=0D
+   =0D
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+center"></table>=0D
+                    =0D
+    =0D
+=0D
+=0D
+=0D
+<p><span style=3D"font-size: 9pt;">Frete gr=C3=A1tis para todo o Brasil<b=
+r>=0D
+Pague em at=C3=A9 6x sem juros no cart=C3=A3o. <br>=0D
+Ofertas sujeitas a altera=C3=A7=C3=A3o de pre=C3=A7o e/ou condi=C3=A7=C3=B5=
+es de =0D
+pagamento sem aviso pr=C3=A9vio. Troca ou devolu=C3=A7=C3=A3o gr=C3=A1tis=
+ de =0D
+produtos em sua embalagem original lacrada e n=C3=A3o =0D
+danificada em at=C3=A9 30 dias corridos ap=C3=B3s o recebimento da =0D
+compra. <br>=0D
+CENTRAL DE RELACIONAMENTO<br>=0D
+De segunda a sexta, das 09h as 17h (exceto feriados).<br>=0D
+WhatsApp:(11) 94994-2058<br>=0D
+E-mail: atendimento@maniasol.com<br>=0D
+Para garantir que nossos comunicados cheguem em sua =0D
+caixa de entrada, adicione o email contato@maniasol.com =0D
+em sua lista de contatos. <br>=0D
+<br>=0D
+Trocas e devolu=C3=A7=C3=B5es<br>=0D
+<br>=0D
+1. Prazo para solicita=C3=A7=C3=A3o de troca ou devolu=C3=A7=C3=A3o por =0D=
+
+motivo:<br>=0D
+A=E2=80=94=C2=8F Arrependimento de Compra<br>=0D
+Caso o produto adquirido n=C3=A3o atenda suas expectativas, =0D
+entre em contato conosco atrav=C3=A9s do email ou WhatsApp. =0D
+Voc=C3=AA precisar=C3=A1 devolver o produto sem ind=C3=ADcios de =0D
+estrago por mau uso. O produto precisa estar na =0D
+embalagem original, acompanhado de todos os acess=C3=B3rios =0D
+recebidos (estojo, caixa, blister/ampolas, etc.) e =0D
+brindes.<br>=0D
+<br>=0D
+B=E2=80=94=C2=8F Produto Diferente do Adquirido<br>=0D
+Caso voc=C3=AA tenha recebido seu produto com qualquer =0D
+diverg=C3=AAncia, entre em contato conosco atrav=C3=A9s do email =0D
+ou WhatsApp. Voc=C3=AA tem at=C3=A9 7 dias corridos, ap=C3=B3s =0D
+recebimento do produto, para solicitar a troca ou =0D
+devolu=C3=A7=C3=A3o. <br>=0D
+<br>=0D
+C=E2=80=94=C2=8F Produto com Defeito Ap=C3=B3s Uso<br>=0D
+Consultar t=C3=B3pico GARANTIAS. <br>=0D
+2. Condi=C3=A7=C3=B5es do produto para troca ou devolu=C3=A7=C3=A3o<br>=0D=
+
+O produto deve ser devolvido sem uso, em sua embalagem =0D
+original, acompanhado dos manuais, acess=C3=B3rios. Todos os =0D
+produtos devolvidos passam por uma an=C3=A1lise do Controle =0D
+de Qualidade ManiaSol, que pode levar at=C3=A9 2 dias =0D
+corridos (1 dia para an=C3=A1lise do produto, mais 1 dia para =0D
+solicita=C3=A7=C3=A3o de estorno ou Vale Troca), no momento que =0D
+chegam ao nosso Centro de Distribui=C3=A7=C3=A3o. </span></p>=0D
+<p>=0D
+<a style=3D"box-sizing: border-box; background-color: transparent; color:=
+ rgb(102, 102, 102); text-decoration: underline;" target=3D"_blank">=0D
+<font style=3D"box-sizing: border-box; vertical-align: inherit; font-size=
+:9pt;">=0D
+Copyright</font></a><font style=3D"box-sizing: border-box; vertical-align=
+: inherit;"><span style=3D"font-size: 9pt;">=C2=A0=C2=A9 =0D
+2019 Grupo Mania Sol=C2=A0Todos os direitos reservados.</span></font></p>=
+=0D
+</td></tr></tbody></table>=0D
+         </td></tr></tbody></table>=0D
+</div>=0D
+</center>=0D
+=0D
+=0D
+<!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D FOOTER =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D-->=0D
+=0D
+<p style=3D"text-align: left;"><span style=3D"color: rgb(0, 0, 0);"><span=
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Caso queira deixar de receber =
+nossas mensagens </span><a href=3D"https://helios.listmanager2.com/unsubs=
+cribe/create/20f8d860-0792-4184-b3c8-2e7ff8302821"><span style=3D"font-fa=
+mily: Arial, Helvetica, sans-serif; font-size: 12px;"><u>CLIQUE AQUI</u><=
+/span></a></span>=0D
+=0D
+</p>=0D
+=0D
+<p>=0D
+<br>=0D
+</p>=0D
+=0D
+=0D
+<div><img src=3D"https://delta.listmanager2.com/open/20f8d860-0792-4184-b=
+3c8-2e7ff8302821/event" alt=3D"_t" width=3D"1" height=3D"1"></div>=0D
+</body>=0D
+</html>=0D
+
+----==_mimepart_5e1dc67730550_43fc513c93fac804314c--

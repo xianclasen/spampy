@@ -1,0 +1,665 @@
+Return-Path: <SRS0=QgC37E=2Z=bistro-zaim.info=info@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21489 invoked from network); 4 Jan 2020 02:21:56 -0000
+Received: (qmail 21490 invoked from network); 4 Jan 2020 02:21:55 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Jan 2020 02:21:55 -0000
+Received: (qmail 20097 invoked by uid 48516); 4 Jan 2020 02:21:54 -0000
+Delivered-To: xuntroubled-inquiries@untroubled.org
+Received: (qmail 17754 invoked from network); 4 Jan 2020 02:21:54 -0000
+Received: from bistro-zaim.info (bistro-zaim.info [5.23.52.122])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 04 Jan 2020 02:21:54 -0000
+Message-ID: <86fd88d521f5712f0cd2a4f7fc2835391a61063292@bistro-zaim.info>
+From: Esmeralda <info@bistro-zaim.info>
+To: inquiries@untroubled.org
+Subject: =?windows-1251?B?yu7w7+7w4PLo4u3g/yDq8+v88vPw4CDq7uzv?=
+	=?windows-1251?B?4O3o6C4=?=
+Date: Sat, 4 Jan 2020 04:21:49 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="8b71383a9c484675a9ace57e8a5ef515c331"
+List-Unsubscribe: <http://kpi-motivaciya.in.ua/Server-Side/amsweb.php?QV0i6pAGQxsbV%2Bf30%2BjcwlwVpeOU6MBN0uH5Rnt6HV%2FqMxN6qUswR9VgnDG3oaw7PTXffxp6DR079oSXAqWP9lP62k%2Fukr%2FsBjZuCUANXkvVfugMGG3BVbSn2Xj%2FwaAFrUzk4%2FBSNsF39HZf7uuI1ZLrsi350gIZmew1TN7ulxU%3D>
+DKIM-Signature: v=1; a=rsa-sha256; d=bistro-zaim.info; s=mail;
+	c=relaxed/relaxed; t=1578104509;
+	h=message-id:from:to:subject:date:mime-version:list-unsubscribe;
+	bh=bmkXz8URO2tQlpTEaLf6CWfyH6+kukl9DnAi2G5Sv9Y=;
+	b=GIcuRysioMh7hVSrlcMCP71VfR21/fsXQsBSD4AGXOexhq42djrwLU+8O2DlGw
+	2Gy3ZTQf0Cypzx5jNmViNrmvHBQUAHrEFpHHzi+d8/WluJOUhpPo1tJ63wyPPpV9
+	eFFH1F7LveV4apRa3pqwYS5n0NFzwXY1jjzlT3lB2zkhI=
+Content-Length: 32428
+
+--8b71383a9c484675a9ace57e8a5ef515c331
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+=C1=EB=E8=E6=E0=E9=F8=E8=E5 =E1=E8=E7=ED=E5=F1-=EC=E5=F0=EE=EF=F0=E8=FF=F2=
+=E8=FF
+
+22 =FF=ED=E2=E0=F0=FF
+
+=D3=EF=F0=E0=E2=EB=E5=ED=E8=E5 =EE=F2=E4=E5=EB=EE=EC =EF=F0=EE=E4=E0=E6
+
+23 =FF=ED=E2=E0=F0=FF
+
+=D1=EF=E5=F6=E8=E0=EB=E8=F1=F2 =EF=EE =EF=F0=EE=E4=E0=E6=E0=EC =ED=E0 =E2=
+=F1=E5 1 00 %!
+
+23 =FF=ED=E2=E0=F0=FF
+
+=CB=F3=F7=F8=E8=E5 =EF=F1=E8=F5=EE=EB=EE=E3=E8=F7=E5=F1=EA=E8=E5 =F2=E5=F5=
+=ED=E8=EA=E8 =E4=EB=FF =F3=F1=EF=E5=F8=ED=FB=F5 =EF=F0=EE=E4=E0=E6
+
+23-24 =FF=ED=E2=E0=F0=FF
+
+=CC=E5=E6=E4=F3=ED=E0=F0=EE=E4=ED=FB=E5 =F1=F2=E0=ED=E4=E0=F0=F2=FB =F4=E8=
+=ED=E0=ED=F1=EE=E2=EE=E9 =EE=F2=F7=E5=F2=ED=EE=F1=F2=E8
+
+29 =FF=ED=E2=E0=F0=FF
+
+=DD=F4=F4=E5=EA=F2=E8=E2=ED=FB=E5 =EA=EE=EC=EC=F3=ED=E8=EA=E0=F2=E8=E2=ED=
+=FB=E5 =EF=F0=E8=E5=EC=FB =F0=E0=E1=EE=F2=FB =F1 =E4=EE=EB=E6=ED=E8=EA=E0=
+=EC=E8. =D2=E5=F5=ED=E8=EA=E8 =FD=EC=EE=F6=E8=EE=ED=E0=EB=FC=ED=EE=E9 =F3=
+=F1=F2=EE=E9=F7=E8=E2=EE=F1=F2=E8
+
+31 =FF=ED=E2=E0=F0=FF
+
+=D4=E8=ED=E0=ED=F1=FB =E4=EB=FF =F0=F3=EA=EE=E2=EE=E4=E8=F2=E5=EB=E5=E9 =E8=
+ =ED=E5=F4=E8=ED=E0=ED=F1=EE=E2=FB=F5 =EC=E5=ED=E5=E4=E6=E5=F0=EE=E2
+
+5-6 =F4=E5=E2=F0=E0=EB=FF
+
+=D2=F0=E0=ED=F1=EF=EE=F0=F2=ED=E0=FF =EB=EE=E3=E8=F1=F2=E8=EA=E0 =E8 =EE=EF=
+=F2=E8=EC=E8=E7=E0=F6=E8=FF =EB=EE=E3=E8=F1=F2=E8=F7=E5=F1=EA=E8=F5 =E7=E0=
+=F2=F0=E0=F2 =EA=EE=EC=EF=E0=ED=E8=E8
+
+5-6 =F4=E5=E2=F0=E0=EB=FF
+
+=C4=EB=FF =F1=EF=E5=F6=E8=E0=EB=E8=F1=F2=EE=E2 =EF=EE =E7=E0=EA=F3=EF=EA=E0=
+=EC
+
+11 =F4=E5=E2=F0=E0=EB=FF
+
+=CF=EE=F1=F2=F0=EE=E5=ED=E8=E5 =F1=E8=F1=F2=E5=EC=FB =EE=EF=EB=E0=F2=FB =EF=
+=EE =F0=E5=E7=F3=EB=FC=F2=E0=F2=F3 KPI-=CC=EE=F2=E8=E2=E0=F6=E8=FF
+
+12-13 =F4=E5=E2=F0=E0=EB=FF
+
+=C4=E5=EB=EE=EF=F0=EE=E8=E7=E2=EE=E4=F1=F2=E2=EE =E8 =E0=F0=F5=E8=E2=ED=EE=
+=E5 =E4=E5=EB=EE =ED=E0 =EF=F0=E5=E4=EF=F0=E8=FF=F2=E8=E8. =CE=F0=E3=E0=ED=
+=E8=E7=E0=F6=E8=FF =F0=E0=E1=EE=F2=FB =F1 =E4=EE=EA=F3=EC=E5=ED=F2=E0=EC=E8
+
+17 =F4=E5=E2=F0=E0=EB=FF
+
+=D0=E0=E4=E8=F1=EB=E0=E2 =C3=E0=ED=E4=E0=EF=E0=F1 - =D5=E0=F0=E8=E7=EC=E0=
+ =CB=E8=E4=E5=F0=E0: =E8=EC=E8=E4=E6 =E8 =EC=E8=F1=F2=E8=EA=E0, =EF=F1=E8=
+=F5=EE=EB=EE=E3=E8=FF =E8 =E2=EB=E0=F1=F2=FC
+
+19-20 =F4=E5=E2=F0=E0=EB=FF
+
+=D1=EA=EB=E0=E4=F1=EA=E0=FF =EB=EE=E3=E8=F1=F2=E8=EA=E0. =CB=EE=E3=E8=F1=F2=
+=E8=F7=E5=F1=EA=E8=E5 =F0=E5=F8=E5=ED=E8=FF =E2 =EE=E1=EB=E0=F1=F2=E8 =F1=
+=EA=EB=E0=E4=E8=F0=EE=E2=E0=ED=E8=FF
+
+19-20 =F4=E5=E2=F0=E0=EB=FF
+
+=CB=E8=E4=E5=F0=F1=F2=E2=EE =E8 =F3=EF=F0=E0=E2=EB=E5=ED=E8=E5 =EA=EE=EC=E0=
+=ED=E4=EE=E9
+
+20-21 =F4=E5=E2=F0=E0=EB=FF
+
+=CC=E5=F2=F0=EE=EB=EE=E3=E8=F7=E5=F1=EA=EE=E5 =EE=E1=E5=F1=EF=E5=F7=E5=ED=
+=E8=E5 =F3=F7=E5=F2=E0 =FD=EB=E5=EA=F2=F0=EE=FD=ED=E5=F0=E3=E8=E8 =E2 =D3=
+=EA=F0=E0=E8=ED=E5
+
+27-28 =F4=E5=E2=F0=E0=EB=FF
+
+=CD=E0=F0=F3=F8=E5=ED=E8=E5 =F2=E0=EC=EE=E6=E5=ED=ED=FB=F5 =EF=F0=E0=E2=E8=
+=EB. =CA=E0=EA =E8=E7=E1=E5=E6=E0=F2=FC =E8 =F7=F2=EE =E4=E5=EB=E0=F2=FC =
+=E5=F1=EB=E8 =EF=F0=EE=F2=EE=EA=EE=EB =F3=E6=E5 =F1=EE=F1=F2=E0=E2=EB=E5=ED
+
+=CF=EE=F1=EB=E5=E4=ED=E8=E5 =EE=E1=ED=EE=E2=EB=E5=ED=E8=FF =ED=E0 =F1=E0=E9=
+=F2=E5
+
+=CC=E5=ED=E5=E4=E6=EC=E5=ED=F2
+
+=C8=ED=F2=E5=F0=ED=E5=F2
+
+=CD=E5=E4=E2=E8=E6=E8=EC=EE=F1=F2=FC
+
+=C5=F1=EB=E8 =F3 =C2=E0=F1 =E2=EE=E7=ED=E8=EA=ED=F3=F2 =E4=EE=EF=EE=EB=ED=
+=E8=F2=E5=EB=FC=ED=FB=E5 =E2=EE=EF=F0=EE=F1=FB - =EE=E1=F0=E0=F9=E0=E9=F2=
+=E5=F1=FC, =EC=FB =E2=F1=E5=E3=E4=E0 =F0=E0=E4=FB =C2=E0=EC =EF=EE=EC=EE=F7=
+=FC!
+
+--
+=D1 =F3=E2=E0=E6=E5=ED=E8=E5=EC, =CD=E0=F2=E0=EB=FC=FF =A0=A0=A0=A0
+Web: kpi-motivaciya.in.ua
+
+=CD=E5 =EF=EE=EB=F3=F7=E0=F2=FC =EF=EE=F7=F2=F3.
+List-Unsubscribe=A0from the newsletter =EEr complain =E0b=EEut SP=C0=CC.
+
+--8b71383a9c484675a9ace57e8a5ef515c331
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows=
+-1251">
+</HEAD>
+<BODY style=3D"BORDER-COLLAPSE: collapse; BACKGROUND-COLOR: rgb(245,255,2=
+29)">
+<TABLE=20
+style=3D"FONT-FAMILY: Verdana; BORDER-COLLAPSE: collapse; TEXT-ALIGN: cen=
+ter; BACKGROUND-COLOR: rgb(245,255,229)"=20
+cellSpacing=3D0 cellPadding=3D0 width=3D"100%" align=3Dcenter border=3D0>
+  <TBODY></TBODY></TABLE>
+<TABLE style=3D"FONT-FAMILY: Verdana; BACKGROUND-COLOR: rgb(216,231,192)"=
+=20
+cellSpacing=3D0 cellPadding=3D0 width=3D700 align=3Dcenter border=3D0>
+  <TBODY>
+  <TR>
+    <TD style=3D"box-shadow: 0px 0px 10px #8f9c79" vAlign=3Dtop width=3D7=
+00=20
+    align=3Dcenter>
+      <TABLE height=3D110 cellSpacing=3D0 cellPadding=3D0 width=3D700 bor=
+der=3D0>
+        <TBODY>
+        <TR>
+          <TD width=3D700><IMG alt=3DHeader=20
+            src=3D"http://kpi-motivaciya.in.ua/images/Header2020.gif"></T=
+D></TR></TBODY></TABLE>
+      <TABLE=20
+      style=3D"FONT-FAMILY: Verdana; BORDER-COLLAPSE: collapse; BACKGROUN=
+D-COLOR: rgb(216,231,192)"=20
+      cellSpacing=3D0 cellPadding=3D0 width=3D650 align=3Dcenter border=3D=
+0>
+        <TBODY>
+        <TR>
+          <TD=20
+          style=3D"VERTICAL-ALIGN: top; PADDING-BOTTOM: 0px; PADDING-TOP:=
+ 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; align: center"=20
+          height=3D20 vAlign=3Dtop width=3D650 colSpan=3D2 align=3Dcenter=
+><BR></TD></TR>
+        <TR>
+          <TD=20
+          style=3D"FONT-SIZE: 14px; BORDER-TOP: rgb(185,200,163) 1px soli=
+d; FONT-FAMILY: Verdana; BORDER-RIGHT: rgb(185,200,163) 1px solid; VERTIC=
+AL-ALIGN: top; BORDER-BOTTOM: rgb(185,200,163) 1px solid; PADDING-BOTTOM:=
+ 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; BORDER-LEFT: rgb(=
+185,200,163) 1px solid; LINE-HEIGHT: 22px; PADDING-RIGHT: 0px; align: cen=
+ter; border-image: none"=20
+          bgColor=3D#ffffff vAlign=3Dtop width=3D650 colSpan=3D2 align=3D=
+center>
+            <TABLE cellSpacing=3D0 cellPadding=3D10 width=3D620 align=3Dc=
+enter=20
+            bgColor=3D#ffffff border=3D0>
+              <TBODY>
+              <TR>
+                <TD bgColor=3D#ffffff width=3D620 align=3Dleft>
+                  <H2=20
+                  style=3D"FONT-SIZE: 24px; FONT-FAMILY: Verdana; COLOR: =
+rgb(196,23,62); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px;=
+ MARGIN: 0px; LINE-HEIGHT: 32px; PADDING-RIGHT: 0px">=C1=EB=E8=E6=E0=E9=F8=
+=E8=E5=20
+                  =E1=E8=E7=ED=E5=F1-=EC=E5=F0=EE=EF=F0=E8=FF=F2=E8=FF</H=
+2><BR>
+                  <TABLE=20
+                  style=3D"BORDER-TOP: rgb(185,200,163) 1px solid; BORDER=
+-RIGHT: rgb(185,200,163) 1px solid; BORDER-BOTTOM: rgb(185,200,163) 1px s=
+olid; BORDER-LEFT: rgb(185,200,163) 1px solid; border-image: none"=20
+                  cellSpacing=3D0 cellPadding=3D10 width=3D600 align=3Dce=
+nter=20
+                  bgColor=3D#f5ffe5 border=3D0>
+                    <TBODY>
+                    <TBODY>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      width=3D110 align=3Dcenter>
+                        <P><B>22 =FF=ED=E2=E0=F0=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 width=3D448 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?1HtuOsgqIfJmqa7582%2FV5PnRhz9HgGh9Ud%2BEnD1FR5tUl9tsgHx6or4%2Fm=
+zfPCgKtXUWdSIDtu1n73Gy7enmDrXh1mNomGOrjvmcd1SWpc150oTHKvQFrjXBC54WZ92Kom%=
+2BHmqsF7qNflgj70AW0GaupTu9vOrbyuqeUapCVRxXEX2gXjeR%2FA5lPS5oubtNvZ0hP%2By=
+lZiqpbOWEkdXJ%2FIEQ%3D%3D">=D3=EF=F0=E0=E2=EB=E5=ED=E8=E5=20
+                        =EE=F2=E4=E5=EB=EE=EC =EF=F0=EE=E4=E0=E6</A></P><=
+/TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>23 =FF=ED=E2=E0=F0=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?rtcfY3OIC8v3mDXbKPvQI5wvtuqvFeOyLwR57R3ue%2FfoRaR1YfZHvNP2cDkiI=
+908Tp%2B8TgEHbvraEEAVfg062UJWVUDHQbowZvpGL%2Bl31ukw31pVtjL89CiZBu6%2BEBUQ=
+1xcsNW7c7b1D8dZZc3FXMVzGPY2QfkDzbQzytlEIZIq5Hri0ZpoR%2B6K3g47k%2FHS2DzRd2=
+emk5L9VPBlvz2eYUHwkPYupdZLha2PaE%2FZRRMM%3D">=D1=EF=E5=F6=E8=E0=EB=E8=F1=F2=
+=20
+                        =EF=EE =EF=F0=EE=E4=E0=E6=E0=EC =ED=E0 =E2=F1=E5 =
+1 00 %!</A></P></TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>23 =FF=ED=E2=E0=F0=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?1HtuOsgqIfJmqa7582%2FV5PnRhz9HgGh9Ud%2BEnD1FR5tUl9tsgHx6or4%2Fm=
+zfPCgKtXUWdSIDtu1n73Gy7enmDrXh1mNomGOrjvmcd1SWpc150oTHKvQFrjXBC54WZ92Kom%=
+2BHmqsF7qNflgj70AW0GaupTu9vOrbyuqeUapCVRxXGuZzYzxaehetsjIhLl%2BNmb8NVt3Vu=
+ys%2BMxg8oobanHbxMXA1B1RiDGpo0J%2FRpsFRgvTmWCiufzT2I95GDE9L6S">=CB=F3=F7=F8=
+=E8=E5=20
+                        =EF=F1=E8=F5=EE=EB=EE=E3=E8=F7=E5=F1=EA=E8=E5 =F2=
+=E5=F5=ED=E8=EA=E8 =E4=EB=FF =F3=F1=EF=E5=F8=ED=FB=F5=20
+=EF=F0=EE=E4=E0=E6</A></P></TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>23-24 =FF=ED=E2=E0=F0=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?rtcfY3OIC8v3mDXbKPvQI5wvtuqvFeOyLwR57R3ue%2FfoRaR1YfZHvNP2cDkiI=
+908Tp%2B8TgEHbvraEEAVfg062UJWVUDHQbowZvpGL%2Bl31ukw31pVtjL89CiZBu6%2BEBUQ=
+1xcsNW7c7b1D8dZZc3FXMVzGPY2QfkDzbQzytlEIZIrdqUGObVTjamZgHMjE5lozgTs0utosp=
+Uz3XiOJh8TcKuR7ZHZ7MH1EZ%2BYyAelsvzDz4L0tR6FLQz70UZR%2BWZaO">=CC=E5=E6=E4=
+=F3=ED=E0=F0=EE=E4=ED=FB=E5=20
+                        =F1=F2=E0=ED=E4=E0=F0=F2=FB =F4=E8=ED=E0=ED=F1=EE=
+=E2=EE=E9 =EE=F2=F7=E5=F2=ED=EE=F1=F2=E8</A></P></TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>29 =FF=ED=E2=E0=F0=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?sP6CF77%2BHvcHEX67%2F2k5pUW8B228InDZnMiEa4j1UUMnM0EuH%2B5JgYw6%=
+2FohWfwa2O7X4bWcBgjzO7vAQXGhKZw3GEOmzrP4SS07goHTpJVqlcrAknl57MrvyucOqOgRl=
+CVAqwsIweGAEWLnrNMqf2OWY9dbvTbDTyUDGvkDEYqbhajAT1lbSrHDOIZZDLZW1G8hf1n08a=
+ll10T6oRS6Au1aFnTpF3w7GIIFrbe0tXOEfw8SKWN4tSUFrQv%2B8Z03n%2FcoDoGHMZodrDq=
+JT0aY5VeURq0ZcN5igctz8GD77C4k%3D">=DD=F4=F4=E5=EA=F2=E8=E2=ED=FB=E5=20
+                        =EA=EE=EC=EC=F3=ED=E8=EA=E0=F2=E8=E2=ED=FB=E5 =EF=
+=F0=E8=E5=EC=FB =F0=E0=E1=EE=F2=FB =F1 =E4=EE=EB=E6=ED=E8=EA=E0=EC=E8. =D2=
+=E5=F5=ED=E8=EA=E8=20
+                        =FD=EC=EE=F6=E8=EE=ED=E0=EB=FC=ED=EE=E9 =F3=F1=F2=
+=EE=E9=F7=E8=E2=EE=F1=F2=E8</A></P></TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>31 =FF=ED=E2=E0=F0=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?LWwrjJutltlIWqqRQmbISoSRcAiLMH39cQ%2BIThV1KE4POYMHPOJzM4cmvaQDM=
+%2BvZVnqYQ5sZmNq0fsQEqmFXBRjp4mjWgPDCxLK65XxRoQSZzST9KJms1Y0ZAdh77vNZZYA5=
+eyrTzpfJp0W0xjJPS%2BK1iv8Izjje7tV32ccpzVttB%2BmXOZ%2BpFUyCte4yg2NjeV6mvCv=
+7cT5MccDawYl%2BZHLXeMFFWc%2Fc4p%2BAzufhn2E7MmsLcYMC%2F%2F3lF2qER1lY">=D4=E8=
+=ED=E0=ED=F1=FB=20
+                        =E4=EB=FF =F0=F3=EA=EE=E2=EE=E4=E8=F2=E5=EB=E5=E9=
+ =E8 =ED=E5=F4=E8=ED=E0=ED=F1=EE=E2=FB=F5=20
+=EC=E5=ED=E5=E4=E6=E5=F0=EE=E2</A></P></TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>5-6 =F4=E5=E2=F0=E0=EB=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?CIuetgorvBJ0KrSZ0sjJv6H%2FTy%2FkjRBU%2BYzqSMyIn7nEKhxwk8r%2Fta%=
+2FWS6RTBDEToKvYqqa%2BwZ3T9XUmQdITP5IikyzLblDrgKMYPrgD6RQoxp9G8oJHRtx6p981=
+uUf6t95zPAFA0TGxF6wWk%2BnIsNp7RS7W3dH5%2FxUkte7a%2F4ePvXWdWvOXLRjJ0HlbmTz=
+enzlEmZcRBypN0fi0Q8G%2F59OmG2yCaqJPMTUguwRtPv0jd8blh%2BTDjoss%2FZaqSkbE9y=
+iqzVcg12veVmL%2FIwn3Sg%3D%3D">=D2=F0=E0=ED=F1=EF=EE=F0=F2=ED=E0=FF=20
+                        =EB=EE=E3=E8=F1=F2=E8=EA=E0 =E8 =EE=EF=F2=E8=EC=E8=
+=E7=E0=F6=E8=FF =EB=EE=E3=E8=F1=F2=E8=F7=E5=F1=EA=E8=F5 =E7=E0=F2=F0=E0=F2=
+=20
+                        =EA=EE=EC=EF=E0=ED=E8=E8</A></P></TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>5-6 =F4=E5=E2=F0=E0=EB=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?1HtuOsgqIfJmqa7582%2FV5PnRhz9HgGh9Ud%2BEnD1FR5tUl9tsgHx6or4%2Fm=
+zfPCgKtXUWdSIDtu1n73Gy7enmDrXh1mNomGOrjvmcd1SWpc150oTHKvQFrjXBC54WZ92Kom%=
+2BHmqsF7qNflgj70AW0GalBggYwRsDgRzS2ibHzQYl4lOuylh70orVrCoFK49AZafCk10IfII=
+XBHIxkW9ICFt5G176VS816Pgzl97Z0hKxk%3D">=C4=EB=FF=20
+                        =F1=EF=E5=F6=E8=E0=EB=E8=F1=F2=EE=E2 =EF=EE =E7=E0=
+=EA=F3=EF=EA=E0=EC</A></P></TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>11 =F4=E5=E2=F0=E0=EB=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?LWwrjJutltlIWqqRQmbISoSRcAiLMH39cQ%2BIThV1KE4POYMHPOJzM4cmvaQDM=
+%2BvZVnqYQ5sZmNq0fsQEqmFXBRjp4mjWgPDCxLK65XxRoQSZzST9KJms1Y0ZAdh77vNZZYA5=
+eyrTzpfJp0W0xjJPS9CqxkvveaiyN7wpBewfus36N897kFo5Hasa8TlJvxhAvrbuUqZa8NWvg=
+8qADAGej255CIMWcBmOWmOFcJPZCH7yF%2BWBfdsbB8yFCQqEkiRI">=CF=EE=F1=F2=F0=EE=
+=E5=ED=E8=E5=20
+                        =F1=E8=F1=F2=E5=EC=FB =EE=EF=EB=E0=F2=FB =EF=EE =F0=
+=E5=E7=F3=EB=FC=F2=E0=F2=F3 KPI-=CC=EE=F2=E8=E2=E0=F6=E8=FF</A></P></TD><=
+/TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 12px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>12-13 =F4=E5=E2=F0=E0=EB=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?1HtuOsgqIfJmqa7582%2FV5PnRhz9HgGh9Ud%2BEnD1FR5tUl9tsgHx6or4%2Fm=
+zfPCgKtXUWdSIDtu1n73Gy7enmDrXh1mNomGOrjvmcd1SWpc150oTHKvQFrjXBC54WZ92Kom%=
+2BHmqsF7qNflgj70AW0GalBggYwRsDgRzS2ibHzQYl4rnjFHkOcgpSwKr42FVDc1MAe5UGt%2=
+FiUrr%2FwMkRtJ4rJ1dyet77hZx9LBa2P%2FppiEKY3owzHgrg0Wxq%2BcW0rH6Og7JlsPLSY=
+a%2FS5hYRLn6Za0gmId3euAIoLdGRTv0NzM%3D">=C4=E5=EB=EE=EF=F0=EE=E8=E7=E2=EE=
+=E4=F1=F2=E2=EE=20
+                        =E8 =E0=F0=F5=E8=E2=ED=EE=E5 =E4=E5=EB=EE =ED=E0 =
+=EF=F0=E5=E4=EF=F0=E8=FF=F2=E8=E8. =CE=F0=E3=E0=ED=E8=E7=E0=F6=E8=FF =F0=E0=
+=E1=EE=F2=FB =F1=20
+                        =E4=EE=EA=F3=EC=E5=ED=F2=E0=EC=E8</A></P></TD></T=
+R>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>17 =F4=E5=E2=F0=E0=EB=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?QV0i6pAGQxsbV%2Bf30%2BjcwlwVpeOU6MBN0uH5Rnt6HV%2FqMxN6qUswR9Vgn=
+DG3oaw7PTXffxp6DR079oSXAqWP9lP62k%2Fukr%2FsBjZuCUANXkstzAvEAj5wBWO8yvtjRc=
+YHkJYviJpkveUtpGgv3noQ%2BKhrelvIQZH4OyEZTYaU3OhY%2BauDhJOVy9VsculCyDheAjq=
+hpVDOg9fIaC1PnfGifYOGMX9YDddwHY8wO2qb1sV5pXXJoHqVhcZHzFIjK0%2F2EtotNjPpde=
+%2B%2BaVVpNgA3WA%3D%3D">=D0=E0=E4=E8=F1=EB=E0=E2=20
+                        =C3=E0=ED=E4=E0=EF=E0=F1 - =D5=E0=F0=E8=E7=EC=E0 =
+=CB=E8=E4=E5=F0=E0: =E8=EC=E8=E4=E6 =E8 =EC=E8=F1=F2=E8=EA=E0, =EF=F1=E8=F5=
+=EE=EB=EE=E3=E8=FF =E8=20
+                        =E2=EB=E0=F1=F2=FC</A></P></TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 12px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>19-20 =F4=E5=E2=F0=E0=EB=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?LWwrjJutltlIWqqRQmbISoSRcAiLMH39cQ%2BIThV1KE4POYMHPOJzM4cmvaQDM=
+%2BvZVnqYQ5sZmNq0fsQEqmFXBRjp4mjWgPDCxLK65XxRoQSZzST9KJms1Y0ZAdh77vNZZYA5=
+eyrTzpfJp0W0xjJPS9CqxkvveaiyN7wpBewfus3NlkXS4gNkvKsmcwoIPGkrKqfWnbFrkYlUk=
+bLaDOlCxM%2FMRaSijkkUBSfWwEeLm43vP%2BGNJzMk86Jg%2FsSmtJmk%2FhHF3rDwTWQFJT=
+y6BgzNwg%3D%3D">=D1=EA=EB=E0=E4=F1=EA=E0=FF=20
+                        =EB=EE=E3=E8=F1=F2=E8=EA=E0. =CB=EE=E3=E8=F1=F2=E8=
+=F7=E5=F1=EA=E8=E5 =F0=E5=F8=E5=ED=E8=FF =E2 =EE=E1=EB=E0=F1=F2=E8=20
+                        =F1=EA=EB=E0=E4=E8=F0=EE=E2=E0=ED=E8=FF</A></P></=
+TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 12px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>19-20 =F4=E5=E2=F0=E0=EB=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?mD6t6hf9lIY8VT6LEe5x7EBQIO4uw8od47Xh46DB2Hmgl2JoRGgeReFkBNdV18N=
+dz7Xfz%2F0OyhjUC6pClWPSQbwOONicnEMd6HYE2kR%2FffszPfmQiq3NmHVZggPxQ4LlQdG7=
+GaHTdotezUcWg4Pd1JXVvLOc8L03T%2FDYez8XZd%2FUwPkYMVIQxhaCbCk58KvCAqY%2BhrD=
+5vN0FEZ8mNOA13LzZla2gB2NjYnubWxien58%3D">=CB=E8=E4=E5=F0=F1=F2=E2=EE=20
+                        =E8 =F3=EF=F0=E0=E2=EB=E5=ED=E8=E5 =EA=EE=EC=E0=ED=
+=E4=EE=E9</A></P></TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 12px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>20-21 =F4=E5=E2=F0=E0=EB=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?lCRk6AjgNHkkfma4UdSsqBR2tuO4F491pLezag2uvZ3W0%2BCssmuCPmOBTeSvv=
+07OUDzOJ7t2V0RG2QKFYBRkDQ%2F7XV2xzXbGmVXwTYFc3p%2Bnl5WqKHf4poBvG%2FicEqqw=
+uBmtYaSgdCe49vTdHQ3Ttt2dc1tbjRaAzPhJLqEdFzdM%2FuigW4cTzFTthOmMoFihr6%2B7z=
+FywIeqrXEwGy%2BlNxnzSK5MJqP1UJCRzfUfpxV%2BkmYP7ImvBLXL5yUhRF%2B%2B3">=CC=E5=
+=F2=F0=EE=EB=EE=E3=E8=F7=E5=F1=EA=EE=E5=20
+                        =EE=E1=E5=F1=EF=E5=F7=E5=ED=E8=E5 =F3=F7=E5=F2=E0=
+ =FD=EB=E5=EA=F2=F0=EE=FD=ED=E5=F0=E3=E8=E8 =E2 =D3=EA=F0=E0=E8=ED=E5</A>=
+</P></TD></TR>
+                    <TR>
+                      <TD=20
+                      style=3D"FONT-SIZE: 12px; FONT-FAMILY: Verdana, Gen=
+eva, sans-serif; COLOR: rgb(61,87,61)"=20
+                      align=3Dcenter>
+                        <P><B>27-28 =F4=E5=E2=F0=E0=EB=FF</B></P></TD>
+                      <TD bgColor=3D#f5ffe5 align=3Dleft>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LIN=
+E-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?mD6t6hf9lIY8VT6LEe5x7EBQIO4uw8od47Xh46DB2Hmgl2JoRGgeReFkBNdV18N=
+dz7Xfz%2F0OyhjUC6pClWPSQbwOONicnEMd6HYE2kR%2FffszPfmQiq3NmHVZggPxQ4LlQdG7=
+GaHTdotezUcWg4Pd1JXVvLOc8L03T%2FDYez8XZd%2F%2FLgz1AehqlDWqZQWmKlBhMJJbOhn=
+v%2BD9Sx5VmnYrdbWsCLkK7LIYDhypfnkXrKsBXO2i8CVhgMfmlJeq1zLKANXN3r2UrA2vn%2=
+BCLx3FEVXJcLjkrcTtoFoxXD8GIWWqjP5FpO1QCezOOmzEemB5gOVazoqo8WCTX481eXwh85E=
+7smAhEu8%2BfZXcIRDdl%2Biec%3D">=CD=E0=F0=F3=F8=E5=ED=E8=E5=20
+                        =F2=E0=EC=EE=E6=E5=ED=ED=FB=F5 =EF=F0=E0=E2=E8=EB=
+. =CA=E0=EA =E8=E7=E1=E5=E6=E0=F2=FC =E8 =F7=F2=EE =E4=E5=EB=E0=F2=FC =E5=
+=F1=EB=E8=20
+                        =EF=F0=EE=F2=EE=EA=EE=EB =F3=E6=E5 =F1=EE=F1=F2=E0=
+=E2=EB=E5=ED</A></P></TD></TR></TBODY></TABLE><BR>
+                  <H2=20
+                  style=3D"FONT-SIZE: 24px; FONT-FAMILY: Verdana; COLOR: =
+rgb(196,23,62); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px;=
+ MARGIN: 0px; LINE-HEIGHT: 32px; PADDING-RIGHT: 0px">=CF=EE=F1=EB=E5=E4=ED=
+=E8=E5=20
+                  =EE=E1=ED=EE=E2=EB=E5=ED=E8=FF =ED=E0 =F1=E0=E9=F2=E5 <=
+/H2><BR>
+                  <TABLE=20
+                  style=3D"BORDER-TOP: rgb(185,200,163) 1px solid; BORDER=
+-RIGHT: rgb(185,200,163) 1px solid; BORDER-BOTTOM: rgb(185,200,163) 1px s=
+olid; BORDER-LEFT: rgb(185,200,163) 1px solid; border-image: none"=20
+                  cellSpacing=3D0 cellPadding=3D20 width=3D600 align=3Dce=
+nter=20
+                  bgColor=3D#f5ffe5 border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD bgColor=3D#f5ffe5 width=3D200 align=3Dcenter>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; C=
+OLOR: rgb(61,87,61); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT:=
+ 0px; MARGIN: 0px; LINE-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?lCRk6AjgNHkkfma4UdSsqBR2tuO4F491pLezag2uvZ3W0%2BCssmuCPmOBTeSvv=
+07OUDzOJ7t2V0RG2QKFYBRkDQ%2F7XV2xzXbGmVXwTYFc3p%2Bnl5WqKHf4poBvG%2FicEqqw=
+uBmtYaSgdCe49vTdHQ3TtgSnIcK0%2BfnGsIqQBwDupKA%3D"><IMG=20
+                        border=3D0 alt=3DIssledovaniya=20
+                        src=3D"http://kpi-motivaciya.in.ua/design/img/pro=
+duct/1050/pictures/1050_1.jpg"><BR>=CC=E5=ED=E5=E4=E6=EC=E5=ED=F2</A></P>=
+</TD>
+                      <TD bgColor=3D#f5ffe5 width=3D200 align=3Dcenter>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; C=
+OLOR: rgb(61,87,61); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT:=
+ 0px; MARGIN: 0px; LINE-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?LWwrjJutltlIWqqRQmbISoSRcAiLMH39cQ%2BIThV1KE4POYMHPOJzM4cmvaQDM=
+%2BvZVnqYQ5sZmNq0fsQEqmFXBRjp4mjWgPDCxLK65XxRoQSZzST9KJms1Y0ZAdh77vNZZYA5=
+eyrTzpfJp0W0xjJPS6LYNNZFmzEYLy1XTDSw9ZVRbGKrTzJApSC9L8yNE1bS"><IMG=20
+                        border=3D0 alt=3DSovety=20
+                        src=3D"http://kpi-motivaciya.in.ua/images/927_1.j=
+pg"><BR>=C8=ED=F2=E5=F0=ED=E5=F2</A></P></TD>
+                      <TD bgColor=3D#f5ffe5 width=3D200 align=3Dcenter>
+                        <P=20
+                        style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana; C=
+OLOR: rgb(61,87,61); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT:=
+ 0px; MARGIN: 0px; LINE-HEIGHT: 22px; PADDING-RIGHT: 0px"><A=20
+                        style=3D"COLOR: rgb(61,87,61)"=20
+                        href=3D"http://kpi-motivaciya.in.ua/Server-Side/a=
+msweb.php?sP6CF77%2BHvcHEX67%2F2k5pUW8B228InDZnMiEa4j1UUMnM0EuH%2B5JgYw6%=
+2FohWfwa2O7X4bWcBgjzO7vAQXGhKZw3GEOmzrP4SS07goHTpJVqlcrAknl57MrvyucOqOgRl=
+CVAqwsIweGAEWLnrNMqf2EkwoY7m%2Fbwk8Qv%2B700h1aZehh9XpJ84Mk42CgpcmdwY"><IM=
+G=20
+                        border=3D0 alt=3DKonsalting=20
+                        src=3D"http://kpi-motivaciya.in.ua/design/img/pro=
+duct/691/pictures/691_1.jpg"><BR>=CD=E5=E4=E2=E8=E6=E8=EC=EE=F1=F2=FC</A>=
+</P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD height=3D15 colSpan=3D2><BR></TD></TR>
+        <TR>
+          <TD=20
+          style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Geneva, sans-se=
+rif; VERTICAL-ALIGN: top; COLOR: #336; PADDING-BOTTOM: 0px; PADDING-TOP: =
+0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"=20
+          align=3Dleft>
+            <P>=C5=F1=EB=E8 =F3 =C2=E0=F1 =E2=EE=E7=ED=E8=EA=ED=F3=F2 =E4=
+=EE=EF=EE=EB=ED=E8=F2=E5=EB=FC=ED=FB=E5 =E2=EE=EF=F0=EE=F1=FB - =EE=E1=F0=
+=E0=F9=E0=E9=F2=E5=F1=FC, =EC=FB=20
+            =E2=F1=E5=E3=E4=E0 =F0=E0=E4=FB =C2=E0=EC =EF=EE=EC=EE=F7=FC!=
+</P>
+            <P><EM>--<BR>=D1 =F3=E2=E0=E6=E5=ED=E8=E5=EC, =CD=E0=F2=E0=EB=
+=FC=FF=20
+            &nbsp;&nbsp;&nbsp;&nbsp;</EM><BR><BR><STRONG>Web: <A=20
+            href=3D"http://kpi-motivaciya.in.ua/Server-Side/amsweb.php?lC=
+Rk6AjgNHkkfma4UdSsqBR2tuO4F491pLezag2uvZ3W0%2BCssmuCPmOBTeSvv07OUDzOJ7t2V=
+0RG2QKFYBRkDQ%2F7XV2xzXbGmVXwTYFc3p%2Bnl5WqKHf4poBvG%2FicEqqwuBmtYaSgdCe4=
+9vTdHQ3Tts5JTOs7A1iDkiZe86PuCjg%3D">kpi-motivaciya.in.ua</A></STRONG><A=20
+            href=3D"http://kpi-motivaciya.in.ua/Server-Side/amsweb.php?CI=
+uetgorvBJ0KrSZ0sjJv6H%2FTy%2FkjRBU%2BYzqSMyIn7nEKhxwk8r%2Fta%2FWS6RTBDETo=
+KvYqqa%2BwZ3T9XUmQdITP5IikyzLblDrgKMYPrgD6RQoxp9G8oJHRtx6p981uUf6t95zPAFA=
+0TGxF6wWk%2BnIsL9GThVOB0RgXFGyk2pXtIY%3D"></A><BR>&nbsp;&nbsp;&nbsp;&nbsp=
+;<BR></P></TD>
+          <TD=20
+          style=3D"VERTICAL-ALIGN: top; PADDING-BOTTOM: 0px; PADDING-TOP:=
+ 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; align: center"=20
+          vAlign=3Dtop width=3D150 align=3Dcenter>
+            <P><A href=3D"http://kpi-motivaciya.in.ua/Server-Side/amsweb.=
+php?QV0i6pAGQxsbV%2Bf30%2BjcwlwVpeOU6MBN0uH5Rnt6HV%2FqMxN6qUswR9VgnDG3oaw=
+7PTXffxp6DR079oSXAqWP9lP62k%2Fukr%2FsBjZuCUANXkstzAvEAj5wBWO8yvtjRcYHkJYv=
+iJpkveUtpGgv3noQ%2BMUIhdLBUq1NjvyVIBBNzgY%3D"><IMG border=3D0 hspace=3D0=20
+            alt=3Dlogo src=3D"http://kpi-motivaciya.in.ua/images/logo.png=
+"></A><A=20
+            href=3D"http://kpi-motivaciya.in.ua/Server-Side/amsweb.php?sP=
+6CF77%2BHvcHEX67%2F2k5pUW8B228InDZnMiEa4j1UUMnM0EuH%2B5JgYw6%2FohWfwa2O7X=
+4bWcBgjzO7vAQXGhKZw3GEOmzrP4SS07goHTpJVqlcrAknl57MrvyucOqOgRlCVAqwsIweGAE=
+WLnrNMqf2CBOaaJB7JmtwKon2al4hfg%3D"></A></P></TD></TR></TBODY></TABLE></T=
+D></TR>
+  <TR>
+    <TD style=3D"box-shadow: 0px 0px 10px #8f9c79" vAlign=3Dtop align=3Dc=
+enter><IMG=20
+      border=3D0 hspace=3D0 alt=3Dheader=20
+      src=3D"http://kpi-motivaciya.in.ua/images/shadow.png"=20
+  align=3Dbottom></TD></TR></TBODY></TABLE>
+<DIV=20
+style=3D"FONT-SIZE: 12px; FONT-FAMILY: Verdana, Geneva, sans-serif; COLOR=
+: rgb(61,87,61)"=20
+align=3Dcenter>&nbsp;&nbsp;&nbsp;&nbsp;</DIV>
+<DIV=20
+style=3D"FONT-SIZE: 12px; FONT-FAMILY: Verdana, Geneva, sans-serif; COLOR=
+: rgb(61,87,61)"=20
+align=3Dcenter><STRONG>=CD=E5 =EF=EE=EB=F3=F7=E0=F2=FC =EF=EE=F7=F2=F3.</=
+STRONG><BR>&nbsp;&nbsp;&nbsp;&nbsp;<BR><A=20
+href=3D"http://kpi-motivaciya.in.ua/Server-Side/amsweb.php?y0WviPtvkz7cgL=
+908H%2Fwwms5TjCCMoAHMLVNHjXYe0UU8ePE1ayEVs2m4GXD70V89IMncl%2FCyrDFEnwOCdt=
+dXW5H0qYvrnWvgxkgInze5fS6VsegX6BttslpcezW37nNAt%2BdaMYqcq7QBQspKL09k9x6U8=
+GwXrHOpRRBqzH2RFw%3D"><STRONG>List-Unsubscribe</STRONG></A>&nbsp;from=20
+the newsletter =EEr <STRONG><A href=3D"http://kpi-motivaciya.in.ua/Server=
+-Side/amsweb.php?QV0i6pAGQxsbV%2Bf30%2BjcwlwVpeOU6MBN0uH5Rnt6HV%2FqMxN6qU=
+swR9VgnDG3oaw7PTXffxp6DR079oSXAqWP9lP62k%2Fukr%2FsBjZuCUANXkvVfugMGG3BVbS=
+n2Xj%2FwaAFrUzk4%2FBSNsF39HZf7uuI1ZLrsi350gIZmew1TN7ulxU%3D">complain=20
+=E0b=EEut SP=C0=CC</A></STRONG><A=20
+href=3D"http://kpi-motivaciya.in.ua/Server-Side/amsweb.php?lCRk6AjgNHkkfm=
+a4UdSsqBR2tuO4F491pLezag2uvZ3W0%2BCssmuCPmOBTeSvv07OUDzOJ7t2V0RG2QKFYBRkD=
+Q%2F7XV2xzXbGmVXwTYFc3p%2F%2BG4mlodyKhSaW9a3kfEK7a4GYiayyhbBHSMaO9eGGB8%2=
+FXy7QQz48en24z0uXLLD0%3D">.</A></DIV><DIV><IMG width=3D1 height=3D1 alt=3D=
+"" src=3D"http://kpi-motivaciya.in.ua/Server-Side/amsweb.php?LWwrjJutltlI=
+WqqRQmbISoSRcAiLMH39cQ%2BIThV1KE4POYMHPOJzM4cmvaQDM%2BvZVnqYQ5sZmNq0fsQEq=
+mFXBRjp4mjWgPDCxLK65XxRoQRWp62DJbxzFSp59Ke4o8dvy0EZ6dIkDrAaFP9%2FB5zZPA%3=
+D%3D"></DIV></BODY></HTML>
+
+--8b71383a9c484675a9ace57e8a5ef515c331--

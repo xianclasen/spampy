@@ -1,0 +1,89 @@
+Return-Path: <SRS0=CONdkf=3P=mail.boosters.bid=7028-9790-262549-1866-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 4366 invoked from network); 26 Jan 2020 11:13:54 -0000
+Received: (qmail 6564 invoked from network); 26 Jan 2020 11:13:53 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 11:13:53 -0000
+Received: (qmail 6383 invoked by uid 48516); 26 Jan 2020 11:13:52 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8853 invoked from network); 26 Jan 2020 11:13:52 -0000
+Received: from yankee.boosters.bid (spiux32s.spikecool.website [170.130.172.212])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 26 Jan 2020 11:13:48 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=boosters.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Vision20/20Protocol@boosters.bid;
+ bh=aSmE3+2G0w/om17oxtfs33BI8KM=;
+ b=mD7T3WEu8fIY37p48rlJicJlFeVVKAbjZpooTh5xwO8E0B41cWzQBYggXs8kUBcBfGFqglj64wuc
+   X2UnlUWVS2N6zUkuDjSCG+avx4WGA2txgzZ9Rg0oyd/m39hlG+Ex/NgoNfrBZh57LVP1UTgV67Bw
+   y/mWpxBsTiJrqHNz4v0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=boosters.bid;
+ b=F6nUYToatlOoTdbeZfFjHsI0IGl+I6V5MVNANExWfbINmPSwt1pcd5qQdCQfTcQSxasQdrjltj9B
+   EkwJiWHx+IBeNk6MGLTLXbBbt/uwj4lm3U3Z8sdR1vDrmOWbOsH3ME2KJFAFksmD++sKPLGx7tau
+   xXZ+RS8y3HZ4sIr2gYA=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="f3bc4299023f6926f76d511636f855c8_263e_40195"
+Date: Sun, 26 Jan 2020 06:13:32 -0500
+From: "Vision 20/20 Protocol" <Vision20/20Protocol@boosters.bid>
+Reply-To: "20/20 without glasses" <Vision20/20Protocol@boosters.bid>
+Subject: Try The InogenOne
+To: <bruce@untroubled.org>
+Message-ID: <v9ws0sdstbkz5pui-7c2x7p7p6mtn7rtz-263e-40195@boosters.bid>
+Content-Length: 7983
+
+--f3bc4299023f6926f76d511636f855c8_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Try The InogenOne
+
+http://boosters.bid/gjQEP94pGlkFmBIN6GkdL2y3rB4ub6PduwJa0cj1rJU2aHQ
+
+http://boosters.bid/LIgVcqbYDV-ZWlMKGxdjMtt0XKxjvXjktpyo6TjbjnYP412r
+
+Textiles are often dyed, with fabrics available in almost every colour. The dyeing process often requires several dozen gallons of water for each pound of clothing. Coloured designs in textiles can be created by weaving together fibres of different colours (tartan or Uzbek Ikat), adding coloured stitches to finished fabric (embroidery), creating patterns by resist dyeing methods, tying off areas of cloth and dyeing the rest (tie-dyeing), or drawing wax designs on cloth and dyeing in between them (batik), or using various printing processes on finished fabric. Woodblock printing, still used in India and elsewhere today, is the oldest of these dating back to at least 220 CE in China. Textiles are also sometimes bleached, making the textile pale or white. Brilliantly dyed traditional woven textiles of Guatemala, and woman weaving on a backstrap loom Textiles are sometimes finished by chemical processes to change their characteristics. In the 19th century and early 20th century starching was commonly used to make clothing more resistant to stains and wrinkles. Eisengarn, meaning &quot;iron yarn&quot; in English, is a light-reflecting, strong material invented in Germany in the 19th century. It is made by soaking cotton threads in a starch and paraffin wax solution. The threads are then stretched and polished by steel rollers and brushes. The end result of the process is a lustrous, tear-resistant yarn which is extremely hardwearing. Since the 1990s, with advances in technologies such as permanent press process, finishing agents have been used to strengthen fabrics and make them wrinkle free. More recently, nanomaterials research has led to additional advancements, with companies such as Nano-Tex and NanoHorizons developing permanent treatments based on metallic nanoparticles for making textiles more resistant to things such as water, stains, wrinkles, and pathogens such as bacteria and fungi. Textiles receive a range of treatments before they reach the end-user. From formaldehyde finishes (to improve crease-resistance) to biocidic finishes and from flame retardants to dyeing of many types of fabric, the possibilities are almost endless. However, many of these finishes may also have detrimental effects on the end user. A number of disperse, acid and reactive dyes (for example) have been shown to be allergenic to sensitive individuals. Further to this, specific dyes within this group have also been shown to induce purpuric contact dermatitis. Although formaldehyde levels in clothing are unlikely to be at levels high enough to cause an allergic reaction, due to the presence of such a chemical, quality control and testing are of utmost importance. Flame retardants (mainly in the brominated form) are also of concern where the environment, and their potential toxicity, are concerned. Testing for these additives is possible at a number of commercial laboratories, it is also possible to have textiles tested for according to the Oeko-tex certification standard which contains limits levels for the use of certain chemicals in textiles products.
+
+--f3bc4299023f6926f76d511636f855c8_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://boosters.bid/haVXdWheeiAcUac-7FnHJHmzzNxvKwrd2JL7ZIzs3RqIshpr"><img src="http://boosters.bid/121d84d392490c86a0.jpg" /><img height="1" src="http://www.boosters.bid/dVmJTMEY_4ulBXWPFdXvuHeFG1iBunoyVniyFRdWS_8xD6vy" width="1" /></a>
+<div>
+<div style="width:550px;font-family:Arial;padding:10px;font-size:17px; border:2px solid yellow;">If you have a tennis ball and 15 minutes you can drastically improve your vision using this simple trick . . .<br />
+<br />
+<a href="http://boosters.bid/gjQEP94pGlkFmBIN6GkdL2y3rB4ub6PduwJa0cj1rJU2aHQ" style="color:#428BCA;font-weight:bold;">Watch the video now to learn this simple trick</a> the big glasses companies have been hiding from you for years and throw away your glasses forever . . .</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://boosters.bid/tyeH4-bhc-_B2IW4DV0OaKT5Q3mI-YPj1-8Lk8kXoL1iqzIN" target="_blank"><img src="http://boosters.bid/73fa81b5f4ddc270cd.jpg" style="width:300px;" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://boosters.bid/LIgVcqbYDV-ZWlMKGxdjMtt0XKxjvXjktpyo6TjbjnYP412r" target="_blank"><img src="http://boosters.bid/367f72538f1c0adb5a.jpg" /></a><br />
+<span style="color:#FFFFFF;font-size:6px;">Textiles are often dyed, with fabrics available in almost every colour. The dyeing process often requires several dozen gallons of water for each pound of clothing. Coloured designs in textiles can be created by weaving together fibres of different colours (tartan or Uzbek Ikat), adding coloured stitches to finished fabric (embroidery), creating patterns by resist dyeing methods, tying off areas of cloth and dyeing the rest (tie-dyeing), or drawing wax designs on cloth and dyeing in between them (batik), or using various printing processes on finished fabric. Woodblock printing, still used in India and elsewhere today, is the oldest of these dating back to at least 220 CE in China. Textiles are also sometimes bleached, making the textile pale or white. Brilliantly dyed traditional woven textiles of Guatemala, and woman weaving on a backstrap loom Textiles are sometimes finished by chemical processes to change their characteristics. In the 19th century and early 20th century starching was commonly used to make clothing more resistant to stains and wrinkles. Eisengarn, meaning &quot;iron yarn&quot; in English, is a light-reflecting, strong material invented in Germany in the 19th century. It is made by soaking cotton threads in a starch and paraffin wax solution. The threads are then stretched and polished by steel rollers and brushes. The end result of the process is a lustrous, tear-resistant yarn which is extremely hardwearing. Since the 1990s, with advances in technologies such as permanent press process, finishing agents have been used to strengthen fabrics and make them wrinkle free. More recently, nanomaterials research has led to additional advancements, with companies such as Nano-Tex and NanoHorizons developing permanent treatments based on metallic nanoparticles for making textiles more resistant to things such as water, stains, wrinkles, and pathogens such as bacteria and fungi. Textiles receive a range of treatments before they reach the end-user. From formaldehyde finishes (to improve crease-resistance) to biocidic finishes and from flame retardants to dyeing of many types of fabric, the possibilities are almost endless. However, many of these finishes may also have detrimental effects on the end user. A number of disperse, acid and reactive dyes (for example) have been shown to be allergenic to sensitive individuals. Further to this, specific dyes within this group have also been shown to induce purpuric contact dermatitis. Although formaldehyde levels in clothing are unlikely to be at levels high enough to cause an allergic reaction, due to the presence of such a chemical, quality control and testing are of utmost importance. Flame retardants (mainly in the brominated form) are also of concern where the environment, and their potential toxicity, are concerned. Testing for these additives is possible at a number of commercial laboratories, it is also possible to have textiles tested for according to the Oeko-tex certification standard which contains limits levels for the use of certain chemicals in textiles products. </span></div>
+</body>
+</html>
+
+--f3bc4299023f6926f76d511636f855c8_263e_40195--

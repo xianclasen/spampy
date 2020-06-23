@@ -1,0 +1,90 @@
+Return-Path: <SRS0=GSsoSD=2X=iblont.buzz=canvas.prints.discount-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14686 invoked from network); 2 Jan 2020 16:27:41 -0000
+Received: (qmail 11025 invoked from network); 2 Jan 2020 16:27:40 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 16:27:40 -0000
+Received: (qmail 24139 invoked by uid 48516); 2 Jan 2020 16:27:39 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10756 invoked from network); 2 Jan 2020 16:27:39 -0000
+Received: from mail.iblont.buzz ([91.228.101.7])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 02 Jan 2020 16:27:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=iblont.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas.prints.discount@iblont.buzz;
+ bh=li0hMSp9V4Drgqz5ekm3hnbsotQ=;
+ b=jVdq8dU5tpro+Q48u2/CQWfzfsid3v2vKM1ZapAbWJC1vTsP09UGhHiVY3U/DRI4p0fwlLmvM8Bl
+   opvE8wTzPaojNARgLnxkspHSohx9+Zh1E6gMDeks7nxjdF/auwWdIWG9/cRcHHI9eXzt+7D+LVUZ
+   pwqZ1kw1GFXuVvfEfWQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=iblont.buzz;
+ b=xK32XrYZmLil/HS9gYx+J8hNbUPoaos5jyrTBjXcCvCS6tjSqQZfNl+C4nHVuJglgnwa0EVFm5OW
+   gtFP0T6MPBeT+yhOs/iRTowd9FzY+7IVR69vy7lP2dsmUJkIiOEyW4CZ6zjUJO7HpdItOPJSzh9r
+   ZxO6LyIyxCPjAH5/N6U=;
+Received: by mail.iblont.buzz id h1ocvm0001gs for <bruce@untroubled.org>; Thu, 2 Jan 2020 11:23:21 -0500 (envelope-from <canvas.prints.discount-bruce=untroubled.org@iblont.buzz>)
+Date: Thu, 2 Jan 2020 11:23:21 -0500
+From: "Canvas Prints Discount" <canvas.prints.discount@iblont.buzz>
+To:   <bruce@untroubled.org>
+Subject: Save up to 93% on Fall Decor with Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_244_920483469.1577982189717"
+List-Unsubscribe: <http://www.iblont.buzz/sixtieth/8644K2395z8zk911IIA11u19b6h21cFv4GIf4rxvs4FhIHEsvZ10tQkRdKnoaK7sUCGH106FTHiUM>
+Message-ID: <0.0.0.1B.1D5C188F31C6550.5A79EA@mail.iblont.buzz>
+Content-Length: 3811
+
+------=_Part_244_920483469.1577982189717
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>navigators picketer</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.iblont.buzz/sometimes/9185N23C95SD8y611W7005Z19b6Q21VFv4GIf4rxvs4FhIHEsvZ10oQkRdKnoaK5qjq106m1HilU">=
+2020 BEST SALE EVER 93% off&nbsp; </a></span></span><br /> <br /> <a href=
+=3D"http://www.iblont.buzz/sometimes/9185N23C95SD8y611W7005Z19b6Q21VFv4GIf4rxvs4FhIHEsvZ10oQkRdKnoaK5qjq106m1HilU"><img alt=3D"easy canvas" src=3D"http://www.iblont.buzz/disseminating/7ce5g23D95vU7aF12XG7008D19b6p21UFv4GIf4rxvs4FhIHEsvZ10zQkRdKnoaK6Sr10Wi5IzHAi" style=3D"width=
+: 655px; height: 721px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Press <a href=
+=3D"http://www.iblont.buzz/51b4u2395O8i6B11V7006_19b6y21QFv4GIf4rxvs4FhIHEsvZ10KQkRdKnoaK6S1u0_n6uMHiBP/sixtieth">HERE </a><br /> Or Write to: 11525A Stonehollow Dr. Suite 1=
+00 Austin, TX 78758<br /> <br /> 6547 N Academy Blvd #2128<br /> COLORADO S=
+PRINGS CO 80918<br /> &nbsp; Quit <a href=3D"http://www.iblont.buzz/Dnieper/7925Qr2395l8ll912S700l7G19b6O21JFv4GIf4rxvs4FhIHEsvZ10tQkRdKnoaK7RZj1y0p6DjTMHi">Here</a><b=
+r /> <br /> <br /> <style><font color="sitting"><font></font><small></font></small></style><font></font></span></span><br /> <br /> <span sty=
+le=3D"color:#FFFFFF; ">Mysterious drones have been flying over Colorado and=
+ Nebraska in recent weeks and authorities can' t figure out who' s behind t=
+he aircraft. Deputies have spotted more than 16 unmanned drones flying in n=
+ortheast Colorado after authorities received multiple reports of drone sigh=
+tings last month, the sheriff' s offices in Colorado' s Yuma and Phillips c=
+ounties said. FAA spokesman Ian Gregor told CNN that multiple FAA divisions=
+ and government agencies are investigating reports of drones in Colorado an=
+d Nebraska. Yuma County Sheriff Todd Combs said in a Facebook post Tuesday =
+it appears the drones were staying at least 150-200 feet away from building=
+s and people and are flying in airspace controlled by the federal governmen=
+t. The aircraft, Combs said, are operating within federal guidelines but ar=
+e making residents &quot; very nervous and anxious.&quot; &quot; People do =
+not like the unknown as it upsets the balance of our lives,&quot; Combs wro=
+te. Yuma and Phillips county officials have said they don' t believe the dr=
+ones are malicious in nature. &quot; There are many theories about what is =
+going on, but at this point, that' s all they are. I think we are all feeli=
+ng a little bit vulnerable due to the intrusion of our privacy that we enjo=
+y in our rural community, but I don' t have a solution or know of one right=
+ now. All I can say is don' t live your life in the fear of the unknown,&qu=
+ot; the sheriff wrote.</span><br /> <br /> <br /> &nbsp; </p>=20
+  </center> <style></style><span class="Harveys"></span><font title="senders"><span lang="dressmaker"><font id="skulked"><small></span></font><span title="incongruous"><span dir="aftermath"></span></small></font></span><font size="Vicksburg"><style color="tortures"></style></font> =20
+ <img src=3D"http://www.iblont.buzz/corresponding/9546d23r9F5KI85U13cm700M9D19b6J21rFv4GIf4rxvs4FhIHEsvZ10pQkRdKnoaK5L10KB6HllHiL" alt=3D""/></body>
+</html>
+
+------=_Part_244_920483469.1577982189717--
+

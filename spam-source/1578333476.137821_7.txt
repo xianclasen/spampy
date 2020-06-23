@@ -1,0 +1,147 @@
+Return-Path: <SRS0=3N72jF=23=asund.buzz=blood.sugar.fix-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 26848 invoked from network); 6 Jan 2020 16:39:49 -0000
+Received: (qmail 2052 invoked from network); 6 Jan 2020 16:39:48 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 16:39:48 -0000
+Received: (qmail 21869 invoked by uid 48516); 6 Jan 2020 16:39:48 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8833 invoked from network); 6 Jan 2020 16:39:48 -0000
+Received: from mail.asund.buzz (70-102-103-5.nca.lanset.com [70.102.103.5])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 06 Jan 2020 16:39:47 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=asund.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=blood.sugar.fix@asund.buzz;
+ bh=WY1s7X8l/KMzEer4WJaCY2YW8FI=;
+ b=UXls92YyF5EL7bmIoydPCqKNzouG3kOqslO6uzGsOnXSNx24Jq9VzKQRA93l/wGBfIb2i48N0Nhn
+   AxrGFU9W4fYYfWEQ8YM1fi6lEzXXuNrp1Fn80SifRueeGNaCCAI19i6rwY+1e+yX+S4AFP7XHCl+
+   pEXt1GDIGC+o7fqShS0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=asund.buzz;
+ b=D0BNMIAQMdxJRs1WFdjPuM3suMivNZqUlTGykyxOa/f61W03n/Mx5V4oZ7nZzPV9MqxIVSpfI9AI
+   aUQEKWF94De1JlmkquWQleF3KshXEcVJ9YVZZWb4L70fMd4CjY1PaodJ/LzNJoZT0AF3OXuwf6Nj
+   3MQXg510KaqrNELQApE=;
+Received: by mail.asund.buzz id h2dhd80001gr for <bruce@untroubled.org>; Mon, 6 Jan 2020 11:32:02 -0500 (envelope-from <blood.sugar.fix-bruce=untroubled.org@asund.buzz>)
+Date: Mon, 6 Jan 2020 11:32:02 -0500
+From: "Blood Sugar Fix" <blood.sugar.fix@asund.buzz>
+To:   <bruce@untroubled.org>
+Subject: 1 Blood Sugar 'Trick' Keeps Blood Sugar Normal - Try Tonight
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_16_438735039.1578328306648"
+List-Unsubscribe: <http://www.asund.buzz/1796O23I9W5W89vG12qD1iv1p19dfB21IFv4GIf4rxvs4FhIHEsvZ10FQORQ9oo.95zH10K5b2UHi/absconds-divulged>
+Message-ID: <0.0.0.1.1D5C4AED3450EE8.72FE1A@mail.asund.buzz>
+Content-Length: 6509
+
+------=_Part_16_438735039.1578328306648
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>Brinkley</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); letter-spacing: normal; text-=
+indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adj=
+ust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: =
+2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; , serif; font-size: 17px; " width=3D"100%=
+">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 535px; " width=3D"586">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 12px; ">=20
+                 <h1 style=3D"margin: 20px 6px; color: rgb(34, 34, 34); lin=
+e-height: 32px; font-family: &quot; Sans Serif&quot; ; font-size: 40px; box=
+-sizing: border-box; text-align: center; "><span style=3D"font-family: &quo=
+t; Sans Serif&quot; ; "><span style=3D"color: rgb(0, 0, 0); "><strong>Diabe=
+tes Will Kill You (Do This To Stop It)</strong></span></span></h1>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; "><a href=3D"http://www.asund.buzz/milkers-breakdown/7565nn2395QX86k13oMA70d2w19dfw21sFv4GIf4rxvs4FhIHEsvZ10uQORQ9oo.97zzyz10l5YOHAi"><img alt=3D"" src=3D"http://www.asund.buzz/4856ODq2395a7oYa11N70d5p19dfM21LFv4GIf4rxvs4FhIHEsvZ10zQORQ9oo.95ak10o5VlzHi/handbags-Analects" style=3D=
+"width: 453px; height: 312px; " /></a><br /> <br /> <span style=3D"color: r=
+gb(14, 14, 184); "><span style=3D"font-size: 33px; font-family: &quot; Sans=
+ Serif&quot; ; "><strong><a href=3D"http://www.asund.buzz/milkers-breakdown/7565nn2395QX86k13oMA70d2w19dfw21sFv4GIf4rxvs4FhIHEsvZ10uQORQ9oo.97zzyz10l5YOHAi" style=3D"color: rgb(14, 14,=
+ 184); ">{Watch Asap}</a></strong></span></span></p>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; ">&nbsp; </p>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"font-style: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb=
+(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; f=
+ont-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> &nbsp;=
+=20
+   <center>=20
+    <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; ">
+     <br />=20
+     <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif">&nbsp; <a href=3D"http://www.asund.buzz/98f4Q2395nOF8612w7v0d3L19dfA21OFv4GIf4rxvs4FhIHEsvZ10RQORQ9oo.95p1VT05cqHiN/handbags-Analects"><font color=3D"#666666">End H=
+ere</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804=
+ | Haymarket, VA 20169, USA</font><br /> <br /> <a href=3D"=
+http://www.asund.buzz/absconds-divulged/71a6an2r395tq89i12k70Xd4h19dfH21DFv4GIf4rxvs4FhIHEsvZ10yQORQ9oo.96YgR10I6rpHilJ">Leave&nbsp; Here</a><br /> <span style=3D"caret-color: rgb(0, 0, 0); co=
+lor: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weig=
+ht: normal; letter-spacing: normal; text-indent: 0px; text-transform: none;=
+ white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webk=
+it-text-stroke-width: 0px; text-decoration: none; font-family: arial, helve=
+tica, sans-serif; text-align: center; float: none; display: inline !importa=
+nt; ">6547 N Academy Blvd #2128</span><span style=3D"caret-color: rgb(0, 0,=
+ 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal=
+; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; t=
+ext-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0=
+px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decor=
+ation: none; display: inline !important; float: none; "> </span><br style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; fon=
+t-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphan=
+s: auto; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-st=
+roke-width: 0px; text-decoration: none; font-family: arial, helvetica, sans=
+-serif; font-size: 11px; text-align: center; " /> <span style=3D"caret-colo=
+r: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; te=
+xt-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-=
+adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-f=
+amily: arial, helvetica, sans-serif; text-align: center; float: none; displ=
+ay: inline !important; ">COLORADO SPRINGS CO 80918</span></span>
+     <br />=20
+     <br />=20
+     <br /> &nbsp;=20
+    </div> <style></style><font><small><style></style><span title="roaming"></small></span><big></font><style title="decomposed"></big></style>
+   </center>=20
+  </center>  =20
+ <img src=3D"http://www.asund.buzz/absconds-divulged/26a6j23L9Z5C85oD13S7X0d6QB19dfR21LFv4GIf4rxvs4FhIHEsvZ10UQORQ9oo.97UnCr10Z5q@THi" alt=3D""/></body>
+</html>
+
+------=_Part_16_438735039.1578328306648--
+

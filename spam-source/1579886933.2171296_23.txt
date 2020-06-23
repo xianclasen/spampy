@@ -1,0 +1,130 @@
+Return-Path: <SRS0=b7H8wl=3N=mail.sonicbreads.bid=6925-2982-85526-1846-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 32386 invoked from network); 24 Jan 2020 12:13:14 -0000
+Received: (qmail 17478 invoked from network); 24 Jan 2020 12:13:13 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 12:13:13 -0000
+Received: (qmail 11603 invoked by uid 48516); 24 Jan 2020 12:13:12 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29956 invoked from network); 24 Jan 2020 12:13:12 -0000
+Received: from wayne1.sonicbreads.bid ([170.130.174.54])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 24 Jan 2020 12:12:59 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=sonicbreads.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=HearingAidsSpecial@sonicbreads.bid;
+ bh=xiT5nfUGColO2LK5lGt0bvMiKSY=;
+ b=JTxr51aKPEteilSS86cUS1ATVg9rqG7ChUpFgdurICAsWxfJXgZ5hF3Tz7uY5lcqKbCmM61U5mxo
+   nsRMmg7E6P2RQs2CZeD/EDESBvXx9FfkTV667YGBXBQl0xKokUVbyw7HWsMIumXfdg1Ad6uCHX1X
+   5AkzmlY531iJFZ+EJcQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=sonicbreads.bid;
+ b=HsLdIXUfTwixsk+bTwQDtlzUn4gnwSJpXVikqyJ7838mfK17L5W9K8vU1OjpAIf8SEUQ0X8yFkI7
+   1FR+QL2oI0xsKLQa1RlmHV2BxDWSyUecsZ5OohSP4ugyw816kG/cbcsqcpX1rsHaPoxPiLfEowJf
+   M7tskfrHt6VNled0PB4=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="18b06c895ad888b0ff2a9c51d585b214_ba6_14e16"
+Date: Fri, 24 Jan 2020 07:11:05 -0500
+From: "Hearing Aids" <HearingAidsSpecial@sonicbreads.bid>
+Reply-To: "Hearing Aids" <HearingAids@sonicbreads.bid>
+Subject: Extremely helpful. It has entirely turned around my day to day life
+To: <bruce@untroubled.org>
+Message-ID: <q9lzw2xxyusiav0s-b0xiyk49pn3886a8-ba6-14e16@sonicbreads.bid>
+Content-Length: 8864
+
+--18b06c895ad888b0ff2a9c51d585b214_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Extremely helpful. It has entirely turned around my day to day life
+
+http://sonicbreads.bid/LdM7Qyc3NRRJbOXPp8AHfNKrNGX9Ara1Rw5bgQwfHGPb8O_D
+
+http://sonicbreads.bid/TvlFOx_NwPOPx0dUEqbpDd7f7gEmpUuXcuHzx5F-7WyYA3ua
+
+For the next century, through the reigns of James I, who ordered the translation of the Bible known as the King James Version (authorized to be used in parishes which does not mean it was the official version), and Charles I, culminating in the English Civil War and the Protectorate of Oliver Cromwell, there were significant swings back and forth between two factions: the Puritans (and other radicals) who sought more far-reaching Protestant reforms, and the more conservative churchmen who aimed to keep closer to traditional beliefs and Catholic practices. The failure of political and ecclesiastical authorities to submit to Puritan demands for more extensive reform was one of the causes of open warfare. By Continental standards the level of violence over religion was not high, since the Civil War was mainly about politics, but the casualties included King Charles I and the Archbishop of Canterbury, William Laud and tens of thousands of civilians who died from the unsettled conditions. Under the Commonwealth and the Protectorate of England from 1649 to 1660, the bishops were dethroned and former practices were outlawed, and Presbyterian ecclesiology was introduced in place of the episcopate. The 39 Articles were replaced by the Westminster Confession, the Book of Common Prayer by the Directory of Public Worship. Despite this, about one quarter of English clergy refused to conform to this form of State Presbyterianism.
+Major repairs were done to Canterbury Cathedral after the Restoration in 1660.
+
+With the Restoration of Charles II, Parliament restored the Church of England to a form not far removed from the Elizabethan version. One difference was that the ideal of encompassing all the people of England in one religious organisation, taken for granted by the Tudors, had to be abandoned. The religious landscape of England assumed its present form, with the Anglican established church occupying the middle ground, and those Puritans and Protestants who dissented from the Anglican establishment having to continue their existence outside the national church rather than trying to influence or trying to gain control of it. One result of the Restoration was the ousting of 2,000 parish ministers who had not been ordained by bishops in the Apostolic Succession or who had been ordained by ministers in presbyter's orders. Official suspicion and legal restrictions continued well into the 19th century. Roman Catholics, perhaps 5% of the English population (down from 20% in 1600) were grudgingly tolerated, having had little or no official representation after the Pope's excommunication of Queen Elizabeth in 1570, though the Stuarts were sympathetic to them. By the end of 18th century they had dwindled to 1% of the population mostly among eccentric upper middle-class gentry and their tenants and extended families.
+
+--18b06c895ad888b0ff2a9c51d585b214_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://sonicbreads.bid/I3Xrl-pKY4WNZShsRHs8j6pC0gfVN3RvgB8QSeJrUoCkSFWE"><img src="http://sonicbreads.bid/c5ca6d04d6d3fa9b49.jpg" /><img height="1" src="http://www.sonicbreads.bid/n9z7sltP595FBgz_A_8Uzrpd4fw-c1_u4x8MenP3ulSQ-d0" width="1" /></a><br />
+&nbsp;
+<center>
+<div style="width:629px; font-size:20px; background-color:#c6d9f1;padding:20px;">&nbsp;
+<h1><a href="http://sonicbreads.bid/LdM7Qyc3NRRJbOXPp8AHfNKrNGX9Ara1Rw5bgQwfHGPb8O_D" style="color:#c00000; text-decoration:none;">This Is Going to Change Your Life forever!</a></h1>
+
+<p>The latest statistics show that about 40% of people over 55 suffer from some type of hearing problem, although most choose to ignore it.</p>
+
+<table>
+	<tbody>
+		<tr>
+			<td><a href="http://sonicbreads.bid/LdM7Qyc3NRRJbOXPp8AHfNKrNGX9Ara1Rw5bgQwfHGPb8O_D"><img src="http://sonicbreads.bid/57885794190703baac.jpeg" /></a></td>
+			<td style="line-height:30px;">Are you too is suffering from the hearing problem? Hearing loss can not only be frustrating, but it can also make you a social recluse unable to join social situations. This can now change, in your budget</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="line-height:30px;">&bull; Crystal-Clear Adjustable Speaker<br />
+			&bull; Never miss another conversation again<br />
+			&bull; Advanced Technology<br />
+			&bull; Built-in high-sensitivity microphones<br />
+			&bull; Moisture-Resistant<br />
+			&bull; Doesn&#39;t force you to give up activities because of a device<br />
+			&bull; Compact And Discrete<br />
+			&bull; Not noticed by others</td>
+			<td style="line-height:30px;"><a href="http://sonicbreads.bid/LdM7Qyc3NRRJbOXPp8AHfNKrNGX9Ara1Rw5bgQwfHGPb8O_D"><img src="http://sonicbreads.bid/18979e43dd0336c07b.jpg" /></a></td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="color:#00b089;">AudiPlus247 brings latest generation hearing aid to the masses. With the help of new manufacturing techniques, it provides crystal clear sound to everyone who had issues with their hearing. <b><a href="http://sonicbreads.bid/LdM7Qyc3NRRJbOXPp8AHfNKrNGX9Ara1Rw5bgQwfHGPb8O_D" style="color:#0070c0;">Tap here and avail 50% off now</a></b></p>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sonicbreads.bid/0Q4j6l_jl9dqBQAlTgV2EJnUIu5iyQEz50V_Fa8iWiLOO0ZC" target="_blank"><img src="http://sonicbreads.bid/a94737b2904777e94b.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">For the next century, through the reigns of James I, who ordered the translation of the Bible known as the King James Version (authorized to be used in parishes which does not mean it was the official version), and Charles I, culminating in the English Civil War and the Protectorate of Oliver Cromwell, there were significant swings back and forth between two factions: the Puritans (and other radicals) who sought more far-reaching Protestant reforms, and the more conservative churchmen who aimed to keep closer to traditional beliefs and Catholic practices. The failure of political and ecclesiastical authorities to submit to Puritan demands for more extensive reform was one of the causes of open warfare. By Continental standards the level of violence over religion was not high, since the Civil War was mainly about politics, but the casualties included King Charles I and the Archbishop of Canterbury, William Laud and tens of thousands of civilians who died from the unsettled conditions. Under the Commonwealth and the Protectorate of England from 1649 to 1660, the bishops were dethroned and former practices were outlawed, and Presbyterian ecclesiology was introduced in place of the episcopate. The 39 Articles were replaced by the Westminster Confession, the Book of Common Prayer by the Directory of Public Worship. Despite this, about one quarter of English clergy refused to conform to this form of State Presbyterianism. Major repairs were done to Canterbury Cathedral after the Restoration in 1660. With the Restoration of Charles II, Parliament restored the Church of England to a form not far removed from the Elizabethan version. One difference was that the ideal of encompassing all the people of England in one religious organisation, taken for granted by the Tudors, had to be abandoned. The religious landscape of England assumed its present form, with the Anglican established church occupying the middle ground, and those Puritans and Protestants who dissented from the Anglican establishment having to continue their existence outside the national church rather than trying to influence or trying to gain control of it. One result of the Restoration was the ousting of 2,000 parish ministers who had not been ordained by bishops in the Apostolic Succession or who had been ordained by ministers in presbyter&#39;s orders. Official suspicion and legal restrictions continued well into the 19th century. Roman Catholics, perhaps 5% of the English population (down from 20% in 1600) were grudgingly tolerated, having had little or no official representation after the Pope&#39;s excommunication of Queen Elizabeth in 1570, though the Stuarts were sympathetic to them. By the end of 18th century they had dwindled to 1% of the population mostly among eccentric upper middle-class gentry and their tenants and extended families. </span><br />
+<br />
+<br />
+<br />
+&nbsp;</center>
+</body>
+</html>
+
+--18b06c895ad888b0ff2a9c51d585b214_ba6_14e16--

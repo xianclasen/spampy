@@ -1,0 +1,51 @@
+Return-Path: <SRS0=yXqmXx=3I=majestics.ga=bounce+0DzcSyZean55Ymud8PQm7qPfroNBH1RFK@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11360 invoked from network); 19 Jan 2020 18:21:40 -0000
+Received: (qmail 25483 invoked from network); 19 Jan 2020 18:21:39 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Jan 2020 18:21:39 -0000
+Received: (qmail 14147 invoked by uid 48516); 19 Jan 2020 18:21:38 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 17719 invoked from network); 19 Jan 2020 18:21:38 -0000
+Received: from majestics.ga (213-218-15-51.rev.cloud.scaleway.com [51.15.218.213])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 19 Jan 2020 18:21:38 -0000
+MIME-Version: 1.0
+From: HomeLight.com <notification+38rptBxYcKEDVvJNBcvJAvVgcpFB0v06M@majestics.ga>
+Subject: LIST UPDATE - Top Real Estate Agents Updated
+Message-ID: <20191102083153.18506470.236653.2112180539899332006669@sailthru.com>
+Reply-To: reply@majestics.ga
+Received: from majestics.ga (10.1.82.243) by majestics.ga id PbSdQDmV7lGJ for <bruce@untroubled.org>; Sun, 19 Jan 2020 19:12:17 +0100 (envelope-from <return@majestics.ga>
+To: bruce@untroubled.org
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="UTF-8"
+Date: Sun, 19 Jan 2020 19:12:17 +0100
+Content-Length: 1333
+
+<img alt='' src='http://majestics.ga/r.php?t=o&d=4326&l=1545&c=21835' width='1px' height='1px' style='visibility:hidden'/>
+
+<html>
+
+
+<body>
+  
+  <CENTER><A href="http://majestics.ga/r.php?t=c&d=4326&l=1545&c=21835"><font color=#0000FF face="Copperplate Gothic Light" size=6>bruce, LIST UPDATE - Top Real Estate Agents Updated
+</font> <br><font color=#0000FF face="Copperplate Gothic Light" size=5></font></A></CENTER>
+
+<br>
+
+<br>
+
+<center><a href="http://majestics.ga/r.php?t=c&d=4326&l=1545&c=21835"><img src="https://i.imgur.com/2IqEsaM.jpg"></a><p></p></center>
+<center><a href="http://majestics.ga/r.php?t=c&d=4326&l=1545&c=21835"><img src="https://i.imgur.com/1OjObp8.jpg"></a><p></p></center>
+<center><a href="http://majestics.ga/r.php?t=c&d=4326&l=1545&c=21835"><img src="https://i.imgur.com/yzaxGp4.jpg"></a><p></p></center>
+<font face="arial" size="1"></center>
+ <br>
+<center><a href="http://majestics.ga/r.php?t=u&d=4326&l=1545&c=21835"><img src="https://i.imgur.com/QQQdfQb.jpg"></a><p></p></center>
+<font face="arial" size="1"></center>
+
+</body>
+
+</html>
+<span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://majestics.ga/opt.php?d=4326&l=1545&c=21835&em=f8f706c3938feec43d1f111ad3c0a047">here</a> to remove yourself from our emails list</span>

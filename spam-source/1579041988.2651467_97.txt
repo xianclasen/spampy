@@ -1,0 +1,89 @@
+Return-Path: <SRS0=sIx1Jx=3D=mail.ultrasmall.bid=6352-2982-85526-1704-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 16001 invoked from network); 14 Jan 2020 08:47:07 -0000
+Received: (qmail 506 invoked from network); 14 Jan 2020 08:47:06 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 08:47:06 -0000
+Received: (qmail 6647 invoked by uid 48516); 14 Jan 2020 08:47:06 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 10154 invoked from network); 14 Jan 2020 08:47:06 -0000
+Received: from monkey.ultrasmall.bid (ago6ods54.agoradamp.press [170.130.172.214])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 14 Jan 2020 08:47:05 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=ultrasmall.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=BestObamaCare@ultrasmall.bid;
+ bh=Q+ibcitGJ2XKCDwfWOHeQSV0CmE=;
+ b=n8A+rQXRt0AZMQYH/c4OtwBAtxoO9qEWFWMaK885s8qEanIMrOEaelnBvefGvVTQIvn+PxfNi5yR
+   gdOwjPdErJYX/++4R357UxbwYmvoYBRAMOAV8FzrzBLzxlsvZVsfhJI5v3prPb7UicDz/nFyMhSU
+   2ZUxaCeMstshol7qt1c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=ultrasmall.bid;
+ b=qLYQ0Jr77MdNz8qay8GdpjlaSggcG6ZllM8nGXB0AD5xlKeidspkzD2tUg2et18o8Axjt7nBx0hu
+   1S14BUttal/u7d/DsiAr4no1+Sm7VwE9gTrQga/kZHVTZw5zHKZsbMvRWrGqDPaPsAJZynF9sTWL
+   6Xbly8ZM5tKKYohWPts=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="15bd0a6fbba5c38b0876a2aececa50be_ba6_14e16"
+Date: Tue, 14 Jan 2020 03:39:32 -0500
+From: "BestObama" <BestObamaCare@ultrasmall.bid>
+Reply-To: "BestObama" <BestObama@ultrasmall.bid>
+Subject: You could save big
+To: <bruce@untroubled.org>
+Message-ID: <397gew7vtsaahk9l-eypiikd3ovcap0nx-ba6-14e16@ultrasmall.bid>
+Content-Length: 5748
+
+--15bd0a6fbba5c38b0876a2aececa50be_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+You could save big
+
+http://ultrasmall.bid/g_2wGUQv-ty_2AoRHQxgGnCyNrvYTOf8OJm0PUDeWJPxl6T5
+
+http://ultrasmall.bid/g3Hd0Lp4JSiM7qm2fWAap-6XFaLCiGYK11PZ3QzD5LcqLHRN
+
+o avoid being an easy prey of Tamraj Kilvish, Shaktimaan adopted a different identity as Pandit Gangadhar Vidyadhar Mayadhar Omkarnath Shastri in the society. The character Gangadhar is completely opposite to that of Shaktimaan in all aspects e.g. appearance, intelligence while he speaks pure Hindi. Whenever he gets any important job to do, he says that he has written a book on it which had never been published. Staying in the society as a common person helped him to get knowledge about crime. He got a job of a photographer for the newspaper Aaj Ki Awaaz after being interviewed by Geeta Vishwas. After a few weeks, he became a co-reporter working with Geeta. Through a series of incidents and the fact that he could never capture a photo of Shaktimaan, Geeta came to know about the dual identity of Shaktimaan, which was previously known only to Suryanshis. After Aaj Ki Awaaz was shut down, Gangadhar became a Hindi professor at a junior college. Later, he left the college to work for a news channel KR TV with Geeta.
+Characters
+Main characters
+Geeta Vishwas
+Geeta Vishwas (Vaishnavi Mahant, previously Kitu Gidwani), the female lead in the serial, used to work as a brave news reporter in Aaj Ki Awaaz. She was the first to report about Shaktimaan in newspaper and named the superhero as Shaktimaan. Incidentally, she was the only reporter to get interviews of Shaktimaan as Gangadhar used to accompany her as photographer in missions. She died in a crash planned by Dr. Jackal. As Shaktimaan loved her, he brought her back to life again using his power which resulted in losing his powers temporarily due to his against the nature actions. Geeta came to know about this after Shaktimaan regained power with the vow that he will never repeat the same mistake again. To ensure this, she planned to leave the country. In the lead up to that situation, she got to know about Shaktimaan's dual character for the third time. But unlike first two occasions, Shaktimaan didn't erase it from Geeta's memory this time as she promi
+
+--15bd0a6fbba5c38b0876a2aececa50be_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://ultrasmall.bid/kBz36ZMkzxalABlawwD-Xd1M-do9mkObiln_yF8MOuWibDQs"><img src="http://ultrasmall.bid/cae07c162051766ed6.jpg" /><img height="1" src="http://www.ultrasmall.bid/SCUnuZOZh2ivS7TvJ2AO_sZvCw_XZBIUbduOLMLhO1I3qksY" width="1" /></a>
+<center>
+<div><br />
+<br />
+<a href="http://ultrasmall.bid/g_2wGUQv-ty_2AoRHQxgGnCyNrvYTOf8OJm0PUDeWJPxl6T5" style="font-size:30px;font-family:Arial; color:blue; text-decoration:none;">You could save big</a><br />
+<br />
+<a href="http://ultrasmall.bid/g_2wGUQv-ty_2AoRHQxgGnCyNrvYTOf8OJm0PUDeWJPxl6T5"><img src="http://ultrasmall.bid/1698002acd3cbffb40.jpg" style="border:5px solid #ffffff; box-shadow:0px 0px 5px 5px #888888; " /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://ultrasmall.bid/HVZ4r1wGW8TSn-kWYpcH-5livO4kHjqoDkseUh0uGZUAwgFk"><img src="http://ultrasmall.bid/975d70ac057c5910b1.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://ultrasmall.bid/g3Hd0Lp4JSiM7qm2fWAap-6XFaLCiGYK11PZ3QzD5LcqLHRN"><img src="http://ultrasmall.bid/765ff193fea00b0e03.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">o avoid being an easy prey of Tamraj Kilvish, Shaktimaan adopted a different identity as Pandit Gangadhar Vidyadhar Mayadhar Omkarnath Shastri in the society. The character Gangadhar is completely opposite to that of Shaktimaan in all aspects e.g. appearance, intelligence while he speaks pure Hindi. Whenever he gets any important job to do, he says that he has written a book on it which had never been published. Staying in the society as a common person helped him to get knowledge about crime. He got a job of a photographer for the newspaper Aaj Ki Awaaz after being interviewed by Geeta Vishwas. After a few weeks, he became a co-reporter working with Geeta. Through a series of incidents and the fact that he could never capture a photo of Shaktimaan, Geeta came to know about the dual identity of Shaktimaan, which was previously known only to Suryanshis. After Aaj Ki Awaaz was shut down, Gangadhar became a Hindi professor at a junior college. Later, he left the college to work for a news channel KR TV with Geeta. Characters Main characters Geeta Vishwas Geeta Vishwas (Vaishnavi Mahant, previously Kitu Gidwani), the female lead in the serial, used to work as a brave news reporter in Aaj Ki Awaaz. She was the first to report about Shaktimaan in newspaper and named the superhero as Shaktimaan. Incidentally, she was the only reporter to get interviews of Shaktimaan as Gangadhar used to accompany her as photographer in missions. She died in a crash planned by Dr. Jackal. As Shaktimaan loved her, he brought her back to life again using his power which resulted in losing his powers temporarily due to his against the nature actions. Geeta came to know about this after Shaktimaan regained power with the vow that he will never repeat the same mistake again. To ensure this, she planned to leave the country. In the lead up to that situation, she got to know about Shaktimaan&#39;s dual character for the third time. But unlike first two occasions, Shaktimaan didn&#39;t erase it from Geeta&#39;s memory this time as she promi </span></center>
+</body>
+</html>
+
+--15bd0a6fbba5c38b0876a2aececa50be_ba6_14e16--

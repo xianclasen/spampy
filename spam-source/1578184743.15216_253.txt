@@ -1,0 +1,177 @@
+Return-Path: <SRS0=42KTFA=2X=spcory.date=diabetes.free-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 17506 invoked from network); 2 Jan 2020 19:14:07 -0000
+Received: (qmail 11726 invoked from network); 2 Jan 2020 19:14:06 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 19:14:06 -0000
+Received: (qmail 11584 invoked by uid 48516); 2 Jan 2020 19:14:06 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 14023 invoked from network); 2 Jan 2020 19:14:05 -0000
+Received: from mail.spcory.date ([91.228.101.84])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 02 Jan 2020 19:14:05 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=spcory.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=diabetes.free@spcory.date;
+ bh=oKWnruif151lgEkFsrQRKWUtYOE=;
+ b=KBM6FBnbhCz09ANZrCBUitqeLnxH0fEQdMH84Y78gfKfsteNoqf8tXEGiur+AN0t1CCu/ajUw9qN
+   H2WaZ2Tl4K3qGlHT0pAoipVT+gu8ePzhenuIZf+orkkstWkNFtYCpl6rAUGe8o0Mz6mAVuPr0+kT
+   ijvILClIDfc5sFtheSc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=spcory.date;
+ b=bAyswBDHWpgUzkZTrZTg1fO6EAHQI27UyIsHVdzAg4WFEY+GMRRXxwCf1HXByFn1ZEHpbXE9v8gH
+   KphRztWaM9ExO9J6NQIrhpu4baUszE2goiEYQXV7+OjgSARBYA3ogSoVLrEQ7B6qrZ+7t+hr8j1f
+   6l8H4GBxWatomo1NQZ0=;
+Received: by mail.spcory.date id h1p0fq0001gd for <bruce@untroubled.org>; Thu, 2 Jan 2020 14:08:39 -0500 (envelope-from <diabetes.free-bruce=untroubled.org@spcory.date>)
+Date: Thu, 2 Jan 2020 14:08:39 -0500
+From: "Diabetes Free" <diabetes.free@spcory.date>
+To:   <bruce@untroubled.org>
+Subject: The link between stainless steel and diabetes...
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_121_1735920391.1577992107259"
+List-Unsubscribe: <http://www.spcory.date/biographical-copyrights/2c44b2395j8Kq912V1ppF1J19bcF21SFv4GIf4rxvs4FhIHEsvZ10hQ1RdKSoa96Fj1nL06hAW0Hi>
+Message-ID: <0.0.0.D.1D5C1A00A7DC20E.663EA0@mail.spcory.date>
+Content-Length: 8741
+
+------=_Part_121_1735920391.1577992107259
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>Americanize</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <a href=3D"http://www.spcory.date/7914D2395I8_v611q7023L19bcI21hFv4GIf4rxvs4FhIHEsvZ10EQ1RdKSoa95SB1M05yqWHi/animations-thickens">End High Blood pressure</a>
+  </div>=20
+  <center>=20
+   <table style=3D"letter-spacing: normal; text-indent: 0px; text-transform=
+: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; orphans: 2; widows: 2; font-family: =
+&quot; Sans Serif&quot; ; width: 565px; color: rgb(51, 51, 51); font-size: =
+13px; font-style: normal; font-weight: normal; white-space: normal; font-va=
+riant-ligatures: normal; font-variant-caps: normal; height: 421px; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 17px; height: 448px; " width=
+=3D"555">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 451px; " width=3D"551">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                 <div style=3D"color: rgb(0, 0, 0); line-height: normal; fo=
+nt-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                  <p><span style=3D"font-size:16px; "><span style=3D"font-f=
+amily:arial,helvetica,sans-serif; ">Wait! You can&nbsp; <span style=3D"colo=
+r: black; "><span style=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.spcory.date/7914D2395I8_v611q7023L19bcI21hFv4GIf4rxvs4FhIHEsvZ10EQ1RdKSoa95SB1M05yqWHi/animations-thickens" =
+style=3D"color: rgb(0, 0, 255); font-weight: bold; ">regulate your blood pr=
+essure</a></span></span>, your blood sugar, cholesterol, insulin resistance=
+ and you want your body to automatically and healthily drop excess fat, fas=
+t? It will be the best time investment you can make in your health this yea=
+r.</span></span></p>=20
+                  <p><span style=3D"font-family: &quot; Sans Serif&quot; ; =
+color: black; "><span style=3D"font-family: arial, sans-serif; font-size: 1=
+2.8px; font-style: normal; font-variant-ligatures: normal; font-variant-cap=
+s: normal; font-weight: 200; letter-spacing: normal; orphans: 2; text-align=
+: start; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: =
+rgb(255, 255, 255); color: rgb(0, 0, 0); "><span style=3D"font-size: 22px; =
+"><span style=3D"font-family: Times; "><span style=3D"line-height: 25.3px; =
+"><strong><span style=3D"font-family: arial, sans-serif; font-size: 12.8px;=
+ font-style: normal; font-variant-ligatures: normal; font-variant-caps: nor=
+mal; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-wi=
+dth: 0px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); "><spa=
+n style=3D"font-family: &quot; Sans Serif&quot; ; "><span style=3D"color: r=
+gb(0, 0, 255); "><a href=3D"http://www.spcory.date/7914D2395I8_v611q7023L19bcI21hFv4GIf4rxvs4FhIHEsvZ10EQ1RdKSoa95SB1M05yqWHi/animations-thickens"><img alt=3D"wooo" src=3D"=
+http://www.spcory.date/constantly-raids/13e5Q2Z395Y7aDq13a7U0u26B19bco21fFv4GIf4rxvs4FhIHEsvZ10IQ1RdKSoa95R10MA6lJXHik" style=3D"display: block; margin-left: auto; margin-right: auto; width: 3=
+73px; height: 248px; " /></a></span></span></span></strong></span></span></=
+span></span></span></p>=20
+                  <p><span style=3D"font-size:16px; ">This 100% natural tre=
+atment, which&nbsp; <span style=3D"color: black; "><span style=3D"color: rg=
+b(0, 0, 255); "><a href=3D"http://www.spcory.date/7914D2395I8_v611q7023L19bcI21hFv4GIf4rxvs4FhIHEsvZ10EQ1RdKSoa95SB1M05yqWHi/animations-thickens" style=3D"color: rgb(0, 0, 255); font=
+-weight: bold; ">naturally fights diabetes</a></span></span>, has stunned d=
+octors &amp; got the attention of over 260,391 people to transform their li=
+ves.<br /> <br /> If you or anyone you care about is suffering from diabete=
+s you must&nbsp; <span style=3D"color: black; "><span style=3D"color: rgb(0=
+, 0, 255); "><a href=3D"http://www.spcory.date/7914D2395I8_v611q7023L19bcI21hFv4GIf4rxvs4FhIHEsvZ10EQ1RdKSoa95SB1M05yqWHi/animations-thickens" style=3D"color: rgb(0, 0, 255); font-we=
+ight: bold; ">watch this video now!</a></span></span></span></p>=20
+                 </div>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"font-style: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb=
+(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; f=
+ont-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p>=20
+   <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, =
+0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-=
+indent: 0px; text-transform: none; white-space: normal; widows: auto; word-=
+spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0p=
+x; text-decoration: none; ">
+    <br />=20
+    <br />=20
+    <br />=20
+    <br />=20
+    <br />=20
+    <br />=20
+    <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helvetic=
+a, sans-serif">&nbsp; <a href=3D"http://www.spcory.date/appraisals-assimilated/7924k2395Rs8C613pm7024wm19bcI21vFv4GIf4rxvs4FhIHEsvZ10MQ1RdKSoa95c10CA6gMzHi1"><font color=3D"#666666">Leave =
+Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #80=
+4 | Haymarket, VA 20169, USA</font><br /> <br /> <a href=3D"=
+http://www.spcory.date/1f14G2395cu89R13h7u025Iq19bck21SFv4GIf4rxvs4FhIHEsvZ10uQ1RdKSoa97ll1M0pW5W1lHi/tampers-allocation">Pull&nbsp; off Here</a><br /> <span style=3D"caret-color: rgb(0, 0, 0)=
+; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-=
+weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: n=
+one; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -=
+webkit-text-stroke-width: 0px; text-decoration: none; font-family: arial, h=
+elvetica, sans-serif; text-align: center; float: none; display: inline !imp=
+ortant; ">6547 N Academy Blvd #2128</span><span style=3D"caret-color: rgb(0=
+, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: no=
+rmal; font-variant-caps: normal; font-weight: normal; letter-spacing: norma=
+l; text-indent: 0px; text-transform: none; white-space: normal; word-spacin=
+g: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-d=
+ecoration: none; display: inline !important; float: none; "> </span><br sty=
+le=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; f=
+ont-variant-caps: normal; font-weight: normal; letter-spacing: normal; orph=
+ans: auto; text-indent: 0px; text-transform: none; white-space: normal; wid=
+ows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-=
+stroke-width: 0px; text-decoration: none; font-family: arial, helvetica, sa=
+ns-serif; font-size: 11px; text-align: center; " /> <span style=3D"caret-co=
+lor: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-ca=
+ps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; =
+text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-siz=
+e-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font=
+-family: arial, helvetica, sans-serif; text-align: center; float: none; dis=
+play: inline !important; ">COLORADO SPRINGS CO 80918</span></span>
+    <br />=20
+    <br />=20
+    <br /> &nbsp;=20
+   </div> <style><style></style><span><style></style></style></span>
+  </center>  =20
+ <img src=3D"http://www.spcory.date/4df6n2j39C5zsF8511H7027X19bcx21OFv4GIf4rxvs4FhIHEsvZ10KQ1RdKSoa97K1Z0zDx6r3OJHi/appraisals-assimilated" alt=3D""/></body>
+</html>
+
+------=_Part_121_1735920391.1577992107259--
+

@@ -1,0 +1,104 @@
+Return-Path: <SRS0=U/fkq8=3E=mail.heatstrech.us=6435-9790-262549-1724-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 10492 invoked from network); 15 Jan 2020 12:35:28 -0000
+Received: (qmail 11432 invoked from network); 15 Jan 2020 12:35:27 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Jan 2020 12:35:27 -0000
+Received: (qmail 12662 invoked by uid 48516); 15 Jan 2020 12:35:27 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 538 invoked from network); 15 Jan 2020 12:35:27 -0000
+Received: from ink.heatstrech.us (client-192-119-111-166.hostwindsdns.com [192.119.111.166])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 15 Jan 2020 12:35:26 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=heatstrech.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=FlexibilityExpert@heatstrech.us;
+ bh=7VmKG1DGsBxb9PAX6T9IQGfZz8U=;
+ b=lEfpkmDn9tqVAXP8zB/xpF9MbWOUDikMbAQ9X6J+6ZANcDYDGkp2/uNXzwcL6HoTwqoLQd2nowOQ
+   3hM34xCaeYtDMEfrw+3/zCKYgF8D0TzltmucRxdd4HDWTCar2VfbC8XqXepPv5cMSVAZDr6yptD/
+   bAtP4LTvTCXikAKvaa8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=heatstrech.us;
+ b=Hr1H2tFTZ868YkiGTyYwUIXxeEgjEFc00tFpms4IWJdd3gjJo1Mc/396b08LhG4qNxyJNea+Qruo
+   Ze3LLCsDGpfQP7w9yAEAJu628xNBQSIiDy8qJoioTcUMctMSnHM1yEvfo5hJipNFJO2NY/uLGakA
+   DUh9EP6XE0U86Q6l5xk=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="ca19985775bbdacad3a0f29370fd5ddb_263e_40195"
+Date: Wed, 15 Jan 2020 07:35:24 -0500
+From: " Flexibility" <FlexibilityExpert@heatstrech.us>
+Reply-To: "Flexibility Expert" <Flexibility@heatstrech.us>
+Subject: How to Quickly Gain Full Body Flexibility and Core Strength
+To: <bruce@untroubled.org>
+Message-ID: <rru2lqvvofxwv82x-68t3m4mgwqhhupgh-263e-40195@heatstrech.us>
+Content-Length: 7701
+
+--ca19985775bbdacad3a0f29370fd5ddb_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+How to Quickly Gain Full Body Flexibility and Core Strength
+
+http://heatstrech.us/95ep_ohG10eD1wmezzAtN7Xn0uHhHOyZDPc25OE31pl-JDae
+
+http://heatstrech.us/x1hK5xmfzJqBfw6Dny_osVg0MMHbl26WDQ826VWc93txp4XY
+
+On 10 November 1943 Sukarno and Hatta were sent on a 17-day tour of Japan, where they were decorated by Emperor Hirohito and wined and dined in the house of Prime Minister Hideki Tojo in Tokyo. On 7 September 1944, with the war going badly for the Japanese, Prime Minister Kuniaki Koiso promised independence for Indonesia, although no date was set. This announcement was seen, according to the U.S. official history, as immense vindication for Sukarno's apparent collaboration with the Japanese. The U.S. at the time considered Sukarno one of the "foremost collaborationist leaders."
+
+On 29 April 1945, with the fall of Philippines to American hands, the Japanese allowed for the establishment of the Investigating Committee for Preparatory Work for Independence (BPUPK), a quasi-legislature consisting of 67 representatives from most ethnic groups in Indonesia. Sukarno was appointed as head of the BPUPK and was tasked to lead discussions to prepare the basis of a future Indonesian state. To provide a common and acceptable platform to unite the various squabbling factions in the BPUPK, Sukarno formulated his ideological thinking developed for the past twenty years into five principles. On 1 June 1945, he introduced these five principles, known as pancasila, during the joint session of the BPUPK held in the former Volksraad Building (now called Gedung Pancasila).
+
+Pancasila, as presented by Sukarno during the BPUPK speech, consisted of five principles which Sukarno saw as commonly shared by all Indonesians:
+
+    Nationalism, whereby a united Indonesian state would stretch from Sabang to Merauke, encompassing all former Dutch East Indies
+    Internationalism, meaning Indonesia is to appreciate human rights and contribute to world peace, and should not fall into chauvinistic fascism such as displayed by Nazis with their belief in the racial superiority of Aryans
+    Democracy, which Sukarno believed has always been in the blood of Indonesians through the practice of consensus-seeking (musyawarah untuk mufakat), an Indonesian-style democracy different from Western-style liberalism
+    Social justice, a form of populist socialism in economics with Marxist-style opposition to free capitalism. Social justice also intended to provide an equal share of the economy to all Indonesians, as opposed to the complete economic domination by the Dutch and Chinese during the colonial period
+    Belief in God, whereby all religions are treated equally and have religious freedom. Sukarno saw Indonesians as spiritual and religious people, but in essence tolerant towards different religious beliefs
+
+On 22 June, the Islamic and nationalist elements of the BPUPK created a small committee of nine, which formulated Sukarno's ideas into the five-point Pancasila, in a document known as the Jakarta Charter:
+
+--ca19985775bbdacad3a0f29370fd5ddb_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>newsletter</title>
+</head>
+<body><a href="http://heatstrech.us/5t_dXdhcgH2KsNfFuGT2UvHGoT-rlqh0lb8DKRJYGJxY87Bh"><img src="http://heatstrech.us/138203632ee1d69a31.jpg" /><img height="1" src="http://www.heatstrech.us/YmZtmihLuceWckg2u-SQUNkh1xJ5fe4cqjCfstm3qa1IcJFR" width="1" /></a><br />
+&nbsp;
+<div style="width:500px; text-align:left;font-family:Arial;font-size:20px;padding:20px;">I want to share with you something special today.<br />
+<br />
+<a href="http://heatstrech.us/95ep_ohG10eD1wmezzAtN7Xn0uHhHOyZDPc25OE31pl-JDae"><b style="font-family:arial;">A never-before-seen stretching trick that makes your muscles flexible beyond belief fast!</b></a><br />
+<br />
+But that&#39;s not all you can achieve with this new way of stretching.<br />
+<br />
+You will gain enormous strength in your pelvic muscles that will in turn give you more control over your bladder and bowel activity.<br />
+<br />
+You will experience better body confidence, boost your libido and sexual strength regarldess of your age or gender.<br />
+<br />
+<a href="http://heatstrech.us/95ep_ohG10eD1wmezzAtN7Xn0uHhHOyZDPc25OE31pl-JDae"><b style="font-family:arial;">Gain full muscle flexibility and body confidence right now!</b></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://heatstrech.us/gP19ma1e1nRI9wztLWltjDULZB6rpBvRZ_PGAqIT-Gp_L2mc" target="_blank"><img src="http://heatstrech.us/e2f8e8455e3530d986.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">On 10 November 1943 Sukarno and Hatta were sent on a 17-day tour of Japan, where they were decorated by Emperor Hirohito and wined and dined in the house of Prime Minister Hideki Tojo in Tokyo. On 7 September 1944, with the war going badly for the Japanese, Prime Minister Kuniaki Koiso promised independence for Indonesia, although no date was set. This announcement was seen, according to the U.S. official history, as immense vindication for Sukarno&#39;s apparent collaboration with the Japanese. The U.S. at the time considered Sukarno one of the &quot;foremost collaborationist leaders.&quot; On 29 April 1945, with the fall of Philippines to American hands, the Japanese allowed for the establishment of the Investigating Committee for Preparatory Work for Independence (BPUPK), a quasi-legislature consisting of 67 representatives from most ethnic groups in Indonesia. Sukarno was appointed as head of the BPUPK and was tasked to lead discussions to prepare the basis of a future Indonesian state. To provide a common and acceptable platform to unite the various squabbling factions in the BPUPK, Sukarno formulated his ideological thinking developed for the past twenty years into five principles. On 1 June 1945, he introduced these five principles, known as pancasila, during the joint session of the BPUPK held in the former Volksraad Building (now called Gedung Pancasila). Pancasila, as presented by Sukarno during the BPUPK speech, consisted of five principles which Sukarno saw as commonly shared by all Indonesians: Nationalism, whereby a united Indonesian state would stretch from Sabang to Merauke, encompassing all former Dutch East Indies Internationalism, meaning Indonesia is to appreciate human rights and contribute to world peace, and should not fall into chauvinistic fascism such as displayed by Nazis with their belief in the racial superiority of Aryans Democracy, which Sukarno believed has always been in the blood of Indonesians through the practice of consensus-seeking (musyawarah untuk mufakat), an Indonesian-style democracy different from Western-style liberalism Social justice, a form of populist socialism in economics with Marxist-style opposition to free capitalism. Social justice also intended to provide an equal share of the economy to all Indonesians, as opposed to the complete economic domination by the Dutch and Chinese during the colonial period Belief in God, whereby all religions are treated equally and have religious freedom. Sukarno saw Indonesians as spiritual and religious people, but in essence tolerant towards different religious beliefs On 22 June, the Islamic and nationalist elements of the BPUPK created a small committee of nine, which formulated Sukarno&#39;s ideas into the five-point Pancasila, in a document known as the Jakarta Charter: </span></div>
+</body>
+</html>
+
+--ca19985775bbdacad3a0f29370fd5ddb_263e_40195--

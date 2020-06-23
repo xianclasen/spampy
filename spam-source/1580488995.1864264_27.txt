@@ -1,0 +1,93 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28222 invoked from network); 31 Jan 2020 12:38:05 -0000
+Received: (qmail 78403 invoked by uid 222); 31 Jan 2020 12:38:04 -0000
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 78400 invoked from network); 31 Jan 2020 12:38:04 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 31 Jan 2020 12:38:04 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1728570AbgAaMfv (ORCPT <rfc822;bruce@untroubled.org>);
+        Fri, 31 Jan 2020 07:35:51 -0500
+Received: from mail-io1-f65.google.com ([209.85.166.65]:39165 "EHLO
+        mail-io1-f65.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1728500AbgAaMfu (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Fri, 31 Jan 2020 07:35:50 -0500
+Received: by mail-io1-f65.google.com with SMTP id c16so7961817ioh.6
+        for <linux-kernel@vger.kernel.org>; Fri, 31 Jan 2020 04:35:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=oug1UlqK6G2Dju5seq5Fq243ykNU38Q3az/qNtcH1Rw=;
+        b=pxZCQSAFppqjX+MlStqLPnpj8bVe0sLmrVrbmjbNBLoOr//9FMvqAj+EdcspfFtZVK
+         msvQeY2nDXEjm5nL7x2UV6iWv8wxN5GKtaYDVrnoad5UZT4RJ9fEp5JCqbBqHg3KEKu3
+         oSKfV3cbS6W3ndQZlNkvjbArcWEE2sEJSbZYf5/4kGsNOfBF3qE/aztrR5gw7SIm+Zwn
+         1hkzR2scI2jAnyQqx2ti+JOHTDA037CrYFpMa7OfvgmyeEmuPi0Prm33un3uPKwzNj1a
+         40zGuozuVTQiH5tfZn3XumVoZOUvFlPennmEJlGrzf3OD/XoWaeQgxkgErJc2qHPCyc9
+         cRRw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to:content-transfer-encoding;
+        bh=oug1UlqK6G2Dju5seq5Fq243ykNU38Q3az/qNtcH1Rw=;
+        b=XZXwcz89VffPvXIjD5m2oDN2UVOP1GE6YivUZblDwuzvyteSZthro7jvEwDOSl/5zq
+         5oS88hq/z0w7DeGvz3DftZi7ZXS96sQnDONeHiz5qCIfbjMCOYH5FEv62KNeEX6GFnjW
+         oHjyUSBwsJENHszQTxukOWEZqrES085ZqkR2z8Ft3eXMy+o+Cy8KCS7QeiqasqfqK3zJ
+         n/ThgX3wD3Eom0e89H1ajTqUZebTT0yUZFRyxhJNG4A2NbQz+OItVH7IHE577Zr8u9Le
+         WxwKW/ISS6oTdxo4rVi5+8ZWT8l4MwneupaZMuqqsOhCvaKWBaNSfzviqrA1JBhEWWnR
+         imWQ==
+X-Gm-Message-State: APjAAAXYfotmje2Um5z2l2ny/rwAc1SKrBKkczlUzs93ExUcrJTK08/L
+        UxAilSK3j4PTPLcl5ERZBEd9IWk/9HtzhHONamo=
+X-Google-Smtp-Source: APXvYqzxNHAKDvAWSypJ+EEajTHEUkRJAFw0W905DEcL1BQwVnkjFewxkzLiaI5Cu1geVEzcyJS/S2D8WJHbDsLzaek=
+X-Received: by 2002:a02:9203:: with SMTP id x3mr7979401jag.62.1580474150024;
+ Fri, 31 Jan 2020 04:35:50 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:a05:6638:3cb:0:0:0:0 with HTTP; Fri, 31 Jan 2020 04:35:49
+ -0800 (PST)
+Reply-To: fedexservice90@outlook.com
+From:   FedEx <johnubah111@gmail.com>
+Date:   Fri, 31 Jan 2020 13:35:49 +0100
+Message-ID: <CALV6UMEnN2A7b1VEY_4pFUPzHPJw-mpkwLO0oL0JTXYVUvZYLQ@mail.gmail.com>
+Subject: Instruction to wire your fund
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 846
+
+--=20
+FedEx Delivery Company
+630 Dowd Ave Elizabeth NJ 07201
+Email: fedexserice@outlook.com
+
+Dear Customer,
+
+I am Mr. Larry Adams The Dispatched Officer,FedEx Delivery Company.
+
+We have waited for so long and there is no responds from you, we don=E2=80=
+=99t
+have enough time to wait for you and we don=E2=80=99t have enough time to
+deliver your $3.5 million to you through any courier system in this
+period of time, because we are about to audit for the year since we
+could not do
+it last year.
+
+For this reason we have been instructed to wire your $3.5 million to
+your bank account.
+
+So therefore you are required to provide to us your bank account
+information to enable us wire your fund to your account before the
+auditing commences.
+
+Reply very urgent via: fedexserice@outlook.com
+
+Yours Faithfully,
+Mr. Larry Adams
+(The Dispatched Officer)

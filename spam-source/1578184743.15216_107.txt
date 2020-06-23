@@ -1,0 +1,95 @@
+Return-Path: <SRS0=Q2dsrX=2X=mail.lifesockscopper.best=5654-9790-262549-1523-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 5024 invoked from network); 2 Jan 2020 08:19:06 -0000
+Received: (qmail 8784 invoked from network); 2 Jan 2020 08:19:06 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 08:19:06 -0000
+Received: (qmail 26256 invoked by uid 48516); 2 Jan 2020 08:19:05 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 26131 invoked from network); 2 Jan 2020 08:19:05 -0000
+Received: from huron.lifesockscopper.best (client-192-236-161-52.hostwindsdns.com [192.236.161.52])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 02 Jan 2020 08:19:00 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=lifesockscopper.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=FindthePerfectHomeforYou@lifesockscopper.best;
+ bh=KjebozQ8wPsCAdls2pekaQIuT4A=;
+ b=kcd+pwguKOF8ddspgaTqWi+0HF4vG5zgEwoHnEiVOlu6x7LNgbQdn7Zc2e+X1w0TTumSvh4P7+9c
+   fqh+n81FWh1NfahTG/wDUd/fDXNlH3EhMn7MQN1mTwKpgusGEJ5Q7kpbS2sCoyrNls+hL4WyHCAh
+   29mTMW39i+NPOBoAb4k=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=lifesockscopper.best;
+ b=DuY0/L8ijYpGSR0V811lpA5d21AfS6v1E6iwe4z2zN3DmboY8DoDop5Lsl238RHkULIkPwQ8/YgX
+   jB2rFVr4J77Mg2se/W36vz+Gtx4FVl9w8DzbdHRMxyrp0l8TWMI3N0/mCkdNub+/ES2IH3phwemX
+   UGeQQJIFMaH4IEtaE8I=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="8534dcc1a12ac0e7725e0f96d7bbdc42_263e_40195"
+Date: Thu, 2 Jan 2020 03:15:48 -0500
+From: "Your Home Search" <FindthePerfectHomeforYou@lifesockscopper.best>
+Reply-To: "Find the Perfect Home for You" <YourHomeSearch@lifesockscopper.best>
+Subject: Find the Perfect Home for You 
+To: <bruce@untroubled.org>
+Message-ID: <7fnm4wexwdadsvcw-fu2e9v3dy1m6lqqm-263e-40195@lifesockscopper.best>
+Content-Length: 7866
+
+--8534dcc1a12ac0e7725e0f96d7bbdc42_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Find the Perfect Home for You 
+
+http://lifesockscopper.best/lhwqK72zzpLBRLi5dgtbHOH9BK8NJxNCWawQEBBY4sCdhPB8
+
+http://lifesockscopper.best/n3QkXoe5sMrgUGVev_9VoTX4e2nfPqBgMgeVG3dkIqTahq5c
+
+Leaves are the most important organs of most vascular plants. Green plants are autotrophic, meaning that they do not obtain food from other living things but instead create their own food by photosynthesis. They capture the energy in sunlight and use it to make simple sugars, such as glucose and sucrose, from carbon dioxide and water. The sugars are then stored as starch, further processed by chemical synthesis into more complex organic molecules such as proteins or cellulose, the basic structural material in plant cell walls, or metabolized by cellular respiration to provide chemical energy to run cellular processes. The leaves draw water from the ground in the transpiration stream through a vascular conducting system known as xylem and obtain carbon dioxide from the atmosphere by diffusion through openings called stomata in the outer covering layer of the leaf (epidermis), while leaves are orientated to maximize their exposure to sunlight. Once sugar has been synthesized, it needs to be transported to areas of active growth such as the plant shoots and roots. Vascular plants transport sucrose in a special tissue called the phloem. The phloem and xylem are parallel to each other, but the transport of materials is usually in opposite directions. Within the leaf these vascular systems branch (ramify) to form veins which supply as much of the leaf as possible, ensuring that cells carrying out photosynthesis are close to the transportation system.
+
+Typically leaves are broad, flat and thin (dorsiventrally flattened), thereby maximising the surface area directly exposed to light and enabling the light to penetrate the tissues and reach the chloroplasts, thus promoting photosynthesis. They are arranged on the plant so as to expose their surfaces to light as efficiently as possible without shading each other, but there are many exceptions and complications. For instance, plants adapted to windy conditions may have pendent leaves, such as in many willows and eucalyptss. The flat, or laminar, shape also maximizes thermal contact with the surrounding air, promoting cooling. Functionally, in addition to carrying out photosynthesis, the leaf is the principal site of transpiration, providing the energy required to draw the transpiration stream up from the roots, and guttation.
+
+Many gymnosperms have thin needle-like or scale-like leaves that can be advantageous in cold climates with frequent snow and frost. These are interpreted as reduced from megaphyllous leaves of their Devonian ancestors. Some leaf forms are adapted to modulate the amount of light they absorb to avoid or mitigate excessive heat, ultraviolet damage, or desiccation, or to sacrifice light-absorption efficiency in favor of protection from herbivory. For xerophytes the major constraint is not light flux or intensity, but drought. Some window plants such as Fenestraria species and some Haworthia species such as Haworthia tesselata and Haworthia truncata are examples of xerophytes. and Bulbine mesembryanthemoides.
+
+--8534dcc1a12ac0e7725e0f96d7bbdc42_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>&nbsp;
+<div style="width:600px; font-family:Arial;border:3px solid #000000;"><a href="http://lifesockscopper.best/lhwqK72zzpLBRLi5dgtbHOH9BK8NJxNCWawQEBBY4sCdhPB8"><img src="http://lifesockscopper.best/0bb8181031e5310c06.png" /></a><br />
+<a href="http://lifesockscopper.best/lhwqK72zzpLBRLi5dgtbHOH9BK8NJxNCWawQEBBY4sCdhPB8"><img src="http://lifesockscopper.best/a84c03722a515691cf.jpg" /></a>
+<h1 style="color:red;"><a href="http://lifesockscopper.best/lhwqK72zzpLBRLi5dgtbHOH9BK8NJxNCWawQEBBY4sCdhPB8">Discover a Wide Range of Listings</a></h1>
+
+<p>Find the home you always dreamed you&#39;d have but never thought you could get. View listings that you won&#39;t see anywhere else, showcasing a variety of features, locations, and prices.</p>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://lifesockscopper.best/g4lm8noExffVXQGneUz3giEe26bfJAvQYRwPAe_vPG6K-xvY"><img src="http://lifesockscopper.best/c1cf272a4022e60b7a.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Leaves are the most important organs of most vascular plants. Green plants are autotrophic, meaning that they do not obtain food from other living things but instead create their own food by photosynthesis. They capture the energy in sunlight and use it to make simple sugars, such as glucose and sucrose, from carbon dioxide and water. The sugars are then stored as starch, further processed by chemical synthesis into more complex organic molecules such as proteins or cellulose, the basic structural material in plant cell walls, or metabolized by cellular respiration to provide chemical energy to run cellular processes. The leaves draw water from the ground in the transpiration stream through a vascular conducting system known as xylem and obtain carbon dioxide from the atmosphere by diffusion through openings called stomata in the outer covering layer of the leaf (epidermis), while leaves are orientated to maximize their exposure to sunlight. Once sugar has been synthesized, it needs to be transported to areas of active growth such as the plant shoots and roots. Vascular plants transport sucrose in a special tissue called the phloem. The phloem and xylem are parallel to each other, but the transport of materials is usually in opposite directions. Within the leaf these vascular systems branch (ramify) to form veins which supply as much of the leaf as possible, ensuring that cells carrying out photosynthesis are close to the transportation system. Typically leaves are broad, flat and thin (dorsiventrally flattened), thereby maximising the surface area directly exposed to light and enabling the light to penetrate the tissues and reach the chloroplasts, thus promoting photosynthesis. They are arranged on the plant so as to expose their surfaces to light as efficiently as possible without shading each other, but there are many exceptions and complications. For instance, plants adapted to windy conditions may have pendent leaves, such as in many willows and eucalyptss. The flat, or laminar, shape also maximizes thermal contact with the surrounding air, promoting cooling. Functionally, in addition to carrying out photosynthesis, the leaf is the principal site of transpiration, providing the energy required to draw the transpiration stream up from the roots, and guttation. Many gymnosperms have thin needle-like or scale-like leaves that can be advantageous in cold climates with frequent snow and frost. These are interpreted as reduced from megaphyllous leaves of their Devonian ancestors. Some leaf forms are adapted to modulate the amount of light they absorb to avoid or mitigate excessive heat, ultraviolet damage, or desiccation, or to sacrifice light-absorption efficiency in favor of protection from herbivory. For xerophytes the major constraint is not light flux or intensity, but drought. Some window plants such as Fenestraria species and some Haworthia species such as Haworthia tesselata and Haworthia truncata are examples of xerophytes. and Bulbine mesembryanthemoides. </span> <a href="http://lifesockscopper.best/n3QkXoe5sMrgUGVev_9VoTX4e2nfPqBgMgeVG3dkIqTahq5c"><img src="http://lifesockscopper.best/14b96cc1e0d6e41d3f.jpg" /></a></center>
+</body>
+</html>
+
+--8534dcc1a12ac0e7725e0f96d7bbdc42_263e_40195--

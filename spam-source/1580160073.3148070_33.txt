@@ -1,0 +1,1143 @@
+Return-Path: <bounces+15025-f448-bruce=untroubled.org@email.flexjobs.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11153 invoked from network); 27 Jan 2020 17:49:40 -0000
+Received: (qmail 26804 invoked by uid 222); 27 Jan 2020 17:49:39 -0000
+Return-Path: <bounces+15025-f448-bruce=untroubled.org@email.flexjobs.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 26801 invoked from network); 27 Jan 2020 17:49:39 -0000
+Received: from o2.email.flexjobs.com (o2.email.flexjobs.com [192.254.118.76])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Jan 2020 17:49:39 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=flexjobs.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=s1; bh=h9HHMEL8A02MTpIJmVBi8j/QGdwleFqhQ0pa+Stwsw8=; b=KmrI07/
+	BCnkpgK8kiMryYwmjGE+j3fvbAtOyijhcI1JWX8ssJepg9mrx8n3tqgkWy0u08Yr
+	7R4c1BguqPCVXyh45fePdynRogWP4lw49lIRK/prQ1QEEbsK3kl7+uDHyshgbneG
+	8EmLgWiQfpmEhcI23yt5Z/9NP4saRvtb8kJU=
+Content-Type: multipart/alternative; boundary=1185b173ee65f911d4a48d916059561521f152e0b95eeac6ed7ccb0964ee
+Date: Mon, 27 Jan 2020 17:49:37 +0000 (UTC)
+From: "FlexJobs" <newsletter@flexjobs.com>
+Mime-Version: 1.0
+Reply-to: newsletter@flexjobs.com
+Subject: Special Invitation & Savings of Up to 50%: Join Us For a Remote Work Virtual Job Fair on Thursday, January 30th!
+To: bruce@untroubled.org
+Message-ID: <Xg2qXhkaQSSWfAhV63ds9g@ismtpd0033p1iad2.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@email.flexjobs.com?subject=http://elink.flexjobs.com/asm/unsubscribe/*q*user_id=15025*a*data=FZ4nv5E7zSDcJfbt7n2Nho2rM3YKXlnkGbV1UTRSX7Lo4z7LOQGHpIUiqpUsd0Zx-dTW9igDpCNDq2rkSTS1ehzeQN2BnEHQXrlD9EvgIvQH3xkM7DNJZDo5oxJdF71qKJUwg1C_EZ633Vft9w4b3JoWJdzdcP8cfIYw2Oa5fGiBkw1wDuMFlz-WHsA3eg-8NxYj9TWETuCj0y_i5Pie3ndy_AGSOZ_ayaSiRSp0YGe0XVoArrx-OGcm-VVQ9YwPsD1R-2mwpjIu9MfRbwH02vPq03PR6NusNtSdQmoDco5otMW_R3O8xnVUJrSe5nxOxOekn-ypRp4rvSH1GO8GqqF5QI8naihYsmsIqfGoGyjs-uDiTFPi58unn_bk42epitJYxBe3yRMOft-1liEOM88aUenYIJ4NtKAorGRlH_l-ROeZQcoZ0XoZboITC_yZIznxE4rKLFj8EC-IxlmkUEO4_17f3DIjaIGbQC1I5HLZ7B8KvnZTw-7eYCPMMVeANqAs-EhVg4DUf9JzJbl8Aja-GIJEYm9IJXrSrE-cOBrXi44CkS7SfAcxSvMFPEAYlcJK9x_AZj5SKZo8F7Dq1AyY1qcC66TR_4WxnGt4jHE=>
+X-SG-EID: eWf0Lwp+ejwMdn7+NnIwhz1E98lw+69+RqfdBMsNrlLXG0lF6L2IRb6YVaEHwUJl6nCdBU9WSZrca7
+ gf6U7EsKM0Le5MxW3Kck4I6KPtc6o8t09eSkZSx7TWvKEGQPeftsxbGJb7Q2vTwmCOht6VuqNvYgOA
+ pbRY1o3466QvsjjVDzlKksjxqXQqTEhHDilKLCCFdFm26cJyByX4sEaBFawYoN5ZFR0HcczEU2u3eb
+ M=
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP3db4nQUAP3UYCTRBb4at90Y2zt9MCbucNNkb
+ GZF9/lNqTzz6AokFe+UqR77/lC0VAEYb1XBRcJKh1FznWV/xsO0/ELR8gSyaBTfZC1M0rQFmjZ/4ub
+ lhZvUFi+oGFAvsXqNrbi6oyTHQHXTFQF7nYCBKuQpQLw7Mo4Y7zBBHi2iUwsd7DMXpPRF25ACInnsA
+ Q=
+Content-Length: 72027
+
+--1185b173ee65f911d4a48d916059561521f152e0b95eeac6ed7ccb0964ee
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+FlexJobs Special Invitation=20
+
+Join Us For a Remote Work Virtual Job Fair!=20
+>>>https://flexjobs.vfairs.com/?utm_campaign=3Dwebsite&utm_source=3Dsendgri=
+d.com&utm_medium=3Demail?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&u=
+tm_medium=3Demail?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medi=
+um=3Demail
+
+Dear Bruce,
+
+We want to invite you to the FlexJobs Remote Work Virtual Job Fair https://=
+flexjobs.vfairs.com/ to help you find your next remote job!
+
+The job fair is designed to bring employers and job seekers together virtua=
+lly, for jobs that can be done virtually! And if you're considering looking=
+ for a new or better job, this is a great way supplement your efforts and h=
+opefully expedite the process.
+
+Some of the remote positions companies are hiring for include: Customer Sup=
+port Representatives, Virtual Assistants, Reservation Sales Representatives=
+, Bookkeepers, Online ESL Teachers, Social Media Evaluators, Engineers / So=
+ftware Developers=E2=80=A6 and more!
+
+Here are just some of the companies hiring at the virtual job fair:
+* Hilton https://www.flexjobs.com/?utm_campaign=3Dwebsite&utm_source=3Dsend=
+grid.com&utm_medium=3Demailjobs/telecommuting-jobs-at-hilton,?utm_campaign=
+=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=3Demail=20
+* Appen https://www.flexjobs.com/jobs/telecommuting-jobs-at-appen,?utm_camp=
+aign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=3Demail
+* 1-800Accountant https://www.flexjobs.com/jobs/telecommuting-jobs-at-1-800=
+accountant,?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=3De=
+mail
+* Lionbridge https://www.flexjobs.com/jobs/telecommuting-jobs-at-lionbridge=
+,?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=3Demail
+* Relocity https://www.flexjobs.com/jobs/telecommuting-jobs-at-relocity,?ut=
+m_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=3Demail
+* Education First https://www.flexjobs.com/jobs/telecommuting-jobs-at-ef_-_=
+education_first,?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_mediu=
+m=3Demail=20
+* Concentrix https://www.flexjobs.com/jobs/telecommuting-jobs-at-concentrix=
+!?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=3Demail
+
+What can you do in the FlexJobs Remote Work Virtual Job Fair?
+
+Learn and interact with some of the employers featured on our list of the T=
+op 100 Companies Hiring for Remote Jobs https://www.flexjobs.com/blog/post/=
+100-top-companies-with-remote-jobs-2020/?utm_campaign=3Dwebsite&utm_source=
+=3Dsendgrid.com&utm_medium=3Demail about their open remote jobs, their comp=
+any culture, and why they value work flexibility.
+* View and apply to fresh and exciting jobs from top remote companies!
+* Chat live with employers/recruiters and get interviewed through chat and =
+video conference.
+* Meet our Career Coaches and learn more about what they can do to support =
+your job search efforts.
+
+When: Thursday, February 7th, 2019 10:00 am to 4:00 pm ET
+
+How to Access the Job Fair: This is a FlexJobs MEMBERS ONLY event and you M=
+UST be a FlexJobs member on the day of the job fair. To get your spot (as w=
+ell as the=C2=A0many other benefits of FlexJobs! https://www.flexjobs.com/B=
+enefits.aspx/):?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=
+=3Demail
+
+Become a FlexJobs member today with the promo code TOP100 to save up to 50%=
+!=C2=A0 https://www.flexjobs.com/
+	 https://www.flexjobs.com/Once?utm_campaign=3Dwebsite&utm_source=3Dsendgri=
+d.com&utm_medium=3Demail you are logged into FlexJobs as a subscriber, you =
+can register for=C2=A0 https://www.flexjobs.com/Remote?utm_campaign=3Dwebsi=
+te&utm_source=3Dsendgrid.com&utm_medium=3Demail Work Virtual Job Fair https=
+://flexjobs.vfairs.com/.?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&u=
+tm_medium=3Demail
+
+We hope you'll join us!
+
+Learn More and Register for FlexJobs' Virtual Job Fair=20
+>> https://flexjobs.vfairs.com/
+
+
+This is an opt-in only newsletter, and we honor your privacy! If you would =
+rather not receive Weekly Newsletters from us, please click here to unsubsc=
+ribe http://elink.flexjobs.com/asm/unsubscribe/?user_id=3D15025&data=3DFZ4n=
+v5E7zSDcJfbt7n2Nho2rM3YKXlnkGbV1UTRSX7Lo4z7LOQGHpIUiqpUsd0Zx-dTW9igDpCNDq2r=
+kSTS1ehzeQN2BnEHQXrlD9EvgIvQH3xkM7DNJZDo5oxJdF71qKJUwg1C_EZ633Vft9w4b3JoWJd=
+zdcP8cfIYw2Oa5fGiBkw1wDuMFlz-WHsA3eg-8NxYj9TWETuCj0y_i5Pie3ndy_AGSOZ_ayaSiR=
+Sp0YGe0XVoArrx-OGcm-VVQ9YwPsD1R-2mwpjIu9MfRbwH02vPq03PR6NusNtSdQmoDco5otMW_=
+R3O8xnVUJrSe5nxOxOekn-ypRp4rvSH1GO8GqqF5QI8naihYsmsIqfGoGyjs-uDiTFPi58unn_b=
+k42epitJYxBe3yRMOft-1liEOM88aUenYIJ4NtKAorGRlH_l-ROeZQcoZ0XoZboITC_yZIznxE4=
+rKLFj8EC-IxlmkUEO4_17f3DIjaIGbQC1I5HLZ7B8KvnZTw-7eYCPMMVeANqAs-EhVg4DUf9JzJ=
+bl8Aja-GIJEYm9IJXrSrE-cOBrXi44CkS7SfAcxSvMFPEAYlcJK9x_AZj5SKZo8F7Dq1AyY1qcC=
+66TR_4WxnGt4jHE=3D.
+
+=C2=A9 2007-2019 FlexJobs | 4845 Pearl East Cir Ste 101 #23790, Boulder, Co=
+lorado 80301-6113 | =E2=9C=86 1.866.991.9222
+
+http://www.facebook.com/pages/FlexJobs/111439112288?utm_campaign=3Dwebsite&=
+utm_source=3Dsendgrid.com&utm_medium=3Demail =C2=A0 https://www.linkedin.co=
+m/groups/1498597/?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medi=
+um=3Demail =C2=A0 https://twitter.com/flexjobs?utm_campaign=3Dwebsite&utm_s=
+ource=3Dsendgrid.com&utm_medium=3Demail =C2=A0 https://www.youtube.com/flex=
+jobs?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=3Demail =
+=C2=A0 http://www.pinterest.com/flexjobs/?utm_campaign=3Dwebsite&utm_source=
+=3Dsendgrid.com&utm_medium=3Demail =C2=A0 https://www.instagram.com/flexjob=
+s/?utm_campaign=3Dwebsite&utm_source=3Dsendgrid.com&utm_medium=3Demail=
+
+--1185b173ee65f911d4a48d916059561521f152e0b95eeac6ed7ccb0964ee
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+    <meta charset=3D"utf-8">=20
+    <meta content=3D"width=3Ddevice-width" name=3D"viewport">=20
+    <meta content=3D"IE=3Dedge" http-equiv=3D"X-UA-Compatible">=20
+    <meta name=3D"x-apple-disable-message-reformatting">=20=20=20=20
+        <title>FlexJobs Newsletter</title>
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+    <style>#bodyCell,#bodyTable,body{font-family:'Noto Sans','Segoe UI','Lu=
+cida Grande','Helvetica Neue',Helvetica,Arial,sans-serif}h1,h2{color:#448ac=
+e!important;display:block;font-style:normal;font-weight:400;line-height:100=
+%;letter-spacing:normal}#templateBody,#templateColumns{background-color:#ff=
+f}#outlook a{padding:0}.ExternalClass,.ReadMsgBody{width:100%}.ExternalClas=
+s,.ExternalClass div,.ExternalClass font,.ExternalClass p,.ExternalClass sp=
+an,.ExternalClass td{line-height:100%}a,blockquote,body,li,p,table,td{-webk=
+it-text-size-adjust:100%;-ms-text-size-adjust:100%}table,td{mso-table-lspac=
+e:0;mso-table-rspace:0}img{-ms-interpolation-mode:bicubic;border:0;height:a=
+uto;line-height:100%;outline:0;text-decoration:none!important}table{border-=
+collapse:collapse!important}#bodyCell,#bodyTable,body{height:100%!important=
+;margin:0;padding:0;width:100%!important}.preheaderContent.text-right,.righ=
+tColumnContent.text-right{text-align:right!important}a.btn-cta{background:#=
+fff;padding:4px 6px;border:1px solid #448ace;border-radius:4px;color:#448ac=
+e!important}#bodyTable,#templateFooter,#templateHeader,#templatePreheader,b=
+ody{background-color:#f5f5f5}.press-logos{width:300px;height:auto;max-width=
+:80%}#jobs-table td{padding:5px;border-bottom:1px solid #ededed}#bodyCell,.=
+bodyContent{padding:15px}#jobs-logo img{width:60px;height:auto!important}#t=
+emplateContainer{width:600px;background:#fff}h1{font-size:24px;text-align:l=
+eft;margin:0 0 10px}.leftColumnContent h2,h2{margin:0}h2{font-size:18px}h3,=
+h4{display:block;font-style:italic;line-height:100%;letter-spacing:normal;m=
+argin:0 0 10px;font-weight:400}h3{color:#606060!important;font-size:16px;te=
+xt-align:left}.bodyContent,h4{font-size:14px;text-align:left}h4{color:grey!=
+important}.preheaderContent{color:grey;font-size:10px;line-height:125%;text=
+-align:left}.preheaderContent a .yshortcuts,.preheaderContent a:link,.prehe=
+aderContent a:visited{color:#2a66b1;font-weight:400;text-decoration:none!im=
+portant}#templateHeader{border-bottom:6px solid #2a66b1}.headerContent{colo=
+r:#505050;font-size:15px;font-weight:700;line-height:100%;text-align:left;v=
+ertical-align:middle;padding:15px}.headerContent a .yshortcuts,.headerConte=
+nt a:link,.headerContent a:visited{color:#2a66b1;font-weight:400;text-decor=
+ation:none!important}#headerImage{width:560px;max-width:600px;height:auto}.=
+bodyContent{color:#505050;line-height:150%;border:none}.leftColumnContent,.=
+rightColumnContent{font-size:14px;text-align:left;padding:0 15px 15px;line-=
+height:150%}.bodyContent a .yshortcuts,.bodyContent a:link,.bodyContent a:v=
+isited{color:#2a66b1;font-weight:400;text-decoration:none!important}.bodyCo=
+ntent img{display:inline;height:auto;max-width:560px}.templateColumnContain=
+er{width:260px}.leftColumnContent{color:#505050}.leftColumnContent a .yshor=
+tcuts,.leftColumnContent a:link,.leftColumnContent a:visited{color:#2a66b1;=
+font-weight:400;text-decoration:none!important}.rightColumnContent{color:#5=
+05050}.rightColumnContent a .yshortcuts,.rightColumnContent a:link,.rightCo=
+lumnContent a:visited{color:#2a66b1;font-weight:400;text-decoration:none!im=
+portant}.leftColumnContent img,.rightColumnContent img{display:inline;heigh=
+t:auto;max-width:260px}#templateFooter .headerContent{border:none}.footerCo=
+ntent{color:grey;font-size:13px;line-height:150%;text-align:center;padding:=
+15px}.footerContent a .yshortcuts,.footerContent a span,.footerContent a:li=
+nk,.footerContent a:visited{color:#2a66b1;font-weight:400;text-decoration:n=
+one!important}@media only screen and (max-width:480px){h1,h2,h3,h4{line-hei=
+ght:100%!important;text-align:center!important}.preheaderContent.text-right=
+,.rightColumnContent.text-right,h1,h2,h3,h4{text-align:center!important}#he=
+aderImage,#templateContainer{max-width:600px!important}#headerImage,.column=
+Image{height:auto!important;width:100%!important}#headerImage,#templateCont=
+ainer,.columnImage,body{width:100%!important}a,blockquote,body,li,p,table,t=
+d{-webkit-text-size-adjust:none!important}body{min-width:100%!important}td#=
+jobs-logo{display:none!important}#bodyCell{padding:10px!important}#template=
+Container{padding-top:5px!important}h1{font-size:24px!important}h2{font-siz=
+e:15px!important}h3{font-size:18px!important}h4{font-size:16px!important}.b=
+odyContent,.headerContent{font-size:12px!important;line-height:125%!importa=
+nt}.bodyContent.header-links{padding-top:0!important;line-height:200%!impor=
+tant}.bodyContent.header-links .btn-cta{padding:3px 6px!important}.template=
+ColumnContainer{display:block!important;width:100%!important}.columnImage{m=
+ax-width:480px!important}.leftColumnContent,.rightColumnContent{font-size:1=
+2px!important;line-height:125%!important;padding-bottom:5px!important}.foot=
+erContent{font-size:13px!important;line-height:115%!important}}</style></he=
+ad>
+    <body leftmargin=3D"0" marginheight=3D"0" marginwidth=3D"0" offset=3D"0=
+" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;height:1=
+00% !important;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;pa=
+dding-top:0;padding-bottom:0;padding-right:0;padding-left:0;width:100% !imp=
+ortant;background-color:#f5f5f5;font-family:'Noto Sans','Segoe UI','Lucida =
+Grande','Helvetica Neue','Helvetica','Arial',sans-serif;" topmargin=3D"0">
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" height=3D"100%" id=3D"bodyTable" style=3D"-webkit-text-size-adjus=
+t:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;=
+border-collapse:collapse !important;height:100% !important;margin-top:0;mar=
+gin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;pa=
+dding-right:0;padding-left:0;width:100% !important;background-color:#f5f5f5=
+;font-family:'Noto Sans','Segoe UI','Lucida Grande','Helvetica Neue','Helve=
+tica','Arial',sans-serif;" width=3D"100%">
+                <tbody><tr>
+                    <td align=3D"center" id=3D"bodyCell" style=3D"-webkit-t=
+ext-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-tab=
+le-rspace:0pt;height:100% !important;margin-top:0;margin-bottom:0;margin-ri=
+ght:0;margin-left:0;width:100% !important;font-family:'Noto Sans','Segoe UI=
+','Lucida Grande','Helvetica Neue','Helvetica','Arial',sans-serif;padding-t=
+op:15px;padding-bottom:15px;padding-right:15px;padding-left:15px;" valign=
+=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20
+
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" id=3D"templateContainer" style=3D"-webkit-text-size-adjust:100%;-ms-=
+text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;border-coll=
+apse:collapse !important;width:600px;background-color:#ffffff;background-im=
+age:none;background-repeat:repeat;background-position:top left;background-a=
+ttachment:scroll;">
+                            <tbody><tr>
+                                <td align=3D"center" style=3D"background-co=
+lor:#f5f5f5;background-image:none;background-repeat:repeat;background-posit=
+ion:top left;background-attachment:scroll;-webkit-text-size-adjust:100%;-ms=
+-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;" valign=
+=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templatePreheader" style=3D"-webkit-text-size-adjust=
+:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;b=
+order-collapse:collapse !important;background-color:#f5f5f5;" width=3D"100%=
+">
+                                        <tbody><tr>
+                                            <td class=3D"preheaderContent" =
+style=3D"padding-top:10px;padding-right:0;padding-bottom:10px;padding-left:=
+15px;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspa=
+ce:0pt;mso-table-rspace:0pt;color:#808080;font-size:10px;line-height:125%;t=
+ext-align:left;" valign=3D"top">
+                                                <a clicktracking=3Doff href=
+=3D"https://sg-mktg.com/MTU4MDE0NzMzOXxXSk5RQkczN2VFR2JwRVBiRXY2VVNuY0k0VUd=
+mV1JtVmJ5ZlQ5eHM1dzZIX1ZIcTZvRDR4Q1N3THVvMG1qSUZBSHhxNG52ZEExMXE0VWlJQlpBcF=
+MtUTlOTTN5NHZSYWQ5aW02VWNUbjBIbk9PWTU4SzFXTzFQSXBhRV9zQWdZUF9oQUQ3NkJjdUV3N=
+2I0UWRQWFZHUmNlTlFyS2ZVXy1FMjJoR0trQ2d6V3BDUEYzZEFIczJ3MzBvRjJkTHY2X1pXNlNn=
+bURNWUtaRHRqeFRqZDN5WjNIeXlWOUxTN1FnR1h0cTVQMHFIalFFYWdtN3hqdTNaV05pcVQwX0d=
+WR3JlfN1zQw9Wi7BRyBYEN8T8_dIDkJ8qCRYgVSMzpbbAZ7x8" style=3D"-webkit-text-si=
+ze-adjust:100%;-ms-text-size-adjust:100%;color:#2a66b1;font-weight:normal;t=
+ext-decoration:none !important;">View in Browser</a>
+                                            </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                            <td align=3D"right" class=3D"pr=
+eheaderContent text-right" style=3D"text-align:right !important;padding-top=
+:10px;padding-right:15px;padding-bottom:10px;padding-left:0;-webkit-text-si=
+ze-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;color:#808080;font-size:10px;line-height:125%;" valign=3D"top" widt=
+h=3D"180">
+                                                <a href=3D"http://elink.fle=
+xjobs.com/wf/click?upn=3DWqp7Lop7cONoV2z-2F6cqyBw-2F1JCjg-2BNGUfH4CI0lwJKmU=
+j-2BGcRi-2FhjCBdq-2FR0cVhvNdrWL5DtLOaxl0KBIzTl4AulNui09b2jN-2FX6KcFEALcD16J=
+6U5jPxrKhmy2jHIkaF5wUGLkQwC2-2Fcmr5nS6E3TejoUyVoJ7V7nzjp-2B5rshk-3D_95ipHO-=
+2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjM=
+zk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa552=
+5yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qW=
+m4zBKHE21lTjLFxcqVZyOlPLM14qj1JsvPRuCf-2FUVfIMmyTe-2FJLrrxZODASzSn-2B6KqBcI=
+r-2FnFkC4TqDIuZC1ITubxfGNaHZgATOMuDwqFnCWROsypbRRILlh33s-2FrC6HsrppCfQkbJBP=
+FyqSVPrrUD0uWk14VhBYMRcgoLqy1ZFDn9ZxQngiYFwYeZ2Xy75pFCu3-2BbPE1-2FXS31TKNpA=
+YrecsjuVIPen6mroL-2BHttMDBVg3QEIjdij0gOwWgXfz8snhwFHJ9r-2B5yxo9iRs-3D" styl=
+e=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#2a66b1;=
+font-weight:normal;text-decoration:none !important;"><img alt=3D"Facebook" =
+src=3D"https://s3.amazonaws.com/fjstatic/images/emails/icn-facebook2.png" s=
+tyle=3D"width:18px;height:auto;-ms-interpolation-mode:bicubic;border-width:=
+0;line-height:100%;outline-style:none;text-decoration:none !important;" wid=
+th=3D"18"></a> &nbsp;&nbsp;<a href=3D"http://elink.flexjobs.com/wf/click?up=
+n=3DwfzAxuu2axL2L-2FR833mPH2POj5-2B3jMFV2NyEOrpovo3XLJRgm1u9wvxqUWK1bZfqyPw=
+RJqte5RuC5tly0-2BL0oiY0K73bKtOPLFw2r8bmYOoQtqmqzuOfzbP1jdN6x5-2B0hH41q8ftaS=
+zhPz2s0RR7Jg-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU=
+2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q=
+7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKD=
+B9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcpKB5oCSaeXnJKpGJC85CqEvxlvRyvhmIL=
+0BSSsKSMsGByMf9tm2CbQrD2z77-2B6dQfPUqOvDt4r3DcWt82wS1fPKwvv-2F63m9L4k2uA5lF=
+aammMDaJMT6-2B6pVvNL-2FMf5SBLpFNb633mgqitWGW3Purm9ptEorkWsK4DCP-2BHmxdSZro7=
+JkJ51C25XBSMrhgHaZqqD05vf9CbI6el63bE0ftaZPxVcWV4OTD3pR1Qcu6ApQjrsU-2FoC6J6v=
+Um3ZqdNwLm4-3D" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust=
+:100%;color:#2a66b1;font-weight:normal;text-decoration:none !important;"><i=
+mg alt=3D"LinkedIn" src=3D"https://s3.amazonaws.com/fjstatic/images/emails/=
+icn-linkedin2.png" style=3D"width:18px;height:auto;-ms-interpolation-mode:b=
+icubic;border-width:0;line-height:100%;outline-style:none;text-decoration:n=
+one !important;" width=3D"18"></a> &nbsp;&nbsp;<a href=3D"http://elink.flex=
+jobs.com/wf/click?upn=3DQ6Vh1ob4TfaO8pRozAf3B9nvkDvcoYTin5fxuw6yxI5pqPP8V3L=
+wH-2FwDIXoL95NPykmhX8IymL0HV718g-2FmxYSBtABQlLDzKorkhE-2FJ-2F-2FH0p6RnK3d4e=
+GX-2B-2Bm-2FnjLwQk_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU=
+2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q=
+7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKD=
+B9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcrMq4AzTdWotgtmmI0F-2Bdfm4EHrJ9W5A=
+fV1t3D-2Fd1WCi2HqSdsykt5q7vF-2FHJrV5dLqukzfHeY0Z52vvzX-2BgRpiaHDQ1cHK9YxQMX=
+1r4oT672NZHAAA57DYw-2BepTFz-2F5w8L6gz1rUqq4zeziDwdExGXti9QlryiBq2HcKOvTaukf=
+CTgmT4MJ2Ppk-2BgAZ5glLcD0USpWRlsp3bu-2FCcUdZPmI7AYx5HY8OTjZ8c9si3g7Ff6M0NXB=
+Db-2BGC6cD6P9VOHQ-3D" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-=
+adjust:100%;color:#2a66b1;font-weight:normal;text-decoration:none !importan=
+t;"><img alt=3D"Twitter" src=3D"https://s3.amazonaws.com/fjstatic/images/em=
+ails/icn-twitter2.png" style=3D"width:18px;height:auto;-ms-interpolation-mo=
+de:bicubic;border-width:0;line-height:100%;outline-style:none;text-decorati=
+on:none !important;" width=3D"18"></a>
+                                            </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        </tr>
+                                    </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"-webkit-text-=
+size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-r=
+space:0pt;" valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templateHeader" style=3D"-webkit-text-size-adjust:10=
+0%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;bord=
+er-collapse:collapse !important;background-color:#f5f5f5;border-bottom-widt=
+h:6px;border-bottom-style:solid;border-bottom-color:#2a66b1;" width=3D"100%=
+">
+                                        <tbody><tr>
+                                            <td align=3D"center" class=3D"h=
+eaderContent" style=3D"text-align:center;-webkit-text-size-adjust:100%;-ms-=
+text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;color:#5050=
+50;font-size:15px;font-weight:bold;line-height:100%;padding-top:15px;paddin=
+g-right:15px;padding-bottom:15px;padding-left:15px;vertical-align:middle;" =
+valign=3D"top">
+                                                <a href=3D"http://elink.fle=
+xjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR833mPH3dV02PQ82cR3m4QeSC92RKLHO5g=
+C65-2BesOOq-2FM4mj6jZ4FJSHrAxXNf-2BEjJUzVRcoMU0pMGiPVObBib6DasHyglQ2TL0wVPH=
+Xbl0y7kcbvI_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUB=
+f9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrk=
+XNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3=
+HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcqBZb9dnJvjdXb-2BAnCCd3q1dcALoLSpLHCevSGZ=
+x0XpKJZrF3pc2hZ85KaIiIBuo6BvaTDz5mjX0olq0xAzJCc8oWNmVYQf2fvwmahKvrqVivTbUP0=
+-2B5ahrRzFpIm8ALO2eeldjyyaJD7YrNFJWBtdnTK-2FEja2AzRSxXeTGQmmGa6uBFbz1Xi3vmn=
+anJT3IOH3XSnGhrGySQIrBsOG6upODv1MUsdUHabdNjlKf9vu7ldN47pIA9wO3LpFCkig7xwg-3=
+D" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#=
+2a66b1;font-weight:normal;text-decoration:none !important;"><img alt=3D"Fle=
+xJobs" id=3D"headerImage" src=3D"https://s3.amazonaws.com/fjstatic/images/e=
+mails/fj-logo-w-tagline-150.png" style=3D"max-width:560px;-ms-interpolation=
+-mode:bicubic;border-width:0;line-height:100%;outline-style:none;text-decor=
+ation:none !important;height:auto;width:560px;" width=3D"560"></a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align=3D"center" class=3D"b=
+odyContent header-links" style=3D"text-align:center;color:#999999;-webkit-t=
+ext-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-tab=
+le-rspace:0pt;font-size:14px;line-height:150%;padding-top:15px;padding-righ=
+t:15px;padding-bottom:15px;padding-left:15px;border-style:none;" valign=3D"=
+top">
+                                                <a href=3D"http://elink.fle=
+xjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR833mPH6fpVJU22zZ-2FpbR1umyUynffEv=
+w3alaxpuWJBVXLGRIH7zEWj6KXdL8GfAyLCfbDpnmXyZYC9ysFMGZgfkPs9WgmjqaUkideHr7Or=
+6xuaS2EVxnHpM3lPD97XaHglwp-2BJQ-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B=
+369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lc=
+Fv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fc=
+lz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcpQcNNqZXSt9zmS=
+8ML-2FdMHD3HTHmbQhb8NCBGrXyGKjnZxGO3RxLtOfkMqWyBZwCDb9HHc3iWYAeLBX27XGdc7eG=
+FDh0z11WXS7JerJiy7TboXSZ8V8O7OiJxPynsoIyHV1smoU-2BAhXuH8s3T70h5J3eefYKfDSAq=
+BUUKdXcPH718lNxqbgt2dS4L-2B3kUYBUSZ2dniG5Z3Fp0b1rNVk0cS1iQ3SWiVlB-2BpSq26hh=
+AsfB2rZH7u-2BX2fk734mglJ4aZ4-3D" style=3D"-webkit-text-size-adjust:100%;-ms=
+-text-size-adjust:100%;color:#2a66b1;font-weight:normal;text-decoration:non=
+e !important;">Jobs</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href=3D"ht=
+tp://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR833mPHw4HHiUJwZyB5c=
+6HCLmwsxKX2P12JYMTkrix1jqyKnjrRgSI3JvspfzEtkvvZ8H8MgeRNhYvoZyaYn2tFKqEN2Eh-=
+2B8ik6TZMsXrkD3g3tx5-2BBnLqFYMVQqkT4W7l6xjk7w-3D-3D_95ipHO-2FHtfiEGxEkeDVC7=
+m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1=
+GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIde=
+z5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxc=
+oLq69XrCiU0VjX4GIiM9eC-2Fhi-2FJoroI5iTKLEv-2B85CkQiWRCLdaxnxGtZq4GoQHi1J3lC=
+-2F6bv7LAF1OdF-2BEd5SxJN6x8-2FX1QvMZpblakqR-2BfrE32Nj4WxsErNcZZtGMnq40wZpqL=
+b1OZUdqkxaEC-2BHaMHZNrUXO4kj9kLSaEoqyO0viX7icXOgjWb2JdqtQWrVSb9JPRhadEJymcz=
+fZ9tyoQgEj8NwLUsAg7bteH41JMHmbAH5v2bKO51ecdifKPM-3D" style=3D"-webkit-text-=
+size-adjust:100%;-ms-text-size-adjust:100%;color:#2a66b1;font-weight:normal=
+;text-decoration:none !important;">About</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp=
+;&nbsp; <a href=3D"http://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2=
+FR833mPHwpioX12mOcr48XDzlyPSUIKiB-2F62o8QrEgFZuhYVqsa1JxWs4vvVywkaszlMSoLO5=
+f-2BxmijSXrVl35Jvu7q0oJhFmMUA5RyFLBTz7fOTnjomhzVdfzKPZQSzMY8JhaW-2FA-3D-3D_=
+95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdj=
+Fc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmz=
+cRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9u=
+QhZQ2qWm4zBKHE21lTjLFxcoqBp2adkW5SE-2Fjc4XcurqQdT2HH4aSn8UrmT2SuAVFVzuZ-2BY=
+3kqDrPplkxdAmeOD1tEBjnzuM88wSNCe464-2FY-2FbBLNygbt6fmye1BO5GaT3mrIo2MtNH0U-=
+2BrJmBxKK4OivfXuCKG-2BRx8VHINArqd56hl7bCEPxr9QFuRa9Qn-2Bs0FwqYKZP96jIolJBI6=
+YFs6pdMEaAlK6m32dyYVREkNeIYhGO6t9dF8kPvzvw637QtufwIJeKZmv1ooAWJKaQKg4-3D" s=
+tyle=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#2a66=
+b1;font-weight:normal;text-decoration:none !important;">Blog</a>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"-webkit-text-=
+size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-r=
+space:0pt;" valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templateBody" style=3D"-webkit-text-size-adjust:100%=
+;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;border=
+-collapse:collapse !important;background-color:#ffffff;" width=3D"100%">
+                                        <tbody><tr>
+                                        </tr>
+                                    </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"-webkit-text-=
+size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-r=
+space:0pt;" valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templateBody" style=3D"-webkit-text-size-adjust:100%=
+;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;border=
+-collapse:collapse !important;background-color:#ffffff;" width=3D"100%">
+                                        <tbody><tr>
+                                            <td class=3D"bodyContent" style=
+=3D"border-style:solid;border-width:0 0 1px 0;border-color:#ededed;-webkit-=
+text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-ta=
+ble-rspace:0pt;color:#505050;font-size:14px;line-height:150%;padding-top:15=
+px;padding-right:15px;padding-bottom:15px;padding-left:15px;text-align:left=
+;" valign=3D"top">
+                                                <h2 style=3D"text-align:cen=
+ter;color:#448ace !important;display:block;font-size:18px;font-style:normal=
+;font-weight:normal;line-height:100%;letter-spacing:normal;margin-top:0;mar=
+gin-right:0;margin-bottom:0;margin-left:0;color:#448ace;">Special Invitatio=
+n</h2>=20
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"left" style=3D"background-colo=
+r:#ffffff;background-image:none;background-repeat:repeat;background-positio=
+n:top left;background-attachment:scroll;-webkit-text-size-adjust:100%;-ms-t=
+ext-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;" valign=3D"=
+top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templateBody" style=3D"width:auto;-webkit-text-size-=
+adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace=
+:0pt;border-collapse:collapse !important;background-color:#ffffff;">
+                                        <tbody><tr>
+                                            <td class=3D"bodyContent" style=
+=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspac=
+e:0pt;mso-table-rspace:0pt;color:#505050;font-size:14px;line-height:150%;pa=
+dding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:15px;tex=
+t-align:left;border-style:none;" valign=3D"middle">
+                                            </td>
+=20=20=20=20=20=20=20
+                                        </tr>
+                                    </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>  <td align=3D"left" style=3D"backgrou=
+nd-color:#ffffff;background-image:none;background-repeat:repeat;background-=
+position:top left;background-attachment:scroll;-webkit-text-size-adjust:100=
+%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;" val=
+ign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templateBody" style=3D"width:auto;-webkit-text-size-=
+adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace=
+:0pt;border-collapse:collapse !important;background-color:#ffffff;">
+                                        <tbody><tr>
+                                            <td class=3D"bodyContent" style=
+=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspac=
+e:0pt;mso-table-rspace:0pt;color:#505050;font-size:14px;line-height:150%;pa=
+dding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:15px;tex=
+t-align:left;border-style:none;" valign=3D"middle">
+                                            </td>
+=20=20=20=20=20=20=20
+                                        </tr>
+                                    </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                            <tr id=3D"pre-sections">
+                                <td align=3D"center" style=3D"-webkit-text-=
+size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-r=
+space:0pt;" valign=3D"top">
+                                                <img alt=3D"FlexJobs" src=
+=3D"https://s3.amazonaws.com/fjstatic/images/emails/img-starburst.png" styl=
+e=3D"width:100%;height:auto;max-width:100%;-ms-interpolation-mode:bicubic;b=
+order-width:0;line-height:100%;outline-style:none;text-decoration:none !imp=
+ortant;" width=3D"570">=20
+
+                                </td>
+                            </tr><tr>
+                    <td class=3D"bodyContent" style=3D"-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0=
+pt;color:#505050;font-size:14px;line-height:150%;padding-top:15px;padding-r=
+ight:15px;padding-bottom:15px;padding-left:15px;text-align:left;border-styl=
+e:none;" valign=3D"top">
+=09=09=09=09=20=20=20=20
+			        <div id=3D"1758"><a class=3D"section-link" target=3D"_blank" hre=
+f=3D"http://elink.flexjobs.com/wf/click?upn=3DdwklM2AQBYfkWvgnjGH4qpcSBpE52=
+n66-2Bk4vq5E3nP-2Fi-2Fy22yRNQhYAJzwQstbso-2BoWVof4RkDwhvZDrAl2AmwUyEiW5sbPs=
+CnSKCG6H0zJq-2F5EyeHcTV0MetBZyJTNs_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369=
+f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv2=
+8ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz9=
+2wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcr97m-2Bp5GTTbvxwd=
+aDN-2FYBShPbr8S7MPuoJNQ2AL95gbexqngDtK9dnTr7OT0M8omlyzW7EQdFnhpmhKpr38t4NhA=
+XYvZZREoNc4p5UUIdrLB5iXtj82ZpkyxzUQZ5blXjssBn-2BsPm38M2-2BMAcPz3uKUQnhOV8SO=
+pzDfbQLXMgM-2BgnW9Q97ZKnSZRZhYLt1S8TGqea4Sb4HgIoIJ7MqGotMd69-2B6DnqWOiJoLWY=
+5wbUWPLc462M-2FkyfMKikTPkw3eg-3D" id=3D"1758" name=3D"1758" style=3D"color:=
+ rgb(68, 138, 206); text-decoration: none; font-weight: inherit;"><h2 style=
+=3D"text-align:center;margin-bottom:20px;color:#448ace !important;display:b=
+lock;font-size:18px;font-style:normal;font-weight:normal;line-height:100%;l=
+etter-spacing:normal;margin-top:0;margin-right:0;margin-left:0;text-decorat=
+ion:none;">Join Us For a Remote Work Virtual Job Fair!</h2></a></div>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=09=09
+=09=09=20=20=20=20=20=20
+=09=09=09=09=20
+                 <table>
+                   <tbody><tr><td>=09=09=20
+                      <p style=3D"font-size: 14px; margin-block-start: 0px;=
+ margin-bottom: 8px;">Dear Bruce,</p>
+
+<p style=3D"font-size: 14px; margin-block-start: 0px; margin-bottom: 8px;">=
+We want to invite you to the <a href=3D"http://elink.flexjobs.com/wf/click?=
+upn=3DdwklM2AQBYfkWvgnjGH4qpcSBpE52n66-2Bk4vq5E3nP-2Fi-2Fy22yRNQhYAJzwQstbs=
+o-2BoWVof4RkDwhvZDrAl2AmwUyEiW5sbPsCnSKCG6H0zJq-2F5EyeHcTV0MetBZyJTNs_95ipH=
+O-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2B=
+jMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5=
+525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2=
+qWm4zBKHE21lTjLFxcrcDgJCJ8iFQPeaE8dq7hK-2FEeckIEGgTk5Yuna0NvIdjwjmHl-2B-2BH=
+0Z4g24nmqgo-2B-2B3KpbX-2BFhA0DJKR2RWzUiMyP37tWXpcFYPogF4ptfcnEFrseEXRI-2BpK=
+dqj7z-2BqjDzYRtpXmkNrCjIQXjtTK8biojBlxdADi3-2BcOP7CG4o6cQt3Wsl4nMiSJfCzYbzH=
+Zw7zcLzQYOIgexjmsXsQCFCUZyGRYfekU8RviITlcx14EuqysTdiG0sLg5kD0cmaTN1c-3D" st=
+yle=3D"color: rgb(68, 138, 206); text-decoration: none; font-weight: inheri=
+t;">FlexJobs Remote Work Virtual Job Fair</a> to help you find your next re=
+mote job!</p>=20
+
+<p style=3D"font-size: 14px; margin-block-start: 0px; margin-bottom: 8px;">=
+The job fair is designed to bring employers and job seekers together virtua=
+lly, for jobs that can be done virtually! And if you're considering looking=
+ for a new or better job, this is a great way supplement your efforts and h=
+opefully expedite the process.</p>
+
+<p style=3D"font-size: 14px; margin-block-start: 0px; margin-bottom: 8px;">=
+<strong>Some of the remote positions companies are hiring for include: </st=
+rong>Customer Support Representatives, Virtual Assistants, Reservation Sale=
+s Representatives, Bookkeepers, Online ESL Teachers, Social Media Evaluator=
+s, Engineers / Software Developers=E2=80=A6 and more!</p>
+
+<p style=3D"font-size: 14px; margin-block-start: 0px; margin-bottom: 8px;">=
+<strong>Here are just some of the companies hiring at the virtual job fair:=
+&nbsp;</strong><a href=3D"http://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2=
+axL2L-2FR833mPH6fpVJU22zZ-2FpbR1umyUynfrGQUiMAALqHDdVkhJtDyskESbReXImGBSjWK=
+DZlY-2Fr3Az4GoXYXpj-2B9B9d3nBBSJQ6-2B6CbNIIB0je3OUrYFz4PlqEB-2BQU7dI8kZ3ANo=
+BNZ3R2x4gNpUz2UJ-2BFU7e-2B8nE-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-=
+2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28o=
+cjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92w=
+tlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcp9HPwfV58KECfcnuug3=
+7ghcSh-2FedCHUuSXv00X8k78YvsV34XhgFYy5IAELilC-2FffRZMarvQMRF8jIxuIkZ5mFtiMa=
+k5VHPqAymopuisjQrwTW8ML7llBAuvZyvkqv2iRQMZxBLx4g25l-2BvC0JDm4-2BGUX7ckYxJvC=
+ZpkGpaIiXgwY1HHNhfoMT3y-2FRc-2BEbNv7VKBaKu-2BsfmIJU6L7qDsngjiceV-2B1bj45pSo=
+K0WLOsSQ1FaGxdLe15a06-2BvgntSpg-3D" style=3D"color: rgb(68, 138, 206); text=
+-decoration: none; font-weight: inherit;">Hilton</a>, <a href=3D"http://eli=
+nk.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR833mPH6fpVJU22zZ-2FpbR1umyU=
+ynfrGQUiMAALqHDdVkhJtDysQHo6ljWJaGD7nnq0dJkSyKe7O2TtPT1nJQYYeGp1ivW6AR0hy3n=
+uga4-2BlHE4WA1JSz6aPp2U1QsTjS-2B1yNQ2vEHb5FVSBWISAJIMba-2B44gI-3D_95ipHO-2F=
+HtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk=
+44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525y=
+k2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4=
+zBKHE21lTjLFxcqFtQ7ACU8-2B7O7rh2Ypz7iIIktZzJMIdnpNJKoQUf9qgTuwwPmYUbKfqgwIX=
+Od-2BkNlcYNBtjxHAo1XfHs369PGQfaXp95DxUzdYZ-2FF9u03ZjrsFlD3A2axM3DL-2FX4S6o1=
+R78wtkkTWAr6DIJ6eOHRFZLwAiUVq8EcG9ZlBl5aP3f-2FYjkI-2B4i38-2F9ezWffirMa5Ebcg=
+8v6zJvFXDmlbIhdHwbAsRu8vcQP0B4aMjT9Z6EztJ-2FlkXBMPsmC-2BPeI4LMX0-3D" style=
+=3D"color: rgb(68, 138, 206); text-decoration: none; font-weight: inherit;"=
+>Appen</a>,&nbsp;<a href=3D"http://elink.flexjobs.com/wf/click?upn=3DwfzAxu=
+u2axL2L-2FR833mPH6fpVJU22zZ-2FpbR1umyUynfrGQUiMAALqHDdVkhJtDyspWmubEF8Ikh99=
+aP3r856QNJya3gbibvoJg1DriW6yhD31p4OZDXTQ2YPsOi6Qg3vpsxmBOyZo3cYy-2BaoFtAFYc=
+GxGmhV0FNCYjOf64iyX0YO3B1LRUUgJLKBbg7I0Yo-2B_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9=
+r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0C=
+W4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLT=
+pZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcoIfq2cx=
+VrgdJXoF6GQ-2B65VFl1iAOuxcOH-2FTq1359Gw1622gssoMVU2-2B19O7iUvQI0ldbZhI7PrL9=
+R7-2FJWufwfChE24IOQL5snqVLgwzcrhVGw-2Fcl3VTzURQde-2Bdok4yKRPzmP7xIQPknSYUrI=
+fXeJ9zsPENbHPTNGEezCujD0u45xBOVK1FGaNri3zoOz2qDtdZ-2BkFLiOdYrueGpvstZmlpdAG=
+APpY7-2FKGWD6lk-2FbFyJjh0zkf3S7-2FPui6aKeCdB0-3D" style=3D"color: rgb(68, 1=
+38, 206); text-decoration: none; font-weight: inherit;">1-800Accountant</a>=
+,&nbsp;<a href=3D"http://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2F=
+R833mPH6fpVJU22zZ-2FpbR1umyUynfrGQUiMAALqHDdVkhJtDystF-2FXLc8Wg4iBGdcaHmde2=
+64HjgeuHBt68EcKuRO-2FYFOUOiDVwSy4ooYNQfUhPOveAGGi90uMhEFMr4dQbk6xdmb2RK9dRC=
+M8YP7JPz8D69GLagA9BbNHlm-2BOxpixpDuC_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B3=
+69f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcF=
+v28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fcl=
+z92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcpZc5fpme7HsA8xC=
+2tZ32DRurjz3U-2B9e2DYwj2CxB0iwYPS5d-2FVvkrQgD4gL5-2FxE0NDg66TeioDqTnQ-2BONc=
+atRiuAWLRnblPmm5LMGdoXeIcbuShwCvSHt4G7HBQJY3bFgLqiwvyGUK3RadplRhILNLs2GPpMQ=
+Aji2hghNKGuE6XA0UrLaPzYVYnmFuvMQjrSuhGzPHuN0RT8lu1CHVnsSKiSF97IVut1p1pP0k5c=
+CB0-2BWBn6h8Opcby2yNX-2B53aaI-3D" style=3D"color: rgb(68, 138, 206); text-d=
+ecoration: none; font-weight: inherit;">Lionbridge</a>,&nbsp;<a href=3D"htt=
+p://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR833mPH6fpVJU22zZ-2Fp=
+bR1umyUynfrGQUiMAALqHDdVkhJtDyslIXSi-2FuBpL5fNeVIvkLsPF8MRKtc8SPgtkNwo9WXfZ=
+60KxvCN1wjSj-2FmDf9ifCplQ02bUg-2B5BIehTQExq47Th2VLk2K9FQpOB5B2fDB2Jtc-3D_95=
+ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc=
+-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcR=
+La5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQh=
+ZQ2qWm4zBKHE21lTjLFxco-2BWikUPJK9-2B48VQ11HNZt9qYhQzQo42syCH0whluHajCm7VK8H=
+cuLcrj-2B-2FpdfFg4dTmHHdpVqGBmU4-2F1XjqzJI-2FHaUyE4AjH8zzu3hfoGxikFpN3l6AlL=
+0dyzEFTcQYkf5r92BqaAe43vQsJBh9zsaRdu3U5yIhlrFFksWB-2F-2FZUQxgfZB642cz7cKkm-=
+2BbPB1fEaX7D0u2kCD5oI-2B8adx7seVNsCp78OkX2UpR0-2BS7tj2XsHM92J5jjhPVhXLcIv-2=
+BM-3D" style=3D"color: rgb(68, 138, 206); text-decoration: none; font-weigh=
+t: inherit;">Relocity</a>,&nbsp;<a href=3D"http://elink.flexjobs.com/wf/cli=
+ck?upn=3DwfzAxuu2axL2L-2FR833mPH6fpVJU22zZ-2FpbR1umyUynfrGQUiMAALqHDdVkhJtD=
+ysCoJRH89af8LPNYOMeFzgGL1epOoH6N8b5l0Fk5nhYbZtVr-2BFYIFdD7Z4zwO8iPbgFMb-2FI=
+IqyDHh5mPYkZqq2oFEOovDRLRwDYFvUrhpDdldmXcPt40BK15jTl9QCz3XX_95ipHO-2FHtfiEG=
+xEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2=
+FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7=
+j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE2=
+1lTjLFxcob4Ssmud60OTlZHYy4ivOi9jnTkdVah56uyE8GzQwy6Rh1Lz0xxoan-2B5efPO5hg46=
+YFArI86dA7r7tAnYETXwy1qfa7lT6TkzRhM0s7dkyIpYtDjw-2BvdWfcwYSmFE0kTPYT8pksaaH=
+XixIKHTLV1IhnB6izYAxQW4t7LFq9diKlDKq-2FR1yA8V7nmux6SqMvY4eu9hVA6hlTF-2BPAEU=
+pGli5kIrmI1dWoUu2q-2FFOpqtZ1eQlN8WdIORQVesHju70gS8-3D" style=3D"color: rgb(=
+68, 138, 206); text-decoration: none; font-weight: inherit;">Education Firs=
+t</a>, <a href=3D"http://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2F=
+R833mPH6fpVJU22zZ-2FpbR1umyUynfrGQUiMAALqHDdVkhJtDysVMFpl8HC39pU4aoosbh5Prg=
+-2FONSBeCdOyuLM747Lxnhm3VP2-2BmY6lHeKTAlMFZBPNuBTiqTrfDfmKzcbk6uikAJKTBRN2F=
+mqw1iIJoddGZs-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2y=
+vRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u=
+0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9=
+VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcoUOvFhTy2VW759KdZRaq4rBzHNHsOH2CR7-=
+2Fp797AurgrCiTnNJ38cTCEn-2FwQkYPpcvKkf5IuO1Qy-2FUIcvEiGybT-2BrVLCcjAYL93-2B=
+noQlNEpOJtIBiipgKjb4Uz-2FHTm3zfTkJnesKvSj6HWWhd6YSG-2By5Cd9SoDA993RXcoEr5nZ=
+bRd6XX-2FbKfOa4HTpoI-2FvSFtNMW0It-2BH9WdnKGrohfWc34J3w2ocIKBDXry4CyHVsC7hVx=
+AoohfTbcQvmu17vRI-3D" style=3D"color: rgb(68, 138, 206); text-decoration: n=
+one; font-weight: inherit;">Boldly</a> &amp;&nbsp;<a href=3D"http://elink.f=
+lexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR833mPH6fpVJU22zZ-2FpbR1umyUynfr=
+GQUiMAALqHDdVkhJtDys-2FBLyQ0BShxIuRLiJt5WR-2B35RZCnxIE3d1yxS5xRpUgJ9DvcVtMn=
+Cu7-2BcOuenZUShcZHyz-2FebCtJhOMu3qMlt-2B7wKe0nvrS7Rxy5W1shxAqTV5rlv7yHmVERI=
+pM-2BLG5gP_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf=
+9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkX=
+NOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3H=
+Pdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcrQB8fvHOObiIAxHXybivr40-2BwU8UjJY5lV07wMp=
+XbFTykvJZSbgk2NuLdo-2BXMw9w3uSFBw52Eq3XcpVRd25qojS4ZyD30xFRy-2BAj1sIvZhlPhC=
+qLpy-2BARZSTPoyeY1bmmkrEg6ggyNp1Ov-2BhalKdNsXgRyFap8OuCG0FZ3DEnvfGCVpnPDmAm=
+b9AZAcDcinzCJF7CzVUhDdXnkMn4FwOLq-2FdeYIDesZXDn6Q0MUfc-2BlHkQ5Vl6CRylofCIB9=
+lrFuQ-3D" style=3D"color: rgb(68, 138, 206); text-decoration: none; font-we=
+ight: inherit;">Concentrix</a>!</p>
+
+<p style=3D"font-size: 14px; margin-block-start: 0px; margin-bottom: 8px;">=
+<strong>What can you do in the FlexJobs Remote Work Virtual Job Fair?</stro=
+ng></p>
+
+<ul>
+	<li>Learn and interact with some of the employers featured on our list of =
+the <a href=3D"http://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR83=
+3mPHwpioX12mOcr48XDzlyPSUINDFFf3J0u7GYTFKdPNGPLSR-2BieqrceqL0-2F7vMf5t-2FE6=
+kDu-2FQNnrGEVuOoGXASMc2R1iX27EcHUQRz0a-2F8eUywv2iWRYyLaHyz0Ma3HMGeFmyc4u9jX=
+e6bhs8XaXI11lnl-2Fnyj1xMEyodKq-2FJnq7Sk_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-=
+2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0=
+lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2=
+Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcpNdM-2B61tlI=
+8gDdRXFQaIJBxRc35saK5RbhFZRuO16r0mdrb2UvjJZ-2FUtgqFymocuOeM6VPRMWFLykeo8oQE=
+-2BuyDIbTwj-2Bv8BuBjifSY0CphgLx3U2WXAibfql75OwV2z-2F-2FZX-2Bto2TVvK8AMNT4C0=
+6m-2BNBoEXDXvc92igGfYiLT4UT9asNOEV1RnbAOiKmQzEh8z0Q3rHy01EfvZ8ToURIuhcH-2FG=
+8o39f4qgaIqKbEVOSPwSUDTAJhuNp-2FXOKdzZt8-3D" style=3D"color: rgb(68, 138, 2=
+06); text-decoration: none; font-weight: inherit;">Top 100 Companies Hiring=
+ for Remote Jobs</a> about their open remote jobs, their company culture, a=
+nd why they value work flexibility.</li>
+	<li>View and apply to fresh and exciting jobs from top remote companies!</=
+li>
+	<li>Chat live with employers/recruiters and get interviewed through chat a=
+nd video conference.</li>
+	<li>Meet our Career Coaches and learn more about what they can do to suppo=
+rt your job search efforts.</li>
+</ul>
+
+<p style=3D"font-size: 14px; margin-block-start: 0px; margin-bottom: 8px;">=
+<strong>When: Thursday, February 7th, 2019 10:00 am to 4:00 pm ET</strong><=
+/p>
+
+<p style=3D"font-size: 14px; margin-block-start: 0px; margin-bottom: 8px;">=
+<strong>How to Access the Job Fair: </strong>This is a FlexJobs MEMBERS ONL=
+Y event and you MUST be a FlexJobs member on the day of the job fair. To ge=
+t your spot (as well as the&nbsp;<a href=3D"http://elink.flexjobs.com/wf/cl=
+ick?upn=3DwfzAxuu2axL2L-2FR833mPH1quL71wSnx-2BtgBDV4zF8sRuiX3WHdu9wNo0W-2B-=
+2Biykjm7Mx9Z1Hv2rx96eekvSJmuwO11pjNLCyieFmrqz-2BXZ7FvmNoE4CBGpDaQAMmxXi3-2B=
+92-2BWJWvJbaiDlUKHqglcFw-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2F=
+NYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocj=
+NbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtl=
+IglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcpiDP-2FRDZaP3VYgH54q0=
+YAoXIld2fu97Xd1U0PWjX-2B2kcO-2F2Pu54tc4MKcPiUsYVfRRNcYc9DeG2Ixsw5eSWQLPwTuR=
+6WFYIcui-2BZSaq3a4bKdTCO0WXBhazri9oLZT1FVu4AgIg86VilYSNcaeF9Vaqyqdld8KUkgyo=
+lTNTiu1fOecZ9zxbJKUHJlHfxnIOz9IKez5hEWORts8K6z-2FxrviPvGyS5ObycIBNW7ZGHWnN7=
+icr6eanwSM-2BW7vhFJPcuQ-3D" target=3D"_blank" style=3D"color: rgb(68, 138, =
+206); text-decoration: none; font-weight: inherit;">many other benefits of =
+FlexJobs!</a>):</p>
+
+<ol>
+	<li><a href=3D"http://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR8=
+33mPH3dV02PQ82cR3m4QeSC92RKLHO5gC65-2BesOOq-2FM4mj6jZ4FJSHrAxXNf-2BEjJUzVRc=
+oMU0pMGiPVObBib6DasHyglQ2TL0wVPHXbl0y7kcbvI_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r=
+802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW=
+4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTp=
+Za-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcrfPEcR4g=
+HKUasD0M-2FZOj6iw2x2HqDsH-2BDt5WL3DNPs8JameN5q6g0gpmOqB3fvYV4P1BpakM5HycNZF=
+uoBjxq2ZntjOeSOP35bzR3Rg1Y6B4Ei-2FP8rWB3zGFrI-2FR3RSVxHp05w5wf4m9jWvZDmlck6=
+9V7itKykwCAK2GbIYhEW7QX1WSHk1Fp7urwqCgAEpB3ztvlqREuJY8Y-2BdATFZ-2BsL2E1lzg9=
+4zFAgaD-2B5kw-2BkDMsQqqo0m-2Bnn9E22afAxht8-3D" target=3D"_blank" style=3D"c=
+olor: rgb(68, 138, 206); text-decoration: none; font-weight: inherit;">Beco=
+me a FlexJobs member today with the <strong>promo code TOP100 to save up to=
+ 50%!</strong</a>&nbsp;</li>
+	<li>Once you are logged into FlexJobs as a subscriber, you can register fo=
+r&nbsp;<a href=3D"http://elink.flexjobs.com/wf/click?upn=3DdwklM2AQBYfkWvgn=
+jGH4qpcSBpE52n66-2Bk4vq5E3nP-2Fi-2Fy22yRNQhYAJzwQstbso-2BoWVof4RkDwhvZDrAl2=
+AmwUyEiW5sbPsCnSKCG6H0zJq-2F5EyeHcTV0MetBZyJTNs_95ipHO-2FHtfiEGxEkeDVC7m2cc=
+8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtp=
+X0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5ax=
+YLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcqrJx=
+UIAHQIkT449dcOlS9z-2FfgVPsofOai11vt7hOWlqkNIxzepfCrsM1-2B0-2F8k-2FpgXvnxnmN=
+W7-2FfQJVg11M4PnEITdU5RDmLQy9f2OKuA8t7541EKAQJQ1iBFOBKVI826N4C0UHL-2BFJ3x0q=
+8CI6O0nMFRMBRmaCPxLj-2BqxdoSjgbTIfqz9Ila4oEPIAtfxoKplyTxKTLv3LrChZU0Z4mZE0-=
+2F2YEvZFpmWiRBAtb1y-2B6tl-2BS9iIb6DejzS3t03nRHZg-3D" target=3D"_blank" styl=
+e=3D"color: rgb(68, 138, 206); text-decoration: none; font-weight: inherit;=
+">Remote Work Virtual Job Fair</a>.</li>
+</ol>
+
+<p style=3D"font-size: 14px; margin-block-start: 0px; margin-bottom: 8px;">=
+We hope you'll join us!</p>
+<p></p>
+                   </td></tr>
+                 </tbody></table>
+
+=20=20=20=20=20=20=20=20=20=20=20
+=09=09=09=09=20
+		      </td>
+           </tr><tr>
+                           <td class=3D"bodyContent" style=3D"text-align:ce=
+nter;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspa=
+ce:0pt;mso-table-rspace:0pt;color:#505050;font-size:14px;line-height:150%;p=
+adding-top:0;padding-right:15px;padding-bottom:15px;padding-left:15px;borde=
+r-style:none;" valign=3D"top">
+                               <a class=3D"btn-cta" style=3D"text-size-adju=
+st: 100%; background-color: rgb(255, 255, 255); background-image: none; bac=
+kground-repeat: repeat; background-position: left top; background-attachmen=
+t: scroll; padding: 4px 6px; border-width: 1px; border-style: solid; border=
+-color: rgb(68, 138, 206); border-radius: 4px; font-weight: inherit; color:=
+ rgb(68, 138, 206); text-decoration: none;" target=3D"_blank" href=3D"http:=
+//elink.flexjobs.com/wf/click?upn=3DdwklM2AQBYfkWvgnjGH4qpcSBpE52n66-2Bk4vq=
+5E3nP-2Fi-2Fy22yRNQhYAJzwQstbso-2BoWVof4RkDwhvZDrAl2AmwUyEiW5sbPsCnSKCG6H0z=
+Jq-2F5EyeHcTV0MetBZyJTNs_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnv=
+l7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQI=
+rsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRI=
+IIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcpMGQTlbujcjAPQdYBDjipCneTVw=
+N1lthSqFDPZfphtCXbUKySkOYyidrS6Rgs1bK2GJYjoPyHac5sFGp5CMv9xvGeh6-2FKE2-2B68=
+wAiZaXNlCOG0fqHiAP9k32Oae5nP6FsQaVrn8Zd0ESW-2B6tjs8UcvQfK66Iyq-2B6AyNa09eY2=
+qFbMX0oWroWaVLZtRnfGPe7nTgZGStua-2B72uK-2F7fxbgpXJoRT9Kt3BeQCceJbugUvCydwgm=
+60Et-2F2-2BVikCVexvGA-3D">Learn More and Register for FlexJobs' Virtual Job=
+ Fair &gt;</a>
+                           </td>
+                       </tr>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=09=09=09=09=09=09=09
+=09=20=20
+
+=09=09=09=09=09=09=09=09=20=20
+                                    </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                            </tr>=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            <tr>
+                                <td align=3D"center" style=3D"background-co=
+lor:#f5f5f5;background-image:none;background-repeat:repeat;background-posit=
+ion:top left;background-attachment:scroll;border-style:none !important;-web=
+kit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;ms=
+o-table-rspace:0pt;" valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templateHeader" style=3D"border-bottom-style:none !i=
+mportant;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-=
+lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse !important;backgro=
+und-color:#f5f5f5;border-bottom-width:6px;border-bottom-color:#2a66b1;" wid=
+th=3D"100%">
+                                        <tbody><tr>
+                                            <td align=3D"center" class=3D"h=
+eaderContent" style=3D"text-align:center;border-style:none !important;-webk=
+it-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso=
+-table-rspace:0pt;color:#505050;font-size:15px;font-weight:bold;line-height=
+:100%;padding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:=
+15px;vertical-align:middle;" valign=3D"top">
+                                                <a href=3D"http://elink.fle=
+xjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR833mPH3dV02PQ82cR3m4QeSC92RKLHO5g=
+C65-2BesOOq-2FM4mj6jZ4FJSHrAxXNf-2BEjJUzVRcoMU0pMGiPVObBib6DasHyglQ2TL0wVPH=
+Xbl0y7kcbvI_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUB=
+f9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrk=
+XNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3=
+HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcoZ9NviCJgsCFlHAgeefl9-2FgAEF3PY1yrQDMr41=
+2hqoa9Kx-2BXo4lm6kAUmCzbe5cpP-2BY-2BcxhnUTIr05DJBnjJgweaufJtf4B2nyCJQAQszxo=
+IP0zPvjYlrqNiscS2w7HgGx2512l0guxpbvOxhVcO-2F7uBIJdgohap97-2BEiNps5wFQywrIJI=
+SUb6mgT9xGRRqnVFFXAe0L3rvQ65v-2BGWvb11s0wcDPrEZ5tKTLzxzT3lC5BhrBZva4usULOSf=
+5yqLNw-3D" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%=
+;color:#2a66b1;font-weight:normal;text-decoration:none !important;"><img al=
+t=3D"FlexJobs" id=3D"headerImage" src=3D"https://s3.amazonaws.com/fjstatic/=
+images/emails/fj-logo-w-tagline-150.png" style=3D"max-width:450px;-ms-inter=
+polation-mode:bicubic;border-width:0;line-height:100%;outline-style:none;te=
+xt-decoration:none !important;height:auto;width:560px;" width=3D"450"></a>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"-webkit-text-=
+size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-r=
+space:0pt;" valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" id=3D"templateFooter" style=3D"-webkit-text-size-adjust:10=
+0%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;bord=
+er-collapse:collapse !important;background-color:#f5f5f5;" width=3D"100%">
+                                        <tbody><tr>
+                                            <td align=3D"center" style=3D"-=
+webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;" valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                <table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100%;-ms-tex=
+t-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;border-collaps=
+e:collapse !important;" width=3D"100%">
+                                                    <tbody><tr>
+                                                        <td align=3D"center=
+" class=3D"headerContent" style=3D"text-align:center;-webkit-text-size-adju=
+st:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt=
+;color:#505050;font-size:15px;font-weight:bold;line-height:100%;padding-top=
+:15px;padding-right:15px;padding-bottom:15px;padding-left:15px;vertical-ali=
+gn:middle;border-style:none;" valign=3D"top">
+                                                            <a href=3D"http=
+://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR833mPH-2BT5nOVLtGMNWc=
+zIVPzJFd8VF48-2B71zk-2B-2BIBbcqxJBj3TRCY8pGz8pQSjy70MOkPo1yPRMJ702T-2BGGswm=
+29lcnz-2F8SJZPyd8hn7dXw6VXez-2FQ5L69IZmKi8mtOkVmDfFVA-3D-3D_95ipHO-2FHtfiEG=
+xEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2=
+FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7=
+j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE2=
+1lTjLFxcrKWzfhYOIOKICMFWPfHj9cLrTGeF5H0JNbr0Wq2vJ3Z6-2Fw0RZEWWjMqR7sKDGpsyQ=
+7FZqvqsHGDHwvuuIdrsdkxvU-2B5SxOq7AMbMjLBBsGMH-2BG3Pv0Ff9w58d8j5AOxHpJmDz54-=
+2BkFi2iH5b3wXfujBFHwOtDGX688EoZ57aeEJPqQkc5WgHo03UKJUpTM13BDIwNserazvAE7lD3=
+PzTZPl9hj3wC-2Fj5ma-2F0WFCgqw2pPQI1E0L3oTVZ2Qvn7mwWs-3D" style=3D"-webkit-t=
+ext-size-adjust:100%;-ms-text-size-adjust:100%;color:#2a66b1;font-weight:no=
+rmal;text-decoration:none !important;"><img alt=3D"Press logos" class=3D"pr=
+ess-logos" src=3D"https://s3.amazonaws.com/fjstatic/images/emails/logo-pres=
+s.png" style=3D"-ms-interpolation-mode:bicubic;border-width:0;line-height:1=
+00%;outline-style:none;text-decoration:none !important;width:300px;height:a=
+uto;max-width:80%;" width=3D"300"></a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                            </td>
+                                        </tr>
+                                        <tr>
+											<td align=3D"center" class=3D"footerContent" style=3D"-webkit-te=
+xt-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-tabl=
+e-rspace:0pt;color:#808080;font-size:13px;line-height:150%;padding-top:15px=
+;padding-right:15px;padding-bottom:15px;padding-left:15px;text-align:center=
+;" valign=3D"top">
+											                                                <a href=3D"http:=
+//elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR833mPHw4HHiUJwZyB5c6HC=
+LmwsxKX2P12JYMTkrix1jqyKnjrRgSI3JvspfzEtkvvZ8H8MgeRNhYvoZyaYn2tFKqEN2Eh-2B8=
+ik6TZMsXrkD3g3tx5-2BBnLqFYMVQqkT4W7l6xjk7w-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2c=
+c8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVt=
+pX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5a=
+xYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcqnE=
+nFvOIUjKYD-2FztCG-2BZfhkD1uW4i88XOpN6jq7jpPORCMAPCtQf4tNdWUvIeGX2zpFNEWrsa9=
+gQJR76gHywI6pVln7zDgry69EY4s-2BkYy0PhaB6-2Fz4INxjcDSCLRkbpwOhZDVk4G4MBn-2Bu=
+5em2QvH0DMfKj-2F2468xEZPT-2BzV5Xoe-2BCJoUzGojimv7sdkU5r2wNYaXalekloCJTVmGkr=
+ugX0PY1HsOcCy5UNQZMKYLs6DGsHDGnbz43aJG-2Fr1ico8-3D" style=3D"-webkit-text-s=
+ize-adjust:100%;-ms-text-size-adjust:100%;color:#2a66b1;font-weight:normal;=
+text-decoration:none !important;">About FlexJobs</a> &nbsp;&nbsp;&nbsp;|&nb=
+sp;&nbsp;&nbsp; <a href=3D"http://elink.flexjobs.com/wf/click?upn=3DwfzAxuu=
+2axL2L-2FR833mPHzHlWILq0hVzj5Xu9Q6UxAC6QjCmc1IQWksCvmWoW37T-2Bwpk3ebYjJV7nF=
+MoPSkfbh6aYI79DJadc6jm-2FAvvC86AvvcfU9ui2tNXcw4-2BvqBWfFiOjO95OXmT8Fm0BdNBQ=
+w-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xK=
+Cq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOe=
+M2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy=
+-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcqQyCVQC-2BE3t0cGxi-2BMTvvH6ucV7Xs1nbx619yNTK=
+FDpEmpuE9C4DyR1YmPyf3zRkHkO7-2B6qP7Tq5EXr9tMrFgqn9rRW3Cyc2i-2FKH4VAsADJ-2BC=
+NqsJQ6UYEQGeNB81M6WR-2FQotIt9ZiPqHuaJLRg1d5o6epQB-2FBT8Abme0SXCUAHekwNXy4jM=
+MH77icDjcZzvq6rnjQhMXrqdsN85DiXKzqXCezJE-2BcDcq6vCESg4CM2KVaBKN8y-2B8q5H4nX=
+GeqdK4-3D" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%=
+;color:#2a66b1;font-weight:normal;text-decoration:none !important;">Contact=
+ Us</a>
+											                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class=3D"footerContent" sty=
+le=3D"padding-top:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%=
+;mso-table-lspace:0pt;mso-table-rspace:0pt;color:#808080;font-size:13px;lin=
+e-height:150%;padding-right:15px;padding-bottom:15px;padding-left:15px;text=
+-align:center;" valign=3D"top">
+                                                This is an opt-in only news=
+letter, and we honor your privacy! If you would rather not receive Weekly N=
+ewsletters from us, please click here to <a href=3D"http://elink.flexjobs.c=
+om/asm/unsubscribe/?user_id=3D15025&data=3DFZ4nv5E7zSDcJfbt7n2Nho2rM3YKXlnk=
+GbV1UTRSX7Lo4z7LOQGHpIUiqpUsd0Zx-dTW9igDpCNDq2rkSTS1ehzeQN2BnEHQXrlD9EvgIvQ=
+H3xkM7DNJZDo5oxJdF71qKJUwg1C_EZ633Vft9w4b3JoWJdzdcP8cfIYw2Oa5fGiBkw1wDuMFlz=
+-WHsA3eg-8NxYj9TWETuCj0y_i5Pie3ndy_AGSOZ_ayaSiRSp0YGe0XVoArrx-OGcm-VVQ9YwPs=
+D1R-2mwpjIu9MfRbwH02vPq03PR6NusNtSdQmoDco5otMW_R3O8xnVUJrSe5nxOxOekn-ypRp4r=
+vSH1GO8GqqF5QI8naihYsmsIqfGoGyjs-uDiTFPi58unn_bk42epitJYxBe3yRMOft-1liEOM88=
+aUenYIJ4NtKAorGRlH_l-ROeZQcoZ0XoZboITC_yZIznxE4rKLFj8EC-IxlmkUEO4_17f3DIjaI=
+GbQC1I5HLZ7B8KvnZTw-7eYCPMMVeANqAs-EhVg4DUf9JzJbl8Aja-GIJEYm9IJXrSrE-cOBrXi=
+44CkS7SfAcxSvMFPEAYlcJK9x_AZj5SKZo8F7Dq1AyY1qcC66TR_4WxnGt4jHE=3D" style=3D=
+"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#2a66b1;font=
+-weight:normal;text-decoration:none !important;">unsubscribe</a>.
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class=3D"footerContent" sty=
+le=3D"padding-top:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%=
+;mso-table-lspace:0pt;mso-table-rspace:0pt;color:#808080;font-size:13px;lin=
+e-height:150%;padding-right:15px;padding-bottom:15px;padding-left:15px;text=
+-align:center;" valign=3D"top">
+                                                =C2=A9 2007-2019 FlexJobs |=
+ 4845 Pearl East Cir Ste 101 #23790, Boulder, Colorado 80301-6113 | =E2=9C=
+=86 1.866.991.9222
+                                            </td>
+                                        </tr>=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20
+                                        <tr>
+                                            <td align=3D"center" style=3D"-=
+webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;" valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                <table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100%;-ms-tex=
+t-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;border-collaps=
+e:collapse !important;" width=3D"100%">
+                                                    <tbody><tr>
+                                                        <td align=3D"center=
+" class=3D"headerContent" style=3D"text-align:center;-webkit-text-size-adju=
+st:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt=
+;color:#505050;font-size:15px;font-weight:bold;line-height:100%;padding-top=
+:15px;padding-right:15px;padding-bottom:15px;padding-left:15px;vertical-ali=
+gn:middle;border-style:none;" valign=3D"top">
+                                                            <a href=3D"http=
+://elink.flexjobs.com/wf/click?upn=3DWqp7Lop7cONoV2z-2F6cqyBw-2F1JCjg-2BNGU=
+fH4CI0lwJKmUj-2BGcRi-2FhjCBdq-2FR0cVhvNdrWL5DtLOaxl0KBIzTl4AulNui09b2jN-2FX=
+6KcFEALcD16J6U5jPxrKhmy2jHIkaF5wUGLkQwC2-2Fcmr5nS6E3TejoUyVoJ7V7nzjp-2B5rsh=
+k-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2=
+kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2G=
+HngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2F=
+T7C9uQhZQ2qWm4zBKHE21lTjLFxcpn-2BBiPH7-2BBhUNuhqgTlZ3b-2FttGxnv5CXnuqf5WjDu=
+PgGMIVwnvcViexT3zq05twFw09migma6ZcpTtCZsYQ-2FP0uxO2nhKTxiRLPdUtC4dDClh1Pt-2=
+BQxRJU7DSj2Y-2F8c34qyVXGTeDbFVj-2FIwDNjo2S0MrcrrxePNyWIzMGMMqAfFNJU7dtJkgON=
+M9rdulB2BZ9-2Fx25SCcmiA6Asc7ssPJoEC-2B58IDFzliDyvAqiovdkB1nREb8MscmPnaqBuB3=
+Yes-3D" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;co=
+lor:#2a66b1;font-weight:normal;text-decoration:none !important;"><img alt=
+=3D"Facebook" height=3D"24" src=3D"https://s3.amazonaws.com/fjstatic/images=
+/emails/icn-facebook2.png" style=3D"width:24px;height:auto;-ms-interpolatio=
+n-mode:bicubic;border-width:0;line-height:100%;outline-style:none;text-deco=
+ration:none !important;" width=3D"24"></a> &nbsp; <a href=3D"http://elink.f=
+lexjobs.com/wf/click?upn=3DwfzAxuu2axL2L-2FR833mPH2POj5-2B3jMFV2NyEOrpovo3X=
+LJRgm1u9wvxqUWK1bZfqyPwRJqte5RuC5tly0-2BL0oiY0K73bKtOPLFw2r8bmYOoQtqmqzuOfz=
+bP1jdN6x5-2B0hH41q8ftaSzhPz2s0RR7Jg-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r80=
+2-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4q=
+R0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa=
+-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcpweOBPkzkw=
+2DqkPTlEohYO7xbgOZLEwBWtPfWxcpPwh-2FiC2mhPygB5x-2BBFZMY0wH01GHrAippPM809kVr=
+4ZW6NqWV5fPcK0op8RQTWaaWQy539347ziZ9QVwjTrSmI1PzfRpu0bIsZ-2BiSRVsMrmtZWbam9=
+IwU1-2BrBhlmHVp0rwmrLAsjaO0i-2B-2BmtwSBGL-2Fw1qPOcwqG7v95KmEtGEJjLR6QkFMR7V=
+SjDQ1PLaKFd0F6ivduVaQUmIDpcgKlWo2-2FfY-3D" style=3D"-webkit-text-size-adjus=
+t:100%;-ms-text-size-adjust:100%;color:#2a66b1;font-weight:normal;text-deco=
+ration:none !important;"><img alt=3D"LinkedIn" height=3D"24" src=3D"https:/=
+/s3.amazonaws.com/fjstatic/images/emails/icn-linkedin2.png" style=3D"width:=
+24px;height:auto;-ms-interpolation-mode:bicubic;border-width:0;line-height:=
+100%;outline-style:none;text-decoration:none !important;" width=3D"24"></a>=
+ &nbsp; <a href=3D"http://elink.flexjobs.com/wf/click?upn=3DQ6Vh1ob4TfaO8pR=
+ozAf3B9nvkDvcoYTin5fxuw6yxI5pqPP8V3LwH-2FwDIXoL95NPykmhX8IymL0HV718g-2FmxYS=
+BtABQlLDzKorkhE-2FJ-2F-2FH0p6RnK3d4eGX-2B-2Bm-2FnjLwQk_95ipHO-2FHtfiEGxEkeD=
+VC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhG=
+kz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naG=
+Idez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjL=
+FxcrQSAMYOjXnpJBx-2F-2BpeqXyTAbR2CqiE97T6DVDWlYSRWbtJ1leG8QZAKXCZVxXlBNGj48=
+eJsjfYlik6pwoxRxQSH69pcD6bIT6fnr8Ipz5WfTJ4Qp51W19rmUO3EpdFMyZEdF7-2BnArcXQP=
+SktB8rmsLqaOfatGIgnGoEDkL5pR5gQliOJbVMi4rea2-2FHPm1-2BuliG77JXzSDEpafbV-2Fc=
+HwRMwcmVASNNogQdn8nkD-2BHK7-2FQObC0cHNjnzcnt5WyZxf0-3D" style=3D"-webkit-te=
+xt-size-adjust:100%;-ms-text-size-adjust:100%;color:#2a66b1;font-weight:nor=
+mal;text-decoration:none !important;"><img alt=3D"Twitter" height=3D"24" sr=
+c=3D"https://s3.amazonaws.com/fjstatic/images/emails/icn-twitter2.png" styl=
+e=3D"width:24px;height:auto;-ms-interpolation-mode:bicubic;border-width:0;l=
+ine-height:100%;outline-style:none;text-decoration:none !important;" width=
+=3D"24"></a> &nbsp; <a href=3D"http://elink.flexjobs.com/wf/click?upn=3Dwfz=
+Axuu2axL2L-2FR833mPH-2FZlSW91IyQcuoBtkhrG-2B1cFBHdxYlT11NUbVP21kmlCo3PWt7fj=
+FZX2dczHr6nl68gQGgfuObQS9IV0zytTNVjuG5YuMHeYGM-2FDDljDToPnh4VO8RKE27elRDSpu=
+hSW4Q-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUB=
+f9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrk=
+XNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3=
+HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcoAavhXbLd4qDPy-2FMcWTgHIcKZi48493QhieslK=
+Sw-2BY5kQ1MJ5tsf49-2FZRQZqqeigxuIwRHKRZq3HrI7sxLY38zvC28HM7hJMfsXWm-2FtKw8u=
+eM5IxdLXprm9vDBEqiKRu-2BEB9gHUpCugGX9h1sffcfuI6SBid9LQf2Gc6I-2FATEYwSRWpzNJ=
+fB9w-2BATRTvI3gCUbOI-2BuQ4VcnCeWIIbLB47BG6VeEMty8shm47Tuq2-2B3iMc-2Bk1WxYR-=
+2F2Ms9bUYrjFdc-3D" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adj=
+ust:100%;color:#2a66b1;font-weight:normal;text-decoration:none !important;"=
+><img alt=3D"YouTube" height=3D"24" src=3D"https://s3.amazonaws.com/fjstati=
+c/images/emails/icn-youtube2.png" style=3D"width:24px;height:auto;-ms-inter=
+polation-mode:bicubic;border-width:0;line-height:100%;outline-style:none;te=
+xt-decoration:none !important;" width=3D"24"></a> &nbsp; <a href=3D"http://=
+elink.flexjobs.com/wf/click?upn=3DWqp7Lop7cONoV2z-2F6cqyB-2F8BXttxJNOWMIxAj=
+u0n5cyMzZoEPoR21NxBg45lwZcF21k-2FP5fYBNtgC3LeVOSbenv6BwW8QR0jfOQqNKbWndYsg0=
+ejEKQuL3UfanLFnNUiYN61B1gejAKIG7hhbyfJ7w-3D-3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8=
+Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1GVtpX=
+0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIdez5axY=
+LTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxcpjouw=
+DDb5oEyEOKmSIOh0ijQk-2B28CgdKlM5HrsY5LaV2VAHXYDvEeTpdVEdvTDO7v7dvA6ulauRcnR=
+lxtrc-2FXJUkQynW84mQcjGE7UFlk-2FAIm8nobh6wlXWYvwwZ8rntQ1DsMB0YlvtnVS-2FFBvR=
+rxswaNNNj5QbNyzwebohWigogepT-2FncAlmyydTtnBFeXcdxeOtlPzRJO8uKfH1CyQGE0WBTed=
+cuTcaSArhxJo-2FOsz5djmXzBUWmM2Db5RJz6fM-3D" style=3D"-webkit-text-size-adju=
+st:100%;-ms-text-size-adjust:100%;color:#2a66b1;font-weight:normal;text-dec=
+oration:none !important;"><img alt=3D"Pinterest" height=3D"24" src=3D"https=
+://s3.amazonaws.com/fjstatic/images/emails/icn-pinterest2.png" style=3D"wid=
+th:24px;height:auto;-ms-interpolation-mode:bicubic;border-width:0;line-heig=
+ht:100%;outline-style:none;text-decoration:none !important;" width=3D"24"><=
+/a> &nbsp; <a href=3D"http://elink.flexjobs.com/wf/click?upn=3DwfzAxuu2axL2=
+L-2FR833mPH8yy8C9Zji1U2XKIL9N5AU95KEwFi-2FqzvTQbB9n76LrRTLRrdqGMiMeIBZgnJ7r=
+It7CTPmfbCAj6XmVk806DJM-2BMNvt04msBPCkHFVHG-2FfrvhsWfaXjiXGHJUDoAnEWHdw-3D-=
+3D_95ipHO-2FHtfiEGxEkeDVC7m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kf=
+SdjFc-2BjMzk44lB-2FXkhGkz1GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHn=
+gmzcRLa5525yk2qHg7j8naGIdez5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7=
+C9uQhZQ2qWm4zBKHE21lTjLFxcpIZg8gbcMgLVn0PhbsidoTdzKmMoqdPDZyqa0ZKTgQv-2B5Yl=
+jsNUkBgX1z-2BLoYEhaXQmi-2F2JVDdhMurOIeDog6fuu0Vqa4pcLBK8nt2LFpoTPGe9-2BBt4T=
+rRfBDx4rNWkvTdAO5y1MAQ6-2F0oN4vhyARnnH8lVFJ8h99s1yw3Ysai0qWfE0Bh-2BHF8h-2BG=
+CKtbzYQZ53f2W4UyyBb5g5n-2FPk7gv9dEvN3zU5CJ97-2FyM110RePoaIt55-2F1wGBNbAibUH=
+Za8-3D" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;co=
+lor:#2a66b1;font-weight:normal;text-decoration:none !important;"><img alt=
+=3D"Instagram" height=3D"24" src=3D"https://s3.amazonaws.com/fjstatic/image=
+s/emails/icn-instagram2.png" style=3D"width:24px;height:auto;-ms-interpolat=
+ion-mode:bicubic;border-width:0;line-height:100%;outline-style:none;text-de=
+coration:none !important;" width=3D"24"></a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                            </td>
+                                        </tr>=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20
+                                    </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                        </tbody></table>
+
+=20=20=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    </td>
+                </tr>
+            </tbody></table>
+        </center>
+=20=20=20=20
+<img src=3D"http://elink.flexjobs.com/wf/open?upn=3D95ipHO-2FHtfiEGxEkeDVC7=
+m2cc8Z9r802-2B369f-2FNYKjnvl7M9dU2yvRVUBf9xKCq2kfSdjFc-2BjMzk44lB-2FXkhGkz1=
+GVtpX0CW4qR0lcFv28ocjNbiHQIrsvW4Q7u0hOrkXNOeM2GHngmzcRLa5525yk2qHg7j8naGIde=
+z5axYLTpZa-2Fclz92wtlIglIRIIIyvKDB9VelQ3HPdy-2FT7C9uQhZQ2qWm4zBKHE21lTjLFxc=
+qNYd7zH39NtUdIBz8IsFqKc8P3zMF8mOTSt06QkFu-2BQfwO3fYiVkRJNqDKcUSlOK0-2FZDWNm=
+mpamoNmOB8PS8MWf7fgF3tBFllz3gwGoqDf3YsbJQAnMVzu2RNuwRnndWEDABBJmSuT4ToiLuwJ=
+n7j2dEUGDlUIX5d60ruug1eXX6JY2YZTAZp8T-2BUqDoybP3ctSeBbndGIz5bVs0Likyfg02KHI=
+ctNrDpLGm0eteNvAj2UlpZk5PZex9Tj5dH-2BLDU-3D" alt=3D"" width=3D"1" height=3D=
+"1" border=3D"0" style=3D"height:1px !important;width:1px !important;border=
+-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;marg=
+in-right:0 !important;margin-left:0 !important;padding-top:0 !important;pad=
+ding-bottom:0 !important;padding-right:0 !important;padding-left:0 !importa=
+nt;"/>
+</body>
+</html>
+
+--1185b173ee65f911d4a48d916059561521f152e0b95eeac6ed7ccb0964ee--

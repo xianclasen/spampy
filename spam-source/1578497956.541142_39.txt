@@ -1,0 +1,1368 @@
+Return-Path: <SRS0=mA4Kg7=24=emsd2.com=bounce-904207-68-464017-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15683 invoked from network); 7 Jan 2020 23:13:58 -0000
+Received: (qmail 16285 invoked from network); 7 Jan 2020 23:13:58 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by 45.63.65.23 ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 23:13:58 -0000
+Received: (qmail 30985 invoked by uid 48516); 7 Jan 2020 23:13:46 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 4146 invoked from network); 7 Jan 2020 23:13:46 -0000
+Received: from emsd2.com (emsd2.com [173.236.20.192])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 07 Jan 2020 23:13:46 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dk; d=emsd2.com;
+ h=To:From:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding:
+ Sender:List-Unsubscribe:Message-ID;
+ i=hometechpublishing.activehosted.com@emsd2.com;
+ bh=TvNeq9ZHm294mcleVaMoz5xmd6nk6ZiDAKixV7sIsZk=;
+ b=0mYhInlioR1uygAmqFwbZzuNgknEJ11V0B3EUc9tCCOoJb6Yff6QM5VmkhjrAX1p3vOqGD7pqJ1V
+   Dp/2Q/j9Ud5vDjorqter52DZKUkEg6xXc8OhqVHi6bALg5WqnMraUi+3Zehr2GB8Oj2GqF3YAKev
+   OFn1j/Rgy+Wc2OHKHzg=
+Received: by emsd2.com id h2k8ai2lkoko for <bruce@untroubled.org>; Tue, 7 Jan 2020 17:13:45 -0600 (envelope-from <bounce-904207-68-464017-bruce=untroubled.org@emsd2.com>)
+To: <bruce@untroubled.org>
+From: "HomeTech Advantage estimating software"
+ <support@costestimator.com>
+Subject: Free Estimating Software purchase waived save $895
+Date: Tue, 07 Jan 2020 17:04:03 -0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-17030901655e150e6bb2e993.77747706_=_"
+Content-Transfer-Encoding: 7bit
+Sender: <hometechpublishing.activehosted.com@emsd2.com>
+X-Sender: <hometechpublishing.activehosted.com@emsd2.com>
+X-Report-Abuse: Please report abuse to abuse@activecampaign.com
+X-mid: YnJ1Y2VAdW50cm91YmxlZC5vcmcgLCBjNjggLCBtODgzICwgczEwMTc0
+Feedback-ID: 904207:activecampaign
+X-250ok-CID: 904207-68
+List-Unsubscribe: <mailto:unsubscribe-dc755cdc148e164189226be97843c85e-68-6a484184b36edc07941397252f2f06ed@emsd2.com>,
+ <https://hometechpublishing.acemlnd.com/box.php?nl=7&c=68&m=883&s=6a484184b36edc07941397252f2f06ed&funcml=unsub2&luha=1>
+Message-ID: <20200107231345.3503.1335664283.swift@hometechpublishing.activehosted.com>
+Content-Length: 89819
+
+
+--_=_swift-17030901655e150e6bb2e993.77747706_=_
+Content-Type: text/plain; charset=utf-8
+
+www.hometechonline.com 
+
+If you have ever had any version of HomeTech going back to 1995, call us
+at 800-240-8210 to get the latest version for just the cost of a regular
+renewal.
+
+SAVE $895 or more
+www.hometechonline.com 
+
+Our research team has just finished compiling the data for the JANUARY
+2020  LAMI Database. The material and labor pricing that we have
+gathered are specific for the zip codes where you work to ensure that
+you have the most accurate, up-to-date pricing. The new database is
+ready to be downloaded to your HomeTech software today!
+
+**For Current/Expired ADVANTAGE  Software Owners**
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=68A883A7A513 
+
+Even if you no longer have your software or the computer it was
+installed on,or if you do not know your serial number we can re-install
+it for you under this offer.
+Just call us at
+1-800-240-8210 
+
+**NORMALLY $895-**
+GET Advantage  for just the cost of a renewal and never pay $895 or
+more for a new system!!!
+
+**Good news**....If you ever had HomeTech Advantage estimating software,
+for a limited time only we are offering you a free 
+
+**upgrade to Advantage 7(an $895 value) FREE!!!!!!** That's right, you
+don't pay a penny for the software, only a renewal rate according to
+how many seat licenses you need. The renewal rate includes the latest
+2020 version for FREE, unlimited tech support, Free data recovery of
+your old  estimates and client information, as well as free transfer of
+your data into your brand new software on a new laptop or  PC.
+Call us at 800-240-8210 to get Advantage for FREE
+
+**If you are a new customer and need to purchase Advantage Estimating
+Software**
+
+**For New Customers**
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=68A883A7A514 
+
+**Or call us at 1-800-240-8210**
+
+Purchase software and get a **FREE COST BOOK**
+of your choice or 15% off your
+purchase.
+Must call 
+
+**800-240-8210** after purchasing software
+*Discount does not apply to payment plan option 
+
+**HomeTech ADVANTAGE**
+is an advanced unit cost estimating system that can produce quick,
+precise estimates, ready to present to your customer. You will have
+access to the most current pricing for building materials and labor in
+your local area, helping to ensure the estimates are as accurate as
+possible. Only HomeTech offers a database this comprehensive. This
+software is simple to use and integrates into your professional
+building/ remodeling company with ease.
+
+**Local Area Cost Data**
+
+For over 55 years HomeTech has provided contractors with the most
+reliable pricing data available. All data is local area specific, by zip
+code, and is not a national averaging model like other programs use. Our
+research staff contacts hundreds of your local suppliers to give
+pin-point accuracy in material costs. We track labor costs for over 250
+different areas of the U.S. and Canada so your rates will be competitive
+with other successful remodelers in your area.
+
+**What's Included With HomeTech Advantage**
+
+HomeTech comes complete with all 4 HomeTech Publishing databases
+containing over 15,000 line items!   
+
+* Remodeling & Renovation
+
+(flagship database)
+
+* Handyman
+
+* Kitchen & Bath
+
+* Housebuilders
+
+* Complete database with prices localized for your area by zip code
+covering all of the USA & Canada
+
+* Man hours per line item
+
+* Ability to create unique items and modify pricing
+
+* Full featured report writer and export capability
+
+* Link to QuickBookPro
+
+* Link to Chief Architect
+
+* Material list generator
+
+* Labor report generator
+
+* 30 Minute FREE training session
+
+* Toll-free telephone support
+
+* Automatic data recovery of previous estimates in case of computer
+crashes, theft or damages
+
+* Ability to adjust or hide mark-up
+
+* Automatic dimensioning capability and multiple room estimating
+
+* Pre-designed assemblies and custom built assemblies
+
+* And the list goes on... 
+
+**Once Inside Our Software**
+Our database is organized in simple to navigate phases; the way you
+would naturally move though a remodeling project.
+
+Here is a list of our first level phases:
+
+* PLANS & PERMITS
+
+* TEAR-OUT & DEMOLITION
+
+* EXCAVATION & GRADING
+
+* CONCRETE
+
+* MASONRY
+
+* FLOOR FRAMING
+
+* WALL FRAMING
+
+* ROOF FRAMING
+
+* ROOFING & FLASHING
+
+* EXTERIOR TRIM & DECKS
+
+* SIDING
+
+* EXTERIOR DOORS & TRIM
+
+* WINDOWS & TRIM
+
+* PLUMBING
+
+* HEATING & COOLING
+
+* ELECTRICAL
+
+* INSULATION
+
+* INTERIOR WALLS
+
+* CEILING COVERINGS
+
+* INTERIOR DOORS, TRIM & STAIRS
+
+* CABINETS & APPLIANCES
+
+* SPECIALTIES
+
+* FLOOR COVERING
+
+* PAINTING
+
+* CLEAN-UP
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=68A883A7A514 
+
+**Or call us at 1-800-240-8210**
+
+Purchase software and get a 
+
+**FREE COST BOOK** of your choice or 15% off your purchase.
+Must call 
+
+**800-240-8210** after purchasing software
+*Discount does not apply to payment plan option
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=68A883A7A519 
+
+ 
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=68A883A7A520 
+
+ 
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=68A883A7A521 
+
+ 
+
+https://hometechpublishing.acemlnd.com/lt.php?s=6a484184b36edc07941397252f2f06ed&i=68A883A7A512 
+
+ 
+
+mailto:support@costestimator.com 
+
+Thank You For Choosing HomeTech Publishing.
+800.240.8210
+www.hometechonline.com
+
+forward to a friend 
+
+**Copyright ©2020**
+
+unsubscribe from this list  | update subscription
+preferences 
+_________________
+
+Sent to bruce@untroubled.org
+
+Unsubscribe:
+http://hometechpublishing.acemlnd.com/proc.php?nl=7&c=68&m=883&s=6a484184b36edc07941397252f2f06ed&act=unsub
+
+HomeTech Systems LLC, 5850 waterloo road, #140, Columbia, MD 21045, United States
+--_=_swift-17030901655e150e6bb2e993.77747706_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html>=0A<head><!--[if !mso]><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><!--<![endif]--><meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3Dutf-8"><meta http-equiv=3D"Content-Langu=
+age" content=3D"en-us"><meta name=3D"format-detection" content=3D"telephone=
+=3Dno"><meta name=3D"format-detection" content=3D"date=3Dno"><meta name=3D"=
+format-detection" content=3D"address=3Dno"><meta name=3D"format-detection" =
+content=3D"email=3Dno"><style data-ac-keep=3D"true"> .ExternalClass { width=
+: 100%; background: inherit; background-color: inherit; } .ExternalClass p,=
+ .ExternalClass ul, .ExternalClass ol { Margin: 0; } .undoreset div p, .und=
+oreset p { margin-bottom: 20px; } div[class^=3D"aolmail_divbody"] { overflo=
+w: auto; } [owa] #ac-footer { padding: 20px 0px !important; background: inh=
+erit; background-color: inherit; } </style><style data-ac-keep=3D"true">=0A=
+@media only screen and (max-width: 600px) { /*-----------------------------=
+--------------------------------------------*\ Abandoned Cart widget \*----=
+--------------------------------------------------------------------*/ .td_=
+abandoned-cart img {display: block;padding-right: 0 !important;padding-bott=
+om: 0 !important;width: 100% !important;max-width: 100% !important;height: =
+auto !important;} body { padding: 0!important; font-size:1em!important; } *=
+ { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing:=
+ border-box; } *[class].divbody {-webkit-text-size-adjust:none !important; =
+width:auto !important;} *[class].td_picture img {width:auto !important;} *[=
+class].td_text { line-height: 110%; } *[class].td_button { width: auto; } /=
+* Collapse all block elements */ :not(.body) table { display: block!importa=
+nt; float:none!important; border-collapse:collapse !important; width:100% !=
+important; min-width:100% !important; clear:both!important; } :not(.body) t=
+head,=0A:not(.body) tbody, :not(.body) tr { display:block!important; float:=
+none!important; width:100% !important; } :not(.body) th, :not(.body) td, :n=
+ot(.body) p { display:block!important; float:none!important; width:100% !im=
+portant; clear:both!important; } /* Remove browser default styling for elem=
+ents */ ul, ol { margin-left: 20px; margin-bottom: 10px; margin-top: 10px; =
+-webkit-margin-before: 0; -webkit-margin-after: 0; -webkit-padding-start: 0=
+; } /* Set default height for spacer once collapse */ *[class].spacer { hei=
+ght: auto!important; } a[href^=3Ddate]{ color:inherit !important; text-deco=
+ration:none !important;} a[href^=3Dtelephone]{ color:inherit !important; te=
+xt-decoration:none !important;} a[href^=3Daddress]{ color:inherit !importan=
+t; text-decoration:none !important;} a[href^=3Demail]{ color:inherit !impor=
+tant; text-decoration:none !important;} /* Default table cell height */ td[=
+height=3D"12"]{height:12px!important;font-size:12px!important;line-height:1=
+2px!important;}=0Atd[height=3D"13"]{height:13px!important;font-size:13px!im=
+portant;line-height:13px!important;}=0Atd[height=3D"14"]{height:14px!import=
+ant;font-size:14px!important;line-height:14px!important;}=0Atd[height=3D"0"=
+]{height:0px!important;font-size:0px!important;line-height:0px!important;}=
+=0Atd[height=3D"11"]{height:11px!important;font-size:11px!important;line-he=
+ight:11px!important;} /*---------------------------------------------------=
+----------------------*\ Product Widget \*---------------------------------=
+----------------------------------------*/ .td_product > div { float: none =
+!important; width: 100% !important; margin-bottom: 20px !important; } .td_p=
+roduct > div img { width: 75% !important; } /* Default social icons */ *[cl=
+ass].ac-social-icon-16 {width:16px !important; height:16px !important;} *[c=
+lass].ac-social-icon-24 {width:24px !important; height:24px !important;} *[=
+class].ac-social-icon-28 {width:28px !important; height:28px !important;} *=
+[class].__ac_social_icons { margin-right: 0px !important; } }=0A</style><st=
+yle data-ac-keep=3D"true"> @media only screen and (max-width: 320px) { #lay=
+out-row1822 img { width: 100% !important; height: auto !important; max-widt=
+h: 200px !important; } #layout-row1823 .imgtext { width: 100% !important; h=
+eight: auto !important; max-width: 571px; } #layout-row1824 .break-line { w=
+idth: 95% !important; margin: auto !important; } #layout-row1831 .break-lin=
+e { width: 95% !important; margin: auto !important; } #layout-row1833 img {=
+ width: 100% !important; height: auto !important; max-width: 200px !importa=
+nt; } #layout-row1835 img { width: 100% !important; height: auto !important=
+; max-width: 200px !important; } #layout-row1836 .break-line { width: 95% !=
+important; margin: auto !important; } #layout-row1837 .break-line { width: =
+95% !important; margin: auto !important; } .td_rss .rss-item img.iphone_lar=
+ge_image { width: auto !important; } u + .body { display: table !important;=
+ width: 100vw !important; min-width: 100vw !important; } u + .body=0Atable =
+{ display: table !important; width: 100% !important; min-width: 100% !impor=
+tant; } u + .body td { display: block !important; width: 100% !important; m=
+in-width: 100% !important; } u + .body img { display: inline-block !importa=
+nt; margin: auto !important; width: auto !important; vertical-align: bottom=
+ !important; } u + .body center { display: block !important; margin: auto !=
+important; width: 100% !important; min-width: 100% !important; text-align: =
+center !important; } u + .body table._ac_social_table, u + .body table._ac_=
+social_table td, u + .body table._ac_social_table div, u + .body table._ac_=
+social_table a { display: inline-block !important; margin: auto !important;=
+ width: auto !important; min-width: auto !important; text-align: center !im=
+portant; } u + .body table._ac_social_table img { display: inline-block !im=
+portant; margin: auto !important; width: 32px !important; min-width: 32px !=
+important; max-width: 32px !important; }=0A}=0A@media only screen and (max-=
+width: 375px) { #layout-row1822 img { width: 100% !important; height: auto =
+!important; max-width: 200px !important; } #layout-row1823 .imgtext { width=
+: 100% !important; height: auto !important; max-width: 571px; } #layout-row=
+1824 .break-line { width: 95% !important; margin: auto !important; } #layou=
+t-row1831 .break-line { width: 95% !important; margin: auto !important; } #=
+layout-row1833 img { width: 100% !important; height: auto !important; max-w=
+idth: 200px !important; } #layout-row1835 img { width: 100% !important; hei=
+ght: auto !important; max-width: 200px !important; } #layout-row1836 .break=
+-line { width: 95% !important; margin: auto !important; } #layout-row1837 .=
+break-line { width: 95% !important; margin: auto !important; } .td_rss .rss=
+-item img.iphone_large_image { width: auto !important; } u + .body { displa=
+y: table !important; width: 100vw !important; min-width: 100vw !important; =
+} u + .body table { display: table !important;=0Awidth: 100% !important; mi=
+n-width: 100% !important; } u + .body td { display: block !important; width=
+: 100% !important; min-width: 100% !important; } u + .body img { display: i=
+nline-block !important; margin: auto !important; width: auto !important; ve=
+rtical-align: bottom !important; } u + .body center { display: block !impor=
+tant; margin: auto !important; width: 100% !important; min-width: 100% !imp=
+ortant; text-align: center !important; } u + .body table._ac_social_table, =
+u + .body table._ac_social_table td, u + .body table._ac_social_table div, =
+u + .body table._ac_social_table a { display: inline-block !important; marg=
+in: auto !important; width: auto !important; min-width: auto !important; te=
+xt-align: center !important; } u + .body table._ac_social_table img { displ=
+ay: inline-block !important; margin: auto !important; width: 32px !importan=
+t; min-width: 32px !important; max-width: 32px !important; }=0A}=0A@media o=
+nly screen and (max-width: 414px) { #layout-row1822 img { width: 100% !impo=
+rtant; height: auto !important; max-width: 200px !important; } #layout-row1=
+823 .imgtext { width: 100% !important; height: auto !important; max-width: =
+571px; } #layout-row1824 .break-line { width: 95% !important; margin: auto =
+!important; } #layout-row1831 .break-line { width: 95% !important; margin: =
+auto !important; } #layout-row1833 img { width: 100% !important; height: au=
+to !important; max-width: 200px !important; } #layout-row1835 img { width: =
+100% !important; height: auto !important; max-width: 200px !important; } #l=
+ayout-row1836 .break-line { width: 95% !important; margin: auto !important;=
+ } #layout-row1837 .break-line { width: 95% !important; margin: auto !impor=
+tant; } .td_rss .rss-item img.iphone_large_image { width: auto !important; =
+} u + .body { display: table !important; width: 100vw !important; min-width=
+: 100vw !important; } u + .body table { display: table !important;=0Awidth:=
+ 100% !important; min-width: 100% !important; } u + .body td { display: blo=
+ck !important; width: 100% !important; min-width: 100% !important; } u + .b=
+ody img { display: inline-block !important; margin: auto !important; width:=
+ auto !important; vertical-align: bottom !important; } u + .body center { d=
+isplay: block !important; margin: auto !important; width: 100% !important; =
+min-width: 100% !important; text-align: center !important; } u + .body tabl=
+e._ac_social_table, u + .body table._ac_social_table td, u + .body table._a=
+c_social_table div, u + .body table._ac_social_table a { display: inline-bl=
+ock !important; margin: auto !important; width: auto !important; min-width:=
+ auto !important; text-align: center !important; } u + .body table._ac_soci=
+al_table img { display: inline-block !important; margin: auto !important; w=
+idth: 32px !important; min-width: 32px !important; max-width: 32px !importa=
+nt; }=0A}=0A@media only screen and (max-width: 667px) { #layout-row1822 img=
+ { width: 100% !important; height: auto !important; max-width: 200px !impor=
+tant; } #layout-row1823 .imgtext { width: 100% !important; height: auto !im=
+portant; max-width: 571px; } #layout-row1824 .break-line { width: 95% !impo=
+rtant; margin: auto !important; } #layout-row1831 .break-line { width: 95% =
+!important; margin: auto !important; } #layout-row1833 img { width: 100% !i=
+mportant; height: auto !important; max-width: 200px !important; } #layout-r=
+ow1835 img { width: 100% !important; height: auto !important; max-width: 20=
+0px !important; } #layout-row1836 .break-line { width: 95% !important; marg=
+in: auto !important; } #layout-row1837 .break-line { width: 95% !important;=
+ margin: auto !important; } .td_rss .rss-item img.iphone_large_image { widt=
+h: auto !important; } u + .body { display: table !important; width: 100vw !=
+important; min-width: 100vw !important; } u + .body table { display: table =
+!important;=0Awidth: 100% !important; min-width: 100% !important; } u + .bo=
+dy td { display: block !important; width: 100% !important; min-width: 100% =
+!important; } u + .body img { display: inline-block !important; margin: aut=
+o !important; width: auto !important; vertical-align: bottom !important; } =
+u + .body center { display: block !important; margin: auto !important; widt=
+h: 100% !important; min-width: 100% !important; text-align: center !importa=
+nt; } u + .body table._ac_social_table, u + .body table._ac_social_table td=
+, u + .body table._ac_social_table div, u + .body table._ac_social_table a =
+{ display: inline-block !important; margin: auto !important; width: auto !i=
+mportant; min-width: auto !important; text-align: center !important; } u + =
+.body table._ac_social_table img { display: inline-block !important; margin=
+: auto !important; width: 32px !important; min-width: 32px !important; max-=
+width: 32px !important; }=0A} </style><!--[if !mso]><!-- webfonts --><!--<!=
+[endif]--><!--[if lt mso 12]> <![endif]--></head><body id=3D"ac-designer" c=
+lass=3D"body" style=3D"font-family: Arial; line-height: 1.1; margin: 0px; b=
+ackground-color: #aaaaaa; width: 100%; text-align: center;">=09=09<div styl=
+e=3D"display:none; padding:0; height:1px; font-size:1px; background-color:i=
+nherit !important; color:inherit !important; line-height:1px; mso-hide:all;=
+">=0A=09=09=09Even if you dont have the program - call us and we can instal=
+l for you today.=0A=09=09</div>=0A<div class=3D"divbody" style=3D"margin: 0=
+px; outline: none; padding: 0px; color: #000000; font-family: arial; line-h=
+eight: 1.1; width: 100%; background-color: #aaaaaa; background: #aaaaaa; te=
+xt-align: center;"><table class=3D"template-table" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=3D"font-size: =
+14px; min-width: auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; backgr=
+ound-color: #aaaaaa; background: #aaaaaa;"><tr><td align=3D"center" valign=
+=3D"top" width=3D"100%"><table class=3D"template-table" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" bgcolor=3D"#aaaaaa" style=3D"fo=
+nt-size: 14px; min-width: auto; mso-table-lspace: 0pt; mso-table-rspace: 0p=
+t; max-width: 600px;"><tr><td id=3D"layout_table_873d59291b085673a056bd443f=
+c27f862250ce44" valign=3D"top" align=3D"center" width=3D"600" style=3D"back=
+ground-color: #ffffff;"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" class=3D"layout layout-table root-table" width=3D"600" style=3D"font=
+-size: 14px; min-width:=0A100%; mso-table-lspace: 0pt; mso-table-rspace: 0p=
+t; background-color: #ffffff;"><tr style=3D"background-color: #ffffff;"><td=
+ id=3D"layout-row-margin1823" valign=3D"top" style=3D"padding: 0px; backgro=
+und-color: #ffffff;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspac=
+e: 0pt; mso-table-rspace: 0pt; border-collapse: initial !important;"><tr id=
+=3D"layout-row1823" class=3D"layout layout-row widget _widget_text style182=
+3" style=3D"margin: 0; padding: 0; background-color: #ffffff;"><td id=3D"la=
+yout-row-padding1823" valign=3D"top" style=3D"background-color: #ffffff; pa=
+dding: 15px;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt;"><tr><td id=3D"text_div1608" class=3D"td_text td_bl=
+ock" valign=3D"top" align=3D"left" width=3D"570" style=3D"margin: 0; outlin=
+e: none; padding: 0; color: inherit; font-size: 12px; font-weight: inherit;=
+=0Aline-height: 1; text-decoration: inherit; font-family: Arial;"> <div sty=
+le=3D"margin: 0; outline: none; padding: 0;"><div class=3D"droparea" conten=
+teditable=3D"false" style=3D"margin: 0; outline: none; padding: 0;"><table =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"left" style=3D"font-size: 14px=
+; min-width: auto; mso-table-lspace: 0pt; mso-table-rspace: 10px; display: =
+table;"><tr><td><a href=3D"www.hometechonline.com" style=3D"margin: 0; outl=
+ine: none; padding: 0; color: #045fb4; text-decoration: underline;"><img st=
+yle=3D"border: none; width: 571px; margin: 0 10px 0 0; resize: none; positi=
+on: static; zoom: 1; display: block; top: auto; left: auto;" class=3D"imgte=
+xt" src=3D"http://hometechpublishing.img-us6.com/admin/advantagefree.jpg" a=
+lign=3D"left" width=3D"571"></a></td>=0A</tr>=0A</table>=0A</div>=0A<div st=
+yle=3D"margin: 0; outline: none; padding: 0;"><br></div>=0A<div style=3D"ma=
+rgin: 0; outline: none; padding: 0;"><br></div>=0A</div>=0A</td>=0A</tr>=0A=
+</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr style=3D"backgrou=
+nd-color: #ffffff;"><td id=3D"layout-row-margin1827" valign=3D"top" style=
+=3D"padding: 0; background-color: #ffffff;"><table width=3D"100%" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width=
+: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: init=
+ial !important;"><tr id=3D"layout-row1827" class=3D"layout layout-row widge=
+t _widget_text style1827" style=3D"margin: 0; padding: 0;"><td id=3D"layout=
+-row-padding1827" valign=3D"top" style=3D"padding: 21px;"><table width=3D"1=
+00%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 1=
+4px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><t=
+d id=3D"text_div1612" class=3D"td_text td_block" valign=3D"top" align=3D"le=
+ft" width=3D"558" style=3D"line-height: 150%; margin: 0; outline: none; pad=
+ding: 0; color: inherit; font-size: 12px; font-weight: inherit; line-height=
+: 1.5; text-decoration: inherit; font-family: Arial; mso-line-height-rule: =
+exactly;"> <div style=3D"line-height:=0A150%; margin: 0; outline: none; pad=
+ding: 0; line-height: 1.5; mso-line-height-rule: exactly;" data-line-height=
+=3D"1.5"> <div style=3D"margin: 0; outline: none; padding: 0;"> <p style=3D=
+"margin: 0; outline: none; padding: 0; color: inherit; font-size: 12px; fon=
+t-weight: inherit; line-height: inherit; text-decoration: inherit;"></p>=0A=
+<div style=3D"margin: 0; outline: none; padding: 0; font-size: 15px; font-s=
+tyle: normal; font-weight: 400; text-align: center; color: #555555;"><stron=
+g class=3D"" style=3D"margin: 0; outline: none; padding: 0; font-family: He=
+lvetica, Arial, sans-serif; font-style: normal; text-decoration: inherit; f=
+ont-size: 30px; color: #000080;"><strong style=3D"margin: 0; outline: none;=
+ padding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 30px; fo=
+nt-style: normal;"></strong></strong></div>=0A<div style=3D"margin: 0; outl=
+ine: none; padding: 0; font-family: arial; font-style: normal; font-weight:=
+ 400; text-align: center;"><span style=3D"color: #ff8c00; font-size: 22px; =
+font-weight: inherit; line-height: inherit; text-decoration: inherit;">If y=
+ou have ever had any version of HomeTech going back to 1995, call us at 800=
+-240-8210 to get the latest version for just the cost of a regular renewal.=
+</span><br style=3D"color: #ff8c00;"><br style=3D"color: #ff8c00;"><span st=
+yle=3D"color: #ff8c00; font-size: 22px; font-weight: inherit; line-height: =
+inherit; text-decoration: inherit;">SAVE $895 or more</span><br><a href=3D"=
+https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252=
+f2f06ed&i=3D68A883A7A512" data-ac-default-color=3D"1" style=3D"margin: 0; o=
+utline: none; padding: 0; color: #045fb4; text-decoration: underline; font-=
+size: 29px;" target=3D"_blank"><span style=3D"color: ; font-size: inherit; =
+font-weight: inherit; line-height: inherit; text-decoration:=0Ainherit;">ww=
+w.hometechonline.com</span></a><br><br></div>=0A<span style=3D"color: inher=
+it; font-size: 15px; font-weight: inherit; line-height: inherit; text-decor=
+ation: inherit; font-family: Helvetica, Arial, sans-serif;" class=3D""><br =
+style=3D""><span style=3D"color: #000000; font-size: inherit; font-weight: =
+400; line-height: inherit; text-decoration: inherit; font-style: normal;">O=
+ur research team has just finished compiling the data for the JANUARY 2020=
+=C2=A0 LAMI Database. The material and labor pricing that we have gathered =
+are specific for the zip codes where you work to ensure that you have the m=
+ost accurate, up-to-date pricing. The new database is ready to be downloade=
+d to your HomeTech software today!</span><br style=3D""><span style=3D"colo=
+r: #000000; font-size: inherit; font-weight: 400; line-height: inherit; tex=
+t-decoration: inherit; font-style: normal;"> </span></span><div style=3D"ma=
+rgin: 0; outline: none; padding: 0; font-size: 15px; color: #555555; font-s=
+tyle: normal; font-weight: 400; text-align: center;"><strong=0Astyle=3D"mar=
+gin: 0; outline: none; padding: 0; font-family: Helvetica, Arial, sans-seri=
+f; color: #555555;" class=3D"">For Current/Expired ADVANTAGE =C2=A0Software=
+ Owners</strong></div>=0A<div style=3D"margin: 0; outline: none; padding: 0=
+; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-style: n=
+ormal; font-weight: 400; text-align: center;"></div>=0A<p style=3D"margin: =
+0; outline: none; padding: 0; color: inherit; font-size: 12px; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit;"></p>=0A </div>=
+=0A </div>=0A<!--[if (gte mso 12)&(lte mso 15) ]>=0A<style data-ac-keep=3D"=
+true" data-ac-inline=3D"false"> #text_div1612, #text_div1612 div { line-hei=
+ght: 150% !important; };=0A</style>=0A<![endif]--></td>=0A</tr>=0A</table>=
+=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr style=3D"background-color=
+: #ffffff;"><td id=3D"layout-row-margin1822" valign=3D"top" style=3D"paddin=
+g: 0; background-color: #ffffff;"><table width=3D"100%" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: initial !impor=
+tant;"><tr id=3D"layout-row1822" class=3D"layout layout-row widget _widget_=
+picture style1822" align=3D"center" style=3D"background-color: #ffffff;"><t=
+d id=3D"layout-row-padding1822" valign=3D"top" style=3D"background-color: #=
+ffffff; padding: 0px;"><table width=3D"100%" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt;"><tr><td class=3D"image-td" align=3D"cente=
+r" valign=3D"top" width=3D"600"><a href=3D"https://hometechpublishing.aceml=
+nd.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D68A883A7A513" style=
+=3D"margin: 0; outline: none; padding: 0; color: #045fb4; display: block; m=
+in-width: 100%;"><img=0Asrc=3D"https://hometechpublishing.imgus11.com/publi=
+c//e928b5037073495824a67eeeb17163fa.png?r=3D925301030" alt=3D"" width=3D"20=
+0" style=3D"border: none; display: block; outline: none; width: 200px; opac=
+ity: 1; max-width: 100%;"></a></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</=
+table>=0A</td>=0A</tr>=0A<tr style=3D"background-color: #ffffff;"><td id=3D=
+"layout-row-margin1829" valign=3D"top" style=3D"padding: 0; background-colo=
+r: #ffffff;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; border-collapse: initial !important;"><tr id=3D"layo=
+ut-row1829" class=3D"layout layout-row widget _widget_text style1829" style=
+=3D"margin: 0; padding: 0;"><td id=3D"layout-row-padding1829" valign=3D"top=
+" style=3D"padding: 0px;"><table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"text_div1614" class=3D"t=
+d_text td_block" valign=3D"top" align=3D"left" width=3D"600" style=3D"line-=
+height: 150%; margin: 0; outline: none; padding: 0; color: inherit; font-si=
+ze: 12px; font-weight: inherit; line-height: 1.5; text-decoration: inherit;=
+ font-family: Arial; mso-line-height-rule: exactly;"> <div style=3D"line-he=
+ight:=0A150%; margin: 0; outline: none; padding: 0; font-size: 12px; line-h=
+eight: 1.5; mso-line-height-rule: exactly;" data-line-height=3D"1.5"> <div =
+style=3D"margin: 0; outline: none; padding: 0;"> <p style=3D"margin: 0; out=
+line: none; padding: 0; color: inherit; font-size: inherit; font-weight: in=
+herit; line-height: inherit; text-decoration: inherit;"></p>=0A<div style=
+=3D"margin: 0; outline: none; padding: 0; font-size: 15px; font-style: norm=
+al; font-weight: 400; text-align: center; color: #555555;"><strong class=3D=
+"" style=3D"margin: 0; outline: none; padding: 0; font-family: Helvetica, A=
+rial, sans-serif; font-style: normal; text-decoration: inherit; font-size: =
+30px; color: #000080;"><strong style=3D"margin: 0; outline: none; padding: =
+0; font-family: Helvetica, Arial, sans-serif; font-size: 30px; font-style: =
+normal;"></strong></strong></div>=0A<div style=3D"margin: 0; outline: none;=
+ padding: 0; color: #ff8c00; font-family: arial; font-size: 22px; font-styl=
+e: normal; font-weight: 400; text-align: center;"><span style=3D"color: #00=
+0000; font-size: 15px; font-weight: 400; line-height: inherit; text-decorat=
+ion: inherit; text-align: inherit; font-family: arial; font-style: normal;"=
+><span style=3D"color: #045fb4; font-size: inherit; font-weight: inherit; l=
+ine-height: inherit; text-decoration: inherit;" class=3D"">Even if you no l=
+onger have your software or the computer it was installed on,or if you do n=
+ot know your serial number we can re-install it for you under this offer.</=
+span><br>Just call us at<br> 1-800-240-8210 </span></div>=0A<div style=3D"m=
+argin: 0; outline: none; padding: 0; font-family: Helvetica, Arial, sans-se=
+rif; font-size: 12px; font-style: normal; font-weight: 400; text-align: cen=
+ter;"></div>=0A<p style=3D"margin: 0; outline: none; padding: 0; color: inh=
+erit; font-size: inherit; font-weight: inherit; line-height: inherit; text-=
+decoration: inherit;"></p>=0A </div>=0A </div>=0A<!--[if (gte mso 12)&(lte =
+mso 15) ]>=0A<style data-ac-keep=3D"true" data-ac-inline=3D"false"> #text_d=
+iv1614, #text_div1614 div { line-height: 150% !important; };=0A</style>=0A<=
+![endif]--></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</=
+tr>=0A<tr style=3D"background-color: #ffffff;"><td id=3D"layout-row-margin1=
+824" valign=3D"top" style=3D"padding: 0; background-color: #ffffff;"><table=
+ width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"f=
+ont-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0=
+pt; border-collapse: initial !important;"><tr id=3D"layout-row1824" class=
+=3D"layout layout-row widget _widget_break style1824" style=3D"background-c=
+olor: #aaaaaa;"><td id=3D"layout-row-padding1824" valign=3D"top" style=3D"l=
+ine-height: 0; mso-line-height-rule: exactly; background-color: #aaaaaa; pa=
+dding: 0;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; border-collapse: collapse; line-height: 0; mso-line-he=
+ight-rule: exactly;"><tr><td height=3D"24" style=3D"line-height: 0; mso-lin=
+e-height-rule: exactly;"></td>=0A</tr>=0A<tr><td align=3D"center" height=3D=
+"1" width=3D"600" style=3D"line-height: 0; mso-line-height-rule: exactly;">=
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" h=
+eight=3D"1" width=3D"570" style=3D"font-size: 14px; min-width: auto!importa=
+nt; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse=
+; line-height: 0; mso-line-height-rule: exactly; width: 95%; max-width: 95%=
+;"><tr><td class=3D"break-line" bgcolor=3D"#e0f07a" height=3D"1" width=3D"5=
+70" style=3D"line-height: 1px; mso-line-height-rule: exactly; height: 1px; =
+width: 570px; background-color: #e0f07a;"> </td>=0A </tr>=0A</table>=0A</td=
+>=0A </tr>=0A<tr><td height=3D"24" style=3D"line-height: 0; mso-line-height=
+-rule: exactly;"></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td=
+>=0A</tr>=0A<tr style=3D"background-color: #ffffff;"><td id=3D"layout-row-m=
+argin1830" valign=3D"top" style=3D"padding: 0; background-color: #ffffff;">=
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; border-collapse: initial !important;"><tr id=3D"layout-row1830" c=
+lass=3D"layout layout-row widget _widget_text style1830" style=3D"margin: 0=
+; padding: 0;"><td id=3D"layout-row-padding1830" valign=3D"top" style=3D"pa=
+dding: 21px;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt;"><tr><td id=3D"text_div1615" class=3D"td_text td_bl=
+ock" valign=3D"top" align=3D"left" width=3D"558" style=3D"line-height: 150%=
+; margin: 0; outline: none; padding: 0; color: inherit; font-size: 12px; fo=
+nt-weight: inherit; line-height: 1.5; text-decoration: inherit; font-family=
+: Arial; mso-line-height-rule: exactly;"> <div style=3D"line-height:=0A150%=
+; margin: 0; outline: none; padding: 0; font-size: 12px; line-height: 1.5; =
+mso-line-height-rule: exactly;" data-line-height=3D"1.5"> <div style=3D"mar=
+gin: 0; outline: none; padding: 0;"> <p style=3D"margin: 0; outline: none; =
+padding: 0; color: inherit; font-size: inherit; font-weight: inherit; line-=
+height: inherit; text-decoration: inherit;"></p>=0A<div style=3D"margin: 0;=
+ outline: none; padding: 0; font-size: 15px; font-style: normal; font-weigh=
+t: 400; text-align: center; color: #555555;"><strong class=3D"" style=3D"ma=
+rgin: 0; outline: none; padding: 0; font-family: Helvetica, Arial, sans-ser=
+if; font-style: normal; text-decoration: inherit; font-size: 30px; color: #=
+000080;"><strong style=3D"margin: 0; outline: none; padding: 0; font-family=
+: Helvetica, Arial, sans-serif; font-size: 30px; font-style: normal;"></str=
+ong></strong></div>=0A<div style=3D"margin: 0; outline: none; padding: 0; c=
+olor: #ff8c00; font-family: arial; font-size: 22px; font-style: normal; fon=
+t-weight: 400; text-align: center;"></div>=0A<br><div style=3D"margin: 0; o=
+utline: none; padding: 0; text-align: center;"><strong style=3D"margin: 0; =
+outline: none; padding: 0; color: #ff0000; font-size: 17px;">NORMALLY $895-=
+ <br style=3D"color: #ff0000;"></strong><br><span style=3D"color: #0000ff; =
+font-size: 15px; font-weight: inherit; line-height: inherit; text-decoratio=
+n: inherit;" class=3D"">GET Advantage=C2=A0 for just the cost of a renewal =
+and never pay $895 or more for a new system!!!</span></div>=0A<span style=
+=3D"color: #606060; font-size: 15px; font-weight: inherit; line-height: inh=
+erit; text-decoration: inherit;" class=3D""><br style=3D"color: #606060;"><=
+strong style=3D"margin: 0; outline: none; padding: 0; color: #606060;">Good=
+ news</strong>....If you ever had HomeTech Advantage estimating software, f=
+or a limited time only we are offering you a free <strong style=3D"margin: =
+0; outline: none; padding: 0; color: #606060;">upgrade to Advantage 7(an $8=
+95 value) FREE!!!!!!</strong> That=E2=80=99s right, you don=E2=80=99t pay a=
+ penny for the software, only a renewal rate according to how many seat lic=
+enses you need. The renewal rate includes the latest 2020 version for FREE,=
+ unlimited tech support, Free data recovery of your old=C2=A0 estimates and=
+ client information, as well as free transfer of your data into your brand =
+new software on a new laptop or =C2=A0PC.</span><div style=3D"margin: 0; ou=
+tline: none; padding: 0; text-align: center; font-size: 25px;"><br><strong =
+style=3D"margin: 0; outline:=0Anone; padding: 0;"><span style=3D"color: #00=
+0000; font-size: inherit; font-weight: inherit; line-height: inherit; text-=
+decoration: inherit;" class=3D"">Call us at 800-240-8210 to get Advantage f=
+or FREE</span></strong></div>=0A<div style=3D"margin: 0; outline: none; pad=
+ding: 0; color: #555555; font-size: 15px; font-style: normal; font-weight: =
+400; text-align: center;"><strong style=3D"margin: 0; outline: none; paddin=
+g: 0; font-family: Helvetica, Arial, sans-serif; color: #555555;" class=3D"=
+"></strong></div>=0A<div style=3D"margin: 0; outline: none; padding: 0; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal=
+; font-weight: 400; text-align: center;"></div>=0A<p style=3D"margin: 0; ou=
+tline: none; padding: 0; color: inherit; font-size: inherit; font-weight: i=
+nherit; line-height: inherit; text-decoration: inherit;"></p>=0A </div>=0A =
+</div>=0A<!--[if (gte mso 12)&(lte mso 15) ]>=0A<style data-ac-keep=3D"true=
+" data-ac-inline=3D"false"> #text_div1615, #text_div1615 div { line-height:=
+ 150% !important; };=0A</style>=0A<![endif]--></td>=0A</tr>=0A</table>=0A</=
+td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr style=3D"background-color: #ff=
+ffff;"><td id=3D"layout-row-margin1836" valign=3D"top" style=3D"padding: 0;=
+ background-color: #ffffff;"><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-tab=
+le-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: initial !important;=
+"><tr id=3D"layout-row1836" class=3D"layout layout-row widget _widget_break=
+ style1836" style=3D"background-color: #aaaaaa;"><td id=3D"layout-row-paddi=
+ng1836" valign=3D"top" style=3D"line-height: 0; mso-line-height-rule: exact=
+ly; background-color: #aaaaaa; padding: 0;"><table width=3D"100%" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width=
+: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: coll=
+apse; line-height: 0; mso-line-height-rule: exactly;"><tr><td height=3D"24"=
+ style=3D"line-height: 0; mso-line-height-rule: exactly;"></td>=0A</tr>=0A<=
+tr><td align=3D"center" height=3D"1" width=3D"600" style=3D"line-height: 0;=
+ mso-line-height-rule: exactly;"> <table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" height=3D"1" width=3D"570" style=3D"font-si=
+ze: 14px; min-width: auto!important; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; border-collapse: collapse; line-height: 0; mso-line-height-rule: ex=
+actly; width: 95%; max-width: 95%;"><tr><td class=3D"break-line" bgcolor=3D=
+"#e0f07a" height=3D"1" width=3D"570" style=3D"line-height: 1px; mso-line-he=
+ight-rule: exactly; height: 1px; width: 570px; background-color: #e0f07a;">=
+ </td>=0A </tr>=0A</table>=0A</td>=0A </tr>=0A<tr><td height=3D"24" style=
+=3D"line-height: 0; mso-line-height-rule: exactly;"></td>=0A</tr>=0A</table=
+>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr style=3D"background-colo=
+r: #ffffff;"><td id=3D"layout-row-margin1832" valign=3D"top" style=3D"paddi=
+ng: 0; background-color: #ffffff;"><table width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: initial !impo=
+rtant;"><tr id=3D"layout-row1832" class=3D"layout layout-row widget _widget=
+_text style1832" style=3D"margin: 0; padding: 0;"><td id=3D"layout-row-padd=
+ing1832" valign=3D"top" style=3D"padding: 21px 21px 5px 21px;"><table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-si=
+ze: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><=
+tr><td id=3D"text_div1617" class=3D"td_text td_block" valign=3D"top" align=
+=3D"left" width=3D"558" style=3D"line-height: 150%; margin: 0; outline: non=
+e; padding: 0; color: inherit; font-size: 12px; font-weight: inherit; line-=
+height: 1.5; text-decoration: inherit; font-family: Arial; mso-line-height-=
+rule: exactly;"> <div=0Astyle=3D"line-height: 150%; margin: 0; outline: non=
+e; padding: 0; line-height: 1.5; mso-line-height-rule: exactly;" data-line-=
+height=3D"1.5"> <div style=3D"margin: 0; outline: none; padding: 0;"> <p st=
+yle=3D"margin: 0; outline: none; padding: 0; color: inherit; font-size: 12p=
+x; font-weight: inherit; line-height: inherit; text-decoration: inherit;"><=
+/p>=0A<div style=3D"margin: 0; outline: none; padding: 0; font-size: 18px; =
+font-style: normal; font-weight: 400; text-align: center; color: #ff0000;">=
+<strong class=3D"" style=3D"margin: 0; outline: none; padding: 0; font-fami=
+ly: Helvetica, Arial, sans-serif; font-style: normal; text-decoration: inhe=
+rit; color: #ff0000;"><strong style=3D"margin: 0; outline: none; padding: 0=
+; font-family: Helvetica, Arial, sans-serif; font-style: normal; color: #ff=
+0000;"></strong></strong></div>=0A<div style=3D"margin: 0; outline: none; p=
+adding: 0; font-size: 22px; color: #ff8c00; font-family: arial; font-style:=
+ normal; font-weight: 400; text-align: center;"></div>=0A<div style=3D"marg=
+in: 0; outline: none; padding: 0; font-size: 18px; text-align: center; colo=
+r: #ff0000;"><strong style=3D"margin: 0; outline: none; padding: 0; color: =
+#ff0000; text-decoration: inherit; font-style: normal; text-align: inherit;=
+" class=3D"">If you are a new customer and need to purchase Advantage Estim=
+ating Software</strong></div>=0A<div style=3D"margin: 0; outline: none; pad=
+ding: 0; text-align: center;"><br></div>=0A<strong style=3D"margin: 0; outl=
+ine: none; padding: 0; font-size: 15px; color: #606060; font-style: normal;=
+"><div style=3D"margin: 0; outline: none; padding: 0; text-align: center; c=
+olor: #606060;"><strong style=3D"margin: 0; outline: none; padding: 0; text=
+-decoration: inherit; text-align: inherit; font-style: normal; font-family:=
+ Helvetica, Arial, sans-serif; color: #606060;" class=3D"">For New Customer=
+s</strong></div>=0A</strong><div style=3D"margin: 0; outline: none; padding=
+: 0; font-size: 25px; text-align: center;"><strong style=3D"margin: 0; outl=
+ine: none; padding: 0;"></strong></div>=0A<div style=3D"margin: 0; outline:=
+ none; padding: 0; font-size: 15px; color: #555555; font-style: normal; fon=
+t-weight: 400; text-align: center;"><strong style=3D"margin: 0; outline: no=
+ne; padding: 0; font-family: Helvetica, Arial, sans-serif; color: #555555;"=
+ class=3D""></strong></div>=0A<div style=3D"margin: 0; outline: none; paddi=
+ng: 0; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-sty=
+le: normal; font-weight: 400; text-align: center;"></div>=0A<p style=3D"mar=
+gin: 0; outline: none; padding: 0; color: inherit; font-size: 12px; font-we=
+ight: inherit; line-height: inherit; text-decoration: inherit;"></p>=0A </d=
+iv>=0A </div>=0A<!--[if (gte mso 12)&(lte mso 15) ]>=0A<style data-ac-keep=
+=3D"true" data-ac-inline=3D"false"> #text_div1617, #text_div1617 div { line=
+-height: 150% !important; };=0A</style>=0A<![endif]--></td>=0A</tr>=0A</tab=
+le>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr style=3D"background-co=
+lor: #ffffff;"><td id=3D"layout-row-margin1833" valign=3D"top" style=3D"pad=
+ding: 0; background-color: #ffffff;"><table width=3D"100%" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%;=
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: initial !im=
+portant;"><tr id=3D"layout-row1833" class=3D"layout layout-row widget _widg=
+et_picture style1833" align=3D"center" style=3D"background-color: #ffffff;"=
+><td id=3D"layout-row-padding1833" valign=3D"top" style=3D"background-color=
+: #ffffff; padding: 0px;"><table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt;"><tr><td class=3D"image-td" align=3D"ce=
+nter" valign=3D"top" width=3D"600"><a href=3D"https://hometechpublishing.ac=
+emlnd.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D68A883A7A514" sty=
+le=3D"margin: 0; outline: none; padding: 0; color: #045fb4; display: block;=
+ min-width: 100%;"><img=0Asrc=3D"https://hometechpublishing.imgus11.com/pub=
+lic//4515ea3e853b2913ceeae3e47735e902.png?r=3D1777772705" alt=3D"" width=3D=
+"200" style=3D"border: none; display: block; outline: none; width: 200px; o=
+pacity: 1; max-width: 100%;"></a></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=
+=0A</table>=0A</td>=0A</tr>=0A<tr style=3D"background-color: #ffffff;"><td =
+id=3D"layout-row-margin1834" valign=3D"top" style=3D"padding: 0; background=
+-color: #ffffff;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; border-collapse: initial !important;"><tr id=3D=
+"layout-row1834" class=3D"layout layout-row widget _widget_text style1834" =
+style=3D"margin: 0; padding: 0;"><td id=3D"layout-row-padding1834" valign=
+=3D"top" style=3D"padding: 21px 21px 5px 21px;"><table width=3D"100%" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-w=
+idth: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"te=
+xt_div1619" class=3D"td_text td_block" valign=3D"top" align=3D"left" width=
+=3D"558" style=3D"line-height: 150%; margin: 0; outline: none; padding: 0; =
+color: inherit; font-size: 12px; font-weight: inherit; line-height: 1.5; te=
+xt-decoration: inherit; font-family: Arial; mso-line-height-rule: exactly;"=
+> <div=0Astyle=3D"line-height: 150%; margin: 0; outline: none; padding: 0; =
+line-height: 1.5; mso-line-height-rule: exactly;" data-line-height=3D"1.5">=
+ <div style=3D"margin: 0; outline: none; padding: 0;"> <p style=3D"margin: =
+0; outline: none; padding: 0; color: inherit; font-size: 12px; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit;"></p>=0A<div styl=
+e=3D"margin: 0; outline: none; padding: 0; font-size: 18px; font-style: nor=
+mal; font-weight: 400; text-align: center; color: #ff0000;"><strong class=
+=3D"" style=3D"margin: 0; outline: none; padding: 0; font-family: Helvetica=
+, Arial, sans-serif; font-style: normal; text-decoration: inherit; color: #=
+ff0000;"><strong style=3D"margin: 0; outline: none; padding: 0; font-family=
+: Helvetica, Arial, sans-serif; font-style: normal; color: #ff0000;"></stro=
+ng></strong></div>=0A<div style=3D"margin: 0; outline: none; padding: 0; fo=
+nt-size: 22px; color: #ff8c00; font-family: arial; font-style: normal; font=
+-weight: 400; text-align: center;"></div>=0A<div style=3D"margin: 0; outlin=
+e: none; padding: 0; font-size: 20px; text-align: center; color: #ff6600;">=
+<strong class=3D"" style=3D"margin: 0; outline: none; padding: 0; color: #f=
+f6600; text-align: inherit; font-style: normal; text-decoration: inherit; f=
+ont-family: Helvetica, Arial, sans-serif;"><strong style=3D"margin: 0; outl=
+ine: none; padding: 0; color: #ff6600; font-family: Helvetica, Arial, sans-=
+serif; font-weight: 400;">Or call us at 1-800-240-8210</strong></strong><br=
+ style=3D"color: #ff6600;"></div>=0A<strong style=3D"margin: 0; outline: no=
+ne; padding: 0; font-size: 15px; color: #606060; font-style: normal;"><div =
+style=3D"margin: 0; outline: none; padding: 0; text-align: center; color: #=
+606060;"><strong style=3D"margin: 0; outline: none; padding: 0; text-decora=
+tion: inherit; text-align: inherit; font-style: normal; font-family: Helvet=
+ica, Arial, sans-serif; color: #606060;" class=3D""><span style=3D"color: #=
+606060; font-size: 15px; font-weight: 400; line-height: inherit; text-decor=
+ation: inherit; font-family: Helvetica, Arial, sans-serif; font-style: norm=
+al; text-align: center;"><br><span style=3D"color: inherit; font-size: 20px=
+; font-weight: inherit; line-height: inherit; text-decoration: inherit;" cl=
+ass=3D"">Purchase software and get a <a href=3D"https://hometechpublishing.=
+acemlnd.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D68A883A7A529" d=
+ata-ac-default-color=3D"1" style=3D"margin: 0; outline: none; padding: 0; c=
+olor: #045fb4; text-decoration: underline;"><span style=3D"color:=0A; font-=
+size: inherit; font-weight: inherit; line-height: inherit; text-decoration:=
+ inherit;"><strong style=3D"margin: 0; outline: none; padding: 0; color: #0=
+08000;" class=3D"">FREE COST BOOK</strong> </span></a>of your choice or 15%=
+ off your purchase.<br>Must call <strong style=3D"margin: 0; outline: none;=
+ padding: 0;">800-240-8210</strong> after purchasing software</span><br>*Di=
+scount does not apply to payment plan option <br></span><br><div style=3D"m=
+argin: 0; outline: none; padding: 0; color: #606060; font-family: Helvetica=
+, Arial, sans-serif; font-size: 15px; font-style: normal; font-weight: 400;=
+ text-align: left;"><strong style=3D"margin: 0; outline: none; padding: 0; =
+color: #ff6600; font-family: Helvetica, Arial, sans-serif; font-size: 18px;=
+">HomeTech ADVANTAGE</strong><br><span style=3D"color: inherit; font-size: =
+15px; font-weight: inherit; line-height: inherit; text-decoration: inherit;=
+ font-family: Helvetica, Arial, sans-serif;">is an advanced unit cost estim=
+ating=0Asystem that can produce quick, precise estimates, ready to present =
+to your customer. You will have access to the most current pricing for buil=
+ding materials and labor in your local area, helping to ensure the estimate=
+s are as accurate as possible. Only HomeTech offers a database this compreh=
+ensive. This software is simple to use and integrates into your professiona=
+l building/ remodeling company with ease.</span><br><div style=3D"margin: 0=
+; outline: none; padding: 0; font-family: Helvetica, Arial, sans-serif; fon=
+t-size: 13px; font-style: normal; font-weight: bold; text-align: start; col=
+or: #000000;"><strong style=3D"margin: 0; outline: none; padding: 0; color:=
+ #ff6600; font-size: 18px;">Local Area Cost Data</strong></div>=0A<span sty=
+le=3D"color: inherit; font-size: 15px; font-weight: inherit; line-height: i=
+nherit; text-decoration: inherit; font-family: Helvetica, Arial, sans-serif=
+;">For over 55 years HomeTech has provided contractors with the most reliab=
+le pricing data available. All data is local area specific, by zip code, an=
+d is not a national averaging model like other programs use. Our research s=
+taff contacts hundreds of your local suppliers to give pin-point accuracy i=
+n material costs. We track labor costs for over 250 different areas of the =
+U.S. and Canada so your rates will be competitive with other successful rem=
+odelers in your area.</span><br><div style=3D"margin: 0; outline: none; pad=
+ding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 13px; font-s=
+tyle: normal; font-weight: bold; text-align: start; color: #000000;"><stron=
+g style=3D"margin: 0; outline: none; padding: 0; color: #ff6600; font-size:=
+ 18px;">What's Included With HomeTech Advantage</strong></div>=0AHomeTech c=
+omes complete with all 4 HomeTech Publishing databases containing over 15,0=
+00 line items! =C2=A0=C2=A0<br><br><ul style=3D"margin: 0 0 0 40px; padding=
+: 0;"><li style=3D"display: list-item; line-height: inherit; list-style-typ=
+e: disc; margin: 0 0 0 15px; font-family: Helvetica, Arial, sans-serif; fon=
+t-size: 15px; color: #606060;"><a href=3D"https://hometechpublishing.acemln=
+d.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D68A883A7A515" target=
+=3D"_blank" style=3D"margin: 0; outline: none; padding: 0; color: #008000; =
+text-decoration: underline; font-weight: normal;"><span style=3D"color: #00=
+8000; font-size: inherit; font-weight: inherit; line-height: inherit; text-=
+decoration: inherit;">Remodeling & Renovation</span></a><span style=3D"colo=
+r: #606060; font-size: inherit; font-weight: inherit; line-height: inherit;=
+ text-decoration: inherit;"> (flagship database)</span></li><li style=3D"di=
+splay: list-item; line-height: inherit; list-style-type: disc; margin: 0 0 =
+0 15px; font-family:=0AHelvetica, Arial, sans-serif; font-size: 15px; color=
+: #606060;"><a href=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a=
+484184b36edc07941397252f2f06ed&i=3D68A883A7A516" target=3D"_blank" style=3D=
+"margin: 0; outline: none; padding: 0; color: #0000cd; text-decoration: und=
+erline; font-weight: normal;"><span style=3D"color: #0000cd; font-size: 15p=
+x; font-weight: inherit; line-height: inherit; text-decoration: inherit; fo=
+nt-family: Helvetica, Arial, sans-serif;">Handyman</span></a></li><li style=
+=3D"display: list-item; line-height: inherit; list-style-type: disc; margin=
+: 0 0 0 15px; font-family: Helvetica, Arial, sans-serif; font-size: 15px; c=
+olor: #606060;"><a href=3D"https://hometechpublishing.acemlnd.com/lt.php?s=
+=3D6a484184b36edc07941397252f2f06ed&i=3D68A883A7A517" target=3D"_blank" sty=
+le=3D"margin: 0; outline: none; padding: 0; color: #ff0000; text-decoration=
+: underline; font-weight: normal;"><span style=3D"color: #ff0000; font-size=
+: 15px; font-weight: inherit; line-height: inherit;=0Atext-decoration: inhe=
+rit; font-family: Helvetica, Arial, sans-serif;">Kitchen & Bath</span></a><=
+/li><li style=3D"display: list-item; line-height: inherit; list-style-type:=
+ disc; margin: 0 0 0 15px; font-family: Helvetica, Arial, sans-serif; font-=
+size: 15px; color: #606060;"><a href=3D"https://hometechpublishing.acemlnd.=
+com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D68A883A7A518" target=3D=
+"_blank" style=3D"margin: 0; outline: none; padding: 0; color: #ff8c00; tex=
+t-decoration: underline; font-weight: normal;"><span style=3D"color: #ff8c0=
+0; font-size: 15px; font-weight: inherit; line-height: inherit; text-decora=
+tion: inherit; font-family: Helvetica, Arial, sans-serif;">Housebuilders</s=
+pan></a></li><li style=3D"display: list-item; line-height: inherit; list-st=
+yle-type: disc; margin: 0 0 0 15px;"><strong style=3D"margin: 0; outline: n=
+one; padding: 0;"><span style=3D"color: #606060; font-size: 15px; font-weig=
+ht: inherit; line-height: inherit; text-decoration: inherit; font-family:=
+=0AHelvetica, Arial, sans-serif;">Complete database with prices localized f=
+or your area by </span>zip code<br>covering all of the USA & Canada</strong=
+></li><li style=3D"display: list-item; line-height: inherit; list-style-typ=
+e: disc; margin: 0 0 0 15px; font-family: Helvetica, Arial, sans-serif; fon=
+t-size: 15px; color: #606060;">Man hours per line item</li><li style=3D"dis=
+play: list-item; line-height: inherit; list-style-type: disc; margin: 0 0 0=
+ 15px; font-family: Helvetica, Arial, sans-serif; font-size: 15px; color: #=
+606060;"><span style=3D"color: #606060; font-size: 15px; font-weight: inher=
+it; line-height: inherit; text-decoration: inherit; font-family: Helvetica,=
+ Arial, sans-serif;">Ability to create unique items and modify pricing</spa=
+n></li><li style=3D"display: list-item; line-height: inherit; list-style-ty=
+pe: disc; margin: 0 0 0 15px; font-family: Helvetica, Arial, sans-serif; fo=
+nt-size: 15px; color: #606060;"><span style=3D"color: #606060; font-size: 1=
+5px; font-weight:=0Ainherit; line-height: inherit; text-decoration: inherit=
+; font-family: Helvetica, Arial, sans-serif;">Full featured report writer a=
+nd export capability</span></li><li style=3D"display: list-item; line-heigh=
+t: inherit; list-style-type: disc; margin: 0 0 0 15px; font-family: Helveti=
+ca, Arial, sans-serif; font-size: 15px; color: #606060;"><span style=3D"col=
+or: #606060; font-size: 15px; font-weight: inherit; line-height: inherit; t=
+ext-decoration: inherit; font-family: Helvetica, Arial, sans-serif;">Link t=
+o QuickBookPro</span></li><li style=3D"display: list-item; line-height: inh=
+erit; list-style-type: disc; margin: 0 0 0 15px; font-family: Helvetica, Ar=
+ial, sans-serif; font-size: 15px; color: #606060;"><span style=3D"color: #6=
+06060; font-size: 15px; font-weight: inherit; line-height: inherit; text-de=
+coration: inherit; font-family: Helvetica, Arial, sans-serif;">Link to Chie=
+f Architect</span></li><li style=3D"display: list-item; line-height: inheri=
+t; list-style-type: disc; margin: 0=0A0 0 15px; font-family: Helvetica, Ari=
+al, sans-serif; font-size: 15px; color: #606060;"><span style=3D"color: #60=
+6060; font-size: 15px; font-weight: inherit; line-height: inherit; text-dec=
+oration: inherit; font-family: Helvetica, Arial, sans-serif;">Material list=
+ generator</span></li><li style=3D"display: list-item; line-height: inherit=
+; list-style-type: disc; margin: 0 0 0 15px; font-family: Helvetica, Arial,=
+ sans-serif; font-size: 15px; color: #606060;"><span style=3D"color: #60606=
+0; font-size: 15px; font-weight: inherit; line-height: inherit; text-decora=
+tion: inherit; font-family: Helvetica, Arial, sans-serif;">Labor report gen=
+erator</span></li><li style=3D"display: list-item; line-height: inherit; li=
+st-style-type: disc; margin: 0 0 0 15px; font-family: Helvetica, Arial, san=
+s-serif; font-size: 15px; color: #606060;"><span style=3D"color: #606060; f=
+ont-size: 15px; font-weight: inherit; line-height: inherit; text-decoration=
+: inherit; font-family: Helvetica, Arial,=0Asans-serif;">30 Minute FREE tra=
+ining session</span></li><li style=3D"display: list-item; line-height: inhe=
+rit; list-style-type: disc; margin: 0 0 0 15px; font-family: Helvetica, Ari=
+al, sans-serif; font-size: 15px; color: #606060;"><span style=3D"color: #60=
+6060; font-size: 15px; font-weight: inherit; line-height: inherit; text-dec=
+oration: inherit; font-family: Helvetica, Arial, sans-serif;">Toll-free tel=
+ephone support</span></li><li style=3D"display: list-item; line-height: inh=
+erit; list-style-type: disc; margin: 0 0 0 15px; font-family: Helvetica, Ar=
+ial, sans-serif; font-size: 15px; color: #606060;">Automatic data recovery =
+of previous estimates in case of computer crashes, theft or damages</li><li=
+ style=3D"display: list-item; line-height: inherit; list-style-type: disc; =
+margin: 0 0 0 15px; font-family: Helvetica, Arial, sans-serif; font-size: 1=
+5px; color: #606060;"><span style=3D"color: #606060; font-size: 15px; font-=
+weight: inherit; line-height: inherit; text-decoration:=0Ainherit; font-fam=
+ily: Helvetica, Arial, sans-serif;">Ability to adjust or hide mark-up</span=
+></li><li style=3D"display: list-item; line-height: inherit; list-style-typ=
+e: disc; margin: 0 0 0 15px; font-family: Helvetica, Arial, sans-serif; fon=
+t-size: 15px; color: #606060;"><span style=3D"color: #606060; font-size: 15=
+px; font-weight: inherit; line-height: inherit; text-decoration: inherit; f=
+ont-family: Helvetica, Arial, sans-serif;">Automatic dimensioning capabilit=
+y and multiple room estimating</span></li><li style=3D"display: list-item; =
+line-height: inherit; list-style-type: disc; margin: 0 0 0 15px; font-famil=
+y: Helvetica, Arial, sans-serif; font-size: 15px; color: #606060;"><span st=
+yle=3D"color: #606060; font-size: 15px; font-weight: inherit; line-height: =
+inherit; text-decoration: inherit; font-family: Helvetica, Arial, sans-seri=
+f;">Pre-designed assemblies and custom built assemblies</span></li><li styl=
+e=3D"display: list-item; line-height: inherit; list-style-type: disc;=0Amar=
+gin: 0 0 0 15px; font-family: Helvetica, Arial, sans-serif; font-size: 15px=
+; color: #606060;"><span style=3D"color: #606060; font-size: inherit; font-=
+weight: inherit; line-height: inherit; text-decoration: inherit;"><span sty=
+le=3D"color: inherit; font-size: 15px; font-weight: inherit; line-height: i=
+nherit; text-decoration: inherit; font-family: Helvetica, Arial, sans-serif=
+;">And the list goes on...</span> </span></li></ul><div style=3D"margin: 0;=
+ outline: none; padding: 0; font-family: Helvetica, Arial, sans-serif; font=
+-size: 13px; font-style: normal; font-weight: bold; text-align: start; colo=
+r: #000000;"><strong style=3D"margin: 0; outline: none; padding: 0; color: =
+#ff6600; font-size: 18px;"><br>Once Inside Our Software</strong><br style=
+=3D""><span style=3D"color: #505050; font-size: 14px; font-weight: inherit;=
+ line-height: inherit; text-decoration: inherit;">Our database is organized=
+ in simple to navigate phases; the way you would naturally move though a re=
+modeling=0Aproject.</span></div>=0A<br>Here is a list of our first level ph=
+ases:<br><br><div style=3D"margin: 0; outline: none; padding: 0; font-famil=
+y: Helvetica, Arial, sans-serif; font-size: 15px; color: #606060; text-alig=
+n: start;"><ol style=3D"margin: 0 0 0 40px; padding: 0;"><li style=3D"displ=
+ay: list-item; line-height: inherit; list-style-type: decimal; margin: 0 0 =
+0 15px;"><span style=3D"color: #606060; font-size: inherit; font-weight: in=
+herit; line-height: inherit; text-decoration: inherit;">PLANS & PERMITS</sp=
+an></li><li style=3D"display: list-item; line-height: inherit; list-style-t=
+ype: decimal; margin: 0 0 0 15px; color: #606060;"><span style=3D"color: #6=
+06060; font-size: 15px; font-weight: inherit; line-height: inherit; text-de=
+coration: inherit;">TEAR-OUT & DEMOLITION</span></li><li style=3D"display: =
+list-item; line-height: inherit; list-style-type: decimal; margin: 0 0 0 15=
+px; color: #606060;"><span style=3D"color: #606060; font-size: 15px; font-w=
+eight: inherit; line-height: inherit; text-decoration:=0Ainherit;">EXCAVATI=
+ON & GRADING</span></li><li style=3D"display: list-item; line-height: inher=
+it; list-style-type: decimal; margin: 0 0 0 15px; color: #606060;"><span st=
+yle=3D"color: #606060; font-size: 15px; font-weight: inherit; line-height: =
+inherit; text-decoration: inherit;">CONCRETE</span></li><li style=3D"displa=
+y: list-item; line-height: inherit; list-style-type: decimal; margin: 0 0 0=
+ 15px; color: #606060;"><span style=3D"color: #606060; font-size: 15px; fon=
+t-weight: inherit; line-height: inherit; text-decoration: inherit;">MASONRY=
+</span></li><li style=3D"display: list-item; line-height: inherit; list-sty=
+le-type: decimal; margin: 0 0 0 15px; color: #606060;"><span style=3D"color=
+: #606060; font-size: 15px; font-weight: inherit; line-height: inherit; tex=
+t-decoration: inherit;">FLOOR FRAMING</span></li><li style=3D"display: list=
+-item; line-height: inherit; list-style-type: decimal; margin: 0 0 0 15px; =
+color: #606060;"><span style=3D"color: #606060; font-size: 15px; font-weigh=
+t:=0Ainherit; line-height: inherit; text-decoration: inherit;">WALL FRAMING=
+</span></li><li style=3D"display: list-item; line-height: inherit; list-sty=
+le-type: decimal; margin: 0 0 0 15px; color: #606060;"><span style=3D"color=
+: #606060; font-size: 15px; font-weight: inherit; line-height: inherit; tex=
+t-decoration: inherit;">ROOF FRAMING</span></li><li style=3D"display: list-=
+item; line-height: inherit; list-style-type: decimal; margin: 0 0 0 15px; c=
+olor: #606060;"><span style=3D"color: #606060; font-size: 15px; font-weight=
+: inherit; line-height: inherit; text-decoration: inherit;">ROOFING & FLASH=
+ING</span></li><li style=3D"display: list-item; line-height: inherit; list-=
+style-type: decimal; margin: 0 0 0 15px; color: #606060;"><span style=3D"co=
+lor: #606060; font-size: 15px; font-weight: inherit; line-height: inherit; =
+text-decoration: inherit;">EXTERIOR TRIM & DECKS</span></li><li style=3D"di=
+splay: list-item; line-height: inherit; list-style-type: decimal; margin: 0=
+ 0 0 15px; color:=0A#606060;"><span style=3D"color: #606060; font-size: 15p=
+x; font-weight: inherit; line-height: inherit; text-decoration: inherit;">S=
+IDING</span></li><li style=3D"display: list-item; line-height: inherit; lis=
+t-style-type: decimal; margin: 0 0 0 15px; color: #606060;"><span style=3D"=
+color: #606060; font-size: 15px; font-weight: inherit; line-height: inherit=
+; text-decoration: inherit;">EXTERIOR DOORS & TRIM</span></li><li style=3D"=
+display: list-item; line-height: inherit; list-style-type: decimal; margin:=
+ 0 0 0 15px; color: #606060;"><span style=3D"color: #606060; font-size: 15p=
+x; font-weight: inherit; line-height: inherit; text-decoration: inherit;">W=
+INDOWS & TRIM</span></li><li style=3D"display: list-item; line-height: inhe=
+rit; list-style-type: decimal; margin: 0 0 0 15px; color: #606060;"><span s=
+tyle=3D"color: #606060; font-size: 15px; font-weight: inherit; line-height:=
+ inherit; text-decoration: inherit;">PLUMBING</span></li><li style=3D"displ=
+ay: list-item; line-height: inherit;=0Alist-style-type: decimal; margin: 0 =
+0 0 15px; color: #606060;"><span style=3D"color: #606060; font-size: 15px; =
+font-weight: inherit; line-height: inherit; text-decoration: inherit;">HEAT=
+ING & COOLING</span></li><li style=3D"display: list-item; line-height: inhe=
+rit; list-style-type: decimal; margin: 0 0 0 15px; color: #606060;"><span s=
+tyle=3D"color: #606060; font-size: 15px; font-weight: inherit; line-height:=
+ inherit; text-decoration: inherit;">ELECTRICAL</span></li><li style=3D"dis=
+play: list-item; line-height: inherit; list-style-type: decimal; margin: 0 =
+0 0 15px; color: #606060;"><span style=3D"color: #606060; font-size: 15px; =
+font-weight: inherit; line-height: inherit; text-decoration: inherit;">INSU=
+LATION</span></li><li style=3D"display: list-item; line-height: inherit; li=
+st-style-type: decimal; margin: 0 0 0 15px; color: #606060;"><span style=3D=
+"color: #606060; font-size: 15px; font-weight: inherit; line-height: inheri=
+t; text-decoration: inherit;">INTERIOR=0AWALLS</span></li><li style=3D"disp=
+lay: list-item; line-height: inherit; list-style-type: decimal; margin: 0 0=
+ 0 15px; color: #606060;"><span style=3D"color: #606060; font-size: 15px; f=
+ont-weight: inherit; line-height: inherit; text-decoration: inherit;">CEILI=
+NG COVERINGS</span></li><li style=3D"display: list-item; line-height: inher=
+it; list-style-type: decimal; margin: 0 0 0 15px; color: #606060;"><span st=
+yle=3D"color: #606060; font-size: 15px; font-weight: inherit; line-height: =
+inherit; text-decoration: inherit;">INTERIOR DOORS, TRIM & STAIRS</span></l=
+i><li style=3D"display: list-item; line-height: inherit; list-style-type: d=
+ecimal; margin: 0 0 0 15px; color: #606060;"><span style=3D"color: #606060;=
+ font-size: 15px; font-weight: inherit; line-height: inherit; text-decorati=
+on: inherit;">CABINETS & APPLIANCES</span></li><li style=3D"display: list-i=
+tem; line-height: inherit; list-style-type: decimal; margin: 0 0 0 15px; co=
+lor: #606060;"><span style=3D"color: #606060; font-size: 15px;=0Afont-weigh=
+t: inherit; line-height: inherit; text-decoration: inherit;">SPECIALTIES</s=
+pan></li><li style=3D"display: list-item; line-height: inherit; list-style-=
+type: decimal; margin: 0 0 0 15px; color: #606060;"><span style=3D"color: #=
+606060; font-size: 15px; font-weight: inherit; line-height: inherit; text-d=
+ecoration: inherit;">FLOOR COVERING</span></li><li style=3D"display: list-i=
+tem; line-height: inherit; list-style-type: decimal; margin: 0 0 0 15px; co=
+lor: #606060;"><span style=3D"color: #606060; font-size: 15px; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit;">PAINTING</span><=
+/li><li style=3D"display: list-item; line-height: inherit; list-style-type:=
+ decimal; margin: 0 0 0 15px; color: #606060;"><span style=3D"color: #60606=
+0; font-size: 15px; font-weight: inherit; line-height: inherit; text-decora=
+tion: inherit;">CLEAN-UP</span></li></ol><div style=3D"margin: 0 0 0 15px; =
+outline: none; padding: 0; color: #606060; font-family: Helvetica, Arial,=
+=0Asans-serif; font-size: 15px; text-align: left;"><strong style=3D"margin:=
+ 0; outline: none; padding: 0; font-family: Helvetica, Arial, sans-serif; f=
+ont-size: 13px; font-style: normal; font-weight: bold; text-align: center; =
+color: #000000;"><br><div style=3D"margin: 0; outline: none; padding: 0; te=
+xt-align: center;"><br></div>=0A</strong></div>=0A</div>=0A</div>=0A</stron=
+g></div>=0A</strong><div style=3D"margin: 0; outline: none; padding: 0; fon=
+t-size: 25px; text-align: center;"><strong style=3D"margin: 0; outline: non=
+e; padding: 0;"></strong></div>=0A<div style=3D"margin: 0; outline: none; p=
+adding: 0; font-size: 15px; color: #555555; font-style: normal; font-weight=
+: 400; text-align: center;"><strong style=3D"margin: 0; outline: none; padd=
+ing: 0; font-family: Helvetica, Arial, sans-serif; color: #555555;" class=
+=3D""></strong></div>=0A<div style=3D"margin: 0; outline: none; padding: 0;=
+ font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-style: no=
+rmal; font-weight: 400; text-align: center;"></div>=0A<p style=3D"margin: 0=
+; outline: none; padding: 0; color: inherit; font-size: 12px; font-weight: =
+inherit; line-height: inherit; text-decoration: inherit;"></p>=0A </div>=0A=
+ </div>=0A<!--[if (gte mso 12)&(lte mso 15) ]>=0A<style data-ac-keep=3D"tru=
+e" data-ac-inline=3D"false"> #text_div1619, #text_div1619 div { line-height=
+: 150% !important; };=0A</style>=0A<![endif]--></td>=0A</tr>=0A</table>=0A<=
+/td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr style=3D"background-color: #f=
+fffff;"><td id=3D"layout-row-margin1835" valign=3D"top" style=3D"padding: 0=
+; background-color: #ffffff;"><table width=3D"100%" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: initial !important=
+;"><tr id=3D"layout-row1835" class=3D"layout layout-row widget _widget_pict=
+ure style1835" align=3D"center" style=3D"background-color: #ffffff;"><td id=
+=3D"layout-row-padding1835" valign=3D"top" style=3D"background-color: #ffff=
+ff; padding: 0px;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt;"><tr><td class=3D"image-td" align=3D"center" v=
+align=3D"top" width=3D"600"><a href=3D"https://hometechpublishing.acemlnd.c=
+om/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D68A883A7A514" style=3D"m=
+argin: 0; outline: none; padding: 0; color: #045fb4; display: block; min-wi=
+dth: 100%;"><img=0Asrc=3D"https://hometechpublishing.imgus11.com/public//45=
+15ea3e853b2913ceeae3e47735e902.png?r=3D1087211037" alt=3D"" width=3D"200" s=
+tyle=3D"border: none; display: block; outline: none; width: 200px; opacity:=
+ 1; max-width: 100%;"></a></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</tabl=
+e>=0A</td>=0A</tr>=0A<tr style=3D"background-color: #ffffff;"><td id=3D"lay=
+out-row-margin1828" valign=3D"top" style=3D"padding: 0; background-color: #=
+ffffff;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; border-collapse: initial !important;"><tr id=3D"layout=
+-row1828" class=3D"layout layout-row widget _widget_text style1828" style=
+=3D"margin: 0; padding: 0;"><td id=3D"layout-row-padding1828" valign=3D"top=
+" style=3D"padding: 21px;"><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-tab=
+le-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"text_div1613" class=
+=3D"td_text td_block" valign=3D"top" align=3D"left" width=3D"558" style=3D"=
+line-height: 100%; margin: 0; outline: none; padding: 0; color: inherit; fo=
+nt-size: 12px; font-weight: inherit; line-height: 1; text-decoration: inher=
+it; font-family: Arial; mso-line-height-rule: exactly;"> <div style=3D"line=
+-height:=0A100%; margin: 0; outline: none; padding: 0; font-size: 12px; lin=
+e-height: 1; mso-line-height-rule: exactly;" data-line-height=3D"1"> <div s=
+tyle=3D"margin: 0; outline: none; padding: 0;"> <p style=3D"margin: 0; outl=
+ine: none; padding: 0; color: inherit; font-size: inherit; font-weight: inh=
+erit; line-height: inherit; text-decoration: inherit;"></p>=0A<div style=3D=
+"margin: 0; outline: none; padding: 0; font-size: 20px; font-style: normal;=
+ font-weight: 400; text-align: center; color: #ff6600;"><strong style=3D"ma=
+rgin: 0; outline: none; padding: 0; font-family: Helvetica, Arial, sans-ser=
+if; font-style: normal; text-decoration: inherit; color: #ff6600;" class=3D=
+"">Or call us at 1-800-240-8210</strong><br style=3D"color: #ff6600;"></div=
+>=0A<div style=3D"margin: 0; outline: none; padding: 0; font-family: Helvet=
+ica, Arial, sans-serif; font-size: 12px; font-style: normal; font-weight: 4=
+00; text-align: center;"><span style=3D"color: inherit; font-size: 15px; fo=
+nt-weight: 400; line-height: inherit; text-decoration: inherit; font-family=
+: Helvetica, Arial, sans-serif; font-style: normal;"><br style=3D""><span s=
+tyle=3D"color: inherit; font-size: 20px; font-weight: 400; line-height: inh=
+erit; text-decoration: inherit; font-family: Helvetica, Arial, sans-serif; =
+font-style: normal;" class=3D""><span style=3D"color: #555555; font-size: i=
+nherit; font-weight: inherit; line-height: inherit; text-decoration: inheri=
+t;">Purchase software and get a </span><strong style=3D"margin: 0; outline:=
+ none; padding: 0; color: #008000;" class=3D"">FREE COST BOOK</strong><span=
+ style=3D"color: #555555; font-size: inherit; font-weight: inherit; line-he=
+ight: inherit; text-decoration: inherit;"> of your choice or 15% off your p=
+urchase.</span><br><span=0Astyle=3D"color: #555555; font-size: inherit; fon=
+t-weight: inherit; line-height: inherit; text-decoration: inherit;">Must ca=
+ll </span><strong style=3D"margin: 0; outline: none; padding: 0; color: #55=
+5555;">800-240-8210</strong><span style=3D"color: #555555; font-size: inher=
+it; font-weight: inherit; line-height: inherit; text-decoration: inherit;">=
+ after purchasing software</span></span><br style=3D""><span style=3D"color=
+: #555555; font-size: 15px; font-weight: 400; line-height: inherit; text-de=
+coration: inherit; font-family: Helvetica, Arial, sans-serif; font-style: n=
+ormal;">*Discount does not apply to payment plan option</span></span></div>=
+=0A<p style=3D"margin: 0; outline: none; padding: 0; color: inherit; font-s=
+ize: inherit; font-weight: inherit; line-height: inherit; text-decoration: =
+inherit;"></p>=0A </div>=0A </div>=0A<!--[if (gte mso 12)&(lte mso 15) ]>=
+=0A<style data-ac-keep=3D"true" data-ac-inline=3D"false"> #text_div1613, #t=
+ext_div1613 div { line-height: 100% !important; };=0A</style>=0A<![endif]--=
+></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A<tr =
+style=3D"background-color: #ffffff;"><td id=3D"layout-row-margin1831" valig=
+n=3D"top" style=3D"padding: 0; background-color: #ffffff;"><table width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size: =
+14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border=
+-collapse: initial !important;"><tr id=3D"layout-row1831" class=3D"layout l=
+ayout-row widget _widget_break style1831" style=3D"background-color: #aaaaa=
+a;"><td id=3D"layout-row-padding1831" valign=3D"top" style=3D"line-height: =
+0; mso-line-height-rule: exactly; background-color: #aaaaaa; padding: 0;"><=
+table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse; line-height: 0; mso-line-height-rule: e=
+xactly;"><tr><td height=3D"22" style=3D"line-height: 0; mso-line-height-rul=
+e: exactly;"></td>=0A</tr>=0A<tr><td align=3D"center" height=3D"1" width=3D=
+"600" style=3D"line-height: 0; mso-line-height-rule: exactly;"> <table alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"1" =
+width=3D"570" style=3D"font-size: 14px; min-width: auto!important; mso-tabl=
+e-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; line-heigh=
+t: 0; mso-line-height-rule: exactly; width: 95%; max-width: 95%;"><tr><td c=
+lass=3D"break-line" bgcolor=3D"#e0f07a" height=3D"1" width=3D"570" style=3D=
+"line-height: 1px; mso-line-height-rule: exactly; height: 1px; width: 570px=
+; background-color: #e0f07a;"> </td>=0A </tr>=0A</table>=0A</td>=0A </tr>=
+=0A<tr><td height=3D"22" style=3D"line-height: 0; mso-line-height-rule: exa=
+ctly;"></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=
+=0A<tr style=3D"background-color: #ffffff;"><td id=3D"layout-row-margin1837=
+" valign=3D"top" style=3D"padding: 0; background-color: #ffffff;"><table wi=
+dth=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font=
+-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ border-collapse: initial !important;"><tr id=3D"layout-row1837" class=3D"l=
+ayout layout-row widget _widget_break style1837" style=3D"background-color:=
+ #aaaaaa;"><td id=3D"layout-row-padding1837" valign=3D"top" style=3D"line-h=
+eight: 0; mso-line-height-rule: exactly; background-color: #aaaaaa; padding=
+: 0;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; border-collapse: collapse; line-height: 0; mso-line-height-=
+rule: exactly;"><tr><td height=3D"22" style=3D"line-height: 0; mso-line-hei=
+ght-rule: exactly;"></td>=0A</tr>=0A<tr><td align=3D"center" height=3D"1" w=
+idth=3D"600" style=3D"line-height: 0; mso-line-height-rule: exactly;"> <tab=
+le align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"1" width=3D"570" style=3D"font-size: 14px; min-width: auto!important; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse; lin=
+e-height: 0; mso-line-height-rule: exactly; width: 95%; max-width: 95%;"><t=
+r><td class=3D"break-line" bgcolor=3D"#e0f07a" height=3D"1" width=3D"570" s=
+tyle=3D"line-height: 1px; mso-line-height-rule: exactly; height: 1px; width=
+: 570px; background-color: #e0f07a;"> </td>=0A </tr>=0A</table>=0A</td>=0A =
+</tr>=0A<tr><td height=3D"22" style=3D"line-height: 0; mso-line-height-rule=
+: exactly;"></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A<=
+/tr>=0A<tr style=3D"background-color: #ffffff;"><td id=3D"layout-row-margin=
+1825" valign=3D"top" style=3D"padding: 0px; background-color: #ffffff;"><ta=
+ble width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: initial !important;"><tr id=3D"layout-row1825" cl=
+ass=3D"layout layout-row widget _widget_social style1825" style=3D""><td id=
+=3D"layout-row-padding1825" valign=3D"top" style=3D"padding: 20px;"><table =
+width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"fo=
+nt-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0p=
+t;"><tr><td><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt;"><tr><td width=3D"600" align=3D"left"> <center style=3D"margin: 0;=
+ outline: none; padding: 0; font-size: 0px;"> <table class=3D"_ac_social_ta=
+ble" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"font-siz=
+e:=0A0; min-width: auto!important; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt; margin: auto!important; display: inline-block!important; text-align: =
+center!important;"><tr><td align=3D"center" valign=3D"middle" width=3D"24" =
+style=3D"display:inline-block!important;font-size:0;width:24px!important;">=
+<div class=3D"__ac_social_icons" style=3D"margin: 0; outline: none; padding=
+: 0;"><a href=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184=
+b36edc07941397252f2f06ed&i=3D68A883A7A519" id=3D"facebook" class=3D"__ac_so=
+cial_icon_link" style=3D"margin: 0; outline: none; padding: 0; color: #045f=
+b4;"><img src=3D"http://hometechpublishing.img-us6.com/_social_/flat-color-=
+round-facebook.png" border=3D"0" width=3D"24" style=3D"border: none;"></a><=
+/div>=0A</td>=0A<td width=3D"10" style=3D"display:inline-block!important;fo=
+nt-size:0;width:10px!important;">=C2=A0</td>=0A<td align=3D"center" valign=
+=3D"middle" width=3D"24" style=3D"display:inline-block!important;font-size:=
+0;width:24px!important;"><div class=3D"__ac_social_icons" style=3D"margin: =
+0; outline: none; padding: 0;"><a href=3D"https://hometechpublishing.acemln=
+d.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=3D68A883A7A520" id=3D"t=
+witter" class=3D"__ac_social_icon_link" style=3D"margin: 0; outline: none; =
+padding: 0; color: #045fb4;"><img src=3D"http://hometechpublishing.img-us6.=
+com/_social_/flat-color-round-twitter.png" border=3D"0" width=3D"24" style=
+=3D"border: none;"></a></div>=0A</td>=0A<td width=3D"10" style=3D"display:i=
+nline-block!important;font-size:0;width:10px!important;">=C2=A0</td>=0A<td =
+align=3D"center" valign=3D"middle" width=3D"24" style=3D"display:inline-blo=
+ck!important;font-size:0;width:24px!important;"><div class=3D"__ac_social_i=
+cons" style=3D"margin: 0; outline: none; padding: 0;"><a href=3D"https://ho=
+metechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc07941397252f2f06ed&i=
+=3D68A883A7A521" id=3D"linkedin" class=3D"__ac_social_icon_link" style=3D"m=
+argin: 0; outline: none; padding: 0; color: #045fb4;"><img src=3D"http://ho=
+metechpublishing.img-us6.com/_social_/flat-color-round-linkedin.png" border=
+=3D"0" width=3D"24" style=3D"border: none;"></a></div>=0A</td>=0A<td width=
+=3D"10" style=3D"display:inline-block!important;font-size:0;width:10px!impo=
+rtant;">=C2=A0</td>=0A<td align=3D"center" valign=3D"middle" width=3D"24" s=
+tyle=3D"display:inline-block!important;font-size:0;width:24px!important;"><=
+div class=3D"__ac_social_icons" style=3D"margin: 0; outline: none; padding:=
+ 0;"><a href=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b=
+36edc07941397252f2f06ed&i=3D68A883A7A512" id=3D"website" class=3D"__ac_soci=
+al_icon_link" style=3D"margin: 0; outline: none; padding: 0; color: #045fb4=
+;"><img src=3D"http://hometechpublishing.img-us6.com/_social_/flat-color-ro=
+und-website.png" border=3D"0" width=3D"24" style=3D"border: none;"></a></di=
+v>=0A</td>=0A<td width=3D"10" style=3D"display:inline-block!important;font-=
+size:0;width:10px!important;">=C2=A0</td>=0A<td align=3D"center" valign=3D"=
+middle" width=3D"24" style=3D"display:inline-block!important;font-size:0;wi=
+dth:24px!important;"><div class=3D"__ac_social_icons" style=3D"margin: 0; o=
+utline: none; padding: 0;"><a href=3D"mailto:support@costestimator.com" id=
+=3D"email" class=3D"__ac_social_icon_link" style=3D"margin: 0; outline: non=
+e; padding: 0; color: #045fb4;"><img src=3D"http://hometechpublishing.img-u=
+s6.com/_social_/flat-color-round-email.png" border=3D"0" width=3D"24" style=
+=3D"border: none;"></a></div>=0A</td>=0A</tr>=0A</table>=0A</center> </td>=
+=0A </tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=
+=0A</td>=0A</tr>=0A<tr style=3D"background-color: #ffffff;"><td id=3D"layou=
+t-row-margin1826" valign=3D"top" style=3D"padding: 0px; background-color: #=
+ffffff;"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; border-collapse: initial !important;"><tr id=3D"layout=
+-row1826" class=3D"layout layout-row widget _widget_text style1826" style=
+=3D"margin: 0; padding: 0;"><td id=3D"layout-row-padding1826" valign=3D"top=
+" style=3D"padding: 16px;"><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"font-size: 14px; min-width: 100%; mso-tab=
+le-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td id=3D"text_div1611" class=
+=3D"td_text td_block" valign=3D"top" align=3D"left" width=3D"568" style=3D"=
+line-height: 150%; margin: 0; outline: none; padding: 0; color: inherit; fo=
+nt-size: 12px; font-weight: inherit; line-height: 1.5; text-decoration: inh=
+erit; font-family: Arial; mso-line-height-rule: exactly;"> <div style=3D"li=
+ne-height:=0A150%; margin: 0; outline: none; padding: 0; color: #606060; li=
+ne-height: 1.5; mso-line-height-rule: exactly;" data-line-height=3D"1.5"> <=
+div style=3D"margin: 0; outline: none; padding: 0; color: #606060; font-siz=
+e: 14px;"> <div style=3D"margin: 0; outline: none; padding: 0; text-align: =
+center; color: #606060;"><span style=3D"color: #606060; font-size: inherit;=
+ font-weight: 400; line-height: inherit; text-decoration: inherit; font-sty=
+le: normal; font-family: Helvetica, Arial, sans-serif;" class=3D""><span st=
+yle=3D"color: #555555; font-size: 20px; font-weight: bold; line-height: inh=
+erit; text-decoration: inherit; font-family: Helvetica, Arial, sans-serif; =
+font-style: normal; text-align: center; margin: 0;" class=3D"">Thank You Fo=
+r Choosing HomeTech Publishing.</span><span style=3D"color: #0174df; font-s=
+ize: 14px; font-weight: 400; line-height: inherit; text-decoration: inherit=
+; font-family: Helvetica, Arial, sans-serif; font-style: normal; text-align=
+: center;" class=3D""><span=0Astyle=3D"color: #0174df; font-size: inherit; =
+font-weight: inherit; line-height: inherit; text-decoration: inherit;" clas=
+s=3D""><span style=3D"color: #0174df; font-size: inherit; font-weight: inhe=
+rit; line-height: inherit; text-decoration: inherit;"><br>800.240.8210</spa=
+n><br style=3D"color: #0174df;"></span><span style=3D"color: #0174df; font-=
+size: inherit; font-weight: normal; line-height: inherit; text-decoration: =
+inherit;" class=3D"">www.hometechonline.com<br style=3D"color: #0174df;"></=
+span></span><span style=3D"color: #0174df; font-size: inherit; font-weight:=
+ inherit; line-height: inherit; text-decoration: inherit;" class=3D""><br><=
+a href=3D"https://hometechpublishing.acemlnd.com/lt.php?s=3D6a484184b36edc0=
+7941397252f2f06ed&i=3D68A883A7A522" style=3D"margin: 0; outline: none; padd=
+ing: 0; color: #555555; text-decoration: underline; font-size: 12px;" targe=
+t=3D"_blank"><span style=3D"color: #555555; font-size: inherit; font-weight=
+: inherit; line-height: inherit; text-decoration:=0Ainherit;">forward to a =
+friend</span></a></span><br><br style=3D""><div style=3D"margin: 0; outline=
+: none; padding: 0; text-align: left;"><em style=3D"margin: 0; outline: non=
+e; padding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 14px; =
+font-weight: 400; text-decoration: inherit; background-color: initial;" cla=
+ss=3D"">Copyright =C2=A92020<br><br></em></div>=0A<span style=3D"color: inh=
+erit; font-size: 11px; font-weight: inherit; line-height: inherit; text-dec=
+oration: inherit;" class=3D""><span style=3D"color: #606060; font-size: inh=
+erit; font-weight: 400; line-height: inherit; text-decoration: inherit; fon=
+t-family: Helvetica, Arial, sans-serif; font-style: normal;"> </span><span =
+style=3D"color: #606060; font-size: inherit; font-weight: 400; line-height:=
+ inherit; text-decoration: inherit; font-family: Helvetica, Arial, sans-ser=
+if; font-style: normal; text-align: center;"> </span></span></span><span st=
+yle=3D"color: inherit; font-size: 11px; font-weight: inherit; line-height: =
+inherit; text-decoration: inherit;" class=3D""><a href=3D"https://hometechp=
+ublishing.acemlnd.com/proc.php?nl=3D7&c=3D68&m=3D883&s=3D6a484184b36edc0794=
+1397252f2f06ed&act=3Dunsub" style=3D"margin: 0; outline: none; padding: 0; =
+color: #555555; text-decoration: underline; text-align: inherit; background=
+-color: initial;" target=3D"_blank"><span style=3D"color: #555555; font-siz=
+e:=0Ainherit; font-weight: inherit; line-height: inherit; text-decoration: =
+inherit;">unsubscribe from this list</span></a><span style=3D"color: #60606=
+0; font-size: inherit; font-weight: 400; line-height: inherit; text-decorat=
+ion: inherit; font-family: Helvetica, Arial, sans-serif; background-color: =
+initial;"> | </span><a href=3D"https://hometechpublishing.acemlnd.com/lt.ph=
+p?s=3D6a484184b36edc07941397252f2f06ed&i=3D68A883A7A523" style=3D"margin: 0=
+; outline: none; padding: 0; color: #555555; text-decoration: underline; te=
+xt-align: inherit; background-color: initial;" target=3D"_blank"><span styl=
+e=3D"color: #555555; font-size: inherit; font-weight: inherit; line-height:=
+ inherit; text-decoration: inherit;">update subscription preferences</span>=
+</a></span></div>=0A </div>=0A </div>=0A<!--[if (gte mso 12)&(lte mso 15) ]=
+>=0A<style data-ac-keep=3D"true" data-ac-inline=3D"false"> #text_div1611, #=
+text_div1611 div { line-height: 150% !important; };=0A</style>=0A<![endif]-=
+-></td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</t=
+able>=0A</td>=0A</tr>=0A</table>=0A</td>=0A</tr>=0A</table>=0A</div>=0A<img=
+ src=3D"https://hometechpublishing.acemlnd.com/lt.php?nl=3D7&c=3D68&m=3D883=
+&s=3D6a484184b36edc07941397252f2f06ed&l=3Dopen" border=3D"0" width=3D"1" he=
+ight=3D"1" style=3D"display:block;width:1px!important;min-width:1px!importa=
+nt;max-width:1px!important;height:1px!important;border:0;overflow:hidden;" =
+/><br /><div id=3D"ac-footer" style=3D"clear:both;background-color:inherit;=
+background:inherit;min-width:100%;mso-table-lspace:0pt;mso-table-rspace:0pt=
+;padding:20px;color:#000000;font-size:11px;font-family:arial,helvetica,sans=
+-serif;line-height:140%;line-height:1.4;text-align:center;box-sizing:border=
+-box;">=0A=09<center>=0A=09=09Sent to: <span style=3D"font-size:11px;font-f=
+amily:arial,helvetica,sans-serif;font-weight:normal;text-decoration:none;ou=
+tline:none;">bruce@untroubled.org</span>=0A=09=09<br>=0A=09=09<br>=0A=09=09=
+<a href=3D"http://hometechpublishing.acemlnd.com/proc.php?nl=3D7&c=3D68&m=
+=3D883&s=3D6a484184b36edc07941397252f2f06ed&act=3Dunsub" style=3D"font-size=
+:11px;font-family:arial,helvetica,sans-serif;font-weight:bold;text-decorati=
+on:underline;"><span style=3D"font-weight:bold;text-decoration:underline;">=
+Unsubscribe</span></a>=0A=09=09<br>=0A=09=09<br> HomeTech Systems LLC, 5850=
+ waterloo road, #140, Columbia, MD 21045, United States=0A=09</center>=0A</=
+div>=0A<br clear=3D"all" /></body>=0A</html>
+--_=_swift-17030901655e150e6bb2e993.77747706_=_--
+

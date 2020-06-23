@@ -1,0 +1,100 @@
+Return-Path: <SRS0=OTk8iR=23=aptint.date=fungusremoving_spice-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 30081 invoked from network); 6 Jan 2020 19:23:55 -0000
+Received: (qmail 2963 invoked from network); 6 Jan 2020 19:23:54 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 19:23:54 -0000
+Received: (qmail 2740 invoked by uid 48516); 6 Jan 2020 19:23:54 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 30887 invoked from network); 6 Jan 2020 19:23:54 -0000
+Received: from mail.aptint.date (208-187-163-89.nca.datanoc.com [208.187.163.89])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 06 Jan 2020 19:23:53 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=aptint.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fungusremoving_spice@aptint.date;
+ bh=1RZfsLYuYY1JJvUoXVLd/usper8=;
+ b=XHXQlI7a8G20QsxnIrHPZt00sIaRQGmKQ6CGW0h7QXP/I/RAYRYN7CkY/5zolxVWshgSfTMeEQ5O
+   h71JMLFwRFMc+DoRnzLNr+P6KJw90gzfrmML6PzppePV1ol62WK2TMDHNnWTguwaZZQQA7ad0ulT
+   Hv4SZJSy8eb5PqD9/1k=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=aptint.date;
+ b=p1GqumKkMiNs6N0e9Y7sHb3FCro906cebh4sNyF0xV3o65kKVS2PdlXiywE4q+E+Wy8BM5X7pjeA
+   c7JVOvmec1HB07t3piP7hrlrSqjq9hpwzdsHKcjQD5vVSwAU6wVwOWVWqNXbb0WycpakTiTEr0sS
+   QWXKcvyDm6WTW9BAuKw=;
+Received: by mail.aptint.date id h2e4ki0001ge for <bruce@untroubled.org>; Mon, 6 Jan 2020 14:14:46 -0500 (envelope-from <fungusremoving_spice-bruce=untroubled.org@aptint.date>)
+Date: Mon, 6 Jan 2020 14:14:46 -0500
+From: "FungusRemoving Spice" <fungusremoving_spice@aptint.date>
+To:   <bruce@untroubled.org>
+Subject: WATCH: Toenail Fungus Destroyed My Life, Until I Found This
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_13_1088596825.1578338083488"
+List-Unsubscribe: <http://www.aptint.date/ritually-subconscious/15c4W2395SxY8911H1X1mV19e1_21iFv4GIf4rxvs4FhIHEsvZ10XQYRQ9doq96C1MMn05VzHUi>
+Message-ID: <0.0.0.1.1D5C4C58EFDDE06.21C6D7@mail.aptint.date>
+Content-Length: 6892
+
+------=_Part_13_1088596825.1578338083488
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>inheritor</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.aptint.date/a614y2395sF8P613oF7s0dcq19e1g21gFv4GIf4rxvs4FhIHEsvZ10nQYRQ9doq97XS1R0NP6R1U1Hi/flavors-clearances">&nbsp; Simple Stop to foot fungus&nbsp; </a></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: 2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; height: 530px; "> 
+    <tbody> 
+     <tr> 
+      <td> 
+       <table border="1" cellpadding="0" cellspacing="0" style="font-family: &quot; Sans Serif&quot; , serif; font-size: 17px; height: 548px; " width="590"> 
+        <tbody> 
+         <tr> 
+          <td> 
+           <table border="0" cellpadding="5" cellspacing="5" style="height: 526px; " width="586"> 
+            <tbody> 
+             <tr> 
+              <td> 
+               <div style="font-family: &quot; Sans Serif&quot; ; font-size: 16px; "> 
+                <div style="color: rgb(0, 0, 0); line-height: normal; font-family: &quot; Sans Serif&quot; ; font-size: 12px; "> 
+                 <h1 style="margin: 20px 6px; color: rgb(34, 34, 34); line-height: 40px; font-family: &quot; Sans Serif&quot; ; font-size: 36px; box-sizing: border-box; text-align: center; "><span style="font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(0, 0, 0); "><strong>This Man Cured His Nail Fungus This Simple Trick (Watch Here)</strong></span></span></h1> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><a href="http://www.aptint.date/a614y2395sF8P613oF7s0dcq19e1g21gFv4GIf4rxvs4FhIHEsvZ10nQYRQ9doq97XS1R0NP6R1U1Hi/flavors-clearances"><img alt="stag" src="http://www.aptint.date/Hieronymus-Morocco/d326St2B395QpW7a13ix7u0dfo19e1z21pFv4GIf4rxvs4FhIHEsvZ10aQYRQ9doq97Jt1N0NX5WN2Hi" style="width: 491px; height: 286px; " /></a></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(14, 14, 184); "><span style="font-size: 34px; font-family: &quot; Sans Serif&quot; ; "><strong><a href="http://www.aptint.date/a614y2395sF8P613oF7s0dcq19e1g21gFv4GIf4rxvs4FhIHEsvZ10nQYRQ9doq97XS1R0NP6R1U1Hi/flavors-clearances" style="color: rgb(14, 14, 184); ">{Watch Now}</a></strong></span></span></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                </div> 
+               </div> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <a href="http://www.aptint.date/d8b4D2395Jx86z12J7w0ddo19e1Q21gFv4GIf4rxvs4FhIHEsvZ10uQYRQ9doq96ny_10I6QyHNi@/Medusa-checksummed"><font color="#666666">Leave Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.aptint.date/c7d5V23O95I8N9u12U70deBJ19e1y21EFv4GIf4rxvs4FhIHEsvZ10LQYRQ9doq96iSh1P05pNHXi/flavors-clearances">Hault email Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+    <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 80918</span>
+    <br /> &nbsp; 
+   </div> <small></small><small><span lang="lookahead"><font class="satanic"></small></span><style dir="patriotic"></style></font>
+  </center>   
+ <img src="http://www.aptint.date/5ed6r2g39H5yB8F511O70e0v19e1g21LFv4GIf4rxvs4FhIHEsvZ10hQYRQ9doq95tj10A5rpHi0/flavors-clearances" alt=""/></body>
+</html>
+
+------=_Part_13_1088596825.1578338083488--
+

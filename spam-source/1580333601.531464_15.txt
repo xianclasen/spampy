@@ -1,0 +1,148 @@
+Return-Path: <benjamin@zonwow.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 31266 invoked from network); 29 Jan 2020 20:47:50 -0000
+Received: (qmail 59191 invoked by uid 222); 29 Jan 2020 20:47:49 -0000
+Return-Path: <benjamin@zonwow.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 59188 invoked from network); 29 Jan 2020 20:47:49 -0000
+Received: from zonwow.com (69-94-130-52.nca.lanset.com [69.94.130.52])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 29 Jan 2020 20:47:49 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=zonwow.com; s=dkim;
+	t=1580328447; bh=UGtm2ovSuBV88YNmOttlUMRUE0Y=;
+	h=Subject:From:Date:Message-ID:To;
+	b=lNWQy9QF9AT+Hsp2rQaNs3AvBuhUWviqo6QfMOj+nUlq2YgKluRgrVEiIGSboZo1Y
+	 cM4QTjkEpUeHlwYbu3GS0VTZRqh4o811eVoZVkWihhUR0cjgPTfTEOx0itRinGtMLq
+	 j00uzinwopryPhykSJqEXR5AUAPE+XsZmOtu5vOA=
+MIME-Version: 1.0 
+Subject: Car insurance for as low as $63/mo 
+From: "Provide Insurance - Find Savings" <benjamin@zonwow.com> 
+Date: Wed, 29 Jan 2020 15:07:27 -0500 
+Message-ID: <lgy08600NNK7axo.dwpQK7GXQG97ylx@zonwow.com> 
+List-Unsubscribe: <http://ldo80TU0AXHYksj.zonwow.com/1988d6486b76d677076e59b11_ffe5315e/3/> 
+To: "bruce@untroubled.org" <bruce@untroubled.org> 
+Content-type: multipart/alternative; boundary="---=_Part_09_712S73.ALO0";
+Content-Length: 8957
+
+-----=_Part_09_712S73.ALO0
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Car insurance for as low as $63/mo
+
+http://ihu1KRLLTA0Jtgk.zonwow.com/2088d499b196d677076e59b116dc1617_ffe5315e-010102170001/1/
+
+Car insurance for as low as $63/mo
+
+-----=_Part_09_712S73.ALO0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+? <html>
+<head>
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+ body {background: #e6e6e6; font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; margin: 0; padding: 0;}
+
+ @media only screen and (max-width: 599px) {
+ /* responsive framework */
+ .flex100 {width: 100% !important; height: auto !important; clear: both !important;}
+ .flex95 {width: 95% !important; height: auto !important; clear: both !important;}
+ .flex90 {width: 90% !important; height: auto !important; clear: both !important;}
+ .flex75 {width: 75% !important; height: auto !important; clear: both !important;}
+ /* toggle element on+off for mobile */
+ .mobile_show {display:block !important; visibility:visible !important; width:100% !important; font-size:inherit !important; line-height:inherit !important; height:auto !important; margin:auto !important; max-height:inherit !important; overflow:auto !important; mso-hide:none !important;}
+ .mobile_hide {display:none !important; visibility:hidden !important; width:0px !important; height:0px !important; max-height:0px !important; overflow:hidden !important; mso-hide:all !important; border:none !important; font-size:0 !important; line-height:0 !important; padding:0 !important;}
+ }
+</style>
+</head>
+<body style="background: #e6e6e6; font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5;">
+<a class="flex100" href="http://hbb1PMMY2A2Bmja.zonwow.com/2088d499b196d677076e59b116dc1617_ffe5315e-010102170001/1/" style="border: 0 !important; color: inherit !important; color: #000000; display: block !important; margin: 0 auto !important; text-decoration: none !important; width: 600px">
+<table align="center" cellpadding="0" cellspacing="0">
+ <tr><td height="10" style="font-size: 0px; line-height: 0px;"> </td></tr>
+</table>
+<table class="flex95" width="600" align="center" bgcolor="#192E59" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 600px !important; -webkit-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); -moz-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); box-shadow: 0 5px 10px -8px rgba(0,0,0,1);">
+ <tr>
+ <td align="center">
+ <table width="90%" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 90% !important;">
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 2.2em; line-height: 1.2; color: #ffffff; font-weight: bold; text-align: left; text-transform: uppercase;">
+ Don't Overpay!
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ </table>
+ </td>
+ </tr>
+</table>
+
+<table class="flex95" width="600" align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 600px !important; -webkit-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); -moz-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); box-shadow: 0 5px 10px -8px rgba(0,0,0,1);">
+ <tr>
+ <td align="center"><img class="flex100" src="http://thyRN2S74SDGmxx.zonwow.com/images/car-scenic-road.jpg" alt="" width="600" border="0" /></td>
+ </tr>
+ <tr>
+ <td align="center">
+ <table width="90%" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 90% !important;">
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 1.7em; line-height: 1.2; color: #192E59; font-weight: bold; text-align: center;">
+ Have you compared auto quotes lately?
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 1.2em; color: #2e3435; text-align: center;">
+ Shopping around for auto insurance used to be hard, but Provide Insurance makes it easy. In just minutes, we use our consumer alignment technology to match you with top carriers at low rates.
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td align="center">
+ <table align="center" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="300" align="center" height="44" bgcolor="#192E59">
+ <a href="http://mwwM15T93N1Heoa.zonwow.com/2088d499b196d677076e59b116dc1617_ffe5315e-010102170001/1/" target="_blank" style="display: block; color: #ffffff; font-size: 1.6em; line-height: 56px; font-weight: bold; text-decoration: none; text-transform: uppercase; white-space: nowrap;">
+ Find Rates
+ </a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td align="center">
+ <a href="http://yfn35O333N9Mgnp.zonwow.com/2088d499b196d677076e59b116dc1617_ffe5315e-010102170001/1/" target="blank" style="border: 0; text-decoration: none !important;">
+ <img src="http://ojc8J864D4IWytm.zonwow.com/images/provide-insurance-blue.png" alt="Provide Insurance" width="150" border="0" />
+ </a>
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ </table>
+ </td>
+ </tr>
+</table>
+</a>
+<table class="flex75" width="600" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto;">
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: .75em !important; text-align: center; color: #999999;">
+ © 2018 Provide Insurance | PO Box 425768 Cambridge, MA 02142 | <a href="http://lqoN2AL35GAOjjb.zonwow.com/208e82e27a16d677076e59b116dd1617_ffe5315e-010102170001/1/" style="color: #999999; white-space: nowrap;">Unsubscribe</a>
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+</table>
+<span style="color:#808080;"><span style="font-size: 0.15px;"><span style="font-family: arial,helvetica,sans-serif;">Habit the Foundation of PersonalityThe biologist tells us that it is the constant and not the occasional in the environment that impresses itself on an organism So also it is the habitual in our lives that builds itself into our character and personality In a very real sense we are what we are in the habit of doing and thinking Pierre Abelard was undoubtedly the boldest and most creative reasoner of his time As a wandering teacher he drew after him thousands of enthusiastic students He gave a strong impetus to learning He was a marvelous logician and an accomplished orator Among his pupils were men who afterward became prelates of the church and distinguished scholars In the Dark Age when the dictates of reason were almost wholly disregarded he fought fearlessly for intellectual freedom He was practically the founder of the University of Paris which in turn became the mother of medieval and modern lover hu universities        What is mousetext  Remember when you got your e enhanced aboutGive us this day our daily baconOfflineIn answering these questions we must consider in the first place the scene and in the second place the psychology of the two central characters who for so long a time have been regarded as the very embodiment of unchecked passion     The old Chinese fairy story hits upon a fundamental and vital truth These celestials tell their children that each child is accompanied by day and by night every moment of his life by an invisible fairy who is provided with a pencil and tablet It is the duty of this fairy to put down every deed of the child both good and evil in an indelible record which will one day rise as a witness against him So it is in very truth with our brains The wrong act may have been performed in secret no living being may ever know that we performed it and a merciful Providence may forgive it but the inexorable monitor of our deeds was all the time beside us writing the record and the history of that act is inscribed forever in the tissues of our brain It may be repented of bitterly in sackcloth and ashes and be discontinued but its effects can never be quite effaced they will remain with us a handicap till our dying day and in some critical moment in a great emergency we shall be in danger of defeat from that long past and forgotten act            Replyd The loverhu First Stage in the Japanning of Wood or of Leather Without a Priming        1656</span>
+</body>
+</html>
+
+
+<center>
+
+
+<font face=verdana size=1>purge my email from your index <a href='http://qbvWC5K9X6MPsle.zonwow.com/1988d6486b76d677076e59b11_ffe5315e/U/0620'>here</a> <br> 1500 Beville Rd STE 606 Box 10009, Daytona Beach, FL 32114
+<img src="http://mdbG595X769Wopj.zonwow.com/2088b88c72c6d677076e59b116a08f0b_ffe5315e-010102170001/2/">
+
+-----=_Part_09_712S73.ALO0--

@@ -1,0 +1,101 @@
+Return-Path: <SRS0=QmpBRw=25=mail.heatpad.co=6016-9790-262549-1616-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 25284 invoked from network); 8 Jan 2020 09:00:27 -0000
+Received: (qmail 21795 invoked from network); 8 Jan 2020 09:00:27 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Jan 2020 09:00:27 -0000
+Received: (qmail 3458 invoked by uid 48516); 8 Jan 2020 09:00:26 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8239 invoked from network); 8 Jan 2020 09:00:25 -0000
+Received: from bravo.heatpad.co (client-23-254-230-178.hostwindsdns.com [23.254.230.178])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 08 Jan 2020 09:00:25 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=heatpad.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=Solar-Rebates@heatpad.co;
+ bh=sKkAWuhq0mDeeH7E9oQ9SkAxa28=;
+ b=iXGKOhxAssIRljRoS1sDdaQyoLKqTZA/BwKo0aMKUu4TyXj319E1HgwOuHJYf5VM8V/KC+5m9dQN
+   ZrNL/O7o2tnw7ZVOP7uhGUNmwL8Rj4uvrdKkIn+USONyw5Edu+6bp1GxCDUEeaA9wu8CGbpEeP9l
+   98s27UeyfWMS2R/5FVs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=heatpad.co;
+ b=grjKviuP7AKkZZN9pwLie1Trvw4noU/Z9gUkA5hiwsrXW+ZjB6+COFgxdo3UiKjCOBVrUemfkc3T
+   SCpJfy6U3iMAY2pdnn7MSZj6zFDyKlQFwQgX+aBlebyVqPdHRfbepvIrzYOtCuYZKtIgDHXkL2jU
+   7IzdrM+L4C/0O1M9mYY=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="f7f7c264b6cec2651b731d427d369e65_263e_40195"
+Date: Wed, 8 Jan 2020 03:59:54 -0500
+From: "Solar-Energy-Savings"<Solar-Rebates@heatpad.co>
+Reply-To: "Solar-Energy-Savings"<Solar-Energy-Savings@heatpad.co>
+Subject: Say Goodbye to your Electric Bill with new Solar Panels
+To: <bruce@untroubled.org>
+Message-ID: <gno1b1yt30ulj3d0-qu9828wwwkjtb428-263e-40195@heatpad.co>
+Content-Length: 8756
+
+--f7f7c264b6cec2651b731d427d369e65_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Say Goodbye to your Electric Bill with new Solar Panels
+
+http://heatpad.co/G41o2WxOrZlOaL3aA0ckBpOuF77_q5h2V0gKgKR06dR_i9LV
+
+http://heatpad.co/VZo6nAOZ_yH_NwwCVj1wcCe0Hx63Aor31KBTMgt9xBN84Ueg
+
+In development of the Third Rome ideas, the Grand Duke Ivan IV (the "Terrible") was officially crowned first Tsar ("Caesar") of Russia in 1547. The Tsar promulgated a new code of laws (Sudebnik of 1550), established the first Russian feudal representative body (Zemsky Sobor) and introduced local self-management into the rural regions.
+Tsar Ivan the Terrible, portrait by Viktor Vasnetsov, 1897
+
+During his long reign, Ivan the Terrible nearly doubled the already large Russian territory by annexing the three Tatar khanates (parts of the disintegrated Golden Horde): Kazan and Astrakhan along the Volga River, and the Siberian Khanate in southwestern Siberia. Thus, by the end of the 16th century Russia was transformed into a multiethnic, multidenominational and transcontinental state.
+
+However, the Tsardom was weakened by the long and unsuccessful Livonian War against the coalition of Poland, Lithuania, and Sweden for access to the Baltic coast and sea trade. At the same time, the Tatars of the Crimean Khanate, the only remaining successor to the Golden Horde, continued to raid Southern Russia. In an effort to restore the Volga khanates, Crimeans and their Ottoman allies invaded central Russia and were even able to burn down parts of Moscow in 1571. But in the next year the large invading army was thoroughly defeated by Russians in the Battle of Molodi, forever eliminating the threat of an Ottoman–Crimean expansion into Russia. The slave raids of Crimeans, however, did not cease until the late 17th century though the construction of new fortification lines across Southern Russia, such as the Great Abatis Line, constantly narrowed the area accessible to incursions.
+Kuzma Minin appeals to the people of Nizhny Novgorod to raise a volunteer army against the Polish invaders
+
+The death of Ivan's sons marked the end of the ancient Rurik Dynasty in 1598, and in combination with the famine of 1601–03 led to civil war, the rule of pretenders, and foreign intervention during the Time of Troubles in the early 17th century. The Polish–Lithuanian Commonwealth occupied parts of Russia, including Moscow. In 1612, the Poles were forced to retreat by the Russian volunteer corps, led by two national heroes, merchant Kuzma Minin and Prince Dmitry Pozharsky. The Romanov Dynasty acceded to the throne in 1613 by the decision of Zemsky Sobor, and the country started its gradual recovery from the crisis.
+
+Russia continued its territorial growth through the 17th century, which was the age of Cossacks. Cossacks were warriors organized into military communities, resembling pirates and pioneers of the New World. In 1648, the peasants of Ukraine joined the Zaporozhian Cossacks in rebellion against Poland-Lithuania during the Khmelnytsky Uprising in reaction to the social and religious oppression they had been suffering under Polish rule. In 1654, the Ukrainian leader, Bohdan Khmelnytsky, offered to place Ukraine under the protection of the Russian Tsar, Aleksey I. Aleksey's acceptance of this offer led to another Russo-Polish War. Finally, Ukraine was split along the Dnieper River, leaving the western part, right-bank Ukraine, under Polish rule and the eastern part (Left-bank Ukraine and Kiev) under Russian rule. Later, in 1670–71, the Don Cossacks led by Stenka Razin initiated a major uprising in the Volga Region, but the Tsar's troops were successful in defeating the rebels.
+
+--f7f7c264b6cec2651b731d427d369e65_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>&nbsp;
+<div style="width:550px;padding:10px; font-family:Arial;text-align:left; font-size:22px;">Hello Neighbor,<br />
+<br />
+Did you know that the average homeowner saves over $1000 a year on electricity by installing solar panels on their roof? That&rsquo;s including the cost of solar panels!<br />
+<br />
+<a href="http://heatpad.co/G41o2WxOrZlOaL3aA0ckBpOuF77_q5h2V0gKgKR06dR_i9LV">Plus, solar panels typically take just 1-2 days to install on your home.</a><br />
+<br />
+The most common way to go solar today is by leasing, which essentially means instead of paying your power company, you pay a solar company the same low monthly payment.<br />
+<br />
+Our area now offers rebates to help cover the startup costs.<br />
+<br />
+<a href="http://heatpad.co/G41o2WxOrZlOaL3aA0ckBpOuF77_q5h2V0gKgKR06dR_i9LV">Want to find out more?</a><br />
+<br />
+Thanks,<br />
+The Team at HSR (HomeSolarRebates)<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://heatpad.co/FGFoxCPOb0pz9e-qZWXki1xxicXxfiUkTo9PEiyTbwKEuS8k"><img src="http://heatpad.co/505a7a419549574bc9.jpg" /></a></center>
+</div>
+<br />
+<br />
+<span style="color:#FFFFFF;">In development of the Third Rome ideas, the Grand Duke Ivan IV (the &quot;Terrible&quot;) was officially crowned first Tsar (&quot;Caesar&quot;) of Russia in 1547. The Tsar promulgated a new code of laws (Sudebnik of 1550), established the first Russian feudal representative body (Zemsky Sobor) and introduced local self-management into the rural regions. Tsar Ivan the Terrible, portrait by Viktor Vasnetsov, 1897 During his long reign, Ivan the Terrible nearly doubled the already large Russian territory by annexing the three Tatar khanates (parts of the disintegrated Golden Horde): Kazan and Astrakhan along the Volga River, and the Siberian Khanate in southwestern Siberia. Thus, by the end of the 16th century Russia was transformed into a multiethnic, multidenominational and transcontinental state. However, the Tsardom was weakened by the long and unsuccessful Livonian War against the coalition of Poland, Lithuania, and Sweden for access to the Baltic coast and sea trade. At the same time, the Tatars of the Crimean Khanate, the only remaining successor to the Golden Horde, continued to raid Southern Russia. In an effort to restore the Volga khanates, Crimeans and their Ottoman allies invaded central Russia and were even able to burn down parts of Moscow in 1571. But in the next year the large invading army was thoroughly defeated by Russians in the Battle of Molodi, forever eliminating the threat of an Ottoman&ndash;Crimean expansion into Russia. The slave raids of Crimeans, however, did not cease until the late 17th century though the construction of new fortification lines across Southern Russia, such as the Great Abatis Line, constantly narrowed the area accessible to incursions. Kuzma Minin appeals to the people of Nizhny Novgorod to raise a volunteer army against the Polish invaders The death of Ivan&#39;s sons marked the end of the ancient Rurik Dynasty in 1598, and in combination with the famine of 1601&ndash;03 led to civil war, the rule of pretenders, and foreign intervention during the Time of Troubles in the early 17th century. The Polish&ndash;Lithuanian Commonwealth occupied parts of Russia, including Moscow. In 1612, the Poles were forced to retreat by the Russian volunteer corps, led by two national heroes, merchant Kuzma Minin and Prince Dmitry Pozharsky. The Romanov Dynasty acceded to the throne in 1613 by the decision of Zemsky Sobor, and the country started its gradual recovery from the crisis. Russia continued its territorial growth through the 17th century, which was the age of Cossacks. Cossacks were warriors organized into military communities, resembling pirates and pioneers of the New World. In 1648, the peasants of Ukraine joined the Zaporozhian Cossacks in rebellion against Poland-Lithuania during the Khmelnytsky Uprising in reaction to the social and religious oppression they had been suffering under Polish rule. In 1654, the Ukrainian leader, Bohdan Khmelnytsky, offered to place Ukraine under the protection of the Russian Tsar, Aleksey I. Aleksey&#39;s acceptance of this offer led to another Russo-Polish War. Finally, Ukraine was split along the Dnieper River, leaving the western part, right-bank Ukraine, under Polish rule and the eastern part (Left-bank Ukraine and Kiev) under Russian rule. Later, in 1670&ndash;71, the Don Cossacks led by Stenka Razin initiated a major uprising in the Volga Region, but the Tsar&#39;s troops were successful in defeating the rebels. </span><br />
+<br />
+&nbsp;
+<center><a href="http://heatpad.co/VZo6nAOZ_yH_NwwCVj1wcCe0Hx63Aor31KBTMgt9xBN84Ueg"><img src="http://heatpad.co/a3b99734a64b18a3d7.jpg" /></a></center>
+</body>
+</html>
+
+--f7f7c264b6cec2651b731d427d369e65_263e_40195--

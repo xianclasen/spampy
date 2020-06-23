@@ -1,0 +1,58 @@
+Return-Path: <CanvasPrintsDiscount-bruce=untroubled.org@completeseasondvds.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 32043 invoked from network); 14 Jan 2020 16:07:06 -0000
+Received: (qmail 4062 invoked from network); 14 Jan 2020 16:07:05 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 16:07:05 -0000
+Received: (qmail 9001 invoked by uid 48516); 14 Jan 2020 16:07:04 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5670 invoked from network); 14 Jan 2020 16:07:03 -0000
+Received: from cartwright.completeseasondvds.com (cartwright.completeseasondvds.com [104.168.202.135])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 14 Jan 2020 16:07:03 -0000
+Received: by armstrong.completeseasondvds.com id h3njie0001gr for <bruce@untroubled.org>; Tue, 14 Jan 2020 16:07:01 +0000 (envelope-from <CanvasPrintsDiscount-bruce=untroubled.org@completeseasondvds.com>)
+Date: Tue, 14 Jan 2020 16:07:01 +0000
+From: Canvas Prints Discount <CanvasPrintsDiscount@completeseasondvds.com>
+Reply-To: CanvasPrintsDiscount@completeseasondvds.com
+To: bruce@untroubled.org
+Message-Id: <74390750-21ff-4bab-85c0-bf7e4d3d7445@completeseasondvds.com>
+Subject: =?utf-8?B?R2V0IFVOTElNSVRFRCAxNiB4IDIwIEN1c3RvbSBDYW52YXMgUHJpbnRzIGZvciAkMTQuOTk=?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-7ea1da1049f8__4a6dafdbba73833e_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 1457
+
+---_-_-7ea1da1049f8__4a6dafdbba73833e_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-7ea1da1049f8__4a6dafdbba73833e_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHA+Jm5ic3A7PC9wPgo8Y2VudGVyPgo8dGFibGUgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsi
+IHdpZHRoPSI2MDAiPgo8dGJvZHk+Cjx0ciBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+Cjx0
+ZCBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyIgd2lkdGg9IjYwMCI+PGEgaHJlZj0iaHR0cDov
+L2NvbXBsZXRlc2Vhc29uZHZkcy5jb20vb0VZODM2eHhBRjZOIj48aW1nIHNyYz0iaHR0cDovL2Nv
+bXBsZXRlc2Vhc29uZHZkcy5jb20vaW1hZ2VzLzViMzgxODMwYzMwMjI2YjFhZmZlNmE4ZGNjMGQ4
+MmIzIiAvPiA8L2E+PC90ZD4KPC90cj4KPC90Ym9keT4KPC90YWJsZT4KPHRhYmxlIHN0eWxlPSJ0
+ZXh0LWFsaWduOiBjZW50ZXI7IiB3aWR0aD0iNjAwIj4KPHRib2R5Pgo8dHIgc3R5bGU9InRleHQt
+YWxpZ246IGNlbnRlcjsiPgo8dGQgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiIHdpZHRoPSI2
+MDAiPlRoaXMgaXMgYW4gYWR2ZXJ0aXNlbWVudC48YnIgLz4gVGhpcyBlbWFpbCB3YXMgc2VudCBv
+biBiZWhhbGYgb2YgRWFzeSBDYW52YXMgUHJpbnRzLiA8YnIgLz4gVG8gc3RvcCByZWNlaXZpbmcg
+ZW1haWxzIGFib3V0IEVhc3kgQ2FudmFzIFByaW50cywgPGEgaHJlZj0iaHR0cDovL2NvbXBsZXRl
+c2Vhc29uZHZkcy5jb20vQzJLdXBzamp5NXlUIj4mbmJzcDs8L2E+PGEgaHJlZj0iaHR0cDovL2Nv
+bXBsZXRlc2Vhc29uZHZkcy5jb20vZ01nRV9DNTVJUEZGIj5VbnN1YnNjcmliZTwvYT4gb3Igd3Jp
+dGUgdG86PGJyIC8+IDExNTI1QSBTdG9uZWhvbGxvdyBEci4gU3VpdGUgMTAwIEF1c3RpbiwgVFgg
+Nzg3NTggPC90ZD4KPC90cj4KPC90Ym9keT4KPC90YWJsZT4KPC9jZW50ZXI+
+
+---_-_-7ea1da1049f8__4a6dafdbba73833e_-_---

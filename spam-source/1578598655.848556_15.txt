@@ -1,0 +1,147 @@
+Return-Path: <SRS0=+MHWbq=26=asept.buzz=blood.sugar.formula-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 8976 invoked from network); 9 Jan 2020 18:40:12 -0000
+Received: (qmail 921 invoked from network); 9 Jan 2020 18:40:11 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Jan 2020 18:40:11 -0000
+Received: (qmail 23044 invoked by uid 48516); 9 Jan 2020 18:40:11 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 16893 invoked from network); 9 Jan 2020 18:40:11 -0000
+Received: from mail.asept.buzz (70-102-103-130.nca.lanset.com [70.102.103.130])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 09 Jan 2020 18:40:10 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=asept.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=blood.sugar.formula@asept.buzz;
+ bh=AvTSQmMdXRIhiiAuol8VX9gCWQw=;
+ b=qQOMSlHc487MUgJg5S1cfUK0ZzGgvjV1L9Wj7t2d7fDyAr3AiZTD6AjMVom6hrqiismaXPxTikxA
+   BSmMRF1QxT277oQ0MxiEgQXuijHZ8HR4UUcnywFjZa1Ht6lsR9VotwXPIo6EiwtxcqAIyx45+f2I
+   dSP554D8uPtH5xS64T0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=asept.buzz;
+ b=K6HnnbEPwGDuM/HAGzDqfPisb6lwIRTsQecmNndnwvEOxsXgO5F85aSDaZTiPNieKE0n91nW8lWy
+   U7RxOCdAeaOjzt87BcmmG6kJo1JmST+mhNosLGC9qvrqB4zsQeiCqE0zllHCR9eCCzmczaXLMBGF
+   xt1BhF+ulWNu3mJQyFk=;
+Received: by mail.asept.buzz id h2tpok0001ga for <bruce@untroubled.org>; Thu, 9 Jan 2020 13:34:49 -0500 (envelope-from <blood.sugar.formula-bruce=untroubled.org@asept.buzz>)
+Date: Thu, 9 Jan 2020 13:34:49 -0500
+From: "Blood Sugar Formula" <blood.sugar.formula@asept.buzz>
+To:   <bruce@untroubled.org>
+Subject: MD: Do This Immediately if You Have Diabetes (It Works)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_169_698358493.1578594869580"
+List-Unsubscribe: <http://www.asept.buzz/a9d6CI23L95dmz8912mK1YT1S19fdL21pFv4GIf4rxvs4FhIHEsvZ10vQvRQRdoh96sP1ly05a@HiN/interrogate-demountable>
+Message-ID: <0.0.0.12.1D5C71B7989F174.B8AED@mail.asept.buzz>
+Content-Length: 6680
+
+------=_Part_169_698358493.1578594869580
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>dispensed</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); letter-spacing: normal; text-=
+indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adj=
+ust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: =
+2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; , serif; font-size: 17px; " width=3D"100%=
+">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 535px; " width=3D"586">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 12px; ">=20
+                 <h1 style=3D"margin: 20px 6px; color: rgb(34, 34, 34); lin=
+e-height: 32px; font-family: &quot; Sans Serif&quot; ; font-size: 40px; box=
+-sizing: border-box; text-align: center; "><span style=3D"font-family: &quo=
+t; Sans Serif&quot; ; "><span style=3D"color: rgb(0, 0, 0); "><strong>Diabe=
+tes Will Kill You (Do This To Stop&nbsp; It)</strong></span></span></h1>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; "><a href=3D"http://www.asept.buzz/15b5Xv2395b86yt12L7168CC19fdu21WFv4GIf4rxvs4FhIHEsvZ10KQvRQRdoh96Rlpr106jpHliM/evaluating-clasped"><img alt=3D"" src=3D"http://www.asept.buzz/e5d6gT23t95Ur7xa13hO716WbQ19fdr21AFv4GIf4rxvs4FhIHEsvZ10lQvRQRdoh96A1S0JR5QkOHi/evaluating-clasped" style=3D=
+"width: 454px; height: 311px; " /></a><br /> <br /> <span style=3D"color: r=
+gb(14, 14, 184); "><span style=3D"font-size: 33px; font-family: &quot; Sans=
+ Serif&quot; ; "><strong><a href=3D"http://www.asept.buzz/15b5Xv2395b86yt12L7168CC19fdu21WFv4GIf4rxvs4FhIHEsvZ10KQvRQRdoh96Rlpr106jpHliM/evaluating-clasped" style=3D"color: rgb(14, 14,=
+ 184); ">{Watch Now}</a></strong></span></span></p>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; ">&nbsp; </p>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"font-style: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb=
+(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; f=
+ont-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> &nbsp;=
+=20
+   <center>=20
+    <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; ">
+     <br />=20
+     <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif">&nbsp; End<a href=3D"http://www.asept.buzz/aspirins-Tuscanize/22e5f239g5p8sT611H7169D19fdy21mFv4GIf4rxvs4FhIHEsvZ10zQvRQRdoh96CO1M0q5yOLHi"><font color=3D"#666666">&n=
+bsp; Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Squar=
+e #804 | Haymarket, VA 20169, USA</font><br /> <br /> Remove<a href=3D"=
+http://www.asept.buzz/Steele-layout/b344L2395CFS8913S7M16akH19fdX21oFv4GIf4rxvs4FhIHEsvZ10lQvRQRdoh95no10l5SqHiX">&nbsp; Here</a><br /> <span style=3D"caret-color: rgb(0, 0,=
+ 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; fo=
+nt-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform=
+: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto=
+; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: arial=
+, helvetica, sans-serif; text-align: center; float: none; display: inline !=
+important; ">6547 N Academy Blvd #2128</span><span style=3D"caret-color: rg=
+b(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style:=
+ normal; font-variant-caps: normal; font-weight: normal; letter-spacing: no=
+rmal; text-indent: 0px; text-transform: none; white-space: normal; word-spa=
+cing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; tex=
+t-decoration: none; display: inline !important; float: none; "> </span><br =
+style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal=
+; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; o=
+rphans: auto; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-te=
+xt-stroke-width: 0px; text-decoration: none; font-family: arial, helvetica,=
+ sans-serif; font-size: 11px; text-align: center; " /> <span style=3D"caret=
+-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant=
+-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0p=
+x; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-=
+size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; f=
+ont-family: arial, helvetica, sans-serif; text-align: center; float: none; =
+display: inline !important; ">COLORADO SPRINGS CO 80918</span></span>
+     <br />=20
+     <br />=20
+     <br /> &nbsp;=20
+    </div> <span><span style="arbitration"><span class="angularly"><style id="ethically"><font title="carriage"></span></span></style><style id="Parsons"><style color="bargained"></span><span></span></font></style></style><font size="Hegelianizes"></font><font title="piggish"></font><small></small>
+   </center>=20
+  </center>  =20
+ <img src=3D"http://www.asept.buzz/Zionists-Francesco/22e6f2D3T95W85lL13bP716cXj19fdh21aFv4GIf4rxvs4FhIHEsvZ10QQvRQRdoh96Rpj1L06W21lHi" alt=3D""/></body>
+</html>
+
+------=_Part_169_698358493.1578594869580--
+

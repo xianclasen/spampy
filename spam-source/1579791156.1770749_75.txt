@@ -1,0 +1,349 @@
+Return-Path: <SRS0=Ucv5R6=3M=scorefixa.com=bishop@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 463 invoked from network); 23 Jan 2020 12:58:10 -0000
+Received: (qmail 4860 invoked from network); 23 Jan 2020 12:58:09 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Jan 2020 12:58:09 -0000
+Received: (qmail 14919 invoked by uid 48516); 23 Jan 2020 12:58:09 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 16910 invoked from network); 23 Jan 2020 12:58:08 -0000
+Received: from scorefixa.com (69-94-156-14.nca.lanset.com [69.94.156.14])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 23 Jan 2020 12:58:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=scorefixa.com; s=dkim;
+	t=1579781876; bh=jVhcHT+fMfQMQgeOXfJxa3AZPlc=;
+	h=To:Date:Subject:Message-ID:From;
+	b=AbSxtqHyQ5lycmbi2jNyVx8BTKKrja8Q3/x84f1ykJhnMDwcie1wetwbwAuROd8TT
+	 oJP/gQJUCIeF16HzWs9AXEEs/qd2PATa90xkwV3iov9Zl2zw7bcZfPf4OzdDG3MyJ2
+	 XJDhx26xaNMommYMJWBBsIwON8w+PnSLJRw8HthA=
+To: "bruce@untroubled.org" <bruce@untroubled.org> 
+List-Unsubscribe: <http://rrx1585S0KV3thd.scorefixa.com/198f987511167b75076e59b11_f48e295e/3/> 
+Date: Thu, 23 Jan 2020 07:17:56 -0500 
+Subject: Congratulations! You have been nominated 
+Message-ID: <aqf3U2933EX7imr.wrf794121GH2yur@scorefixa.com> 
+MIME-Version: 1.0 
+From: "Samantha Lee" <bishop@scorefixa.com> 
+Content-type: multipart/alternative; boundary="---=_Part_85_272J15.IOK5";
+Content-Length: 16285
+
+-----=_Part_85_272J15.IOK5
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Congratulations! You have been nominated
+
+http://jgm88EX689XTwmb.scorefixa.com/208a51b7c4967b75076e59b116261217_f48e295e-010101030001/1/
+
+Congratulations! You have been nominated
+
+-----=_Part_85_272J15.IOK5
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Marquis Who's Who-Bio</title>
+<style type="text/css">
+ 
+/* Outlook link fix */
+
+#outlook a {
+ padding: 0;
+}
+/* Hotmail background & line height fixes */
+ExternalClass {
+ width: 100% !important;
+}
+ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+ line-height: 100%;
+}
+/* Image borders & formatting */
+img {
+ outline: none;
+ text-decoration: none;
+ -ms-interpolation-mode: bicubic;
+}
+a img {
+ border: none;
+}
+/* Re-style iPhone automatic links (eg. phone numbers) */
+applelinks a {
+ color: #222222;
+ text-decoration: none;
+}
+/* Hotmail symbol fix for mobile devices */
+ExternalClass img[class^=Emoji] {
+ width: 10px !important;
+ height: 10px !important;
+ display: inline !important;
+}
+tpl-content {
+ display: inline !important;
+}
+
+/*.mob, .moblast{ display:none !important;}*/
+ 
+ @media only screen and (max-width: 620px){
+ .wrapper { width:100% !important;}
+ .table90 { width:90% !important; display:block !important;}
+ td[class="logo"] { display:none !important;}
+ td[class="mob_logo"] { display:block !important; width:auto !important; max-height: inherit !important; overflow:visible!important; float:none!important; padding-top:16px !important;}
+ .mob_logo { display:block !important; width:auto !important; max-height: inherit !important; overflow:visible!important; float:none!important; padding-top:16px !important;}
+ td[class="learnmore"] { display:none !important; padding:0 !important;}
+ td[class="mob_learn"] { display:block !important; width:auto !important; max-height: inherit !important; overflow:visible!important; float:none!important; padding-top:16px !important}
+ td[class="banner"] img { width:100% !important; height:auto !important}
+ td[class="scar1"] { padding-left:0 !important; font-size:15px !important;}
+ .scar { width:100% !important; display:block !important}
+ .scar td { font-size:12px !important;}
+ .scar img { width:80% !important; height:auto !important;}
+ td[class="heading"] { font-size:17px !important;} 
+ td[class="para"] { font-size:15px !important; padding:0 10px !important; text-align:justify !important; display:none !important; width:0 !important; max-height:0 !important; overflow: hidden !important; float: left !important;} 
+ a[class="button"] img { width:100% !important; height:auto !important}
+ td[class="parahide"] {display:none !important; width:0 !important; max-height:0 !important; overflow: hidden !important; float: left !important; padding: 0px !important;}
+ .parahide {display:none !important; width:0 !important; max-height:0 !important; overflow: hidden !important; float: left !important; padding: 0px !important;}
+ td[class="hideall"] {display:none !important; width:0 !important; max-height:0 !important; overflow: hidden !important;}
+ td[class="lineh"] {line-height: 16px !important; padding-bottom: 10px !important;} 
+ .fonti1 {line-height: 22px !important;}
+ .fonti2 {font-size: 25px !important; line-height: 30px !important; padding-top: 20px !important;}
+ .padd20 {padding: 0 10px !important;}
+ .border5 {border: 5px solid #e0eeee !important;}
+ .fonti3 {font-size: 18px !important; line-height: 20px !important; padding-top: 5px !important;}
+ .nopadd {padding: 10px 0 0 5px !important;}
+ .w1 {width: 280px !important;}
+ .fonti4 {font-size: 19px !important; line-height: 22px !important;}
+ .fonti5 {font-size: 14px !important; line-height: 18px !important;}
+ .pt {padding-top: 5px !important;}
+ .mauto {margin: 0 auto !important; text-align: center !important;}
+ .mauto1 {margin: 0 auto !important; text-align: center !important; width: 100% !important; height: auto !important;}
+ .mauto2 {margin: 0 auto !important; text-align: center !important; width: 90% !important; height: auto !important;}
+ .mob_logo1 { display:block !important; width:100% !important; max-height: inherit !important; overflow:visible!important; float:none!important; padding-top:0 !important;}
+ .p22 {font-size: 11px !important; padding-left: 5px !important; padding-right: 5px !important;}
+ .split1 {float: left !important; width: 100% !important; padding: 10px 0 !important;}
+ .border10 {border: 8px solid #b5a88d !important; border-radius: 7px !important;}
+ .tr {text-align: center !important;}
+ .padd10 {padding-left: 10px !important; padding-right: 10px !important;}
+ 
+ table[class=emailwrapto80pc], td[class=emailwrapto80pc], img[class=emailwrapto80pc] {
+ width: 80% !important;
+ height: auto !important;
+ margin: 0 10% !important;
+}
+ 
+ 
+ 
+@media screen and (min-width: 620px) {
+td[class=mob] {
+ display: none !important;
+ height: 0px !important;
+ width: 0px !important;
+ font-size: 0px !important;
+ line-height: 0px !important;
+ mso-hide: all;
+}
+*[class~=mob] {
+ display: none !important;
+}
+td div a {
+ display: none !important;
+}
+td[class=moblast] {
+ display: none !important;
+ height: 0px !important;
+ width: 0px !important;
+ font-size: 0px !important;
+ line-height: 0px !important;
+}
+td[yahoo]#moblast {
+ display: none !important;
+ height: 0px !important;
+ width: 0px !important;
+ font-size: 0px !important;
+ line-height: 0px !important;
+}
+td[yahoo]#mob {
+ display: none !important;
+ height: 0px !important;
+ width: 0px !important;
+ font-size: 0px !important;
+ line-height: 0px !important;
+}
+td[class=emailwrapto100pcmob] {
+ display: none !important;
+ height: 0px !important;
+ width: 0px !important;
+ font-size: 0px !important;
+ line-height: 0px !important;
+ width: 100% !important;
+ height: auto !important;
+ padding: 0 !important;
+}
+mobs {
+ display: none !important;
+}
+} 
+ 
+ 
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body style="margin: 0; padding: 0;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td valign="top" align="center"><table width="633" border="0" cellspacing="0" cellpadding="0" align="center" class="wrapper">
+ <tr>
+ <td valign="middle" height="30" style=" font-family:Arial, sans-serif; font-size:12px; color:#333333; line-height:30px; text-align: center;" class="parahide">Can't view this email correctly? <a href="http://oar3R7159TX4wqs.scorefixa.com/208a51b7c4967b75076e59b116261217_f48e295e-010101030001/1/" style="color:#0000FF;">Visit Here</a> for more details on this content.</td>
+ </tr>
+ <tr>
+ <td valign="top" style="border: 18px solid #b5a88d; border-radius: 15px;" class="border10"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="wrapper">
+ <tr>
+ <td valign="top" style="border: 1px solid #9d731f;"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="wrapper">
+ <tr>
+ <td valign="top" align="center" bgcolor="#fff"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="wrapper">
+ <tr>
+ <td valign="top" height="10"></td>
+ </tr>
+ 
+ <tr>
+ <td valign="top" height="15" class="parahide"></td>
+ </tr>
+ 
+ <tr>
+ <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="wrapper">
+ <tr>
+ <td valign="top" style=" font-size:0px; line-height:0px; text-align: center; padding-top: 10px; padding-left: 10px;" width="214" class="split1"><a href="http://fff525KD135Wtli.scorefixa.com/208a51b7c4967b75076e59b116261217_f48e295e-010101030001/1/"><img src="http://nitIYO18BL66dys.scorefixa.com/images/20190214160822-logo-2.jpg" width="178" height="61" alt="" border="0" class="mauto"/></a></td>
+ <td valign="top" width="381" style="padding-right: 20px;" class="split1"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td valign="top" style="font-family:Arial, sans-serif; font-size:16px; color:#333333; line-height:20px; text-align: right;" class="tr">America's most trusted and <br class="parahide" />
+ accomplished individuals since 1898</td>
+ </tr>
+ <tr>
+ <td valign="top" style="font-family:Arial, sans-serif; font-size:15px; color:#333333; line-height:15px; text-align: right; padding-top: 12px; font-weight: bold;" class="tr">The Original Publisher of Biographies</td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ <tr>
+ <td valign="top" height="15"></td>
+ </tr>
+ </table></td>
+ </tr>
+ <tr>
+ <td valign="top" height="18"></td>
+ </tr>
+ <tr>
+ <td valign="top" style="padding-left: 20px; padding-right: 20px; padding-bottom: 20px;" class="padd10"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="wrapper">
+ <tr>
+ <td valign="top" style="font-family:Arial, sans-serif; font-size:14px; color:#333333; line-height:14px; text-align: left; font-weight: bold;">Dear Valued Candidate, </td>
+ </tr>
+ <tr>
+ <td valign="top" height="20"></td>
+ </tr>
+ <tr>
+ <td valign="top" style="font-family:Arial, sans-serif; font-size:14px; color:#333333; line-height:18px; text-align: left;"><span class="text" style="color:#333333; font-family:Verdana, Arial, sans-serif; font-size:14px; line-height:20px; text-align:justify">This letter serves to formally identify you as a biographical candidate for inclusion in our most lauded publication.</span></td>
+ </tr>
+ <tr>
+ <td valign="top" height="20"></td>
+ </tr>
+ <tr></tr>
+ <tr>
+ <td valign="top" style=" font-family:Arial, sans-serif; font-size:14px; color:#444344; line-height:18px; text-align: left;"><span class="text" style="color:#333333; font-family:Verdana, Arial, sans-serif; font-size:14px; line-height:20px; text-align:justify">For more than 100 years, we have chronicled the lives and accomplishments of distinguished Americans. This book, along with many of our titles, can be found on the shelves of prestigious libraries throughout the United States, including the Library of Congress. Over time, we have also compiled a robust online database of these noteworthy individuals, thereby enabling people from around the world to learn about their great contributions. Having one’s name listed among our listees is quite an achievement.</span></td>
+ </tr>
+ <tr>
+ <td valign="top" height="20"></td>
+ </tr>
+ <tr>
+ <td valign="top" style="font-family:Arial, sans-serif; font-size:14px; color:#333333; line-height:18px; text-align: left;"><p><span class="text" style="color:#333333; font-family:Verdana, Arial, sans-serif; font-size:14px; line-height:20px; text-align:justify">Please complete your biographical data form by clicking on the link below. This is the next step toward becoming a featured listee.</span></p>
+ <p><a class="link-u" href="http://jtw93AMTUM9Hvcs.scorefixa.com/208a51b7c4967b75076e59b116261217_f48e295e-010101030001/1/" style="color:#e55405; text-decoration:underline" target="_blank"><strong class="link-u" style="color:#0000FF; text-decoration:underline; font-size: 16px;">Click Here to Complete Your Profile >></strong></a></p></td>
+ </tr>
+ <tr>
+ <td valign="top" height="20"></td>
+ </tr>
+ <tr>
+ <td valign="top" style="font-family:Arial, sans-serif; font-size:14px; color:#333333; line-height:18px; text-align: left;"><span class="text" style="color:#333333; font-family:Verdana, Arial, sans-serif; font-size:14px; line-height:20px; text-align:justify">Once we have received your information, we will confirm your acceptance and your biographical details will become accessible via our online database. This means that people from the United States and beyond will be able to learn about you and your praiseworthy endeavors.<br />
+ </span></td>
+ </tr>
+ <tr>
+ <td valign="top" height="20"></td>
+ </tr>
+ <tr>
+ <td valign="top" style=" font-family:Arial, sans-serif; font-size:14px; color:#444344; line-height:18px; text-align: left;"><span style="font-family:Arial, sans-serif; font-size:14px; color:#333333; line-height:20px; text-align: left;">You are to be commended for the efforts that have brought your name to our attention. We wish you continued success.</span></td>
+ </tr>
+ <tr>
+ <td valign="top" height="20"></td>
+ </tr>
+ <tr>
+ <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td valign="top" width="250" class="wrapper"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td valign="top" height="15"></td>
+ </tr>
+ <tr>
+ <td valign="top" style=" font-size:0px; line-height:0px; text-align: center;"><table border="0" cellpadding="0" cellspacing="0">
+ <tbody>
+ <tr>
+ <td bgcolor="#e55405" style="padding: 10px 20px; "><div class="text-button" style="color:#ffffff; font-family:Verdana, Arial,sans-serif; font-size:14px; line-height:18px; text-align:center"><a class="link-white" href="http://hysQ6YVXH356xuj.scorefixa.com/208a51b7c4967b75076e59b116261217_f48e295e-010101030001/1/" style="color:#ffffff; text-decoration:none" target="_blank"><span class="link-white" style="color:#ffffff; text-decoration:none; font-weight: bold;">Click to Get Started >></span></a></div></td>
+ </tr>
+ </tbody>
+ </table> </td>
+ </tr>
+ <tr>
+ <td valign="top" height="20"></td>
+ </tr>
+ <tr>
+ <td valign="top" style="font-family:Arial, sans-serif; font-size:14px; color:#333333; line-height:18px; text-align: left;">Sincerely,</td>
+ </tr>
+ <tr>
+ <td valign="top" style=" font-size:0px; line-height:0px; text-align: left; padding-top: 10px;"><a href="http://ldyX9J9ISL49htp.scorefixa.com/208a51b7c4967b75076e59b116261217_f48e295e-010101030001/1/"><img src="http://ajiO6C56BE70hvs.scorefixa.com/images/aaa.png" width="150" height="48" alt="" border="0" /></a></td>
+ </tr>
+ <tr>
+ <td valign="top" style=" font-family:Arial, sans-serif; font-size:14px; color:#444344; line-height:18px; text-align: left; padding-top: 15px;"><span style="font-family:Arial, sans-serif; font-size:14px; color:#333333; line-height:18px; text-align: left; padding-top: 15px;">Joan Riley<br />
+Chief Operating Officer<br />
+Professional Who’s Who</span></td>
+ </tr>
+ </table></td>
+ <td valign="top" style="font-size:0px; line-height:0px; text-align: right;" width="266" class="parahide"><a href="http://mupSJ9M47332ger.scorefixa.com/208a51b7c4967b75076e59b116261217_f48e295e-010101030001/1/"><img src="http://bdo905G611NIkoe.scorefixa.com/images/qqq.png" width="214" height="246" alt="" border="0" /></a></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr> 
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ <tr>
+ <td valign="top" style=" font-family:Arial, sans-serif; font-size:12px; color:#666666; line-height:16px; text-align: center; padding-top: 20px;" class="p22"><div>
+ <p> </p>
+ <p><strong>Please note</strong> : If you have previously submitted your biography to Professional or been included in any prior Marquis' Publications, you may disregard this message.</p>
+ <p>The above is an advertisement sent by Executive Leads Inc. 626 RXR Plaza Uniondale, NY 11556
+ If you wish to unsubscribe from all future Executive Leads mailings, please <a href="http://ojm5CM73F1NDgpo.scorefixa.com/208c07cc0f167b75076e59b116271217_f48e295e-010101030001/1/">Click Here</a></p>
+ <p>© 2019 Professional Who's Who, Inc. All rights reserved.</p>
+ <p><br />
+ <br />
+ <br />
+ </p>
+ </div>
+<p>  </p>
+ <p> </p></td>
+ </tr>
+ <tr>
+ <td valign="top" height="20"></td>
+ </tr>
+ </table></td>
+ </tr>
+</table>
+<img border="0" border="0" src="http://affiliate.xleadsinc.com/aff_c?offer_id=529&aff_id=2920&file_id=3379" width="1" height="1" /><img border="0" border="0" src="http://affiliate.xleadsinc.com/aff_c?offer_id=529&aff_id=2920&file_id=3379" width="1" height="1" /><img border="0" src="http://affiliate.xleadsinc.com/aff_i?offer_id=529&aff_id=2920&file_id=3379" width="1" height="1" /></body>
+</html>
+
+<center>
+
+
+<font face=verdana size=1>purge my email from your index <a href='http://bxm2RO320K7Oeqg.scorefixa.com/198f987511167b75076e59b11_f48e295e/U/7133'>here</a> <br> 1500 Beville Rd STE 606 Box 10009, Daytona Beach, FL 32114
+<img src="http://nyfVTO4D8543dqj.scorefixa.com/208d8e1d77067b75076e59b116458d0b_f48e295e-010101030001/2/">
+
+-----=_Part_85_272J15.IOK5--

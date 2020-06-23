@@ -1,0 +1,100 @@
+Return-Path: <SRS0=9co+Ua=3N=mail.projecterhalki.us=6895-2982-85526-1839-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 20102 invoked from network); 24 Jan 2020 08:32:32 -0000
+Received: (qmail 13177 invoked from network); 24 Jan 2020 08:32:32 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 08:32:32 -0000
+Received: (qmail 31353 invoked by uid 48516); 24 Jan 2020 08:32:31 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 6908 invoked from network); 24 Jan 2020 08:32:31 -0000
+Received: from nix.projecterhalki.us ([170.130.174.50])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 24 Jan 2020 08:32:31 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=projecterhalki.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=AsianBeauty@projecterhalki.us;
+ bh=H5V56DjkeU+wJdBrrXfknseff78=;
+ b=p5ce6Wd9aPNcQ9xM5x7fos08ofz6o1okCBbwRnxe/y6sjLYNmnEKBSRR3gqjm7PTIbJMopJ3q5v5
+   OonX7Bka9Ka9adwKqPzhdIVvolPIDxToKzDr4MeOQndrq7yvqooJlDfjV3bkHqsLWaQ7RtrVGVBF
+   dCL6QAozFMV81qCIE4E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=projecterhalki.us;
+ b=pVL43isyq9SgSQWbhWMHj0qjP5OZ13q0X/pSkRynYM1QpP/N4WYoTDbb/Ka3DLq2S10bpp9P8bU3
+   WuC9EZnGs2ff4/MRwXKdAeFo+fd/Y7hYlqVrXF4LusNeMiMRal5irr9QsNe4kwUqjRVMj2lElKYC
+   Hynhz2i2pDo6e3uF/10=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="8a39e92d35f8945a9a2742926dbe442f_ba6_14e16"
+Date: Fri, 24 Jan 2020 03:27:21 -0500
+From: "AsianBeauty" <AsianBeauty@projecterhalki.us>
+Reply-To: "AsianBeauty" <AsianLady@projecterhalki.us>
+Subject: Desperate Asian Girls Looking for Dates
+To: <bruce@untroubled.org>
+Message-ID: <zwatyalwwhv6s4fk-v0feeb3e9lm1zjkz-ba6-14e16@projecterhalki.us>
+Content-Length: 5815
+
+--8a39e92d35f8945a9a2742926dbe442f_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Desperate Asian Girls Looking for Dates
+
+http://projecterhalki.us/EDnqpNDviitFa8U6Rtmj_XXTncWRfzl2qBvkuPrgfU24Oi54
+
+http://projecterhalki.us/AizC5n-TEIrSVPRDZBU1TZJyQNf16ry5GOXVy9opCX4IBEo
+
+    In Young's own judgment, of his many achievements the most important was to establish the wave theory of light. To do so, he had to overcome the century-old view, expressed in the venerable Newton's Opticks, that light is a particle. Nevertheless, in the early 19th century Young put forth a number of theoretical reasons supporting the wave theory of light, and he developed two enduring demonstrations to support this viewpoint. With the ripple tank he demonstrated the idea of interference in the context of water waves. With Young's interference experiment, or double-slit experiment, he demonstrated interference in the context of light as a wave.
+Plate from "Lectures" of 1802 (RI), pub. 1807
+
+Young, speaking on 24 November 1803, to the Royal Society of London, began his now-classic description of the historic experiment:
+
+    The experiments I am about to relate ... may be repeated with great ease, whenever the sun shines, and without any other apparatus than is at hand to every one. 
+
+In his subsequent paper, titled Experiments and Calculations Relative to Physical Optics (1804), Young describes an experiment in which he placed a card measuring approximately 0.85 millimetres (0.033 in) in a beam of light from a single opening in a window and observed the fringes of colour in the shadow and to the sides of the card. He observed that placing another card in front or behind the narrow strip so as to prevent the light beam from striking one of its edges caused the fringes to disappear. This supported the contention that light is composed of waves.
+
+Young performed and analysed a number of experiments, including interference of light from reflection off nearby pairs of micrometre grooves, from reflection off thin films of soap and oil, and from Newton's rings. He also performed two important diffraction experiments using fibres and long narrow strips. In his Course of Lectures on Natural Philosophy and the Mechanical Arts (1807) he gives Grimaldi credit for first observing the fringes in the shadow of an object placed in a beam of light. Within ten years, much of Young's work was reproduced and then extended by Augustin-Jean Fresnel.
+
+--8a39e92d35f8945a9a2742926dbe442f_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://projecterhalki.us/EDnqpNDviitFa8U6Rtmj_XXTncWRfzl2qBvkuPrgfU24Oi54" style="font-size:40px;font-family:Arial; color:blue; text-decoration:none;">Desperate Asian Girls Looking for Dates</a><br />
+<br />
+<a href="http://projecterhalki.us/EDnqpNDviitFa8U6Rtmj_XXTncWRfzl2qBvkuPrgfU24Oi54"><img src="http://projecterhalki.us/be822722bfbded1e54.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://projecterhalki.us/rZm_ggH9Pb9xfafSv8HyOQK2Vo2NP6VpGFGihDDaFmSd1NSi"><img src="http://projecterhalki.us/364292d7ab128d12b5.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://projecterhalki.us/AizC5n-TEIrSVPRDZBU1TZJyQNf16ry5GOXVy9opCX4IBEo"><img src="http://projecterhalki.us/0a6debd4c1f313b78a.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">In Young&#39;s own judgment, of his many achievements the most important was to establish the wave theory of light. To do so, he had to overcome the century-old view, expressed in the venerable Newton&#39;s Opticks, that light is a particle. Nevertheless, in the early 19th century Young put forth a number of theoretical reasons supporting the wave theory of light, and he developed two enduring demonstrations to support this viewpoint. With the ripple tank he demonstrated the idea of interference in the context of water waves. With Young&#39;s interference experiment, or double-slit experiment, he demonstrated interference in the context of light as a wave. Plate from &quot;Lectures&quot; of 1802 (RI), pub. 1807 Young, speaking on 24 November 1803, to the Royal Society of London, began his now-classic description of the historic experiment: The experiments I am about to relate ... may be repeated with great ease, whenever the sun shines, and without any other apparatus than is at hand to every one. In his subsequent paper, titled Experiments and Calculations Relative to Physical Optics (1804), Young describes an experiment in which he placed a card measuring approximately 0.85 millimetres (0.033 in) in a beam of light from a single opening in a window and observed the fringes of colour in the shadow and to the sides of the card. He observed that placing another card in front or behind the narrow strip so as to prevent the light beam from striking one of its edges caused the fringes to disappear. This supported the contention that light is composed of waves. Young performed and analysed a number of experiments, including interference of light from reflection off nearby pairs of micrometre grooves, from reflection off thin films of soap and oil, and from Newton&#39;s rings. He also performed two important diffraction experiments using fibres and long narrow strips. In his Course of Lectures on Natural Philosophy and the Mechanical Arts (1807) he gives Grimaldi credit for first observing the fringes in the shadow of an object placed in a beam of light. Within ten years, much of Young&#39;s work was reproduced and then extended by Augustin-Jean Fresnel. </span></center>
+</body>
+</html>
+
+--8a39e92d35f8945a9a2742926dbe442f_ba6_14e16--

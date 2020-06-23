@@ -1,0 +1,135 @@
+Return-Path: <SRS0=8IUeYh=3E=mail.brainproo.us=6438-2982-85526-1723-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 10817 invoked from network); 15 Jan 2020 12:48:18 -0000
+Received: (qmail 11541 invoked from network); 15 Jan 2020 12:48:17 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Jan 2020 12:48:17 -0000
+Received: (qmail 23515 invoked by uid 48516); 15 Jan 2020 12:48:17 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15820 invoked from network); 15 Jan 2020 12:48:16 -0000
+Received: from costa.brainproo.us ([170.130.174.45])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 15 Jan 2020 12:48:03 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=brainproo.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=HearingAidsSpecial@brainproo.us;
+ bh=jlchRJ2Eb+a0SRkBsCpVs+s6M70=;
+ b=i08CMMDtSxYhoXZpWGUGPmJBI/CuboRcVVMa+YK7vWF6XLmU+ikpzFP2zJvYZd7PTojqVj7P6O25
+   8Mpqo7beamaoh4E2aV8mYPlJTj7YRM1VNuU+DN161wCui0R+4Kw/U0uyzem8FMAqPrpzNPTbWIo3
+   TO9Hw7wwK4BEpiT+0Dk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=brainproo.us;
+ b=g2CYbb63Rb1S+XlL1MmvzTB3mMXHcsFFJryKQSUffHD0XKiY7Q1Rv2LApA8r7y3NxC+qF02GqhwC
+   EnEpJ84M69wG4AYgH/LGJAK92VOej/NSni+nJK6rFvO6F4S0aqEQo3ezEPdHsy01jCG5NwK5vNBA
+   u3zxfoHkG/AK5qMxd4w=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="47a67646dc20101f699562d455f2316b_ba6_14e16"
+Date: Wed, 15 Jan 2020 07:46:49 -0500
+From: "Hearing Aids Special" <HearingAidsSpecial@brainproo.us>
+Reply-To: "Hearing Aids" <HearingAidsSpecial@brainproo.us>
+Subject: These Hearing Aids Will Change Your Life!
+To: <bruce@untroubled.org>
+Message-ID: <orm4kknwtwioets3-8watcipfw2zpzt65-ba6-14e16@brainproo.us>
+Content-Length: 9419
+
+--47a67646dc20101f699562d455f2316b_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+These Hearing Aids Will Change Your Life!
+
+http://brainproo.us/HU4HHDJqXJese8BSVctquokwPDJvXc5wvv2xDdKmbb8PvhSf
+
+http://brainproo.us/D7N6qQYwf4oecl6isxLvtMmLOz_JkPPXc6q9JEUpGVmRGpUU
+
+Yes, Independent Indonesia can only be achieved with Dai Nippon...For the first time in all my life, I saw myself in the mirror of Asia." In July 1942, Sukarno was sent back to Jakarta, where he re-united with other nationalist leaders recently released by the Japanese, including Mohammad Hatta. There, he met the Japanese commander General Hitoshi Imamura, who asked Sukarno and other nationalists to galvanise support from Indonesian populace to aid the Japanese war effort.
+File:Sukarno and Japan, ABC 1966.webmPlay media
+1966 ABC report examining Sukarno's alliance between imperial Japan and the Indonesian nationalist movement
+
+Sukarno was willing to support the Japanese, in exchange for a platform for himself to spread nationalist ideas to the mass population. The Japanese, on the other hand, needed Indonesia's workforce and natural resources to help its war effort. The Japanese recruited millions of people, mainly from Java, to be forced labour called "romusha" in Japanese. They were forced to build railways, airfields, and other facilities for the Japanese within Indonesia and as far away as Burma. Additionally, the Japanese requisitioned rice and other food produced by Indonesian peasants to supply their troops, while forcing the peasantry to cultivate castor oil plants to be used as aviation fuel and lubricants.
+
+To gain cooperation from Indonesian population and to prevent resistance to these measures, the Japanese put Sukarno as head of Tiga-A mass organisation movement. In March 1943, the Japanese formed a new organisation called Poesat Tenaga Rakjat (POETERA/ Center of People's Power) under Sukarno, Hatta, Ki Hadjar Dewantara, and KH Mas Mansjoer. These organisations aimed to galvanise popular support for recruitment of romusha, to requisition of food products, and to promote pro-Japanese and anti-Western sentiments amongst Indonesians. Sukarno coined the term, Amerika kita setrika, Inggris kita linggis ("Let's iron America, and bludgeon the British") to promote anti-Allied sentiments. In later years, Sukarno was lastingly ashamed of his role with the romusha. Additionally, food requisitioning by the Japanese caused widespread famine in Java, which killed more than one million people in 1944–1945. In his view, these were necessary sacrifices to be made to allow for the future independence of Indonesia. He also was involved with the formation of Pembela Tanah Air (PETA) and Heiho (Indonesian volunteer army troops) via speeches broadcast on the Japanese radio and loudspeaker networks across Java and Sumatra. By mid-1945 these units numbered around two million and were preparing to defeat any Allied forces sent to re-take Java.
+
+In the meantime, Sukarno eventually divorced Inggit, who refused to accept her husband's wish for polygamy. She was provided with a house in Bandung and a pension for the rest of her life. In 1943, he married Fatmawati. They lived in a house in Jalan Pegangsaan Timur No. 56, confiscated from its previous Dutch owners and presented to Sukarno by the Japanese. This house would later be the venue of the Proclamation of Indonesian Independence in 1945.
+
+--47a67646dc20101f699562d455f2316b_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://brainproo.us/gTzV9TBEM3Cz9RZVDVfup4O2-Rk1T0nD-NheEW1asXDRDD7C"><img src="http://brainproo.us/3ae874cca37b415ead.jpg" /><img height="1" src="http://www.brainproo.us/NYiZKHiIhW5suwy0kTs0L2GSrjVlg6NPPf1KWqUG_ssotBBs" width="1" /></a><br />
+&nbsp;
+<center>
+<div style="width:629px; font-size:20px; background-color:#c6d9f1;padding:20px;">&nbsp;
+<h1><a href="http://brainproo.us/HU4HHDJqXJese8BSVctquokwPDJvXc5wvv2xDdKmbb8PvhSf" style="color:#c00000; text-decoration:none;">This Is Going to Change Your Life forever!</a></h1>
+
+<p>The latest statistics show that about 40% of people over 55 suffer from some type of hearing problem, although most choose to ignore it.</p>
+
+<table>
+	<tbody>
+		<tr>
+			<td><a href="http://brainproo.us/HU4HHDJqXJese8BSVctquokwPDJvXc5wvv2xDdKmbb8PvhSf"><img src="http://brainproo.us/c9809be6ba9853fa0e.jpeg" /></a></td>
+			<td style="line-height:30px;">Are you too is suffering from the hearing problem? Hearing loss can not only be frustrating, but it can also make you a social recluse unable to join social situations. This can now change, in your budget</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td style="line-height:30px;">&bull; Crystal-Clear Adjustable Speaker<br />
+			&bull; Never miss another conversation again<br />
+			&bull; Advanced Technology<br />
+			&bull; Built-in high-sensitivity microphones<br />
+			&bull; Moisture-Resistant<br />
+			&bull; Doesn&#39;t force you to give up activities because of a device<br />
+			&bull; Compact And Discrete<br />
+			&bull; Not noticed by others</td>
+			<td style="line-height:30px;"><a href="http://brainproo.us/HU4HHDJqXJese8BSVctquokwPDJvXc5wvv2xDdKmbb8PvhSf"><img src="http://brainproo.us/a3a045279a32da1541.jpg" /></a></td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="color:#00b089;">AudiPlus247 brings latest generation hearing aid to the masses. With the help of new manufacturing techniques, it provides crystal clear sound to everyone who had issues with their hearing. <b><a href="http://brainproo.us/HU4HHDJqXJese8BSVctquokwPDJvXc5wvv2xDdKmbb8PvhSf" style="color:#0070c0;">Tap here and avail 50% off now</a></b></p>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://brainproo.us/ULCL0AGEP1VPtc_wLUMxnf0AVQgVe94Wwb6w87xnYl5XzT_C" target="_blank"><img src="http://brainproo.us/a46fbd26d580c5a88c.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">Yes, Independent Indonesia can only be achieved with Dai Nippon...For the first time in all my life, I saw myself in the mirror of Asia.&quot; In July 1942, Sukarno was sent back to Jakarta, where he re-united with other nationalist leaders recently released by the Japanese, including Mohammad Hatta. There, he met the Japanese commander General Hitoshi Imamura, who asked Sukarno and other nationalists to galvanise support from Indonesian populace to aid the Japanese war effort. File:Sukarno and Japan, ABC 1966.webmPlay media 1966 ABC report examining Sukarno&#39;s alliance between imperial Japan and the Indonesian nationalist movement Sukarno was willing to support the Japanese, in exchange for a platform for himself to spread nationalist ideas to the mass population. The Japanese, on the other hand, needed Indonesia&#39;s workforce and natural resources to help its war effort. The Japanese recruited millions of people, mainly from Java, to be forced labour called &quot;romusha&quot; in Japanese. They were forced to build railways, airfields, and other facilities for the Japanese within Indonesia and as far away as Burma. Additionally, the Japanese requisitioned rice and other food produced by Indonesian peasants to supply their troops, while forcing the peasantry to cultivate castor oil plants to be used as aviation fuel and lubricants. To gain cooperation from Indonesian population and to prevent resistance to these measures, the Japanese put Sukarno as head of Tiga-A mass organisation movement. In March 1943, the Japanese formed a new organisation called Poesat Tenaga Rakjat (POETERA/ Center of People&#39;s Power) under Sukarno, Hatta, Ki Hadjar Dewantara, and KH Mas Mansjoer. These organisations aimed to galvanise popular support for recruitment of romusha, to requisition of food products, and to promote pro-Japanese and anti-Western sentiments amongst Indonesians. Sukarno coined the term, Amerika kita setrika, Inggris kita linggis (&quot;Let&#39;s iron America, and bludgeon the British&quot;) to promote anti-Allied sentiments. In later years, Sukarno was lastingly ashamed of his role with the romusha. Additionally, food requisitioning by the Japanese caused widespread famine in Java, which killed more than one million people in 1944&ndash;1945. In his view, these were necessary sacrifices to be made to allow for the future independence of Indonesia. He also was involved with the formation of Pembela Tanah Air (PETA) and Heiho (Indonesian volunteer army troops) via speeches broadcast on the Japanese radio and loudspeaker networks across Java and Sumatra. By mid-1945 these units numbered around two million and were preparing to defeat any Allied forces sent to re-take Java. In the meantime, Sukarno eventually divorced Inggit, who refused to accept her husband&#39;s wish for polygamy. She was provided with a house in Bandung and a pension for the rest of her life. In 1943, he married Fatmawati. They lived in a house in Jalan Pegangsaan Timur No. 56, confiscated from its previous Dutch owners and presented to Sukarno by the Japanese. This house would later be the venue of the Proclamation of Indonesian Independence in 1945. </span><br />
+<br />
+<br />
+<br />
+&nbsp;</center>
+</body>
+</html>
+
+--47a67646dc20101f699562d455f2316b_ba6_14e16--

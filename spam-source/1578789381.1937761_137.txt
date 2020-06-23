@@ -1,0 +1,97 @@
+Return-Path: <SRS0=7a0a2b=3A=mail.gunnlaserr.co=6175-1095-83442-1662-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 8044 invoked from network); 11 Jan 2020 08:53:59 -0000
+Received: (qmail 14089 invoked from network); 11 Jan 2020 08:53:58 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Jan 2020 08:53:58 -0000
+Received: (qmail 18889 invoked by uid 48516); 11 Jan 2020 08:53:58 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 32373 invoked from network); 11 Jan 2020 08:53:57 -0000
+Received: from joliet.gunnlaserr.co (resdb0d55.responsecool.space [170.130.172.199])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 11 Jan 2020 08:53:57 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gunnlaserr.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=GutterProtectionDealsPartner@gunnlaserr.co;
+ bh=CYR0C6kp0PUALvTwWN1SgjAqzlA=;
+ b=s3/DraMa39+9CSzdVBqh5aTbO4XqyMZYyu94iucBvCPz5GZzXlcPDuinNnBB1iI5Kq7kyQx6IEzz
+   YOJPANl0ONEkp/ZDG4DomHwEn5iXHOfkShHWFePTz4XefZPExXqbdIwTYVm3Z1FVOapjtwOEhxYw
+   NVvWDyogXvAoRQ3f+lc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=gunnlaserr.co;
+ b=mOwAWQM54mVxpHuyESAQFihdlRXwMAyCXRWnpp2YT0/vply38x90ziTsiQ6IEfnI4HuhiURZdnjO
+   ex/2Xt17bkTKbENB1TNxAaT2JuL0DwpTYMgZ4oh+aD/mmoSh6JH6ZZOsEkEIbIFujnG6ASrxQ30N
+   K2trB3rrn7kyrJAuM8c=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="2855aa1354f8ad4cd9691a98eb69b659_447_145f2"
+Date: Sat, 11 Jan 2020 03:48:37 -0500
+From: "GutterProtectionDeals Affiliate" <GutterProtectionDealsPartner@gunnlaserr.co>
+Reply-To: "GutterProtectionDeals Affiliate" <GutterProtectionDealsPartner@gunnlaserr.co>
+Subject: Fall Savings | Get 10% off & Enjoy Clean Gutters for Life!
+To: <bruce@untroubled.org>
+Message-ID: <x0pmq54s3f0q6up5-5tun4n9mea8rk9ck-447-145f2@gunnlaserr.co>
+Content-Length: 7989
+
+--2855aa1354f8ad4cd9691a98eb69b659_447_145f2
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Fall Savings | Get 10% off & Enjoy Clean Gutters for Life!
+
+http://gunnlaserr.co/qmiT4ygx8DUoeL_SKd7hfKifreOypk_Swse-FwRRIypnt2Gw
+
+http://gunnlaserr.co/61lgwZdjohD1eol2jBtgEf--GsEccfKb_-RKSj-2inITzzw
+
+Differences of opinion regarding the slavery of Africans and African Americans ultimately led to the American Civil War. Initially, states entering the Union had alternated between slave and free states, keeping a sectional balance in the Senate, while free states outstripped slave states in population and in the House of Representatives. But with additional western territory and more free-soil states, tensions between slave and free states mounted with arguments over federalism and disposition of the territories, whether and how to expand or restrict slavery.
+
+With the 1860 election of Abraham Lincoln, the first president from the largely anti-slavery Republican Party, conventions in thirteen slave states ultimately declared secession and formed the Confederate States of America (the "South"), while the federal government (the "Union") maintained that secession was illegal. In order to bring about this secession, military action was initiated by the secessionists, and the Union responded in kind. The ensuing war would become the deadliest military conflict in American history, resulting in the deaths of approximately 618,000 soldiers as well as many civilians. The South fought for the freedom to own slaves, while the Union at first simply fought to maintain the country as one united whole. Nevertheless, as casualties mounted after 1863 and Lincoln delivered his Emancipation Proclamation, the main purpose of the war from the Union's viewpoint became the abolition of slavery. Indeed, when the Union ultimately won the war in April 1865, each of the states in the defeated South was required to ratify the Thirteenth Amendment, which prohibited slavery.
+
+Three amendments were added to the U.S. Constitution in the years after the war: the aforementioned Thirteenth as well as the Fourteenth Amendment providing citizenship to the nearly four million African Americans who had been slaves, and the Fifteenth Amendment ensuring in theory that African Americans had the right to vote. The war and its resolution led to a substantial increase in federal power aimed at reintegrating and rebuilding the South while guaranteeing the rights of the newly freed slaves.
+
+Reconstruction began in earnest following the war. While President Lincoln attempted to foster friendship and forgiveness between the Union and the former Confederacy, his assassination on April 14, 1865, drove a wedge between North and South again. Republicans in the federal government made it their goal to oversee the rebuilding of the South and to ensure the rights of African Americans. They persisted until the Compromise of 1877 when the Republicans agreed to cease protecting the rights of African Americans in the South in order for Democrats to concede the presidential election of 1876.
+
+--2855aa1354f8ad4cd9691a98eb69b659_447_145f2
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://gunnlaserr.co/vjgzwnfJbaJUwb29JkVXuBtXDc4r4wtDY0kEZ4kCipqniYTi"><img src="http://gunnlaserr.co/bdd35b5803280f3e7f.jpg" /><img height="1" src="http://www.gunnlaserr.co/qGa6dToSxYPHLEzxaAVXElMmFXg-wMNYhV8cwm21ton0yI8" width="1" /></a>
+<center>
+<div style="width:601px;padding:10px; font-family:Arial;text-align:left; font-size:22px;">
+<center><a href="http://gunnlaserr.co/qmiT4ygx8DUoeL_SKd7hfKifreOypk_Swse-FwRRIypnt2Gw" style="font-size:40px;font-family:Arial; color:#e25027; text-decoration:none;">Fall Savings | Get 10% off & Enjoy Clean Gutters for Life!</a></center>
+&nbsp;
+
+<center><a href="http://gunnlaserr.co/qmiT4ygx8DUoeL_SKd7hfKifreOypk_Swse-FwRRIypnt2Gw"><img src="http://gunnlaserr.co/9b1c624ad4a1081722.jpg" /></a></center>
+&nbsp;
+
+<center><a href="http://gunnlaserr.co/qmiT4ygx8DUoeL_SKd7hfKifreOypk_Swse-FwRRIypnt2Gw"><img src="http://gunnlaserr.co/94d75ea6d6b33a59d8.jpg" /></a></center>
+&nbsp;
+
+<center><a href="http://gunnlaserr.co/qmiT4ygx8DUoeL_SKd7hfKifreOypk_Swse-FwRRIypnt2Gw"><img src="http://gunnlaserr.co/36169d5a2c1f3404e9.png" /></a></center>
+&nbsp;
+
+<center><a href="http://gunnlaserr.co/qmiT4ygx8DUoeL_SKd7hfKifreOypk_Swse-FwRRIypnt2Gw"><img src="http://gunnlaserr.co/f04681d927c83f7b01.jpg" /></a></center>
+&nbsp;
+
+<center><a href="http://gunnlaserr.co/qmiT4ygx8DUoeL_SKd7hfKifreOypk_Swse-FwRRIypnt2Gw"><img src="http://gunnlaserr.co/83f7156f857f7365db.gif" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://gunnlaserr.co/0XRL96eoZ3OlnX2ek_IE8dxq8-8QN_I0Mc_drhtjUqs0GQYy"><img src="http://gunnlaserr.co/93ed66045e55715ab2.jpg" /></a></center>
+</div>
+</center>
+<br />
+<br />
+<span style="color:#FFFFFF;">Differences of opinion regarding the slavery of Africans and African Americans ultimately led to the American Civil War. Initially, states entering the Union had alternated between slave and free states, keeping a sectional balance in the Senate, while free states outstripped slave states in population and in the House of Representatives. But with additional western territory and more free-soil states, tensions between slave and free states mounted with arguments over federalism and disposition of the territories, whether and how to expand or restrict slavery. With the 1860 election of Abraham Lincoln, the first president from the largely anti-slavery Republican Party, conventions in thirteen slave states ultimately declared secession and formed the Confederate States of America (the &quot;South&quot;), while the federal government (the &quot;Union&quot;) maintained that secession was illegal. In order to bring about this secession, military action was initiated by the secessionists, and the Union responded in kind. The ensuing war would become the deadliest military conflict in American history, resulting in the deaths of approximately 618,000 soldiers as well as many civilians. The South fought for the freedom to own slaves, while the Union at first simply fought to maintain the country as one united whole. Nevertheless, as casualties mounted after 1863 and Lincoln delivered his Emancipation Proclamation, the main purpose of the war from the Union&#39;s viewpoint became the abolition of slavery. Indeed, when the Union ultimately won the war in April 1865, each of the states in the defeated South was required to ratify the Thirteenth Amendment, which prohibited slavery. Three amendments were added to the U.S. Constitution in the years after the war: the aforementioned Thirteenth as well as the Fourteenth Amendment providing citizenship to the nearly four million African Americans who had been slaves, and the Fifteenth Amendment ensuring in theory that African Americans had the right to vote. The war and its resolution led to a substantial increase in federal power aimed at reintegrating and rebuilding the South while guaranteeing the rights of the newly freed slaves. Reconstruction began in earnest following the war. While President Lincoln attempted to foster friendship and forgiveness between the Union and the former Confederacy, his assassination on April 14, 1865, drove a wedge between North and South again. Republicans in the federal government made it their goal to oversee the rebuilding of the South and to ensure the rights of African Americans. They persisted until the Compromise of 1877 when the Republicans agreed to cease protecting the rights of African Americans in the South in order for Democrats to concede the presidential election of 1876. </span><br />
+<br />
+&nbsp;
+<center><a href="http://gunnlaserr.co/61lgwZdjohD1eol2jBtgEf--GsEccfKb_-RKSj-2inITzzw"><img src="http://gunnlaserr.co/b24f728782711fdf97.jpg" /></a></center>
+</body>
+</html>
+
+--2855aa1354f8ad4cd9691a98eb69b659_447_145f2--

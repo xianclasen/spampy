@@ -1,0 +1,93 @@
+Return-Path: <SRS0=n1eYHL=3D=mail.evalastfireclips.co=6346-9790-262549-1701-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15143 invoked from network); 14 Jan 2020 08:03:49 -0000
+Received: (qmail 32703 invoked from network); 14 Jan 2020 08:03:49 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 08:03:49 -0000
+Received: (qmail 27416 invoked by uid 48516); 14 Jan 2020 08:03:48 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 13339 invoked from network); 14 Jan 2020 08:03:48 -0000
+Received: from baron.evalastfireclips.co (client-192-236-155-181.hostwindsdns.com [192.236.155.181])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 14 Jan 2020 08:03:47 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=evalastfireclips.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=**AmericanCareerGuide**@evalastfireclips.co;
+ bh=PBj+m4scXK9xr06IAJNImXTlWUM=;
+ b=ZkpuAptOWHArtdGlFK6fUcg3jfCM69Il35hy85bD2t2Csmm7lpJFgwcPZjnoicAUG/35ZJ7ZHnzT
+   5Nrld3ixL7dhAt+GJfXq4+JXbZO0ZOCLZy9af2Jv2X52LJCmlXAdQn1WR6E7THnkEBA+lXYZd6c+
+   c5T+p3ANBkfvsBO/b50=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=evalastfireclips.co;
+ b=bq6yzD4m22FOJZYOjRGEzlSBxRG8zvFi25eBKd9fx2uy/WRSAG2iVgnbcgSSRxsAVI3L9YLwRzBC
+   GbFFaOxF+j71itpiE2vMiH83BuNlI4XvW6ot3IT14hmVi8Z6EIgK6fcVIQWA5rrc3YbbkvJQ86Ks
+   bcCnZmGtoWUePmHtaM4=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="9df63d6e2ef74ccb1e2ea7a9d75f6152_263e_40195"
+Date: Tue, 14 Jan 2020 02:59:16 -0500
+From: "American Career Guide" <**AmericanCareerGuide**@evalastfireclips.co>
+Reply-To: "American Career Guide" <AmericanCareerGuide@evalastfireclips.co>
+Subject: High paying job alerts in your city, Need a new gig? $25/hr, Jobs available in your area
+To: <bruce@untroubled.org>
+Message-ID: <ubrsx2h1zkkgcjfc-5t4cftpkjrlh456e-263e-40195@evalastfireclips.co>
+Content-Length: 6412
+
+--9df63d6e2ef74ccb1e2ea7a9d75f6152_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+High paying job alerts in your city, Need a new gig? $25/hr, Jobs available in your area
+
+http://evalastfireclips.co/2Q3Mp61VScT4egyslqL3PYWUUIoEDQtWlyZbu3Qv0_X-vopX
+
+http://evalastfireclips.co/67b3d7OAegvlQAv0BBqRASAe0c5u9SnznbxSONMK6ELkQinX
+
+Rodents (from Latin Rodere, "to gnaw") are mammals of the order Rodentia, which are characterized by a single pair of continuously growing incisors in each of the upper and lower jaws. They are the most diversified mammalian order and make up approximately 42% of all mammalian species. Rodents live in a variety of terrestrial habitats, including human-made environments, and are found on every continent except Antarctica.
+
+Species can be arboreal, fossorial (burrowing), or semiaquatic. Well-known rodents include mice, rats, squirrels, prairie dogs, chipmunks, chinchillas, porcupines, beavers, guinea pigs, hamsters, gerbils and capybaras. Rabbits, hares, and pikas, whose incisors also grow continually, were once included with them, but are now considered to be in a separate order, the Lagomorpha. Nonetheless, Rodentia and Lagomorpha are sister groups, sharing a most recent common ancestor and forming the clade of Glires.
+
+Most rodents are small animals with robust bodies, short limbs, and long tails. They use their sharp incisors to gnaw food, excavate burrows, and defend themselves. Most eat seeds or other plant material, but some have more varied diets. They tend to be social animals and many species live in societies with complex ways of communicating with each other. Mating among rodents can vary from monogamy, to polygyny, to promiscuity. Many have litters of underdeveloped, altricial young, while others are precocial (relatively well developed) at birth.
+
+The rodent fossil record dates back to the Paleocene on the supercontinent of Laurasia. Rodents greatly diversified in the Eocene, as they spread across continents, sometimes even crossing oceans. Rodents reached both South America and Madagascar from Africa and were the only terrestrial placental mammals to reach and colonize Australia.
+
+Rodents have been used as food, for clothing, as pets, and as laboratory animals in research. Some species, in particular, the brown rat, the black rat, and the house mouse, are serious pests, eating and spoiling food stored by humans and spreading diseases. Accidentally introduced species of rodents are often considered to be invasive and have caused the extinction of numerous species, such as island birds, previously isolated from land-based predators.
+
+--9df63d6e2ef74ccb1e2ea7a9d75f6152_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://evalastfireclips.co/hinyJOPuVOtwJA6yh-1eVMYzb57dcu0lwCkJpqmtJm8aY7zU"><img src="http://evalastfireclips.co/dcb876b23ca6291bb6.jpg" /><img height="1" src="http://www.evalastfireclips.co/pIHmP75Oq3bybYMLC97ICL38DFCGMTCt-rm0Nbpz7n7AYPoX" width="1" /></a>
+<center>
+<div><br />
+<br />
+<a href="http://evalastfireclips.co/2Q3Mp61VScT4egyslqL3PYWUUIoEDQtWlyZbu3Qv0_X-vopX" style="font-size:40px;font-family:Arial; color:blue; text-decoration:none;">High paying job alerts in your city, Need a new gig? $25/hr, Jobs available in your area</a><br />
+<br />
+<a href="http://evalastfireclips.co/2Q3Mp61VScT4egyslqL3PYWUUIoEDQtWlyZbu3Qv0_X-vopX"><img src="http://evalastfireclips.co/fb701e6b86645e5f71.jpg" style="border:2px solid #f25f0f;" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://evalastfireclips.co/jwN124DSnhddJ3bAChShwF3Rmzti1hs_VYa3b1V7eMJWV0r5"><img src="http://evalastfireclips.co/a12766863967b87891.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://evalastfireclips.co/67b3d7OAegvlQAv0BBqRASAe0c5u9SnznbxSONMK6ELkQinX"><img src="http://evalastfireclips.co/5eb9a6db7a6dcc92b7.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Rodents (from Latin Rodere, &quot;to gnaw&quot;) are mammals of the order Rodentia, which are characterized by a single pair of continuously growing incisors in each of the upper and lower jaws. They are the most diversified mammalian order and make up approximately 42% of all mammalian species. Rodents live in a variety of terrestrial habitats, including human-made environments, and are found on every continent except Antarctica. Species can be arboreal, fossorial (burrowing), or semiaquatic. Well-known rodents include mice, rats, squirrels, prairie dogs, chipmunks, chinchillas, porcupines, beavers, guinea pigs, hamsters, gerbils and capybaras. Rabbits, hares, and pikas, whose incisors also grow continually, were once included with them, but are now considered to be in a separate order, the Lagomorpha. Nonetheless, Rodentia and Lagomorpha are sister groups, sharing a most recent common ancestor and forming the clade of Glires. Most rodents are small animals with robust bodies, short limbs, and long tails. They use their sharp incisors to gnaw food, excavate burrows, and defend themselves. Most eat seeds or other plant material, but some have more varied diets. They tend to be social animals and many species live in societies with complex ways of communicating with each other. Mating among rodents can vary from monogamy, to polygyny, to promiscuity. Many have litters of underdeveloped, altricial young, while others are precocial (relatively well developed) at birth. The rodent fossil record dates back to the Paleocene on the supercontinent of Laurasia. Rodents greatly diversified in the Eocene, as they spread across continents, sometimes even crossing oceans. Rodents reached both South America and Madagascar from Africa and were the only terrestrial placental mammals to reach and colonize Australia. Rodents have been used as food, for clothing, as pets, and as laboratory animals in research. Some species, in particular, the brown rat, the black rat, and the house mouse, are serious pests, eating and spoiling food stored by humans and spreading diseases. Accidentally introduced species of rodents are often considered to be invasive and have caused the extinction of numerous species, such as island birds, previously isolated from land-based predators. </span></center>
+</body>
+</html>
+
+--9df63d6e2ef74ccb1e2ea7a9d75f6152_263e_40195--

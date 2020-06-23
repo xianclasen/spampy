@@ -1,0 +1,99 @@
+Return-Path: <SRS0=Gx3swU=22=mail.colorshydro.best=5854-9790-262549-1576-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 7790 invoked from network); 5 Jan 2020 09:03:10 -0000
+Received: (qmail 27328 invoked from network); 5 Jan 2020 09:03:09 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Jan 2020 09:03:09 -0000
+Received: (qmail 3845 invoked by uid 48516); 5 Jan 2020 09:03:09 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 18420 invoked from network); 5 Jan 2020 09:03:09 -0000
+Received: from core.colorshydro.best (client-23-254-230-223.hostwindsdns.com [23.254.230.223])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 05 Jan 2020 09:03:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=colorshydro.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=**LiveShowLatin**@colorshydro.best;
+ bh=bdYGe/71XXj5iWpWRWvLmpuBLWs=;
+ b=vqV1tIN8PM3MQTOSy+gHCCN31TMDn/ICbqtdsA1xHV/4rgbmcreIBGW7/VcQ69Gd8CYLsE7VuOL1
+   YFqXaVhE3Rdc90y8+v6y/OX9BdacUyqKH1WmuWAlhjceDvnvbhiV4Dobbtn7/MhhcWAKWYaGP3pp
+   t2WPMkFMbaSxMF2KsFw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=colorshydro.best;
+ b=xvEkF1bga58dQzDElBumebnO/j0aou4Zq5wLLvVTHM5D7rTPIU2JrbaiGVUvemAlfd0whgIeBPxH
+   nLSALcg0vn93RRg18w5XzFEsm/27QFQhW8hKGRD0F40JWEuzW64Utn2CsHTHi9UpGhUMKDSAyUbQ
+   ng7jqgbBdZcqkvCpYuE=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="6bd7c8bb3d83384eb22ab3a0809f4f4b_263e_40195"
+Date: Sun, 5 Jan 2020 04:01:36 -0500
+From: "Live-Show-Latin" <**LiveShowLatin**@colorshydro.best>
+Reply-To: "Live-Show-Latin" <LiveShowLatin@colorshydro.best>
+Subject: Find Attractive Latin Girls Here 
+To: <bruce@untroubled.org>
+Message-ID: <gpeh4bib4hcn507k-i69g04leuuwnav2l-263e-40195@colorshydro.best>
+Content-Length: 7495
+
+--6bd7c8bb3d83384eb22ab3a0809f4f4b_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Find Attractive Latin Girls Here 
+
+http://colorshydro.best/bTfI0lgwsei2C9Cd3s2qrv3dD6w0XQ1OcWyF8ljiKm3AKpXu
+
+http://colorshydro.best/2pEJy2GSCCAp2P80FWts0IW7rbQOwB5_cmgkLXez2PFJgLi2
+
+In cases where a large number of unidentified individuals are mentioned, numbers may be appended, such as "Doe #2" or "Doe II". Operation Delego (2009), which targeted an international child sexual abuse ring, cited 21 numbered "John Does", as well as other people known by the surnames "Doe", "Roe", and "Poe".
+
+"John Stiles", "Richard Miles" have been used for the third and fourth participants in an action. "Mary Major" has been used in some federal cases in the US. "James Doe" and "Judy Doe" are among other common variants.
+
+Less often, other surnames ending in -oe have been used when more than two unknown or unidentified persons are named in U.S. court proceedings, e.g., Poe v. Snyder, 834 F.Supp.2d 721 (W. D. Mich. 2011), whose full style is
+
+    Jane Poe, John Doe, Richard Roe, Robert Roe, Mark Moe, Larry Loe, Degage Ministries, and Mel Trotter Ministries, Plaintiffs, v. Rick Snyder, Governor of the State of Michigan, Bill Schuette, Attorney General of the State of Michigan, Kriste Etue, Director of the Michigan State Police, William Forsyth, Kent County Prosecutor, in their official capacities, Defendants and;
+    Friedman v. Ferguson, No. 87-3758, unpublished disposition, 850 F.2d 689 (4th Cir., 29 June 1988), whose full style is
+
+    Wilbur H. Friedman, Plaintiff-Appellant, v. Thomas B. FERGUSON, Director, Department of Animal Control, a State Actor, In His Official and Individual Capacities; Brett Boe; Carla Coe; Donna Doe; Frank Foe; Grace Goe; Harry Hoe; State Actors, Advisors To Defendant Ferguson, In Their Official and Individual Capacities (identities currently unknown); Marta Moe; Norma Noe; Paula Poe; Ralph Roe; Sammy Soe; Tommy Toe; Private Individuals Who Conspired With the Foregoing State Actors (identities currently unknown); Roger W. Galvin, Chairman, Animal Matters Hearing Board; Vince Voe; William Woe; Xerxes Xoe; Members of the Animal Matters Hearing Board, State Actors, In Their Official and Individual Capacities (identities currently unknown), Defendants-Appellees.
+
+In Massachusetts, "Mary Moe" is used to refer to pregnant women under the age of 18 petitioning the Superior Court for a judicial bypass exception to the parental consent requirement for abortion. "Mary Moe" is also used to refer to such cases generally, i.e. "Mary Moe cases". Sometimes "Mary Doe" may be used for the individuals.
+
+Parallels in other countries include:
+
+    "Ashok Kumar" has been used in court cases in India;
+    the abbreviation N.N., which is commonly used in European legal systems, as an abbreviation for Latin terms such as:
+        nomen nescio ("I do not know the name") in Belgium, Germany, Italy and Serbia and;
+        nomen nominandum ("the name must be mentioned") in the Netherlands.
+
+Since 1903 a hypothetical "ordinary and reasonable person" has often been known, in the legal parlance of the UK and other Commonwealth countries as "the man on the Clapham omnibus".
+
+--6bd7c8bb3d83384eb22ab3a0809f4f4b_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>&nbsp;
+<center><a href="http://colorshydro.best/bTfI0lgwsei2C9Cd3s2qrv3dD6w0XQ1OcWyF8ljiKm3AKpXu" style="font-size:20px; font-family:Arial;"><b>Find Attractive Latin Girls Here </b></a><br />
+<br />
+<a href="http://colorshydro.best/bTfI0lgwsei2C9Cd3s2qrv3dD6w0XQ1OcWyF8ljiKm3AKpXu"><img src="http://colorshydro.best/9f9168088d3693c6c0.jpg" /></a><br />
+<br />
+<a href="http://colorshydro.best/bTfI0lgwsei2C9Cd3s2qrv3dD6w0XQ1OcWyF8ljiKm3AKpXu"><img src="http://colorshydro.best/fc9b6ed917c01511e9.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://colorshydro.best/JR48unMk6sLZPuQOnce5YUx629nJ1nzMYX-LNiRJPvA2J0bd"><img src="http://colorshydro.best/d87d14544879de473e.jpg" /></a></center>
+<span style="color:white;"> In cases where a large number of unidentified individuals are mentioned, numbers may be appended, such as &quot;Doe #2&quot; or &quot;Doe II&quot;. Operation Delego (2009), which targeted an international child sexual abuse ring, cited 21 numbered &quot;John Does&quot;, as well as other people known by the surnames &quot;Doe&quot;, &quot;Roe&quot;, and &quot;Poe&quot;. &quot;John Stiles&quot;, &quot;Richard Miles&quot; have been used for the third and fourth participants in an action. &quot;Mary Major&quot; has been used in some federal cases in the US. &quot;James Doe&quot; and &quot;Judy Doe&quot; are among other common variants. Less often, other surnames ending in -oe have been used when more than two unknown or unidentified persons are named in U.S. court proceedings, e.g., Poe v. Snyder, 834 F.Supp.2d 721 (W. D. Mich. 2011), whose full style is Jane Poe, John Doe, Richard Roe, Robert Roe, Mark Moe, Larry Loe, Degage Ministries, and Mel Trotter Ministries, Plaintiffs, v. Rick Snyder, Governor of the State of Michigan, Bill Schuette, Attorney General of the State of Michigan, Kriste Etue, Director of the Michigan State Police, William Forsyth, Kent County Prosecutor, in their official capacities, Defendants and; Friedman v. Ferguson, No. 87-3758, unpublished disposition, 850 F.2d 689 (4th Cir., 29 June 1988), whose full style is Wilbur H. Friedman, Plaintiff-Appellant, v. Thomas B. FERGUSON, Director, Department of Animal Control, a State Actor, In His Official and Individual Capacities; Brett Boe; Carla Coe; Donna Doe; Frank Foe; Grace Goe; Harry Hoe; State Actors, Advisors To Defendant Ferguson, In Their Official and Individual Capacities (identities currently unknown); Marta Moe; Norma Noe; Paula Poe; Ralph Roe; Sammy Soe; Tommy Toe; Private Individuals Who Conspired With the Foregoing State Actors (identities currently unknown); Roger W. Galvin, Chairman, Animal Matters Hearing Board; Vince Voe; William Woe; Xerxes Xoe; Members of the Animal Matters Hearing Board, State Actors, In Their Official and Individual Capacities (identities currently unknown), Defendants-Appellees. In Massachusetts, &quot;Mary Moe&quot; is used to refer to pregnant women under the age of 18 petitioning the Superior Court for a judicial bypass exception to the parental consent requirement for abortion. &quot;Mary Moe&quot; is also used to refer to such cases generally, i.e. &quot;Mary Moe cases&quot;. Sometimes &quot;Mary Doe&quot; may be used for the individuals. Parallels in other countries include: &quot;Ashok Kumar&quot; has been used in court cases in India; the abbreviation N.N., which is commonly used in European legal systems, as an abbreviation for Latin terms such as: nomen nescio (&quot;I do not know the name&quot;) in Belgium, Germany, Italy and Serbia and; nomen nominandum (&quot;the name must be mentioned&quot;) in the Netherlands. Since 1903 a hypothetical &quot;ordinary and reasonable person&quot; has often been known, in the legal parlance of the UK and other Commonwealth countries as &quot;the man on the Clapham omnibus&quot;</span></center>
+
+<center><a href="http://colorshydro.best/2pEJy2GSCCAp2P80FWts0IW7rbQOwB5_cmgkLXez2PFJgLi2"><img src="http://colorshydro.best/2086f8b76839e9c508.jpg" /></a></center>
+</body>
+</html>
+
+--6bd7c8bb3d83384eb22ab3a0809f4f4b_263e_40195--

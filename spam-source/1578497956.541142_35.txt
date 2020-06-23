@@ -1,0 +1,474 @@
+Return-Path: <SRS0=dYitn2=25=readingsite.us=VAHomeownerSavings@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 29596 invoked from network); 8 Jan 2020 12:02:00 -0000
+Received: (qmail 22902 invoked from network); 8 Jan 2020 12:01:59 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Jan 2020 12:01:59 -0000
+Received: (qmail 24276 invoked by uid 48516); 8 Jan 2020 12:01:59 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 11737 invoked from network); 8 Jan 2020 12:01:59 -0000
+Received: from 01280e61.readingsite.us (63-83-73-147.nca.lanset.com [63.83.73.147])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 08 Jan 2020 12:01:59 -0000
+Received: from 01280e61.nd2mk.readingsite.us ([127.0.0.1]:9215 helo=nd2mk.readingsite.us)
+	by nd2mk.readingsite.us with ESMTP id 01WHQCKT280EHAIMWJ61;
+	for <bruce@untroubled.org>; Wed, 8 Jan 2020 04:01:57 -0800
+Message-ID: <321538619399122321510907214452511@nd2mk.readingsite.us>
+Date: Wed, 8 Jan 2020 04:01:57 -0800
+To: <bruce@untroubled.org>
+From: "VA Homeowner Savings" <VAHomeownerSavings@readingsite.us>
+Subject: Expanded service member benefits available for you.
+Content-Language: en-us
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: multipart/alternative;
+	boundary="----=Part.544.2862.1578484917"
+Content-Length: 21085
+
+------=Part.544.2862.1578484917
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+ 
+ 
+spacer
+ 
+ 
+ 
+VASurvey
+http://www.readingsite.us/l/lt9MY3215LT72J/1090ML1445JY2511AN108NO19399122Y1062422931/qs/?email=f8f706c3938feec43d1f111ad3c0a047
+
+Your Verification Status: Pending
+ 
+Many Veteran homeowners are now exploring additional benefits that are newly available. These VA homeowner benefits are already helping millions of Veterans and their families, and we believe they could be beneficial to you as well.
+http://www.readingsite.us/l/lt10EF3215HQ72G/1090VP1445UT2511NS108JW19399122V1062422931/qs/?email=f8f706c3938feec43d1f111ad3c0a047
+ 
+Please confirm your residential information to see what benefits you may be entitled to:
+ 
+ 
+ 
+Residential Information: For You
+http://www.readingsite.us/l/lt11UH3215YP72E/1090RJ1445HI2511XC108XW19399122X1062422931/qs/?email=f8f706c3938feec43d1f111ad3c0a047
+ 
+ 
+ 
+ 
+ 
+ 
+Confirm Details
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+http://www.readingsite.us/l/lc12QU3215EU72V/1090RS1445QR2511YK108CS19399122N1062422931/qs/?email=f8f706c3938feec43d1f111ad3c0a047
+
+
+
+ 
+A hydathode is a type of pore, commonly found in angiosperms, that secretes water through pores in the epidermis or leaf margin, typically at the tip of a marginal tooth or serration. Hydathodes occur in the leaves of submerged aquatic plants such as Ranunculus fluitans[1] as well as herbaceous plants of drier habitats such as Campanula rotundifolia.[2] They are connected to the plant vascular system by a vascular bundle. Hydathodes are commonly seen in water lettuce, water hyacinth, rose, balsam, and many other species. Hydathodes are made of a group of living cells with numerous intercellular spaces filled with water, but few or no chloroplasts, and represent modified bundle-ends. These cells (called epithem cells[3]) open out into one or more sub-epidermal chambers. These, in turn, communicate with the exterior through an open water stoma or open pore. The water stoma structurally resembles an ordinary stoma, but is usually larger and has lost the power of movement. Hydathodes are involved in the process of guttation, in which positive xylem pressure (due to root pressure) causes liquid to exude from the pores.[4] Some halophytes possess glandular trichomes that actively secrete salt in order to reduce the concentration of cytotoxic inorganic ions in their cytoplasm; this may lead to the formation of a white powdery substance on the surface of the leaf. Hydathodes are of two types: passive hydathodes, formed when a leaf vein terminates in an epithem (an area of thin-walled parenchyma). active hydathodes, formed when epidermal cells lose water actively. 
+
+------=Part.544.2862.1578484917
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<head>
+=09<title>Newsletter</title>
+=09
+</head>
+<body><!-- <div style=3D"position:absolute;top:-1000px;left:-1000px;height:=
+0px;width:0px;"><img src=3D"http://www.readingsite.us/timgHDOCYFPTW/WHMLVPO=
+GU/3215/1445/2511/108/19399122/img.gif" style=3D"border=3D0;" /></div> -->
+<div style=3D"position:absolute;top:-1000px;left:-1000px;height:0px;width:0=
+px;"><a href=3D"http://www.readingsite.us/trWDWARYBYQ/WVGNXYLIF/3215/1445/2=
+511/108/19399122/index.htm" style=3D"border=3D0;"><div></div></a></div>
+<table align=3D"center" bgcolor=3D"#fdfdfd" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" data-id=3D"{{campaign.id}}" width=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}" valign=3D"bottom"=
+>
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"w{{campaign.id}}100p" data-id=3D"{{campaign.id}}" style=3D"=
+table-layout: fixed;" width=3D"548">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"10" style=3D"fo=
+nt-size: 1px; line-height: 1px;"></td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}" valign=
+=3D"bottom">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" class=3D"hide_{{campaign.id}}_me" da=
+ta-id=3D"{{campaign.id}}" style=3D"border: 0; margin: 0; padding: 0;" valig=
+n=3D"bottom">
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"hide_{{campaign.id}}_me" data-id=3D"{{campaign.id}=
+}" width=3D"548">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td class=3D"hide_{{campaign.id}}_me" data-id=3D=
+"{{campaign.id}}" style=3D"line-height: 0px; font-size: 0px;" width=3D"548"=
+><img alt=3D"spacer" border=3D"0" class=3D"hide_{{campaign.id}}_me" data-id=
+=3D"{{campaign.id}}" height=3D"1" src=3D"http://www.readingsite.us/im/U3215=
+K72H/1090I1445B2511L108J19399122J1062422931/img0721090386.gif" style=3D"max=
+-height: 1px; min-height: 1px; display: block; min-width: 548px;" width=3D"=
+548" /></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"10" style=3D"fo=
+nt-size: 1px; line-height: 1px;">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}" valign=
+=3D"bottom">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"44" style=3D"fo=
+nt-size: 1px; line-height: 1px;">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}" style=3D=
+"border: 0; margin: 0; padding: 0;" valign=3D"bottom">
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"w{{campaign.id}}100pha" data-id=3D"{{campaign.id}}=
+" width=3D"548">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}"=
+ style=3D"border: 0; margin: 0; padding: 0; text-align: center;" valign=3D"=
+bottom"><a data-mp-url-id=3D"" href=3D"http://www.readingsite.us/l/lt1EL321=
+5AX72Q/1090DY1445LO2511QV108BD19399122R1062422931/qs/?email=3Df8f706c3938fe=
+ec43d1f111ad3c0a047" mp-encode=3D"false"><img alt=3D"VASurvey" data-id=3D"{=
+{campaign.id}}" src=3D"http://www.readingsite.us/im/U3215I72E/1090L1445D251=
+1U108T19399122Q1062422931/img1721090386.jpg" style=3D"width: 174px;" /> </a=
+></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"25.4" style=3D"=
+font-size: 1px; line-height: 1px;">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}" style=3D=
+"border: 0; margin: 0; padding: 0;" valign=3D"bottom">
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"w{{campaign.id}}100pha" data-id=3D"{{campaign.id}}=
+" width=3D"548">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}"=
+ style=3D"text-align: center; font-weight: 600; text-decoration: none; colo=
+r: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, '=
+serif'; font-size: 18.2px; line-height: 27px; letter-spacing: 0.21px;" vali=
+gn=3D"bottom"><br />
+=09=09=09=09=09=09=09=09=09<span style=3D"text-align: center; font-weight: =
+600; text-decoration: none; color: #1e1e26; font-family: Constantia, 'DejaV=
+u Serif', 'PT serif,' bookman, 'serif'; font-size: 17px; line-height: 29px;=
+ letter-spacing: 0.3px;">Your Verification Status:</span> <span style=3D"te=
+xt-align: center; font-weight: 600; text-decoration: none; color: #1e1e26; =
+font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; font=
+-size: 18.2px; line-height: 29px; letter-spacing: 0.3px;"> <a data-id=3D"32=
+58491574" data-mp-url-id=3D"" href=3D"http://www.readingsite.us/l/lt2IU3215=
+BO72G/1090JG1445HC2511VO108ID19399122C1062422931/qs/?email=3Df8f706c3938fee=
+c43d1f111ad3c0a047" mp-encode=3D"false" style=3D"font-weight: 600; text-dec=
+oration: underline; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bo=
+okman, 'serif'; font-size: 18.2px; line-height: 28px; letter-spacing: 0.21p=
+x;">Pending</a> </span></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"25.4" style=3D"=
+font-size: 1px; line-height: 1px;">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}" style=3D=
+"border: 0; margin: 0; padding: 0;" valign=3D"bottom">
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"w{{campaign.id}}100pha" data-id=3D"{{campaign.id}}=
+" width=3D"548">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}"=
+ style=3D"text-align: left; font-weight: 450; text-decoration: none; font-s=
+ize: 15.5px; color: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT s=
+erif,' bookman, 'serif'; letter-spacing: 0.52px; line-height: 24.3px;" vali=
+gn=3D"bottom">Many Veteran homeowners are now exploring additional benefits=
+ that are newly available. These VA homeowner benefits are already helping =
+millions of Veterans and their families, and we believe they could be benef=
+icial to you as well.</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"31" style=3D"fo=
+nt-size: 1px; line-height: 1px;">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}" valign=
+=3D"bottom">
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"mw_{{campaign.id}}_300" data-id=3D"{{campaign.id}}=
+" style=3D"border-radius: 10px;" width=3D"548">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}"=
+ style=3D"text-align: left; font-weight: 450; text-decoration: none; font-s=
+ize: 15.5px; color: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT s=
+erif,' bookman, 'serif'; letter-spacing: 0.52px; line-height: 24.3px;" vali=
+gn=3D"bottom">
+=09=09=09=09=09=09=09=09=09<hr data-id=3D"{{campaign.id}}" style=3D"color: =
+#1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'ser=
+if'; font-size: 1.2px; line-height: 1px; letter-spacing: 0px; text-align: c=
+enter; font-weight: 100; text-decoration: none; height: 1.2px; background: =
+#1E1E26; border: none; border-spacing: 0px; border-color: #1E1E26!important=
+;" /></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"32" style=3D"fo=
+nt-size: 1px; line-height: 1px;">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}" style=3D=
+"border: 0; margin: 0; padding: 0;" valign=3D"bottom">
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"w{{campaign.id}}100pha" data-id=3D"{{campaign.id}}=
+" width=3D"548">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" data-id=3D"{{campaign.id}}"=
+ style=3D"text-align: left; font-weight: 450; text-decoration: none; font-s=
+ize: 15.5px; color: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT s=
+erif,' bookman, 'serif'; letter-spacing: 0.52px; line-height: 24.3px;" vali=
+gn=3D"bottom">Please confirm your residential information to see what benef=
+its you may be entitled to:</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"32" style=3D"fo=
+nt-size: 1px; line-height: 1px;">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"mw_{{campaign.id}}_300" style=3D"width: 515px; bor=
+der: 1px solid #313132; background: #fffee4; height: 229px;">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 15px;">
+=09=09=09=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"15" st=
+yle=3D"font-size: 1px; line-height: 1px; height: 15px; width: 548px;">&nbsp=
+;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 10px;">
+=09=09=09=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"15" st=
+yle=3D"font-size: 1px; line-height: 1px; height: 10px; width: 548px;">&nbsp=
+;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 22px;">
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"border: 0px; margi=
+n: 0px; padding: 0px; height: 22px; width: 548px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"mw_{{campaign.id}}_280" width=3D"420">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"text-deco=
+ration: none; text-align: center; font-weight: 400; letter-spacing: 0.58px;=
+ line-height: 22px; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bo=
+okman, 'serif'; font-size: 21.5px; color: #1e1e26;" valign=3D"top">Resident=
+ial Information: For You</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 10px;">
+=09=09=09=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"23" st=
+yle=3D"font-size: 1px; line-height: 1px; height: 10px; width: 548px;">&nbsp=
+;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 17px;">
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"border: 0px; margi=
+n: 0px; padding: 0px; height: 17px; width: 548px;" valign=3D"top">&nbsp;</t=
+d>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 10px;">
+=09=09=09=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"20" st=
+yle=3D"font-size: 1px; line-height: 1px; height: 10px; width: 548px;">&nbsp=
+;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 10px;">
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"border: 0px; margi=
+n: 0px; padding: 0px; height: 10px; width: 548px;" valign=3D"top">&nbsp;</t=
+d>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 10px;">
+=09=09=09=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"20" st=
+yle=3D"font-size: 1px; line-height: 1px; height: 10px; width: 548px;">&nbsp=
+;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 17px;">
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"border: 0px; margi=
+n: 0px; padding: 0px; height: 17px; width: 548px;" valign=3D"top">&nbsp;</t=
+d>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 25px;">
+=09=09=09=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"25" st=
+yle=3D"font-size: 1px; line-height: 1px; height: 25px; width: 548px;">&nbsp=
+;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 48px;">
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"height: 48px; widt=
+h: 548px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"mw_{{campaign.id}}_200" style=3D"width: 5=
+48px; max-width: 548px;" width=3D"548">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top" wid=
+th=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"mw_{{campaign.id}}_300" width=3D=
+"440">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"=
+font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; font=
+-size: 21px; text-decoration: none; color: #fbfbfc; line-height: 22px; text=
+-align: center; font-weight: 600; letter-spacing: 3.3px;" valign=3D"top"><a=
+ class=3D"mw_{{campaign.id}}_300" data-id=3D"{{campaign.id}}" data-mp-url-i=
+d=3D"98b0e4d9d397c6fa7420f42162fe8d51e6e03444" href=3D"http://www.readingsi=
+te.us/l/lt3QU3215WJ72D/1090PB1445OM2511NF108CM19399122B1062422931/qs/?email=
+=3Df8f706c3938feec43d1f111ad3c0a047" mp-encode=3D"false" rel=3D"noopener" s=
+tyle=3D"font-size: 21px; font-family: Constantia, 'DejaVu Serif', 'PT serif=
+,' bookman, 'serif'; background-color: #3c3ca5; border-radius: 3.14px; colo=
+r: #fbfbfc; display: block; font-weight: 600; line-height: normal; margin: =
+0 auto; text-decoration: none; width: 241px; letter-spacing: 3.3px; border:=
+ 11.5px solid #3C3CA5;" target=3D"_blank">Confirm Details</a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr style=3D"height: 35px;">
+=09=09=09=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"35" st=
+yle=3D"font-size: 1px; line-height: 1px; height: 35px; width: 548px;">&nbsp=
+;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td data-id=3D"{{campaign.id}}" height=3D"74" style=3D"li=
+ne-height: 1px; font-size: 1px;">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href=3D"http://www.readingsite.us/l/lc4MA3215IQ72B/1090UF1445CS2=
+511EA108BK19399122C1062422931/qs/?email=3Df8f706c3938feec43d1f111ad3c0a047"=
+><img src=3D"http://www.readingsite.us/im/R3215B72N/1090Q1445G2511G108O1939=
+9122Y1062422931/img2721090386.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href=3D"http://www.readingsite.us/unsE3215PW72H/1090S1445QM2511U=
+108D19399122H1062422931/qs/?email=3Df8f706c3938feec43d1f111ad3c0a047"><img =
+src=3D"http://www.readingsite.us/im/G3215J72M/1090D1445K2511I108T19399122X1=
+062422931/img3721090386.jpg" /></a></center>
+<span style=3D"color:#FFFFFF;font-size:6px;">A hydathode is a type of pore,=
+ commonly found in angiosperms, that secretes water through pores in the ep=
+idermis or leaf margin, typically at the tip of a marginal tooth or serrati=
+on. Hydathodes occur in the leaves of submerged aquatic plants such as Ranu=
+nculus fluitans[1] as well as herbaceous plants of drier habitats such as C=
+ampanula rotundifolia.[2] They are connected to the plant vascular system b=
+y a vascular bundle. Hydathodes are commonly seen in water lettuce, water h=
+yacinth, rose, balsam, and many other species. Hydathodes are made of a gro=
+up of living cells with numerous intercellular spaces filled with water, bu=
+t few or no chloroplasts, and represent modified bundle-ends. These cells (=
+called epithem cells[3]) open out into one or more sub-epidermal chambers. =
+These, in turn, communicate with the exterior through an open water stoma o=
+r open pore. The water stoma structurally resembles an ordinary stoma, but =
+is usually larger and has lost the power of movement. Hydathodes are involv=
+ed in the process of guttation, in which positive xylem pressure (due to ro=
+ot pressure) causes liquid to exude from the pores.[4] Some halophytes poss=
+ess glandular trichomes that actively secrete salt in order to reduce the c=
+oncentration of cytotoxic inorganic ions in their cytoplasm; this may lead =
+to the formation of a white powdery substance on the surface of the leaf. H=
+ydathodes are of two types: passive hydathodes, formed when a leaf vein ter=
+minates in an epithem (an area of thin-walled parenchyma). active hydathode=
+s, formed when epidermal cells lose water actively.</span>
+</body>
+</html>
+
+------=Part.544.2862.1578484917--
+

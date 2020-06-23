@@ -1,0 +1,96 @@
+Return-Path: <SRS0=EpktHw=3E=kingay.date=fungusremoving-spice-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 4210 invoked from network); 15 Jan 2020 20:52:48 -0000
+Received: (qmail 18845 invoked from network); 15 Jan 2020 20:52:48 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Jan 2020 20:52:48 -0000
+Received: (qmail 7101 invoked by uid 48516); 15 Jan 2020 20:52:47 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5908 invoked from network); 15 Jan 2020 20:52:47 -0000
+Received: from mail.kingay.date ([193.201.140.141])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 15 Jan 2020 20:52:45 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=kingay.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fungusremoving-spice@kingay.date;
+ bh=GgBmubUaQhk4+KbWn53X2QwHb7w=;
+ b=iXKjwpWc9p30lDBgukb0SNYny1LqnX+apJ6nMHP8yXfXYgXvtdaoGGJQ+QYCrR1n9EmaWwLrMA7+
+   LNyZiugE1f6/A6KcLqPexjiX1wnEDQcBhNXPZm/QtWua2khZuikYe1XdOzJTm5HlEcfZitUb0bKY
+   7iW49COfdba8igTgYvM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=kingay.date;
+ b=Gq5QXU+G3vXBVJr03Ooq0EtBcpZfsLZwf/7nRgXcJ2GvcypjvX+q3uTcrpAZH9dpkqk9hvA1BWn9
+   fJ/gvCirUXgI3BAEQiks2elvSKmdx3ghoIePuSVtj5nL9LBCVL5C1nsE6ipqDggiGuHOcey6ptXl
+   TYetHWzt+vBLe1pyX/s=;
+Received: by mail.kingay.date id h3ttpq0001g0 for <bruce@untroubled.org>; Wed, 15 Jan 2020 15:47:35 -0500 (envelope-from <fungusremoving-spice-bruce=untroubled.org@kingay.date>)
+Date: Wed, 15 Jan 2020 15:47:35 -0500
+From: "FungusRemoving Spice" <fungusremoving-spice@kingay.date>
+To:   <bruce@untroubled.org>
+Subject: WATCH: This Woman Cured Her Toenail Fungus This Simple Trick
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_169_606861698.1579121236095"
+List-Unsubscribe: <http://www.kingay.date/c415kT2395I8x9h11D1L1kp1a3aU21NFv4GIf4rxvs4FhIHEsvZ10pQCRRoSoh95IY1l05gyHTi/brawler-droopy>
+Message-ID: <0.0.0.12.1D5CBE5046ADD44.E27AC@mail.kingay.date>
+Content-Length: 6086
+
+------=_Part_169_606861698.1579121236095
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>sprouting</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.kingay.date/22d5M239q5V8kD611S7299H1a3a_21SFv4GIf4rxvs4FhIHEsvZ10CQCRRoSoh96OCIS105aXqHi/brigantine-disagreements">Cure Foot Fungus with the BEST trick&nbsp; </a></span></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: 2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; height: 530px; "> 
+    <tbody> 
+     <tr> 
+      <td> 
+       <table border="1" cellpadding="0" cellspacing="0" style="font-family: &quot; Sans Serif&quot; , serif; font-size: 17px; height: 548px; " width="590"> 
+        <tbody> 
+         <tr> 
+          <td> 
+           <table border="0" cellpadding="5" cellspacing="5" style="height: 526px; " width="586"> 
+            <tbody> 
+             <tr> 
+              <td> 
+               <div style="font-family: &quot; Sans Serif&quot; ; font-size: 16px; "> 
+                <div style="color: rgb(0, 0, 0); line-height: normal; font-family: &quot; Sans Serif&quot; ; font-size: 12px; "> 
+                 <h1 style="margin: 20px 6px; color: rgb(34, 34, 34); line-height: 40px; font-family: &quot; Sans Serif&quot; ; font-size: 36px; box-sizing: border-box; text-align: center; "><span style="font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(0, 0, 0); "><strong>This Man Cured His Nail Fungus This Fast Trick (Watch Now)</strong></span></span></h1> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><a href="http://www.kingay.date/22d5M239q5V8kD611S7299H1a3a_21SFv4GIf4rxvs4FhIHEsvZ10CQCRRoSoh96OCIS105aXqHi/brigantine-disagreements"><img alt="stag" src="http://www.kingay.date/bounces-uniqueness/5766Qm239M5fjr7a11s729ci1a3aQ21jFv4GIf4rxvs4FhIHEsvZ10YQCRRoSoh97Rq1yL0A6i3MPHi" style="width: 499px; height: 292px; " /></a></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(14, 14, 184); "><span style="font-size: 34px; font-family: &quot; Sans Serif&quot; ; "><strong><a href="http://www.kingay.date/22d5M239q5V8kD611S7299H1a3a_21SFv4GIf4rxvs4FhIHEsvZ10CQCRRoSoh96OCIS105aXqHi/brigantine-disagreements" style="color: rgb(14, 14, 184); ">{Watch Here}</a></strong></span></span></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                </div> 
+               </div> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <font color="#666666">Exit</font><a href="http://www.kingay.date/f2f5t23H95Lh8g611H729aO1a3au21MFv4GIf4rxvs4FhIHEsvZ10GQCRRoSoh96FI1B_05tpTHi/brawler-droopy"><font color="#666666"> Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font>
+    <br /> 
+    <br /> Remove 
+    <a href="http://www.kingay.date/1795jN2395N89BT11j729bk1a3aY21HFv4GIf4rxvs4FhIHEsvZ10rQCRRoSoh96go1XU05f0HTi/inadmissibility-worryingly">email Here</a>
+    <br /> 
+    <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+   </div> <style><small><small></style><span></small></small><big><font></font><style></big><small></span></style></small>
+  </center>   
+ <img src="http://www.kingay.date/5cf6i2T39B5L8Dp511p729dl1a3al21VFv4GIf4rxvs4FhIHEsvZ10gQCRRoSoh97a10jSFJ6YU1HTi/gutters-functioned" alt=""/></body>
+</html>
+
+------=_Part_169_606861698.1579121236095--
+

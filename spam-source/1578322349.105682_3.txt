@@ -1,0 +1,81 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 19665 invoked from network); 6 Jan 2020 14:20:34 -0000
+Received: (qmail 1186 invoked from network); 6 Jan 2020 14:20:33 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Jan 2020 14:20:33 -0000
+Received: (qmail 2601 invoked by uid 48516); 6 Jan 2020 14:20:33 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8967 invoked from network); 6 Jan 2020 14:20:33 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 06 Jan 2020 14:20:32 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1726510AbgAFORn (ORCPT <rfc822;bruce@untroubled.org>);
+        Mon, 6 Jan 2020 09:17:43 -0500
+Received: from mail-oi1-f195.google.com ([209.85.167.195]:43960 "EHLO
+        mail-oi1-f195.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1726340AbgAFORm (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Mon, 6 Jan 2020 09:17:42 -0500
+Received: by mail-oi1-f195.google.com with SMTP id p125so13741943oif.10
+        for <linux-kernel@vger.kernel.org>; Mon, 06 Jan 2020 06:17:42 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=SWROCM1ytxc0KjQwpMH18fW8c9E/im8B3jG70FYy+uk=;
+        b=OATrwvmO+CyErGzHT1lt2Buo/ZiGdvzIaYYyIMyoVMWjRY/QcDE6+LE2KnQKPbzacw
+         /+rGKQfsu7gQZCNPp+6cHD5YQ+iFkVZk+5Wvc+TqMX8YKhszrH5xfgZQWt05H5fpZbdi
+         7BK03SsbKbENg80NJ5HsF9d90CBsvuJ+rQ8uCsqdLvE1MVL+NI9Gph36VyQoXNGIrxpK
+         5MY58+fdH83fH4SFksBN5hDmyjRsawhL2P/Hv+D1BjGLlrCE67LgMZgDaTfLdDK8W/nh
+         Y6Ngccu4/bTjRR6TcHsrUvMdXtJNBwKFdB6N3YFD6ETAtIdsOx7+KnxJ8El+DXL0kJS0
+         kkaw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=SWROCM1ytxc0KjQwpMH18fW8c9E/im8B3jG70FYy+uk=;
+        b=pp7UdFTv+Gp1Y3WPwuSRwuDJX6BSvRSg3lYMO5MySuRPyBWm9w7sUOtz1hagods7+f
+         m7D0GEsZ7Pe4ZDFC0uGaxZ0wM+GdQg6x3dUF3QkAU2NCTHpQyRr2lJUdG3nkHMazNqB7
+         s9/V8WDRVOl3/xc80vwerYYGcZh+V75XG6lmQGAC7JpuF/7EFoY5c6vjvOCy6jw+vtxh
+         l2HMLaJpe0pbDmdaCQqR7Hj7R3XzbFc8+YwvdzG7O1H41vWq4oTf9K5EnJZzMugcJylS
+         n60PJrnVGCdNtrFL2SKE4Tchpohkukzyzz8Nbb+D4OHbfz6HdWg9kDR7edqBBJQqhh/A
+         +W5w==
+X-Gm-Message-State: APjAAAV/tNBCclypeHxEFesJmP2SKohsE/nXDK1xYDSosFWARIKGZd22
+        lmJOppv8ZqtM5Mvf+bvQHniy3P2l13CUNQHhVN0=
+X-Google-Smtp-Source: APXvYqzsLJnSzIcmw6PCol/lgo+jRHvZl759BIhEN5f3CDhcd2LPIy/O8mu7/V8L5ElxRjtTXLseTKLXRB1pmMSYzpk=
+X-Received: by 2002:aca:55cc:: with SMTP id j195mr5723915oib.22.1578320261690;
+ Mon, 06 Jan 2020 06:17:41 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:a4a:9590:0:0:0:0:0 with HTTP; Mon, 6 Jan 2020 06:17:41 -0800 (PST)
+Reply-To: issaaapo1@gmail.com
+From:   "Bar. Aapo Issa" <infosu.org@gmail.com>
+Date:   Mon, 6 Jan 2020 02:17:41 -1200
+Message-ID: <CAHuUpd8KvaiQoTrd6QyzEVUBxWqnK4PjnK3qEhq2RoL2xJ-ngQ@mail.gmail.com>
+Subject: re
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 553
+
+Your choice is intentional and not a mistake. You might not in any way
+be related to the deceased client.  now, you're require to forward
+with the below requested information to enable us proceed.
+
+I await your reply and acceptance.I expect a feedback from you with
+the below personal data:
+
+1. Your Full Name .
+2. Telephone/ Mobile Number.
+3. Profession.
+4. Date and Place of birth.
+5. Identity Copy.
+6. Residential address.
+7. Your Country / Nationality.
+
+Be rest assured that all processes will be executed under the ambit of
+laws of both countries.

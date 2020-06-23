@@ -1,0 +1,114 @@
+Return-Path: <SRS0=3HUKC6=3I=mail.iheatersoni.bid=6666-2982-85526-1778-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 7398 invoked from network); 19 Jan 2020 13:53:59 -0000
+Received: (qmail 24581 invoked from network); 19 Jan 2020 13:53:58 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Jan 2020 13:53:58 -0000
+Received: (qmail 12666 invoked by uid 48516); 19 Jan 2020 13:53:58 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 28892 invoked from network); 19 Jan 2020 13:53:58 -0000
+Received: from oaks.iheatersoni.bid ([170.130.174.35])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 19 Jan 2020 13:53:57 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=iheatersoni.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=HardtoBelieve@iheatersoni.bid;
+ bh=p2hfXWvykKpFIiqH8X6pKJXiq34=;
+ b=VP2dfLwjIVVzlTe3L6APPWYKkd+at8RCZG1Xt8vDmaP3NPh/HLlhiXwV4qUWlofp/Eg0qN9DiviZ
+   zmVSGR0bFeympftTr54iO6Zr2KLbvnd1wcV/fGbM22lwSbNkB2oh61CBsZYdHx025uIFFmo/nIMY
+   o8bvGcza7/a3HS5qTQQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=iheatersoni.bid;
+ b=cjWbWCfJ6LWtaQMiU5RH6nMUI/1f1QLH1J0fD1n8OH+/uqsBY81NWVP1KJobMjHISYv7i8IuYEMt
+   VP3FSqhIvuPMoIJ2QsseuP87YjS13kHvH2af0sNyTIb9nA029/W8it7Epzd3kMqWMogSxNW6ruGX
+   11XHN3Am0YWJ5fz30EE=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="daf19016e9c91c722e3e7263cc2dcd3d_ba6_14e16"
+Date: Sun, 19 Jan 2020 08:53:30 -0500
+From: "Hard to Believe" <HardtoBelieve@iheatersoni.bid>
+Reply-To: "Baby Sleep Miracle" <HardtoBelieve@iheatersoni.bid>
+Subject: Weird Noise Instantly Puts Babies to Sleep
+To: <bruce@untroubled.org>
+Message-ID: <67fke2l63ww5ldoc-8sycpmeo8gbyz8ch-ba6-14e16@iheatersoni.bid>
+Content-Length: 6645
+
+--daf19016e9c91c722e3e7263cc2dcd3d_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Weird Noise Instantly Puts Babies to Sleep
+
+http://iheatersoni.bid/DsAlAqkveUMFgBo7DTeu36SXXkd2qmFZonvoUvpO0UrXdkDZ
+
+http://iheatersoni.bid/zK2rYHD09Trh2y_H8Gb144cgs0vOovhS4tp-sfBtmova7g
+
+ures that the project management plan's deliverables are executed accordingly. This phase involves proper allocation, co-ordination and management of human resources and any other resources such as material and budgets. The output of this phase is the project deliverables.
+
+Project Documentation
+Documenting everything within a project is key to being successful. To maintain budget, scope, effectiveness and pace a project must have physical documents pertaining to each specific task. With correct documentation, it is easy to see whether or not a project's requirement has been met. To go along with that, documentation provides information regarding what has already been completed for that project. Documentation throughout a project provides a paper trail for anyone who needs to go back and reference the work in the past. In most cases, documentation is the most successful way to monitor and control the specific phases of a project. With the correct documentation, a project's success can be tracked and observed as the project goes on. If performed correctly documentation can be the backbone to a project's success.
+
+Monitoring and controlling
+
+Monitoring and controlling process group processes
+Monitoring and controlling consists of those processes performed to observe project execution so that potential problems can be identified in a timely manner and corrective action can be taken, when necessary, to control the execution of the project. The key benefit is that project performance is observed and measured regularly to identify variances from the project management plan.
+
+Monitoring and controlling includes:
+
+Measuring the ongoing project activities ('where we are');
+Monitoring the project variables (cost, effort, scope, etc.) against the project management plan and the project performance baseline (where we should be);
+Identifying corrective actions to address issues and risks properly (How can we get on track again);
+Influencing the factors that could circumvent integrated change control so only app
+
+--daf19016e9c91c722e3e7263cc2dcd3d_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://iheatersoni.bid/gx5q4vt_Tjlx2VNoatScPEZh4Dp9UrKch0LsVWy1bOMwTOfJ"><img src="http://iheatersoni.bid/bfbe7bfc8e61cef056.jpg" /><img height="1" src="http://www.iheatersoni.bid/BOxefD6PdjKIDHIYnvbLDiX3fAXqo09ly4TVxbgHEbXdeQ5b" width="1" /></a>
+<center>
+<div style="width:600px; font-size:17px; font-family:arial; text-align:left;"><br />
+<br />
+<a href="http://iheatersoni.bid/DsAlAqkveUMFgBo7DTeu36SXXkd2qmFZonvoUvpO0UrXdkDZ"><img src="http://iheatersoni.bid/9865c88324258f7047.gif" style="width:600px;" /></a><br />
+<br />
+<br />
+Can you imagine putting on a weird sound and have your baby enjoy restful sleep in minutes without waking up once?<br />
+<br />
+Now, neuro-researchers from the Stanford Sleep Lab have discovered the secret to making<strong><a href="http://iheatersoni.bid/DsAlAqkveUMFgBo7DTeu36SXXkd2qmFZonvoUvpO0UrXdkDZ"><span style="color:#FF0000;"> it happen, effortlessly... safely... and quickly.</span></a></strong> The sleep inducing power of the sound lies in triggering a natural response from your little one&rsquo;s subconcious.<br />
+<br />
+<a href="http://iheatersoni.bid/DsAlAqkveUMFgBo7DTeu36SXXkd2qmFZonvoUvpO0UrXdkDZ"><img src="http://iheatersoni.bid/bada448ffe8f4f2262.jpg" /></a><br />
+<br />
+And all you have to do is &quot;<strong>switch it on.</strong>&quot;<br />
+<br />
+That&#39;s how easy it can be to finally enjoy restful nights and see the surpring health benefits for your child.<br />
+<br />
+You&#39;ll be able to use it tonight<br />
+<br />
+<a href="http://iheatersoni.bid/DsAlAqkveUMFgBo7DTeu36SXXkd2qmFZonvoUvpO0UrXdkDZ"><span style="color:#FF0000;"><strong>Discover how to do it right here in this video.</strong></span></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://iheatersoni.bid/W0Pd-jE2mffC0r4dlA5lgg78Mb4PNNLhK4c_o9xgOg3uLGmP"><img src="http://iheatersoni.bid/91669d90e581d89470.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">ures that the project management plan&#39;s deliverables are executed accordingly. This phase involves proper allocation, co-ordination and management of human resources and any other resources such as material and budgets. The output of this phase is the project deliverables. Project Documentation Documenting everything within a project is key to being successful. To maintain budget, scope, effectiveness and pace a project must have physical documents pertaining to each specific task. With correct documentation, it is easy to see whether or not a project&#39;s requirement has been met. To go along with that, documentation provides information regarding what has already been completed for that project. Documentation throughout a project provides a paper trail for anyone who needs to go back and reference the work in the past. In most cases, documentation is the most successful way to monitor and control the specific phases of a project. With the correct documentation, a project&#39;s success can be tracked and observed as the project goes on. If performed correctly documentation can be the backbone to a project&#39;s success. Monitoring and controlling Monitoring and controlling process group processes Monitoring and controlling consists of those processes performed to observe project execution so that potential problems can be identified in a timely manner and corrective action can be taken, when necessary, to control the execution of the project. The key benefit is that project performance is observed and measured regularly to identify variances from the project management plan. Monitoring and controlling includes: Measuring the ongoing project activities (&#39;where we are&#39;); Monitoring the project variables (cost, effort, scope, etc.) against the project management plan and the project performance baseline (where we should be); Identifying corrective actions to address issues and risks properly (How can we get on track again); Influencing the factors that could circumvent integrated change control so only app</span></center>
+</body>
+</html>
+
+--daf19016e9c91c722e3e7263cc2dcd3d_ba6_14e16--

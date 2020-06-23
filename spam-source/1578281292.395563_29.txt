@@ -1,0 +1,80 @@
+Return-Path: <SRS0=cJAzBx=22=kralgi.buzz=canvas-prints-partner-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 18280 invoked from network); 5 Jan 2020 16:49:43 -0000
+Received: (qmail 28723 invoked from network); 5 Jan 2020 16:49:42 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Jan 2020 16:49:42 -0000
+Received: (qmail 3072 invoked by uid 48516); 5 Jan 2020 16:49:41 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 17897 invoked from network); 5 Jan 2020 16:49:41 -0000
+Received: from mail.kralgi.buzz ([91.228.101.87])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 05 Jan 2020 16:49:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=kralgi.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas-prints-partner@kralgi.buzz;
+ bh=pTvqAagp+dnPUraf4sztbFHdX6s=;
+ b=YlQ6fXDlRqOA7iytYyGmttalR5gclZWXf11cqCVPbmrRJLt1X8NA1QSRN7wLtDVhRlPJnRZMngrU
+   O0IMteEyiuze6AeKvCDw60TKfr2dlTzloGYvNYq9v5++TzUGLSFUbRiTik3exbv5/BoQBPzmaE9V
+   tXCamCJtITsGNAPhzTc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=kralgi.buzz;
+ b=pAj4x15w05RCTOEhKE7ilXIQyZgB5HHEXCadbv55fvc2UIA3XNOyLRl/DfCc2sXPiVMjK6C+HtFn
+   XjZrzVuDrzmrpOXD1/egUNQnWUxysQJ/UUQxcFm8PIHbKst5vQ1h3VnNtKXETWLhLOCgAnQ9zZOw
+   ue1QaI/PDWD8Nl4duRs=;
+Received: by mail.kralgi.buzz id h289qa0001gj for <bruce@untroubled.org>; Sun, 5 Jan 2020 11:44:30 -0500 (envelope-from <canvas-prints-partner-bruce=untroubled.org@kralgi.buzz>)
+Date: Sun, 5 Jan 2020 11:44:30 -0500
+From: "Canvas Prints Partner" <canvas-prints-partner@kralgi.buzz>
+To:   <bruce@untroubled.org>
+Subject: Fall into Savings with up to 93% OFF Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_199_956794113.1578242652891"
+List-Unsubscribe: <http://www.kralgi.buzz/1d34G2395RB8r913YSHJ_11C19d3Y21HFv4GIf4rxvs4FhIHEsvZ10UQ.RQomoIK5UAQ105KyHNi/downplayed>
+Message-ID: <0.0.0.16.1D5C3E766E3D4C2.29A1F2@mail.kralgi.buzz>
+Content-Length: 3122
+
+------=_Part_199_956794113.1578242652891
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>deter interpretable</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.kralgi.buzz/Kikuyu/17a4s2395kSv8612Lq7096q19d3m21EFv4GIf4rxvs4FhIHEsvZ10aQ.RQomoIK7a1rVJ0I5uMHiz">=
+Biggest Sale EVER 93% off&nbsp; </a></span></span><br /> <br /> <a href=3D"=
+http://www.kralgi.buzz/Kikuyu/17a4s2395kSv8612Lq7096q19d3m21EFv4GIf4rxvs4FhIHEsvZ10aQ.RQomoIK7a1rVJ0I5uMHiz"><img alt=3D"easy canvas" src=3D"http://www.kralgi.buzz/footfall/e404K2395R_7ah12ns7099n19d3U21tFv4GIf4rxvs4FhIHEsvZ10GQ.RQomoIK7O1iPj0u6h00HOi" style=3D"width: 65=
+8px; height: 724px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Press <a href=
+=3D"http://www.kralgi.buzz/imagines/62a6P23xs95s8kz612u709u7V19d3s21rFv4GIf4rxvs4FhIHEsvZ10iQ.RQomoIK5A1DY05Xk@Hi">This&nbsp; </a><br /> Or Write to: 11525A Stonehollow Dr. S=
+uite 100 Austin, TX 78758<br /> <br /> 6547 N Academy Blvd #2128<br /> COLO=
+RADO SPRINGS CO 80918<br /> Leave <a href=3D"http://www.kralgi.buzz/a7f6pF239V5d89XU11Y7098X19d3K21SFv4GIf4rxvs4FhIHEsvZ10CQ.RQomoIK6Q1vV0q5G1BHi/mania">Here</a><b=
+r /> <br /> <br /> <font></font><big></big><style class="pilfer"><span color="benched"><small></span></small></style><font id="aloe"></font><font class="grows"><small></font></small><span color="contagious"></span><small></small></span></span><br /> <br /> <span sty=
+le=3D"color:#FFFFFF; ">Jenji Kohan, creator of Netflix' s &quot; Orange Is =
+the New Black,&quot; described herself as &quot; broken&quot; after her 20-=
+year-old son was killed in a New Year' s Eve ski accident. &quot; He was my=
+ best work. A list of adjectives don' t do him justice. There is no justice=
+,&quot; Kohan wrote in an emotional Instagram post. &quot; I am the luckies=
+t person who ever lived in that I got to spend so much time and help grow t=
+his brilliant, funny, truly kind and thoughtful person-man-boy. My baby. My=
+ golden child. My beautiful boy. I don' t understand what life is now witho=
+ut him in the world. I don' t understand where he' s gone. And I' m broken.=
+ How is this real?&quot; </span><br /> <br /> <br /> &nbsp; </p>=20
+  </center> <small></small><span></span><font title="case"><font lang="urgently"><font dir="carcasses"></font><span title="conceptual"></span></font></font><span id="affirming"></span><big><font dir="sniffed"><style face="timelessly"></style></font></big> =20
+ <img src=3D"http://www.kralgi.buzz/d6d5z23H95EhO8513v7P09asB19d3s21IFv4GIf4rxvs4FhIHEsvZ10vQ.RQomoIK6u_M10p5dPHMi/Kikuyu" alt=3D""/></body>
+</html>
+
+------=_Part_199_956794113.1578242652891--
+

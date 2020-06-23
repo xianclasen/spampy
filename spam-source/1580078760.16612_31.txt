@@ -1,0 +1,75 @@
+Return-Path: <SRS0=cnumdH=3P=99spins.com=kirk@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 9695 invoked from network); 26 Jan 2020 15:59:21 -0000
+Received: (qmail 7638 invoked from network); 26 Jan 2020 15:59:20 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 15:59:20 -0000
+Received: (qmail 22115 invoked by uid 48516); 26 Jan 2020 15:59:19 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 28650 invoked from network); 26 Jan 2020 15:59:19 -0000
+Received: from 99spins.com (69-94-156-225.nca.lanset.com [69.94.156.225])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 26 Jan 2020 15:59:18 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=99spins.com; s=dkim;
+	t=1580051941; bh=90zQuN0ghLXJXejQIyzjCQDAZ8c=;
+	h=Message-ID:Subject:Date:To:From;
+	b=c1ZSZ+/aoNIQXBvoS2chcxvpDyJ3UnPI5gm4zO9Cu5++EQiGsCNzcbLhKcPD4CkFC
+	 mUMgdHzW1Q0jj2ZaI3+HsB+c5qIwmk61CgXO6chiAHTwxxBHQonnfzZPi9ApJHbBvx
+	 4N7lb+OYnmiNyWv96YCK0frJep7GJDylGUZF662U=
+MIME-Version: 1.0 
+List-Unsubscribe: <http://gbv67V4T69K1qmx.99spins.com/198cd8e5d5168876076e59b11_e5ad2d5e/3/> 
+Message-ID: <fqtRA0MQGHS4fld.mat4WX5DE595lic@99spins.com> 
+Subject: Grab Your FREE Tactical Flashlight (normally $29.95) 
+Date: Sun, 26 Jan 2020 10:19:01 -0500 
+To: "bruce@untroubled.org" <bruce@untroubled.org> 
+From: "FreeSurvivalGearClub | Deals" <kirk@99spins.com> 
+Content-type: multipart/alternative; boundary="---=_Part_33_425J54.SYH5";
+Content-Length: 4748
+
+-----=_Part_33_425J54.SYH5
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Grab Your FREE Tactical Flashlight (normally $29.95)
+
+http://ihf5944F624Bxob.99spins.com/2082d954df968876076e59b116401417_e5ad2d5e-0101050d0001/1/
+
+Grab Your FREE Tactical Flashlight (normally $29.95)
+
+-----=_Part_33_425J54.SYH5
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td colspan='2' align='center' valign='middle' class='preview-mid'>
+          <br>
+          <center>
+            <a href="http://oly3663352UOwvr.99spins.com/2082d954df968876076e59b116401417_e5ad2d5e-0101050d0001/1/"><img src="http://assets.rmvme.com/9699025717e586356365ad52a8e11684" border="0" alt=""></a>
+          </center>
+          <div align="center">
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+            If you'd prefer not to receive future emails, <a href="http://tdhUBFBA3RRKspb.99spins.com/20848f2f14168876076e59b116411417_e5ad2d5e-0101050d0001/1/"><font color="#666666">Unsubscribe Here</font></a>.<br>
+            3335 S. Airport Rd, Traverse City, Michigan, US 49684</font>
+          </div>
+        </td>
+      </tr>
+    </table>
+<span style="color:#808080;"><span style="font-size: 0.15px;"><span style="font-family: arial,helvetica,sans-serif;">  visibility collapseLorenzo shut his eyes as though to reflect more at his ease then after a moments silence he replied       City Hall he falls out of screen During the replay of the scene for    Joined Feb 15 09FOOTNOTESI met a mechari named Happy also there who is the friendliest guy Ive ever met He has hug protocols and hug programs Im helping him refine them because Im hoping that if he can spread enough hugs around the Dominion theyll stop trying to fight us all the time I know youd like that You always said friendship is what makes Aurin who we are I think its important to meet other people because it lets you know that only some people are jerks and not everyone is a jerkReturn to Organic Gardening Forum    Joined Jul 2003The japan ground properly so called consists of the varnish and pigment where the whole surface is to be of one simple colour or of the varnish with or without pigment on which some painting or other form of decoration is afterwards to be applied It is best to form this ground with the desired pigment incorporated with shellac varnish except in the case of a white japan ground which requires special treatment or when great brilliancy is a desideratum and other methods must be adopted The shellac varnish for the japan ground is best prepared as follows shellac 114 lb methylated spirits 1 gallon Dissolve in a wellcorked vessel in a warm place and with frequent shaking After two or three days the shellac will be dissolved It is then recommended to filter the solution through a flannel bag and when all that will come through freely has done so the varnish should be run into a proper sized vessel and kept carefully corked for use The bag may then be squeezed with the hand till the remainder of the fluid varnish is forced through it and this if fairly clear may be used for rough purposes or added to the next batch Pigments of any nature whatever may be used with the shellac varnish to give the desired tint to the ground and where necessary they may be mixed together to form any compound colour such as blue and yellow to form green The pigments used for japan grounds should all be previously ground very smooth in spirits of turpentine so smooth that the paste does not grate between the two thumb nails and then only are they mixed with the varnish This mixture of pigment and varnish vehicle should then be spread over the surface to be japanned very carefully and very evenly with a camelhair brush As metals do not require a priming coat of size and whiting the japan ground may be applied to metallic surfaces forthwith without any preliminary treatment except thorough cleansing except in the cases specially referred to further on On metallic surfaces three to four coats are applied and in the interval between each coat the articles must be stoved in an oven heated to from 250 to 300 Fall the compatible control characters</span>
+  </body>
+</html>
+
+<center>
+
+
+<font face=verdana size=1>purge my email from your index <a href='http://wxk30CPMC58Jciw.99spins.com/198cd8e5d5168876076e59b11_e5ad2d5e/U/6686'>here</a> <br> 1500 Beville Rd STE 606 Box 10009, Daytona Beach, FL 32114
+<img src="http://yduOCU93W852ski.99spins.com/208426aae1568876076e59b116528e0b_e5ad2d5e-0101050d0001/2/">
+
+-----=_Part_33_425J54.SYH5--

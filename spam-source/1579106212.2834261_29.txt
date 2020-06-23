@@ -1,0 +1,92 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 8297 invoked from network); 15 Jan 2020 11:11:54 -0000
+Received: (qmail 10843 invoked from network); 15 Jan 2020 11:11:53 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Jan 2020 11:11:53 -0000
+Received: (qmail 8997 invoked by uid 48516); 15 Jan 2020 11:11:53 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5759 invoked from network); 15 Jan 2020 11:11:52 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 15 Jan 2020 11:11:52 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id S1729850AbgAOLLn (ORCPT <rfc822;bruce@untroubled.org>);
+        Wed, 15 Jan 2020 06:11:43 -0500
+Received: from mail-lf1-f67.google.com ([209.85.167.67]:38682 "EHLO
+        mail-lf1-f67.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+        with ESMTP id S1726045AbgAOLLm (ORCPT
+        <rfc822;linux-kernel@vger.kernel.org>);
+        Wed, 15 Jan 2020 06:11:42 -0500
+Received: by mail-lf1-f67.google.com with SMTP id r14so12400212lfm.5
+        for <linux-kernel@vger.kernel.org>; Wed, 15 Jan 2020 03:11:41 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=x1q0YcBi92HNWIXqmG5LKm7byE3ixTdGq+QRI0HmcV8=;
+        b=cKezeXSLT0MXrBRlRI94TLzhusiY4EMmbk3Clbyqq9/qIgqz69B+jcpyvLm5TTLpmg
+         +Bf7hD2M0zVPjixClwoc54oRY4Ptm67bmEa9SgEW8fZ8D32o6fMT4QVhE9kXPpMefSwA
+         O0imyS+gFQEIkP9S5wFITD0KOhw0l7ypO2T9eIICmIe8+iMwg5BK5Yea/pjVWV3a/oMY
+         BDKrPkgRisxmwNAbkbbLCYOPxn609smtk/P6X903JPGk7D0iM9DfhIlMvtbm8doINA5N
+         y40E/sFArjw3HkCkPe2s173eDErLLx8IWHauSlmxP+Jwvb9MiWCEXTAUSjKeWxA1hDuL
+         SiFQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to:content-transfer-encoding;
+        bh=x1q0YcBi92HNWIXqmG5LKm7byE3ixTdGq+QRI0HmcV8=;
+        b=ZipwpqaVsp/Ejt5g6Hvfp52sxd5Nk6vWzD/qXT1zXsw8PaMBuNmTn8TZbaSBe2M0fi
+         CphL3Ok25VNv1tQfbNwIsMQc8ixvdwhAT8vIYZXL1YAhR7VDC9iXEGQqeWQrC0eRFKg7
+         mxJApNIv3jQmlYT0JKUYVciAo1ymffSL3NPssDA467G+Y1c2qqDtEAc1ewyltSb7JtHF
+         3ZW2iP4EPrlD23ZFal30KrgRm83BZzKoabR6F/YSDQcH8fgbOqzPBZX05SDZd5hXp3A4
+         MP+tirxjAiAf//QxeSTqm8rQVRIvhlUWc2YlsJMi9iHwLGVQZRuwOyCoiDFS3Vw+Ag/n
+         ffkQ==
+X-Gm-Message-State: APjAAAU9LNyyw+zq8aJAqRAL3fz4gRN5B+29YZVrJsYIMcBsRYlAllvG
+        4C0nDcoBaW5jaS+MeIcGliGSosrzYiT+aFC356g=
+X-Google-Smtp-Source: APXvYqzswhDaCjAcsfp4K2JxwT9zfgXkS12udWTmAvpKfkb+1zhmUUsZ/UhYiAs17X4oL7lCZK24BB3lS2izHLzgb7I=
+X-Received: by 2002:a19:114:: with SMTP id 20mr3970241lfb.25.1579086700776;
+ Wed, 15 Jan 2020 03:11:40 -0800 (PST)
+MIME-Version: 1.0
+Received: by 2002:a19:dc54:0:0:0:0:0 with HTTP; Wed, 15 Jan 2020 03:11:40
+ -0800 (PST)
+Reply-To: eddywilliam0002@gmail.com
+From:   eddy william <barristerlevi@gmail.com>
+Date:   Wed, 15 Jan 2020 12:11:40 +0100
+Message-ID: <CAEJ6Che5qKOySd5u9gwe_VNx4ZxfrMTowwwGWcOTfqyiPW1GOQ@mail.gmail.com>
+Subject: hello
+To:     undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 1917
+
+0JfQtNGA0LDQstC10LnRgtC1DQoNCtCa0LDQt9Cy0LDQvCDRgdC1INCV0LTQuCDQo9C40LvRj9C8
+LiDQn9C+INC/0YDQvtGE0LXRgdC40Y8g0YHRitC8INGO0YDQuNGB0YIuINCY0YHQutCw0Lwg0LTQ
+sCDQstC4INC/0YDQtdC00LvQvtC20LANCtC90LDQuS3QsdC70LjQt9C60LjRgtC1INGA0L7QtNC9
+0LjQvdC4INC90LAg0LzQvtGPINC60LvQuNC10L3Rgi4g0KLQtSDQvdCw0YHQu9C10LTRj9Cy0LDR
+giDRgdGD0LzQsNGC0LAg0L7RgiAoOCw1INC80LjQu9C40L7QvdCwINC00L7Qu9Cw0YDQsCkNCtCU
+0L7Qu9Cw0YDQuCDQutC70LjQtdC90YLRitGCINC80Lgg0L7RgdGC0LDQstC4INCyINCx0LDQvdC6
+0LDRgtCwLCDQv9GA0LXQtNC4INC00LAg0YPQvNGA0LUuDQoNCtCa0LvQuNC10L3RgtGK0YIg0LzQ
+uCDQtSDQs9GA0LDQttC00LDQvdC40L0g0L3QsCDQstCw0YjQsNGC0LAg0YHRgtGA0LDQvdCwLCDQ
+utC+0LnRgtC+INC30LDQs9C40L3QsCDQsiDQsNCy0YLQvtC80L7QsdC40LvQvdCwDQrQutCw0YLQ
+sNGB0YLRgNC+0YTQsCDRgdGK0YEg0YHRitC/0YDRg9Cz0LDRgtCwINGB0LgNCtC4INGB0LDQvNC+
+INGB0LjQvS4g0KnQtSDQuNC80LDQvCDQv9GA0LDQstC+INC90LAgNTAlINC+0YIg0L7QsdGJ0LjR
+jyDRhNC+0L3QtCwg0LTQvtC60LDRgtC+IDUwJQ0K0LTQsCDQtSDQt9CwINGC0LXQsS4NCtCc0L7Q
+u9GPLCDRgdCy0YrRgNC20LXRgtC1INGB0LUg0YEg0LvQuNGH0L3QuNGPINC80Lgg0LjQvNC10LnQ
+uyDRgtGD0Log0LfQsCDQv9C+0LLQtdGH0LUg0LjQvdGE0L7RgNC80LDRhtC40Y86DQplZGR5d2ls
+bGlhbTAwMDJnbWFpbC5jb20NCg0K0JHQu9Cw0LPQvtC00LDRgNGPINCy0Lgg0L/RgNC10LTQstCw
+0YDQuNGC0LXQu9C90L4NCtCT0L7RgdC/0L7QtNC40L0g0JXQtNC4INCj0LjQu9GP0LwsDQoNCg0K
+DQpIZWxsbw0KDQpNeSBuYW1lIGlzIEVkZHkgV2lsbGlhbSBJIGFtIGEgbGF3eWVyIGJ5IHByb2Zl
+c3Npb24uIEkgd2lzaCB0byBvZmZlciB5b3UNCnRoZSBuZXh0IG9mIGtpbiB0byBteSBjbGllbnQu
+IFlvdSB3aWxsIGluaGVyaXQgdGhlIHN1bSBvZiAoJDguNSBNaWxsaW9uKQ0KZG9sbGFycyBteSBj
+bGllbnQgbGVmdCBpbiB0aGUgYmFuayBiZWZvcmUgaGlzIGRlYXRoLg0KDQpNeSBjbGllbnQgaXMg
+YSBjaXRpemVuIG9mIHlvdXIgY291bnRyeSB3aG8gZGllZCBpbiBhdXRvIGNyYXNoIHdpdGggaGlz
+IHdpZmUNCmFuZCBvbmx5IHNvbi4gSSB3aWxsIGJlIGVudGl0bGVkIHdpdGggNTAlIG9mIHRoZSB0
+b3RhbCBmdW5kIHdoaWxlIDUwJSB3aWxsDQpiZSBmb3IgeW91Lg0KUGxlYXNlIGNvbnRhY3QgbXkg
+cHJpdmF0ZSBlbWFpbCBoZXJlIGZvciBtb3JlIGRldGFpbHM6ZWRkeXdpbGxpYW0wMDAyZ21haWwu
+Y29tDQoNCk1hbnkgdGhhbmtzIGluIGFkdmFuY2UsDQpNci5FZGR5IFdpbGxpYW0sDQo=

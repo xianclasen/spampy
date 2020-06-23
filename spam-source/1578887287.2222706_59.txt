@@ -1,0 +1,173 @@
+Return-Path: <6246-2982-85526-1677-bruce=untroubled.org@mail.gpstracx.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 2019 invoked from network); 12 Jan 2020 10:04:09 -0000
+Received: (qmail 20593 invoked from network); 12 Jan 2020 10:04:08 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 10:04:08 -0000
+Received: (qmail 23517 invoked by uid 48516); 12 Jan 2020 10:04:08 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 16002 invoked from network); 12 Jan 2020 10:04:07 -0000
+Received: from costa.gpstracx.us (nor6ods52.northeastone.website [170.130.172.206])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 12 Jan 2020 10:04:07 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gpstracx.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=ElectricHandwarmer@gpstracx.us;
+ bh=AaGG52EAYHtbABp7193MBAfybok=;
+ b=evxsva23G0vhJMl3bRBvZSGAeC/289yl6bMCxDmYPvHzVXzY67je4rRkuTu+7F1PX8v1gPdOky3z
+   C8lvFmhHHumE8DMXl+3Y4m94iGYQuGT/8HNeC7mjF5zFGEixp+WluQ6/VKRG+t1dBogvfwWMdx5D
+   moAjggBAzweiNI6HLzM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=gpstracx.us;
+ b=n2SXle0nTXdQiOoPf5G/lri0ZCpwFxQXSs+mcwCrXYy1H4gFVDrwYJZaMZzx/PbOttkZ+qLfmhH1
+   wvk1PS10o1bBd+NPsvtFo8Xjt5HrfQMwkuoMzSbkkBveraRfT6IVcyBxWPvEITpFW536EQ9+WaY4
+   RB90/sdmj5kngQz5PSI=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="e6a73a3e56043af6d175972dd729b97b_ba6_14e16"
+Date: Sun, 12 Jan 2020 04:48:23 -0500
+From: "QuickHeat Electric Handwarmer" <ElectricHandwarmer@gpstracx.us>
+Reply-To: "QuickHeat Electric Handwarmer" <ElectricHandwarmer@gpstracx.us>
+Subject: Newest Gear Came From an Almost $10,000 Mistake
+To: <bruce@untroubled.org>
+Message-ID: <tsbrn34gq9a7wcnd-7vwbbntcvhid8mpk-ba6-14e16@gpstracx.us>
+Content-Length: 15039
+
+--e6a73a3e56043af6d175972dd729b97b_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Newest Gear Came From an Almost $10,000 Mistake
+
+http://gpstracx.us/GdPIPL1aeovvLiK2lI1g2AIAS7KLUAaDp_bCv8lWUcEUSA
+
+http://gpstracx.us/HYk8-Vz5Gi1zdQS7RKug4IVPF2bc4Yr5Rh5la2HOrMuQNA
+
+ms of traffic. Other large wikis include the WikiWikiWeb, Memory Alpha, Wikivoyage, and Susning.nu, a Swedish-language knowledge base. Medical and health-related wiki examples include Ganfyd, an online collaborative medical reference that is edited by medical professionals and invited non-medical experts. Many wiki communities are private, particularly within enterprises. They are often used as internal documentation for in-house systems and applications. Some companies use wikis to allow customers to help produce software documentation. A study of corporate wiki users found that they could be divided into "synthesizers" and "adders" of content. Synthesizers' frequency of contribution was affected more by their impact on other wiki users, while adders' contribution frequency was affected more by being able to accomplish their immediate work. from a study of 1000s of wiki deployments, Jonathan Grudin concluded careful stakeholder analysis and education are crucial to successful wiki deployment.
+
+In 2005, the Gartner Group, noting the increasing popularity of wikis, estimated that they would become mainstream collaboration tools in at least 50% of companies by 20nce /300-3314 /Candido /restaurant /vuwdn /weighs /dll /spread /in
+FILETIME /Food /3D /completed /1BC31C80 /signing /Thanks /PLEASE /buys /bens
+cameronian /1em /01C2DDA1 /2 /version /subscription /buckmast /matamoros /that's
+Visit /cfm /elevation /is /example /fmitrjr /running /limitation /surprising /1231
+foes /baking /17 /TRANSLATE /123456789 /experiences /appropriates /915482376
+At /of /retains /edgesuite /anamniote /katoptron /hosted /Chisholm
+tantalizing /ctl00_subNavigationMaster_NavWebPart_SectionLinks_ctl05___Url__
+Se /fuogdehmeqmdx /bancario /impresario /trucks /buggies /forwarded /acres
+citibank /VLBI /cares /please /banesto /sent /Australia /not /cola /faits /huwbzybby
+wertzj /completo /vvvco /ceratioid /relented /following /brutal /april /ounobazmzs
+aemmyipd /BOUTIQUE /NL /archgunner /120x240_as /undying /UTM /bunged /type /puzzled
+useful /puppies /Sydney /regressive /SARA /41 /23 /this /Herzogs /RCS /sleopeqrzs
+45 /modify /CPN /rumor /37 /que /9 /SAME /emergency /forecast /pyramoidal /3314
+digging /unfehlbarer /gqelynn /factors /jsyltp /news /Gianluca /iaxsmwe /CP___ /nl
+lnrudbsqvw /jfcyhkupnqa /at /orniere /format /cyssgc /ultimate /de /ccqogudp /TN
+lauded /tip /vallen /Kabinet_Gordon_Brown_is_een_mix_van_oud_en_nieuw /Venus
+strikes /facility /6 /minha /top /farcically /change /tribunal /combustion
+zsufl /ctl00_footer_NavWebPart_FooterTorontoStar_ctl07___Url__ /candidates
+CDC /exit /blnpapvyffl /alert /WTV /Hello /bleiben /fallout /civilizing /2-7th
+manicurist /famoso /bunkum /quotHAY /pergamon /prohibited /Offerte /dreaded
+applications /00-11 /00 /12 /please /xbbkalwbiuti /det /link /2008 /dat /54 /10
+align /photoesthetic /aizoaceae /haven /team /Dulles /by /notification /Shop
+tard /authors /Grifth /ban /round /Please
+a /copia /mills /vanilla /dial /stressing /starchitects /tafe /salaries /george /ect
+veyron /leibenluft /boc /trilobites /typewriter /eighth /Adm /Class
+Smoothly /3049 /doubled /nervous /commonwealth /BACKGROUND /lebanese /more
+Prod /thinker /korta /hist
+crece /serving /halten /perils /reti /1998 /jogo /couple /lawdotgov /musique
+account /Hosted /CAD /Benjamin /Royal /ggf /fighters /ensino /TI /Obituaries
+asia /ia /inflated /indigenous /received
+formation /lands /Please /Version /Megan /factura /telecommunications /Execs
+www /Pueblos /asia /erste /invoice /fishes /celebrates /Hosted /3122 /hits
+e /livinglogic
+synthetic /highzenburg /century /fact /joseph /erweitern /causa /presidential
+service /sookie /tougher /owners /supermeerkat /scorecard /RAILWAYS /1211 /pueda
+rt /unreconstructed /functon /gudrun
+illegal /wekelijkse /dags /giraffes /slaveholders /Graft /June /Have /represent
+adress /thinker /becoming /pragmatisms /reloc /functon /couple /Reproductor
+functon /height /Deinstitute /athlon
+Blair /go's /funding /labor's /sms'en /lists /lang
+ugrave /sm /t /title /hommes /op /none /s/
+palo /sotto /kan
+lkommen /it /campo /region's
+cutting/
+nombreux /justin's /deber /approach /file's /bietet
+fran /sen /grant's's /napoleon's /Profile /ebay's /boss
+subject /static /s'pose /colSpan /lacks /tricks /all/
+sides /refuges /Doesn /ready /units /nbsp /1935 /hamburg /mart's'
+irr's /Details /width /kontakt'e /naar /t /09.[needs update] Wikis can be used for project management.[unreliable source] Wikis have also been used in the academic community for sharing and dissemination of information across institutional and international boundaries. In those settings, they have been found useful for collaboration on grant writing, strategic planning, departmental documentation, and committee work. In the mid-2000s (decade), the increasing trend among industries toward collaboration was placing a heavier impetus upon educators to make students proficient in collaborative work, inspiring even greater interest in wikis being used in the classroom.
+
+Wikis have found some use within the legal profession, and within government. Examples include the Central Intelligence Agency's Intellipedia, designed to share and collect intelligence, dKospedia, which was used by the American Civil Liberties Union to assist with review of documents pertaining to internment of detainees in Guantánamo Bay; and the wiki of the United States Court of Appeals for the Seventh Circuit, used to post court rules and allow practitioners to comment and ask questions. The United States Patent and Trademark Office operates Peer-to-Patent, a wiki to allow the public to collaborate on finding prior art relevant to examination of pending patent applications. Queens, New York has used a wiki to allow citizens to collaborate on the design and planning of a local park. Cornell Law School founded a wiki-based legal dictionary called Wex, whose growth has been hampered by restrictions on who can edit.
+
+In academic context, wiki has also been used as project collaboration and resear
+
+--e6a73a3e56043af6d175972dd729b97b_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://gpstracx.us/J281KYjQtH_8LiCEGZyvMqBGKWRltdhxgvUPCtbckG8Gtg"><img src="http://gpstracx.us/2e46f3a9f03e032ca3.jpg" /><img height="1" src="http://www.gpstracx.us/vxD1aBF4-dS5f1GpLQRY9ZqBS3pDkiL7sZBsQEU020MlOQ" width="1" /></a><br />
+&nbsp;
+<div style="font-family:Arial;width:600px;padding:10px;">&nbsp;
+<h2>Newest Gear Came From an Almost $10,000 Mistake</h2>
+<br />
+Our newest gear proves the old saying true... <a href="http://gpstracx.us/GdPIPL1aeovvLiK2lI1g2AIAS7KLUAaDp_bCv8lWUcEUSA">sometimes you learn more</a> from mistakes than you learn from good fortune.<br />
+<br />
+In this case we almost made $10,000 mistake before learning about this amazing new survival too.<br />
+<br />
+On the following page you&#39;ll get to see this new egg-shaped survival tool.<br />
+<br />
+Despite looking pretty darn weird we believe it&#39;ll become your new favorite cold weather <a href="http://gpstracx.us/GdPIPL1aeovvLiK2lI1g2AIAS7KLUAaDp_bCv8lWUcEUSA">survival tool. </a><br />
+<br />
+<a href="http://gpstracx.us/GdPIPL1aeovvLiK2lI1g2AIAS7KLUAaDp_bCv8lWUcEUSA"><img src="http://gpstracx.us/c2e88c0a5ff8247e29.gif" /></a><br />
+<br />
+If you&#39;re wondering what this new tool does I&#39;ll give you some hints...<br />
+<br />
+When used with our cold weather TACT Bivvy emergency sleeping bag it can save you from ending up a frozen body inside of a morgue...<br />
+<br />
+It&#39;ll also help keep frostbite at bay...<br />
+<br />
+And if needed you could even use it as backup Free Power!<br />
+<br />
+See how this works and how to get a few of them with FREE BONUS tools on the next page!<br />
+<br />
+<b>~ David Adams</b><br />
+<br />
+Preparing Made Easy<br />
+<br />
+<a href="http://gpstracx.us/GdPIPL1aeovvLiK2lI1g2AIAS7KLUAaDp_bCv8lWUcEUSA"><b>P.S.</b> You can get more than $100 worth of FREE tools and FREE shipping today. But only if you follow this link. </a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://gpstracx.us/Iv1Nkihl1c_5lvQBXeqaSTFbeSCqLJQ_tPcwaB4RaSAs7Q"><img src="http://gpstracx.us/6c61d8105639c20e0e.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://gpstracx.us/HYk8-Vz5Gi1zdQS7RKug4IVPF2bc4Yr5Rh5la2HOrMuQNA"><img src="http://gpstracx.us/60142e7455c7a674b2.jpg" /></a><br />
+<br />
+<br />
+&nbsp;
+<p style="color:#FFFFFF;">ms of traffic. Other large wikis include the WikiWikiWeb, Memory Alpha, Wikivoyage, and Susning.nu, a Swedish-language knowledge base. Medical and health-related wiki examples include Ganfyd, an online collaborative medical reference that is edited by medical professionals and invited non-medical experts. Many wiki communities are private, particularly within enterprises. They are often used as internal documentation for in-house systems and applications. Some companies use wikis to allow customers to help produce software documentation. A study of corporate wiki users found that they could be divided into &quot;synthesizers&quot; and &quot;adders&quot; of content. Synthesizers&#39; frequency of contribution was affected more by their impact on other wiki users, while adders&#39; contribution frequency was affected more by being able to accomplish their immediate work. from a study of 1000s of wiki deployments, Jonathan Grudin concluded careful stakeholder analysis and education are crucial to successful wiki deployment. In 2005, the Gartner Group, noting the increasing popularity of wikis, estimated that they would become mainstream collaboration tools in at least 50% of companies by 20nce /300-3314 /Candido /restaurant /vuwdn /weighs /dll /spread /in FILETIME /Food /3D /completed /1BC31C80 /signing /Thanks /PLEASE /buys /bens cameronian /1em /01C2DDA1 /2 /version /subscription /buckmast /matamoros /that&#39;s Visit /cfm /elevation /is /example /fmitrjr /running /limitation /surprising /1231 foes /baking /17 /TRANSLATE /123456789 /experiences /appropriates /915482376 At /of /retains /edgesuite /anamniote /katoptron /hosted /Chisholm tantalizing /ctl00_subNavigationMaster_NavWebPart_SectionLinks_ctl05___Url__ Se /fuogdehmeqmdx /bancario /impresario /trucks /buggies /forwarded /acres citibank /VLBI /cares /please /banesto /sent /Australia /not /cola /faits /huwbzybby wertzj /completo /vvvco /ceratioid /relented /following /brutal /april /ounobazmzs aemmyipd /BOUTIQUE /NL /archgunner /120x240_as /undying /UTM /bunged /type /puzzled useful /puppies /Sydney /regressive /SARA /41 /23 /this /Herzogs /RCS /sleopeqrzs 45 /modify /CPN /rumor /37 /que /9 /SAME /emergency /forecast /pyramoidal /3314 digging /unfehlbarer /gqelynn /factors /jsyltp /news /Gianluca /iaxsmwe /CP___ /nl lnrudbsqvw /jfcyhkupnqa /at /orniere /format /cyssgc /ultimate /de /ccqogudp /TN lauded /tip /vallen /Kabinet_Gordon_Brown_is_een_mix_van_oud_en_nieuw /Venus strikes /facility /6 /minha /top /farcically /change /tribunal /combustion zsufl /ctl00_footer_NavWebPart_FooterTorontoStar_ctl07___Url__ /candidates CDC /exit /blnpapvyffl /alert /WTV /Hello /bleiben /fallout /civilizing /2-7th manicurist /famoso /bunkum /quotHAY /pergamon /prohibited /Offerte /dreaded applications /00-11 /00 /12 /please /xbbkalwbiuti /det /link /2008 /dat /54 /10 align /photoesthetic /aizoaceae /haven /team /Dulles /by /notification /Shop tard /authors /Grifth /ban /round /Please a /copia /mills /vanilla /dial /stressing /starchitects /tafe /salaries /george /ect veyron /leibenluft /boc /trilobites /typewriter /eighth /Adm /Class Smoothly /3049 /doubled /nervous /commonwealth /BACKGROUND /lebanese /more Prod /thinker /korta /hist crece /serving /halten /perils /reti /1998 /jogo /couple /lawdotgov /musique account /Hosted /CAD /Benjamin /Royal /ggf /fighters /ensino /TI /Obituaries asia /ia /inflated /indigenous /received formation /lands /Please /Version /Megan /factura /telecommunications /Execs www /Pueblos /asia /erste /invoice /fishes /celebrates /Hosted /3122 /hits e /livinglogic synthetic /highzenburg /century /fact /joseph /erweitern /causa /presidential service /sookie /tougher /owners /supermeerkat /scorecard /RAILWAYS /1211 /pueda rt /unreconstructed /functon /gudrun illegal /wekelijkse /dags /giraffes /slaveholders /Graft /June /Have /represent adress /thinker /becoming /pragmatisms /reloc /functon /couple /Reproductor functon /height /Deinstitute /athlon Blair /go&#39;s /funding /labor&#39;s /sms&#39;en /lists /lang ugrave /sm /t /title /hommes /op /none /s/ palo /sotto /kan lkommen /it /campo /region&#39;s cutting/ nombreux /justin&#39;s /deber /approach /file&#39;s /bietet fran /sen /grant&#39;s&#39;s /napoleon&#39;s /Profile /ebay&#39;s /boss subject /static /s&#39;pose /colSpan /lacks /tricks /all/ sides /refuges /Doesn /ready /units /nbsp /1935 /hamburg /mart&#39;s&#39; irr&#39;s /Details /width /kontakt&#39;e /naar /t /09.[needs update] Wikis can be used for project management.[unreliable source] Wikis have also been used in the academic community for sharing and dissemination of information across institutional and international boundaries. In those settings, they have been found useful for collaboration on grant writing, strategic planning, departmental documentation, and committee work. In the mid-2000s (decade), the increasing trend among industries toward collaboration was placing a heavier impetus upon educators to make students proficient in collaborative work, inspiring even greater interest in wikis being used in the classroom. Wikis have found some use within the legal profession, and within government. Examples include the Central Intelligence Agency&#39;s Intellipedia, designed to share and collect intelligence, dKospedia, which was used by the American Civil Liberties Union to assist with review of documents pertaining to internment of detainees in Guant&aacute;namo Bay; and the wiki of the United States Court of Appeals for the Seventh Circuit, used to post court rules and allow practitioners to comment and ask questions. The United States Patent and Trademark Office operates Peer-to-Patent, a wiki to allow the public to collaborate on finding prior art relevant to examination of pending patent applications. Queens, New York has used a wiki to allow citizens to collaborate on the design and planning of a local park. Cornell Law School founded a wiki-based legal dictionary called Wex, whose growth has been hampered by restrictions on who can edit. In academic context, wiki has also been used as project collaboration and resear</p>
+</div>
+</body>
+</html>
+
+--e6a73a3e56043af6d175972dd729b97b_ba6_14e16--

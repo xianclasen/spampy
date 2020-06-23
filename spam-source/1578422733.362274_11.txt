@@ -1,0 +1,100 @@
+Return-Path: <SRS0=scVJMe=24=veloe.date=fungus_free-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24393 invoked from network); 7 Jan 2020 18:41:23 -0000
+Received: (qmail 13308 invoked from network); 7 Jan 2020 18:41:22 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 18:41:22 -0000
+Received: (qmail 23560 invoked by uid 48516); 7 Jan 2020 18:41:21 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 2339 invoked from network); 7 Jan 2020 18:41:21 -0000
+Received: from mail.veloe.date (70-102-103-111.nca.lanset.com [70.102.103.111])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 07 Jan 2020 18:41:20 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=veloe.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fungus_free@veloe.date;
+ bh=/4A1UYH3j4KN5LSkRbn1YZzkMzg=;
+ b=Ujv6F6ijgTxt7OkbS1R5603GioONthKcls+DgoY2ntZdY2yrvM48qSvXvK9ZUawmtaAAJM1SMh/O
+   IQkPPxCsMKtygzyxTaoD2LoDVrcWM8L97sOoQQRzOSrkvwXveVkvUCfOryOt6ww110IvfvaJozLq
+   8c41t+yDZW3KcOIKvjg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=veloe.date;
+ b=drdQ8s6JTQUCb5RKMNjwWWM3nlR84vw38warGaeI8z7axfN+yiW/clgZ2mhnnm89t320xAHNZDLM
+   M0IQRnPlyJ96rF9BmQmr5fgcD7QuEo97A03Rfso8XpPE13F1xhNIDxi4bG8kKGWHPIajX1Ke3QNI
+   xuq0/mi2pQJj+FG4Wyw=;
+Received: by mail.veloe.date id h2j8d20001gm for <bruce@untroubled.org>; Tue, 7 Jan 2020 13:35:46 -0500 (envelope-from <fungus_free-bruce=untroubled.org@veloe.date>)
+Date: Tue, 7 Jan 2020 13:35:46 -0500
+From: "Fungus Free" <fungus_free@veloe.date>
+To:   <bruce@untroubled.org>
+Subject: Do This Immediately To Get Rid Of Toenail Fungus (VIDEO)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_313_1141633833.1578422132749"
+List-Unsubscribe: <http://www.veloe.date/instantaneous-lordly/9905J239x5O8lM913vQt1z1Du19eaZ21aFv4GIf4rxvs4FhIHEsvZ10gQpRQd9oq96uzmC105EAH1i>
+Message-ID: <0.0.0.22.1D5C58946C5AD52.79CC99@mail.veloe.date>
+Content-Length: 6984
+
+------=_Part_313_1141633833.1578422132749
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>delusions</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.veloe.date/b154n2395h86AH11U7109G19eaY21QFv4GIf4rxvs4FhIHEsvZ10wQpRQd9oq96W1HvR06HlUHXi/instantaneous-lordly">Fast and easy Stop to foot fungus&nbsp; </a></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: 2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; height: 530px; "> 
+    <tbody> 
+     <tr> 
+      <td> 
+       <table border="1" cellpadding="0" cellspacing="0" style="font-family: &quot; Sans Serif&quot; , serif; font-size: 17px; height: 548px; " width="590"> 
+        <tbody> 
+         <tr> 
+          <td> 
+           <table border="0" cellpadding="5" cellspacing="5" style="height: 526px; " width="586"> 
+            <tbody> 
+             <tr> 
+              <td> 
+               <div style="font-family: &quot; Sans Serif&quot; ; font-size: 16px; "> 
+                <div style="color: rgb(0, 0, 0); line-height: normal; font-family: &quot; Sans Serif&quot; ; font-size: 12px; "> 
+                 <h1 style="margin: 20px 6px; color: rgb(34, 34, 34); line-height: 40px; font-family: &quot; Sans Serif&quot; ; font-size: 36px; box-sizing: border-box; text-align: center; "><span style="font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(0, 0, 0); "><strong>This Man Cured His Nail Fungus This Simple Trick (Watch Here)</strong></span></span></h1> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><a href="http://www.veloe.date/b154n2395h86AH11U7109G19eaY21QFv4GIf4rxvs4FhIHEsvZ10wQpRQd9oq96W1HvR06HlUHXi/instantaneous-lordly"><img alt="stag" src="http://www.veloe.date/blanketing-excusably/a266w2o3Y95w7Oal12N710cLR19eaW21rFv4GIf4rxvs4FhIHEsvZ10LQpRQd9oq95Qq_106ljB0Hi" style="width: 492px; height: 287px; " /></a></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(14, 14, 184); "><span style="font-size: 34px; font-family: &quot; Sans Serif&quot; ; "><strong><a href="http://www.veloe.date/b154n2395h86AH11U7109G19eaY21QFv4GIf4rxvs4FhIHEsvZ10wQpRQd9oq96W1HvR06HlUHXi/instantaneous-lordly" style="color: rgb(14, 14, 184); ">{Watch Now}</a></strong></span></span></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                </div> 
+               </div> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <a href="http://www.veloe.date/promoter-sequencings/22e5L239k5Q8m6g12N710PaT19eaW21XFv4GIf4rxvs4FhIHEsvZ10yQpRQd9oq97YM_k1I05L3HXi"><font color="#666666">Remove Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.veloe.date/a9d5g239j5dC89g11E710bZ19eaw21kFv4GIf4rxvs4FhIHEsvZ10NQpRQd9oq97z10_KQX5tPHiL/instantaneous-lordly">Vacate email Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+    <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+    <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 80918</span>
+    <br /> &nbsp; 
+   </div> <span title="accordingly"><font dir="groan"></font></span><style title="secondaries"><style face="bustling"><span style="landlords"></span></style></style><small><font face="Stromberg"></small><span></span></font>
+  </center>   
+ <img src="http://www.veloe.date/waterway-margin/13e6Iy239R5BX8v513LC71I0dC19eaH21dFv4GIf4rxvs4FhIHEsvZ10nQpRQd9oq95nz10l6b@M3Hi" alt=""/></body>
+</html>
+
+------=_Part_313_1141633833.1578422132749--
+

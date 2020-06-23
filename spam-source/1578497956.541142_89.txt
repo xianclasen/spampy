@@ -1,0 +1,116 @@
+Return-Path: <SRS0=RWePGs=25=mail.strategys.bid=6044-9790-262549-1619-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 31309 invoked from network); 8 Jan 2020 13:10:13 -0000
+Received: (qmail 23374 invoked from network); 8 Jan 2020 13:10:13 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Jan 2020 13:10:13 -0000
+Received: (qmail 27172 invoked by uid 48516); 8 Jan 2020 13:10:12 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 32348 invoked from network); 8 Jan 2020 13:10:12 -0000
+Received: from worth.strategys.bid (client-23-254-230-102.hostwindsdns.com [23.254.230.102])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 08 Jan 2020 13:09:53 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=strategys.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=**ByeByeBark@strategys.bid;
+ bh=4Jq6sB7KEUvjhqsFr+KNf8//rds=;
+ b=r6cYwtNUyYLLb6AoukKFbIrD1jHP4NpdYD36KuraOdxil54pjRLeHNaIdTwuEjvyvD1D3Ep7t4h6
+   yQmPTogJGS4rITAdUSkzDL/nifHAkrNCO+poQha99FpJObhR9h3JlwhvvU0que6bLwBewWggWTlW
+   HiayBe9gYs6Xc1GRPh8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=strategys.bid;
+ b=Kjf/czAhqGIN7V1j9nIq78sXEOJzhJi2HYV+0vLqX57mPs+tFzdGnY4kuZ2tENCGvgPJVKSOPe/V
+   RMic9jsMWhhvIl5tDCLQmjvPc6VnF0IzDBElnd/bmkaXjQu4Z3oAFhxxK8OOecMwk3Gv5ahVcTwc
+   Te2cGLDEbsvCBzbLlWM=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="e53011ea595e4796505bffe1a6cf664f_263e_40195"
+Date: Wed, 8 Jan 2020 08:08:32 -0500
+From: "Bye Bye Bark" <**ByeByeBark@strategys.bid>
+Reply-To: "**Bye Bye Bark" <**ByeByeBark@strategys.bid>
+Subject: Try Bye Bye Barks and Rest Easy
+To: <bruce@untroubled.org>
+Message-ID: <4oz1n4ac9t7tpl74-qp7okslsaw0xkno2-263e-40195@strategys.bid>
+Content-Length: 8537
+
+--e53011ea595e4796505bffe1a6cf664f_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Try Bye Bye Barks and Rest Easy
+
+http://strategys.bid/oWCxHXyRIi9GPflbpFR8SKCLTuRgLTjLekPhv7ASff2WvOVz
+
+http://strategys.bid/ZWJokpMHMQ_00HEXjxuSNYjDmGzj26ruZJpfTGwlnaDndGsE
+
+The Appeasement policy of Great Britain and France towards Adolf Hitler's annexation of Austria and Czechoslovakia did not stem an increase in the power of Nazi Germany. Around the same time, the Third Reich allied with the Empire of Japan, a rival of the USSR in the Far East and an open enemy of the USSR in the Soviet–Japanese Border Wars in 1938–39.
+
+In August 1939, the Soviet government decided to improve relations with Germany by concluding the Molotov–Ribbentrop Pact, pledging non-aggression between the two countries and dividing Eastern Europe into their respective spheres of influence. While Hitler conquered Poland and France and other countries acted on a single front at the start of World War II, the USSR was able to build up its military and occupy the Western Ukraine, Hertza region and Northern Bukovina as a result of the Soviet invasion of Poland, the Winter War, the occupation of the Baltic states and Soviet occupation of Bessarabia and Northern Bukovina.
+The Siege of Leningrad was the deadliest siege of a city in history.
+
+On 22 June 1941, Nazi Germany broke the non-aggression treaty and invaded the Soviet Union with the largest and most powerful invasion force in human history, opening the largest theater of World War II. The Nazi Hunger Plan foresaw the "extinction of industry as well as a great part of the population". Nearly 3 million Soviet POWs in German captivity were murdered in just eight months of 1941–42. Although the German army had considerable early success, their attack was halted in the Battle of Moscow. Subsequently, the Germans were dealt major defeats first at the Battle of Stalingrad in the winter of 1942–43, and then in the Battle of Kursk in the summer of 1943. Another German failure was the Siege of Leningrad, in which the city was fully blockaded on land between 1941 and 1944 by German and Finnish forces, and suffered starvation and more than a million deaths, but never surrendered. Under Stalin's administration and the leadership of such commanders as Georgy Zhukov and Konstantin Rokossovsky, Soviet forces took Eastern Europe in 1944–45 and captured Berlin in May 1945. In August 1945 the Soviet Army ousted the Japanese from China's Manchukuo and North Korea, contributing to the allied victory over Japan.
+The German armed forces suffered 80% of its military deaths in the Eastern Front.
+
+The 1941–45 period of World War II is known in Russia as the "Great Patriotic War". The Soviet Union together with the United States, the United Kingdom and China were considered as the Big Four of Allied powers in World War II  and later became the Four Policemen which was the foundation of the United Nations Security Council. During this war, which included many of the most lethal battle operations in human history, Soviet civilian and military death were about 27 million, accounting for about a third of all World War II casualties.
+
+--e53011ea595e4796505bffe1a6cf664f_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>&nbsp;
+<center>
+<div style="font-size:20px;  padding:10px; width:600px;text-align:left; font-family:Arial;">&nbsp;
+<center><a href="http://strategys.bid/oWCxHXyRIi9GPflbpFR8SKCLTuRgLTjLekPhv7ASff2WvOVz" style="color:#CB423C;font-size:37px;font-family:Comic Sans MS;">ByeByeBarks: Harmless device that stops barking immediately</a></center>
+<br />
+<a href="http://strategys.bid/oWCxHXyRIi9GPflbpFR8SKCLTuRgLTjLekPhv7ASff2WvOVz"><img src="http://strategys.bid/6dc78387ef95737903.jpg" /></a><br />
+<br />
+Do you own a dog that often gets out of control? Has your dog bitten the mailman or the paperboy too many times? Is dog barking driving you crazy?<br />
+<br />
+The secret that helps best trainers get excellent results and improve bad dog behavior is finally revealed! This new ultrasonic device can control your own dog&rsquo;s barking and transform your dog to the well-behaved best friend you remember.<br />
+<br />
+What We Love about Bye Bye Bark<br />
+<br />
+? Perfect for dog lovers<br />
+<br />
+? Safe for dogs<br />
+<br />
+? Keeps your family sane when fido is unruly<br />
+&nbsp;
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#288cc9" role="presentation" style="border:none;border-radius:3px;color:#ffffff;cursor:auto;padding:10px 25px;" valign="middle"><a href="http://strategys.bid/oWCxHXyRIi9GPflbpFR8SKCLTuRgLTjLekPhv7ASff2WvOVz" style="background:#288cc9;color:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:25px;font-weight:normal;line-height:120%;Margin:0;text-decoration:none;text-transform:none;" target="_blank">Learn More about Bye Bye Barks</a></td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://strategys.bid/8P2txmtUNM7fMbz-rWTlwP2M6VxvXNwVHi0Gm2_7Y7OHtSND"><img src="http://strategys.bid/ea9302fcd1010b2bfc.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:white;">The Appeasement policy of Great Britain and France towards Adolf Hitler&#39;s annexation of Austria and Czechoslovakia did not stem an increase in the power of Nazi Germany. Around the same time, the Third Reich allied with the Empire of Japan, a rival of the USSR in the Far East and an open enemy of the USSR in the Soviet&ndash;Japanese Border Wars in 1938&ndash;39. In August 1939, the Soviet government decided to improve relations with Germany by concluding the Molotov&ndash;Ribbentrop Pact, pledging non-aggression between the two countries and dividing Eastern Europe into their respective spheres of influence. While Hitler conquered Poland and France and other countries acted on a single front at the start of World War II, the USSR was able to build up its military and occupy the Western Ukraine, Hertza region and Northern Bukovina as a result of the Soviet invasion of Poland, the Winter War, the occupation of the Baltic states and Soviet occupation of Bessarabia and Northern Bukovina. The Siege of Leningrad was the deadliest siege of a city in history. On 22 June 1941, Nazi Germany broke the non-aggression treaty and invaded the Soviet Union with the largest and most powerful invasion force in human history, opening the largest theater of World War II. The Nazi Hunger Plan foresaw the &quot;extinction of industry as well as a great part of the population&quot;. Nearly 3 million Soviet POWs in German captivity were murdered in just eight months of 1941&ndash;42. Although the German army had considerable early success, their attack was halted in the Battle of Moscow. Subsequently, the Germans were dealt major defeats first at the Battle of Stalingrad in the winter of 1942&ndash;43, and then in the Battle of Kursk in the summer of 1943. Another German failure was the Siege of Leningrad, in which the city was fully blockaded on land between 1941 and 1944 by German and Finnish forces, and suffered starvation and more than a million deaths, but never surrendered. Under Stalin&#39;s administration and the leadership of such commanders as Georgy Zhukov and Konstantin Rokossovsky, Soviet forces took Eastern Europe in 1944&ndash;45 and captured Berlin in May 1945. In August 1945 the Soviet Army ousted the Japanese from China&#39;s Manchukuo and North Korea, contributing to the allied victory over Japan. The German armed forces suffered 80% of its military deaths in the Eastern Front. The 1941&ndash;45 period of World War II is known in Russia as the &quot;Great Patriotic War&quot;. The Soviet Union together with the United States, the United Kingdom and China were considered as the Big Four of Allied powers in World War II  and later became the Four Policemen which was the foundation of the United Nations Security Council. During this war, which included many of the most lethal battle operations in human history, Soviet civilian and military death were about 27 million, accounting for about a third of all World War II casualties. </span><br />
+&nbsp;</div>
+</center>
+<br />
+<br />
+&nbsp;</body>
+</html>
+
+--e53011ea595e4796505bffe1a6cf664f_263e_40195--

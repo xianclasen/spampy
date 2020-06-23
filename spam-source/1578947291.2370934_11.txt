@@ -1,0 +1,96 @@
+Return-Path: <SRS0=6lw8vn=3C=dulah.date=fungus_eliminator-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 29614 invoked from network); 13 Jan 2020 15:59:39 -0000
+Received: (qmail 28064 invoked from network); 13 Jan 2020 15:59:38 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 13 Jan 2020 15:59:38 -0000
+Received: (qmail 17821 invoked by uid 48516); 13 Jan 2020 15:59:36 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 30072 invoked from network); 13 Jan 2020 15:59:33 -0000
+Received: from mail.dulah.date (208-187-163-65.nca.datanoc.com [208.187.163.65])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 13 Jan 2020 15:59:32 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=dulah.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=fungus_eliminator@dulah.date;
+ bh=lgKTV2eLECSxOHPK9wgqxhBrDnw=;
+ b=uvS+c+U9LofKQ80reObXXhWiVkQV9AU4TYPSWVi+Ll10XLBfrRy2hc1ios5H/++Qzz4Y9EqSOFco
+   OobSIOg65oP8AHyACMdKSiaeRam/F0U8z40tagEGTrAx38GGbCP5jmkNmLR+wvpva8wE4p5ECHHf
+   8VYy1ho/yQ75p0WPkU8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=dulah.date;
+ b=gWtjsrrMROwHt6h3HL1nAMExu7qZOYRGRPTlDJwNaRhly6JFL80MAr2DZAfde0Wj4bK9HIcOK8HY
+   oW31jpWzqRFzzZBy3NFpwmaV0oghKqJsK7IqaIK3Tvl7e2tmkxyJ8rzMRW5egHf5jF7/603StWSL
+   iyH+klfswGp1T/pHO+o=;
+Received: by mail.dulah.date id h3i9ua0001gc for <bruce@untroubled.org>; Mon, 13 Jan 2020 10:53:01 -0500 (envelope-from <fungus_eliminator-bruce=untroubled.org@dulah.date>)
+Date: Mon, 13 Jan 2020 10:53:01 -0500
+From: "Fungus Eliminator" <fungus_eliminator@dulah.date>
+To:   <bruce@untroubled.org>
+Subject: Do This Tonight To Make Fungus Disappear (Try Today)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_391_370074708.1578930759942"
+List-Unsubscribe: <http://www.dulah.date/gardener-revolutionizer/a9e4M2395f8Z9S13Jp1VI1TI1a22j21jFv4GIf4rxvs4FhIHEsvZ10SQhRRmoo397n1XL0qw6KllBHi>
+Message-ID: <0.0.0.2C.1D5CA2988A94C34.303D9D@mail.dulah.date>
+Content-Length: 6059
+
+------=_Part_391_370074708.1578930759942
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>bedtime</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-family:arial,helvetica,sans-serif; "><span style="font-size:18px; "><a href="http://www.dulah.date/gardener-revolutionizer/4a45k239T5qS86D12X722l1o1a22_21lFv4GIf4rxvs4FhIHEsvZ10vQhRRmoo396z10CQz6SWWHqi">Cure Foot Fungus with a fast trick&nbsp; </a></span></span>
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: 2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; height: 530px; "> 
+    <tbody> 
+     <tr> 
+      <td> 
+       <table border="1" cellpadding="0" cellspacing="0" style="font-family: &quot; Sans Serif&quot; , serif; font-size: 17px; height: 548px; " width="590"> 
+        <tbody> 
+         <tr> 
+          <td> 
+           <table border="0" cellpadding="5" cellspacing="5" style="height: 526px; " width="586"> 
+            <tbody> 
+             <tr> 
+              <td> 
+               <div style="font-family: &quot; Sans Serif&quot; ; font-size: 16px; "> 
+                <div style="color: rgb(0, 0, 0); line-height: normal; font-family: &quot; Sans Serif&quot; ; font-size: 12px; "> 
+                 <h1 style="margin: 20px 6px; color: rgb(34, 34, 34); line-height: 40px; font-family: &quot; Sans Serif&quot; ; font-size: 36px; box-sizing: border-box; text-align: center; "><span style="font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(0, 0, 0); "><strong>This Man Cured His Nail Fungus This Fast Trick (Watch Here)</strong></span></span></h1> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><a href="http://www.dulah.date/gardener-revolutionizer/4a45k239T5qS86D12X722l1o1a22_21lFv4GIf4rxvs4FhIHEsvZ10vQhRRmoo396z10CQz6SWWHqi"><img alt="stag" src="http://www.dulah.date/Owens-tallness/6665Q2l395W7GaB11d7224_1a22o21cFv4GIf4rxvs4FhIHEsvZ10fQhRRmoo397LY1V0SI6jUBHiW" style="width: 497px; height: 292px; " /></a></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; "><span style="color: rgb(14, 14, 184); "><span style="font-size: 34px; font-family: &quot; Sans Serif&quot; ; "><strong><a href="http://www.dulah.date/gardener-revolutionizer/4a45k239T5qS86D12X722l1o1a22_21lFv4GIf4rxvs4FhIHEsvZ10vQhRRmoo396z10CQz6SWWHqi" style="color: rgb(14, 14, 184); ">{Watch Asap}</a></strong></span></span></p> 
+                 <p style="margin: 0px; padding: 0px; text-align: center; color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&quot; ; ">&nbsp; </p> 
+                </div> 
+               </div> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> </td> 
+     </tr> 
+    </tbody> 
+   </table> 
+   <p style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <font color="#666666">Remove</font><a href="http://www.dulah.date/loaning-psychedelic/e226I2J39D5zKL8612R7K222Q1a22K21jFv4GIf4rxvs4FhIHEsvZ10iQhRRmoo395nB1g05zBHiN"><font color="#666666"> Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font>
+    <br /> 
+    <br /> Exit 
+    <a href="http://www.dulah.date/e5d5b239Q5c8LT911u7223x1a22y21rFv4GIf4rxvs4FhIHEsvZ10PQhRRmoo396wg1hH05JPHiO/Owens-tallness">email Here</a>
+    <br /> 
+    <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+   </div> <span face="moons"><span></span><style color="wholesalers"></style><small></small><span></span></span>
+  </center>   
+ <img src="http://www.dulah.date/contracts-apostolic/b165YU2395P8g5M13QW722q5S1a22o21QFv4GIf4rxvs4FhIHEsvZ10lQhRRmoo396bmMR106DpzHij" alt=""/></body>
+</html>
+
+------=_Part_391_370074708.1578930759942--
+

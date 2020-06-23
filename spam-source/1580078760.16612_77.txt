@@ -1,0 +1,104 @@
+Return-Path: <SRS0=eFlZWS=3P=mail.sciencnenatural.co=7013-2982-85526-1869-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1486 invoked from network); 26 Jan 2020 08:53:06 -0000
+Received: (qmail 6112 invoked from network); 26 Jan 2020 08:53:06 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 08:53:06 -0000
+Received: (qmail 32390 invoked by uid 48516); 26 Jan 2020 08:53:04 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20078 invoked from network); 26 Jan 2020 08:53:04 -0000
+Received: from fresno.sciencnenatural.co ([170.130.174.36])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 26 Jan 2020 08:52:57 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=sciencnenatural.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=CanvasPrintsAd@sciencnenatural.co;
+ bh=2xYS7JUTG0w4rojieovjb+8EBgg=;
+ b=dth/cxuXxKgYZJHAklmQ4pjfDWnTC1qXarpU+qZNdBQOpRefCjb/IOBFc7+aLj5dQkKUHeOPoaWV
+   85SE/UfsLFj2QuyR0MSaNtiKChxGlRNTXmf2Br4LuaCEpBwHwOSuqtVhMm78bkEH64qSSdTiDs+f
+   bqn3or9PZfUy1DMoZP4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=sciencnenatural.co;
+ b=d2uTzouo8Es5NxCHRc6ZPGBnoymcsKcrh3rCeEHwxFq8cEMpmX6GRgGsU6mA2ljvQ1eUyd79k/Xo
+   pnNfITmzoe+K84LkRCfaG+1UUDwSO46ZM229jNj1oHyNAz6Y2yCERPGtrWOGhrQ+e9eb7YTVxlO9
+   JCfn3P90bxYiEs4ShrU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="9e61d173e6d81fe4091b80044dbdd2b8_ba6_14e16"
+Date: Sun, 26 Jan 2020 03:52:22 -0500
+From: "Canvas Prints Ad" <CanvasPrintsAd@sciencnenatural.co>
+Reply-To: "Canvas Prints Partner" <CanvasPrintsAd@sciencnenatural.co>
+Subject: Up to 93% off Holiday Sale
+To: <bruce@untroubled.org>
+Message-ID: <zek28mcjcvcydoge-6put0phu1va02wgm-ba6-14e16@sciencnenatural.co>
+Content-Length: 8873
+
+--9e61d173e6d81fe4091b80044dbdd2b8_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Up to 93% off Holiday Sale
+
+http://sciencnenatural.co/scNxX3WjxnydEd0IOq5nSUoimiDQdicqZCzbh1061SlzE-Nc
+
+http://sciencnenatural.co/Q01kGazVPCSTuGh3TO-oKsGRCRrKKHG4CXrvctcva3n9o89y
+
+Following upon legislation passed in 1990, in 1997, Congress passed H.R. 1635, which President Bill Clinton signed into law, and which authorized the United States National Park Service to establish the National Underground Railroad Network to Freedom program to identify associated sites, as well as preserve them and popularize the Underground Railroad and stories of people involved in it. The National Park Service has designated many sites within the network, posted stories about people and places, sponsors an essay contest, and holds a national conference about the Underground Railroad in May or June each year.
+
+Arrival in Canada
+
+International Underground Railroad Memorial in Windsor, Ontario
+
+John Brown participated in the Underground Railroad as an abolitionist.
+Estimates vary widely, but at least 30,000 slaves, and potentially more than 100,000, escaped to Canada via the Underground Railroad. The largest group settled in Upper Canada (Ontario), called Canada West from 1841. Numerous Black Canadian communities developed in Southern Ontario. These were generally in the triangular region bounded by Niagara Falls, Toronto, and Windsor. Several rural villages made up mostly of freed slaves were established in Kent and Essex counties in Ontario.
+
+Fort Malden, in Amherstburg, Ontario, was deemed the "chief place of entry" for slaves seeking to enter Canada. The abolitionist Levi Coffin, who was known for aiding over 2,000 fugitives to safety, supported this choice. He described Fort Malden as "the great landing place, the principle terminus of the underground railroad of the west." After 1850, approximately thirty fugitive slaves a day were crossing over to Fort Malden by steamboat.:15 The Sultana was one of the ships, making "frequent round trips" between Great Lakes ports. Its captain, C.W. Appleby, a celebrated mariner, facilitated the conveyance of several fugitive slaves from various Lake Erie ports to Fort Malden.:110
+
+Another important destination was Nova Scotia, which was first settled by Black Loyalists during the American Revolution and then by Black Refugee (War of 1812) (see Black Nova Scotians). Important black settlements also developed in other parts of British North America (now parts of Canada). These included Lower Canada (present-day Quebec) and Vancouver Island, where Governor James Douglas encouraged black immigration because of his opposition to slavery. He also hoped a significant black community would form a bulwark against those who wished to unite the island with the United States.[citation needed]
+
+Upon arriving at their destinations, many fugitives were disappointed, as life in Canada was difficult. While the British colonies had no slavery after 1834, discrimination was still common. Many of the new arrivals had to compete with mass European immigration for jobs, and overt racism was common. For example, in reaction to Black Loyalists being settled in eastern Canada by the Crown, the city of Saint John, New Brunswick, amended its charter in 1785 specifically to exclude blacks from practicing a trade, selling goods, fishing in the harbor, or becoming freemen; these provisions stood until 1870.
+
+With the outbreak of the Civil War in the U.S., many black refugees left Canada to enlist in the Union Army. While some later returned to Canada, many remained in the United States. Thousands of others returned to the American South after the war ended. The desire to reconnect with friends and family was strong, and most were hopeful about the changes emancipation and Reconstruction would bring.
+
+--9e61d173e6d81fe4091b80044dbdd2b8_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://sciencnenatural.co/1GizPHu7_1AG3hyKNJFEZT_SreNYRZspYhK5G1vO1W4kvKrr"><img src="http://sciencnenatural.co/f26de345fcc984d63e.jpg" /><img height="1" src="http://www.sciencnenatural.co/lqHKuWJCkcH5Wm2Wsce8IyK0yvOHeB7pAl5zRaM_4VZMgvoT" width="1" /></a>
+<center>
+<div><br />
+<br />
+<a href="http://sciencnenatural.co/scNxX3WjxnydEd0IOq5nSUoimiDQdicqZCzbh1061SlzE-Nc" style="font-size:40px;font-family:Arial; color:red; text-decoration:none;">Up to 93% off Holiday Sale</a><br />
+<br />
+<a href="http://sciencnenatural.co/scNxX3WjxnydEd0IOq5nSUoimiDQdicqZCzbh1061SlzE-Nc"><img src="http://sciencnenatural.co/3a797ce7abce4d0414.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sciencnenatural.co/4za8s5NRZtZxocmQUvAyr5t45axcmbpdpxRb2vukoZjpldr_"><img src="http://sciencnenatural.co/5893bdd43811f213bf.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sciencnenatural.co/Q01kGazVPCSTuGh3TO-oKsGRCRrKKHG4CXrvctcva3n9o89y"><img src="http://sciencnenatural.co/c9ec098efea5722faa.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Following upon legislation passed in 1990, in 1997, Congress passed H.R. 1635, which President Bill Clinton signed into law, and which authorized the United States National Park Service to establish the National Underground Railroad Network to Freedom program to identify associated sites, as well as preserve them and popularize the Underground Railroad and stories of people involved in it. The National Park Service has designated many sites within the network, posted stories about people and places, sponsors an essay contest, and holds a national conference about the Underground Railroad in May or June each year. Arrival in Canada International Underground Railroad Memorial in Windsor, Ontario John Brown participated in the Underground Railroad as an abolitionist. Estimates vary widely, but at least 30,000 slaves, and potentially more than 100,000, escaped to Canada via the Underground Railroad. The largest group settled in Upper Canada (Ontario), called Canada West from 1841. Numerous Black Canadian communities developed in Southern Ontario. These were generally in the triangular region bounded by Niagara Falls, Toronto, and Windsor. Several rural villages made up mostly of freed slaves were established in Kent and Essex counties in Ontario. Fort Malden, in Amherstburg, Ontario, was deemed the &quot;chief place of entry&quot; for slaves seeking to enter Canada. The abolitionist Levi Coffin, who was known for aiding over 2,000 fugitives to safety, supported this choice. He described Fort Malden as &quot;the great landing place, the principle terminus of the underground railroad of the west.&quot; After 1850, approximately thirty fugitive slaves a day were crossing over to Fort Malden by steamboat.:15 The Sultana was one of the ships, making &quot;frequent round trips&quot; between Great Lakes ports. Its captain, C.W. Appleby, a celebrated mariner, facilitated the conveyance of several fugitive slaves from various Lake Erie ports to Fort Malden.:110 Another important destination was Nova Scotia, which was first settled by Black Loyalists during the American Revolution and then by Black Refugee (War of 1812) (see Black Nova Scotians). Important black settlements also developed in other parts of British North America (now parts of Canada). These included Lower Canada (present-day Quebec) and Vancouver Island, where Governor James Douglas encouraged black immigration because of his opposition to slavery. He also hoped a significant black community would form a bulwark against those who wished to unite the island with the United States.[citation needed] Upon arriving at their destinations, many fugitives were disappointed, as life in Canada was difficult. While the British colonies had no slavery after 1834, discrimination was still common. Many of the new arrivals had to compete with mass European immigration for jobs, and overt racism was common. For example, in reaction to Black Loyalists being settled in eastern Canada by the Crown, the city of Saint John, New Brunswick, amended its charter in 1785 specifically to exclude blacks from practicing a trade, selling goods, fishing in the harbor, or becoming freemen; these provisions stood until 1870. With the outbreak of the Civil War in the U.S., many black refugees left Canada to enlist in the Union Army. While some later returned to Canada, many remained in the United States. Thousands of others returned to the American South after the war ended. The desire to reconnect with friends and family was strong, and most were hopeful about the changes emancipation and Reconstruction would bring. </span></center>
+</body>
+</html>
+
+--9e61d173e6d81fe4091b80044dbdd2b8_ba6_14e16--

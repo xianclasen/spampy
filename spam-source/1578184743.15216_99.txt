@@ -1,0 +1,86 @@
+Return-Path: <SRS0=gu58bY=2Y=feaum.buzz=canvas_prints_promo-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11466 invoked from network); 3 Jan 2020 16:15:41 -0000
+Received: (qmail 18879 invoked from network); 3 Jan 2020 16:15:40 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Jan 2020 16:15:40 -0000
+Received: (qmail 12199 invoked by uid 48516); 3 Jan 2020 16:15:39 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 11350 invoked from network); 3 Jan 2020 16:15:36 -0000
+Received: from mail.feaum.buzz ([91.228.101.248])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 03 Jan 2020 16:15:36 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=feaum.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvas_prints_promo@feaum.buzz;
+ bh=Oh9WvMFdZtgpjytvB3QNMOjYRi4=;
+ b=Cx77B0UMQa//lg1C+ZC0hA7wcXJtHlQxoAMTQWVz70WalG2MLgteR+0MHLdFdGWjnC2j6gCmXbgU
+   9D18v0sW2SXsNym66BkrgVWAyMDuxrcwrJ0J5TkISZj5Wpbrguwqj+wb9tFolrGVwGl+lfINPRx9
+   5Af6JP8hItt9fK7d80A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=feaum.buzz;
+ b=XxnM/zAfjauPpBhVCZoVxp8D1ybf9TsFrGgMUem4d2xkBZCOAbZLWyqZZjLgiXovqzPRZk4cMvrz
+   JhSWZHJyl8MLp8K5LlRrwVb2pKsOu8v6n94ZDP6+z6mpNDxJb0ExhHJ2D84ZDLeFwJnR7j88mACL
+   lPjKzNHTRi2iMmfq7eQ=;
+Received: by mail.feaum.buzz id h1tkag0001gi for <bruce@untroubled.org>; Fri, 3 Jan 2020 11:09:10 -0500 (envelope-from <canvas_prints_promo-bruce=untroubled.org@feaum.buzz>)
+Date: Fri, 3 Jan 2020 11:09:10 -0500
+From: "Canvas Prints Promo" <canvas_prints_promo@feaum.buzz>
+To:   <bruce@untroubled.org>
+Subject: Fall into Savings with up to 93% OFF Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_112_1720679886.1578067746520"
+List-Unsubscribe: <http://www.feaum.buzz/expulsion/15c6msM2395Wo8_911hi1m1i19bfg21IFv4GIf4rxvs4FhIHEsvZ10cQORQmmozK7KSn1R0W5NAHiA>
+Message-ID: <0.0.0.C.1D5C2502219E61C.7CF649@mail.feaum.buzz>
+Content-Length: 3336
+
+------=_Part_112_1720679886.1578067746520
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>compared chew</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.feaum.buzz/deployments/q6c6J2hv395e86wJ11h7032o19bfV21jFv4GIf4rxvs4FhIHEsvZ10VQORQmmozK5g10rq5RAHiO">=
+HUGE CANVAS SALE TODAY 93% off&nbsp; </a></span></span><br /> <br /> <a hre=
+f=3D"http://www.feaum.buzz/deployments/q6c6J2hv395e86wJ11h7032o19bfV21jFv4GIf4rxvs4FhIHEsvZ10VQORQmmozK5g10rq5RAHiO"><img alt=3D"easy canvas" src=3D"http://www.feaum.buzz/reveres/7ce5Wl2395UZ7aB13h70U35Tz19bfJ21hFv4GIf4rxvs4FhIHEsvZ10QQORQmmozK6F10mjK5blHzi" style=3D"widt=
+h: 656px; height: 722px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please GO <a href=3D"=
+http://www.feaum.buzz/51b4f2395Sm8J612b703Z3l19bfF21pFv4GIf4rxvs4FhIHEsvZ10lQORQmmozK5B10Tw6tkHPiq/deployments">HERE </a><br /> Or Write to: 11525A Stonehollow Dr. Suite 100 Au=
+stin, TX 78758<br /> <br /> 6547 N Academy Blvd #2128<br /> COLORADO SPRING=
+S CO 80918<br /> &nbsp; End <a href=3D"http://www.feaum.buzz/7554H2395hU8T913d7SS034X19bfx21BFv4GIf4rxvs4FhIHEsvZ10nQORQmmozK7Ph1NAx05WMHiB/goner">Here</a><br /> <=
+br /> <br /> <font lang="defecting"></font><span><span><span dir="hollowing"></span></span></span><big><span dir="Bayesian"><font class="oiler"></font></big></span></span></span><br /> <br /> <span style=3D"=
+color:#FFFFFF; ">A South Carolina man and and his daughter died after being=
+ shot while hunting deer on New Year' s Day, a relative of the victims told=
+ CNN affiliate WCBD. Kim Drawdy, 30, and his 9-year-old daughter, Lauren, w=
+ere hunting Wednesday near their home in Walterboro, South Carolina, accord=
+ing to Benny Drawdy, Kim' s brother. The two were shot by hunters after bei=
+ng mistaken for deer, according to the South Carolina Department of Natural=
+ Resources (SCDNR). The agency said a group of four hunters was driving dee=
+r, which is when a group walks toward the animals to move them, but it did =
+not give further details on how two of the hunters were shot. &quot; When I=
+ got the message, I just couldn' t believe it,&quot; Drawdy told WCBD. &quo=
+t; My heart stopped when they told me it was my brother and his daughter.&q=
+uot; Emergency crews responded and found the victims about half a mile into=
+ the woods, Colleton County Fire Chief Barry McRoy told CNN. The Colleton C=
+ounty Coroner has not yet released the cause and manner of death, according=
+ McRoy. The SCDNR is investigating the shooting.</span><br /> <br /> <br />=
+ &nbsp; </p>=20
+  </center> <style><style></style><font></style></font><span><font></font></span><style id="competently"></style> =20
+ <img src=3D"http://www.feaum.buzz/1f14c2395gA8I511K7036M19bfB21HFv4GIf4rxvs4FhIHEsvZ10VQORQmmozK5sY10m6j1BzHi/ponders" alt=3D""/></body>
+</html>
+
+------=_Part_112_1720679886.1578067746520--
+

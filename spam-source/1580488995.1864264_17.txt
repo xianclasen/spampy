@@ -1,0 +1,56 @@
+Return-Path: <gunsventa@hotmail.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11543 invoked from network); 30 Jan 2020 19:22:09 -0000
+Received: (qmail 71272 invoked by uid 222); 30 Jan 2020 19:22:08 -0000
+Return-Path: <gunsventa@hotmail.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 71269 invoked from network); 30 Jan 2020 19:22:05 -0000
+Received: from mtacloud.cbsend.com (cbleads-0031-26f0-9937-c273-6e79.cbreversename.com [IPv6:2620:3:a000:31:26f0:9937:c273:6e79])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 30 Jan 2020 19:22:05 -0000
+Received: by mtacloud.cbsend.com id h6cmdq1mar8k for <bruce@untroubled.org>; Thu, 30 Jan 2020 14:22:03 -0500 (envelope-from <gunsventa@hotmail.com>)
+From: Armas Mexico<gunsventa@hotmail.com>
+To: bruce@untroubled.org
+Subject: Defiendase de asaltos o agresiones.
+Date: 30 Jan 2020 13:22:02 -0600
+Message-ID: <20200130132202.7DA66B84153D9E31@hotmail.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 1203
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><title>gmail</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<style type=3D"text/css">
+<!--
+=2EEstilo1 {
+	color: #003300;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+-->
+</style>
+
+<meta name=3D"GENERATOR" content=3D"MSHTML 11.00.9600.19036">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+</head>
+<body>
+<div align=3D"center">
+<p>&nbsp;</p>
+<p class=3D"Estilo1">SU SEGURIDAD ES PRIMERO - LA MEJOR OPCION EN DEFENSA P=
+ERSONAL</p>
+<p class=3D"Estilo1">CIENTOS DE PERSONAS EN MEXICO YA PORTAN UNA PLUMA PIST=
+OLA PARA DEFENSA</p>
+<p><img align=3D"baseline" alt=3D"" src=3D"https://imagizer.imageshack.com/=
+v2/728x412q90/922/orT7RZ.jpg" border=3D"0" hspace=3D"0"></p>
+<p class=3D"Estilo1">ENTREGA INMEDIATA A TODO MEXICO<br><br>VISITE NUESTRA =
+WEB:<br><br><img src=3D"https://i.ibb.co/GtRtJwr/imgam.jpg" border=3D"0"><b=
+r><br><br><font color=3D"#e0e0e0" size=3D"1">25/1/19 - bruce@untroubled.org=
+</font><br><br><br></p><p></p>
+</div>
+
+</body></html>

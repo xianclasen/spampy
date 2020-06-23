@@ -1,0 +1,108 @@
+Return-Path: <SRS0=1ibk4h=3P=mail.sciencnenatural.co=7009-2982-85526-1868-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 812 invoked from network); 26 Jan 2020 08:12:55 -0000
+Received: (qmail 6012 invoked from network); 26 Jan 2020 08:12:55 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 08:12:55 -0000
+Received: (qmail 8577 invoked by uid 48516); 26 Jan 2020 08:12:53 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 19980 invoked from network); 26 Jan 2020 08:12:53 -0000
+Received: from echo.sciencnenatural.co ([170.130.174.35])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 26 Jan 2020 08:12:37 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=sciencnenatural.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=VitiligoMiracle@sciencnenatural.co;
+ bh=NZD59CwcYSGVwgYR0GaosKZefuY=;
+ b=GZdrLCKY+aooE3HX64HZcVf/WuvoVwyp6KnmuFzmAgrpu1RkJO+XCn7xKOtZrjNPAVPrLd0QPZ77
+   TuYyi33Yistqj2UKsadblnJE7F3V81Myh0E6ozT18vRK0Q7z79hI62NZRAc1nymsnlnj821SF7PN
+   Yiuj/kz8apwP7ilEIjI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=sciencnenatural.co;
+ b=Sdy1efJ5YqGA0ZZ+eybr9OYxcG0veHAU+m19SlM2qkYbGfXLwIcoYEjXOAkcdCwOEqYRXaH38ctG
+   1CMVSmngGyhvdno9HP6WhUV54WXzORDkiA6QO7lYWqvPB1NGSb7z4B7fm8SefWHWXmQv3saVNaPx
+   pyPKQ6m9iC3f0Qv/24c=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="51d2353b71eb46c0fae1fb74e39ef348_ba6_14e16"
+Date: Sun, 26 Jan 2020 03:12:13 -0500
+From: "Vitiligo Miracle" <VitiligoMiracle@sciencnenatural.co>
+Reply-To: "Vitiligo Miracle" <De-pigmentation@sciencnenatural.co>
+Subject: Cure Vitiligo Without Drugs or Typical Vitiligo Treatments.
+To: <bruce@untroubled.org>
+Message-ID: <z0tfe6j36y96dmho-6hy8jy2ovpre8pl0-ba6-14e16@sciencnenatural.co>
+Content-Length: 11590
+
+--51d2353b71eb46c0fae1fb74e39ef348_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Cure Vitiligo Without Drugs or Typical Vitiligo Treatments.
+
+http://sciencnenatural.co/GivvNW0j3LCJoK5TUgwkM9T8Yb8FNN2UdEKhmC_TL3U8aboP
+
+http://sciencnenatural.co/LOBUjEWhKrxeOawXtkmlgOXYzeBuP1LpvZ2T9vCxsu3l7sdN
+
+fter working all day, Parks boarded the Cleveland Avenue bus, a General Motors Old Look bus belonging to the Montgomery City Lines, around 6 p.m., Thursday, December 1, 1955, in downtown Montgomery. She paid her fare and sat in an empty seat in the first row of back seats reserved for blacks in the "colored" section. Near the middle of the bus, her row was directly behind the ten seats reserved for white passengers. Initially, she did not notice that the bus driver was the same man, James F. Blake, who had left her in the rain in 1943. As the bus traveled along its regular route, all of the white-only seats in the bus filled up. The bus reached the third stop in front of the Empire Theater, and several white passengers boarded. Blake noted that two or three white passengers were standing, as the front of the bus had filled to capacity. He moved the "colored" section sign behind Parks and demanded that four black people give up their seats in the middle section so that the white passengers could sit. Years later, in recalling the events of the day, Parks said, "When that white driver stepped back toward us, when he waved his hand and ordered us up and out of our seats, I felt a determination cover my body like a quilt on a winter night."
+
+By Parks' account, Blake said, "Y'all better make it light on yourselves and let me have those seats." Three of them complied. Parks said, "The driver wanted us to stand up, the four of us. We didn't move at the beginning, but he says, 'Let me have these seats.' And the other three people moved, but I didn't." The black man sitting next to her gave up his seat.
+
+Parks moved, but toward the window seat; she did not get up to move to the redesignated colored section. Parks later said about being asked to move to the rear of the bus, "I thought of Emmett Till and I just couldn't go back." Blake said, "Why don't you stand up?" Parks responded, "I don't think I should have to stand up." Blake called the police to arrest Parks. When recalling the incident for Eyes on the Prize, a 1987 public television series on the Civil Rights Movement, Parks said, "When he saw me still sitting, he asked if I was going to stand up, and I said, 'No, I'm not.' And he said, 'Well, if you don't stand up, I'm going to have to call the police and have you arrested.' I said, 'You may do that.'"
+
+During a 1956 radio interview with Sydney Rogers in West Oakland several months after her arrest, Parks said she had decided, "I would have to know for once and for all what rights I had as a human being and a citizen."
+
+In her autobiography, My Story, she said:
+
+People always say that I didn't give up my seat because I was tired, but that isn't true. I was not tired physically, or no more tired than I usually was at the end of a working day. I was not old, although some people have an image of me as being old then. I was forty-two. No, the only tired I was, was tired of giving in.
+
+When Parks refused to give up her seat, a police officer arrested her. As the officer took her away, she recalled that she asked, "Why do you push us around?" She remembered him saying, "I don't know, but the law's the law, and you're under arrest." She later said, "I only knew that, as I was being arrested, that it was the very last time that I would ever ride in humiliation of this kind. ... "
+
+Parks was charged with a violation of Chapter 6, Section 11 segregation law of the Montgomery City code, although technically she had not taken a white-only seat; she had been in a colored section. Edgar Nixon, president of the Montgomery chapter of the NAACP and leader of the Pullman Porters Union, and her friend Clifford Durr bailed Parks out of jail that evening.
+
+Parks did not originate the idea of protesting segregation with a bus sit-in. Those preceding her included Bayard Rustin in 1942, Irene Morgan in 1946, Lillie Mae Bradford in 1951, Sarah Louise Keys in 1952, and the members of the ultimately successful Browder v. Gayle 1956 lawsuit (Claudette Colvin, Aurelia Browder, Susie McDonald, and Mary Louise Smith) who were arrested in Montgomery for not giving up their bus seats months before Parks.
+
+--51d2353b71eb46c0fae1fb74e39ef348_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+</head>
+<body>&nbsp;</body>
+</html>
+<br />
+<br />
+<title>Newsletter</title>
+<a href="http://sciencnenatural.co/TPPwEu24gePHAUioPFjvDsRro02Fh_zhWlINuu2F0gjvOJsJ"><img src="http://sciencnenatural.co/4956f405b20a8a2893.jpg" /><img height="1" src="http://www.sciencnenatural.co/HnciFPkXBIHVarhVn20IwJaVJzMfd3hTDD3nCaX4e26uSZ0" width="1" /></a>
+<div style="width:600px;">&nbsp;
+<center><a href="http://sciencnenatural.co/GivvNW0j3LCJoK5TUgwkM9T8Yb8FNN2UdEKhmC_TL3U8aboP"><img src="http://sciencnenatural.co/efa5f833a4c0c10a7c.jpg" /></a>
+<div style="width:550px;font-family:Arial;padding:10px;font-size:20px; border:2px solid yellow;"><b>Dear Vitiligo Sufferer,</b> Are you struggling to get rid of Vitiligo? Are you frustrated by being unable to eliminate your <a href="http://sciencnenatural.co/GivvNW0j3LCJoK5TUgwkM9T8Yb8FNN2UdEKhmC_TL3U8aboP"><span style="color:#008000;"><strong>Vitiligo or control your Vitiligo despite all your efforts?</strong></span></a> If you answered yes, then I know exactly how you feel, because I have personally gone through the same experience.<br />
+&nbsp;
+<p style="font-family:Arial; font-size:17px; text-align:left;">Heal Vitiligo and <b>Restore Skin Pigmentation</b> And Natural Color Of Your Skin In the next 7 Days!<br />
+<br />
+Fix the root cause of your Vitiligo by holistically addressing the internal causes of this condition within <em><strong>45 to 60 days.</strong></em><br />
+<br />
+<a href="http://sciencnenatural.co/GivvNW0j3LCJoK5TUgwkM9T8Yb8FNN2UdEKhmC_TL3U8aboP" style="font-family:Arial; font-size:20px; text-align:left;">Prevent the occurrence of Scars Or Marks</a><br />
+<br />
+Throw away your prescription medications, lotions or <b>&quot;miracle&quot;</b> creams and feel more confident right away!<br />
+<br />
+Restore your natural inner balance and stop Vitiligo-related health issues and keep them away forever!<br />
+&nbsp;</p>
+<a href="http://sciencnenatural.co/GivvNW0j3LCJoK5TUgwkM9T8Yb8FNN2UdEKhmC_TL3U8aboP"><img src="http://sciencnenatural.co/13628cec195afeea7b.jpg" /></a><br />
+<br />
+<a href="http://sciencnenatural.co/GivvNW0j3LCJoK5TUgwkM9T8Yb8FNN2UdEKhmC_TL3U8aboP" style="font-family:Arial; font-size:20px; text-align:left;">Cure Vitiligo Without Drugs or Typical Vitiligo Treatments.</a><br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sciencnenatural.co/NP0et7yvgbuICtB_1xmNVoJFtanq5WLX-mp_WFrAaoiRYhIV" target="_blank"><img src="http://sciencnenatural.co/d7ce08b62a6803646e.jpg" /></a><br />
+<span style="color:#FFFFFF;font-size:6px;">fter working all day, Parks boarded the Cleveland Avenue bus, a General Motors Old Look bus belonging to the Montgomery City Lines, around 6 p.m., Thursday, December 1, 1955, in downtown Montgomery. She paid her fare and sat in an empty seat in the first row of back seats reserved for blacks in the &quot;colored&quot; section. Near the middle of the bus, her row was directly behind the ten seats reserved for white passengers. Initially, she did not notice that the bus driver was the same man, James F. Blake, who had left her in the rain in 1943. As the bus traveled along its regular route, all of the white-only seats in the bus filled up. The bus reached the third stop in front of the Empire Theater, and several white passengers boarded. Blake noted that two or three white passengers were standing, as the front of the bus had filled to capacity. He moved the &quot;colored&quot; section sign behind Parks and demanded that four black people give up their seats in the middle section so that the white passengers could sit. Years later, in recalling the events of the day, Parks said, &quot;When that white driver stepped back toward us, when he waved his hand and ordered us up and out of our seats, I felt a determination cover my body like a quilt on a winter night.&quot; By Parks&#39; account, Blake said, &quot;Y&#39;all better make it light on yourselves and let me have those seats.&quot; Three of them complied. Parks said, &quot;The driver wanted us to stand up, the four of us. We didn&#39;t move at the beginning, but he says, &#39;Let me have these seats.&#39; And the other three people moved, but I didn&#39;t.&quot; The black man sitting next to her gave up his seat. Parks moved, but toward the window seat; she did not get up to move to the redesignated colored section. Parks later said about being asked to move to the rear of the bus, &quot;I thought of Emmett Till and I just couldn&#39;t go back.&quot; Blake said, &quot;Why don&#39;t you stand up?&quot; Parks responded, &quot;I don&#39;t think I should have to stand up.&quot; Blake called the police to arrest Parks. When recalling the incident for Eyes on the Prize, a 1987 public television series on the Civil Rights Movement, Parks said, &quot;When he saw me still sitting, he asked if I was going to stand up, and I said, &#39;No, I&#39;m not.&#39; And he said, &#39;Well, if you don&#39;t stand up, I&#39;m going to have to call the police and have you arrested.&#39; I said, &#39;You may do that.&#39;&quot; During a 1956 radio interview with Sydney Rogers in West Oakland several months after her arrest, Parks said she had decided, &quot;I would have to know for once and for all what rights I had as a human being and a citizen.&quot; In her autobiography, My Story, she said: People always say that I didn&#39;t give up my seat because I was tired, but that isn&#39;t true. I was not tired physically, or no more tired than I usually was at the end of a working day. I was not old, although some people have an image of me as being old then. I was forty-two. No, the only tired I was, was tired of giving in. When Parks refused to give up her seat, a police officer arrested her. As the officer took her away, she recalled that she asked, &quot;Why do you push us around?&quot; She remembered him saying, &quot;I don&#39;t know, but the law&#39;s the law, and you&#39;re under arrest.&quot; She later said, &quot;I only knew that, as I was being arrested, that it was the very last time that I would ever ride in humiliation of this kind. ... &quot; Parks was charged with a violation of Chapter 6, Section 11 segregation law of the Montgomery City code, although technically she had not taken a white-only seat; she had been in a colored section. Edgar Nixon, president of the Montgomery chapter of the NAACP and leader of the Pullman Porters Union, and her friend Clifford Durr bailed Parks out of jail that evening. Parks did not originate the idea of protesting segregation with a bus sit-in. Those preceding her included Bayard Rustin in 1942, Irene Morgan in 1946, Lillie Mae Bradford in 1951, Sarah Louise Keys in 1952, and the members of the ultimately successful Browder v. Gayle 1956 lawsuit (Claudette Colvin, Aurelia Browder, Susie McDonald, and Mary Louise Smith) who were arrested in Montgomery for not giving up their bus seats months before Parks. </span></center>
+</div>
+
+--51d2353b71eb46c0fae1fb74e39ef348_ba6_14e16--

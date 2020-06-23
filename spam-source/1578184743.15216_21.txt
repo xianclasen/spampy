@@ -1,0 +1,177 @@
+Return-Path: <SRS0=6dz7ru=2X=llonny.buzz=blood.sugar.fix-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15015 invoked from network); 2 Jan 2020 16:47:39 -0000
+Received: (qmail 11094 invoked from network); 2 Jan 2020 16:47:38 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 16:47:38 -0000
+Received: (qmail 24654 invoked by uid 48516); 2 Jan 2020 16:47:38 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 22151 invoked from network); 2 Jan 2020 16:47:36 -0000
+Received: from mail.llonny.buzz (191.12.19.72.hostflyte.network [72.19.12.191])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 02 Jan 2020 16:47:36 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=llonny.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=blood.sugar.fix@llonny.buzz;
+ bh=ZxM3+H34Iqs7AWHNraZm5QWDECo=;
+ b=S9jg8DeKE3n/kwekZasJSN8XDBRVPMgwjciE7LvmbRnBhIpZie/Y9nruEtVkh1Z9+1rrdczBYu35
+   KXkNcalvAKcSV6gdPIdn6USNaBKkE7x3IWs+FOV0BtwEP6mDVnwiJH3V0g6uo8aN+aIy6AsfQzI6
+   EfeDW4vE+yDSh2WqwMU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=llonny.buzz;
+ b=g4vJg/RGM/8gBsVrZNC+9HUAKctWSF+Kp02RAl0R8icyA26VUbeFGNJYvQ27ugp4J0vESxQmoqWM
+   7+O0LNpZbck4RCQgdd4tOzysVhqPft8iookwYJjS1ftnfIQEfA1imBeveIOYZLL8H9mSBN8dSnDM
+   aTw56z+jOgk/UWwzd8Y=;
+Received: by mail.llonny.buzz id h1ofag0001gc for <bruce@untroubled.org>; Thu, 2 Jan 2020 11:40:56 -0500 (envelope-from <blood.sugar.fix-bruce=untroubled.org@llonny.buzz>)
+Date: Thu, 2 Jan 2020 11:40:56 -0500
+From: "Blood Sugar Fix" <blood.sugar.fix@llonny.buzz>
+To:   <bruce@untroubled.org>
+Subject: 3 ways to reverse diabetes & high blood pressure
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_64_1818988630.1577983249874"
+List-Unsubscribe: <http://www.llonny.buzz/8456r2PU395oC8q911S1N1io19b7_21wFv4GIf4rxvs4FhIHEsvZ10JQ3RdKook95Mq10j5eTXHi/meant-Isabella>
+Message-ID: <0.0.0.6.1D5C18B67F0C892.47F4E7@mail.llonny.buzz>
+Content-Length: 8818
+
+------=_Part_64_1818988630.1577983249874
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>aught</title>=20
+ </head>=20
+ <body>=20
+  <div style=3D"text-align: center; ">
+   <a href=3D"http://www.llonny.buzz/c236Ot239K5C8Qg613Y700uawS19b7g21XFv4GIf4rxvs4FhIHEsvZ10eQ3RdKook96qL1x0_5Iq@Hi/meant-Isabella">End High Blood pressure</a>
+  </div>=20
+  <center>=20
+   <table style=3D"letter-spacing: normal; text-indent: 0px; text-transform=
+: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; orphans: 2; widows: 2; font-family: =
+&quot; Sans Serif&quot; ; width: 565px; color: rgb(51, 51, 51); font-size: =
+13px; font-style: normal; font-weight: normal; white-space: normal; font-va=
+riant-ligatures: normal; font-variant-caps: normal; height: 421px; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 17px; height: 448px; " width=
+=3D"555">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 451px; " width=3D"551">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                 <div style=3D"color: rgb(0, 0, 0); line-height: normal; fo=
+nt-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                  <p><span style=3D"font-size:16px; "><span style=3D"font-f=
+amily:arial,helvetica,sans-serif; ">Wait! You can&nbsp; <span style=3D"colo=
+r: black; "><span style=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.llonny.buzz/c236Ot239K5C8Qg613Y700uawS19b7g21XFv4GIf4rxvs4FhIHEsvZ10eQ3RdKook96qL1x0_5Iq@Hi/meant-Isabella" =
+style=3D"color: rgb(0, 0, 255); font-weight: bold; ">regulate your blood pr=
+essure</a></span></span>, your blood sugar, cholesterol, insulin resistance=
+ and you want your body to automatically and healthily drop excess fat, fas=
+t? It will be the best time investment you can make in your health this yea=
+r.</span></span></p>=20
+                  <p><span style=3D"font-family: &quot; Sans Serif&quot; ; =
+color: black; "><span style=3D"font-family: arial, sans-serif; font-size: 1=
+2.8px; font-style: normal; font-variant-ligatures: normal; font-variant-cap=
+s: normal; font-weight: 200; letter-spacing: normal; orphans: 2; text-align=
+: start; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: =
+rgb(255, 255, 255); color: rgb(0, 0, 0); "><span style=3D"font-size: 22px; =
+"><span style=3D"font-family: Times; "><span style=3D"line-height: 25.3px; =
+"><strong><span style=3D"font-family: arial, sans-serif; font-size: 12.8px;=
+ font-style: normal; font-variant-ligatures: normal; font-variant-caps: nor=
+mal; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-wi=
+dth: 0px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); "><spa=
+n style=3D"font-family: &quot; Sans Serif&quot; ; "><span style=3D"color: r=
+gb(0, 0, 255); "><a href=3D"http://www.llonny.buzz/c236Ot239K5C8Qg613Y700uawS19b7g21XFv4GIf4rxvs4FhIHEsvZ10eQ3RdKook96qL1x0_5Iq@Hi/meant-Isabella"><img alt=3D"wooo" src=3D"=
+http://www.llonny.buzz/Frederic-radically/12l5yx2395V7YIa13G70F0dRU19b7Q21qFv4GIf4rxvs4FhIHEsvZ10rQ3RdKook96Kz1qP05QB3Hi" style=3D"display: block; margin-left: auto; margin-right: auto; width: 3=
+73px; height: 248px; " /></a></span></span></span></strong></span></span></=
+span></span></span></p>=20
+                  <p><span style=3D"font-size:16px; ">This 100% natural tre=
+atment, which&nbsp; <span style=3D"color: black; "><span style=3D"color: rg=
+b(0, 0, 255); "><a href=3D"http://www.llonny.buzz/c236Ot239K5C8Qg613Y700uawS19b7g21XFv4GIf4rxvs4FhIHEsvZ10eQ3RdKook96qL1x0_5Iq@Hi/meant-Isabella" style=3D"color: rgb(0, 0, 255); font=
+-weight: bold; ">naturally fights diabetes</a></span></span>, has stunned d=
+octors &amp; got the attention of over 260,391 people to transform their li=
+ves.<br /> <br /> If you or anyone you care about is suffering from diabete=
+s you must&nbsp; <span style=3D"color: black; "><span style=3D"color: rgb(0=
+, 0, 255); "><a href=3D"http://www.llonny.buzz/c236Ot239K5C8Qg613Y700uawS19b7g21XFv4GIf4rxvs4FhIHEsvZ10eQ3RdKook96qL1x0_5Iq@Hi/meant-Isabella" style=3D"color: rgb(0, 0, 255); font-we=
+ight: bold; ">watch this video now!</a></span></span></span></p>=20
+                 </div>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"font-style: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb=
+(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; f=
+ont-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p>=20
+   <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, =
+0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-=
+indent: 0px; text-transform: none; white-space: normal; widows: auto; word-=
+spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0p=
+x; text-decoration: none; ">
+    <br />=20
+    <br />=20
+    <br />=20
+    <br />=20
+    <br />=20
+    <br />=20
+    <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helvetic=
+a, sans-serif">&nbsp; <a href=3D"http://www.llonny.buzz/11f4y2395K8Z6X13E700Ugbj19b7w21FFv4GIf4rxvs4FhIHEsvZ10sQ3RdKook95e1Ho06K0XAHi/potable-paraphernalia"><font color=3D"#666666">Leave =
+Here</font></a>.<br /> PureHealth Research | 5501 Merchants View Square #80=
+4 | Haymarket, VA 20169, USA</font><br /> <br /> <a href=3D"=
+http://www.llonny.buzz/7556S2Rj395Y89HO11U700cl19b7j21QFv4GIf4rxvs4FhIHEsvZ10GQ3RdKook96EYJ10i6gpHi2O/endings-thinnest">Pull&nbsp; off Here</a><br /> <span style=3D"caret-color: rgb(0, 0, 0)=
+; color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-=
+weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: n=
+one; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -=
+webkit-text-stroke-width: 0px; text-decoration: none; font-family: arial, h=
+elvetica, sans-serif; text-align: center; float: none; display: inline !imp=
+ortant; ">6547 N Academy Blvd #2128</span><span style=3D"caret-color: rgb(0=
+, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: no=
+rmal; font-variant-caps: normal; font-weight: normal; letter-spacing: norma=
+l; text-indent: 0px; text-transform: none; white-space: normal; word-spacin=
+g: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-d=
+ecoration: none; display: inline !important; float: none; "> </span><br sty=
+le=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; f=
+ont-variant-caps: normal; font-weight: normal; letter-spacing: normal; orph=
+ans: auto; text-indent: 0px; text-transform: none; white-space: normal; wid=
+ows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-=
+stroke-width: 0px; text-decoration: none; font-family: arial, helvetica, sa=
+ns-serif; font-size: 11px; text-align: center; " /> <span style=3D"caret-co=
+lor: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-ca=
+ps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; =
+text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-siz=
+e-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font=
+-family: arial, helvetica, sans-serif; text-align: center; float: none; dis=
+play: inline !important; ">COLORADO SPRINGS CO 80918</span></span>
+    <br />=20
+    <br />=20
+    <br /> &nbsp;=20
+   </div> <small><font size="coached"></font><big></big><small></small><small></small><span dir="plush"><font style="shocked"></font></span><small></small></small>
+  </center>  =20
+ <img src=3D"http://www.llonny.buzz/d6d6e23KK95CoS8512L700eAr19b7P21IFv4GIf4rxvs4FhIHEsvZ10jQ3RdKook97YR1nk0i6iNlH@i/ironed-lingo" alt=3D""/></body>
+</html>
+
+------=_Part_64_1818988630.1577983249874--
+

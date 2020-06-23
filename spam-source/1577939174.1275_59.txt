@@ -1,0 +1,80 @@
+Return-Path: <SRS0=ssNvwX=2W=janaps.date=ultrawifipro-holiday-ad-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 27074 invoked from network); 1 Jan 2020 20:42:43 -0000
+Received: (qmail 6444 invoked from network); 1 Jan 2020 20:42:42 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Jan 2020 20:42:42 -0000
+Received: (qmail 17762 invoked by uid 48516); 1 Jan 2020 20:42:41 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 24053 invoked from network); 1 Jan 2020 20:42:39 -0000
+Received: from mail.janaps.date (69-94-134-214.nca.lanset.com [69.94.134.214])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 01 Jan 2020 20:42:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=janaps.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=ultrawifipro-holiday-ad@janaps.date;
+ bh=k/DmKXAcT9ew0h9ZlGxt+qLvCUk=;
+ b=MMEE6l7f/n5IWAM7gG2eVQOtjpJtjW5sPPnIRfG/bh+NAYOx7EPMG4Zj179r5cLaK0PnFpGxaXut
+   tlsOgBHwrNdFHYYy09/0xVEtnutRuRGIbwKhYcwnPHYSsY922LSFo9B9H/yhMIgP0XYCB89BkCJL
+   VBCi6VbutDgO2SXmgPM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=janaps.date;
+ b=WXE+WPyDH89JW5aHrowrscQmSryEUAumVWQFNGHDOlXWKDWWDPtzLTdFZK8ZUYMrLwiqV5J/C2Av
+   j36iL9Mmgz4+C96lnjm3IhJC3q5jMM7gvI3clGyDiLkOGcNMOC6CVs4cZgGJEB7V/eds1dkCbfAm
+   uDc85FC9Uunt6Y+BkQk=;
+Received: by mail.janaps.date id h1k23u0001ga for <bruce@untroubled.org>; Wed, 1 Jan 2020 15:36:26 -0500 (envelope-from <ultrawifipro-holiday-ad-bruce=untroubled.org@janaps.date>)
+Date: Wed, 1 Jan 2020 15:36:26 -0500
+From: "UltraWifiPro Holiday Ad" <ultrawifipro-holiday-ad@janaps.date>
+To:   <bruce@untroubled.org>
+Subject: The Secret WiFi Boosting Device Internet Companies Are Keeping From You
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_277_398680597.1577910978337"
+List-Unsubscribe: <http://www.janaps.date/a614z2395C89ku12Sst1_1I19aej21cFv4GIf4rxvs4FhIHEsvZ10GQWRde9ot97G1B0UmN6lq@0Hi/relationships-incredulous>
+Message-ID: <0.0.0.1D.1D5C0E323E7C9C8.1FE349@mail.janaps.date>
+Content-Length: 4160
+
+------=_Part_277_398680597.1577910978337
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>perseveres divergences</title> 
+ </head> 
+ <body> 
+  <div style="text-align: center; ">
+   <span style="font-size:18px; "><a href="http://www.janaps.date/a076rF239X5z8lj613F6PfdhdO19aez21DFv4GIf4rxvs4FhIHEsvZ10fQWRde9ot96Y1pGs05epjHi/pitiful-umbrage">Get the&nbsp; fastest wifi speeds</a></span>
+   <br /> &nbsp; 
+  </div> 
+  <center> 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+       <center>
+        <a href="http://www.janaps.date/a076rF239X5z8lj613F6PfdhdO19aez21DFv4GIf4rxvs4FhIHEsvZ10fQWRde9ot96Y1pGs05epjHi/pitiful-umbrage"><img alt="speedy" src="http://www.janaps.date/backslash-paddy/ed66fO239j5pv7qa12G6fel0Z19aeQ21fFv4GIf4rxvs4FhIHEsvZ10rQWRde9ot96gAW10D6wM@yHi" style="border-width: 0px; border-style: solid; width: 104%; " /></a>
+       </center> 
+       <div align="center">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.janaps.date/c056Gv2u395RYD8613SPu6fdeH19aey21dFv4GIf4rxvs4FhIHEsvZ10LQWRde9ot97E10Cx_h6Q@H2il/blisters-photographic"><font color="#666666">Leave Here</font></a>.<br /> 4023 Kennett Pike Wilmington, DE 19807</font>
+        <br /> 
+        <br /> 
+        <br /> 
+        <a href="http://www.janaps.date/c7d6Q23u9R5O8ZV913f6nfdZfu19aeJ21SFv4GIf4rxvs4FhIHEsvZ10yQWRde9ot96pPC10z6QJHiqM/pitiful-umbrage">Remove Here</a>
+        <br /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">6547 N Academy Blvd #2128</span>
+        <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span>
+        <br style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; " /> 
+        <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; ">Colorado Springs CO 8091</span>
+        <br /> 
+        <br /> 
+        <br /> &nbsp; 
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> <font></font><span style="guardedly"></span><span lang="Benz"><span></span></span><font class="underplaying"><small></font><span></span></small><font><span></span></font><small></small><span></span>
+  </center>   
+ <img src="http://www.janaps.date/Knobeloch-trespassers/3f05GW2395S8r5z11E6fe1n19aeG21vFv4GIf4rxvs4FhIHEsvZ10eQWRde9ot95P1zL06S2H@iA" alt=""/></body>
+</html>
+
+------=_Part_277_398680597.1577910978337--
+

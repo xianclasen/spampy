@@ -1,0 +1,226 @@
+Return-Path: <SRS0=Zt0/RR=3N=prule.monster=diabetes-destroyer-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 6648 invoked from network); 24 Jan 2020 16:13:35 -0000
+Received: (qmail 19495 invoked from network); 24 Jan 2020 16:13:34 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 24 Jan 2020 16:13:34 -0000
+Received: (qmail 26538 invoked by uid 48516); 24 Jan 2020 16:13:34 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 7011 invoked from network); 24 Jan 2020 16:13:33 -0000
+Received: from mail.prule.monster ([193.201.140.149])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 24 Jan 2020 16:13:31 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=prule.monster;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=diabetes-destroyer@prule.monster;
+ bh=QUy8Ft7W3dQpusfz9J8aOt+OKYc=;
+ b=MEuyZ54djHwsQ/55YITZ+6adSJUkAVjcumjv983mPBWfETfbJ2+9A861ExM77OuffUldYdjTnBfS
+   Ij9RDBRoTE317NcI3wwS5r00sYSx0+daDM969k4ikP8MaYhQNRXYIfKTeWZFAT7IunW4ZkHTnLJo
+   ftYHEoPTndz1176kYt0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=prule.monster;
+ b=cLrEvRl5jmmENS19cJKLXJ/iV3qHxDimq4c/XR5eIg8fx0C6YXP0+G1r8F4dW4V97keCV0qaMejl
+   qqGNhSpy4ufYBHGNJHsfVbi4Ir83W5ODhfrANyfoUdy68xhp63v6NCzSsSUX53yPEhbEJWL/YKUK
+   IqjNmL9TOH1B3OqpTX0=;
+Received: by mail.prule.monster id h5cbqq0001g2 for <bruce@untroubled.org>; Fri, 24 Jan 2020 11:07:17 -0500 (envelope-from <diabetes-destroyer-bruce=untroubled.org@prule.monster>)
+Date: Fri, 24 Jan 2020 11:07:17 -0500
+From: "Diabetes Destroyer" <diabetes-destroyer@prule.monster>
+To:   <bruce@untroubled.org>
+Subject: Strange Link Between Eggs and Diabetes Will Bankrupt The Industry (Try This)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_67_1519541397.1579882019986"
+List-Unsubscribe: <http://www.prule.monster/9535qI2395S89yq13I1Sq1ljx1a84r21kFv4GIf4rxvs4FhIHEsvZ10iQDRSndo195t1S0_6mLzJHi/Hawley-blanketers>
+Message-ID: <0.0.0.7.1D5D2D0599243BA.762291@mail.prule.monster>
+Content-Length: 12528
+
+------=_Part_67_1519541397.1579882019986
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>riboflavin</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"letter-spacing: normal; text-indent: 0px; text-transform=
+: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; orphans: 2; widows: 2; font-family: =
+&quot; Sans Serif&quot; ; width: 565px; color: rgb(51, 51, 51); font-size: =
+13px; font-style: normal; font-weight: normal; white-space: normal; font-va=
+riant-ligatures: normal; font-variant-caps: normal; height: 628px; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 17px; height: 500px; " width=
+=3D"546">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 500px; " width=3D"551">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                 <div style=3D"color: rgb(0, 0, 0); line-height: normal; fo=
+nt-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                  <p><span style=3D"font-size:18px; "><span style=3D"font-f=
+amily: &quot; Sans Serif&quot; ; color: black; "><span style=3D"color: rgb(=
+0, 0, 255); "><a href=3D"http://www.prule.monster/admissible-Shipley/e404D2395M8jW611C741cL1a84T21LFv4GIf4rxvs4FhIHEsvZ10QQDRSndo196MUVs105o3HBi" style=3D"color: rgb(0, 0, 255); font-w=
+eight: bold; ">The key to reversing diabetes</a></span></span>&nbsp; is in =
+your refrigerator? <br style=3D"color: rgb(0, 0, 0); font-size: 22px; font-=
+style: normal; font-variant-ligatures: normal; font-variant-caps: normal; l=
+etter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; tex=
+t-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webk=
+it-text-stroke-width: 0px; font-family: Times; font-weight: 200; background=
+-color: rgb(255, 255, 255); " /> <br style=3D"color: rgb(0, 0, 0); font-siz=
+e: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-c=
+aps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-in=
+dent: 0px; text-transform: none; white-space: normal; widows: 2; word-spaci=
+ng: 0px; -webkit-text-stroke-width: 0px; font-family: Times; font-weight: 2=
+00; background-color: rgb(255, 255, 255); " /> But it' s NOT food.<br style=
+=3D"color: rgb(0, 0, 0); font-size: 22px; font-style: normal; font-variant-=
+ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orpha=
+ns: 2; text-align: start; text-indent: 0px; text-transform: none; white-spa=
+ce: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; f=
+ont-family: Times; font-weight: 200; background-color: rgb(255, 255, 255); =
+" /> <br style=3D"color: rgb(0, 0, 0); font-size: 22px; font-style: normal;=
+ font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing:=
+ normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: n=
+one; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke=
+-width: 0px; font-family: Times; font-weight: 200; background-color: rgb(25=
+5, 255, 255); " /> <span style=3D"font-family: &quot; Sans Serif&quot; ; co=
+lor: black; "><span style=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.prule.monster/admissible-Shipley/e404D2395M8jW611C741cL1a84T21LFv4GIf4rxvs4FhIHEsvZ10QQDRSndo196MUVs105o3HBi=
+" style=3D"color: rgb(0, 0, 255); font-weight: bold; ">Watch the video here=
+</a></span></span><br style=3D"color: rgb(0, 0, 0); font-size: 22px; font-=
+style: normal; font-variant-ligatures: normal; font-variant-caps: normal; l=
+etter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; tex=
+t-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webk=
+it-text-stroke-width: 0px; font-family: Times; font-weight: 200; background=
+-color: rgb(255, 255, 255); " /> <br style=3D"color: rgb(0, 0, 0); font-siz=
+e: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-c=
+aps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-in=
+dent: 0px; text-transform: none; white-space: normal; widows: 2; word-spaci=
+ng: 0px; -webkit-text-stroke-width: 0px; font-family: Times; font-weight: 2=
+00; background-color: rgb(255, 255, 255); " /> A new discovery in the world=
+ of blood health management recently revealed that theres&nbsp; <span style=
+=3D"font-family: &quot; Sans Serif&quot; ; color: black; "><span style=3D"c=
+olor: rgb(0, 0, 255); "><a href=3D"http://www.prule.monster/admissible-Shipley/e404D2395M8jW611C741cL1a84T21LFv4GIf4rxvs4FhIHEsvZ10QQDRSndo196MUVs105o3HBi" style=3D"color: rgb(0, 0, 25=
+5); font-weight: bold; ">an element in your refrigerator which can reverse =
+diabetes.</a></span></span></span></p>=20
+                  <p style=3D"font-variant-ligatures: normal; font-variant-=
+caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke=
+-width: 0px; word-spacing: 0px; "><span style=3D"font-family: &quot; Sans S=
+erif&quot; ; color: black; "><span style=3D"font-family: arial, sans-serif;=
+ font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; fon=
+t-variant-caps: normal; font-weight: 200; letter-spacing: normal; orphans: =
+2; text-align: start; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; backg=
+round-color: rgb(255, 255, 255); color: rgb(0, 0, 0); "><span style=3D"font=
+-size: 22px; "><span style=3D"font-family: Times; "><span style=3D"line-hei=
+ght: 25.3px; "><strong><span style=3D"font-family: arial, sans-serif; font-=
+size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0=
+px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-t=
+ext-stroke-width: 0px; background-color: rgb(255, 255, 255); color: rgb(0, =
+0, 0); "><span style=3D"font-family: &quot; Sans Serif&quot; ; "><span styl=
+e=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.prule.monster/admissible-Shipley/e404D2395M8jW611C741cL1a84T21LFv4GIf4rxvs4FhIHEsvZ10QQDRSndo196MUVs105o3HBi"><img alt=3D"" src=3D"=
+http://www.prule.monster/8bd4Q2395K7SZa12Bz741fh1a84z21EFv4GIf4rxvs4FhIHEsvZ10HQDRSndo196lvrH106IyzLHi/pandas-whisker" style=3D"display: block; margin-left: auto; margin-right: auto;=
+ width: 351px; height: 239px; " /></a></span></span></span></strong></span>=
+</span></span></span></span></p>=20
+                  <p style=3D"font-variant-ligatures: normal; font-variant-=
+caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke=
+-width: 0px; word-spacing: 0px; "><span style=3D"font-size:18px; ">And now =
+a new video is spilling ALL the details before the mainstream media can hus=
+h it up!</span><br style=3D"color: rgb(0, 0, 0); font-size: 22px; font-styl=
+e: normal; font-variant-ligatures: normal; font-variant-caps: normal; lette=
+r-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-tr=
+ansform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-t=
+ext-stroke-width: 0px; font-family: Times; font-weight: 200; background-col=
+or: rgb(255, 255, 255); " /> <br style=3D"color: rgb(0, 0, 0); font-size: 2=
+2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps:=
+ normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent=
+: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: =
+0px; -webkit-text-stroke-width: 0px; font-family: Times; font-weight: 200; =
+background-color: rgb(255, 255, 255); " /> <span style=3D"font-family: &quo=
+t; Sans Serif&quot; ; color: black; "><strong><span style=3D"font-family: a=
+rial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligat=
+ures: normal; font-variant-caps: normal; letter-spacing: normal; text-align=
+: start; text-indent: 0px; text-transform: none; white-space: normal; word-=
+spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 25=
+5, 255); color: rgb(0, 0, 0); "><span style=3D"font-size: 22px; "><span sty=
+le=3D"font-family: Times; "><span style=3D"line-height: 25.3px; "><span sty=
+le=3D"font-family: &quot; Sans Serif&quot; ; "><span style=3D"color: rgb(0,=
+ 0, 255); "><a href=3D"http://www.prule.monster/admissible-Shipley/e404D2395M8jW611C741cL1a84T21LFv4GIf4rxvs4FhIHEsvZ10QQDRSndo196MUVs105o3HBi" style=3D"color: rgb(0, 0, 255); ">Watch =
+the video here.</a></span></span></span></span></span></span></strong></spa=
+n></p>=20
+                 </div>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"font-style: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-=
+space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, 0); font-fam=
+ily: &quot; Times New Roman&quot; ; font-size: medium; font-variant-ligatur=
+es: normal; orphans: 2; text-align: start; widows: 2; ">&nbsp; </p>=20
+   <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, =
+0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-=
+align: -webkit-center; text-indent: 0px; text-transform: none; white-space:=
+ normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -=
+webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br />=20
+    <font face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D"1">If you'=
+ d prefer not to receive future emails, <a href=3D"http://www.prule.monster/3ef4W2395vh8Z613HG74Z1dP1a84X21cFv4GIf4rxvs4FhIHEsvZ10wQDRSndo196b10BVC6KyqHiO/Hawley-blanketers"><font color=
+=3D"#666666">Exit Here</font></a>.<br /> PureHealth Research | 5501 Merchan=
+ts View Square #804 | Haymarket, VA 20169, USA</font>
+   </div>=20
+   <center>=20
+    <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; ">
+     <br />=20
+     <br />=20
+     <span style=3D"font-size:10px; ">Pull off list <a href=3D"=
+http://www.prule.monster/c234b2395BW8Y912g7z41ey1a84D21LFv4GIf4rxvs4FhIHEsvZ10oQDRSndo196G1zoo06mLzpHi/rungs-avocation">Here</a></span>
+     <br />=20
+     <span style=3D"font-size:11px; "><span style=3D"color:#808080; ">13395=
+ Voyager Pkwy Ste 130 #634<br style=3D"caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal;=
+ font-weight: normal; letter-spacing: normal; orphans: auto; text-align: ce=
+nter; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span sty=
+le=3D"caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: nor=
+mal; font-weight: normal; letter-spacing: normal; text-align: center; text-=
+indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; =
+-moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; font-family: Helvetica; float: none; display: inline !important; "=
+>COLORADO SPRINGS CO 80921</span></span></span>
+     <br />=20
+     <br /> &nbsp;=20
+    </div> <font title="households"><style></font></style><span lang="Wolfgang"></span><style></style>
+   </center>=20
+  </center>  =20
+ <img src=3D"http://www.prule.monster/pandas-whisker/b344K2395BiN8512H7420wZ1a84W21KFv4GIf4rxvs4FhIHEsvZ10JQDRSndo196vWzr106IzHAXi" alt=3D""/></body>
+</html>
+
+------=_Part_67_1519541397.1579882019986--
+

@@ -1,0 +1,407 @@
+Return-Path: <SRS0=qL7iZS=3L=lasercamp.icu=yjspqbfakuirlfzahag@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 15436 invoked from network); 22 Jan 2020 08:37:14 -0000
+Received: (qmail 23687 invoked from network); 22 Jan 2020 08:37:13 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 08:37:13 -0000
+Received: (qmail 5482 invoked by uid 48516); 22 Jan 2020 08:37:13 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8786 invoked from network); 22 Jan 2020 08:37:12 -0000
+Received: from lasercamp.icu ([80.253.246.216])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 22 Jan 2020 08:36:56 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=lasercamp.icu;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=yjspqbfakuirlfzahag@lasercamp.icu;
+ bh=/EcJXTwrVHk+CkFL29Gn32cIk5Q=;
+ b=BVdsRInKQ+3cRbniV6M4jBaqeiq1UGsPK7zRUlQCNkecso0YUtxZS4jQF2e1Dg9oUZr1wW7fAP25
+   EpPWdjlu8ElFtVBv/NVyrCJcDWfQw7CnKgpCuE98i8XpFWxqVdtoxXfe/0h8F0TwKAdNumhmbpss
+   WRibw9iqTzYhs2xpi44=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=lasercamp.icu;
+ b=mIXUMNNADeH2GUt2AyVZYn4Beaz1w9iqsSWKlmSVYqVHDu/fytzrB/Ji7rD5BrK8eoiev47rYsGQ
+   EFC1Ya78hVJOeP/dz4iZYW2tKtfSwYFQmm1kBXSrhh6sXpLLbLUCXQkNnEGiwmJd0zKnOkWkqFie
+   r0L2Y94k/RqB38TTRjI=;
+From: "Wifi Booster" <yjspqbfakuirlfzahag@lasercamp.icu>
+Date: Wed, 22 Jan 2020 03:30:08 -0500
+MIME-Version: 1.0
+Subject: Get 300mbps wifi connection
+To: <bruce@untroubled.org>
+Message-ID: <4TqtIwa5vfJojv4piHmNyUL900fZ--AoXysM0NrytUs.WSwhau3ZJ5MPPOm2WORnjjDUws9DS_PIJezTrZM0h1k@lasercamp.icu>
+Content-Type: multipart/alternative;
+ boundary="------------88221461034785857729854"
+Content-Length: 10315
+
+This is a multi-part message in MIME format.
+--------------88221461034785857729854
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+Groundbreaking Device Fixes Slow Wi-Fi And Exposes Greedy Internet Service Providers... (Its Genius!)
+<http://www.lasercamp.icu/kxccrbe/huwmn107045vthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8>
+
+
+
+
+<http://www.lasercamp.icu/kxccrbe/huwmn107045vthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8>
+
+
+
+This is how the pros turbocharge their home internet, for the cheapest possible price...
+
+
+
+Does it take forever for your WiFi connection to load a single web page? Well, we can explain why your WiFi connection sucks!
+
+
+
+We now know its because ISP's (internet service provider) are selling us cheap, substandard wifi routers.
+This is a common trick they use, so that customers need to pay more and upgrade to get the good and fast internet speeds across their whole home...
+But what if you&#39;re on the cheaper packages as well? Unfortunately, you&#39;ll struggle to even watch HD videos on Youtube or Netflix.
+
+
+
+It doesn&#39;t seem fair, does it?
+
+
+
+However, now there&#39;s a new device that solves this and many more frustrating Wi-Fi problems!
+
+
+
+The Inventor Has Solved Slow Internet!
+
+
+
+
+<http://www.lasercamp.icu/kxccrbe/huwmn107045vthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8>
+
+
+
+How exactly does the invention work?
+
+
+
+Without being too technical, the problem - as we all know - is that the ISPs sell us are cheap WiFi router boxes...
+
+
+
+The signal is too weak to go through brick walls, without losing a lot of speed. They can&#39;t handle lots of devices or heavy use either.
+
+
+
+As a result, you are left with weak WiFi and dreaded &#39;wifi dead spots&#39; in your home...
+
+
+
+But, plug a SuperBoost device into any socket, and that all soon changes.
+
+
+
+SuperBoost is essentially a powerful amplifier and signal extender, all in one tiny box.
+
+
+
+It works by receiving your existing WiFi signal, boosting it, and then transmitting the super-amplified Wi-Fi through anything; concrete walls, multiple floors and steel beam - no problem!
+
+
+
+In a nutshell: You get WAY faster and stronger internet. Even during peak times, and even in previous &#39;WiFi dead spots&#39; around your home.
+
+
+
+
+<http://www.lasercamp.icu/kxccrbe/huwmn107045vthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8>
+
+
+
+
+
+
+
+
+
+
+
+Click here- Get WiFi Ultra Boost with 50% off and free shipping
+<http://www.lasercamp.icu/kxccrbe/huwmn107045vthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8>
+
+
+
+
+
+
+
+
+
+
+
+This is a commericial-message and is an adgo here
+<http://www.lasercamp.icu/Bsbibok/8P8JXcxpraCnv14GF2j-0Gv6A1nsAamGUaRPmpcZZYka_Ydg2TVFICqWARbL-mdmnuDGY2PMbYiWHRgcz7AeWwHYZZovTvaoCG-64EksKn0.g0fB-2YDIhEyM4kIyD9HeFtziBzJoHZFCMHjUA8kLvu>to end8430 Oakland Lane Belleville, NJ 07109Extract your email from our list byconfirming your name here
+http://www.lasercamp.icu/kxccrbe/huwmnvthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------88221461034785857729854
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 700px;">
+
+
+	<tbody>
+
+
+		<tr>
+
+
+			<td>
+
+
+			<h1><a href="http://www.lasercamp.icu/kxccrbe/huwmn107045vthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8"><strong><span class="main-heading">Groundbreaking Device Fixes Slow Wi-Fi And Exposes Greedy Internet Service Providers... (It&rsquo;s Genius!)</span></strong></a></h1>
+
+
+
+
+
+			<p><a href="http://www.lasercamp.icu/kxccrbe/huwmn107045vthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8"><span class="main-heading"><img alt="" src="http://www.lasercamp.icu/Zdriba/wadk32866twtxkh/.jpeg" style="width: 700px; height: 420px;" /></span></a></p>
+
+
+
+
+
+			<h2><b>This is how the pros turbocharge their home internet, for the cheapest possible price...</b></h2>
+
+
+
+
+
+			<p>Does it take forever for your WiFi connection to load a single web page? Well, we can explain why your WiFi connection sucks!</p>
+
+
+
+
+
+			<p>We now know its because ISP&#39;s (internet service provider) are selling us cheap, substandard wifi routers.<br />
+
+
+			This is a common trick they use, so that customers need to pay more and upgrade to get the good and fast internet speeds across their whole home...<br />
+
+
+			But what if you&#39;re on the cheaper packages as well? Unfortunately, you&#39;ll struggle to even watch HD videos on Youtube or Netflix.</p>
+
+
+
+
+
+			<p>It doesn&#39;t seem fair, does it?</p>
+
+
+
+
+
+			<p>However, now there&#39;s a new device that solves this and many more frustrating Wi-Fi problems!</p>
+
+
+
+
+
+			<h2><strong>The Inventor Has Solved Slow Internet!</strong></h2>
+
+
+
+
+
+			<p><a href="http://www.lasercamp.icu/kxccrbe/huwmn107045vthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8"><img alt="" src="http://www.lasercamp.icu/Zdriba/wadk32868twtxkh/.jpeg" style="width: 700px; height: 349px;" /></a></p>
+
+
+
+
+
+			<h2><strong>How exactly does the invention work?</strong></h2>
+
+
+
+
+
+			<p><b>Without being too technical</b>, the problem - as we all know - is that the ISPs sell us are cheap WiFi router boxes...</p>
+
+
+
+
+
+			<p>The signal is too weak to go through brick walls, without losing a lot of speed. They can&#39;t handle lots of devices or heavy use either.</p>
+
+
+
+
+
+			<p>As a result, you are left with weak WiFi and dreaded &#39;wifi dead spots&#39; in your home...</p>
+
+
+
+
+
+			<p>But, plug a SuperBoost device into any socket, and that all soon changes.</p>
+
+
+
+
+
+			<p>SuperBoost is essentially a powerful amplifier and signal extender, all in one tiny box.</p>
+
+
+
+
+
+			<p>It works by receiving your existing WiFi signal, boosting it, and then transmitting the super-amplified <b>Wi-Fi through anything</b>; concrete walls, multiple floors and steel beam - no problem!</p>
+
+
+
+
+
+			<p><b>In a nutshell:</b> You get WAY faster and stronger internet. Even during peak times, and even in previous &#39;WiFi dead spots&#39; around your home.</p>
+
+
+
+
+
+			<p><a href="http://www.lasercamp.icu/kxccrbe/huwmn107045vthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8"><img alt="" src="http://www.lasercamp.icu/Zdriba/wadk32865twtxkh/.jpeg" style="width: 700px; height: 283px;" /></a></p><br />
+<img src="http://www.lasercamp.icu/Dyvbzbozt/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8" >
+
+
+
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<h2 style="text-align: center;"><a href="http://www.lasercamp.icu/kxccrbe/huwmn107045vthexofb/uvLk8AUjHMCFZHoJzBiztFeH9DyIk4MyEhIDY2-Bf0g/0nKskE46-GCoavTvoZZYHwWeA7zcgRHWiYbMP2YGDunmdm-LbRAWqCIFVT2gdY_akYZZcpmPRaUGmaAsn1A6vG0-j2FG41vnCarpxcXJ8P8"><b style="box-sizing: inherit;">Click here- Get WiFi Ultra Boost with 50% off and free shipping</b></a></h2>
+
+
+
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<hr />
+
+
+			<p>&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;"><span style="color: rgb(119, 119, 119); font-family: Georgia, Times, ">This is a commericial-message and is an ad&nbsp;</span><br style="color: rgb(119, 119, 119); font-family: Georgia, Times, " />
+
+
+			<br style="color: rgb(119, 119, 119); font-family: Georgia, Times, " />
+
+
+			<a href="http://www.lasercamp.icu/Bsbibok/8P8JXcxpraCnv14GF2j-0Gv6A1nsAamGUaRPmpcZZYka_Ydg2TVFICqWARbL-mdmnuDGY2PMbYiWHRgcz7AeWwHYZZovTvaoCG-64EksKn0.g0fB-2YDIhEyM4kIyD9HeFtziBzJoHZFCMHjUA8kLvu" rel="nofollow" style="color: rgb(66, 133, 245); font-family: Georgia, Times, " target="_blank">go here</a><span style="color: rgb(119, 119, 119); font-family: Georgia, Times, ">&nbsp;to end&nbsp;</span><br style="color: rgb(119, 119, 119); font-family: Georgia, Times, " />
+
+
+			<span style="color: rgb(119, 119, 119); font-family: Georgia, Times, ">8430 Oakland Lane Belleville, NJ 07109</span><br style="color: rgb(119, 119, 119); font-family: Georgia, Times, " />
+
+
+			<br style="color: rgb(119, 119, 119); font-family: Georgia, Times, " />
+
+
+			<br style="color: rgb(119, 119, 119); font-family: Georgia, Times, " />
+
+
+			<span style="color: rgb(119, 119, 119); font-family: Georgia, Times, ">Extract your email from our list by&nbsp;</span><a href="http://www.lasercamp.icu/abeijt/8P8JXcxpraCnv14GF2j-0Gv6A1nsAamGUaRPmpcZZYka_Ydg2TVFICqWARbL-mdmnuDGY2PMbYiWHRgcz7AeWwHYZZovTvaoCG-64EksKn0.g0fB-2YDIhEyM4kIyD9HeFtziBzJoHZFCMHjUA8kLvu" rel="nofollow" style="color: rgb(66, 133, 245); font-family: Georgia, Times, " target="_blank">confirming your name here</a><span style="color: rgb(119, 119, 119); font-family: Georgia, Times, ">&nbsp;</span><br style="color: rgb(119, 119, 119); font-family: Georgia, Times, " />
+
+
+			<span style="color: rgb(119, 119, 119); font-family: Georgia, Times, ">51 Edgewood St. Oconomowoc, WI 53066</span></p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+
+
+
+			<p style="text-align: center;">&nbsp;</p>
+
+
+			</td>
+
+
+		</tr>
+
+
+	</tbody>
+
+
+</table>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+</body>
+</html>
+
+--------------88221461034785857729854--

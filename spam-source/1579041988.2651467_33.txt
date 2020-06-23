@@ -1,0 +1,1399 @@
+Return-Path: <SRS0=W+DC3g=3D=inbox-promo.com=b1.5332a3a1b80072a13ee296ea983da0358bd89dc8@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11337 invoked from network); 14 Jan 2020 04:06:05 -0000
+Received: (qmail 31775 invoked from network); 14 Jan 2020 04:06:04 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 04:06:04 -0000
+Received: (qmail 20802 invoked by uid 48516); 14 Jan 2020 04:06:04 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20701 invoked from network); 14 Jan 2020 04:06:03 -0000
+Received: from mail2.inbox-promo.com (mail2.inbox-promo.com [110.76.189.245])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 14 Jan 2020 04:06:02 -0000
+Received: from 110.76.189.245 (mail3.token-analyzer.com [110.76.189.226])
+	by mail2.inbox-promo.com (Postfix) with ESMTP id 0A0D662039F
+	for <bruce@untroubled.org>; Tue, 14 Jan 2020 12:05:59 +0800 (HKT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; t=1578974759; s=default;
+	d=inbox-promo.com;
+	h=Date:From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=0Qb8lNheQoXBXl/+kAx4oHdQjt9Qg868thnOPda0ohI=;
+	b=VYPF3zhERg8qANxNHU4W4h6JdLVA77E7zVt5zmve/qKqru1FxWvNjJ2At5lKBlVg
+	BfDgXejnEYCflz9lCSpfT1lR6DNZyh0KHzmLEDutjGKQ9YNMjh8LDp9s0KPCp31US4n
+	mNRCaoqCOlrn8cOQUzIy1SZuCfAYPGWKJ7w8uJyE=
+Date: Tue, 14 Jan 2020 12:05:58 +0800 (HKT)
+From: Training Development Program <princess@conferenceph.com>
+Reply-To: Training Development Program <princess@conferenceph.com>
+To: JHIE-07-YMLP <bruce@untroubled.org>
+Message-ID: <2108112176.3855800.1578974758755.JavaMail.tomcat0@hka3>
+Subject: Financial Performance Measurement and Analysis with CPE UNITS - Jan
+ 24
+Errors-To: b1.5332a3a1b80072a13ee296ea983da0358bd89dc8@inbox-promo.com
+MIME-Version: 1.0
+Content-Type: text/html;charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Content-ID: YcbNDMEw6uVxEiyAfGpREuOO/2UkWCdcRn2F/8dvoB/naCnH54XtxGGXTl1Lix139Ga01/xHICB51kLXgL0l0cHQ8DPP5KT4C1OYP/4FQXWH1GsoCj6OXq9UjAo1/o9BqfkFPRINJPC+YXDeywf+x6sEB3ezaERrIEauHnzbOlrrgpd1D1NeRPaJ5+tZfB3C1LmpfGCsuxlQAu9ujXJDm4GZlc4AWdsYm5M9PoEVXNp9rlSjLRkiU+QwNhwAKmGm7947c1KoLInvLZr/+rpS7/gQiBkX2g0a
+Feedback-ID: 701037928278524:913137510951312:746470192951166:inbox-promo.com
+Content-Length: 66981
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<meta name=3D"GENERATOR" content=3D"MSHTML 11.00.10570.1001">
+<meta charset=3D"UTF-8">
+<style type=3D"text/css">
+@media only screen and (max-width: 480px) { .email-header { padding: 0 5px;=
+ } }=20
+.email-footer-ios-link a { color: #444444 !important; text-decoration: none=
+ !important; } @media only screen and (max-width: 480px) { .email-footer { =
+width: 100% !important; -moz-text-size-adjust: none; -webkit-text-size-adju=
+st: none; -ms-text-size-adjust: none; } .email-footer-column { vertical-ali=
+gn: top; } .email-footer-email-address { word-break: break-word; } }=20
+</style>
+<title>Financial Performance Measurement and Analysis with CPE UNITS - Jan =
+24</title>
+<!--[if !mso]><!-- -->
+<!--<![endif]-->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+</head>
+<body>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" alig=
+n=3D"center"><tr><td align=3D"center"><div class=3D"email-header" style=3D"=
+font-family: Verdana, sans-serif; font-size: 11px; line-height: 18px; color=
+: #444444;">Add <a href=3D"mailto:princess@conferenceph.com" style=3D"color=
+: #3399ff;">princess@conferenceph.com</a> to your address book.</div>
+
+<br /></td></tr><tr><td align=3D"left"><div class=3D"gmail_quote">=20
+ <div dir=3D"ltr">=20
+  <div class=3D"gmail_quote">=20
+   <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin:=
+0px auto; text-align:center; width:100%">=20
+    <tbody>=20
+     <tr>=20
+      <td style=3D"background-color:#fafafa; background-repeat:repeat; font=
+-family:Arial,sans-serif; padding-bottom:15px; padding-top:15px; width:100%=
+" valign=3D"top">=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#ffffff; border:0px transparent=
+; padding:17px 8px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+>&nbsp;</th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 568px; background-color: transparent;" valign=3D"top">=20
+                   <div style=3D"overflow: hidden;">=20
+                    <a name=3D"_Hlk22649578"><strong><span style=3D"color:r=
+ed; font-family:Cambria,serif; font-size:12pt; line-height:115%">By the way=
+, these are the list of our forthcoming seminars:</span></strong></a>
+                    <br>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">* </span></strong>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">Job Evaluation and Design of Salary Structure -Jan 22</span></st=
+rong>
+                    <br>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">* The Latest Updates <strong><span style=3D"color:black">How to =
+Prepare Dole Inspection =E2=80=93 Jan 23</span></strong></span></strong>
+                    <br>
+                    <strong><span style=3D"color:black; font-family:Cambria=
+,serif; font-size:12pt">*</span></strong>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt"> Financial Performance Analysis: Evaluate the Performance of </s=
+pan></strong>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">The </span></strong>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">Company WITH CPE UNITS=E2=80=93Jan 24</span></strong>
+                    <br>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">*</span></strong>=20
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">Effective Purchasing Steps and Procedures =E2=80=93 Jan 29<stron=
+g><span style=3D"color:black"> </span></strong></span></strong>
+                    <br>
+                    <strong><span style=3D"color:black; font-family:Cambria=
+,serif">* </span></strong>
+                    <strong><span style=3D"color:black; font-family:Cambria=
+,serif">Top Secrets on Handling BIR Audit with CPE UNITS: </span></strong>
+                    <strong><span style=3D"color:black; font-family:Cambria=
+,serif">TO AVOID BEING HARASSED =E2=80=93 Jan 30</span></strong>
+                    <br>
+                    <strong><span style=3D"color:black; font-family:Cambria=
+,serif; font-size:12pt">* </span></strong>
+                    <strong><span style=3D"color:black; font-family:Cambria=
+,serif; font-size:12pt">High Impact</span></strong>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt"> Management and Supervisory Leadership Development</span></stron=
+g>
+                    <strong><span style=3D"font-family:Cambria,serif; font-=
+size:12pt">=E2=80=93Jan 31</span></strong>=20
+                   </div></th>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#ffffff; border:0px transparent=
+; padding:0px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 600px; background-color: transparent;" valign=3D"top">=20
+                   <div style=3D"overflow: hidden;">=20
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"width:100%">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td style=3D"padding:0px 0px 20px">=20
+                        <table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"margin:auto">=20
+                         <tbody>=20
+                          <tr>=20
+                           <td style=3D"border:0px transparent"> <img alt=
+=3D"Seminar Cover Page" height=3D"auto" src=3D"https://ci6.googleuserconten=
+t.com/proxy/Oz5Fwe-roGbl3eIFmeZbtXbRP7TqRFrqsDJybRqtn84-Ggxy1FaMo5QgHuOhEI1=
+lPWMOu1dlgBVTSXBFsmQf37VtcGF-kwYObZWZbEShHpXPzlW1DgZ2iYAsgxskbQiXtib9YJDpzM=
+DOgsM91R3xjgY=3Ds0-d-e1-ft#https://staticapp.icpsc.com/icp/resources/mogile=
+/1246552/feaea6766ad9446ad722b645dff1d832.jpeg" style=3D"background-color:t=
+ransparent; display:block; margin:auto" title=3D"Seminar Cover Page" width=
+=3D"600"> </td>=20
+                          </tr>=20
+                         </tbody>=20
+                        </table> </td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table>=20
+                   </div>=20
+                   <div style=3D"overflow: hidden;">
+                     &nbsp;=20
+                   </div></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#f0372f; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#f0372f; border:0px transparent=
+; padding:5px 8px 5px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <strong style=3D"background-color:transparent; colo=
+r:#f6f6f6; font-family:sans-serif">FINANCIAL PERFORMANCE MEASUREMENT AND AN=
+ALYSIS</strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bac=
+kground-color:#ffffff; margin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"background-color:#ffffff; width:100%" valign=3D"top"=
+>=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"margin:0px auto; table-layout:fixed; text-align:center; w=
+idth:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"border:0px transparent; padding:25px 8px 25px 7p=
+x">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; text-align:center; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block; text-=
+align:center" width=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"text=
+-align:center; width:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <span style=3D"font-weight:normal">This seminar mak=
+es use of the financial statement data to generate meaningful information t=
+hat the management of any business can use in planning, controlling, and de=
+cision-making. It covers both the measurement of financial performance, the=
+ corresponding interpretations of the measures, and the appropriate managem=
+ent actions that should be done to improve future business performance. It =
+uses integrative tools and techniques to analyze financial information and =
+help the participants in coming up with key performance indicators that the=
+y can use in managing financial performance.</span>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block; text-=
+align:center" width=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#f0372f; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#f0372f; border:0px transparent=
+; padding:5px 8px 5px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <strong style=3D"background-color:transparent; colo=
+r:#f6f6f6; font-family:sans-serif">OBJECTIVES OF THE SEMINAR</strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bac=
+kground-color:#ffffff; margin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"background-color:#ffffff; width:100%" valign=3D"top"=
+>=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"margin:0px auto; table-layout:fixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"border:0px transparent; padding:25px 8px 25px 7p=
+x">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">
+                         At the end of the two-day seminar, the participant=
+s will be able to:
+                        <br>
+                        <span style=3D"font-weight:normal">a.<span>=EF=BB=
+=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>=EF=BB=BF</span>Explai=
+n the information system necessary to generate the financial <span>=EF=BB=
+=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>=EF=BB=BF</span><span>=
+=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>=EF=BB=BF</span>=
+statements;</span>
+                        <br>
+                        <span style=3D"font-weight:normal">b.<span>=EF=BB=
+=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>=EF=BB=BF</span>Discus=
+s the structure and contents of the financial statements;</span>
+                        <br>
+                        <span style=3D"font-weight:normal">c.<span>=EF=BB=
+=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>=EF=BB=BF</span>Comput=
+e the financial ratios to analyze financial statements and provide <span>=
+=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>=EF=BB=BF</span>=
+<span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>=EF=BB=BF<=
+/span>meanings to these ratios;</span>
+                        <br>
+                        <span style=3D"font-weight:normal"><span style=3D"b=
+ackground-color:transparent">d.</span><span style=3D"background-color:trans=
+parent">=EF=BB=BF&nbsp;&nbsp;&nbsp;&nbsp;=EF=BB=BF</span><span style=3D"bac=
+kground-color:transparent">Illustrate the application of the tools for inte=
+grative financial analysis; and</span></span>
+                        <br>
+                        <span style=3D"font-weight:normal"><span style=3D"b=
+ackground-color:transparent">e.</span><span style=3D"background-color:trans=
+parent">=EF=BB=BF&nbsp;&nbsp;&nbsp;&nbsp;=EF=BB=BF</span><span style=3D"bac=
+kground-color:transparent">Describe the value chain of a business and propo=
+se the appropriate </span><span style=3D"background-color:transparent">=EF=
+=BB=BF&nbsp;&nbsp;&nbsp;&nbsp;=EF=BB=BF</span><span style=3D"background-col=
+or:transparent">=EF=BB=BF&nbsp;&nbsp;&nbsp;&nbsp;=EF=BB=BF</span><span styl=
+e=3D"background-color:transparent">strategies that develop the firm=E2=80=
+=99s competitive advantage</span></span>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#f0372f; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#f0372f; border:0px transparent=
+; padding:5px 8px 5px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <strong style=3D"background-color:transparent; colo=
+r:#f6f6f6; font-family:sans-serif">COURSE OUTLINE</strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bac=
+kground-color:#ffffff; margin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"background-color:#ffffff; width:100%" valign=3D"top"=
+>=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"margin:0px auto; table-layout:fixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"border:0px transparent; padding:25px 8px 25px 7p=
+x">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; font-family: Arial,sans-serif; font-size: 1=
+6px; display: block; background-color: transparent;">=20
+                        <span style=3D"color:#ff0000"><u>Session 1: Financi=
+al Statements: An Abundant Source of Meaningful Data for Management</u></sp=
+an>
+                        <br>a. How are Financial Statements Generated from =
+Business Transactions?=20
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;</span></spa=
+n></span>=20
+                        <ul style=3D"color: rgb(51, 51, 51);">=20
+                         <li style=3D"text-align: left; line-height: 16px;"=
+>Differentiating Business Transactions and Business Activities</li>=20
+                         <li style=3D"text-align: left; line-height: 16px;"=
+>Accounting Information System as the Vehicle for Generating Financial Data=
+</li>=20
+                        </ul> b.The Structure of the Financial Statements
+                        <br>c.The Contents of the Financial Statements=20
+                        <ul style=3D"color: rgb(51, 51, 51);">=20
+                         <li style=3D"line-height: 16px; margin-top: 0px; m=
+argin-bottom: 0px;">Statement of Financial Position</li>=20
+                         <li style=3D"line-height: 16px; margin-top: 0px; m=
+argin-bottom: 0px;">Income Statement</li>=20
+                         <li style=3D"line-height: 16px; margin-top: 0px; m=
+argin-bottom: 0px;">Statement of Cash Flows</li>=20
+                        </ul> d.Dissecting Risks in the Financial Statement=
+s
+                        <br>
+                        <span style=3D"color:#ff0000"><u>Session 2: Financi=
+al Analytical Tools: The Means to an End</u></span>
+                        <br>
+                        <br>a. Horizontal Analysis and Vertical Analysis
+                        <br>
+                        <br>b. Measures of Financial Performance: Liquidity=
+, Leverage, Activity, Profitability,=20
+                        <span>=EF=BB=BF<span><span>&nbsp;&nbsp;&nbsp;&nbsp;=
+</span></span>=EF=BB=BF</span>and Marketability
+                        <br>
+                        <br>c. Making Sense of Financial Analysis
+                        <br>
+                        <br>d. Limitations of Financial Analysis
+                        <br>
+                        <br>
+                        <span style=3D"color:#ff0000"><u>Session 3: Tools f=
+or Integrative Financial Analysis</u></span>=20
+                        <ul style=3D"color: rgb(51, 51, 51);">=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>What is the Real Measure of Profitability: The Du Pont Method of Financial=
+ Analysis?</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Is Borrowing Bad? How to Leverage is Evaluated by Looking Closely at the R=
+eturn on Assets and Return on Equity</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Making Sense of Cost Behavior thru Operating Leverage</li>=20
+                        </ul>=20
+                        <span style=3D"color:#ff0000"><u>Session 4: Busines=
+s Value Chain and Competitive Advantage</u></span>=20
+                        <ul style=3D"color: rgb(51, 51, 51); margin-bottom:=
+ 0px;">=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>The Nature of and Levels of Value Chain</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Value Chain Analysis</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Competitive Advantage</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>Generic Strategies</li>=20
+                         <li style=3D"margin-top: 0px; margin-bottom: 0px;"=
+>How is Cost Leadership and Product Differentiation Implemented in Real Bus=
+iness Operations?</li>=20
+                        </ul>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bac=
+kground-color:#ffffff; margin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"background-color:#ffffff; width:100%" valign=3D"top"=
+> &nbsp; </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#f0372f; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#f0372f; border:0px transparent=
+; padding:5px 8px 5px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <strong style=3D"background-color:transparent; colo=
+r:#f6f6f6; font-family:sans-serif">SPEAKER</strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#ffffff; border:0px transparent=
+; padding:0px 8px 0px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 179px; background-color: transparent;" valign=3D"top">=20
+                   <div style=3D"overflow: hidden;">=20
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"width:100%">=20
+                     <tbody>=20
+                      <tr>=20
+                       <td style=3D"padding:0px 0px 20px">=20
+                        <table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"margin:auto">=20
+                         <tbody>=20
+                          <tr>=20
+                           <td style=3D"border:0px transparent"> <img alt=
+=3D"" height=3D"auto" src=3D"https://ci4.googleusercontent.com/proxy/2u7cIZ=
+F1NB3KwdKKze5WZyjHPyE7t1WTiHIQBKK4P2mTnloE7LTQa1Z7tR7bmBN8TlpHx-ZViUFNrdas5=
+DAhn0O-2iKh26lwIcCpVpltVtY9QxAnl0r0_QuhDpIMMk2X7zPooWh84hS9ue-qaySEU8E=3Ds0=
+-d-e1-ft#https://staticapp.icpsc.com/icp/resources/mogile/1246552/7eb7d721a=
+f8326121350546b43bc1f9f.jpeg" style=3D"background-color:transparent; displa=
+y:block; margin:auto" width=3D"179"> </td>=20
+                          </tr>=20
+                         </tbody>=20
+                        </table> </td>=20
+                      </tr>=20
+                     </tbody>=20
+                    </table>=20
+                   </div></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 375px; background-color: transparent;" valign=3D"bottom">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <strong style=3D"font-size:18px">Speaker:&nbsp;</st=
+rong>
+                        <strong style=3D"color:#fc0202; font-size:18px">Ruf=
+o R. Mendoza, PhD</strong>
+                        <br>
+                        <strong style=3D"color:#fc0202; font-size:16px">CPA=
+ (Phil), CICA (US), CPFA (UK)</strong>
+                        <br>
+                        <strong style=3D"color:#fc0202; font-size:16px"><sp=
+an>=EF=BB=BF</span></strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#ffffff; border:0px transparent=
+; padding:25px 8px 25px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 20px 0px 0px; padding: 0px; bo=
+rder: 0px transparent; text-align: left; color: rgb(51, 51, 51); font-famil=
+y: Arial,sans-serif; font-size: 16px; display: block; background-color: tra=
+nsparent;">
+                         Dr. Rufo R. Mendoza is a Certified Public Accounta=
+nt in the Philippines. He has a master=E2=80=99s degree in development mana=
+gement and a Ph.D. in Community Development and Agribusiness Management bot=
+h from the University of the Philippines Los Ba=C3=B1os.
+                        <br>
+                        <br>He has more than 30 years of teaching and admin=
+istrative experience in the graduate school of leading universities in the =
+Philippines: Associate Professor, Chair of Finance and Accounting Departmen=
+t, and Program Director at the Asian Institute of Management (2013-2018); A=
+cademic Program Manager, Lecturer, and Head of Public Finance Cluster at th=
+e Ateneo de Manila University's School of Government (2005-2011); Professor=
+ial Lecturer/Senior Lecturer at the UP Open University (2005-2013); Senior =
+Lecturer at the University of Philippine Los Banos (1996-2003); and Graduat=
+e school professor at De La Salle Lipa.
+                        <br>
+                        <br>He has more than 20 years of experience in exte=
+rnal audits and internal audits of private businesses. He has extensive exp=
+erience in consulting with international development organizations as Senio=
+r Consultant in Public Financial Management (PFM) at the European Commissio=
+n Technical Assistance for the Health Sector Policy Support Program (2008-2=
+010); PFM Advisor at the Provincial Road Management Facility of the Austral=
+ian Agency for International Development (2008-2012); and PFM Consultant in=
+ the World Bank, UNDP, and USAID. He was Consultant at the Presidential Ant=
+i-Graft Commission, Department of Health, Department of Budget and Manageme=
+nt, and several local government units.&nbsp;
+                        <br>
+                        <br>He was Vice-Chair (2011-2014) and Member (2007-=
+2011) of the Professional Regulatory Board of Accountancy and Chair of the =
+Continuing Professional Development Council (2009-2014). For three years (2=
+011-2014), he was the country=E2=80=99s delegate to the ASEAN Meetings of P=
+rofessional Regulatory Authorities for the Mutual Recognition Arrangement o=
+n Accountancy Services.=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#f0372f; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#f0372f; border:0px transparent=
+; padding:5px 8px 5px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: transparent;=
+">=20
+                        <strong style=3D"background-color:transparent; colo=
+r:#f6f6f6; font-family:sans-serif">SEMINAR INVESTMENT</strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layout:f=
+ixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:#ffffff; border:0px transparent=
+; padding:0px 8px 0px 7px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 8px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 570px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 15px 0px 0px; padding: 0px; bo=
+rder: 0px transparent; text-align: left; color: rgb(51, 51, 51); font-famil=
+y: Arial,sans-serif; font-size: 16px; display: block; background-color: tra=
+nsparent;">=20
+                        <h2 style=3D"text-align: center; color: rgb(51, 51,=
+ 51); font-family: Arial,sans-serif; font-size: 24px; margin-top: 0px; marg=
+in-bottom: 0px;"><strong style=3D"color:#fc0202; font-size:20px">Understand=
+ing Financial Statements</strong></h2>=20
+                        <strong style=3D"font-size:14px">January 24, 2020 |=
+ 9:00am - 4:30pm | RCBC Plaza Makati</strong>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table>=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 10px 0px 0px; padding: 0px; bo=
+rder: 0px transparent; text-align: left; color: rgb(51, 51, 51); font-famil=
+y: Arial,sans-serif; font-size: 16px; display: block; background-color: tra=
+nsparent;">=20
+                        <em style=3D"font-family:sans-serif; font-size:14px=
+">(Inclusive of seminar kit, certificates and am snacks, lunch and pm snack=
+s)</em>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 7px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top">=20
+           <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"background-color:transparent; margin:0px auto; table-layo=
+ut:fixed; width:600px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"background-color:transparent; border:2px solid t=
+ransparent; padding:25px 5px">=20
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"table-layout:fixed; width:100%">=20
+                <tbody>=20
+                 <tr>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 136px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: rgb(74, 83, =
+92);">=20
+                        <strong style=3D"color:#f6f6f6">Super Saver Rate</s=
+trong>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Php 3,995 + VAT</span=
+>
+                        <br>
+                        <span style=3D"color:#f6f6f6">=EF=BB=BF</span>
+                        <br>
+                        <span style=3D"color:#f6f6f6">=EF=BB=BFUntil</span>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Jan 10</span>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 136px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: rgb(74, 83, =
+92);">=20
+                        <strong style=3D"color:#f6f6f6">Early Bird Rate</st=
+rong>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Php 4,695 + VAT</span=
+>
+                        <br>
+                        <br>
+                        <span style=3D"color:#f6f6f6">=EF=BB=BFFrom</span>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Jan 11 - 17</span>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 136px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: rgb(74, 83, =
+92);">=20
+                        <strong style=3D"color:#f6f6f6">Regular Rate</stron=
+g>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Php 5,295 + VAT</span=
+>
+                        <br>
+                        <br>
+                        <span style=3D"color:#f6f6f6">=EF=BB=BFStarting</sp=
+an>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Jan 18</span>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                  <th style=3D"padding: 0px; border: 0px transparent; width=
+: 136px; background-color: transparent;" valign=3D"top">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"widt=
+h:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <div style=3D"margin: 0px; padding: 0px; border: 0px=
+ transparent; text-align: left; color: rgb(51, 51, 51); font-family: Arial,=
+sans-serif; font-size: 16px; display: block; background-color: rgb(74, 83, =
+92);">=20
+                        <strong style=3D"color:#f6f6f6">Group Rate</strong>
+                        <br>
+                        <span style=3D"color:#f6f6f6">Php 4,295 + VAT</span=
+>
+                        <br>
+                        <br>
+                        <span style=3D"color:#f6f6f6">=EF=BB=BFper pax</spa=
+n>
+                        <br>
+                        <span style=3D"color:#f6f6f6">[5 pax or more]</span=
+>=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></th>=20
+                  <th style=3D"width: 5px; line-height: 0; font-size: 0px;"=
+><img border=3D"0" src=3D"https://ci5.googleusercontent.com/proxy/4SXZAyn1M=
+3F2KVIDusDK6l4E3El_5nRpML53afOGJlN3fdnEyvdzKN4pdeACVThdILd-SEBPyagu=3Ds0-d-=
+e1-ft#https://ui.icontact.com/assets/1px.png" style=3D"display:block" width=
+=3D"1"></th>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table>=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"font-family:sans-serif; margin:0px auto; width:1110px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"font-family:arial,sans-serif; font-size:13px; wi=
+dth:1110px" valign=3D"top">=20
+               <table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layo=
+ut:fixed; width:600px">=20
+                <tbody>=20
+                 <tr>=20
+                  <td style=3D"border:0px transparent; font-family:arial,sa=
+ns-serif; padding:15px 0px">=20
+                   <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"table-layout:fixed; width:600px">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td style=3D"background-color:transparent; border:0px=
+ transparent; font-family:arial,sans-serif; padding:0px; width:600px" valig=
+n=3D"top">=20
+                       <table cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+width:600px">=20
+                        <tbody>=20
+                         <tr>=20
+                          <td style=3D"font-family:arial,sans-serif">=20
+                           <div style=3D"margin: 0px; border: 0px currentCo=
+lor; border-image: none; color: rgb(51, 51, 51); font-family: sans-serif; f=
+ont-size: 16px; background-color: rgb(205, 4, 4);">=20
+                            <strong style=3D"color:#f6f6f6">ONLINE REGISTRA=
+TION /&nbsp;</strong>
+                            <strong style=3D"color:#f6f6f6">MANUAL REGISTRA=
+TION FORM</strong>=20
+                           </div> </td>=20
+                         </tr>=20
+                        </tbody>=20
+                       </table> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table> </td>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table>=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"font-family:sans-serif; margin:0px auto; width:1110px">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"font-family:arial,sans-serif; font-size:13px; wi=
+dth:1110px" valign=3D"top">=20
+               <table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"background-color:#ffffff; margin:0px auto; table-layo=
+ut:fixed; width:600px">=20
+                <tbody>=20
+                 <tr>=20
+                  <td style=3D"border:0px transparent; font-family:arial,sa=
+ns-serif; padding:15px">=20
+                   <table cellpadding=3D"0" cellspacing=3D"0" style=3D"colo=
+r:#000000; font-family:&quot;Trebuchet MS&quot;; font-size:11px; table-layo=
+ut:fixed; width:100%">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td style=3D"border:0px transparent; font-family:aria=
+l,sans-serif; font-size:13px; padding:10px"> <strong style=3D"background-co=
+lor:#cd0404; color:#f6f6f6; font-family:sans-serif; font-size:16px; text-al=
+ign:center">1. OPTION: ONLINE REGISTRATION</strong>&nbsp;&nbsp;<br><br><br>=
+<span style=3D"font-size:14px"><span style=3D"color:#0000ff"><span style=3D=
+"color:#000000"><a href=3D"http://da3.inbox-promo.com/da/daecs?token=3DuxkX=
+kR5KwHw8BAV%2FGWrGvoXfNCT7JLO%2BZadn4ETXtGg55loYzRXF1zuanStUc6JG4hzEBn7osG4=
+UPpLI2J%2Fe55rNyq56Z7yhB9KAGVb%2FvtpiUd8COc7BzNn6AjY5EpY96yLS20rExFSN9pqK%2=
+F%2FeRzg%3D%3D" style=3D"color: rgb(0, 0, 255); font-family: arial, sans-se=
+rif; text-decoration-line: none;" target=3D"_blank"><img align=3D"left" alt=
+=3D"" class=3D"gmail-CToWUd" height=3D"134" src=3D"https://ci5.googleuserco=
+ntent.com/proxy/sULZqdFj7Y12_iZ812HHU8ce6uWNOcEbZJBhadbEsO3sCPnLWtpWXrfVUxl=
+QhlPyDFGt07DZmgu0a63OqZfMFXD3SNTurkGQ_2_2Jw2E5MmgEIzBM36rNPRjulYo5UFfgpx1sZ=
+QIjkPoTjKmvMvx=3Ds0-d-e1-ft#http://staticapp.icpsc.com/icp/resources/mogile=
+/1246552/412de04e50ce20f6366e4ad231ea542d.gif" style=3D"border-image:none; =
+border:0px solid #333333; display:block; margin:0px" width=3D"203"></a></sp=
+an></span></span><br><span style=3D"font-size:small"><span style=3D"color:#=
+0000ff"><span style=3D"color:#000000"><em><strong><span style=3D"font-famil=
+y:arial,helvetica,sans-serif">For More Details,</span></strong></em></span>=
+</span><span style=3D"color:#0000ff"><span style=3D"color:#000000"><em><str=
+ong><span style=3D"font-family:arial,helvetica,sans-serif">&nbsp;Inquiry or=
+</span></strong></em></span></span></span><br><span style=3D"color:#0000ff"=
+><span style=3D"color:#000000"><em><strong><span style=3D"font-family:arial=
+,helvetica,sans-serif"><span style=3D"font-size:small">Reservation Please C=
+all Us On:</span></span></strong></em></span></span>=20
+                       <div style=3D"font-family: &quot;Trebuchet MS&quot;;=
+">=20
+                        <strong><span style=3D"font-size:small">Ms. Jhie Te=
+jada</span></strong>=20
+                       </div>=20
+                       <div style=3D"font-family: &quot;Trebuchet MS&quot;;=
+">=20
+                        <span style=3D"font-size:small"><strong><span style=
+=3D"color:red">Marketing Officer</span></strong></span>=20
+                       </div>=20
+                       <div style=3D"font-family: &quot;Trebuchet MS&quot;;=
+">=20
+                        <span style=3D"font-size:small"><strong>Tele Fax: 8=
+</strong><strong>470-5542</strong></span>=20
+                       </div>=20
+                       <div style=3D"font-family: &quot;Trebuchet MS&quot;;=
+">=20
+                        <span style=3D"font-size:small"><strong>&nbsp;</str=
+ong><strong>or Call/Text:&nbsp;</strong><strong>0921-7742347/</strong></spa=
+n>=20
+                       </div>=20
+                       <div style=3D"font-family: &quot;Trebuchet MS&quot;;=
+">=20
+                        <strong><span style=3D"font-size:small">&nbsp;0906-=
+4798186</span></strong>=20
+                       </div>=20
+                       <div>=20
+                        <strong><span style=3D"font-size:small"><span style=
+=3D"font-family:Cambria,serif; line-height:18.4px">&nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Visit my FB PAGE @j=
+hie.trainin</span><span style=3D"font-family:Cambria,serif; line-height:18.=
+4px">g</span></span><span style=3D"font-family:Cambria,serif; font-size:12p=
+t; line-height:18.4px">&nbsp;</span></strong>=20
+                       </div>=20
+                       <div>
+                         &nbsp;=20
+                       </div>=20
+                       <div style=3D"text-align: left;">=20
+                        <strong style=3D"background-color:#cd0404; color:#f=
+6f6f6; font-family:sans-serif; font-size:16px">2. OPTION:&nbsp;</strong>
+                        <strong style=3D"background-color:#cd0404; color:#f=
+6f6f6; font-family:sans-serif; font-size:16px; text-align:center">MANUAL RE=
+GISTRATION</strong>&nbsp;&nbsp;&nbsp;&nbsp;=20
+                       </div>=20
+                       <div>=20
+                        <h2 style=3D"color: rgb(34, 34, 34); margin-top: 10=
+px; margin-bottom: 0px;"><strong style=3D"background-color:#fafafa; color:#=
+b70000; font-family:Arial,sans-serif; font-size:large">CLICK AND DOWNLOAD T=
+HIS RESERVATION FORM</strong></h2>=20
+                       </div>=20
+                       <div>
+                         =E2=80=8B
+                        <a aria-label=3D"REGISTRATION FORM - FS.docx" href=
+=3D"http://da3.inbox-promo.com/da/daecs?token=3DuxkXkR5KwHwt2euBzxrUT7%2BJC=
+e%2FvKS%2FmZadn4ETXtGg55loYzRXF1zuanStUc6JG4hzEBn7osG4UPpLI2J%2Fe55rNyq56Z7=
+yhB9KAGVb%2FvtqYnVlHJlUo5wnqGtQ3SOBYub3yCe5ENo0shzJjKaBLV50sDaxuXr7wx%2F%2F=
+866qMup69uml2295iVh%2FdesLBDufEeflB4xlcQR13yiVoNUL5DhODclxGjoYH4lqdTUVj7vRB=
+R%2BGdrrqqsVpF6JCdIT0mieOIQ77c6q0%3D" style=3D"padding: 1px 0px; border: cu=
+rrentColor; border-image: none; overflow: hidden; display: inline-block; wh=
+ite-space: nowrap; -ms-text-overflow: ellipsis; max-width: 366px; text-deco=
+ration-line: none;" target=3D"_blank"><img src=3D"https://ssl.gstatic.com/d=
+ocs/doclist/images/icon_10_generic_list.png" style=3D"border-image:none; bo=
+rder:currentColor; vertical-align:bottom">&nbsp;<span dir=3D"ltr" style=3D"=
+vertical-align:bottom">REGISTRATION FORM - FS.docx</span></a>=E2=80=8B=20
+                       </div> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table> </td>=20
+                 </tr>=20
+                </tbody>=20
+               </table> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"mar=
+gin:0px auto; text-align:center; width:100%">=20
+        <tbody>=20
+         <tr>=20
+          <td style=3D"width:100%" valign=3D"top"> &nbsp; </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+  </div>=20
+ </div>=20
+</div>
+</td></tr><tr><td align=3D"center">=20
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"email-=
+footer" style=3D"background-color: #FFFFFF; width: 600px;">=20
+ <tbody>=20
+  <tr>=20
+   <td align=3D"left" style=3D"padding: 5px; border-color: #D0D0D0; border-=
+style: none; border-width: 0px;" valign=3D"top">=20
+    <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width: 100%;">=20
+     <tbody>=20
+      <tr>=20
+       <td class=3D"email-footer-column" align=3D"left" valign=3D"top">=20
+        <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width: 100%;">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"left" style=3D"padding: 5px; font-family: Verdana, =
+sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D"=
+top">Email was sent to: <a class=3D"email-footer-email-address" href=3D"mai=
+lto:bruce@untroubled.org" style=3D"color: #3399ff;"><strong>bruce@untrouble=
+d.org</strong></a> by <strong class=3D"email-footer-ios-link">MASTERCLASS P=
+HILIPPINES</strong><br /></td>=20
+          </tr>=20
+          <tr>=20
+           <td align=3D"left" style=3D"padding: 5px; font-family: Verdana, =
+sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D"=
+bottom"><a id=3D"unsubscribe_link" href=3D"http://da3.inbox-promo.com/da/um=
+ls?token=3Dz6PleEXSOy2NvIy7Wwrrm7lWfxWjNrDIuPYYgpM2yP0dM9vrCl8KJGpdDl4RTCP9=
+dDjNxZma0OBkXOVGaqZzUmX%2FLuDIkuz9gDUIYII1uT4%3D&lang=3Den" style=3D"color:=
+ #3399ff;">Unsubscribe</a></td>=20
+          </tr>=20
+         </tbody>=20
+        </table> </td>=20
+       <td class=3D"email-footer-column" align=3D"left" valign=3D"bottom" w=
+idth=3D"126">=20
+        <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width: 100%;">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"right" style=3D"padding: 5px; font-family: Verdana,=
+ sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D=
+"bottom"><img alt=3D"" border=3D"0" height=3D"70" src=3D"http://da3.inbox-p=
+romo.com/da/daecs?token=3DvcIeYp8cXLtlp2fgRNe0aKze4Nz3qLLzDpfNjyDl8sxOjYHh%=
+2FU%2BPITuanStUc6JG4hzEBn7osG4UPpLI2J%2Fe5yRk0XfLqC2%2Bwdc35JzC%2BXqrqsdjVT=
+HEYw%3D%3D" style=3D"display: block" width=3D"126" /></td>=20
+          </tr>=20
+         </tbody>=20
+        </table> </td>=20
+      </tr>=20
+     </tbody>=20
+    </table> </td>=20
+  </tr>=20
+ </tbody>=20
+</table></td></tr></table>
+</body>
+</html>

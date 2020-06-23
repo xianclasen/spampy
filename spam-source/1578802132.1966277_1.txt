@@ -1,0 +1,183 @@
+Return-Path: <SRS0=zR/Dcd=3B=techaffiliate.info=bounce@untroubled.org>
+Delivered-To: bruce-bait@localhost
+Received: (qmail 27093 invoked by alias); 12 Jan 2020 01:13:46 -0000
+Delivered-To: bait@home.untroubled.org
+Received: (qmail 27089 invoked from network); 12 Jan 2020 01:13:45 -0000
+Received: (qmail 19171 invoked from network); 12 Jan 2020 01:13:45 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 01:13:45 -0000
+Received: (qmail 30973 invoked by uid 48516); 12 Jan 2020 01:13:44 -0000
+Delivered-To: xuntroubled-bait@untroubled.org
+Received: (qmail 24143 invoked from network); 12 Jan 2020 01:13:44 -0000
+Received: from server.techaffiliate.info (server.techaffiliate.info [103.235.105.113])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 12 Jan 2020 01:13:43 -0000
+Received: by server.techaffiliate.info (Postfix, from userid 0)
+	id 4D02A3CAA; Sun, 12 Jan 2020 06:43:32 +0530 (IST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=techaffiliate.info;
+	s=default; t=1578791612;
+	bh=WmH+hVuY66mO05/T0MeAMpaULm73hY0yjx8GJfsyNGc=;
+	h=To:Subject:Date:From:Reply-To:List-Unsubscribe;
+	b=JmJ6ryrl0sOaMfuMrm2iS68u9UMzrDrbI8fbso9KE0cZD3/MajufVNMIX636sQhbu
+	 0Jed5VpY0723sPWka++J8q3WTDf2dO5biD5NRgQqE/N6WciWf9zkseG1QAMwKcELkE
+	 olRmuYpGbKgMFoVblblyw4a1V8WikaqAVahAWFPc=
+To: bait@untroubled.org,,
+Subject: Audio Transcription Service Provider
+X-PHP-Originating-Script: 1000:email.php
+Message-ID: <0f9cab1a26705be299253d89b245bfa7@techaffiliate.info>
+Date: Fri, 10 Jan 2020 05:03:30 +0000
+From: "Joseph Gladden" <info@techaffiliate.info>
+Reply-To: info@techaffiliate.info
+MIME-Version: 1.0
+X-Mailer-LID: 18
+List-Unsubscribe: <http://techaffiliate.info/mailsoft/unsubscribe.php?M=1068310&C=6dbca77dac950195b023285095650466&L=18&N=35>
+X-Mailer-RecptId: 1068310
+X-Mailer-SID: 35
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_ced1d55fcf0cd07d536655c5564d356c"
+Content-Transfer-Encoding: 8bit
+Content-Length: 5958
+
+--b1_ced1d55fcf0cd07d536655c5564d356c
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Hello,
+
+Do you need someone reliable to transcribe both your short term and 
+long term projects? Or do you need an accurate transcript for your 
+audio or video? 
+
+Allow us to transcribe your audio and provide you accurate transcripts 
+and let us help you reach your business/project goals through the help 
+of our transcription services.
+
+What are our goals with each transcript?
+
+- Speed
+- Accuracy
+- Confidentiality
+- Each transcript is properly formatted. Strict grammar and 
+punctuation rules are adhered to and of course, file security is 
+something we take very seriously. 
+
+Have any transcription queries? Send me a message. Let's discuss what 
+you need to get done. We will address any concerns you have. 
+
+- Professional transcription
+- Accurate and thorough
+- Beautifully transcribed documents.
+- Grammar, spelling and jargon thoroughly checked
+
+We have transcribed audios & videos under various requirements 
+such as :
+
+- Medical transcription
+- Technical
+- Academic
+- Lectures
+- Business
+- Groups
+- Legal
+- Research interviews
+
+more...
+
+Skilled with international accents and prompt response. Our pricing 
+is better or comparable to individual service provider. In addition 
+we also assist in APA Style formatting for research papers. Please 
+note we don’t conduct research but assist only in formatting 
+of the papers.
+
+Regards,
+Joseph Gladden
+
+http://techaffiliate.info/mailsoft/unsubscribe.php?M=1068310&C=6dbca77dac950195b023285095650466&L=18&N=35
+
+--b1_ced1d55fcf0cd07d536655c5564d356c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Hello,</span><br /> <br /><span style="font-family: arial,
+helvetica, sans-serif; font-size: x-small;"> Do you need someone reliable
+to transcribe both your short term and long term projects? Or do you need
+an accurate transcript for your audio or video?&nbsp;</span><br /> <br
+/><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;"> Allow us to transcribe your audio and provide you accurate
+transcripts and let us help you reach your business/project goals through
+the help of our transcription services.</span><br /> <br /><span
+style="font-family: arial, helvetica, sans-serif; font-size: x-small;">
+What are our goals with each transcript?</span><br />
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Speed</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Accuracy</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Confidentiality</span></li>
+</ul>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Each transcript is properly formatted. Strict grammar and
+punctuation rules are adhered to and of course, file security is something
+we take very seriously.&nbsp;</span><br /> <br /><span style="font-family:
+arial, helvetica, sans-serif; font-size: x-small;"> Have any transcription
+queries? Send me a message. Let's discuss what you need to get done. We
+will address any concerns you have.&nbsp;</span><br />
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Professional transcription</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Accurate and thorough</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Beautifully transcribed documents.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Grammar, spelling and jargon thoroughly checked</span></li>
+</ul>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">We have transcribed audios &amp; videos under various
+requirements such as :</span><br />
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Medical transcription</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Technical</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Academic</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Lectures</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Business</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Groups</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Legal</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Research interviews</span></li>
+</ul>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;"> more...</span><br /> <br /><span style="font-family: arial,
+helvetica, sans-serif; font-size: x-small;"> Skilled with international
+accents and prompt response. Our pricing is better or comparable to
+individual service provider. In addition we also assist in APA Style
+formatting for research papers. Please note we don&rsquo;t conduct research
+but assist only in formatting of the papers.</span><br /> <br /><span
+style="font-family: arial, helvetica, sans-serif; font-size: x-small;">
+Regards,</span><br /><span style="font-family: arial, helvetica,
+sans-serif; font-size: x-small;">Joseph Gladden<br /><br /><a
+href="http://techaffiliate.info/mailsoft/unsubscribe.php?M=1068310&C=6dbca77dac950195b023285095650466&L=18&N=35">Unsubscribe</a></span><br
+/>
+<img
+src="http://techaffiliate.info/mailsoft/open.php?M=1068310&L=18&N=35&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_ced1d55fcf0cd07d536655c5564d356c--
+

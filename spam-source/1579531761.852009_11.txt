@@ -1,0 +1,101 @@
+Return-Path: <SRS0=J/sUTE=3J=mail.trackfitt.co=6688-9790-262549-1785-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 13867 invoked from network); 20 Jan 2020 09:29:03 -0000
+Received: (qmail 7148 invoked from network); 20 Jan 2020 09:29:02 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 20 Jan 2020 09:29:02 -0000
+Received: (qmail 10432 invoked by uid 48516); 20 Jan 2020 09:29:01 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 651 invoked from network); 20 Jan 2020 09:29:01 -0000
+Received: from tahoe.trackfitt.co (client-23-254-229-143.hostwindsdns.com [23.254.229.143])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 20 Jan 2020 09:28:58 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=trackfitt.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=NoomAffiliate@trackfitt.co;
+ bh=+QFd9wb7EAfXcDPrbeNHjP6vZ/Q=;
+ b=KtKQrPIjv53T09i2eigK8pm1gOACjz0795QFtn7xbt/iPlVnKhp59O4Z84N9UkW5fjL90vlsHv0d
+   2u/BKpNDwPFT5wLPyIQj19qJOaOWul0N/sssXMQdKp8q00tTvE8nne9VtilFCbddx9Pr9OFl0ojN
+   eDnTlBLjGUmj099RkKU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=trackfitt.co;
+ b=LPXm6paeA6DXyxIjA/7WJtA8d4CV7XEoUeiBOg6mtNuzXjprKZ28zvEe7/ME+qzFskvFyU8CoJJ7
+   L6ZWUpqSi/+1qe/9fVbMuC6ZntPXCBZ9Z6/PtH03dR085aoB4Fq3tBE5hMIjdWGy/G89GLorNMgi
+   xCOn80koYQx/jPMC4Tc=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="5b5f480c9f223f5216cb51ec2093033f_263e_40195"
+Date: Mon, 20 Jan 2020 04:28:55 -0500
+From: "Noom Affiliate" <NoomAffiliate@trackfitt.co>
+Reply-To: "Noom Partner" <NoomAffiliate@trackfitt.co>
+Subject: Get Healthy Again with Noom: Start Your Free Trial Custom Program Today
+To: <bruce@untroubled.org>
+Message-ID: <blthn9zzunvmuomo-nw54u819yu2iu9wd-263e-40195@trackfitt.co>
+Content-Length: 8751
+
+--5b5f480c9f223f5216cb51ec2093033f_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Get Healthy Again with Noom: Start Your Free Trial Custom Program Today
+
+http://trackfitt.co/Ra1Rlwdha3HQ1Mw7eS4ufAYb64wxcVTIVwSJPF2vmGgqp0sl
+
+http://trackfitt.co/Tj9lpGRuQjkVoOqCy4U4JVb2cdAC3PCdgxqt-wzB9lNBk1Xt
+
+The effect of the ionosphere on radio transmission was investigated in a geophysics laboratory of Air Force Cambridge Research Laboratory. Located at Hanscom Air Force Base, outside Boston, the lab was renamed the Air Force Geophysical Research Lab (AFGRL) in 1974. AFGRL developed the Klobuchar model for computing ionospheric corrections to GPS location. Of note is work done by Australian space scientist Elizabeth Essex-Cohen at AFGRL in 1974. She was concerned with the curving of the paths of radio waves traversing the ionosphere from NavSTAR satellites.
+
+After Korean Air Lines Flight 007, a Boeing 747 carrying 269 people, was shot down in 1983 after straying into the USSR's prohibited airspace, in the vicinity of Sakhalin and Moneron Islands, President Ronald Reagan issued a directive making GPS freely available for civilian use, once it was sufficiently developed, as a common good. The first Block II satellite was launched on February 14, 1989, and the 24th satellite was launched in 1994. The GPS program cost at this point, not including the cost of the user equipment but including the costs of the satellite launches, has been estimated at US$5 billion (then-year dollars).
+
+Initially, the highest-quality signal was reserved for military use, and the signal available for civilian use was intentionally degraded, in a policy known as Selective Availability. This changed with President Bill Clinton signing on May 1, 2000 a policy directive to turn off Selective Availability to provide the same accuracy to civilians that was afforded to the military. The directive was proposed by the U.S. Secretary of Defense, William Perry, in view of the widespread growth of differential GPS services by private industry to improve civilian accuracy. Moreover, the U.S. military was actively developing technologies to deny GPS service to potential adversaries on a regional basis.
+
+Since its deployment, the U.S. has implemented several improvements to the GPS service, including new signals for civil use and increased accuracy and integrity for all users, all the while maintaining compatibility with existing GPS equipment. Modernization of the satellite system has been an ongoing initiative by the U.S. Department of Defense through a series of satellite acquisitions to meet the growing needs of the military, civilians, and the commercial market.
+
+As of early 2015, high-quality, FAA grade, Standard Positioning Service (SPS) GPS receivers provided horizontal accuracy of better than 3.5 meters (11 ft), although many factors such as receiver quality and atmospheric issues can affect this accuracy.
+
+GPS is owned and operated by the United States government as a national resource. The Department of Defense is the steward of GPS. The Interagency GPS Executive Board (IGEB) oversaw GPS policy matters from 1996 to 2004. After that, the National Space-Based Positioning, Navigation and Timing Executive Committee was established by presidential directive in 2004 to advise and coordinate federal departments and agencies on matters concerning the GPS and related systems. The executive committee is chaired jointly by the Deputy Secretaries of Defense and Transportation. Its membership includes equivalent-level officials from the Departments of State, Commerce, and Homeland Security, the Joint Chiefs of Staff and NASA. Components of the executive office of the president participate as observers to the executive committee, and the FCC chairman participates as a liaison.
+
+--5b5f480c9f223f5216cb51ec2093033f_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://trackfitt.co/VJyTSMgo765xnMZxl1z0TnrC6aFx87t51ZnGpsat0-DpT50y"><img src="http://trackfitt.co/ceb07316967f93ccac.jpg" /><img height="1" src="http://www.trackfitt.co/GpVEAqgOP-tSznSKJmWaq1voxBfdzMx9WHa0QO13aEtkcf5i" width="1" /></a>
+<center>
+<div><br />
+<br />
+<a href="http://trackfitt.co/Ra1Rlwdha3HQ1Mw7eS4ufAYb64wxcVTIVwSJPF2vmGgqp0sl" style="font-size:40px;font-family:Arial; color:#2323EE; text-decoration:none; text-shadow: 2px 2px #FF0000;">Get Healthy Again with Noom: Start Your Free Trial Custom Program Today</a><br />
+<br />
+<a href="http://trackfitt.co/Ra1Rlwdha3HQ1Mw7eS4ufAYb64wxcVTIVwSJPF2vmGgqp0sl"><img src="http://trackfitt.co/6f264740a6fb12408b.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://trackfitt.co/YKn8TPDkxmhPQOpsjrmdm3-xB4i-tc61I7mhMzumLDm3_r8"><img src="http://trackfitt.co/bfcd88d8e632e5c93e.png" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://trackfitt.co/Tj9lpGRuQjkVoOqCy4U4JVb2cdAC3PCdgxqt-wzB9lNBk1Xt"><img src="http://trackfitt.co/c5d436e23ced68a253.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">The effect of the ionosphere on radio transmission was investigated in a geophysics laboratory of Air Force Cambridge Research Laboratory. Located at Hanscom Air Force Base, outside Boston, the lab was renamed the Air Force Geophysical Research Lab (AFGRL) in 1974. AFGRL developed the Klobuchar model for computing ionospheric corrections to GPS location. Of note is work done by Australian space scientist Elizabeth Essex-Cohen at AFGRL in 1974. She was concerned with the curving of the paths of radio waves traversing the ionosphere from NavSTAR satellites. After Korean Air Lines Flight 007, a Boeing 747 carrying 269 people, was shot down in 1983 after straying into the USSR&#39;s prohibited airspace, in the vicinity of Sakhalin and Moneron Islands, President Ronald Reagan issued a directive making GPS freely available for civilian use, once it was sufficiently developed, as a common good. The first Block II satellite was launched on February 14, 1989, and the 24th satellite was launched in 1994. The GPS program cost at this point, not including the cost of the user equipment but including the costs of the satellite launches, has been estimated at US$5 billion (then-year dollars). Initially, the highest-quality signal was reserved for military use, and the signal available for civilian use was intentionally degraded, in a policy known as Selective Availability. This changed with President Bill Clinton signing on May 1, 2000 a policy directive to turn off Selective Availability to provide the same accuracy to civilians that was afforded to the military. The directive was proposed by the U.S. Secretary of Defense, William Perry, in view of the widespread growth of differential GPS services by private industry to improve civilian accuracy. Moreover, the U.S. military was actively developing technologies to deny GPS service to potential adversaries on a regional basis. Since its deployment, the U.S. has implemented several improvements to the GPS service, including new signals for civil use and increased accuracy and integrity for all users, all the while maintaining compatibility with existing GPS equipment. Modernization of the satellite system has been an ongoing initiative by the U.S. Department of Defense through a series of satellite acquisitions to meet the growing needs of the military, civilians, and the commercial market. As of early 2015, high-quality, FAA grade, Standard Positioning Service (SPS) GPS receivers provided horizontal accuracy of better than 3.5 meters (11 ft), although many factors such as receiver quality and atmospheric issues can affect this accuracy. GPS is owned and operated by the United States government as a national resource. The Department of Defense is the steward of GPS. The Interagency GPS Executive Board (IGEB) oversaw GPS policy matters from 1996 to 2004. After that, the National Space-Based Positioning, Navigation and Timing Executive Committee was established by presidential directive in 2004 to advise and coordinate federal departments and agencies on matters concerning the GPS and related systems. The executive committee is chaired jointly by the Deputy Secretaries of Defense and Transportation. Its membership includes equivalent-level officials from the Departments of State, Commerce, and Homeland Security, the Joint Chiefs of Staff and NASA. Components of the executive office of the president participate as observers to the executive committee, and the FCC chairman participates as a liaison. </span></center>
+</body>
+</html>
+
+--5b5f480c9f223f5216cb51ec2093033f_263e_40195--

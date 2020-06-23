@@ -1,0 +1,242 @@
+Return-Path: <carla.duque-bruce=untroubled.org@kitchazy.trade>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 9890 invoked from network); 27 Jan 2020 16:52:09 -0000
+Received: (qmail 26056 invoked by uid 222); 27 Jan 2020 16:52:08 -0000
+Return-Path: <carla.duque-bruce=untroubled.org@kitchazy.trade>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 26053 invoked from network); 27 Jan 2020 16:52:08 -0000
+Received: from mail.kitchazy.trade ([83.167.224.83])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 27 Jan 2020 16:52:08 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=kitchazy.trade;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=carla.duque@kitchazy.trade;
+ bh=iGoeOYekPof4rzn9JMrfUKLDOP4=;
+ b=nBjN7rGapIAbSIJPzjQ1bVBXh5FCKjoJZ6qAIzhtA+BvMU1HfIgjP2UV/U8sLfVgNZarNcrV0Ccx
+   JNJXh13G7Rbx+NTb3TKlXTbGvBEoH5leH1XrBtLhoH+PalrLimcG1si6MYk+FXhcFTrQ3jSHbykt
+   DkJjWJsQP+jAbL60Jl0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=kitchazy.trade;
+ b=khZSVUrRLEGGubbVm7sB9zxAE80CwW1un8bfSjg5UFlGV/odLAsRNcYVusiY82N+Qdc3uFl6FHBV
+   8FzEnV77ddD6M/ALxrAlRZ+CaO/du30qw+UB+4IeU9efxru7fepPH353q67sRxBnInt02F5RHRs0
+   +nMGJD41uOhENZY34FU=;
+Received: by mail.kitchazy.trade id h5sajg0001gg for <bruce@untroubled.org>; Mon, 27 Jan 2020 11:46:12 -0500 (envelope-from <carla.duque-bruce=untroubled.org@kitchazy.trade>)
+Date: Mon, 27 Jan 2020 11:46:12 -0500
+From: Carla Duque <carla.duque@kitchazy.trade>
+To:   <bruce@untroubled.org>
+Subject: it must be your lucky day!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_397_426332780.1580143561290"
+List-Unsubscribe: <http://www.kitchazy.trade/continental-semicolons/31e6G239YC5l8r9H12cT1W1RC1aa3n21mFv4GIf4rxvs4FhIHEsvZ10cQXRSdRo8e7roD1Lw05pl@Hi>
+Message-ID: <0.0.0.2C.1D5D53148AF2DAC.2A8608@mail.kitchazy.trade>
+Content-Length: 11938
+
+------=_Part_397_426332780.1580143561290
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>surreal glossaries</title>=20
+ </head>=20
+ <body>=20
+  <table bgcolor=3D"#EAEDED" cellpadding=3D"0" class=3D"body-wrap" style=3D=
+"border-collapse: collapse !important; caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-family: sans-serif; font-style: normal; font-variant-caps:=
+ normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-a=
+lign: start; text-indent: 0px; text-transform: none; white-space: normal; w=
+idows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-tex=
+t-stroke-width: 0px; background-color: rgb(234, 237, 237); text-decoration:=
+ none; box-sizing: border-box; width: 1430px; margin: 0px; ">=20
+   <tbody>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" colspan=3D"3">&nbsp; <a href=3D"http://www.kitchazy.trade/7916U239Kt5U8j6n12e74Qc6n1aa3i21oFv4GIf4rxvs4FhIHEsvZ10VQXRSdRo8e5g1tS06FNqHpi/continental-semicolons" style=
+=3D"font-family: sans-serif; color: rgb(53, 60, 72); text-decoration: under=
+line; font-size: 16px; padding: 0px; margin: 0px; line-height: 22px; "><spa=
+n style=3D"color: rgb(53, 60, 72); text-decoration: underline; ">Press Here=
+ to Claim Your Special Prize</span></a></td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-size: 0px;=
+ ">&nbsp; </td>=20
+    </tr>=20
+    <tr>=20
+     <td class=3D"container" style=3D"font-family: sans-serif; box-sizing: =
+border-box; vertical-align: top; margin: 0px auto; border-top-left-radius: =
+5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-=
+bottom-left-radius: 5px; -webkit-box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2=
+px 7px 0px; box-shadow: rgba(0, 0, 0, 0.0980392) 0px 2px 7px 0px; display: =
+block !important; max-width: 600px !important; clear: both !important; " va=
+lign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"box-sizing: border-box; max-width: 60=
+0px; display: block; margin: 0px auto; ">=20
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der-collapse: collapse !important; text-align: center; " width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"border-top-left-radius: 5px; border=
+-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left=
+-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td align=3D"center" colspan=3D"3"><a href=3D"http://www.kitchazy.trade/7916U239Kt5U8j6n12e74Qc6n1aa3i21oFv4GIf4rxvs4FhIHEsvZ10VQXRSdRo8e5g1tS06FNqHpi/continental-semicolons"><im=
+g alt=3D"Claim your special prize!" src=3D"http://www.kitchazy.trade/de55W23O95GF7av12Ow74c8v1aa3q21BFv4GIf4rxvs4FhIHEsvZ10QQXRSdRo8e6hLFU106pzpAHi/Christianize-innovative" style=3D"border: 0p=
+x none; line-height: 16px; max-width: 600px; outline: currentcolor none 0px=
+; text-decoration: none; display: block; width: 601px; " /></a></td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+         <tr>=20
+          <td align=3D"center" style=3D"background-color: rgb(255, 255, 255=
+); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom=
+-right-radius: 5px; border-bottom-left-radius: 5px; " valign=3D"top">=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse !important; ">=20
+            <tbody>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"24" style=3D"height: 24px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a class=3D"title" href=3D"http://www.kitchazy.trade/7916U239Kt5U8j6n12e74Qc6n1aa3i21oFv4GIf4rxvs4FhIHEsvZ10VQXRSdRo8e5g1tS06FNqHpi/continental-semicolons" sty=
+le=3D"font-family: sans-serif; color: rgb(14, 211, 212); text-decoration: n=
+one; font-size: 26px; font-weight: 400; padding: 0px; margin: 0px; line-hei=
+ght: 32px; "><span class=3D"subtitle" style=3D"color: rgb(14, 211, 212); te=
+xt-decoration: none; ">Congratulations Nike Shopper!</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.kitchazy.trade/7916U239Kt5U8j6n12e74Qc6n1aa3i21oFv4GIf4rxvs4FhIHEsvZ10VQXRSdRo8e5g1tS06FNqHpi/continental-semicolons" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 24px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">You have been selected to <span st=
+yle=3D"color: rgb(14, 211, 212); text-decoration: underline; ">participate =
+in our giveaway</span>. You could win a <b>$100 Nike Gift Card</b>, <b>Appl=
+e iPhone X</b>, <b>Apple Watch</b>, and other prizes in just one spin.</spa=
+n></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.kitchazy.trade/7916U239Kt5U8j6n12e74Qc6n1aa3i21oFv4GIf4rxvs4FhIHEsvZ10VQXRSdRo8e5g1tS06FNqHpi/continental-semicolons" style=3D"font-famil=
+y: sans-serif; color: rgb(68, 68, 68); text-decoration: none; font-size: 18=
+px; padding: 0px; margin: 0px; line-height: 26px; "><span style=3D"color: r=
+gb(68, 68, 68); text-decoration: none; ">But hurry! The giveaway ends soon!=
+</span></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"20" style=3D"height: 20px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left">=20
+               <div>
+                <a class=3D"button" href=3D"http://www.kitchazy.trade/7916U239Kt5U8j6n12e74Qc6n1aa3i21oFv4GIf4rxvs4FhIHEsvZ10VQXRSdRo8e5g1tS06FNqHpi/continental-semicolons" style=3D"border-top=
+-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius=
+: 4px; border-bottom-left-radius: 4px; color: rgb(255, 255, 255); backgroun=
+d-color: rgb(14, 211, 212); display: inline-block; font-family: sans-serif;=
+ font-size: 18px; font-weight: bold; line-height: 62px; text-align: center;=
+ text-decoration: none; width: 312px; ">Press Here To Participate</a>
+               </div> </td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"16" style=3D"height: 16px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+              <td align=3D"left"><a href=3D"http://www.kitchazy.trade/7916U239Kt5U8j6n12e74Qc6n1aa3i21oFv4GIf4rxvs4FhIHEsvZ10VQXRSdRo8e5g1tS06FNqHpi/continental-semicolons"><img alt=3D"Hurry! =
+This givewaway ends soon!" src=3D"http://www.kitchazy.trade/3d15C23J95nWq7a13Lh7F4c9C1aa3N21NFv4GIf4rxvs4FhIHEsvZ10NQXRSdRo8e6JNIp106P0WHi@/sharable-utilities" style=3D"border: 0px none; l=
+ine-height: 16px; max-width: 211px; outline: currentcolor none 0px; text-de=
+coration: none; display: block; width: 211px; " /></a></td>=20
+              <td class=3D"m-pad" width=3D"32">&nbsp; </td>=20
+             </tr>=20
+             <tr>=20
+              <td colspan=3D"3" height=3D"32" style=3D"height: 32px; font-s=
+ize: 0px; ">&nbsp; </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+    <tr>=20
+     <td align=3D"center" class=3D"container" style=3D"margin: 0px auto; di=
+splay: block !important; max-width: 600px !important; clear: both !importan=
+t; " valign=3D"top" width=3D"600">=20
+      <div class=3D"content" style=3D"max-width: 600px; display: block; mar=
+gin: 0px auto; padding: 0px; ">=20
+       <table cellpadding=3D"0" cellspacing=3D"0" class=3D"main" style=3D"b=
+order-collapse: collapse !important; font-family: sans-serif; margin: 0px; =
+" width=3D"100%">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"font-size: 13px; color: rgb(102, 10=
+2, 102); "><a href=3D"http://www.kitchazy.trade/e3f5l2u395MZ8u912C74Qc7Q1aa3T21fFv4GIf4rxvs4FhIHEsvZ10tQXRSdRo8e5GU10s6dWNJHi/continental-semicolons">Exit Here</a><br /> <br /> <span =
+style=3D"caret-color: rgb(0, 0, 0); font-family: -webkit-standard; font-sty=
+le: normal; font-variant-caps: normal; font-weight: normal; letter-spacing:=
+ normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-=
+transform: none; white-space: normal; widows: auto; word-spacing: 0px; -web=
+kit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration=
+: none; color: rgb(128, 128, 128); font-size: 11px; float: none; display: i=
+nline !important; ">13395 Voyager Pkwy Ste 130 #634</span><span style=3D"ca=
+ret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard=
+; font-size: medium; font-style: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; orphans: auto; text-align: -webkit-ce=
+nter; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; display: inline !important; float: non=
+e; "> </span><br style=3D"caret-color: rgb(0, 0, 0); font-size: 12px; font-=
+style: normal; font-variant-caps: normal; font-weight: normal; letter-spaci=
+ng: normal; orphans: auto; text-indent: 0px; text-transform: none; white-sp=
+ace: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: aut=
+o; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(0, 0, =
+0); text-align: center; font-family: Helvetica; " /> <span style=3D"caret-c=
+olor: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-wei=
+ght: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-=
+transform: none; white-space: normal; widows: auto; word-spacing: 0px; -web=
+kit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration=
+: none; color: rgb(128, 128, 128); font-size: 11px; text-align: center; fon=
+t-family: Helvetica; float: none; display: inline !important; ">COLORADO SP=
+RINGS CO 80921</span></td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div> </td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"42" style=3D"height: 42px; font-size: 0px; ">&nbsp; </td=
+>=20
+    </tr>=20
+   </tbody>=20
+  </table> <style style="spoolers"></style><font color="maladies"></font><small></small><font><span face="roams"><style></font></span><span><style face="missionaries"></style></style></span><span title="Kenilworth"></span> =20
+ <img src=3D"http://www.kitchazy.trade/unravel-reinitializing/2a66O2NZ395DH85H12h74gcaU1aa3x21pFv4GIf4rxvs4FhIHEsvZ10nQXRSdRo8e6k10BDj6XjHMi@" alt=3D""/></body>
+</html>
+
+------=_Part_397_426332780.1580143561290--
+

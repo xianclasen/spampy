@@ -1,0 +1,105 @@
+Return-Path: <SRS0=WruXWH=3M=mail.sonicbreads.buzz=6877-2982-85526-1836-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 30004 invoked from network); 23 Jan 2020 13:53:53 -0000
+Received: (qmail 5203 invoked from network); 23 Jan 2020 13:53:52 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Jan 2020 13:53:52 -0000
+Received: (qmail 2474 invoked by uid 48516); 23 Jan 2020 13:53:52 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 29489 invoked from network); 23 Jan 2020 13:53:52 -0000
+Received: from linus.sonicbreads.buzz ([170.130.174.49])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 23 Jan 2020 13:53:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=sonicbreads.buzz;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=**Ketobread**@sonicbreads.buzz;
+ bh=NS5Ham9rpS0Sn7SoZV0yKjR2SAM=;
+ b=dg1L9YYAOAKa5v7auib8ZToOI+OgdXSBDiQh2zn6dPucw1z3ozRy8itSB5O9+BDI+hPyvvenfL9f
+   44+8y2K2qPKalCVib/MkCsDokC+R8kZDyEb391TzBTF1yGyRuvM/+jEyA/i9Z0HjX69DxaM4g6EV
+   ANe8HHFfHHpUiPGul8w=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=sonicbreads.buzz;
+ b=oagw0eyksW5gB2f29LQv2nKhAZqvnl7sFEFoSOMvHW2HiNl+rqJ/Nu68ueZ1eYOOiIQugBVF03nE
+   FlwB832yf7OWObwl0tJbhj44VDcfqxvxuL8mn4uYTGKjmKcRS3CuRroyJ9kvaavny9YkeZlmnqVz
+   l7ctRMBcMYbzCMoZm6M=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="df6fa41bbe6a44aee71286c68541c7eb_ba6_14e16"
+Date: Thu, 23 Jan 2020 08:51:46 -0500
+From: "Keto bread"<**Ketobread**@sonicbreads.buzz>
+Reply-To: "Keto bread"<**Ketobread**@sonicbreads.buzz>
+Subject: You’re about to Discover How You Can Have Your Bread... AND Be Well Too!
+To: <bruce@untroubled.org>
+Message-ID: <gbhsbixowbztaxri-pdkibhcs1zx6wdpk-ba6-14e16@sonicbreads.buzz>
+Content-Length: 8878
+
+--df6fa41bbe6a44aee71286c68541c7eb_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+You’re about to Discover How You Can Have Your Bread... AND Be Well Too!
+
+http://sonicbreads.buzz/hJFowNiub2Kv6J2XJxQYEd6z0Fwfkk-eJPdkAG4Ww9RWTuM
+
+http://sonicbreads.buzz/RI0aP-NnaYHCyG3f_XtSOffWs1mNQZkbFeFkBQ6g3ZsFOmA
+
+Tamraj Kilvish is Shaktimaan's archenemy. Tamraj means King of Darkness (tama = darkness, raj = king). He has lived 6000 years and is the source of evil in the world. He intends to rule the world by spreading darkness, hatred, sin and evil. It is said that the source of his strength is one-half of the "Shakti Punj" (the half which is referred to as "shaktiman") which he managed to retain after he originally obtained the entire Shakti Punj by deceit from Shri Satya (Satya means truth), the founder of the Suryavanshi. However, it is also mentioned that the source of his strength is the evil that is committed by people in this world.
+
+It was later revealed that only Shri Satya can kill Tamraj Kilvish. After a death-defying adventure, Shaktimaan was told that he is the rebirth of Shri Satya. Shri Satya had given the exact time of the child's birth and the place before he died about 6000 years ago. Tamraj also knows this and this is the main reason he is frightened by the appearance of Shaktimaan as he knows that only Shaktimaan can kill Tamraj. He murdered Shaktimaan's parents and his adoptive father, Pandit Vidyadhar Shastri. He and his minions plot to kill him but always fail. His minions include Electric-man (who can shoot lightning bolts from his body), Stone-man (who can shoot stones from his body), Plastica (who can stretch any part of her body), Dr. Jackal (an evil scientist) and others. Dr. Jackal has helped Kilvish in his various schemes by cloning Shaktimaan and also by turning aliens against him.
+
+In the television series, Kilvish is often treated as the personification of darkness itself even though he was once a human being who later becomes very powerful and commits many evil deeds. In an attempt to become immortal, he left his mortal body and took an ethereal body which can't be killed but Shaktimaan is told that he has to kill all the evil in the world to destroy Tamraj's ethereal body. Kilvish's trademark quote is "Andhera Kaayam Rahe" (May Darkness Prevail), which is also used by his followers.
+
+Kilvish's character evolves as the series progresses. In the beginning episodes of Shaktimaan, his face is never shown and his voice is different from the voice that he uses in the later episodes of Shaktimaan, in which his role is played by Surendra Pal. Later his face deforms to become a distorted wolf-like face.
+
+Dr. Jackal
+
+Dr. Jackal is an evil scientist who works for Kilvish. His earlier intention was not that of becoming evil, but when he was denied scholarship for research, Kilvish provided him with funds and labs, thus making him a supporter of Kilvish & an evil scientist. Though he is overall a brilliant scientist, his specialisation is cloning and various energy rays. His creations against Shaktimaan include Kekda Man (a clone formed by fusing cells of Crab & human), followed by Jonk Jonkaa (a clone using leech), an evil clone of Shaktimaan, Plastica, Lightman, 3D image, Super-heroine Sunanda and others. He also invented a height control solution and fictional EC- rays
+
+--df6fa41bbe6a44aee71286c68541c7eb_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://sonicbreads.buzz/G9cGAlliqJc6xeOasECQt-8zf8EuYGSiFWkFNx8k0YDa_v1p"><img src="http://sonicbreads.buzz/52b9a6a4206b826f22.jpg" /><img height="1" src="http://www.sonicbreads.buzz/3YbS2lFG5d0b6hfZiQuhp-vvwyORc_FgAGwEpJcPLLvOnxQ" width="1" /></a><br />
+&nbsp;
+<div style="width:600px; padding:10px; font-family:Arial; font-size:20px;">Bread is a Drug that Causes a Repetitive Cycle of Cravings &ndash; for More Bread!<br />
+<br />
+Our love affair with comforting (and addictive) bread is as old as recorded history...<br />
+<br />
+<a href="http://sonicbreads.buzz/hJFowNiub2Kv6J2XJxQYEd6z0Fwfkk-eJPdkAG4Ww9RWTuM">The Bible practically commands followers to eat it: &quot;Give us this day our daily bread...&quot;</a><br />
+<br />
+It was so revered in ancient Greece, the rest of the meal was called &oacute;pson &ndash; meaning &quot;condiment&quot; or bread&rsquo;s accompaniment.<br />
+<br />
+<a href="http://sonicbreads.buzz/hJFowNiub2Kv6J2XJxQYEd6z0Fwfkk-eJPdkAG4Ww9RWTuM"><img src="http://sonicbreads.buzz/5c2691f7557fc856f8.jpg" /></a><br />
+<br />
+However, that fuzzy glow you feel when you bite into a slice of warm bread is short lived.<br />
+<br />
+And, unfortunately...<br />
+<br />
+Those Few Moments of Toasty-Buttered Bliss Carry a Heavy Price<br />
+<br />
+<a href="http://sonicbreads.buzz/hJFowNiub2Kv6J2XJxQYEd6z0Fwfkk-eJPdkAG4Ww9RWTuM">Well-known cardiologist, Dr. William Davis, calls wheat &quot;the perfect chronic poison.&quot;</a><br />
+<br />
+And for a poison, we sure eat lots of it. The average American consumes 55 pounds of wheat flour every year &ndash; making refined flour the number-one source of calories in the American Diet!<br />
+<br />
+<a href="http://sonicbreads.buzz/hJFowNiub2Kv6J2XJxQYEd6z0Fwfkk-eJPdkAG4Ww9RWTuM">Don&rsquo;t Be Fooled by this Common (and Deadly) Myth about Bread... What You Don&rsquo;t Notice CAN Hurt You!</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sonicbreads.buzz/c4PbXcCuLgYGm-IZON2Z_0cNOU37KK8qCM9cQmaHLuQmD6SZ"><img src="http://sonicbreads.buzz/2ca48dbc1683826b26.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Tamraj Kilvish is Shaktimaan&#39;s archenemy. Tamraj means King of Darkness (tama = darkness, raj = king). He has lived 6000 years and is the source of evil in the world. He intends to rule the world by spreading darkness, hatred, sin and evil. It is said that the source of his strength is one-half of the &quot;Shakti Punj&quot; (the half which is referred to as &quot;shaktiman&quot;) which he managed to retain after he originally obtained the entire Shakti Punj by deceit from Shri Satya (Satya means truth), the founder of the Suryavanshi. However, it is also mentioned that the source of his strength is the evil that is committed by people in this world. It was later revealed that only Shri Satya can kill Tamraj Kilvish. After a death-defying adventure, Shaktimaan was told that he is the rebirth of Shri Satya. Shri Satya had given the exact time of the child&#39;s birth and the place before he died about 6000 years ago. Tamraj also knows this and this is the main reason he is frightened by the appearance of Shaktimaan as he knows that only Shaktimaan can kill Tamraj. He murdered Shaktimaan&#39;s parents and his adoptive father, Pandit Vidyadhar Shastri. He and his minions plot to kill him but always fail. His minions include Electric-man (who can shoot lightning bolts from his body), Stone-man (who can shoot stones from his body), Plastica (who can stretch any part of her body), Dr. Jackal (an evil scientist) and others. Dr. Jackal has helped Kilvish in his various schemes by cloning Shaktimaan and also by turning aliens against him. In the television series, Kilvish is often treated as the personification of darkness itself even though he was once a human being who later becomes very powerful and commits many evil deeds. In an attempt to become immortal, he left his mortal body and took an ethereal body which can&#39;t be killed but Shaktimaan is told that he has to kill all the evil in the world to destroy Tamraj&#39;s ethereal body. Kilvish&#39;s trademark quote is &quot;Andhera Kaayam Rahe&quot; (May Darkness Prevail), which is also used by his followers. Kilvish&#39;s character evolves as the series progresses. In the beginning episodes of Shaktimaan, his face is never shown and his voice is different from the voice that he uses in the later episodes of Shaktimaan, in which his role is played by Surendra Pal. Later his face deforms to become a distorted wolf-like face. Dr. Jackal Dr. Jackal is an evil scientist who works for Kilvish. His earlier intention was not that of becoming evil, but when he was denied scholarship for research, Kilvish provided him with funds and labs, thus making him a supporter of Kilvish &amp; an evil scientist. Though he is overall a brilliant scientist, his specialisation is cloning and various energy rays. His creations against Shaktimaan include Kekda Man (a clone formed by fusing cells of Crab &amp; human), followed by Jonk Jonkaa (a clone using leech), an evil clone of Shaktimaan, Plastica, Lightman, 3D image, Super-heroine Sunanda and others. He also invented a height control solution and fictional EC- rays </span></body>
+</html>
+
+--df6fa41bbe6a44aee71286c68541c7eb_ba6_14e16--

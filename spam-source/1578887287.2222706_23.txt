@@ -1,0 +1,178 @@
+Return-Path: <SRS0=3oWYJG=3B=techguardian.info=bounce@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 12139 invoked from network); 12 Jan 2020 20:48:16 -0000
+Received: (qmail 22723 invoked from network); 12 Jan 2020 20:48:15 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 20:48:15 -0000
+Received: (qmail 1608 invoked by uid 48516); 12 Jan 2020 20:48:14 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15547 invoked from network); 12 Jan 2020 20:48:14 -0000
+Received: from server.techguardian.info (server.techguardian.info [45.87.220.72])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 12 Jan 2020 20:48:14 -0000
+Received: by server.techguardian.info (Postfix, from userid 0)
+	id 32AF478191B; Sun, 12 Jan 2020 20:45:46 +0000 (UTC)
+To: bruce@untroubled.org,,
+Subject: Audio Transcription Service Provider
+X-PHP-Originating-Script: 1000:email.php
+Message-ID: <1b24ea285b8d4bdf98918dbacb8bcdba@techguardian.info>
+Date: Sun, 12 Jan 2020 18:59:27 +0000
+From: "Mew Andre" <info@techguardian.info>
+Reply-To: info@techguardian.info
+MIME-Version: 1.0
+X-Mailer-LID: 41
+List-Unsubscribe: <http://techguardian.info/mailsoft/unsubscribe.php?M=13675422&C=9d47a1baeecdadecfd69d3aeaf3a3bc7&L=41&N=99>
+X-Mailer-RecptId: 13675422
+X-Mailer-SID: 99
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_0eed3404f3e662f891f4f06958324b98"
+Content-Transfer-Encoding: 8bit
+Content-Length: 6132
+
+--b1_0eed3404f3e662f891f4f06958324b98
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Hello,
+
+Do you need someone reliable to transcribe both your short term and 
+long term projects? Or do you need an accurate transcript for your 
+audio or video? 
+
+Allow us to transcribe your audio and provide you accurate transcripts 
+and let us help you reach your business/project goals through the help 
+of our transcription services.
+
+What are our goals with each transcript?
+
+- Speed
+- Accuracy
+- Confidentiality
+- Each transcript is properly formatted. Strict grammar and 
+punctuation rules are adhered to and of course, file security is 
+something we take very seriously. 
+
+Have any transcription queries? Send me a message. Let's discuss what 
+you need to get done. We will address any concerns you have. 
+
+- Professional transcription
+- Accurate and thorough
+- Beautifully transcribed documents.
+- Grammar, spelling and jargon thoroughly checked
+
+We have transcribed audios & videos under various requirements 
+such as :
+
+- Medical transcription
+- Technical
+- Academic
+- Lectures
+- Business
+- Groups
+- Legal
+- Research interviews
+
+more...
+
+Skilled with international accents and prompt response. Our pricing 
+is better or comparable to individual service provider. In addition 
+we also assist in APA Style formatting for research papers. Please 
+note we don’t conduct research but assist only in formatting 
+of the papers.
+
+Regards,
+Mew Andre
+
+http://techguardian.info/mailsoft/unsubscribe.php?M=13675422&C=9d47a1baeecdadecfd69d3aeaf3a3bc7&L=41&N=99
+
+--b1_0eed3404f3e662f891f4f06958324b98
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Hello,</span><br /> <br /><span style="font-family: arial,
+helvetica, sans-serif; font-size: x-small;"> Do you need someone reliable
+to transcribe both your short term and long term projects? Or do you need
+an accurate transcript for your audio or video?&nbsp;</span><br /> <br
+/><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;"> Allow us to transcribe your audio and provide you accurate
+transcripts and let us help you reach your business/project goals through
+the help of our transcription services.</span><br /> <br /><span
+style="font-family: arial, helvetica, sans-serif; font-size: x-small;">
+What are our goals with each transcript?</span><br />
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Speed</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Accuracy</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Confidentiality</span></li>
+</ul>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Each transcript is properly formatted. Strict grammar and
+punctuation rules are adhered to and of course, file security is something
+we take very seriously.&nbsp;</span><br /> <br /><span style="font-family:
+arial, helvetica, sans-serif; font-size: x-small;"> Have any transcription
+queries? Send me a message. Let's discuss what you need to get done. We
+will address any concerns you have.&nbsp;</span><br />
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Professional transcription</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Accurate and thorough</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Beautifully transcribed documents.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Grammar, spelling and jargon thoroughly checked</span></li>
+</ul>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">We have transcribed audios &amp; videos under various
+requirements such as :</span><br />
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Medical transcription</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Technical</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Academic</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Lectures</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Business</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Groups</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Legal</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;">Research interviews</span></li>
+</ul>
+<span style="font-family: arial, helvetica, sans-serif; font-size:
+x-small;"> more...</span><br /> <br /><span style="font-family: arial,
+helvetica, sans-serif; font-size: x-small;"> Skilled with international
+accents and prompt response. Our pricing is better or comparable to
+individual service provider. In addition we also assist in APA Style
+formatting for research papers. Please note we don&rsquo;t conduct research
+but assist only in formatting of the papers.</span><br /> <br /><span
+style="font-family: arial, helvetica, sans-serif; font-size: x-small;">
+Regards,</span><br /><span style="font-family: arial, helvetica,
+sans-serif; font-size: x-small;"><span
+data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;George
+Cooly&quot;}"
+data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">Mew
+Andre</span><br /><br /><a
+href="http://techguardian.info/mailsoft/unsubscribe.php?M=13675422&C=9d47a1baeecdadecfd69d3aeaf3a3bc7&L=41&N=99">Unsubscribe</a></span><br
+/>
+<img
+src="http://techguardian.info/mailsoft/open.php?M=13675422&L=41&N=99&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_0eed3404f3e662f891f4f06958324b98--
+

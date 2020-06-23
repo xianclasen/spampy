@@ -1,0 +1,148 @@
+Return-Path: <SRS0=RGCdRt=27=uresp.date=diabetes-destroyer-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 13727 invoked from network); 10 Jan 2020 16:52:42 -0000
+Received: (qmail 7856 invoked from network); 10 Jan 2020 16:52:41 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 10 Jan 2020 16:52:41 -0000
+Received: (qmail 26924 invoked by uid 48516); 10 Jan 2020 16:52:40 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 31898 invoked from network); 10 Jan 2020 16:52:40 -0000
+Received: from mail.uresp.date (70-102-103-6.nca.lanset.com [70.102.103.6])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 10 Jan 2020 16:52:40 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=uresp.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=diabetes-destroyer@uresp.date;
+ bh=jwx/XDQqrrGPuQBYICPTpMxfAYk=;
+ b=qK18hCPNDEwTwjLrqkjeTBbzKKvA9G3vOT+xJZk8LTyXrQCD/cHvWgv5ksSv571IBeUXwCh8YyZ1
+   kHVNoZbuGfos84JToR6p51aPh4vCfsssfioJvRiXiDCGZdwV1gxP6f/Ncx4zBYohRvX3ZSJrW1nl
+   T3V7zchoqEXR39EKmZg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=uresp.date;
+ b=e1AXvp1/Uv41QiPP43hrIbgO/kQRr6X4WW+RmEbTWVPPa0xSgHNa7s5ooSIBBCuVsxmrc4RCsuEX
+   bjD6leNMP0yWQttWpIFEkBwRj+EcSGtR2txoz5H6gQ6AvDizTq3326OuUUJKgmZLoPJyfAv9hkBg
+   8mR9CLVm4Dyi0jEEsJI=;
+Received: by mail.uresp.date id h32ltg0001gp for <bruce@untroubled.org>; Fri, 10 Jan 2020 11:48:03 -0500 (envelope-from <diabetes-destroyer-bruce=untroubled.org@uresp.date>)
+Date: Fri, 10 Jan 2020 11:48:03 -0500
+From: "Diabetes Destroyer" <diabetes-destroyer@uresp.date>
+To:   <bruce@untroubled.org>
+Subject: Doctors Are Shocked by New Breakthrough That Manages Diabetes & Blood Sugar
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_166_345742557.1578674863090"
+List-Unsubscribe: <http://www.uresp.date/8815fL2395U8AU912gmzh11L1a07i21pFv4GIf4rxvs4FhIHEsvZ10UQsRQSdoa95k1iJ06EMjWHi/Minotaur-matchable>
+Message-ID: <0.0.0.12.1D5C7D5B997D76C.2A2001@mail.uresp.date>
+Content-Length: 6585
+
+------=_Part_166_345742557.1578674863090
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>seminal</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); letter-spacing: normal; text-=
+indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adj=
+ust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: =
+2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; , serif; font-size: 17px; " width=3D"100%=
+">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 535px; " width=3D"586">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 12px; ">=20
+                 <h1 style=3D"margin: 20px 6px; color: rgb(34, 34, 34); lin=
+e-height: 32px; font-family: &quot; Sans Serif&quot; ; font-size: 40px; box=
+-sizing: border-box; text-align: center; "><span style=3D"font-family: &quo=
+t; Sans Serif&quot; ; "><span style=3D"color: rgb(0, 0, 0); "><strong>Diabe=
+tes Will Kill You (Do This To Fight It)</strong></span></span></h1>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; "><a href=3D"http://www.uresp.date/2Zf4e2395a8KX612E71w9an1a07K21aFv4GIf4rxvs4FhIHEsvZ10KQsRQSdoa95U10Go6NW@Hik/densely-dubiously"><img alt=3D"" src=3D"http://www.uresp.date/Minotaur-matchable/22e6j239Yz5q7Oaz13wY71w9dy1a07q21lFv4GIf4rxvs4FhIHEsvZ10dQsRQSdoa97v1jl0Bm6F3HilU" style=3D=
+"width: 455px; height: 312px; " /></a><br /> <br /> <span style=3D"color: r=
+gb(14, 14, 184); "><span style=3D"font-size: 33px; font-family: &quot; Sans=
+ Serif&quot; ; "><strong><a href=3D"http://www.uresp.date/2Zf4e2395a8KX612E71w9an1a07K21aFv4GIf4rxvs4FhIHEsvZ10KQsRQSdoa95U10Go6NW@Hik/densely-dubiously" style=3D"color: rgb(14, 14,=
+ 184); ">{Watch Now}</a></strong></span></span></p>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; ">&nbsp; </p>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"font-style: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb=
+(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; f=
+ont-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> &nbsp;=
+=20
+   <center>=20
+    <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; ">
+     <br />=20
+     <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif">&nbsp; <font color=3D"#666666">Leave </font><a href=3D"=
+http://www.uresp.date/upward-multiply/8646o2n39I5V86QK11k719bN1a07I21KFv4GIf4rxvs4FhIHEsvZ10vQsRQSdoa95Hi1Z05Cl3Hi"><font color=3D"#666666">Here</font></a>.<br /> PureHealth Research =
+| 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font><br /> <=
+br /> Exit<a href=3D"http://www.uresp.date/Minotaur-matchable/a446w2V39F5M89Ms11b719cY1a07J21bFv4GIf4rxvs4FhIHEsvZ10QQsRQSdoa95j10KM6UJMH@i"> Here</a><br /> <span style=3D"car=
+et-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-varia=
+nt-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: =
+0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-tex=
+t-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;=
+ font-family: arial, helvetica, sans-serif; text-align: center; float: none=
+; display: inline !important; ">6547 N Academy Blvd #2128</span><span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-st=
+andard; font-style: normal; font-variant-caps: normal; font-weight: normal;=
+ letter-spacing: normal; text-indent: 0px; text-transform: none; white-spac=
+e: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; display: inline !important; float: n=
+one; "> </span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; wh=
+ite-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjus=
+t: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family=
+: arial, helvetica, sans-serif; font-size: 11px; text-align: center; " /> <=
+span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: n=
+ormal; font-variant-caps: normal; font-weight: normal; letter-spacing: norm=
+al; text-indent: 0px; text-transform: none; white-space: normal; word-spaci=
+ng: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-=
+decoration: none; font-family: arial, helvetica, sans-serif; text-align: ce=
+nter; float: none; display: inline !important; ">COLORADO SPRINGS CO 80918<=
+/span></span>
+     <br />=20
+     <br />=20
+     <br /> &nbsp;=20
+    </div> <font lang="Magellanic"></font><font></font><span color="baldness"><style><font style="speculators"></font></span><span face="Walbridge"></span></style><span class="exactness"></span>
+   </center>=20
+  </center>  =20
+ <img src=3D"http://www.uresp.date/e3y4V2395Fh8N513Q7YN19eh1a07X21hFv4GIf4rxvs4FhIHEsvZ10vQsRQSdoa95Yko106BLpH1i/Minotaur-matchable" alt=3D""/></body>
+</html>
+
+------=_Part_166_345742557.1578674863090--
+

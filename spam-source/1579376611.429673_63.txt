@@ -1,0 +1,83 @@
+Return-Path: <ConsideringOpeningaFranchise-bruce=untroubled.org@kesto.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 20871 invoked from network); 18 Jan 2020 17:47:09 -0000
+Received: (qmail 20583 invoked from network); 18 Jan 2020 17:47:08 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Jan 2020 17:47:08 -0000
+Received: (qmail 32301 invoked by uid 48516); 18 Jan 2020 17:47:08 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9791 invoked from network); 18 Jan 2020 17:47:07 -0000
+Received: from cartwright.kesto.org (cartwright.kesto.org [142.11.213.21])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 18 Jan 2020 17:47:07 -0000
+Received: by cartwright.kesto.org id h4d29m0001gk for <bruce@untroubled.org>; Sat, 18 Jan 2020 17:17:01 +0000 (envelope-from <ConsideringOpeningaFranchise-bruce=untroubled.org@kesto.org>)
+Date: Sat, 18 Jan 2020 17:17:01 +0000
+From: Considering Opening a Franchise? <ConsideringOpeningaFranchise@kesto.org>
+Reply-To: ConsideringOpeningaFranchise@kesto.org
+To: bruce@untroubled.org
+Message-Id: <90392ec2-09cc-4120-b09c-291a393af2b9@kesto.org>
+Subject: =?utf-8?B?UnVuIFlvdXIgT3duIEJ1c2luZXNzISB8IEZyYW5jaGlzZXM=?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-806177e016ba3788__0458e5abcb72925e24e4f0_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 3416
+
+---_-_-806177e016ba3788__0458e5abcb72925e24e4f0_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-806177e016ba3788__0458e5abcb72925e24e4f0_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHA+PC9wPgo8ZGl2IHN0eWxlPSJ3aWR0aDogNDUwcHg7Ij48Y2VudGVyPgo8ZGl2Pgo8cD48YSBo
+cmVmPSJodHRwOi8va2VzdG8ub3JnL3Y5ZDJfaTZxNUE3cSI+Jm5ic3A7PC9hPjxhIGhyZWY9Imh0
+dHA6Ly9rZXN0by5vcmcvc0FnNUNsOXQ4RC14Ij5GcmFuY2hpc2VzIENoZWNrIE91dCBPcHRpb25z
+PC9hPjwvcD4KPGgyPkhhdmUgWW91IFRob3VnaHQgQWJvdXQgT3duaW5nJm5ic3A7YSZuYnNwO0Zy
+YW5jaGlzZT88L2gyPgo8L2Rpdj4KPGRpdj4KPGg0PkZpbmQgPGEgaHJlZj0iaHR0cDovL2tlc3Rv
+Lm9yZy9zQWc1Q2w5dDhELXgiPkZyYW5jaGlzZSBPZmZlcnM8L2E+PGltZyBzcmM9Imh0dHA6Ly9j
+ZG4ua2VzdG8ub3JnL2VvLnBocD9rPTE1MTAma2M9MzcyMzg5MCZrcz0wJmtmPTAmcGM9MjE1NiZ0
+MT1kZWZhdWx0JnQyPSZ0Mz0mdDQ9JnU9JnUyPSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgLz48L2g0
+Pgo8L2Rpdj4KPC9jZW50ZXI+CjxkaXYgc3R5bGU9ImNvbG9yOiAjOTg5Nzk3OyI+CjxwPjxhIGhy
+ZWY9Imh0dHA6Ly9rZXN0by5vcmcvc0FnNUNsOXQ4RC14Ij5TZWFyY2ggZm9yIEZyYW5jaGlzZSBP
+cHRpb25zPC9hPjwvcD4KPC9kaXY+CjwvZGl2Pgo8cD48L3A+CjxjZW50ZXI+PGEgaHJlZj0iaHR0
+cDovL2tlc3RvLm9yZy91LWUzQWo3cjZCOEQiPiA8aW1nIHNyYz0iaHR0cDovL2Nkbi5rZXN0by5v
+cmcva2NpbWcucGhwLzM3Mjc0NzIvMSIgYWx0PSIiIGJvcmRlcj0iMCIgLz48L2E+PC9jZW50ZXI+
+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4K
+PHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8
+cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+Cjxw
+PiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+
+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4m
+bmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZu
+YnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5i
+c3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJz
+cDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNw
+OzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7
+PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQt
+ZGlzbWlzc2FibGUgYWxlcnQtc3VjY2VzcyIgc3R5bGU9InRleHQtYWxpZ246IHJpZ2h0OyI+PHNw
+YW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyI+VGhpcyBpcyBhbiBhZHZlcnRpc2VtZW50Ljwvc3Bh
+bj48L2Rpdj4KPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtZGlzbWlzc2FibGUgYWxlcnQtc3VjY2Vz
+cyIgc3R5bGU9InRleHQtYWxpZ246IHJpZ2h0OyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0
+OyI+SWYgeW91IHdhbnQgdG8gdW5zdWJzY3JpYmUsIHBsZWFzZSBjbGljayZuYnNwOzxhIGhyZWY9
+Imh0dHA6Ly9rZXN0by5vcmcvYlJ4S1QyTy1OVU15Ij4mbmJzcDs8L2E+PGEgaHJlZj0iaHR0cDov
+L2tlc3RvLm9yZy9iUnhLVDJPLU5VUGEiIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5v
+cmVmZXJyZXIiPmhlcmUuPC9hPjwvc3Bhbj48L2Rpdj4KPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQt
+ZGlzbWlzc2FibGUgYWxlcnQtc3VjY2VzcyIgc3R5bGU9InRleHQtYWxpZ246IHJpZ2h0OyI+PHNw
+YW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyI+b3Igd3JpdGUgYSBsZXR0ZXIgdG86PC9zcGFuPjwv
+ZGl2Pgo8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kaXNtaXNzYWJsZSBhbGVydC1zdWNjZXNzIj4K
+PGgzIGlkPSJtY2V0b2NfMWNzcXR2dWh2MCIgc3R5bGU9InRleHQtYWxpZ246IHJpZ2h0OyI+PHNw
+YW4gc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+MTMyMSBVcGxhbmQgRHIgNDM5OSBIb3VzdG9uLCBU
+WCA3NzA0Mzwvc3Bhbj48L2gzPgo8L2Rpdj4KPHA+PGltZyBzcmM9Imh0dHA6Ly9jZG4ua2VzdG8u
+b3JnL2VvLnBocD9rPTE1MTAma2M9MzcyNzQ3MiZrcz0wJmtmPTAmcGM9MjE1NiZ0MT1kZWZhdWx0
+JnQyPSZ0Mz0mdDQ9JnU9JnUyPSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgLz48L3A+
+
+---_-_-806177e016ba3788__0458e5abcb72925e24e4f0_-_---

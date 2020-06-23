@@ -1,0 +1,167 @@
+Return-Path: <SRS0=JI49tZ=2Z=mail.aaircool.best=5806-2982-85526-1563-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 28176 invoked from network); 4 Jan 2020 10:09:32 -0000
+Received: (qmail 23059 invoked from network); 4 Jan 2020 10:09:31 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Jan 2020 10:09:31 -0000
+Received: (qmail 9813 invoked by uid 48516); 4 Jan 2020 10:09:31 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 3505 invoked from network); 4 Jan 2020 10:09:31 -0000
+Received: from eros.aaircool.best (twi6ods49.twilightone.website [170.130.172.194])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 04 Jan 2020 10:09:30 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=aaircool.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=RedLaser@aaircool.best;
+ bh=akc6ea8zLYjfP/Rv7UqKWxriiSM=;
+ b=szEehdo+3priVMErs2yLyHPIq0Su2cql5fGrLf3lJGCvLX3RVg627wKvIQYmWtkRq83ClAuQym+Y
+   be3LoIQzUgoTdHpXkXeSObEc2X7byQL1Oxpf8asEFjDmbyR0Pfj5XjJwsuGeoXIHO2U4G63uGGoJ
+   QENZ1DAWvMbhsemC1nU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=aaircool.best;
+ b=LncIbddmD43mFcKODiB99JXetUVRYRKjgFf/b2Ay140ztim1QM/ctFlhp5NAdR7g8+Nkx/35xJsp
+   XCZbcbrSaIEl0t1486vibrc5My+6+NJlPRn1MzOYSWdGjdrm44BciAqhimt9wE/5c4zrJozXjg/D
+   FgO9fahPaDrEXDq6LuI=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="045c5de9fa85d7f6714ed9f462cbe9db_ba6_14e16"
+Date: Sat, 4 Jan 2020 04:38:02 -0500
+From: "Red Laser"<RedLaser@aaircool.best>
+Reply-To: "Laser Sight"<RedLaser@aaircool.best>
+Subject: Gun Laser BLOWOUT
+To: <bruce@untroubled.org>
+Message-ID: <8wifniwliegftnju-ta6yiru03bmjl1g6-ba6-14e16@aaircool.best>
+Content-Length: 12215
+
+--045c5de9fa85d7f6714ed9f462cbe9db_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Gun Laser BLOWOUT
+
+http://aaircool.best/GfdbkCNmPjVOOvfYV3jw5woaM7MEHhxmxMu9y5G0IPUL3-Y9
+
+http://aaircool.best/i4yPRROObh9398LAvSHBVQBZRSQB32JVhiogckRJeKQsuwqb
+
+As an organization, SFWA acts as an advocate to effect important changes within the publishing industry, especially among publishers of science fiction and fantasy, by promoting author-friendly copyright legislation, equitable treatment of authors, and fair contract terms.
+Writer Beware
+
+SFWA sponsors Writer Beware, whose mission is to track, expose, and raise awareness of the prevalence of fraud and other questionable activities in and around the publishing industry. Writer Beware consists of the Writer Beware website, which provides the latest information on literary schemes, scams, and pitfalls; the Writer Beware blog, which provides up-to-the-minute information on specific scams and schemes, along with advice for writers and industry news and commentary; and the Writer Beware Facebook page, which posts links to articles, news items, and warnings of interest to writers, and provides a forum for discussion. Writer Beware receives the support of the Mystery Writers of America and the Horror Writers Association.
+
+Writer Beware maintains an extensive database of complaints on questionable literary agents, publishers, independent editors, writers’ services, contests, publicity services, and others, and offers a free research and information service for writers. Writer Beware staff assist law enforcement agencies with investigations of literary fraud, and have been instrumental in the convictions of several literary scammers.
+Griefcom
+
+Griefcom, or the Grievance Committee, is formed of member volunteers who undertake to mediate writer disputes and grievances between member writers and their publishers.
+Emergency Medical Fund
+
+SFWA's Emergency Medical Fund was established to assist eligible writers who have unexpected medical expenses.
+Legal Fund
+
+SFWA's Legal Fund was established to create loans for eligible member writers who have writing-related court costs and other related legal expenses.
+Estate Project
+
+Founded by longtime SFWA member Bud Webster, the Estate Project is now headed by Mishell Baker. It maintains a list of the estates of deceased SFWA member writers and coordinates with living member writers to make arrangements for their future estates. The Estate Project also accumulates information about authors' archives for member writers, living or dead.29.
+
+--045c5de9fa85d7f6714ed9f462cbe9db_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://aaircool.best/1HancOog89u8zgGn8WoMO8aO-ORm6rpuCbSdEJR4r03eQXxa"><img src="http://aaircool.best/4446b8bd6537023c61.jpg" /><img height="1" src="http://www.aaircool.best/LsrSvzPFrGRf-sF-7G9YI2fm_RrujS9Eq1cz8U5IR3BbZcuY" width="1" /></a>
+<div style="margin:0;padding:0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;margin:0;padding:0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="max-width:590px;min-width:285px;margin:0px;padding-left:4px;padding-right:4px">
+				<tbody>
+					<tr>
+						<td>
+						<table cellpadding="0" cellspacing="0" style="border:1px solid #eee;border-radius:5px" width="100%">
+							<tbody>
+								<tr>
+									<td height="5" style="font-size:5px;line-height:5px">&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="font-family:arial,sans-serif;font-size:17px;line-height:24px;color:#2a2a2a;padding:12px">
+									<h1 style="font-family:Arial;text-align:center"><span id="m_-5550736722006641383email_" name="email_" style="text-decoration-line:underline"><em>100% FREE</em></span></h1>
+
+									<h1 style="font-family:Arial;text-align:center"><span id="m_-5550736722006641383email_2" name="email_2" style="color:#ff0000"><strong><em>RED LASER SIGHT</em></strong></span></h1>
+
+									<p style="font-family:Arial;font-size:19px">We found<strong> 24 more red laser sights</strong> in our old warehouse that we need to get rid of, and...</p>
+
+									<p style="font-family:Arial;font-size:19px"><span id="m_-5550736722006641383email_3" name="email_3" style="text-decoration-line:underline"><em><strong><span id="m_-5550736722006641383email_4" name="email_4" style="font-weight:400">Since you are one of our past customers we&#39;re going to send you a </span><a href="http://aaircool.best/GfdbkCNmPjVOOvfYV3jw5woaM7MEHhxmxMu9y5G0IPUL3-Y9" id="m_-5550736722006641383auto_assign_link_num_2" name="m_-5550736722006641383_knownconnect aff_c offer_id 8354 aff_id 1411 " target="_blank">red laser sight for FREE<span id="m_-5550736722006641383email_5" name="email_5" style="font-weight:400">.</span></a></strong></em></span></p>
+
+									<p style="font-family:Arial;font-size:19px">It works with any gun!</p>
+
+									<p style="font-family:Arial;font-size:19px">The payment for your laser sight is<strong>100% covered</strong>by us...</p>
+
+									<p style="font-family:Arial;font-size:19px">All you have to do is give us your permission so we can send your free laser sight right to your door:</p>
+
+									<h1 style="font-family:Arial;text-align:center"><br />
+									<span id="m_-5550736722006641383email_6" name="email_6" style="text-decoration-line:underline"><em>&gt;&gt;<a href="http://aaircool.best/GfdbkCNmPjVOOvfYV3jw5woaM7MEHhxmxMu9y5G0IPUL3-Y9" id="m_-5550736722006641383auto_assign_link_num_3" name="m_-5550736722006641383_knownconnect aff_c offer_id 8354 aff_id 1411  2" target="_blank">Yes, I Accept!</a>&lt;&lt;</em></span></h1>
+
+									<p style="font-family:Arial;font-size:19px;text-align:center"><span id="m_-5550736722006641383email_7" name="email_7" style="background-color:#ffff99"><strong><em>No</em></strong><strong><em>Trials,</em></strong><strong><em>No</em></strong><strong><em>&quot;Click-Tricks&quot;,</em></strong><strong><em>No</em></strong><strong><em>Hidden Fees,</em></strong><strong><em>No</em></strong><strong><em>Bullshit!</em></strong></span></p>
+
+									<p style="font-family:Arial;font-size:19px;text-align:center"><span id="m_-5550736722006641383email_8" name="email_8" style="text-decoration-line:underline"><em><strong><a href="http://aaircool.best/GfdbkCNmPjVOOvfYV3jw5woaM7MEHhxmxMu9y5G0IPUL3-Y9" id="m_-5550736722006641383auto_assign_link_num_4" name="m_-5550736722006641383_knownconnect aff_c offer_id 8354 aff_id 1411  3" target="_blank"><img alt="" height="203" src="http://aaircool.best/60b742190b9115524a.png" width="568" /></a></strong></em></span><br />
+									&nbsp;</p>
+
+									<p style="font-family:Arial;font-size:19px"><strong>Red Laser Sight Specifications:</strong></p>
+
+									<ul style="font-family:Arial;font-size:19px">
+										<li><strong>Range:</strong>330ft/100m</li>
+										<li><strong>Fits:</strong>20mm Standard Weaver and Picatinny rails</li>
+										<li><strong>Made From:</strong>High quality, shock-proof aluminum alloy</li>
+										<li><strong>Adjustable</strong>for the windage and elevation, easy control of the switch and screws</li>
+										<li><strong>Works with any kind of firearm:</strong>Handguns, rifles, shotguns... even BB guns, paintball guns, and airsoft pistols and rifles.</li>
+									</ul>
+
+									<p style="font-family:Arial;font-size:19px">One of these puppies to your gun could save your life if you ever have a night-time home invasion or need to shoot a bullseye in the dark...</p>
+
+									<p style="font-family:Arial;font-size:19px">Plus you&#39;ll be able to out-shoot all your friends at the range.</p>
+
+									<p style="font-family:Arial;font-size:19px">Just enter your address on the next page so we can send you your FREE red laser sight:</p>
+
+									<p style="font-family:Arial;font-size:19px"><strong>&gt;&gt;</strong><a href="http://aaircool.best/GfdbkCNmPjVOOvfYV3jw5woaM7MEHhxmxMu9y5G0IPUL3-Y9" id="m_-5550736722006641383auto_assign_link_num_5" name="m_-5550736722006641383_knownconnect aff_c offer_id 8354 aff_id 1411  4" target="_blank"><strong>Click here to enter your address.</strong></a></p>
+
+									<p style="font-family:Arial;font-size:19px">Keeping you geared up,</p>
+									<br />
+									<a href="http://aaircool.best/GfdbkCNmPjVOOvfYV3jw5woaM7MEHhxmxMu9y5G0IPUL3-Y9" id="m_-5550736722006641383auto_assign_link_num_1" name="m_-5550736722006641383_knownconnect aff_c offer_id 7773 aff_id 1411 " style="color:#2a2a2a;text-decoration:none" target="_blank">~Survival John </a><br />
+									<br />
+									&nbsp;
+									<p style="font-family:Arial;font-size:19px"><a href="http://aaircool.best/GfdbkCNmPjVOOvfYV3jw5woaM7MEHhxmxMu9y5G0IPUL3-Y9" id="m_-5550736722006641383auto_assign_link_num_6" name="m_-5550736722006641383_knownconnect aff_c offer_id 8354 aff_id 1411  5" target="_blank"><img alt="" height="200" src="http://aaircool.best/cf2a00ef16b4a47018.png" style="display:block;margin-left:auto;margin-right:auto" width="572" /></a></p>
+
+									<p style="font-family:Arial;font-size:19px">&nbsp;</p>
+									</td>
+								</tr>
+								<tr>
+									<td height="25">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" style="color:#2a2a2a;font-family:open sans,arial,sans-serif;font-size:14px;padding:35px 22px;line-height:22px">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://aaircool.best/gDbkvioY-U8Ed99Tdr3NKsX7rrsi5RQkkZjFRgGnJHldZxK_"><img src="http://aaircool.best/e00dc7991fb64e6fa7.jpg" /></a></center>
+</div>
+<span style="color:#FFFFFF;font-size:6px;"> As an organization, SFWA acts as an advocate to effect important changes within the publishing industry, especially among publishers of science fiction and fantasy, by promoting author-friendly copyright legislation, equitable treatment of authors, and fair contract terms. Writer Beware SFWA sponsors Writer Beware, whose mission is to track, expose, and raise awareness of the prevalence of fraud and other questionable activities in and around the publishing industry. Writer Beware consists of the Writer Beware website, which provides the latest information on literary schemes, scams, and pitfalls; the Writer Beware blog, which provides up-to-the-minute information on specific scams and schemes, along with advice for writers and industry news and commentary; and the Writer Beware Facebook page, which posts links to articles, news items, and warnings of interest to writers, and provides a forum for discussion. Writer Beware receives the support of the Mystery Writers of America and the Horror Writers Association. Writer Beware maintains an extensive database of complaints on questionable literary agents, publishers, independent editors, writers&rsquo; services, contests, publicity services, and others, and offers a free research and information service for writers. Writer Beware staff assist law enforcement agencies with investigations of literary fraud, and have been instrumental in the convictions of several literary scammers. Griefcom Griefcom, or the Grievance Committee, is formed of member volunteers who undertake to mediate writer disputes and grievances between member writers and their publishers. Emergency Medical Fund SFWA&#39;s Emergency Medical Fund was established to assist eligible writers who have unexpected medical expenses. Legal Fund SFWA&#39;s Legal Fund was established to create loans for eligible member writers who have writing-related court costs and other related legal expenses. Estate Project Founded by longtime SFWA member Bud Webster, the Estate Project is now headed by Mishell Baker. It maintains a list of the estates of deceased SFWA member writers and coordinates with living member writers to make arrangements for their future estates. The Estate Project also accumulates information about authors&#39; archives for member writers, living or dead.29. </span></body>
+</html>
+
+--045c5de9fa85d7f6714ed9f462cbe9db_ba6_14e16--

@@ -1,0 +1,67 @@
+Return-Path: <HarrysQualityRazors-bruce=untroubled.org@himachalpradeshindia.com>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11915 invoked from network); 30 Jan 2020 19:41:55 -0000
+Received: (qmail 71487 invoked by uid 222); 30 Jan 2020 19:41:55 -0000
+Return-Path: <HarrysQualityRazors-bruce=untroubled.org@himachalpradeshindia.com>
+Delivered-To: virtmail-bruce@untroubled.org
+Received: (qmail 71484 invoked from network); 30 Jan 2020 19:41:54 -0000
+Received: from wiza.himachalpradeshindia.com (wiza.himachalpradeshindia.com [104.168.237.160])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 30 Jan 2020 19:41:54 -0000
+Received: by wiza.himachalpradeshindia.com id h6coo60001gc for <bruce@untroubled.org>; Thu, 30 Jan 2020 19:06:19 +0000 (envelope-from <HarrysQualityRazors-bruce=untroubled.org@himachalpradeshindia.com>)
+Date: Thu, 30 Jan 2020 19:06:19 +0000
+From: Harry's Quality Razors <HarrysQualityRazors@himachalpradeshindia.com>
+Reply-To: HarrysQualityRazors@himachalpradeshindia.com
+To: bruce@untroubled.org
+Message-Id: <5aea0185-5fb2-4759-b0d0-c566da3e008c@himachalpradeshindia.com>
+Subject: =?utf-8?B?MTBNKyBndXlzIGFyZSBkb25lIG92ZXJwYXlpbmcgZm9yIHJhem9ycy4gQ2xhaW0geW91ciB0cmlhbCBvZmZlci4=?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-7dfe6d26995639315f841e__a4ad9f0c9b1d5b7e_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 2395
+
+---_-_-7dfe6d26995639315f841e__a4ad9f0c9b1d5b7e_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-7dfe6d26995639315f841e__a4ad9f0c9b1d5b7e_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PHAgc3R5bGU9InRleHQtYWxpZ246IHJpZ2h0OyI+PGEgaHJlZj0iaHR0cDovL2hpbWFjaGFscHJh
+ZGVzaGluZGlhLmNvbS9nTlB4VFVaNUlQT2QiPiZuYnNwOzwvYT48L3A+CjwhLS0KIHdlIG5lZWQg
+MWsgb2YgY2hhcmFjdGVycyBpbiB0aGUgaGVhZCB0byBwcmV2ZW50IGlPUyBkZXZpY2VzIGZyb20g
+ZGlzcGxheWluZyB0aGUgImRvd25sb2FkIHJlc3Qgb2YgbWVzc2FnZSIuLi4gbWVzc2FnZS4uLgog
+LS0+Cjx0YWJsZSBzdHlsZT0iYmFja2dyb3VuZDogI2ZmZjsiIGJvcmRlcj0iMCIgd2lkdGg9IjEw
+MCUiIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCIgYmdjb2xvcj0iI2ZmZiI+Cjx0Ym9k
+eT4KPHRyPgo8dGQgc3R5bGU9ImJhY2tncm91bmQ6ICNmZmZmZmY7IiBhbGlnbj0iY2VudGVyIiBi
+Z2NvbG9yPSIjZmZmZmZmIj4KPHRhYmxlIGlkPSJjb250YWluZXIiIHN0eWxlPSJ0ZXh0LWFsaWdu
+OiBsZWZ0OyB3aWR0aDogNjAwcHg7IG1hcmdpbjogMCBhdXRvOyBwYWRkaW5nOiAwOyIgYm9yZGVy
+PSIwIiB3aWR0aD0iNjAwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiIGFsaWduPSJj
+ZW50ZXIiPgo8dGJvZHk+Cjx0cj4KPHRkPgo8dGFibGUgaWQ9ImNvbnRlbnQiIHN0eWxlPSJ0ZXh0
+LWFsaWduOiBsZWZ0OyIgYm9yZGVyPSIwIiB3aWR0aD0iMTAwJSIgY2VsbHNwYWNpbmc9IjAiIGNl
+bGxwYWRkaW5nPSIwIiBhbGlnbj0iY2VudGVyIj4KPHRib2R5Pgo8dHI+Cjx0ZCBhbGlnbj0iY2Vu
+dGVyIj4KPGRpdiBjbGFzcz0ibm8tbW9iaWxlIj48YSBocmVmPSJodHRwOi8vaGltYWNoYWxwcmFk
+ZXNoaW5kaWEuY29tL1Bxc093eDJXbHBUVyI+IDxpbWcgY2xhc3M9ImF1dG8tc3R5bGUyIiBzcmM9
+Imh0dHA6Ly9oaW1hY2hhbHByYWRlc2hpbmRpYS5jb20vaW1hZ2VzL2YxZTUzMDQzYzFhZjgxNTdh
+NWQ3ZWQ2YTdlNzAyMWFkIiBhbHQ9IkhhcnJ5J3MgR3JlYXQgc2hhdmUuIEZhaXIgUHJpY2UuIiB3
+aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBib3JkZXI9IjAiIC8+PC9hPjwvZGl2Pgo8L3RkPgo8
+L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPgo8L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPgo8cD4m
+bmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZu
+YnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5i
+c3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJz
+cDs8L3A+CjxwPiZuYnNwOzwvcD4KPHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwPlRvIHJl
+bW92ZSB5b3Vyc2VsZiBmcm9tIGZ1dHVyZSBtYWlsaW5ncywgcGxlYXNlIDxhIGhyZWY9Imh0dHA6
+Ly9oaW1hY2hhbHByYWRlc2hpbmRpYS5jb20vWmdpRW1uc01iZkpRIj4gdW5zdWJzY3JpYmUgaGVy
+ZTwvYT48YnIgLz4gb3Igd3JpdGUgdG86IFBPIEJveCA1NjYgTmV3IFlvcmssIE5ZIDEwMDE0PC9w
+Pgo8L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPg==
+
+---_-_-7dfe6d26995639315f841e__a4ad9f0c9b1d5b7e_-_---

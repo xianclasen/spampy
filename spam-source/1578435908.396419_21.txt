@@ -1,0 +1,77 @@
+Return-Path: <SRS0=1Q1nPh=24=xviloy.date=tinnitus911.now-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 9947 invoked from network); 7 Jan 2020 19:23:37 -0000
+Received: (qmail 13698 invoked from network); 7 Jan 2020 19:23:36 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 19:23:36 -0000
+Received: (qmail 25959 invoked by uid 48516); 7 Jan 2020 19:23:36 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 24254 invoked from network); 7 Jan 2020 19:23:35 -0000
+Received: from mail.xviloy.date ([89.144.1.233])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 07 Jan 2020 19:23:35 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=xviloy.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=tinnitus911.now@xviloy.date;
+ bh=+qpWUmT/4XOIdBjteg3CbSIz9CE=;
+ b=gAuY/FZauHK8U5KqijdDe5RijSVAue16hnRgBJXOOkVf0bisSXVYgHNjTndSaEbOrNm3uiOKkY+n
+   o/RlA2emCicsjAyETRa1JCV7IbWTapiZeWyPSFQGuZnJY2tTG0AW1sfh5sa3EBY/7fKXbBbrEUxQ
+   ln9Tz+2wdI4NjgudTzA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=xviloy.date;
+ b=uL7eTRSGSI9gmA5MjJD6CRNEzwnFB7oqT0K3sPEjMwcHBKM5B6pt0UkPLzSouU8BPevCY9X+U4uE
+   oM/L4IClpaLJQXxSkvwVNxr0TCdV4SK5j07HnqKpTcSceu4PNx/rL+WhRGMU9qJ3XW9tq44ee+ib
+   Yf/07i/pM7G9+gnDrvg=;
+Received: by mail.xviloy.date id h2jdbe0001gp for <bruce@untroubled.org>; Tue, 7 Jan 2020 14:16:33 -0500 (envelope-from <tinnitus911.now-bruce=untroubled.org@xviloy.date>)
+Date: Tue, 7 Jan 2020 14:16:33 -0500
+From: "Tinnitus911 Now" <tinnitus911.now@xviloy.date>
+To:   <bruce@untroubled.org>
+Subject: The Truth About Tinnitus
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_127_993027768.1578424586419"
+List-Unsubscribe: <http://www.xviloy.date/cursory-railroad/eV45HB2395rv8Y911lwh11h3480s21HFv4GIf4rxvs4FhIHEsvZ11pR5ndnQRoC96IZ10Gu6JJ1cYj>
+Message-ID: <0.0.0.E.1D5C58EF95F2772.2CA118@mail.xviloy.date>
+Content-Length: 7404
+
+------=_Part_127_993027768.1578424586419
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>gusher</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.xviloy.date/pilfer-tunnels/6484q2395X8Os611te926p3480w21QFv4GIf4rxvs4FhIHEsvZ11nR5ndnQRoC96WkR1v05GXczY" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.xviloy.date/6835w23r95t7CaW12QDe929i3480z21zFv4GIf4rxvs4FhIHEsvZ11XR5ndnQRoC95z10vB6VlczY1/amplitudes-bewailing" style="border-width: 0px; border-style: solid; width: 81%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.xviloy.date/pilfer-tunnels/6484q2395X8Os611te926p3480w21QFv4GIf4rxvs4FhIHEsvZ11nR5ndnQRoC96WkR1v05GXczY">Do THIS &quot; simple 10 second trick&quot; to restore your hearing</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.xviloy.date/amplitudes-bewailing/6c06uUD2395R8jM612ee92t7m3480Z21rFv4GIf4rxvs4FhIHEsvZ11CR5ndnQRoC95k10ys5V@clY"><font color="#666666">Leave mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.xviloy.date/translate-restitution/d8c4b2395SxG8912Qe928SF3480i21bFv4GIf4rxvs4FhIHEsvZ11UR5ndnQRoC96XhZ1X06rl@UcY">Exit Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">6547 N Academy Blvd #2128</span>
+    <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</span>
+    <br /> &nbsp; 
+   </div> <span><style title="Damascus"><font color="Yarmouth"></style></font></span><style><small><small><style></style><big></big></small></style></small><span id="allegedly"></span><style color="Dodington"></style>
+  </center>   
+ <img src="http://www.xviloy.date/amplitudes-bewailing/2a66e2S39o5gJV8511me92aJ3480q21NFv4GIf4rxvs4FhIHEsvZ11vR5ndnQRoC96Fo10Ll5t3cYO" alt=""/></body>
+</html>
+
+------=_Part_127_993027768.1578424586419--
+

@@ -1,0 +1,155 @@
+Return-Path: <SRS0=LaaVQL=3D=dyney.date=diabetes_destroyer-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 894 invoked from network); 14 Jan 2020 16:55:32 -0000
+Received: (qmail 4548 invoked from network); 14 Jan 2020 16:55:31 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 16:55:31 -0000
+Received: (qmail 30310 invoked by uid 48516); 14 Jan 2020 16:55:30 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 3868 invoked from network); 14 Jan 2020 16:55:30 -0000
+Received: from mail.dyney.date (70-102-103-17.nca.lanset.com [70.102.103.17])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 14 Jan 2020 16:55:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=dyney.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=diabetes_destroyer@dyney.date;
+ bh=brgOd0KP8qlCJ3CcVzidXARDfC8=;
+ b=W+J2JclzT1f8579V+0IpA2ShEwt10AJTXGfSRpDbbMglPnC2tXyDqM9x2oCGA3oVw0rq1vbj52VD
+   MiSMrl2qBwmmIT5qb4w7E1BQYUD4/4KKmHgpQMmMGqjk1BqlNHPL+RjGC/nXf05nNLNH5FAQ1vZs
+   yT2STDtVCkUx43o/sG8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=dyney.date;
+ b=BrrqDpcGiGCAvuVkjZEDRAWaKbLQ2PnUwGzmOGdtuESHTQAjZv/OK3FY5fzQyhh6369ujQbVAz+V
+   tVaj4ScAC8WKnOysgBjFSQMesa/rjkT9yBaKJTckvacL8MvFAaNlB6tMQKAoED/GMlbkiJ/sfJia
+   f5WKqAyO6maXIxJvyo0=;
+Received: by mail.dyney.date id h3np820001g7 for <bruce@untroubled.org>; Tue, 14 Jan 2020 11:51:45 -0500 (envelope-from <diabetes_destroyer-bruce=untroubled.org@dyney.date>)
+Date: Tue, 14 Jan 2020 11:51:45 -0500
+From: "Diabetes Destroyer" <diabetes_destroyer@dyney.date>
+To:   <bruce@untroubled.org>
+Subject: Diabetes Breakthrough That Will Bankrupt Diabetes Industry
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_316_1195486456.1579020696845"
+List-Unsubscribe: <http://www.dyney.date/dc74G2395B8W_911SJV11G1a2fx21gFv4GIf4rxvs4FhIHEsvZ10YQZRRnQoj95M1rx06klHBWi/delegates-unsuitable>
+Message-ID: <0.0.0.23.1D5CAFAE783FC1E.5B5EF0@mail.dyney.date>
+Content-Length: 7332
+
+------=_Part_316_1195486456.1579020696845
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>comptrollers</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"letter-spacing: normal; text-indent: 0px; text-transform=
+: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; orphans: 2; widows: 2; font-family: =
+&quot; Sans Serif&quot; ; width: 565px; color: rgb(51, 51, 51); font-size: =
+13px; font-style: normal; font-weight: normal; white-space: normal; font-va=
+riant-ligatures: normal; font-variant-caps: normal; height: 421px; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 17px; height: 448px; " width=
+=3D"555">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 451px; " width=3D"551">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                 <div style=3D"color: rgb(0, 0, 0); line-height: normal; fo=
+nt-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                  <p><span style=3D"font-family:arial,helvetica,sans-serif;=
+ ">Watch how if you need to&nbsp; <span style=3D"color: black; "><span styl=
+e=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.dyney.date/meandering-temporal/9904A2395SH8T613a7YI262z1a2fn21bFv4GIf4rxvs4FhIHEsvZ10gQZRRnQoj95d1Bw05ulHiT" style=3D"color: rgb(0,=
+ 0, 255); font-weight: bold; ">regulate your blood pressure</a></span></spa=
+n>, your blood sugar, cholesterol, insulin resistance and you want your bod=
+y to automatically and healthily drop excess fat, fast? It will be the best=
+ time investment you can make in your health this year.</span></p>=20
+                  <p><span style=3D"font-family: &quot; Sans Serif&quot; ; =
+color: black; "><span style=3D"font-family: arial, sans-serif; font-size: 1=
+2.8px; font-style: normal; font-variant-ligatures: normal; font-variant-cap=
+s: normal; font-weight: 200; letter-spacing: normal; orphans: 2; text-align=
+: start; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: =
+rgb(255, 255, 255); color: rgb(0, 0, 0); "><span style=3D"font-size: 22px; =
+"><span style=3D"font-family: Times; "><span style=3D"line-height: 25.3px; =
+"><strong><span style=3D"font-family: arial, sans-serif; font-size: 12.8px;=
+ font-style: normal; font-variant-ligatures: normal; font-variant-caps: nor=
+mal; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-wi=
+dth: 0px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); "><spa=
+n style=3D"font-family: &quot; Sans Serif&quot; ; "><span style=3D"color: r=
+gb(0, 0, 255); "><a href=3D"http://www.dyney.date/meandering-temporal/9904A2395SH8T613a7YI262z1a2fn21bFv4GIf4rxvs4FhIHEsvZ10gQZRRnQoj95d1Bw05ulHiT"><img alt=3D"" src=3D"http://www.dyney.date/6655P2H395zU7Ca13E72F6v5w1a2fh21dFv4GIf4rxvs4FhIHEsvZ10WQZRRnQoj96tI10pQ6hlXHi1/envy-primitives" s=
+tyle=3D"display: block; margin-left: auto; margin-right: auto; width: 351px=
+; height: 233px; " /></a></span></span></span></strong></span></span></span=
+></span></span></p>=20
+                  <p><span style=3D"font-family:arial,helvetica,sans-serif;=
+ ">This 100% natural treatment, which&nbsp; <span style=3D"color: black; ">=
+<span style=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.dyney.date/meandering-temporal/9904A2395SH8T613a7YI262z1a2fn21bFv4GIf4rxvs4FhIHEsvZ10gQZRRnQoj95d1Bw05ulHiT" style=3D"col=
+or: rgb(0, 0, 255); font-weight: bold; ">naturally fights diabetes</a></spa=
+n></span>, has stunned doctors &amp; got the attention of over 260,391 peop=
+le to transform their lives.<br /> <br /> If you or anyone you care about i=
+s suffering from diabetes you must&nbsp; <span style=3D"color: black; "><sp=
+an style=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.dyney.date/meandering-temporal/9904A2395SH8T613a7YI262z1a2fn21bFv4GIf4rxvs4FhIHEsvZ10gQZRRnQoj95d1Bw05ulHiT" style=3D"color:=
+ rgb(0, 0, 255); font-weight: bold; ">watch this video now!</a></span></spa=
+n></span></p>=20
+                 </div>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <center>=20
+    <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; ">
+     <br />=20
+     <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif">&nbsp; <font color=3D"#666666">End </font><a href=3D"=
+http://www.dyney.date/5754p2395JN8h613Q7Nx263p1a2fl21RFv4GIf4rxvs4FhIHEsvZ10RQZRRnQoj96fw1_M06hqHWi@/limiting-drained"><font color=3D"#666666">Here</font></a>.<br /> PureHealth Research | =
+5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font><br /> <br=
+ /> Leave &nbsp; <a href=3D"http://www.dyney.date/d4f4S2395KW89z11Q7264q1a2fz21mFv4GIf4rxvs4FhIHEsvZ10wQZRRnQoj95d_10i5LAHiJ/Dusenbury-Candide"> Here</a></span>
+     <br />=20
+     <span style=3D"font-size:11px; "><span style=3D"color:#808080; ">13395=
+ Voyager Pkwy Ste 130 #634<br style=3D"caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal;=
+ font-weight: normal; letter-spacing: normal; orphans: auto; text-align: ce=
+nter; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span sty=
+le=3D"caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: nor=
+mal; font-weight: normal; letter-spacing: normal; text-align: center; text-=
+indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; =
+-moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; font-family: Helvetica; float: none; display: inline !important; "=
+>COLORADO SPRINGS CO 80921</span></span></span>
+     <br />=20
+     <br /> &nbsp;=20
+    </div> <span size="working"><span class="disarming"><style lang="Romulus"></span></span></style><span face="Libreville"></span><font id="dietitian"></font><span lang="rejoiced"></span>
+   </center>=20
+  </center>  =20
+ <img src=3D"http://www.dyney.date/Dusenbury-Candide/ada5kG2395m8qC511V7266O1a2f_21QFv4GIf4rxvs4FhIHEsvZ10nQZRRnQoj96q1_0xV5IJ@Hi" alt=3D""/></body>
+</html>
+
+------=_Part_316_1195486456.1579020696845--
+

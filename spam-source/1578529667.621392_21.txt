@@ -1,0 +1,39 @@
+Return-Path: <costa@cinematrix.jp>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 7211 invoked from network); 8 Jan 2020 18:36:22 -0000
+Received: (qmail 25573 invoked from network); 8 Jan 2020 18:36:22 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Jan 2020 18:36:22 -0000
+Received: (qmail 14523 invoked by uid 48516); 8 Jan 2020 18:36:21 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 13901 invoked from network); 8 Jan 2020 18:36:20 -0000
+Received: from hinaidori.co.jp (hinaidori.co.jp [60.43.233.115])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 08 Jan 2020 18:36:20 -0000
+Received: from User (unknown [74.208.22.193])
+	by hinaidori.co.jp (Postfix) with ESMTPA id 84B4AFC03AF2;
+	Thu,  9 Jan 2020 03:36:06 +0900 (JST)
+Reply-To: <wbfefft@aim.com>
+From: "WBF"<costa@cinematrix.jp>
+Subject: Good day to you.
+Date: Wed, 8 Jan 2020 18:36:15 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Length: 207
+
+Good day to you.
+
+We sent you an email yesterday about foundation project funding.
+
+Do let me know if you received it so further details can be advised.
+
+kindest regards,
+fred Anderson
+Email:wbfefft@aim.com

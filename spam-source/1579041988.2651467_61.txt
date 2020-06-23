@@ -1,0 +1,155 @@
+Return-Path: <SRS0=TIInrK=3D=atreg.buzz=diabetes_free-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 5280 invoked from network); 14 Jan 2020 20:03:47 -0000
+Received: (qmail 5779 invoked from network); 14 Jan 2020 20:03:47 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 20:03:47 -0000
+Received: (qmail 23369 invoked by uid 48516); 14 Jan 2020 20:03:46 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 6584 invoked from network); 14 Jan 2020 20:03:46 -0000
+Received: from mail.atreg.buzz (208-187-163-68.nca.datanoc.com [208.187.163.68])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 14 Jan 2020 20:03:45 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=atreg.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=diabetes_free@atreg.buzz;
+ bh=x9pv2qQBRQ1AeDc8c/wv2yjsHXM=;
+ b=R+EegQcJSNAszRJtulMHEWfZEUhehpHnG/vgU6aQ50+qtY1S8sswwwLmXS3DsIwkHr4Jt+WbOMHu
+   3S+1hOrZuaLKGfwYM6hKXJybZ7TYmaQ7AEzXf0c2ZaS5h3P1Q3EnOeLyaie9pJzYc3Zom0/w1ib7
+   Ocw4yIdsOSG57w/zt5E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=atreg.buzz;
+ b=glOoS3JiE15dAaCpg2rLv2E3Himx7z2Bf571QDz7jVq1YURxmULLP5KocnOW66OAlI/lmZzkJuf9
+   5pRfgGW/jcSOJ1CjBeyBr1bpsVOMg3hIOzQbsiBlgrGLOwNPer+KtKiMitUm/v4tXOKuTZVhYl3B
+   IrQBoxKgwbCWCiTAGWE=;
+Received: by mail.atreg.buzz id h3ofa20001gs for <bruce@untroubled.org>; Tue, 14 Jan 2020 14:57:01 -0500 (envelope-from <diabetes_free-bruce=untroubled.org@atreg.buzz>)
+Date: Tue, 14 Jan 2020 14:57:01 -0500
+From: "Diabetes Free" <diabetes_free@atreg.buzz>
+To:   <bruce@untroubled.org>
+Subject: MD: Do This Immediately if You Have Diabetes (It Works)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_226_1978080967.1579031819588"
+List-Unsubscribe: <http://www.atreg.buzz/deathly-oversees/a8Y5L23A95rnq8913l1Wkp1Dz1a34v21iFv4GIf4rxvs4FhIHEsvZ10tQvRRomok97bQyT10Y6HTlXHi>
+Message-ID: <0.0.0.19.1D5CB14C966BF7C.B1389@mail.atreg.buzz>
+Content-Length: 7363
+
+------=_Part_226_1978080967.1579031819588
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>unconsciousness</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"letter-spacing: normal; text-indent: 0px; text-transform=
+: none; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-str=
+oke-width: 0px; text-decoration: none; orphans: 2; widows: 2; font-family: =
+&quot; Sans Serif&quot; ; width: 565px; color: rgb(51, 51, 51); font-size: =
+13px; font-style: normal; font-weight: normal; white-space: normal; font-va=
+riant-ligatures: normal; font-variant-caps: normal; height: 421px; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 17px; height: 448px; " width=
+=3D"555">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 451px; " width=3D"551">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                 <div style=3D"color: rgb(0, 0, 0); line-height: normal; fo=
+nt-family: &quot; Sans Serif&quot; ; font-size: 22px; ">=20
+                  <p><span style=3D"font-family:arial,helvetica,sans-serif;=
+ ">Watch how if you need to&nbsp; <span style=3D"color: black; "><span styl=
+e=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.atreg.buzz/bc95H23C95RJ8S611Y727bL1a34A21UFv4GIf4rxvs4FhIHEsvZ10gQvRRomok95BlF105tBHik/cellists-signet" style=3D"color: rgb(0,=
+ 0, 255); font-weight: bold; ">regulate your blood pressure</a></span></spa=
+n>, your blood sugar, cholesterol, insulin resistance and you want your bod=
+y to automatically and healthily drop excess fat, fast? It will be the best=
+ time investment you can make in your health this year.</span></p>=20
+                  <p><span style=3D"font-family: &quot; Sans Serif&quot; ; =
+color: black; "><span style=3D"font-family: arial, sans-serif; font-size: 1=
+2.8px; font-style: normal; font-variant-ligatures: normal; font-variant-cap=
+s: normal; font-weight: 200; letter-spacing: normal; orphans: 2; text-align=
+: start; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: =
+rgb(255, 255, 255); color: rgb(0, 0, 0); "><span style=3D"font-size: 22px; =
+"><span style=3D"font-family: Times; "><span style=3D"line-height: 25.3px; =
+"><strong><span style=3D"font-family: arial, sans-serif; font-size: 12.8px;=
+ font-style: normal; font-variant-ligatures: normal; font-variant-caps: nor=
+mal; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-wi=
+dth: 0px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); "><spa=
+n style=3D"font-family: &quot; Sans Serif&quot; ; "><span style=3D"color: r=
+gb(0, 0, 255); "><a href=3D"http://www.atreg.buzz/bc95H23C95RJ8S611Y727bL1a34A21UFv4GIf4rxvs4FhIHEsvZ10gQvRRomok95BlF105tBHik/cellists-signet"><img alt=3D"" src=3D"http://www.atreg.buzz/cellists-signet/7ce4N2395g7_aX13D727CZeA1a34V21pFv4GIf4rxvs4FhIHEsvZ10hQvRRomok96io1C0o6cUHWi@" s=
+tyle=3D"display: block; margin-left: auto; margin-right: auto; width: 351px=
+; height: 233px; " /></a></span></span></span></strong></span></span></span=
+></span></span></p>=20
+                  <p><span style=3D"font-family:arial,helvetica,sans-serif;=
+ ">This 100% natural treatment, which&nbsp; <span style=3D"color: black; ">=
+<span style=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.atreg.buzz/bc95H23C95RJ8S611Y727bL1a34A21UFv4GIf4rxvs4FhIHEsvZ10gQvRRomok95BlF105tBHik/cellists-signet" style=3D"col=
+or: rgb(0, 0, 255); font-weight: bold; ">naturally fights diabetes</a></spa=
+n></span>, has stunned doctors &amp; got the attention of over 260,391 peop=
+le to transform their lives.<br /> <br /> If you or anyone you care about i=
+s suffering from diabetes you must&nbsp; <span style=3D"color: black; "><sp=
+an style=3D"color: rgb(0, 0, 255); "><a href=3D"http://www.atreg.buzz/bc95H23C95RJ8S611Y727bL1a34A21UFv4GIf4rxvs4FhIHEsvZ10gQvRRomok95BlF105tBHik/cellists-signet" style=3D"color:=
+ rgb(0, 0, 255); font-weight: bold; ">watch this video now!</a></span></spa=
+n></span></p>=20
+                 </div>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <center>=20
+    <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; ">
+     <br />=20
+     <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif">&nbsp; <font color=3D"#666666">End </font><a href=3D"=
+http://www.atreg.buzz/5cf5J2U395g8nI611w727cq1a34P21eFv4GIf4rxvs4FhIHEsvZ10tQvRRomok96o1J0XW6zyHXki/unravel-brew"><font color=3D"#666666">Here</font></a>.<br /> PureHealth Research | =
+5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font><br /> <br=
+ /> Leave &nbsp; <a href=3D"http://www.atreg.buzz/98f4w2395S8Cl911R727dy1a34z21GFv4GIf4rxvs4FhIHEsvZ10SQvRRomok95X10As6d0HLi1/precondition-firecracker"> Here</a></span>
+     <br />=20
+     <span style=3D"font-size:11px; "><span style=3D"color:#808080; ">13395=
+ Voyager Pkwy Ste 130 #634<br style=3D"caret-color: rgb(0, 0, 0); color: rg=
+b(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal;=
+ font-weight: normal; letter-spacing: normal; orphans: auto; text-align: ce=
+nter; text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-strok=
+e-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span sty=
+le=3D"caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: nor=
+mal; font-weight: normal; letter-spacing: normal; text-align: center; text-=
+indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; =
+-moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoratio=
+n: none; font-family: Helvetica; float: none; display: inline !important; "=
+>COLORADO SPRINGS CO 80921</span></span></span>
+     <br />=20
+     <br /> &nbsp;=20
+    </div> <small><big><style size="Josephson"></style><font lang="dangers"><span></small></font></span></big><font title="counterfeit"><big></font></big><small><span title="Pusey"></span></small><font><small></font></small>
+   </center>=20
+  </center>  =20
+ <img src=3D"http://www.atreg.buzz/precondition-firecracker/5765e239q5p8W5H12Fx727fx1a34x21BFv4GIf4rxvs4FhIHEsvZ10RQvRRomok97Dr1J0zk6EApH1i" alt=3D""/></body>
+</html>
+
+------=_Part_226_1978080967.1579031819588--
+

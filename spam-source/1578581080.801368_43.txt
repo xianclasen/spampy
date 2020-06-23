@@ -1,0 +1,97 @@
+Return-Path: <6073-2982-85526-1627-bruce=untroubled.org@mail.lumibadext.us>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 22840 invoked from network); 9 Jan 2020 08:43:43 -0000
+Received: (qmail 29457 invoked from network); 9 Jan 2020 08:43:42 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Jan 2020 08:43:42 -0000
+Received: (qmail 23924 invoked by uid 48516); 9 Jan 2020 08:43:42 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 32637 invoked from network); 9 Jan 2020 08:43:42 -0000
+Received: from line.lumibadext.us (jagdb0d60.jaguar-side.site [170.130.172.219])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 09 Jan 2020 08:43:38 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=lumibadext.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=RewardingPromos@lumibadext.us;
+ bh=6BsvXkPSGofGTKiknbMy5ZWBFLI=;
+ b=kR/Ksem/S5gWjAVPG6p7H67T7pq4dgbnEajuZVE6WdsL0ZFGdar6efsEdZ3Xeumc53R04Ne+3C87
+   bPhzkQwsmFl5tv/ytFXbGkz1Voqxci3NHibQEs8zIoUdkwp21oanN2Dyp1wMkEsbeCyiwWDmCxj1
+   +VkkzZBdHcBhoyZul4k=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=lumibadext.us;
+ b=0u/TMg1fxmhhLMb9+T2E45u3QOpThwFBeiVO+66LYXdl//eYj8MxwZYa3ejQq6C1hH5cliEldVu3
+   oouDUSR9LgZf2s9E1Uku6HX/Pl6SAIVaMmLvy++75WKucCoX1gB47xDkk2Qs3sLJwtn1quoBcstE
+   djzevnHIPC4xSWb+rBc=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="b58e6f7642f2dea853b3bbd60b10194d_ba6_14e16"
+Date: Thu, 9 Jan 2020 03:32:06 -0500
+From: "RewardingPromos" <RewardingPromos@lumibadext.us>
+Reply-To: "RewardingPromos" <RewardingPromos@lumibadext.us>
+Subject: Get your McDonalds gift card.
+To: <bruce@untroubled.org>
+Message-ID: <phgh1t6ganxrzkit-zw9f8mnn8m193966-ba6-14e16@lumibadext.us>
+Content-Length: 7573
+
+--b58e6f7642f2dea853b3bbd60b10194d_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Get your McDonalds gift card.
+
+http://lumibadext.us/BmWjTHpLsqK7teU3SGddlO1n9XYDOwRFVZGT2L-YleiyO2ae
+
+http://lumibadext.us/a7tMiSPeKwDA9h7kPbHZUxudeuzQgEyv_NHR7XUetpHERgCe
+
+The Somerset Levels have an area of about 160,000 acres (650 km2) and are bisected by the Polden Hills; the areas to the south are drained by the River Parrett, and the areas to the north by the rivers Axe and Brue. The Mendip Hills separate the Somerset Levels from the North Somerset Levels. The Somerset Levels consist of marine clay "levels" along the coast and inland peat-based "moors"; agriculturally, about 70 per cent is used as grassland and the rest is arable. Willow and teazel are grown commercially and peat is extracted.
+
+A Palaeolithic flint tool found in West Sedgemoor is the earliest indication of human presence in the area. The Neolithic people exploited the reed swamps for their natural resources and started to construct wooden trackways, including the world's oldest known timber trackway, the Post Track, dating from about 3800 BC. The Levels were the location of the Glastonbury Lake Village as well as two Lake villages at Meare Lake. Several settlements and hill forts were built on the natural "islands" of slightly raised land, including Brent Knoll and Glastonbury. In the Roman period sea salt was extracted and a string of settlements were set up along the Polden Hills. The discovery at Shapwick of 9,238 silver Roman coins, known as the Shapwick Hoard, was the second largest ever found from the time of the Roman Empire. A number of Saxon charters document the incorporation of areas of moor in estates. In 1685, the Battle of Sedgemoor was fought in the Bussex area of Westonzoyland at the conclusion of the Monmouth Rebellion.
+
+As a result of the wetland nature of the Levels, the area contains a rich biodiversity of national and international importance. It supports a vast variety of plant and bird species and is an important feeding ground for birds and includes 32 Sites of Special Scientific Interest, of which 12 are also Special Protection Areas. The area has been extensively studied for its biodiversity and heritage, and has a growing tourism industry.
+
+People have been draining the area since before the Domesday Book. In the Middle Ages, the monasteries of Glastonbury, Athelney and Muchelney were responsible for much of the drainage. The artificial Huntspill River was constructed during the Second World War as a reservoir, although it also serves as a drainage channel. The Sowy River between the River Parrett and King's Sedgemoor Drain was completed in 1972; water levels are managed by the Levels internal drainage boards. During 2009 and 2010 proposals to build a series of electricity pylons by one of two routes between Hinkley Point and Avonmouth, to transmit electricity from the proposed Hinkley Point C nuclear power station, attracted local opposition. Discussions have taken place concerning the possibility of obtaining World Heritage Site status for the Somerset Levels as a "cultural landscape". It was suggested that if this bid were successful it could improve flood control, but only if wetland fens were created again; the plans were abandoned in 2010.
+
+--b58e6f7642f2dea853b3bbd60b10194d_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body>
+<center>
+<div><br />
+<br />
+<a href="http://lumibadext.us/BmWjTHpLsqK7teU3SGddlO1n9XYDOwRFVZGT2L-YleiyO2ae" style="font-size:30px;font-family:Arial; color:blue; text-decoration:none;">Get your McDonalds gift card.</a><br />
+<br />
+<a href="http://lumibadext.us/BmWjTHpLsqK7teU3SGddlO1n9XYDOwRFVZGT2L-YleiyO2ae"><img src="http://lumibadext.us/c7941f6e8f389dd29f.jpg" style="box-shadow:0px 10px 10px 10px #CCC; border-radius:40px;" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://lumibadext.us/y4Js8ssd9RhdEFsrKfdf4oBocgb2AKuT3SqmeZ-Mt9ECev1A"><img src="http://lumibadext.us/91a24eab8689b807a1.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://lumibadext.us/a7tMiSPeKwDA9h7kPbHZUxudeuzQgEyv_NHR7XUetpHERgCe"><img src="http://lumibadext.us/47503de0f898c19ab8.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">The Somerset Levels have an area of about 160,000 acres (650 km2) and are bisected by the Polden Hills; the areas to the south are drained by the River Parrett, and the areas to the north by the rivers Axe and Brue. The Mendip Hills separate the Somerset Levels from the North Somerset Levels. The Somerset Levels consist of marine clay &quot;levels&quot; along the coast and inland peat-based &quot;moors&quot;; agriculturally, about 70 per cent is used as grassland and the rest is arable. Willow and teazel are grown commercially and peat is extracted. A Palaeolithic flint tool found in West Sedgemoor is the earliest indication of human presence in the area. The Neolithic people exploited the reed swamps for their natural resources and started to construct wooden trackways, including the world&#39;s oldest known timber trackway, the Post Track, dating from about 3800 BC. The Levels were the location of the Glastonbury Lake Village as well as two Lake villages at Meare Lake. Several settlements and hill forts were built on the natural &quot;islands&quot; of slightly raised land, including Brent Knoll and Glastonbury. In the Roman period sea salt was extracted and a string of settlements were set up along the Polden Hills. The discovery at Shapwick of 9,238 silver Roman coins, known as the Shapwick Hoard, was the second largest ever found from the time of the Roman Empire. A number of Saxon charters document the incorporation of areas of moor in estates. In 1685, the Battle of Sedgemoor was fought in the Bussex area of Westonzoyland at the conclusion of the Monmouth Rebellion. As a result of the wetland nature of the Levels, the area contains a rich biodiversity of national and international importance. It supports a vast variety of plant and bird species and is an important feeding ground for birds and includes 32 Sites of Special Scientific Interest, of which 12 are also Special Protection Areas. The area has been extensively studied for its biodiversity and heritage, and has a growing tourism industry. People have been draining the area since before the Domesday Book. In the Middle Ages, the monasteries of Glastonbury, Athelney and Muchelney were responsible for much of the drainage. The artificial Huntspill River was constructed during the Second World War as a reservoir, although it also serves as a drainage channel. The Sowy River between the River Parrett and King&#39;s Sedgemoor Drain was completed in 1972; water levels are managed by the Levels internal drainage boards. During 2009 and 2010 proposals to build a series of electricity pylons by one of two routes between Hinkley Point and Avonmouth, to transmit electricity from the proposed Hinkley Point C nuclear power station, attracted local opposition. Discussions have taken place concerning the possibility of obtaining World Heritage Site status for the Somerset Levels as a &quot;cultural landscape&quot;. It was suggested that if this bid were successful it could improve flood control, but only if wetland fens were created again; the plans were abandoned in 2010. </span></center>
+</body>
+</html>
+
+--b58e6f7642f2dea853b3bbd60b10194d_ba6_14e16--

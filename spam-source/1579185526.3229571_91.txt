@@ -1,0 +1,101 @@
+Return-Path: <SRS0=8FSjlb=3F=mail.carabineer.co=6467-9790-262549-1731-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 6842 invoked from network); 16 Jan 2020 08:38:59 -0000
+Received: (qmail 26233 invoked from network); 16 Jan 2020 08:38:58 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Jan 2020 08:38:58 -0000
+Received: (qmail 30827 invoked by uid 48516); 16 Jan 2020 08:38:58 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 24353 invoked from network); 16 Jan 2020 08:38:58 -0000
+Received: from papa.carabineer.co (client-23-254-225-240.hostwindsdns.com [23.254.225.240])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 16 Jan 2020 08:38:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=carabineer.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=CarInsurance@carabineer.co;
+ bh=bN+9Hcwlsvu5SBCgNepm2eEER/c=;
+ b=eOV3iUDNxyQOsrOIY8Gc+Kz8zHo2tysvcOADySjWcj1nKsW9svq3nyp2ZljbAyY1uDtBemLSqU9z
+   NxdwZX6rwvVl2CEik2r1BEkpJyvOoK2US0/fL9zf9JdUftVEUrEun9EWK9uuXYTnKh3Ka+TrHr1x
+   Ge+rRNDZhgDk9O33RYk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=carabineer.co;
+ b=CIP6PfvowrT1l5eQjjYyjKUNVnoEnVKpbk5sm5SDp1i4XZMUDIFqngHge37VsO4ZHBFBHoFYIzaW
+   SHyK7bXxhOlWnGyPlA6R8EuAYIcmNrth77dBd6dJCGRDQrbdUX6kRikUEyLPy7zob9Q/6y0m5Saw
+   31wIhJaAwb0yh5RPkY0=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="266f74ee9fe986e37f6f4d44f2dd6afb_263e_40195"
+Date: Thu, 16 Jan 2020 03:38:41 -0500
+From: "Car Insurance Info" <CarInsurance@carabineer.co>
+Reply-To: "Car Insurance Info" <CarInsurance@carabineer.co>
+Subject: One Stop Shop for Car Insurance
+To: <bruce@untroubled.org>
+Message-ID: <nefqwl9syta6nvfn-qy4yoqpgfz6hkpyh-263e-40195@carabineer.co>
+Content-Length: 8837
+
+--266f74ee9fe986e37f6f4d44f2dd6afb_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+One Stop Shop for Car Insurance
+
+http://carabineer.co/qaz9rt_AcGh-ygpujXWR9RjTzccQZNlgAOsoQLClAtHj3ASX
+
+http://carabineer.co/vTwIhZkIA1p0exRkDE5PZTepONWxdUaGx0iYND4n_YXsFzjd
+Leaves are the most important organs of most vascular plants. Green plants are autotrophic, meaning that they do not obtain food from other living things but instead create their own food by photosynthesis. They capture the energy in sunlight and use it to make simple sugars, such as glucose and sucrose, from carbon dioxide and water. The sugars are then stored as starch, further processed by chemical synthesis into more complex organic molecules such as proteins or cellulose, the basic structural material in plant cell walls, or metabolized by cellular respiration to provide chemical energy to run cellular processes. The leaves draw water from the ground in the transpiration stream through a vascular conducting system known as xylem and obtain carbon dioxide from the atmosphere by diffusion through openings called stomata in the outer covering layer of the leaf (epidermis), while leaves are orientated to maximize their exposure to sunlight. Once sugar has been synthesized, it needs to be transported to areas of active growth such as the plant shoots and roots. Vascular plants transport sucrose in a special tissue called the phloem. The phloem and xylem are parallel to each other, but the transport of materials is usually in opposite directions. Within the leaf these vascular systems branch (ramify) to form veins which supply as much of the leaf as possible, ensuring that cells carrying out photosynthesis are close to the transportation system.
+
+Typically leaves are broad, flat and thin (dorsiventrally flattened), thereby maximising the surface area directly exposed to light and enabling the light to penetrate the tissues and reach the chloroplasts, thus promoting photosynthesis. They are arranged on the plant so as to expose their surfaces to light as efficiently as possible without shading each other, but there are many exceptions and complications. For instance, plants adapted to windy conditions may have pendent leaves, such as in many willows and eucalyptss. The flat, or laminar, shape also maximizes thermal contact with the surrounding air, promoting cooling. Functionally, in addition to carrying out photosynthesis, the leaf is the principal site of transpiration, providing the energy required to draw the transpiration stream up from the roots, and guttation.
+
+Many gymnosperms have thin needle-like or scale-like leaves that can be advantageous in cold climates with frequent snow and frost. These are interpreted as reduced from megaphyllous leaves of their Devonian ancestors. Some leaf forms are adapted to modulate the amount of light they absorb to avoid or mitigate excessive heat, ultraviolet damage, or desiccation, or to sacrifice light-absorption efficiency in favor of protection from herbivory. For xerophytes the major constraint is not light flux or intensity, but drought. Some window plants such as Fenestraria species and some Haworthia species such as Haworthia tesselata and Haworthia truncata are examples of xerophytes. and Bulbine mesembryanthemoides.
+
+Leaves also function to store chemical energy and water (especially in succulents) and may become specialized organs serving other functions, such as tendrils of peas and other legumes, the protective spines of cacti and the insect traps in carnivorous plants such as Nepenthes and Sarracenia. Leaves are the fundamental structural units from which cones are constructed in gymnosperms (each cone scale is a modified megaphyll leaf known as a sporophyll):408 and from which flowers are constructed in flowering plants.:445
+
+--266f74ee9fe986e37f6f4d44f2dd6afb_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://carabineer.co/lEwtRNrLoXpMziDCLg5gcn-TAED2JQDziKacLSSCyj1Vj8Tq"><img src="http://carabineer.co/5110e72bf32754b09a.jpg" /><img height="1" src="http://www.carabineer.co/PDPmhQQ4M6zjS3Rc2LErRhBD_j3JKDr6o1ELxF3ibQo3lfo" width="1" /></a>
+<center><a href="http://carabineer.co/vTwIhZkIA1p0exRkDE5PZTepONWxdUaGx0iYND4n_YXsFzjd" style="font-size:30px;font-family:Arial;color:#1d5da7;font-weight:bold;">One Stop Shop for Car Insurance</a><br />
+<br />
+&nbsp;
+<div><a href="http://carabineer.co/vTwIhZkIA1p0exRkDE5PZTepONWxdUaGx0iYND4n_YXsFzjd"><img src="http://carabineer.co/43005a7d91c584de9f.jpg" style="border:3px solid #c20000;box-shadow:0px 0px 5px 5px #00d581;" /></a></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://carabineer.co/VtP7T8RAztET5gfiXhBa-bi8N_yAlTNJcg-9TfIQkY9ndpdc"><img src="http://carabineer.co/7e64e179278b57e693.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://carabineer.co/qaz9rt_AcGh-ygpujXWR9RjTzccQZNlgAOsoQLClAtHj3ASX"><img src="http://carabineer.co/04554cf43cd76d22a6.jpg" /></a><br />
+<br />
+<span style="color:#FFFFFF;">Leaves are the most important organs of most vascular plants. Green plants are autotrophic, meaning that they do not obtain food from other living things but instead create their own food by photosynthesis. They capture the energy in sunlight and use it to make simple sugars, such as glucose and sucrose, from carbon dioxide and water. The sugars are then stored as starch, further processed by chemical synthesis into more complex organic molecules such as proteins or cellulose, the basic structural material in plant cell walls, or metabolized by cellular respiration to provide chemical energy to run cellular processes. The leaves draw water from the ground in the transpiration stream through a vascular conducting system known as xylem and obtain carbon dioxide from the atmosphere by diffusion through openings called stomata in the outer covering layer of the leaf (epidermis), while leaves are orientated to maximize their exposure to sunlight. Once sugar has been synthesized, it needs to be transported to areas of active growth such as the plant shoots and roots. Vascular plants transport sucrose in a special tissue called the phloem. The phloem and xylem are parallel to each other, but the transport of materials is usually in opposite directions. Within the leaf these vascular systems branch (ramify) to form veins which supply as much of the leaf as possible, ensuring that cells carrying out photosynthesis are close to the transportation system. Typically leaves are broad, flat and thin (dorsiventrally flattened), thereby maximising the surface area directly exposed to light and enabling the light to penetrate the tissues and reach the chloroplasts, thus promoting photosynthesis. They are arranged on the plant so as to expose their surfaces to light as efficiently as possible without shading each other, but there are many exceptions and complications. For instance, plants adapted to windy conditions may have pendent leaves, such as in many willows and eucalyptss. The flat, or laminar, shape also maximizes thermal contact with the surrounding air, promoting cooling. Functionally, in addition to carrying out photosynthesis, the leaf is the principal site of transpiration, providing the energy required to draw the transpiration stream up from the roots, and guttation. Many gymnosperms have thin needle-like or scale-like leaves that can be advantageous in cold climates with frequent snow and frost. These are interpreted as reduced from megaphyllous leaves of their Devonian ancestors. Some leaf forms are adapted to modulate the amount of light they absorb to avoid or mitigate excessive heat, ultraviolet damage, or desiccation, or to sacrifice light-absorption efficiency in favor of protection from herbivory. For xerophytes the major constraint is not light flux or intensity, but drought. Some window plants such as Fenestraria species and some Haworthia species such as Haworthia tesselata and Haworthia truncata are examples of xerophytes. and Bulbine mesembryanthemoides. Leaves also function to store chemical energy and water (especially in succulents) and may become specialized organs serving other functions, such as tendrils of peas and other legumes, the protective spines of cacti and the insect traps in carnivorous plants such as Nepenthes and Sarracenia. Leaves are the fundamental structural units from which cones are constructed in gymnosperms (each cone scale is a modified megaphyll leaf known as a sporophyll):408 and from which flowers are constructed in flowering plants.:445</span></center>
+</body>
+</html>
+
+--266f74ee9fe986e37f6f4d44f2dd6afb_263e_40195--

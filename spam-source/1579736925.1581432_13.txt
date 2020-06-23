@@ -1,0 +1,151 @@
+Return-Path: <SRS0=iAerfh=3L=netflixsnd.com=daugherty@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 4187 invoked from network); 22 Jan 2020 18:37:54 -0000
+Received: (qmail 29051 invoked from network); 22 Jan 2020 18:37:53 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 18:37:53 -0000
+Received: (qmail 3791 invoked by uid 48516); 22 Jan 2020 18:37:52 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 16785 invoked from network); 22 Jan 2020 18:37:52 -0000
+Received: from netflixsnd.com (69-94-130-31.nca.lanset.com [69.94.130.31])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 22 Jan 2020 18:37:52 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=netflixsnd.com; s=dkim;
+	t=1579715860; bh=1tKbt2K9cVT4lSd7VyVQyjQQtk4=;
+	h=To:Subject:Message-ID:Date:From;
+	b=wp6jSv3W0ib3Hbdj2sWO9ALyqeiB8E8daYyU1JFf25fnDq3IynN1yW0Bd9pH0dZvV
+	 IhA5XC/4JneulZY1gVkDgNmlyjZPQFm+RXRaqCa/YEnEy2/K0XKWf3PJDl2Jq7sfdP
+	 6OMpNtwgcbhQvX5qGrtgYa8YKN8EQYKIHWt6d7Rs=
+To: "bruce@untroubled.org" <bruce@untroubled.org> 
+Subject: Could you save if you switch auto insurance providers? 
+MIME-Version: 1.0 
+Message-ID: <hafK9F997E05ckw.ljfWC0RM5636ywu@netflixsnd.com> 
+Date: Wed, 22 Jan 2020 12:57:40 -0500 
+List-Unsubscribe: <http://aixT1W418L7Epgf.netflixsnd.com/1987edad61064f75076e59b11_148d285e/3/> 
+From: "Provide Insurance – Auto Insurance Quotes" <daugherty@netflixsnd.com> 
+Content-type: multipart/alternative; boundary="---=_Part_25_220V11.RYA0";
+Content-Length: 8761
+
+-----=_Part_25_220V11.RYA0
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Could you save if you switch auto insurance providers?
+
+http://bvhYQR2HCS84hfs.netflixsnd.com/20850c1de4f64f75076e59b116ce1117_148d285e-0101080b0001/1/
+
+Could you save if you switch auto insurance providers?
+
+-----=_Part_25_220V11.RYA0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+? <html>
+<head>
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+ body {background: #e6e6e6; font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; margin: 0; padding: 0;}
+
+ @media only screen and (max-width: 599px) {
+ /* responsive framework */
+ .flex100 {width: 100% !important; height: auto !important; clear: both !important;}
+ .flex95 {width: 95% !important; height: auto !important; clear: both !important;}
+ .flex90 {width: 90% !important; height: auto !important; clear: both !important;}
+ .flex75 {width: 75% !important; height: auto !important; clear: both !important;}
+ /* toggle element on+off for mobile */
+ .mobile_show {display:block !important; visibility:visible !important; width:100% !important; font-size:inherit !important; line-height:inherit !important; height:auto !important; margin:auto !important; max-height:inherit !important; overflow:auto !important; mso-hide:none !important;}
+ .mobile_hide {display:none !important; visibility:hidden !important; width:0px !important; height:0px !important; max-height:0px !important; overflow:hidden !important; mso-hide:all !important; border:none !important; font-size:0 !important; line-height:0 !important; padding:0 !important;}
+ }
+</style>
+</head>
+<body style="background: #e6e6e6; font-family: 'Avenir', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5;">
+<a class="flex100" href="http://ijt1XG7E4JTWnmq.netflixsnd.com/20850c1de4f64f75076e59b116ce1117_148d285e-0101080b0001/1/" style="border: 0 !important; color: inherit !important; color: #000000; display: block !important; margin: 0 auto !important; text-decoration: none !important; width: 600px">
+<table align="center" cellpadding="0" cellspacing="0">
+ <tr><td height="10" style="font-size: 0px; line-height: 0px;"> </td></tr>
+</table>
+<table class="flex95" width="600" align="center" bgcolor="#192E59" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 600px !important; -webkit-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); -moz-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); box-shadow: 0 5px 10px -8px rgba(0,0,0,1);">
+ <tr>
+ <td align="center">
+ <table width="90%" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 90% !important;">
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 2.2em; line-height: 1.2; color: #ffffff; font-weight: bold; text-align: left; text-transform: uppercase;">
+ Don't Overpay!
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ </table>
+ </td>
+ </tr>
+</table>
+
+<table class="flex95" width="600" align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 600px !important; -webkit-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); -moz-box-shadow: 0 5px 10px -8px rgba(0,0,0,1); box-shadow: 0 5px 10px -8px rgba(0,0,0,1);">
+ <tr>
+ <td align="center"><img class="flex100" src="http://ibb0F6305GV6jef.netflixsnd.com/images/car-scenic-road.jpg" alt="" width="600" border="0" /></td>
+ </tr>
+ <tr>
+ <td align="center">
+ <table width="90%" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto; max-width: 90% !important;">
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 1.7em; line-height: 1.2; color: #192E59; font-weight: bold; text-align: center;">
+ Have you compared auto quotes lately?
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: 1.2em; color: #2e3435; text-align: center;">
+ Shopping around for auto insurance used to be hard, but Provide Insurance makes it easy. In just minutes, we use our consumer alignment technology to match you with top carriers at low rates.
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td align="center">
+ <table align="center" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="300" align="center" height="44" bgcolor="#192E59">
+ <a href="http://yax107M398W5ryi.netflixsnd.com/20850c1de4f64f75076e59b116ce1117_148d285e-0101080b0001/1/" target="_blank" style="display: block; color: #ffffff; font-size: 1.6em; line-height: 56px; font-weight: bold; text-decoration: none; text-transform: uppercase; white-space: nowrap;">
+ Find Rates
+ </a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td align="center">
+ <a href="http://vjpA27L666VEscc.netflixsnd.com/20850c1de4f64f75076e59b116ce1117_148d285e-0101080b0001/1/" target="blank" style="border: 0; text-decoration: none !important;">
+ <img src="http://knsU6DTM2ASNfmp.netflixsnd.com/images/provide-insurance-blue.png" alt="Provide Insurance" width="150" border="0" />
+ </a>
+ </td>
+ </tr>
+ <tr><td height="15" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ </table>
+ </td>
+ </tr>
+</table>
+</a>
+<table class="flex75" width="600" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto;">
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+ <tr>
+ <td style="font-size: .75em !important; text-align: center; color: #999999;">
+ © 2018 Provide Insurance | PO Box 425768 Cambridge, MA 02142 | <a href="http://bwp3U92X59LXmfc.netflixsnd.com/20835a662f764f75076e59b116cf1117_148d285e-0101080b0001/1/" style="color: #999999; white-space: nowrap;">Unsubscribe</a>
+ </td>
+ </tr>
+ <tr><td height="20" style="font-size: 0px; line-height: 0px;"> </td></tr>
+</table>
+<span style="color:#808080;"><span style="font-size: 0.15px;"><span style="font-family: arial,helvetica,sans-serif;">         Advertising     nomination for Best Supporting Actor                              Carriage Return AddingIthe conscious selfdwell somewhere in this body but where When my finger tips touch the object I wish to examine I seem to be in them When the brain grows weary from overstudy I seem to be in it When the heart throbs the breath comes quick and the muscles grow tense from noble resolve or strong emotion I seem to be in them all When filled with the buoyant life of vigorous youth every fiber and nerve is atingle with health and enthusiasm I live in every part of my marvelous body Small wonder that the ancients located the soul at one time in the heart at another in the pineal gland of the brain and at another made it coextensive with the bodyIt cost Charles VIII the counties of Burgundy Artois Charalais and the seigniory of Noyers which had come to him as Margarets dowry and also the towns of Aire Hesdin and Bethune which he promised to deliver up to Philip of Austria on the day he came of ageOn the right of this building a ruin from its cradle arose the Vatican a splendid Tower of Babel to which all the celebrated architects of the Roman school contributed their work for a thousand years at this epoch the two magnificent chapels did not exist nor the twelve great halls the twoandtwenty courts the thirty staircases and the two thousand bedchambers for Pope Sixtus V the sublime swineherd who did so many things in a five years reign had not yet been able to add the immense building which on the eastern side towers above the court of St Damasius still it was truly the old sacred edifice with its venerable associations in which Charlemagne received hospitality when he was crowned emperor by Pope Leo IIIIndeed the designs of Charles VIII for conquest were no longer for anybody a matter of doubt The young king had sent an embassy to the various Italian States composed of Perrone dei Baschi Brigonnet dAubigny and the president of the Provencal Parliament The mission of this embassy was to demand from the Italian princes their cooperation in recovering the rights of the crown of Naples for the house of Anjou</span>
+</body>
+</html>
+
+
+<center>
+
+
+<font face=verdana size=1>purge my email from your index <a href='http://ppq4972E2FB2ees.netflixsnd.com/1987edad61064f75076e59b11_148d285e/U/9979'>here</a> <br> 1500 Beville Rd STE 606 Box 10009, Daytona Beach, FL 32114
+<img src="http://ser34D31IBG3pmp.netflixsnd.com/208b95c23e664f75076e59b116198d0b_148d285e-0101080b0001/2/">
+
+-----=_Part_25_220V11.RYA0--

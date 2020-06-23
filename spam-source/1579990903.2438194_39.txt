@@ -1,0 +1,111 @@
+Return-Path: <SRS0=oL4MKu=3O=romanticgood.icu=email@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21987 invoked from network); 25 Jan 2020 19:29:37 -0000
+Received: (qmail 1192 invoked from network); 25 Jan 2020 19:29:36 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 25 Jan 2020 19:29:36 -0000
+Received: (qmail 30681 invoked by uid 48516); 25 Jan 2020 19:29:36 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 13936 invoked from network); 25 Jan 2020 19:29:35 -0000
+Received: from romanticgood.icu (host-193.17.6.90.routergate.com [193.17.6.90])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 25 Jan 2020 19:29:35 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=romanticgood.icu;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=email@romanticgood.icu;
+ bh=BNN/Zug5tSW8+1oAKgw4YtPbpOI=;
+ b=AlyC2gRTrEPj8PdnUZ46M1C4yibCoA0QnnNf4kBWs4QIJ5vGzwnmcqC7GQeXBdwan6asS+qlGJC5
+   YSxxCLuXxUKXhzZEtLlE1pnZrYlJoo6fLVD3pSNRAHm1dqn1uRlmwjYgpGOBxXS/wte6aAqVTuTl
+   JcEshzmBDLMgshgFsNU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=romanticgood.icu;
+ b=lZLA42SZBT/N4bbd2poPwsob8IWdLiiiGHWN5Htgvc65a9vvXPA71G3klJQUDdamhSRubkGHDubc
+   yZDoLXRDERYf64CylaZ4NjNLCHM2I6+3tWo+PWCphAR2mpxThZzhsXLuNm2ExsSwlrs8sAGgqqVl
+   hYX3hd0tW4e1OvbEKmI=;
+From: "Blood Sugar Formula" <email@romanticgood.icu>
+Date: Sat, 25 Jan 2020 14:23:35 -0500
+MIME-Version: 1.0
+Subject: The Diabetes Cure! Your Doctor =?ISO-8859-1?Q?ISN=E2=80=99T=20?=Telling You.
+To: <bruce@untroubled.org>
+Message-ID: <ZH49LlQmDbTAj-W7ogC7gsAZT30dre-MZMSN0RlGEAE.PkICM9UqOH4OQiBbEhUhpOh_QmAr4VT-vkyiTGYtOCY@romanticgood.icu>
+Content-Type: multipart/alternative;
+ boundary="------------759584098770413124886756"
+Content-Length: 3412
+
+This is a multi-part message in MIME format.
+--------------759584098770413124886756
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<http://www.romanticgood.icu/Jpkgcorouuk/hpjdrci108391srrcwh/zeu6V2xXUUDGJvABqrh7l-Sewe4984Q4pGtoye5c0uk/HyjkmW5PUTXmEIaBrSQx2PgsviKijyVlmcRh1QWLAMpBG6okrHpqWIM3xsoHQdeWeQYoGOdkh2m5TlZR5TTKW6azHvY8u-ugTtW_FVG48o1sLULxZPo5gBx-NNsU_2lnCJZR1on5Dp3UW5juqQYGskOkp8hrUvhAO3IIUMuBZ_Q>
+
+
+
+
+
+
+<http://www.romanticgood.icu/fnxxmoug/Q_ZBuMUII3OAhvUrh8pkOksGYQquj5WU3pD5no1RZJCnl2_UsNN-xBg5oPZxLULs1o84GVF_WtTgu-u8YvHza6WKTT5RZlT5m2hkdOGoYQeWedQHosx3MIWqpHrko6GBpMALWQ1hRcmlVyjiKivsgP2xQSrBaIEmXTUP5WmkjyH.ku0c5eyotGp4Q4894eweS-l7hrqBAvJGDUUXx2V6uez> 
+http://www.romanticgood.icu/Jpkgcorouuk/hpjdrcisrrcwh/zeu6V2xXUUDGJvABqrh7l-Sewe4984Q4pGtoye5c0uk/HyjkmW5PUTXmEIaBrSQx2PgsviKijyVlmcRh1QWLAMpBG6okrHpqWIM3xsoHQdeWeQYoGOdkh2m5TlZR5TTKW6azHvY8u-ugTtW_FVG48o1sLULxZPo5gBx-NNsU_2lnCJZR1on5Dp3UW5juqQYGskOkp8hrUvhAO3IIUMuBZ_Q
+
+--------------759584098770413124886756
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<p align="right">&nbsp;</p>
+
+
+
+
+
+<center>
+
+
+<h1><a href="http://www.romanticgood.icu/Jpkgcorouuk/hpjdrci108391srrcwh/zeu6V2xXUUDGJvABqrh7l-Sewe4984Q4pGtoye5c0uk/HyjkmW5PUTXmEIaBrSQx2PgsviKijyVlmcRh1QWLAMpBG6okrHpqWIM3xsoHQdeWeQYoGOdkh2m5TlZR5TTKW6azHvY8u-ugTtW_FVG48o1sLULxZPo5gBx-NNsU_2lnCJZR1on5Dp3UW5juqQYGskOkp8hrUvhAO3IIUMuBZ_Q"><img alt="" src="http://www.romanticgood.icu/mpwuib/dkwo40524apans/.jpg" style="width: 555px; height: 747px;" /></a></h1>
+
+
+</center>
+
+
+
+
+
+<center>
+
+
+<h3>&nbsp;</h3>
+
+
+
+
+
+<center><a href="http://www.romanticgood.icu/fnxxmoug/Q_ZBuMUII3OAhvUrh8pkOksGYQquj5WU3pD5no1RZJCnl2_UsNN-xBg5oPZxLULs1o84GVF_WtTgu-u8YvHza6WKTT5RZlT5m2hkdOGoYQeWedQHosx3MIWqpHrko6GBpMALWQ1hRcmlVyjiKivsgP2xQSrBaIEmXTUP5WmkjyH.ku0c5eyotGp4Q4894eweS-l7hrqBAvJGDUUXx2V6uez" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: -webkit-center;"><img src="http://www.romanticgood.icu/mpwuib/dkwo38972apans/.jpg" style="width: 607px; height: 74px;" /></a></center>
+
+
+
+
+
+<center>
+
+
+<center><a href="http://www.romanticgood.icu/aerivwt/Q_ZBuMUII3OAhvUrh8pkOksGYQquj5WU3pD5no1RZJCnl2_UsNN-xBg5oPZxLULs1o84GVF_WtTgu-u8YvHza6WKTT5RZlT5m2hkdOGoYQeWedQHosx3MIWqpHrko6GBpMALWQ1hRcmlVyjiKivsgP2xQSrBaIEmXTUP5WmkjyH.ku0c5eyotGp4Q4894eweS-l7hrqBAvJGDUUXx2V6uez" rel="nofollow" style="text-decoration:none;color:#003366;" target="_blank"><img src="http://www.romanticgood.icu/mpwuib/dkwo38715apans/.jpg" style="width: 561px; height: 88px;" usemap="#unsubscribe" /><map name="unsubscribe"><area alt="unsubscribe" coords="0,0,1000,1000" href="http://www.romanticgood.icu/Jpkgcorouuk/hpjdrci40522srrcwh/zeu6V2xXUUDGJvABqrh7l-Sewe4984Q4pGtoye5c0uk/HyjkmW5PUTXmEIaBrSQx2PgsviKijyVlmcRh1QWLAMpBG6okrHpqWIM3xsoHQdeWeQYoGOdkh2m5TlZR5TTKW6azHvY8u-ugTtW_FVG48o1sLULxZPo5gBx-NNsU_2lnCJZR1on5Dp3UW5juqQYGskOkp8hrUvhAO3IIUMuBZ_Q" shape="rect" /></map> </a></center>
+
+
+</center>
+
+
+</center>
+
+
+<img src="http://www.romanticgood.icu/Herqwihlu/zeu6V2xXUUDGJvABqrh7l-Sewe4984Q4pGtoye5c0uk/HyjkmW5PUTXmEIaBrSQx2PgsviKijyVlmcRh1QWLAMpBG6okrHpqWIM3xsoHQdeWeQYoGOdkh2m5TlZR5TTKW6azHvY8u-ugTtW_FVG48o1sLULxZPo5gBx-NNsU_2lnCJZR1on5Dp3UW5juqQYGskOkp8hrUvhAO3IIUMuBZ_Q" >
+
+
+</body>
+</html>
+
+--------------759584098770413124886756--

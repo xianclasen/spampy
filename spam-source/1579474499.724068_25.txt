@@ -1,0 +1,89 @@
+Return-Path: <SRS0=JZoxmo=3I=mail.medifoodgov.us=6627-2982-85526-1770-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 1699 invoked from network); 19 Jan 2020 09:00:30 -0000
+Received: (qmail 23620 invoked from network); 19 Jan 2020 09:00:29 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Jan 2020 09:00:29 -0000
+Received: (qmail 29443 invoked by uid 48516); 19 Jan 2020 09:00:29 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 6456 invoked from network); 19 Jan 2020 09:00:29 -0000
+Received: from arvada.medifoodgov.us (wee6ods55.weekalternative.website [170.130.172.218])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 19 Jan 2020 09:00:21 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=medifoodgov.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=BestObamaCare@medifoodgov.us;
+ bh=oZTf0Fmx0otodrjSNTZk/qB4J4Y=;
+ b=WwoMVkI21NWoR4e1xXHtaQe8vWy5xcvIQ3OS5uOJhd2SuXuVf0Ah9x22XoYhK5grUPpcZhTCSU0E
+   mVb5+c28lP5t7i1Ha3aKVPC0uRKseNE0qIyOQXbobebDkk19nucF79wShHxeEMYSV/+CfndzJj6Y
+   u4RBkAlPZgCdSoloz0Y=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=medifoodgov.us;
+ b=hDNBRpCPOsse4ZlqdBRlvEveqMSOpwc/L7x+SyRpcAd1UMsoKboZ82Z1Mqh6nydeabdvD5TQpudR
+   a1OM3KTClPnb3lwqAJfcM6EUePWRdQncX9eSc7JHncbpmYwCXRvPqn6tSCVq3c8Tu6bRFgFS8TTn
+   cT0qeigvmQ9/HdwJ0gw=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="e1df065a37628030e1b4645873896d60_ba6_14e16"
+Date: Sun, 19 Jan 2020 04:00:15 -0500
+From: "BestObamaCare" <BestObamaCare@medifoodgov.us>
+Reply-To: "BestObama" <BestObamaCare@medifoodgov.us>
+Subject: Could you be eligible for low- or no-cost health coverage?
+To: <bruce@untroubled.org>
+Message-ID: <p3heywhxni76015w-j5y6qpyh3lhtf9h7-ba6-14e16@medifoodgov.us>
+Content-Length: 7388
+
+--e1df065a37628030e1b4645873896d60_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Could you be eligible for low- or no-cost health coverage?
+
+http://medifoodgov.us/TtoYtMTNe3u0Taba-7FxEsfXWqjMQ-rt45SN79DFrz60cfDO
+
+http://medifoodgov.us/sa_uNwnQlrlc79FE37LzjxBhAK017Zymghv9z1FN9nzLu11m
+
+When Microsoft went public and launched its Initial Public Offering (IPO) in 1986, the opening stock price was $21; after the trading day, the price closed at $27.75. As of July 2010, with the company's nine stock splits, any IPO shares would be multiplied by 288; if one were to buy the IPO today, given the splits and other factors, it would cost about 9 cents.:235–236 The stock price peaked in 1999 at around $119 ($60.928, adjusting for splits). The company began to offer a dividend on January 16, 2003, starting at eight cents per share for the fiscal year followed by a dividend of sixteen cents per share the subsequent year, switching from yearly to quarterly dividends in 2005 with eight cents a share per quarter and a special one-time payout of three dollars per share for the second quarter of the fiscal year. Though the company had subsequent increases in dividend payouts, the price of Microsoft's stock remained steady for years.
+
+Standard & Poor's and Moody's Investors Service have both given a AAA rating to Microsoft, whose assets were valued at $41 billion as compared to only $8.5 billion in unsecured debt. Consequently, in February 2011 Microsoft released a corporate bond amounting to $2.25 billion with relatively low borrowing rates compared to government bonds. For the first time in 20 years Apple Inc. surpassed Microsoft in Q1 2011 quarterly profits and revenues due to a slowdown in PC sales and continuing huge losses in Microsoft's Online Services Division (which contains its search engine Bing). Microsoft profits were $5.2 billion, while Apple Inc. profits were $6 billion, on revenues of $14.5 billion and $24.7 billion respectively. Microsoft's Online Services Division has been continuously loss-making since 2006 and in Q1 2011 it lost $726 million. This follows a loss of $2.5 billion for the year 2010.
+
+On July 20, 2012, Microsoft posted its first quarterly loss ever, despite earning record revenues for the quarter and fiscal year, with a net loss of $492 million due to a writedown related to the advertising company aQuantive, which had been acquired for $6.2 billion back in 2007. As of January 2014, Microsoft's market capitalization stood at $314B, making it the 8th largest company in the world by market capitalization. On November 14, 2014, Microsoft overtook ExxonMobil to become the second most-valuable company by market capitalization, behind only Apple Inc. Its total market value was over $410B — with the stock price hitting $50.04 a share, the highest since early 2000. In 2015, Reuters reported that Microsoft Corp had earnings abroad of $76.4 billion which were untaxed by the Internal Revenue Service. Under U.S. law, corporations don't pay income tax on overseas profits until the profits are brought into the United States.
+
+--e1df065a37628030e1b4645873896d60_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://medifoodgov.us/L--OM2fKfEJXnIapEtR_MTVAJR7rOaSopi3nV-opI5bN5K4z"><img src="http://medifoodgov.us/c9a372e50491743596.jpg" /><img height="1" src="http://www.medifoodgov.us/0zWTWnJxnn7my8dLQruEJ6ISnPJsKxZxukm8U1qQh-dgIz0S" width="1" /></a>
+<center>
+<div><br />
+<br />
+<a href="http://medifoodgov.us/TtoYtMTNe3u0Taba-7FxEsfXWqjMQ-rt45SN79DFrz60cfDO" style="font-size:30px;font-family:Arial; color:blue; text-decoration:none;">Could you be eligible for low- or no-cost health coverage?</a><br />
+<br />
+<a href="http://medifoodgov.us/TtoYtMTNe3u0Taba-7FxEsfXWqjMQ-rt45SN79DFrz60cfDO"><img src="http://medifoodgov.us/ee85dcb2593dfa600e.jpg" style="border:5px solid #ffffff; box-shadow:0px 0px 5px 5px #888888; " /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://medifoodgov.us/3RYbEYDcnZLvppGMCg7CGiOCPqAPvBlNx5dvXWB4u1celSqD"><img src="http://medifoodgov.us/b219372ccc61ae0ef3.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://medifoodgov.us/sa_uNwnQlrlc79FE37LzjxBhAK017Zymghv9z1FN9nzLu11m"><img src="http://medifoodgov.us/10b08a916d19caea4e.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">When Microsoft went public and launched its Initial Public Offering (IPO) in 1986, the opening stock price was $21; after the trading day, the price closed at $27.75. As of July 2010, with the company&#39;s nine stock splits, any IPO shares would be multiplied by 288; if one were to buy the IPO today, given the splits and other factors, it would cost about 9 cents.:235&ndash;236 The stock price peaked in 1999 at around $119 ($60.928, adjusting for splits). The company began to offer a dividend on January 16, 2003, starting at eight cents per share for the fiscal year followed by a dividend of sixteen cents per share the subsequent year, switching from yearly to quarterly dividends in 2005 with eight cents a share per quarter and a special one-time payout of three dollars per share for the second quarter of the fiscal year. Though the company had subsequent increases in dividend payouts, the price of Microsoft&#39;s stock remained steady for years. Standard &amp; Poor&#39;s and Moody&#39;s Investors Service have both given a AAA rating to Microsoft, whose assets were valued at $41 billion as compared to only $8.5 billion in unsecured debt. Consequently, in February 2011 Microsoft released a corporate bond amounting to $2.25 billion with relatively low borrowing rates compared to government bonds. For the first time in 20 years Apple Inc. surpassed Microsoft in Q1 2011 quarterly profits and revenues due to a slowdown in PC sales and continuing huge losses in Microsoft&#39;s Online Services Division (which contains its search engine Bing). Microsoft profits were $5.2 billion, while Apple Inc. profits were $6 billion, on revenues of $14.5 billion and $24.7 billion respectively. Microsoft&#39;s Online Services Division has been continuously loss-making since 2006 and in Q1 2011 it lost $726 million. This follows a loss of $2.5 billion for the year 2010. On July 20, 2012, Microsoft posted its first quarterly loss ever, despite earning record revenues for the quarter and fiscal year, with a net loss of $492 million due to a writedown related to the advertising company aQuantive, which had been acquired for $6.2 billion back in 2007. As of January 2014, Microsoft&#39;s market capitalization stood at $314B, making it the 8th largest company in the world by market capitalization. On November 14, 2014, Microsoft overtook ExxonMobil to become the second most-valuable company by market capitalization, behind only Apple Inc. Its total market value was over $410B &mdash; with the stock price hitting $50.04 a share, the highest since early 2000. In 2015, Reuters reported that Microsoft Corp had earnings abroad of $76.4 billion which were untaxed by the Internal Revenue Service. Under U.S. law, corporations don&#39;t pay income tax on overseas profits until the profits are brought into the United States. </span></center>
+</body>
+</html>
+
+--e1df065a37628030e1b4645873896d60_ba6_14e16--

@@ -1,0 +1,103 @@
+Return-Path: <SRS0=bKA/II=3H=mail.medicfeets.us=6612-9790-262549-1764-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 18917 invoked from network); 18 Jan 2020 15:33:04 -0000
+Received: (qmail 20154 invoked from network); 18 Jan 2020 15:33:03 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 18 Jan 2020 15:33:03 -0000
+Received: (qmail 15628 invoked by uid 48516); 18 Jan 2020 15:33:03 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9557 invoked from network); 18 Jan 2020 15:33:03 -0000
+Received: from harvey.medicfeets.us (client-192-119-111-110.hostwindsdns.com [192.119.111.110])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 18 Jan 2020 15:32:56 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=medicfeets.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=TheLostBookOfRemedies@medicfeets.us;
+ bh=YRl00MrV084G4bYjpuNL4oVfqvE=;
+ b=ABkLon0cDeSLhbI3xdQBKcJkEknLllQLFZE+3CAtpL7DRoU5DsrAx3LfV97omEdQ7t7cPXWzI6m8
+   aHN66iuYsMqibqousJKDz6Nr+HgxRyn85BoBmCd5hIW/EtVQjoM7EzW72JSwv1pQGq5C72tpGaqh
+   nPhPymBlSzi0mMEPvz8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=medicfeets.us;
+ b=turenOsS8P1JahOnEkkEYddh6P+RzosWncQMFxPUL7aX0GQ6EJf094MLJeI5Hiw1nsWtNYSC6ETH
+   a6kQaq96oa0Kso/GQDl1Tq84nniUNn+dU5jqBuTNcZRlfsNueXCsN0lRpxQjGIFuYGr1wLv37LAW
+   MuPngJVdZfkXHWTAjKg=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="4fec8ecc36722cdd8d7f0dc9a86be797_263e_40195"
+Date: Sat, 18 Jan 2020 10:32:50 -0500
+From: "**The Lost Book Of Remedies**" <TheLostBookOfRemedies@medicfeets.us>
+Reply-To: "The Lost Book Of Remedies" <**TheLostBookOfRemedies**@medicfeets.us>
+Subject: Do You Recognize this Tree? [All Parts are Edible]
+To: <bruce@untroubled.org>
+Message-ID: <oi1klr8bauqwbpoj-84dq6wj13r0lxz05-263e-40195@medicfeets.us>
+Content-Length: 7209
+
+--4fec8ecc36722cdd8d7f0dc9a86be797_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Do You Recognize this Tree? [All Parts are Edible]
+
+http://medicfeets.us/c2ahmTBUBHSmivXLoKM0AlezrXlrwk7WFPV9ELgPpD4AA2li
+
+http://medicfeets.us/fNi1qrKZheZt7nNOQ79adtAqdFNXqAFFHeQ1Rz6_1cOsfeyE
+
+A leaf is an organ of a vascular plant and is the principal lateral appendage of the stem. The leaves and stem together form the shoot. Leaves are collectively referred to as foliage, as in "autumn foliage".
+
+
+Diagram of a simple leaf.
+ApexMidvein (Primary vein)Secondary vein.Lamina.Leaf marginPetioleBudStem
+
+Top and Right: Staghorn Sumac, Rhus typhina (Compound Leaf)
+Bottom: Skunk Cabbage, Symplocarpus foetidus (Simple Leaf)
+
+A leaf (plural leaves) is a dorsiventrally flattened plant organ, usually borne above ground and specialized for photosynthesis. In most leaves, the primary photosynthetic tissue, the palisade mesophyll, is located on the upper side of the blade or lamina of the leaf but in some species, including the mature foliage of Eucalyptus, palisade mesophyll is present on both sides and the leaves are said to be isobilateral. Most leaves have distinct upper surface (adaxial) and lower surface (abaxial) that differ in color, hairiness, the number of stomata (pores that intake and output gases), the amount and structure of epicuticular wax and other features. Leaves are mostly green in color. This is due to the presence of a compound called chlorophyll. This compound is essential for photosynthesis as it absorbs light energy from the sun. A leaf with white patches or edges is called a variegated leaf.
+
+Leaves can have many different shapes, sizes, and textures. The broad, flat leaves with complex venation of flowering plants are known as megaphylls and the species that bear them, the majority, as broad-leaved or megaphyllous plants. In the clubmosses, with different evolutionary origins, the leaves are simple (with only a single vein) and are known as microphylls. Some leaves, such as bulb scales, are not above ground. In many aquatic species, the leaves are submerged in water. Succulent plants often have thick juicy leaves, but some leaves are without major photosynthetic function and may be dead at maturity, as in some cataphylls and spines. Furthermore, several kinds of leaf-like structures found in vascular plants are not totally homologous with them. Examples include flattened plant stems called phylloclades and cladodes, and flattened leaf stems called phyllodes which differ from leaves both in their structure and origin. Some structures of non-vascular plants look and function much like leaves. Examples include the phyllids of mosses and liverworts.
+
+--4fec8ecc36722cdd8d7f0dc9a86be797_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://medicfeets.us/1o1DGYCGxNiu23X3v7Ku0Z5gMkB8uWCcTB4qMcHayDw_lxLw"><img src="http://medicfeets.us/f70a377fbd4f16a4e2.jpg" /><img height="1" src="http://www.medicfeets.us/iKnVNL6CA6p9DHSVOoo1OcgsLH4P4b4b9PzJ9BBQ5hKlr7Q-" width="1" /></a><br />
+&nbsp;
+<center>&nbsp;
+<div style="width:700px;text-align:left;font-size:25px;font-family:Arial;">You&#39;ve probably already seen this in your backyard, but you didn&#39;t know how <b style="color:#FF0000;">dangerous</b> it was...<br />
+<br />
+My advice: burn it or spread salt over it!<br />
+<br />
+<a href="http://medicfeets.us/c2ahmTBUBHSmivXLoKM0AlezrXlrwk7WFPV9ELgPpD4AA2li" style="color:#1D8F59;font-size:25px;font-family:Arial;"><b>If you see this plant in your backyard, burn it immediately!</b></a><br />
+<br />
+<a href="http://medicfeets.us/c2ahmTBUBHSmivXLoKM0AlezrXlrwk7WFPV9ELgPpD4AA2li"><img src="http://medicfeets.us/05f5bffb45dcd5ba15.jpg" /></a>
+<p style="font-size:25px;font-family:Arial;">If you Our grandparents knew more than we can even imagine about what plants to steer clear of and <i>which plants to use for<b> medicine</b></i><br />
+<br />
+Today we&#39;ve lost their wisdom and we will pay the ultimate price when our unsustainable medical system collapses.<br />
+<br />
+But if you&#39;ll give me just a few minutes of your time I&#39;ll show you how <a href="http://medicfeets.us/c2ahmTBUBHSmivXLoKM0AlezrXlrwk7WFPV9ELgPpD4AA2li" style="color:#1D8F59;"><b>you can treat your whole family using only simple backyard weeds</b></a></p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://medicfeets.us/Al4fBGSgWcYS34iyWktcYxoAuPu_9jK_LdPE8roFncVTavhR"><img src="http://medicfeets.us/a07eeb2849ac97fa74.jpg" /></a></div>
+</center>
+<br />
+<br />
+<br />
+<br />
+<span style="display:none!important;mso-hide:all;">A leaf is an organ of a vascular plant and is the principal lateral appendage of the stem. The leaves and stem together form the shoot. Leaves are collectively referred to as foliage, as in &quot;autumn foliage&quot;. Diagram of a simple leaf. ApexMidvein (Primary vein)Secondary vein.Lamina.Leaf marginPetioleBudStem Top and Right: Staghorn Sumac, Rhus typhina (Compound Leaf) Bottom: Skunk Cabbage, Symplocarpus foetidus (Simple Leaf) A leaf (plural leaves) is a dorsiventrally flattened plant organ, usually borne above ground and specialized for photosynthesis. In most leaves, the primary photosynthetic tissue, the palisade mesophyll, is located on the upper side of the blade or lamina of the leaf but in some species, including the mature foliage of Eucalyptus, palisade mesophyll is present on both sides and the leaves are said to be isobilateral. Most leaves have distinct upper surface (adaxial) and lower surface (abaxial) that differ in color, hairiness, the number of stomata (pores that intake and output gases), the amount and structure of epicuticular wax and other features. Leaves are mostly green in color. This is due to the presence of a compound called chlorophyll. This compound is essential for photosynthesis as it absorbs light energy from the sun. A leaf with white patches or edges is called a variegated leaf. Leaves can have many different shapes, sizes, and textures. The broad, flat leaves with complex venation of flowering plants are known as megaphylls and the species that bear them, the majority, as broad-leaved or megaphyllous plants. In the clubmosses, with different evolutionary origins, the leaves are simple (with only a single vein) and are known as microphylls. Some leaves, such as bulb scales, are not above ground. In many aquatic species, the leaves are submerged in water. Succulent plants often have thick juicy leaves, but some leaves are without major photosynthetic function and may be dead at maturity, as in some cataphylls and spines. Furthermore, several kinds of leaf-like structures found in vascular plants are not totally homologous with them. Examples include flattened plant stems called phylloclades and cladodes, and flattened leaf stems called phyllodes which differ from leaves both in their structure and origin. Some structures of non-vascular plants look and function much like leaves. Examples include the phyllids of mosses and liverworts.</span></body>
+</html>
+
+--4fec8ecc36722cdd8d7f0dc9a86be797_263e_40195--

@@ -1,0 +1,949 @@
+Return-Path: <SRS0=VW+YHH=3M=us-west-2.amazonses.com=0101016fd2764ab1-ec7ba9f7-eaf4-4476-a4d2-9c6b69c693b8-000000@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 406 invoked from network); 23 Jan 2020 12:52:48 -0000
+Received: (qmail 4857 invoked from network); 23 Jan 2020 12:52:47 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 23 Jan 2020 12:52:47 -0000
+Received: (qmail 27746 invoked by uid 48516); 23 Jan 2020 12:52:47 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 11897 invoked from network); 23 Jan 2020 12:52:47 -0000
+Received: from a27-70.smtp-out.us-west-2.amazonses.com (a27-70.smtp-out.us-west-2.amazonses.com [54.240.27.70])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 23 Jan 2020 12:52:47 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=d3zvbrwpvlxlgopsxxlttwi2nqb5inov; d=maniasol.com; t=1579783965;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe;
+	bh=BZJ3hPvqR/hnbsM8pdrrUctDxeVb39TxTfxsKmWHaFc=;
+	b=vsIkc7M160P51tOJr1bk44Um4nvcJZbyhNYBKS75v4HNinb56Qn3f6fpclNsq6RH
+	43OJnXJhlM2g3575bI9L8nSY8B8GDizmJnSVBxeTWWiMZOfpHVFmW7RtXtz1i5VRcgM
+	mUdWzBA0KmRbt25Wp/G6GuXG7oMZ3TyaRg8FeGwA=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=gdwg2y3kokkkj5a55z2ilkup5wp5hhxx; d=amazonses.com; t=1579783965;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe:Feedback-ID;
+	bh=BZJ3hPvqR/hnbsM8pdrrUctDxeVb39TxTfxsKmWHaFc=;
+	b=VfBj0vklUpxoUuwM12SjZ1nB4Cz8Egj3iGUhamRrookRw5oJxHtkJ5J0Y+SH/HUk
+	P4IJH8naenHEAwvTI+rrxJycNBsA2oCix7G18SSI7Eje7EkwJRSuS87WMMn6jpkBbEl
+	VNNOv3/1//DoAjba3j9OtyNCiHz8GdJLW2vPeHNg=
+Date: Thu, 23 Jan 2020 12:52:45 +0000
+From: Ray-Ban <contato@maniasol.com>
+Reply-To: Ray-Ban <contato@maniasol.com>
+To: bruce@untroubled.org
+Message-ID: <0101016fd2764ab1-ec7ba9f7-eaf4-4476-a4d2-9c6b69c693b8-000000@us-west-2.amazonses.com>
+Subject: =?UTF-8?Q?=F0=9F=9A=A8=E2=8F=B0_=C3=9Altimas_horas_com_at=C3=A9?=
+ =?UTF-8?Q?_68%_OFF.?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5e29971d3c4d5_43fa1a6dbd56c74046a3";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <https://elysium.listmanager2.com/unsubscribe/create/aabc3d5d-9f6b-49dc-a52b-09294d0f128a>
+X-SES-Outgoing: 2020.01.23-54.240.27.70
+Feedback-ID: 1.us-west-2.L5kq3Ao4gWzFDuBn+9LoGxPzEzBCNbjHENRkcAp57dQ=:AmazonSES
+Content-Length: 28114
+
+
+----==_mimepart_5e29971d3c4d5_43fa1a6dbd56c74046a3
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0D
+=0D
+=0D
+=0D
+=0D
+ManiaSol.com.br=0D
+=0D
+=0D
+Oticart.com.br=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+ =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+ =0D
+ =0D
+=C2=A0=0D
+ =0D
+ =0D
+ =0D
+=0D
+ =0D
+ =0D
+=0D
+ =0D
+=0D
+ =0D
+=0D
+ =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+ =0D
+ =0D
+ =0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+=0D
+ =0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+ =0D
+ =0D
+=0D
+ =0D
+ =C2=A0=0D
+ =0D
+ =0D
+ =0D
+=0D
+ =0D
+ =0D
+=0D
+=0D
+=0D
+ =C2=A0=0D
+=0D
+ =0D
+=0D
+ =0D
+ =0D
+=0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+=0D
+ =0D
+ =0D
+=0D
+ =0D
+=0D
+ =0D
+ =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+ =0D
+ =0D
+=0D
+ =0D
+ =C2=A0=0D
+ =0D
+ =0D
+ =0D
+=0D
+ =0D
+ =0D
+=0D
+=0D
+=0D
+ =C2=A0=0D
+=0D
+ =0D
+=0D
+ =0D
+ =0D
+=0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+=0D
+ =0D
+=0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+=0D
+=C2=A0=0D
+=0D
+ =0D
+ =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+ =0D
+ =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+  =0D
+=0D
+=0D
+=0D
+=0D
+=0D
+ =0D
+=0D
+ =0D
+ =0D
+ =0D
+ =0D
+=0D
+=0D
+As ofertas acima s=C3=A3o v=C3=A1lidas apenas por este e-mail na data de =
+envio e =0D
+est=C3=A3o sujeitas a altera=C3=A7=C3=B5es de pre=C3=A7os, condi=C3=A7=C3=
+=B5es de pagamento, e =0D
+disponibilidade de estoque sem aviso pr=C3=A9vio.=C2=A0=0D
+Imagens meramente ilustrativas. O anunciante se reserva o direito de =0D
+corrigir poss=C3=ADveis erros de digita=C3=A7=C3=A3o ou gr=C3=A1ficos. Pa=
+ra informa=C3=A7=C3=B5es e =0D
+pre=C3=A7os atualizados, visite o link do produto no site.=C2=A0=0D
+Valores em destaque =C3=A0 vista no boleto. Os produtos que possuem =0D
+informa=C3=A7=C3=A3o de pre=C3=A7os de Loja poder=C3=A3o ser encontrados =
+na loja f=C3=ADsica e/ou =0D
+no site pelo mesmo valor, os demais possuem valores exclusivos para o =0D=
+
+site.=0D
+Sempre confira o pre=C3=A7o e as condi=C3=A7=C3=B5es diretamente no site =
+da loja. Veja =0D
+tamb=C3=A9m as regras de entrega gratuita, parcelamento e pol=C3=ADtica d=
+e vendas =0D
+no site do lojista. As ofertas, condi=C3=A7=C3=B5es de venda e pre=C3=A7o=
+s dos =0D
+varejistas podem ser alteradas ou interrompidas a qualquer momento, sem =0D=
+
+aviso pr=C3=A9vio.=0D
+Em caso de diverg=C3=AAncia de pre=C3=A7os no site, o valor v=C3=A1lido =C3=
+=A9 o do Carrinho =0D
+de Compras. Pre=C3=A7os e condi=C3=A7=C3=B5es de pagamento podem variar d=
+e acordo com a =0D
+disponibilidade dos produtos. Vendas sujeitas =C3=A0 an=C3=A1lise e confi=
+rma=C3=A7=C3=A3o de =0D
+dados=0D
+Este e-mail foi-lhe enviado de forma autom=C3=A1tica, por favor n=C3=A3o =
+responda =0D
+para este endere=C3=A7o=0D
+=0D
+=0D
+=0D
+ =0D
+=0D
+=0D
+ =0D
+=0D
+ =0D
+=0D
+=0D
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=0D
+=0D
+=0D
+=0D
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=0D
+=0D
+=0D
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Caso queira deixar de receb=
+er nossas mensagens CLIQUE AQUI=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+
+----==_mimepart_5e29971d3c4d5_43fa1a6dbd56c74046a3
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>=0D
+<html>=0D
+<head>=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=0D
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">=0D
+<title>ManiaSol.com.br</title>=0D
+<style type=3D"text/css">=0D
+ /* Client-specific Styles */=0D
+ #outlook a {padding:0;} /* Force Outlook to provide a "view in browser" =
+menu link. */=0D
+ body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size=
+-adjust:100%; margin:0; padding:0;}=0D
+ /* Prevent Webkit and Windows Mobile platforms from changing default fon=
+t sizes, while not breaking desktop design. */=0D
+ .ExternalClass {width:100%;} /* Force Hotmail to display emails at full =
+width */=0D
+ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fo=
+nt, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force H=
+otmail to display normal line spacing.*/=0D
+ #backgroundTable {margin:0; padding:0; width:100% !important; line-heigh=
+t: 100% !important;}=0D
+ img {outline:none; text-decoration:none;border:none; -ms-interpolation-m=
+ode: bicubic;}=0D
+ a img {border:none;}=0D
+ .image_fix {display:block;}=0D
+ p {margin: 10px 0px !important;}=0D
+ table td {border-collapse: collapse;}=0D
+ table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace=
+:0pt; }=0D
+ a {color: #0a8cce;}=0D
+ /*STYLES*/=0D
+ table[class=3Dfull] { width: 100%; clear: both; }=0D
+ /*IPAD STYLES*/=0D
+ @media only screen and (max-width: 640px) {=0D
+ a[href^=3D"tel"], a[href^=3D"sms"] {=0D
+ color: #0a8cce; /* or whatever your want */=0D
+ pointer-events: none;=0D
+ cursor: default;=0D
+ }=0D
+ .mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {=0D
+ text-decoration: default;=0D
+ color: #0a8cce !important;=0D
+ pointer-events: auto;=0D
+ cursor: default;=0D
+ }=0D
+ table[class=3Ddevicewidth] {width: 440px!important;text-align:center!imp=
+ortant;}=0D
+ table[class=3Ddevicewidthinner] {width: 420px!important;text-align:cente=
+r!important;}=0D
+ img[class=3Dbanner] {width: 600px!important;height:auto!important;}=0D
+ img[class=3Dcolimg2] {width: 440px!important;height:220px!important;}=0D=
+
+ =0D
+ }=0D
+ /*IPHONE STYLES*/=0D
+ @media only screen and (max-width: 480px) {=0D
+ a[href^=3D"tel"], a[href^=3D"sms"] {=0D
+ color: #0a8cce; /* or whatever your want */=0D
+ pointer-events: none;=0D
+ cursor: default;=0D
+ }=0D
+ .mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {=0D
+ text-decoration: default;=0D
+ color: #0a8cce !important; =0D
+ pointer-events: auto;=0D
+ cursor: default;=0D
+ }=0D
+ .hide_mobile{display: none}=0D
+ table[class=3Ddevicewidth] {width: 290px!important;text-align:center!imp=
+ortant;}=0D
+ table[class=3Ddevicewidth2] {width: 290px!important;text-align:center!im=
+portant;}=0D
+ table[class=3Ddevicewidthinner] {width: 300px!important;text-align:cente=
+r!important;}=0D
+ img[class=3Dbanner] {width: 290px!important;height:auto!important;}=0D
+ img[class=3Dcolimg2] {width: 290px!important;height:auto!important;}=0D
+ td[class=3Dmobile-hide]{display:none!important;}=0D
+ td[class=3D"padding-bottom25"]{padding-bottom:25px!important;}=0D
+ td[class=3Dmenu]{font-size:10px; font-weight:bold}=0D
+ }=0D
+ * {=0D
+ mso-line-height-rule: exactly;=0D
+ }=0D
+ * {=0D
+ -webkit-text-size-adjust: none;=0D
+ -ms-text-size-adjust: none;=0D
+ }=0D
+ table td {=0D
+ border-collapse: collapse;=0D
+ }=0D
+ html, body, p, div {=0D
+ margin: 0;=0D
+ padding: 0;=0D
+ -webkit-font-smoothing: antialiased;=0D
+ }=0D
+ .ExternalClass {=0D
+ width: 100%;=0D
+ }=0D
+ .ExternalClass * {=0D
+ line-height: 110%=0D
+ }=0D
+ img {=0D
+ -ms-interpolation-mode: bicubic;=0D
+ display: block;=0D
+ border: 0;=0D
+ }=0D
+ .hide-all{=0D
+ display: none !important;=0D
+ }=0D
+=0D
+ body {=0D
+ margin: 0!important;=0D
+ padding: 0!important;=0D
+ width: 100%!important;=0D
+ }=0D
+ .hvr-fade {=0D
+ display: inline-block;=0D
+ text-align: center;=0D
+ vertical-align: middle;=0D
+ -webkit-transform: translateZ(0);=0D
+ transform: translateZ(0);=0D
+ box-shadow: 0 0 1px rgba(0, 0, 0, 0);=0D
+ -webkit-backface-visibility: hidden;=0D
+ backface-visibility: hidden;=0D
+ -moz-osx-font-smoothing: grayscale;=0D
+ overflow: hidden;=0D
+ -webkit-transition-duration: 0.3s;=0D
+ transition-duration: 0.3s;=0D
+ -webkit-transition-property: color, background-color;=0D
+ transition-property: color, background-color;=0D
+ }=0D
+ .hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {=0D
+ background-color: #d9caaf;=0D
+ color: white;=0D
+ }=0D
+=0D
+ div[style*=3D"margin: 16px 0"] {=0D
+ margin: 0!important;=0D
+ }=0D
+ a[x-apple-data-detectors] {=0D
+ color: inherit!important;=0D
+ text-decoration: none!important;=0D
+ font-size: inherit!important;=0D
+ font-family: inherit!important;=0D
+ font-weight: inherit!important;=0D
+ line-height: inherit!important;=0D
+ }=0D
+=0D
+ @media screen and (max-device-width:640px), screen and (max-width:640px)=
+ {=0D
+ table tbody tr {=0D
+ width: 100%!important; display: table!important;=0D
+ }=0D
+ .hide_mobile{display: none}=0D
+ .w100pc {=0D
+ width: 100%!important;=0D
+ max-width: 1000px!important;=0D
+ height: auto!important;=0D
+ }=0D
+ .w49pc {=0D
+ width: 49%!important;=0D
+ max-width: 1000px!important;=0D
+ height: auto!important;=0D
+ }=0D
+ .w200px {=0D
+ width: 200px!important;=0D
+ max-width: 1000px!important;=0D
+ height: auto!important;=0D
+ }=0D
+ .showmob {=0D
+ display: block!important;=0D
+ width: 100%!important;=0D
+ height: auto!important;=0D
+ } =0D
+ .colsplit {=0D
+ width: 100%!important;=0D
+ float: left!important;=0D
+ display: block!important;=0D
+ }=0D
+ .colsplit-top {=0D
+ width: 100%!important;=0D
+ display:table-row-group!important;=0D
+ }=0D
+=0D
+ =0D
+ </style>=0D
+<meta charset=3D"utf-8">=0D
+<title>Oticart.com.br</title>=0D
+</head>=0D
+<body>=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+ =0D
+=0D
+<!-- Texto -->=0D
+=0D
+<!-- Primeiro Banner -->=0D
+=0D
+<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" id=3D"backgroundTable" width=3D"100%"><tbody><tr><td>=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody><tr><td width=3D"100%">=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody>=0D
+<tr><td height=3D"20" style=3D"font-size:1px; line-height:1px; mso-line-h=
+eight-rule: exactly;" width=3D"100%">=C2=A0</td></tr>=0D
+ <tr><td>=0D
+ <!-- col 1 -->=0D
+ <table align=3D"left" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"devicewidth" width=3D"600"><tbody>=0D
+<!-- image 2 -->=0D
+ <tr><td align=3D"center" style=3D"font-family: Helvetica, arial, sans-se=
+rif; font-size: 16px; color: #f5f5f5; line-height:24px;text-align:center;=
+ text-transform:uppercase;" width=3D"100%">=0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/7a3de380-1b00-4a1c-82d6-7da2881d5975/event" target=3D"_blan=
+k">=0D
+<img border=3D"0" alt=3D" " src=3D"https://s3-sa-east-1.amazonaws.com/new=
+slettersauto/news_1569325967/imagens/image_0.png" style=3D"display: block=
+; margin: 0px auto; max-width: 100%; height: auto; outline:none; text-dec=
+oration:none;"></a>=0D
+ </td></tr>=0D
+</tbody></table>=0D
+ </td></tr>=0D
+</tbody></table>=0D
+ </td></tr></tbody></table>=0D
+</td></tr></tbody></table>=0D
+=0D
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"chaordic-api-widget" style=3D"max-width: 600px;" width=3D"600"><=
+tbody>=0D
+<tr>=0D
+<td align=3D"center" class=3D"chaordic-api-widget-product chaordic-api-wi=
+dget-product-1" style=3D"display: inline-block;" width=3D"33%">=0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/7b70b16f-f4e9-4964-aade-313a2c03586c/event" target=3D"_blan=
+k">=0D
+ <img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1569=
+325967/imagens/image_1.jpg" width=3D"200" height=3D"345"></a><a>=0D
+ </a>=0D
+</td>=0D
+ <td align=3D"center" class=3D"chaordic-api-widget-product chaordic-api-w=
+idget-product-2" style=3D"display: inline-block;" width=3D"33%">=0D
+ =0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/13d9a3c2-9c9b-4cd3-8d8e-5c57c9f8e72f/event" target=3D"_blan=
+k">=0D
+ <img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1569=
+325967/imagens/image_2.jpg" width=3D"200" height=3D"345"></a><a href=3D"h=
+ttps://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b-09294d0f128a=
+/b2faf23c-4f3b-4ba0-9d43-c9a89848dc9b/event" target=3D"_blank">=0D
+ </a>=0D
+</td>=0D
+ <td align=3D"center" class=3D"chaordic-api-widget-product chaordic-api-w=
+idget-product-3" style=3D"display: inline-block;" width=3D"33%">=0D
+ =0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/03413a84-36ec-4e84-b783-b69832ea1ab4/event" target=3D"_blan=
+k">=0D
+ <img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1569=
+325967/imagens/image_3.jpg" width=3D"200" height=3D"345"></a><a href=3D"h=
+ttps://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b-09294d0f128a=
+/5a00517c-6b49-482f-9210-048b6a3e6b73/event" target=3D"_blank">=0D
+ </a>=0D
+</td>=0D
+</tr>=0D
+ <tr>=0D
+<td align=3D"center" class=3D"chaordic-api-widget-product chaordic-api-wi=
+dget-product-4" style=3D"display: inline-block;" width=3D"33%">=0D
+ =0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/77dfd9b3-2183-4f62-aed7-46c8c8e0594b/event" target=3D"_blan=
+k">=0D
+ <img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1569=
+325967/imagens/image_4.jpg" width=3D"200" height=3D"345"></a><a href=3D"h=
+ttps://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b-09294d0f128a=
+/3aa19269-ab80-45b4-bdd6-5f34de242fec/event" target=3D"_blank">=0D
+ </a>=0D
+</td>=0D
+ <td align=3D"center" class=3D"chaordic-api-widget-product chaordic-api-w=
+idget-product-5" style=3D"display: inline-block;" width=3D"33%">=0D
+ =0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/87c60c04-bd05-4c05-bb56-7bc41c1e5107/event" target=3D"_blan=
+k">=0D
+ <img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1569=
+325967/imagens/image_5.jpg" width=3D"200" height=3D"345"></a><a href=3D"h=
+ttps://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b-09294d0f128a=
+/465825a9-72d8-4c6e-a0fd-d57faf51d881/event" target=3D"_blank">=0D
+ </a>=0D
+</td>=0D
+ <td align=3D"center" class=3D"chaordic-api-widget-product chaordic-api-w=
+idget-product-6" style=3D"display: inline-block;" width=3D"33%">=0D
+ =0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/eab19da2-3e05-486f-96c3-05f68fd11eec/event" target=3D"_blan=
+k">=0D
+ <img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1569=
+325967/imagens/image_6.jpg" width=3D"200" height=3D"345"></a><a href=3D"h=
+ttps://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b-09294d0f128a=
+/3c97637a-4686-4a71-b369-c0a85ee1fa5e/event" target=3D"_blank">=0D
+ </a>=0D
+</td>=0D
+</tr>=0D
+</tbody></table>=0D
+<!-- Chaordic -->=0D
+=0D
+=0D
+<!-- Segundo Banner -->=0D
+=0D
+<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" id=3D"backgroundTable" width=3D"100%"><tbody><tr><td>=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody><tr><td width=3D"100%">=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody>=0D
+<!-- Spacing -->=0D
+ =0D
+ <tr><td height=3D"10" style=3D"font-size:1px; line-height:1px; mso-line-=
+height-rule: exactly;" width=3D"100%">=C2=A0</td></tr>=0D
+ <!-- Spacing -->=0D
+ <tr><td>=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidthinner" width=3D"600"><tbody>=0D
+<tr><td align=3D"center">=0D
+ <div class=3D"mobile" height=3D"70" style=3D"font-size:15px; line-height=
+:20px; text-align:center; text-transform:uppercase; font-family:'Segoe UI=
+', Arial, sans-serif; border-top: 1px solid #ebebeb; font-size:16px; colo=
+r: #e32083; font-weight:600;" width=3D"600">=0D
+ </div>=0D
+</td></tr>=0D
+=0D
+=0D
+ <tr><td height=3D"10" style=3D"font-size:1px; line-height:1px; mso-line-=
+height-rule: exactly;" width=3D"100%">=C2=A0</td></tr>=0D
+</tbody></table>=0D
+ </td></tr>=0D
+</tbody></table>=0D
+ </td></tr></tbody></table>=0D
+ </td></tr></tbody></table>=0D
+=0D
+<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" id=3D"backgroundTable" width=3D"100%"><tbody><tr><td>=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody><tr><td width=3D"100%">=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody><tr><td>=0D
+ <!-- col 1 -->=0D
+ <table align=3D"left" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"devicewidth" width=3D"600"><tbody>=0D
+<!-- image 2 -->=0D
+=0D
+ <tr><td align=3D"center" style=3D"font-family: Helvetica, arial, sans-se=
+rif; font-size: 16px; color: #f5f5f5; line-height:24px;text-align:center;=
+ text-transform:uppercase;" width=3D"100%">=0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/8eb0ac24-2915-46b5-b66a-71ff18be62ad/event" target=3D"_blan=
+k">=0D
+<img border=3D"0" alt=3D" " src=3D"https://s3-sa-east-1.amazonaws.com/new=
+slettersauto/news_1569325967/imagens/image_7.png" style=3D"display: block=
+; margin: 0px auto; max-width: 100%; height: auto; outline:none; text-dec=
+oration:none;"></a>=0D
+ </td></tr>=0D
+</tbody></table>=0D
+ </td></tr></tbody></table>=0D
+ </td></tr></tbody></table>=0D
+</td></tr></tbody></table>=0D
+=0D
+=0D
+=0D
+<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" id=3D"backgroundTable" width=3D"100%"><tbody><tr><td>=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody><tr><td width=3D"100%">=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody>=0D
+<!-- Spacing -->=0D
+ =0D
+ <tr><td height=3D"10" style=3D"font-size:1px; line-height:1px; mso-line-=
+height-rule: exactly;" width=3D"100%">=C2=A0</td></tr>=0D
+ <!-- Spacing -->=0D
+ <tr><td>=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidthinner" width=3D"600"><tbody>=0D
+<tr><td align=3D"center">=0D
+ <div class=3D"mobile" height=3D"70" style=3D"font-size:15px; line-height=
+:20px; text-align:center; text-transform:uppercase; font-family:'Segoe UI=
+', Arial, sans-serif; border-top: 1px solid #ebebeb; font-size:16px; colo=
+r: #e32083; font-weight:600;" width=3D"600">=0D
+ </div>=0D
+</td></tr>=0D
+=0D
+=0D
+ <tr><td height=3D"10" style=3D"font-size:1px; line-height:1px; mso-line-=
+height-rule: exactly;" width=3D"100%">=C2=A0</td></tr>=0D
+</tbody></table>=0D
+ </td></tr>=0D
+</tbody></table>=0D
+ </td></tr></tbody></table>=0D
+ </td></tr></tbody></table>=0D
+=0D
+<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" id=3D"backgroundTable" width=3D"100%"><tbody><tr><td>=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody><tr><td width=3D"100%">=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody><tr><td>=0D
+ <!-- col 1 -->=0D
+ <table align=3D"left" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"devicewidth" width=3D"600"><tbody>=0D
+<!-- image 2 -->=0D
+=0D
+ <tr><td align=3D"center" style=3D"font-family: Helvetica, arial, sans-se=
+rif; font-size: 16px; color: #f5f5f5; line-height:24px;text-align:center;=
+ text-transform:uppercase;" width=3D"100%">=0D
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"chaordic-api-widget" style=3D"max-width: 600px;" width=3D"600"><=
+tbody><tr>=0D
+<td align=3D"center" class=3D"chaordic-api-widget-product chaordic-api-wi=
+dget-product-4" style=3D"display: inline-block;" width=3D"33%">=0D
+ =0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/1ebf777e-4057-461c-8e13-aae664150575/event" target=3D"_blan=
+k">=0D
+ <img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1569=
+325967/imagens/image_8.png" width=3D"200" height=3D"250"></a><a href=3D"h=
+ttps://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b-09294d0f128a=
+/8900bd40-1309-4fdd-b203-c086d99d32ca/event" target=3D"_blank">=0D
+ </a>=0D
+</td>=0D
+ <td align=3D"center" class=3D"chaordic-api-widget-product chaordic-api-w=
+idget-product-5" style=3D"display: inline-block;" width=3D"33%">=0D
+ =0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/b409763a-3f99-46ca-b18d-3d3499704e25/event" target=3D"_blan=
+k">=0D
+ <img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1569=
+325967/imagens/image_9.png" width=3D"200" height=3D"250"></a><a href=3D"h=
+ttps://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b-09294d0f128a=
+/621010ab-e919-45ec-8b15-d7fa92b3b2ac/event" target=3D"_blank">=0D
+ </a>=0D
+</td>=0D
+ <td align=3D"center" class=3D"chaordic-api-widget-product chaordic-api-w=
+idget-product-6" style=3D"display: inline-block;" width=3D"33%">=0D
+ =0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/a1b04edd-8449-4b1a-8ffb-11aab7fa4924/event" target=3D"_blan=
+k">=0D
+ <img src=3D"https://s3-sa-east-1.amazonaws.com/newslettersauto/news_1569=
+325967/imagens/image_10.png" width=3D"200" height=3D"250"></a><a href=3D"=
+https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b-09294d0f128=
+a/18a4fb28-d326-4612-a840-050f4e4faca3/event" target=3D"_blank">=0D
+ </a>=0D
+</td>=0D
+</tr></tbody></table>=0D
+=C2=A0</td></tr>=0D
+</tbody></table>=0D
+ </td></tr></tbody></table>=0D
+ </td></tr></tbody></table>=0D
+</td></tr></tbody></table>=0D
+=0D
+<!-- Fim Segundo Banner -->=0D
+=0D
+=0D
+<!-- Menu Mobile -->=0D
+<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" id=3D"backgroundTable" width=3D"100%"><tbody><tr><td>=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"devicewidth" width=3D"600"><tbody><tr><td width=3D"100%">=0D
+ <a href=3D"https://ariane.listmanager2.com/click/aabc3d5d-9f6b-49dc-a52b=
+-09294d0f128a/1ebf777e-4057-461c-8e13-aae664150575/event" target=3D"_blan=
+k">=0D
+<img border=3D"0" alt=3D" " src=3D"https://s3-sa-east-1.amazonaws.com/new=
+slettersauto/news_1569325967/imagens/image_11.png" style=3D"display: bloc=
+k; margin: 0px auto; max-width: 100%; height: auto; outline:none; text-de=
+coration:none;"></a>=0D
+</td></tr></tbody></table>=0D
+</td></tr></tbody></table>=0D
+<!-- Fim Menu Mobile -->=0D
+=0D
+=0D
+ <!-- BaNNER CARTAO NOVO --> =0D
+<!-- FIM CONTATOS -->=0D
+=0D
+<!-- RODAPE -->=0D
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><t=
+body><tr>=0D
+<td align=3D"center" bgcolor=3D"#ffffff" style=3D"padding: 6px 0 6px 0;" =
+valign=3D"top">=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"w100pc" style=3D"border-bottom: 1px solid #ededed;" width=3D"96=
+%"><tbody><tr>=0D
+<td width=3D"262"></td>=0D
+ <td align=3D"center" style=3D"padding: 10px 0 10px 0;" valign=3D"top">=0D=
+
+ =0D
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"93%"><t=
+body><tr><td style=3D"font-size: 10px; font-family: 'segoe','segoe ui','d=
+ejavu sans','trebuchet ms',verdana,sans-serif; text-align: justify; color=
+: #777777;" width=3D"588">=0D
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"text-size-adjust: 100%; border-collapse: collapse !important; c=
+olor: rgb(0, 0, 0); font-family: Times New Roman; font-size: medium; font=
+-style: normal; font-variant-ligatures: normal; font-variant-caps: normal=
+; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: cente=
+r; text-indent: 0px; text-transform: none; white-space: normal; widows: 2=
+; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-styl=
+e: initial; text-decoration-color: initial;" width=3D"583"><tbody><tr><td=
+ height=3D"40" style=3D"text-size-adjust: 100%;" width=3D"583">=0D
+<p align=3D"left">=0D
+<span style=3D"font-size: 8pt; font-family: Arial, sans-serif; color: rgb=
+(51, 51, 51);">=0D
+As ofertas acima s=C3=A3o v=C3=A1lidas apenas por este e-mail na data de =
+envio e =0D
+est=C3=A3o sujeitas a altera=C3=A7=C3=B5es de pre=C3=A7os, condi=C3=A7=C3=
+=B5es de pagamento, e =0D
+disponibilidade de estoque sem aviso pr=C3=A9vio.=C2=A0<br>=0D
+Imagens meramente ilustrativas. O anunciante se reserva o direito de =0D
+corrigir poss=C3=ADveis erros de digita=C3=A7=C3=A3o ou gr=C3=A1ficos. Pa=
+ra informa=C3=A7=C3=B5es e =0D
+pre=C3=A7os atualizados, visite o link do produto no site.=C2=A0<br>=0D
+Valores em destaque =C3=A0 vista no boleto. Os produtos que possuem =0D
+informa=C3=A7=C3=A3o de pre=C3=A7os de Loja poder=C3=A3o ser encontrados =
+na loja f=C3=ADsica e/ou =0D
+no site pelo mesmo valor, os demais possuem valores exclusivos para o =0D=
+
+site.<br>=0D
+Sempre confira o pre=C3=A7o e as condi=C3=A7=C3=B5es diretamente no site =
+da loja. Veja =0D
+tamb=C3=A9m as regras de entrega gratuita, parcelamento e pol=C3=ADtica d=
+e vendas =0D
+no site do lojista. As ofertas, condi=C3=A7=C3=B5es de venda e pre=C3=A7o=
+s dos =0D
+varejistas podem ser alteradas ou interrompidas a qualquer momento, sem =0D=
+
+aviso pr=C3=A9vio.<br>=0D
+Em caso de diverg=C3=AAncia de pre=C3=A7os no site, o valor v=C3=A1lido =C3=
+=A9 o do Carrinho =0D
+de Compras. Pre=C3=A7os e condi=C3=A7=C3=B5es de pagamento podem variar d=
+e acordo com a =0D
+disponibilidade dos produtos. Vendas sujeitas =C3=A0 an=C3=A1lise e confi=
+rma=C3=A7=C3=A3o de =0D
+dados<br>=0D
+Este e-mail foi-lhe enviado de forma autom=C3=A1tica, por favor n=C3=A3o =
+responda =0D
+para este endere=C3=A7o</span></p>=0D
+</td></tr></tbody></table>=0D
+</td></tr></tbody></table>=0D
+=0D
+ </td>=0D
+</tr></tbody></table>=0D
+</td>=0D
+ <td width=3D"226"></td>=0D
+</tr></tbody></table>=0D
+ =0D
+=0D
+<!-- old android fix -->=0D
+<div style=3D"display:none; white-space:nowrap; font:15px courier; color:=
+#ffffff; line-height:0; width:800px !important; min-width:600px !importan=
+t; max-width:800px !important;">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0</div>=0D
+<!-- END RODAPE -->=0D
+=0D
+<!-- old android fix -->=0D
+<div style=3D"display:none; white-space:nowrap; font:15px courier; color:=
+#ffffff; line-height:0; width:800px !important; min-width:600px !importan=
+t; max-width:800px !important;">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0</div>=0D
+<!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D FOOTER =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D-->=0D
+=0D
+<p style=3D"text-align: left;"><span style=3D"color: rgb(0, 0, 0);"><span=
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Caso queira deixar de receber =
+nossas mensagens </span><a href=3D"https://elysium.listmanager2.com/unsub=
+scribe/create/aabc3d5d-9f6b-49dc-a52b-09294d0f128a"><span style=3D"font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 12px;"><u>CLIQUE AQUI</u>=
+</span></a></span>=0D
+=0D
+</p>=0D
+=0D
+<p>=0D
+<br>=0D
+</p>=0D
+=0D
+<p></p>=0D
+<div><img src=3D"https://ariane.listmanager2.com/open/aabc3d5d-9f6b-49dc-=
+a52b-09294d0f128a/event" alt=3D"_t" width=3D"1" height=3D"1"></div>=0D
+</body>=0D
+</html>=0D
+
+----==_mimepart_5e29971d3c4d5_43fa1a6dbd56c74046a3--

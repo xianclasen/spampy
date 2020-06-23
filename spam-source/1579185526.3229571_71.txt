@@ -1,0 +1,97 @@
+Return-Path: <SRS0=FgZ7Hd=3F=mail.foodlyystop.bid=6459-2982-85526-1728-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 6050 invoked from network); 16 Jan 2020 07:55:40 -0000
+Received: (qmail 22277 invoked from network); 16 Jan 2020 07:55:39 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 16 Jan 2020 07:55:39 -0000
+Received: (qmail 27826 invoked by uid 48516); 16 Jan 2020 07:55:39 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20540 invoked from network); 16 Jan 2020 07:55:39 -0000
+Received: from yoke.foodlyystop.bid (conux32s.conservativecool.space [170.130.172.204])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 16 Jan 2020 07:55:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=foodlyystop.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=RewardingPromos@foodlyystop.bid;
+ bh=GKIzRGHN19peKgfyK5FLj1zgSBg=;
+ b=kgvnX9lNrjua39RpNr1KDRwDznX41j2gHYgQ5HA6+kCFuw2vNXlVlbvg4A4X7NAUBuuiqESrsl/1
+   kLWnOVpSaMBvfFtutrD1vCMuSL+v4EEZQW44jcF8ezOpBjRaV4fpgyJZfabGGAAhLQxf68VGBJhz
+   eAh1v3q0q0VzzJkNhhk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=foodlyystop.bid;
+ b=gAaTLPYSqdG56xiLTdj2ECryL6bucOSt/gzKDRFhEnLeRT1VACoPvw/pSuAFSIs+WAwc1WeAbjCT
+   /HlGKaslDiCc5bAsHXPlwAmDoXSILfLq3fZ6DNvkveJb06zVk+AhYRXwF6QKgnrm3OoglevzH/PG
+   Bbxfr7E6ZQQVn58pk0E=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="1a1045d7146e8d15ca05754a1fd4397c_ba6_14e16"
+Date: Thu, 16 Jan 2020 02:45:24 -0500
+From: "RewardingPromos" <RewardingPromos@foodlyystop.bid>
+Reply-To: "RewardingPromos" <RewardingPromos@foodlyystop.bid>
+Subject: Get your McDonalds gift card.
+To: <bruce@untroubled.org>
+Message-ID: <ux9ny7tvoicanu6k-ncejdv7fm4l23nta-ba6-14e16@foodlyystop.bid>
+Content-Length: 6520
+
+--1a1045d7146e8d15ca05754a1fd4397c_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Get your McDonalds gift card.
+
+http://foodlyystop.bid/BbKUX60PAIg7TR83EpTGGLBTi-tSRhm5nnEuhek7sM--uqKU
+
+http://foodlyystop.bid/9mhQVSaMMVq_4wgSYKG9DlF0Eh3eEhBkj4pon8KAW1q3tpzD
+
+Tamraj Kilvish is Shaktimaan's archenemy. Tamraj means King of Darkness (tama = darkness, raj = king). He has lived 6000 years and is the source of evil in the world. He intends to rule the world by spreading darkness, hatred, sin and evil. It is said that the source of his strength is one-half of the "Shakti Punj" (the half which is referred to as "shaktiman") which he managed to retain after he originally obtained the entire Shakti Punj by deceit from Shri Satya (Satya means truth), the founder of the Suryavanshi. However, it is also mentioned that the source of his strength is the evil that is committed by people in this world.
+
+It was later revealed that only Shri Satya can kill Tamraj Kilvish. After a death-defying adventure, Shaktimaan was told that he is the rebirth of Shri Satya. Shri Satya had given the exact time of the child's birth and the place before he died about 6000 years ago. Tamraj also knows this and this is the main reason he is frightened by the appearance of Shaktimaan as he knows that only Shaktimaan can kill Tamraj. He murdered Shaktimaan's parents and his adoptive father, Pandit Vidyadhar Shastri. He and his minions plot to kill him but always fail. His minions include Electric-man (who can shoot lightning bolts from his body), Stone-man (who can shoot stones from his body), Plastica (who can stretch any part of her body), Dr. Jackal (an evil scientist) and others. Dr. Jackal has helped Kilvish in his various schemes by cloning Shaktimaan and also by turning aliens against him.
+
+In the television series, Kilvish is often treated as the personification of darkness itself even though he was once a human being who later becomes very powerful and commits many evil deeds. In an attempt to become immortal, he left his mortal body and took an ethereal body which can't be killed but Shaktimaan is told that he has to kill all the evil in the world to destroy Tamraj's ethereal body. Kilvish's trademark quote is "Andhera Kaayam Rahe" (May Darkness Prevail), which is also used by his followers.
+
+Kilvish's character evolves as the series progresses. In the beginning episodes of Shaktimaan, his face is never shown and his voice is different from the voice that he uses in the later episodes of Shaktimaan, in which his role is played by Surendra Pal. Later his face deforms to become a distorted wolf-like face.
+
+--1a1045d7146e8d15ca05754a1fd4397c_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://foodlyystop.bid/aWC_xonYUDyl7URJU9HwYV5pABJqEbHBxh-x8Jpww0DE0kio"><img src="http://foodlyystop.bid/74d02c632369122bdd.jpg" /><img height="1" src="http://www.foodlyystop.bid/tXSnzilgHlyl7OMD-GYEydET_ES1cJ7U_3Cg3XUzwl-fS0gw" width="1" /></a>
+<center>
+<div><br />
+<br />
+<a href="http://foodlyystop.bid/BbKUX60PAIg7TR83EpTGGLBTi-tSRhm5nnEuhek7sM--uqKU" style="font-size:30px;font-family:Arial; color:blue; text-decoration:none;">Get your McDonalds gift card.</a><br />
+<br />
+<a href="http://foodlyystop.bid/BbKUX60PAIg7TR83EpTGGLBTi-tSRhm5nnEuhek7sM--uqKU"><img src="http://foodlyystop.bid/5004253101e085f4ad.jpg" style="box-shadow:0px 10px 10px 10px #CCC; border-radius:40px;" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://foodlyystop.bid/U182XD6rV1lV7JU-9aaaWX0mfS6vo1dPhqR3AhqYplAg7AXf"><img src="http://foodlyystop.bid/0953295366f40d2ce6.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://foodlyystop.bid/9mhQVSaMMVq_4wgSYKG9DlF0Eh3eEhBkj4pon8KAW1q3tpzD"><img src="http://foodlyystop.bid/c2cd6488fb6dd22d10.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Tamraj Kilvish is Shaktimaan&#39;s archenemy. Tamraj means King of Darkness (tama = darkness, raj = king). He has lived 6000 years and is the source of evil in the world. He intends to rule the world by spreading darkness, hatred, sin and evil. It is said that the source of his strength is one-half of the &quot;Shakti Punj&quot; (the half which is referred to as &quot;shaktiman&quot;) which he managed to retain after he originally obtained the entire Shakti Punj by deceit from Shri Satya (Satya means truth), the founder of the Suryavanshi. However, it is also mentioned that the source of his strength is the evil that is committed by people in this world. It was later revealed that only Shri Satya can kill Tamraj Kilvish. After a death-defying adventure, Shaktimaan was told that he is the rebirth of Shri Satya. Shri Satya had given the exact time of the child&#39;s birth and the place before he died about 6000 years ago. Tamraj also knows this and this is the main reason he is frightened by the appearance of Shaktimaan as he knows that only Shaktimaan can kill Tamraj. He murdered Shaktimaan&#39;s parents and his adoptive father, Pandit Vidyadhar Shastri. He and his minions plot to kill him but always fail. His minions include Electric-man (who can shoot lightning bolts from his body), Stone-man (who can shoot stones from his body), Plastica (who can stretch any part of her body), Dr. Jackal (an evil scientist) and others. Dr. Jackal has helped Kilvish in his various schemes by cloning Shaktimaan and also by turning aliens against him. In the television series, Kilvish is often treated as the personification of darkness itself even though he was once a human being who later becomes very powerful and commits many evil deeds. In an attempt to become immortal, he left his mortal body and took an ethereal body which can&#39;t be killed but Shaktimaan is told that he has to kill all the evil in the world to destroy Tamraj&#39;s ethereal body. Kilvish&#39;s trademark quote is &quot;Andhera Kaayam Rahe&quot; (May Darkness Prevail), which is also used by his followers. Kilvish&#39;s character evolves as the series progresses. In the beginning episodes of Shaktimaan, his face is never shown and his voice is different from the voice that he uses in the later episodes of Shaktimaan, in which his role is played by Surendra Pal. Later his face deforms to become a distorted wolf-like face. </span></center>
+</body>
+</html>
+
+--1a1045d7146e8d15ca05754a1fd4397c_ba6_14e16--

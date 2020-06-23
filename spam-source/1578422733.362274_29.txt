@@ -1,0 +1,77 @@
+Return-Path: <SRS0=O1/NdR=24=worte.buzz=tinnitus-911-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 21000 invoked from network); 7 Jan 2020 16:20:40 -0000
+Received: (qmail 12249 invoked from network); 7 Jan 2020 16:20:39 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Jan 2020 16:20:39 -0000
+Received: (qmail 9789 invoked by uid 48516); 7 Jan 2020 16:20:38 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 13397 invoked from network); 7 Jan 2020 16:20:38 -0000
+Received: from mail.worte.buzz (208-186-113-104.nca.datanoc.com [208.186.113.104])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 07 Jan 2020 16:20:36 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=worte.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=tinnitus-911@worte.buzz;
+ bh=PzQ6Y8Fa079BQZypH4fDByCzdYQ=;
+ b=kCLL15XDbCMIHzP/dJvpKtYtZvXThiqZOpJf2zTHrKAhZLJSfflqC93BJo2XYqmjCKBoP6DColx+
+   8KBOYijI7kP1tLzrvZVOYAGkQFaWJsNvOiXF/S46ZZBP9fyrYg6nH86ZOq2yCYbLTihdAPg5LL4u
+   XysnGvgDLyiph2PxHo8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=worte.buzz;
+ b=JTnyTmm0murZi9eEUX5OYoDPK2WZ8OhK9njX3gEqUNLR3nUqWlAOtVfWNHtUk+l6mB9PvRu3bW/c
+   +UNfQo/wJApGzEjXJjdbvRDR7T5YPrIyNv/AW0246PH8XBC9AWkUol5f2OwT4SeOqcgfkAQqIEcA
+   AkPk4uOYX+MEF5jIYN0=;
+Received: by mail.worte.buzz id h2inta0001gg for <bruce@untroubled.org>; Tue, 7 Jan 2020 11:13:09 -0500 (envelope-from <tinnitus-911-bruce=untroubled.org@worte.buzz>)
+Date: Tue, 7 Jan 2020 11:13:09 -0500
+From: "Tinnitus 911" <tinnitus-911@worte.buzz>
+To:   <bruce@untroubled.org>
+Subject: Reverse Tinnitus By Eating This ONE Food!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_409_490332709.1578413570860"
+List-Unsubscribe: <http://www.worte.buzz/1d35z23L95EZ89j11K1m1sD347bw21zFv4GIf4rxvs4FhIHEsvZ11rRxndnQnoB95n10oK5ITLcY/homewards-written>
+Message-ID: <0.0.0.2D.1D5C5755A51B122.4BC786@mail.worte.buzz>
+Content-Length: 7457
+
+------=_Part_409_490332709.1578413570860
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>vertically</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:arial,helvetica,sans-serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.worte.buzz/Egyptianizes-proliferate/2c45Q239S5R_86r11Je90dz347bG21FFv4GIf4rxvs4FhIHEsvZ11YRxndnQnoB97a10MVSC5Ekc2Y" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.worte.buzz/5756Qi239P5N7ta_13Je9J1u0L347bp21LFv4GIf4rxvs4FhIHEsvZ11GRxndnQnoB95B1O0N5RpAcY/representatives-hurtling" style="border-width: 0px; border-style: solid; width: 81%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.worte.buzz/Egyptianizes-proliferate/2c45Q239S5R_86r11Je90dz347bG21FFv4GIf4rxvs4FhIHEsvZ11YRxndnQnoB97a10MVSC5Ekc2Y">Do THIS &quot; simple 10 second trick&quot; to restore your hearing</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.worte.buzz/homewards-written/ef46HJ239M5J86yT11je90eM347bU21gFv4GIf4rxvs4FhIHEsvZ11wRxndnQnoB95tL10h6Sz@czY"><font color="#666666">Leave mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.worte.buzz/lured-lookups/e226fP23U95X8P9U11ie90fh347bZ21dFv4GIf4rxvs4FhIHEsvZ11QRxndnQnoB96DAVq106NlO3cY">Exit Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">6547 N Academy Blvd #2128</span>
+    <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</span>
+    <br /> &nbsp; 
+   </div> <span lang="properness"><font id="sneezed"></span><span color="dependently"></span><font style="muttered"><font class="transpire"><font id="excommunicating"></font><span face="school"></span></font><font title="crimson"></font></font></font>
+  </center>   
+ <img src="http://www.worte.buzz/5575G239U5L85pT12Ae9g11J347bs21gFv4GIf4rxvs4FhIHEsvZ11rRxndnQnoB96U1tv0q5wJcUY/depreciates-refraining" alt=""/></body>
+</html>
+
+------=_Part_409_490332709.1578413570860--
+

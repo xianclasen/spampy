@@ -1,0 +1,108 @@
+Return-Path: <SRS0=kLhMrf=3L=crene.monster=medicare-plan-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 32682 invoked from network); 22 Jan 2020 15:52:26 -0000
+Received: (qmail 27845 invoked from network); 22 Jan 2020 15:52:25 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 22 Jan 2020 15:52:25 -0000
+Received: (qmail 4718 invoked by uid 48516); 22 Jan 2020 15:52:24 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15052 invoked from network); 22 Jan 2020 15:52:24 -0000
+Received: from mail.crene.monster ([193.201.140.166])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 22 Jan 2020 15:52:23 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=crene.monster;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=medicare-plan@crene.monster;
+ bh=odyguGPven6izLnAAQ5bXmAnC4A=;
+ b=cpQp1uUjn816jmmaTLjFAI+Ldbtmx/w3uTCry3nw5J35LjNYsWBBLG5gEbTAipqEqBPzxkPZsEUN
+   CkXn2tRBLUlSzinYb7NKECIgsbb+ZD2JfoNongo6ykz4bzLV5d7+ImXrP3j9lrIexEH4ixTbRB7t
+   1xb+1BO0uMNDIKL/P4U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=crene.monster;
+ b=L8iXaXhDirEz2jfGg+GbZVjHCblPaUr9jXNNszfwTLVO4OhWc8ZB6QB8gC20zWFh8sVe19fWl4vF
+   usilT6IRE9lyZfSniNANqGlQofmYUlWFj9mndaY5ltItmCt5Qr+4hMMV6oLBEeBf/V36Bno2dDpc
+   OX8f6hFtP76cpcpMvxM=;
+Received: by mail.crene.monster id h51nre0001g6 for <bruce@untroubled.org>; Wed, 22 Jan 2020 10:47:41 -0500 (envelope-from <medicare-plan-bruce=untroubled.org@crene.monster>)
+Date: Wed, 22 Jan 2020 10:47:41 -0500
+From: "Medicare Plan" <medicare-plan@crene.monster>
+To:   <bruce@untroubled.org>
+Subject: Winter 2020! One Stop Shop for Medicare
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_277_481282357.1579708049674"
+List-Unsubscribe: <http://www.crene.monster/rotational-dolphins/7ec6N2x3i95zTC8911NM11yS1a72T21pFv4GIf4rxvs4FhIHEsvZ10YQbRRKnoq97yyy1C_05Fz2Hi>
+Message-ID: <0.0.0.1E.1D5D13B47E79778.217057@mail.crene.monster>
+Content-Length: 4384
+
+------=_Part_277_481282357.1579708049674
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>Copeland</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <div style=3D"text-align: center; ">
+    <span style=3D"font-family:arial,helvetica,sans-serif; "><span style=3D=
+"font-size:24px; "><a href=3D"http://www.crene.monster/exponential-barbecues/8Fa5g239N5qmY8613i73PDc0y1a72G21VFv4GIf4rxvs4FhIHEsvZ10SQbRRKnoq97FD1_U0R5gOyHi">Get Medicare today</a></span></sp=
+an>
+    <br />=20
+    <br /> &nbsp;=20
+   </div>=20
+   <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"border-collapse: collapse !important; caret-color: rgb(0, 0, 0); =
+color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; fon=
+t-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphan=
+s: auto; text-indent: 0px; text-transform: none; white-space: normal; widow=
+s: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-st=
+roke-width: 0px; text-decoration: none; max-width: 700px; width: 700px; mar=
+gin: 0px auto; padding-left: 0px; border: none; display: block; background-=
+color: white; " width=3D"700">=20
+    <tbody>=20
+     <tr>=20
+      <td class=3D"image"><a href=3D"http://www.crene.monster/exponential-barbecues/8Fa5g239N5qmY8613i73PDc0y1a72G21VFv4GIf4rxvs4FhIHEsvZ10SQbRRKnoq97FD1_U0R5gOyHi" style=3D"text-decoration: =
+none; " target=3D"blank"><img alt=3D"MedicarePlan.com" src=3D"http://www.crene.monster/2875S23A95t7BBa12e7R3c3U1a72X21NFv4GIf4rxvs4FhIHEsvZ10cQbRRKnoq95X1YA06L@ylHi/Sheldon-entirety" =
+style=3D"border: 0px solid; outline: currentcolor none medium; text-decorat=
+ion: none; margin: 0px auto; padding-left: 0px; display: block; width: 91%;=
+ float: right; " /></a></td>=20
+     </tr>=20
+     <tr>=20
+      <td align=3D"center" style=3D"font-family: &quot; Gill Sans&quot; , H=
+elvetica, Arial, &quot; sans-serif&quot; ; font-size: 12px; color: rgb(153,=
+ 153, 153); ">If you' d prefer not to get any emails Push <a href=3D"=
+http://www.crene.monster/rotational-dolphins/3f06YQ2t395R86OU11l73c1i1a72R21cFv4GIf4rxvs4FhIHEsvZ10OQbRRKnoq97OYtS1Q06vpyH1i" style=3D"text-decoration: none; font-family: &quot; Gill Sans&quot; ,=
+ Helvetica, Arial, &quot; sans-serif&quot; ; font-size: 12px; color: rgb(15=
+3, 153, 153); ">Here</a></td>=20
+     </tr>=20
+     <tr>=20
+      <td align=3D"center" style=3D"font-family: &quot; Gill Sans&quot; , H=
+elvetica, Arial, &quot; sans-serif&quot; ; font-size: 12px; color: rgb(153,=
+ 153, 153); ">Or Write to: 113 Cherry Street #88030, Seattle, WA 98104-2205=
+</td>=20
+     </tr>=20
+     <tr>=20
+      <td style=3D"text-align: center; "><br /> <span style=3D"font-size:11=
+px; "><span style=3D"color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br st=
+yle=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; fon=
+t-style: normal; font-variant-caps: normal; font-weight: normal; letter-spa=
+cing: normal; orphans: auto; text-align: center; text-indent: 0px; text-tra=
+nsform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit=
+-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: n=
+one; font-family: Helvetica; " /> <span style=3D"caret-color: rgb(0, 0, 0);=
+ font-style: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; text-align: center; text-indent: 0px; text-transform: non=
+e; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -we=
+bkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica;=
+ float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span=
+></span></span><br /> <span style=3D"color:#A9A9A9; ">Leave <a href=3D"=
+http://www.crene.monster/Koran-coziness/1024G2395M8XJ913i73Ic2li1a72W21bFv4GIf4rxvs4FhIHEsvZ10KQbRRKnoq95f10TS6lOUHiP">email here</a></span><br /> &nbsp; </td>=20
+     </tr>=20
+    </tbody>=20
+   </table> <span face="shielded"></span><span></span><font size="unstable"><font title="unilluminating"><small></small></font></font><big><font></font></big><style size="machining"><font color="senators"></font></style>
+  </center>  =20
+ <img src=3D"http://www.crene.monster/8275U23J95nl85Y13t7x3Gc4Z1a72w21vFv4GIf4rxvs4FhIHEsvZ10bQbRRKnoq95R1NI05jXqHi/stuffiest-populations" alt=3D""/></body>
+</html>
+
+------=_Part_277_481282357.1579708049674--
+

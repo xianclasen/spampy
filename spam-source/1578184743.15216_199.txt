@@ -1,0 +1,110 @@
+Return-Path: <SRS0=REAojq=2X=mail.medifeet.best=5699-9790-262549-1532-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 11611 invoked from network); 2 Jan 2020 13:37:28 -0000
+Received: (qmail 10156 invoked from network); 2 Jan 2020 13:37:27 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 13:37:27 -0000
+Received: (qmail 32290 invoked by uid 48516); 2 Jan 2020 13:37:27 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8995 invoked from network); 2 Jan 2020 13:37:27 -0000
+Received: from eagle.medifeet.best (client-23-254-229-85.hostwindsdns.com [23.254.229.85])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 02 Jan 2020 13:37:20 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=medifeet.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=FlatBellyOvernight@medifeet.best;
+ bh=xPrJDwOQiHOVp4VNGmY0VN83Dyc=;
+ b=qONfXHCEJjy9Koi8ZkkDYu5FtP+gkQ2kxRkufiCO7LkrmW/HqFRfCTWIa7DqTE6SXEqkCD2oSaMC
+   JiW5jUVaTHosU6zWWIkD5n6p07FYZbFZCHGXUddZtwVhH07UPfFEnpal4xdHq5VOLzcGdztBIzkY
+   SpnfGFy8q/DsQp8Mqdo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=medifeet.best;
+ b=h5VI8paccEp4naRIf0XJSuOvryO+y/nZ3aVi4r0xGa9aIZwWo1SnYm4Oz+jAxWZaUmtKpcglr787
+   OOqGA64d9xV73FvwBaruXnbvuLuY+zEiJVzOB1Q6M/ZB0Vsqnzo0HhjMbZDnf504MuYXQ/oVQF4f
+   MmgFWbPXrdwzYT8jJ4k=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="5f5bfe4e3b874af9a6f74ed9879c0bff_263e_40195"
+Date: Thu, 2 Jan 2020 08:37:03 -0500
+From: "Flat Belly Overnight" <FlatBellyOvernight@medifeet.best>
+Reply-To: "Belly Fat Free" <BellyFatMelter@medifeet.best>
+Subject: OMG you have to see this (so weird)
+To: <bruce@untroubled.org>
+Message-ID: <ce1ttyqqdzqdgopi-3tftb7f1rnlwq2hh-263e-40195@medifeet.best>
+Content-Length: 7819
+
+--5f5bfe4e3b874af9a6f74ed9879c0bff_263e_40195
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+OMG you have to see this (so weird)
+
+http://medifeet.best/i3pc0xR4JC9Em7WRDtDcq8fbkCPbLoIXGUV7Fyt_m3U_R8-J
+
+http://medifeet.best/XhbL6BqUIlzVgaiQcPgks8Iu0oy7uOggcYCKvye6-X7A4jLA
+
+ge pump is a water pump used to remove bilge water. Since fuel can be present in the bilge, electric bilge pumps are designed to not cause sparks. Electric bilge pumps are often fitted with float switches which turn on the pump when the bilge fills to a set level. Since bilge pumps can fail, use of a backup pump is often advised. The primary pump is normally located at the lowest point of the bilge, while the secondary pump would be located somewhat higher. This ensures that the secondary pump activates only when the primary pump is overwhelmed or fails, and keeps the secondary pump free of the debris in the bilge that tends to clog the primary pump.
+
+Ancient bilge force pumps had a number of common uses. Depending on where the pump was located in the hull of the ship, it could be used to suck in sea water into a live fish tank to preserve fish until the ship was docked and the fish ready to be sold. Another use of the force pump was to combat fires. Water would again be sucked in through the bottom of the hull, and then pumped onto the blaze. Yet another suggested use for a force pump was to dispel water from a ship. The pump would be placed near the bottom of the hull so as to suck water out of the ship. Force pumps were used on land as well. They could be used to bring water up from a well or to fill high placed tanks so that water could be pressure pumped from these tanks. These tanks were for household use and/or small-scale irrigation. The force pump was portable and could therefore, as on ships, be used to fight fire.
+
+Foot power bilge pump.png
+Force pumps could be made of either wood or bronze. Based on ancient texts, it seems that bronze was the preferred material since it lasted longer and was more easily transported. Wood was easier to build, put together, and repair but was not as durable as bronze. Because these were high-value objects, few are found in shipwrecks; they were often recovered after the ship sank. Force pumps were fairly simple in their construction consisting of a cylinder, a piston, and a few valves. Water would fill the cylinder after which the piston would descend into the cylinder, causing the water to move to a higher placed pipe. The valve would close, locking the water into the higher pipe, and then propelling it in a jet strea
+
+--5f5bfe4e3b874af9a6f74ed9879c0bff_263e_40195
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://medifeet.best/sm3_lPiQS5mvr9i1pNxPKd2d1qqrb3GutuNFLb3gnVCjNguo"><img src="http://medifeet.best/98cfa0e98d49615861.jpg" /><img height="1" src="http://www.medifeet.best/8Wc0sVKnwFHlvTxChJ4m1VkCGnh_LUpN1J38e3wKqpPhgTfW" width="1" /></a>
+<center>
+<div style="width:550px;font-family:Arial;font-size:16px;border:1px solid #000000;text-align:left;padding:10px;">Did you know you can eat bacon, cheese, burgers, and other <a href="http://medifeet.best/i3pc0xR4JC9Em7WRDtDcq8fbkCPbLoIXGUV7Fyt_m3U_R8-J" style="font-weight:bold;color:#1700ef;">delicious fatty foods while still losing weight?</a><br />
+&nbsp;
+<center><a href="http://medifeet.best/i3pc0xR4JC9Em7WRDtDcq8fbkCPbLoIXGUV7Fyt_m3U_R8-J"><img src="http://medifeet.best/fc3dbeeda2836d818e.jpg" /></a></center>
+<br />
+<br />
+May sound hard to believe but that&#39;s exactly what&#39;s happening for millions of Americans right now.<br />
+<br />
+It&#39;s all detailed in <a href="http://medifeet.best/i3pc0xR4JC9Em7WRDtDcq8fbkCPbLoIXGUV7Fyt_m3U_R8-J" style="font-weight:bold;color:#1700ef;">this wild presentation.</a><br />
+<br />
+<a href="http://medifeet.best/i3pc0xR4JC9Em7WRDtDcq8fbkCPbLoIXGUV7Fyt_m3U_R8-J" style="font-weight:bold;color:#1700ef;">What happens when you eat fatty foods?</a><br />
+<br />
+Well, when you eat enough of them, you can <a href="http://medifeet.best/i3pc0xR4JC9Em7WRDtDcq8fbkCPbLoIXGUV7Fyt_m3U_R8-J" style="font-weight:bold;color:#1700ef;">turn your body into a fat burning machine.</a><br />
+<br />
+By consuming fat, you can set your body into something called &quot;ketosis&quot;... maybe you&#39;ve heard of it?<br />
+<br />
+When your body is in ketosis, it uses FAT for fuel instead of sugar...<br />
+<br />
+Which means you don&#39;t STORE fat around your belly and thighs, you burn it!<br />
+<br />
+And now there&#39;s a <a href="http://medifeet.best/i3pc0xR4JC9Em7WRDtDcq8fbkCPbLoIXGUV7Fyt_m3U_R8-J" style="font-weight:bold;color:#1700ef;">new way of getting your body into ketosis</a>, even faster &amp; easier.<br />
+<br />
+<a href="http://medifeet.best/i3pc0xR4JC9Em7WRDtDcq8fbkCPbLoIXGUV7Fyt_m3U_R8-J" style="font-weight:bold;color:#1700ef;">Check it out here.</a></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://medifeet.best/lPJ1D20Lnh1akY6te2czzVURU_g0djfLtclqOTqHHfC4RqzQ" target="_blank"><img src="http://medifeet.best/476b58129f1ee5b911.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p style="color:#FFFFFF;">ge pump is a water pump used to remove bilge water. Since fuel can be present in the bilge, electric bilge pumps are designed to not cause sparks. Electric bilge pumps are often fitted with float switches which turn on the pump when the bilge fills to a set level. Since bilge pumps can fail, use of a backup pump is often advised. The primary pump is normally located at the lowest point of the bilge, while the secondary pump would be located somewhat higher. This ensures that the secondary pump activates only when the primary pump is overwhelmed or fails, and keeps the secondary pump free of the debris in the bilge that tends to clog the primary pump. Ancient bilge force pumps had a number of common uses. Depending on where the pump was located in the hull of the ship, it could be used to suck in sea water into a live fish tank to preserve fish until the ship was docked and the fish ready to be sold. Another use of the force pump was to combat fires. Water would again be sucked in through the bottom of the hull, and then pumped onto the blaze. Yet another suggested use for a force pump was to dispel water from a ship. The pump would be placed near the bottom of the hull so as to suck water out of the ship. Force pumps were used on land as well. They could be used to bring water up from a well or to fill high placed tanks so that water could be pressure pumped from these tanks. These tanks were for household use and/or small-scale irrigation. The force pump was portable and could therefore, as on ships, be used to fight fire. Foot power bilge pump.png Force pumps could be made of either wood or bronze. Based on ancient texts, it seems that bronze was the preferred material since it lasted longer and was more easily transported. Wood was easier to build, put together, and repair but was not as durable as bronze. Because these were high-value objects, few are found in shipwrecks; they were often recovered after the ship sank. Force pumps were fairly simple in their construction consisting of a cylinder, a piston, and a few valves. Water would fill the cylinder after which the piston would descend into the cylinder, causing the water to move to a higher placed pipe. The valve would close, locking the water into the higher pipe, and then propelling it in a jet strea</p>
+&nbsp;
+
+<center><a href="http://medifeet.best/lPJ1D20Lnh1akY6te2czzVURU_g0djfLtclqOTqHHfC4RqzQ" target="_blank"><img src="http://medifeet.best/ca9d5d25aed4229330.jpg" /></a></center>
+<br />
+<br />
+&nbsp;</center>
+</body>
+</html>
+
+--5f5bfe4e3b874af9a6f74ed9879c0bff_263e_40195--

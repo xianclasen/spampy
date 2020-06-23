@@ -1,0 +1,84 @@
+Return-Path: <SRS0=klNtJo=3B=zenewa.buzz=canvasprints_promo-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 8150 invoked from network); 12 Jan 2020 16:40:12 -0000
+Received: (qmail 21736 invoked from network); 12 Jan 2020 16:40:11 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 16:40:11 -0000
+Received: (qmail 22079 invoked by uid 48516); 12 Jan 2020 16:40:11 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 20838 invoked from network); 12 Jan 2020 16:40:11 -0000
+Received: from mail.zenewa.buzz ([193.201.140.136])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 12 Jan 2020 16:40:09 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=zenewa.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints_promo@zenewa.buzz;
+ bh=3lmkL1UUrUuAWQeT8AusGvCwyl8=;
+ b=ljU/YGE1N6jOW/V6epPFSIMumaJukf+Y89Yt17Ppvy0H1MMTj9671OtidSQdRdVIN3fNYJZuJEA8
+   Bo8b7dLKH7gemw6lGIOvDjxVqhTMD/vZyAvvix3j2WMcu/ti0rsSrFGFXAtuQAhm0XlL/zt9GgnF
+   yvLqufWqodp+CnUtC6Y=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=zenewa.buzz;
+ b=UnpuMQklI11DJZT66HvRQPL52vMySGnZR6yvsZRWCQKSxp9mgIAvY+IMMQ0v2ZlqpBx/CQNkRMPT
+   wy7WgEUvkPsgXGOj4nJ24lzRdr4htMQCOVUT1BWSuK9EeqEDsCiXx5Cw+iuSZXftyKt1C5GuNbz5
+   d8fOAffKvzyG6oj479Q=;
+Received: by mail.zenewa.buzz id h3d5ui0001g7 for <bruce@untroubled.org>; Sun, 12 Jan 2020 11:33:27 -0500 (envelope-from <canvasprints_promo-bruce=untroubled.org@zenewa.buzz>)
+Date: Sun, 12 Jan 2020 11:33:27 -0500
+From: "CanvasPrints Promo" <canvasprints_promo@zenewa.buzz>
+To:   <bruce@untroubled.org>
+Subject: Fall Savings start now! Up to 93% on Custom Canvas Prints!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_154_519449235.1578846797206"
+List-Unsubscribe: <http://www.zenewa.buzz/9cb5Vv2395DV89U13Y1TM1jkU1a19m21uFv4GIf4rxvs4FhIHEsvZ10RQYRQK9oUK6m1qW0R6oNzqHi/jolts>
+Message-ID: <0.0.0.11.1D5C966045CB4DE.456355@mail.zenewa.buzz>
+Content-Length: 3428
+
+------=_Part_154_519449235.1578846797206
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>looping equatorial</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.zenewa.buzz/scatterbrain/7ec6OyD2395Y8OY613aw71Tf4M1a19p21MFv4GIf4rxvs4FhIHEsvZ10VQYRQK9oUK6PN1GI06tjHil@">=
+SUPER SALE&nbsp; GET 93% off &nbsp; </a></span></span><br /> <br /> <a href=
+=3D"http://www.zenewa.buzz/scatterbrain/7ec6OyD2395Y8OY613aw71Tf4M1a19p21MFv4GIf4rxvs4FhIHEsvZ10VQYRQK9oUK6PN1GI06tjHil@"><img alt=3D"easy canvas" src=3D"http://www.zenewa.buzz/phonemes/15c5zG2395SYm7a12O71f7HS1a19B21bFv4GIf4rxvs4FhIHEsvZ10QQYRQK9oUK6bsy10s5PJHWi" style=3D"width=
+: 667px; height: 731px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Press&nbsp; <a =
+href=3D"http://www.zenewa.buzz/a435zX2395f8F6O11g71f5l1a19h21eFv4GIf4rxvs4FhIHEsvZ10DQYRQK9oUK6fVV10_6WXzlHi/solubility">here&nbsp; </a><br /> Or Write to: 11525A Stonehollow D=
+r. Suite 100 Austin, TX 78758<br /> <br /> 6547 N Academy Blvd #2128<br /> =
+COLORADO SPRINGS CO 80918<br /> Remove <a href=3D"http://www.zenewa.buzz/jolts/44a4N2395dA89O13z71f6rPz1a19j21eFv4GIf4rxvs4FhIHEsvZ10mQYRQK9oUK5D1Kr06DAUTHi">Here<=
+/a><br /> <br /> <br /> <style></style><style id="magician"></style><span color="stockades"><span></span><span class="garbages"><span title="shouter"></span></span><font lang="storyteller"></span></font><font></font><font class="Medea"></font><span></span></span></span><br /> <br /> <spa=
+n style=3D"color:#FFFFFF; ">Iran' s sole female Olympic medalist, Kimia Ali=
+zadeh, has announced that she' s permanently left her country for Europe. &=
+quot; Let me start with a greeting, a farewell or condolences,&quot; the 21=
+-year-old wrote in an Instagram post explaining why she was defecting. &quo=
+t; I am one of the millions of oppressed women in Iran who they have been p=
+laying with for years.&quot; Alizadeh became the first Iranian woman to win=
+ an Olympic medal after claiming bronze in the 57kg category of Taekwondo a=
+t the 2016 Rio Olympics. Affectionately known in Iran as &quot; The Tsunami=
+,&quot; Alizadeh announced she was leaving her birth country amid searing c=
+riticism of the regime in Tehran. &quot; They took me wherever they wanted.=
+ I wore whatever they said. Every sentence they ordered me to say, I repeat=
+ed. Whenever they saw fit, they exploited me,&quot; she wrote, adding that =
+credit for her success always went to those in charge.</span><br /> <br /> =
+<br /> &nbsp; </p>=20
+  </center> <style><span dir="Andalusians"><font title="satisfactorily"><font title="recompiles"></font><big><font title="thrived"></font><span face="overprinting"></span></big><span style="Tibetan"></span></span></style></font><style></style> =20
+ <img src=3D"http://www.zenewa.buzz/misconceptions/1b66i2_3W95Ch8r512l71kf8F1a19S21tFv4GIf4rxvs4FhIHEsvZ10hQYRQK9oUK7mL1V0hJ6z1APHi" alt=3D""/></body>
+</html>
+
+------=_Part_154_519449235.1578846797206--
+

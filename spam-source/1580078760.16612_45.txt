@@ -1,0 +1,155 @@
+Return-Path: <SRS0=o2qVNx=3P=mail.bloodpressupl.co=7036-2982-85526-1876-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 5290 invoked from network); 26 Jan 2020 11:55:51 -0000
+Received: (qmail 6718 invoked from network); 26 Jan 2020 11:55:50 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 26 Jan 2020 11:55:50 -0000
+Received: (qmail 17408 invoked by uid 48516); 26 Jan 2020 11:55:50 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 15167 invoked from network); 26 Jan 2020 11:55:50 -0000
+Received: from giga.bloodpressupl.co ([170.130.174.39])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 26 Jan 2020 11:55:34 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=bloodpressupl.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=WiFirepeater@bloodpressupl.co;
+ bh=UZbw8etfJw2ULO7mf/hJRDPhCdE=;
+ b=PpGHJBKAdp44XAIvQxGE3skflP1NtUNBH+jTTrYGgzR6gAdUkioyODYcPolJyBUHT2UzQXP8a0pE
+   ihxy8Trqy60yZt9IleujzY6TQsJi7ozjhQqnk0SPq4ef0ap0OCAgHryLEiOkOLPMYlbEQY5N0gte
+   YO5O8SHMI3Zyp4uQ3Pk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=bloodpressupl.co;
+ b=jGjjBa0jp68umr9lketFvgL7Meu/G1KjE8pfUTHuc27QuJ8zVr8tMD6u9y9U3joT5dX+o+zE0/lJ
+   SyCdvfe05ZwBuKZaN3pYTb6hUX3kqYVix4NPog6XLjozUjELLZfivyMKhKvnXs1lIySSn0+E8+jP
+   GhjxlIqDRTvmVyL2L+s=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="995fcc73ac4f124f98292551722e2aba_ba6_14e16"
+Date: Sun, 26 Jan 2020 06:53:44 -0500
+From: "Ultraboost WiFi" <WiFirepeater@bloodpressupl.co>
+Reply-To: "Ultraboost WiFi" <UltraboostWiFi@bloodpressupl.co>
+Subject: No more buffering! WiFiBoost speeds up your internet
+To: <bruce@untroubled.org>
+Message-ID: <0txaq0oth4obvk0c-x1hei387m5hbsdjn-ba6-14e16@bloodpressupl.co>
+Content-Length: 10413
+
+--995fcc73ac4f124f98292551722e2aba_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+No more buffering! WiFiBoost speeds up your internet
+
+http://bloodpressupl.co/LbvcdZsNt_k8XAvj9qCRMaUdmRntsZrN_1dquR_WQhFr9oxm
+
+http://bloodpressupl.co/pcgSGI8ZwAKXRiv9Nx647WhhwhiPOtsZ02UeiZUUqd2MgGZ1
+
+
+Leaves of Grass has its genesis in an essay called The Poet by Ralph Waldo Emerson, published in 1844, which expressed the need for the United States to have its own new and unique poet to write about the new country's virtues and vices. Whitman, reading the essay, consciously set out to answer Emerson's call as he began working on the first edition of Leaves of Grass. Whitman, however, downplayed Emerson's influence, stating, "I was simmering, simmering, simmering; Emerson brought me to a boil".
+
+
+"America"
+MENU0:00
+An 1890 recording, thought to be of Walt Whitman, reading the opening four lines of his poem "America", which is included in Leaves of Grass.
+"Crossing Brooklyn Ferry"
+MENU0:00
+Kenneth Goldsmith performs an excerpt of Walt Whitman's "Crossing Brooklyn Ferry", from Leaves of Grass, on the May 11, 2011 White House Music & the Arts Podcast during the President Obama & Poets at the White House event.
+Problems playing these files? See media help.
+On May 15, 1855, Whitman registered the title Leaves of Grass with the clerk of the United States District Court, Southern District of New Jersey, and received its copyright. The first edition was published on July 4, 1855, in Brooklyn, at the printing shop of two Scottish immigrants, James and Andrew Rome, whom Whitman had known since the 1840s. The shop was located at Fulton Street (now Cadman Plaza West) and Cranberry Street, now the site of apartment buildings that bear Whitman's name. Whitman paid for and did much of the typesetting for the first edition himself. The book did not include the author's name, and instead offered an engraving by Samuel Hollyer depicting Whitman in work clothes and a jaunty hat, arms at his side. Early advertisements for the first edition appealed to "lovers of literary curiosities" as an oddity. Sales on the book were few, but Whitman was not discouraged.
+
+The first edition was very small, collecting only twelve unnamed poems in 95 pages. Whitman once said he intended the book to be small enough to be carried in a pocket. "That would tend to induce people to take me along with them and read me in the open air: I am nearly always successful with the reader in the open air", he explained. About 800 were printed, though only 200 were bound in its trademark green cloth cover. The only American library known to have purchased a copy of the first edition was in Philadelphia. The poems of the first edition, which were given titles in later issues, were "Song of Myself", "A Song for Occupations", "To Think of Time", "The Sleepers", "I Sing the Body Electric", "Faces", "Song of the Answerer", "Europe: The 72d and 73d Years of These States", "A Boston Ballad", "There Was a Child Went Forth", "Who Learns My Lesson Complete?", and "Great Are the Myths".
+
+The title Leaves of Grass was a pun. "Grass" was a term given by publishers to works of minor value, and "leaves" is another name for the pages on which they were printed.
+
+Whitman sent a copy of the first edition of Leaves of Grass to Emerson, who had inspired its creation. In a letter to Whitman, Emerson wrote, "I find it the most extraordinary piece of wit and wisdom America has yet contributed." He went on, "I am very happy in reading it, as great power makes us happy."
+
+--995fcc73ac4f124f98292551722e2aba_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><br />
+<a href="http://bloodpressupl.co/Pm8yWRHptv7jA9qefqe_o42vtV4uy08gS_qyx6kan54imqQU"><img src="http://bloodpressupl.co/1f3042a907e33b1caf.jpg" /><img height="1" src="http://www.bloodpressupl.co/swbpmAGcuhBoFKG2ih3gVfycqtbuRe1dvhSOtU3NbKnxvSoR" width="1" /></a>
+<center>
+<div style="width:650px;padding:10px;border:2px solid #000000;"><a href="http://bloodpressupl.co/LbvcdZsNt_k8XAvj9qCRMaUdmRntsZrN_1dquR_WQhFr9oxm" style="color:#000000;font-family:Arial;font-size:20px;font-weight:bold;font-size:26px;">Ultra WiFi Booster - Your Cure for Spotty Internet</a><br />
+&nbsp;
+<div style="color:#FF0000;font-weight:bold;font-family:Arial;font-size:21px;">Limited Time Offer - Get 50% + Free Shipping</div>
+&nbsp; <a href="http://bloodpressupl.co/LbvcdZsNt_k8XAvj9qCRMaUdmRntsZrN_1dquR_WQhFr9oxm"><img src="http://bloodpressupl.co/06bab02f940db5425e.png" /></a><br />
+<br />
+&nbsp;
+<div style="font-weight:bold;font-family:Arial;font-size:19px;">Supercharge Your Wifi Signal &amp; Experience the Internet at Speeds You Never Thought Possible!</div>
+<br />
+<br />
+According to IT experts, in your own home -<b> walls, floors, internal wiring, even furniture or other devices like big screen TVs and microwaves can block your internet signal and ruin your WiFi reception.</b> Luckily, Wifi Booster is here to the rescue. Boost your internet speed up to 400Mbps!<br />
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td><a href="http://bloodpressupl.co/LbvcdZsNt_k8XAvj9qCRMaUdmRntsZrN_1dquR_WQhFr9oxm"><img src="http://bloodpressupl.co/3de7b50dd968fa4267.png" /></a></td>
+			<td style="color:red; font-weight:bold;">&nbsp;
+			<ul>
+				<li><b>Power of Wifi Booster</b></li>
+				<br />
+				<li>Eliminates &quot;Dead Zones&quot;</li>
+				<br />
+				<li>Increases Internet Speed</li>
+				<br />
+				<li>Boosts WiFi Signal Range</li>
+				<br />
+				<li>High Speed of 400 Mbps</li>
+				<br />
+				<li>Get Signal Anywhere (Even the basement/backyard)</li>
+				<br />
+				<li>&nbsp;</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+Once plugged in, Wifi Booster starts to emit its <b>&quot;blazing-fast&quot;</b> signal. You will immediately be able to stream HD movies, Netflix, Youtube, FaceTime, and Skype without frustrating loading times.
+
+<div style="padding:10px;color:#C82326;font-family:Arial;font-weight:bold;"><br />
+<br />
+<span style="color:#FF0000;">Hurry - Limited Stock!</span></div>
+<br />
+<br />
+<a href="http://bloodpressupl.co/LbvcdZsNt_k8XAvj9qCRMaUdmRntsZrN_1dquR_WQhFr9oxm" style="color:#ffffff;font-size:18px;font-weight:bold; background-color:#339CA0; border-radius:8px; padding:15px; text-decoration:none;">Learn More Here &gt;&gt;</a><br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://bloodpressupl.co/h7cGXealLwKXul-R6iiU2SDimepbqJJAXumKym_TkIpn8y4q" target="_blank"><img src="http://bloodpressupl.co/1a3f6b884a5fd3538a.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:10px;">Leaves of Grass has its genesis in an essay called The Poet by Ralph Waldo Emerson, published in 1844, which expressed the need for the United States to have its own new and unique poet to write about the new country&#39;s virtues and vices. Whitman, reading the essay, consciously set out to answer Emerson&#39;s call as he began working on the first edition of Leaves of Grass. Whitman, however, downplayed Emerson&#39;s influence, stating, &quot;I was simmering, simmering, simmering; Emerson brought me to a boil&quot;. &quot;America&quot; MENU0:00 An 1890 recording, thought to be of Walt Whitman, reading the opening four lines of his poem &quot;America&quot;, which is included in Leaves of Grass. &quot;Crossing Brooklyn Ferry&quot; MENU0:00 Kenneth Goldsmith performs an excerpt of Walt Whitman&#39;s &quot;Crossing Brooklyn Ferry&quot;, from Leaves of Grass, on the May 11, 2011 White House Music &amp; the Arts Podcast during the President Obama &amp; Poets at the White House event. Problems playing these files? See media help. On May 15, 1855, Whitman registered the title Leaves of Grass with the clerk of the United States District Court, Southern District of New Jersey, and received its copyright. The first edition was published on July 4, 1855, in Brooklyn, at the printing shop of two Scottish immigrants, James and Andrew Rome, whom Whitman had known since the 1840s. The shop was located at Fulton Street (now Cadman Plaza West) and Cranberry Street, now the site of apartment buildings that bear Whitman&#39;s name. Whitman paid for and did much of the typesetting for the first edition himself. The book did not include the author&#39;s name, and instead offered an engraving by Samuel Hollyer depicting Whitman in work clothes and a jaunty hat, arms at his side. Early advertisements for the first edition appealed to &quot;lovers of literary curiosities&quot; as an oddity. Sales on the book were few, but Whitman was not discouraged. The first edition was very small, collecting only twelve unnamed poems in 95 pages. Whitman once said he intended the book to be small enough to be carried in a pocket. &quot;That would tend to induce people to take me along with them and read me in the open air: I am nearly always successful with the reader in the open air&quot;, he explained. About 800 were printed, though only 200 were bound in its trademark green cloth cover. The only American library known to have purchased a copy of the first edition was in Philadelphia. The poems of the first edition, which were given titles in later issues, were &quot;Song of Myself&quot;, &quot;A Song for Occupations&quot;, &quot;To Think of Time&quot;, &quot;The Sleepers&quot;, &quot;I Sing the Body Electric&quot;, &quot;Faces&quot;, &quot;Song of the Answerer&quot;, &quot;Europe: The 72d and 73d Years of These States&quot;, &quot;A Boston Ballad&quot;, &quot;There Was a Child Went Forth&quot;, &quot;Who Learns My Lesson Complete?&quot;, and &quot;Great Are the Myths&quot;. The title Leaves of Grass was a pun. &quot;Grass&quot; was a term given by publishers to works of minor value, and &quot;leaves&quot; is another name for the pages on which they were printed. Whitman sent a copy of the first edition of Leaves of Grass to Emerson, who had inspired its creation. In a letter to Whitman, Emerson wrote, &quot;I find it the most extraordinary piece of wit and wisdom America has yet contributed.&quot; He went on, &quot;I am very happy in reading it, as great power makes us happy.&quot; </span></center>
+</body>
+</html>
+
+--995fcc73ac4f124f98292551722e2aba_ba6_14e16--

@@ -1,0 +1,94 @@
+Return-Path: <SRS0=4aQfWE=3E=mail.sciencnenatural.co=6405-2982-85526-1715-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 543 invoked from network); 15 Jan 2020 08:36:29 -0000
+Received: (qmail 9963 invoked from network); 15 Jan 2020 08:36:29 -0000
+Received: from pt06.futurequest.net (pt06.futurequest.net [69.5.6.196])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Jan 2020 08:36:29 -0000
+Received: (qmail 26560 invoked by uid 48516); 15 Jan 2020 08:36:28 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 22607 invoked from network); 15 Jan 2020 08:36:28 -0000
+Received: from mike.sciencnenatural.co (onsdb0d54.onsitecool.site [170.130.172.195])
+  by pt06.futurequest.net ([69.5.6.196])
+  with ESMTP via TCP; 15 Jan 2020 08:36:25 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=sciencnenatural.co;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=**AmericanCareerGuide**@sciencnenatural.co;
+ bh=/+UXzRVb1P+uYVn36c/HAGVIU3E=;
+ b=NEFL23fnAlq/s5MASdcVgQWETEy8JzMOJBfCSHy0+SJjt3C2hRJyo2qv1lCTtn0N6SO2mW8zbbXt
+   KKB/K0cs1uRYG2bCw+TvLWaiG9vvMshjfKBFVsnL7BFTjmwpvBVIrDGwtL9jY/M6vjMHEWpxifY6
+   ExznA1tCRufhBiRYjGc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=sciencnenatural.co;
+ b=faIrVqLG6xLvbEJQ7WWqvED4xoue+3QgWdfiSK2Vb0Ro0QSc6qMm0EF3K31bzNWTAkkuRMRiRWAq
+   jWgfY9GbIopdULehf2cXtRLJN+3UjCjejgxMeDsBn5mBREax3JPzHuRtcxcHKXOA26tHb5E4rljc
+   SYf+RkknlZyQiPmk8fU=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="5061016935c1da6705cf2b2457b31c4d_ba6_14e16"
+Date: Wed, 15 Jan 2020 03:35:10 -0500
+From: "American Career Guide" <**AmericanCareerGuide**@sciencnenatural.co>
+Reply-To: "American Career Guide" <AmericanCareerGuide@sciencnenatural.co>
+Subject: High paying job alerts in your city, Need a new gig? $25/hr, Jobs available in your area
+To: <bruce@untroubled.org>
+Message-ID: <lh6cjwqxunuspvpi-05ulwp2pogf7w6hp-ba6-14e16@sciencnenatural.co>
+Content-Length: 6934
+
+--5061016935c1da6705cf2b2457b31c4d_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+High paying job alerts in your city, Need a new gig? $25/hr, Jobs available in your area
+
+http://sciencnenatural.co/wntVW8AKN0x7i1FOWjVvxCyPql0poGamDdxndfKAjqNyhmkC
+
+http://sciencnenatural.co/7GZeGSpqb4ffYfRNhoA1haVFoWBXTAjGUoGfyLYPRnbD8HBn
+
+Soekarno was born in Kutoarjo, Central Java, on 7 May 1920. The son of a noble priyayi family, he had access to a high level of education, completing his MULO studies before learning bookkeeping. His first job was as the bookkeeper for a cinema.
+
+In 1941, as the domestic film industry was seeking young, educated actors to improve the public perception of cinema, Soekarno was approached by Union Films and cast in their production Soeara Berbisa, a film which told of two men who compete for a woman's love before discovering that they are brothers. He appeared in another film for Union later that year, when he played a young assistant pharmacist in the company's romance Mega Mendoeng (1942). In March 1942, following the Japanese occupation of the Dutch East Indies, Union was closed, and Soekarno, though working on an adaptation of the legend Damarwulan, was let go.
+Soekarno with Boen Sofiati in Mega Mendoeng (1942)
+
+Soekarno migrated to theatre, spending most of the occupation with the amateur theatre troupe Maya (under Usmar Ismail), though he did act in a single short propaganda film: Di Menara (1943). Following the surrender of Japan in August 1945, the Dutch colonial forces, supported by the Allies, returned to the Indonesian archipelago. In the ensuing Indonesian National Revolution (1945–1949), Soekarno was active with Fred Young's Bintang Soerabaja professional theatre troupe.
+
+In 1948, towards the end of the revolution, Soekarno returned to film, taking a role in the South Pacific Film Corporation (SPFC) production Anggrek Bulan. On this film, he again worked with Ismail, who was serving as assistant director. Soekarno took another two roles in SPFC films in 1949, in Harta Karun and Tjitra. When the company was merged with Berita Film Indonesia to form Perusahaan Film Negara (PFN; the State Film Company), Soekarno migrated to Young's Bintang Surabaja and appeared in a number of their films, including Bintang Surabaja 1951 (1950), Djembatan Merah (1950), and Selamat Berdjuang, Masku! (1951).
+
+As the 1950s progressed, Soekarno worked for a number of companies, including Djamaluddin Malik's Persari (Rodrigo de Villa, 1952) and PFN (Penjelundup, 1952). He also made his directorial debut in Rentjong dan Surat (1953). Soekarno's greatest popularity, however, was attained through his work with Ismail's Perfini studio, for whom he first appeared in 1953's Kafedo and Krisis. He gained the greatest popular recognition for his role in the latter film, a comedy about the conflicts between different families occupying the same house, and appeared in its sequel Lagi-Lagi Krisis two years later. Shortly afterwards, Soekarno changed his name to Rendra Karno, heeding a recent demand from President Soekarno that all European and feudal names (such as the title Raden) be abandoned.
+
+--5061016935c1da6705cf2b2457b31c4d_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://sciencnenatural.co/-8qgUsTavVRfDno7ADUFTsRmZ0WNtu3qOHhbvCTIg0dZCiUm"><img src="http://sciencnenatural.co/f7a438b59654fc7a1b.jpg" /><img height="1" src="http://www.sciencnenatural.co/mDflI3vVY0-QW9V8NIo4ZAmGw1a08CcUi0C7lauX2GAPzm5i" width="1" /></a>
+<center>
+<div><br />
+<br />
+<a href="http://sciencnenatural.co/wntVW8AKN0x7i1FOWjVvxCyPql0poGamDdxndfKAjqNyhmkC" style="font-size:40px;font-family:Arial; color:blue; text-decoration:none;">High paying job alerts in your city, Need a new gig? $25/hr, Jobs available in your area</a><br />
+<br />
+<a href="http://sciencnenatural.co/wntVW8AKN0x7i1FOWjVvxCyPql0poGamDdxndfKAjqNyhmkC"><img src="http://sciencnenatural.co/63e04b3d6fa1b94b2b.jpg" style="border:2px solid #f25f0f;" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sciencnenatural.co/iDyUnghS_-pY_df9CKi9x573i81Wz14p5GO3qE9sVQkWHwT1"><img src="http://sciencnenatural.co/c855620a34621c39b7.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://sciencnenatural.co/7GZeGSpqb4ffYfRNhoA1haVFoWBXTAjGUoGfyLYPRnbD8HBn"><img src="http://sciencnenatural.co/af1a279a72e73d4c90.jpg" /></a></div>
+<br />
+<br />
+<span style="color:#FFFFFF;font-size:6px;">Rodents (from Latin Rodere, &quot;to gnaw&quot;) are mammals of the order Rodentia, which are characterized by a single pair of continuously growing incisors in each of the upper and lower jaws. They are the most diversified mammalian order and make up approximately 42% of all mammalian species. Rodents live in a variety of terrestrial habitats, including human-made environments, and are found on every continent except Antarctica. Species can be arboreal, fossorial (burrowing), or semiaquatic. Well-known rodents include mice, rats, squirrels, prairie dogs, chipmunks, chinchillas, porcupines, beavers, guinea pigs, hamsters, gerbils and capybaras. Rabbits, hares, and pikas, whose incisors also grow continually, were once included with them, but are now considered to be in a separate order, the Lagomorpha. Nonetheless, Rodentia and Lagomorpha are sister groups, sharing a most recent common ancestor and forming the clade of Glires. Most rodents are small animals with robust bodies, short limbs, and long tails. They use their sharp incisors to gnaw food, excavate burrows, and defend themselves. Most eat seeds or other plant material, but some have more varied diets. They tend to be social animals and many species live in societies with complex ways of communicating with each other. Mating among rodents can vary from monogamy, to polygyny, to promiscuity. Many have litters of underdeveloped, altricial young, while others are precocial (relatively well developed) at birth. The rodent fossil record dates back to the Paleocene on the supercontinent of Laurasia. Rodents greatly diversified in the Eocene, as they spread across continents, sometimes even crossing oceans. Rodents reached both South America and Madagascar from Africa and were the only terrestrial placental mammals to reach and colonize Australia. Rodents have been used as food, for clothing, as pets, and as laboratory animals in research. Some species, in particular, the brown rat, the black rat, and the house mouse, are serious pests, eating and spoiling food stored by humans and spreading diseases. Accidentally introduced species of rodents are often considered to be invasive and have caused the extinction of numerous species, such as island birds, previously isolated from land-based predators. </span></center>
+</body>
+</html>
+
+--5061016935c1da6705cf2b2457b31c4d_ba6_14e16--

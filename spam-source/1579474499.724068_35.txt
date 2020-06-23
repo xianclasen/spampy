@@ -1,0 +1,112 @@
+Return-Path: <SRS0=3C2h3P=3I=mail.iheatersoni.bid=6654-2982-85526-1779-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 6675 invoked from network); 19 Jan 2020 13:04:02 -0000
+Received: (qmail 24418 invoked from network); 19 Jan 2020 13:04:01 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 19 Jan 2020 13:04:01 -0000
+Received: (qmail 17161 invoked by uid 48516); 19 Jan 2020 13:04:00 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 6933 invoked from network); 19 Jan 2020 13:04:00 -0000
+Received: from costa.iheatersoni.bid ([170.130.174.34])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 19 Jan 2020 13:04:00 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=iheatersoni.bid;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=FastDefrostingTray@iheatersoni.bid;
+ bh=Pkx9BabmL3sNsfWzgucgh7IHuqE=;
+ b=vtrBsoA4CvqnLsPUEK2ROJzXewHudPBCohTj04Yt4OgzDC3wSoE3gEHSt3HKph+cIWPPnyqYKwEx
+   m8HAGYnBP2jPh2OUensdQp+7CAgepJgTLkwfRnksV2pj8SWA9i8b+jdn4Tuqnp179KYzJSA4i0/M
+   /vmLgJrTI+5gjkI43mo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=iheatersoni.bid;
+ b=KtHVHZ5h4X2gB9UheKHPXilpfJg9sQXkwTCcyy5h+O+bnyed+CDhpCXkFU4Rcf6IQjV4+Dm08STX
+   eBDCENpN5ya3Q/LhqJ/c9VgN+eebBiPySTLMcmYX8pOjyO4qGOIVcFD3pRomu7HM+M4YM14JigAS
+   m1PPS6WW8aIV3X/BLAY=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="2254051f24547f988dec81a2a3393627_ba6_14e16"
+Date: Sun, 19 Jan 2020 07:49:49 -0500
+From: "Fast Defrosting Tray" <FastDefrostingTray@iheatersoni.bid>
+Reply-To: "Smart Defrost Plate" <FastDefrostingTray@iheatersoni.bid>
+Subject: Fast Thawing Defrosting Tray Kitchen Safe Defrost Thaw Frozen Meat Food Tools
+To: <bruce@untroubled.org>
+Message-ID: <mvb32tevgv8hi083-zmomxby79wf827f0-ba6-14e16@iheatersoni.bid>
+Content-Length: 7189
+
+--2254051f24547f988dec81a2a3393627_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Fast Thawing Defrosting Tray Kitchen Safe Defrost Thaw Frozen Meat Food Tools
+
+http://iheatersoni.bid/PuL5bu0rFZ_t5Qp1-kerHDYfIUctVHKiUN3-P-65qsPYnEHN
+
+http://iheatersoni.bid/ISvdCvJGcw5KhepxC63_WkM7grmDZibjdTI6II8zmanwBkb9
+
+Air molecules and airborne particles scatter white sunlight as it passes through the Earth's atmosphere. This is done by a combination of Rayleigh scattering and Mie scattering.
+
+As a ray of white sunlight travels through the atmosphere to an observer, some of the colors are scattered out of the beam by air molecules and airborne particles, changing the final color of the beam the viewer sees. Because the shorter wavelength components, such as blue and green, scatter more strongly, these colors are preferentially removed from the beam.
+
+At sunrise and sunset, when the path through the atmosphere is longer, the blue and green components are removed almost completely leaving the longer wavelength orange and red hues seen at those times. The remaining reddened sunlight can then be scattered by cloud droplets and other relatively large particles to light up the horizon red and orange. The removal of the shorter wavelengths of light is due to Rayleigh scattering by air molecules and particles much smaller than the wavelength of visible light (less than 50 nm in diameter). The scattering by cloud droplets and other particles with diameters comparable to or larger than the sunlight's wavelengths (more than 600 nm) is due to Mie scattering and is not strongly wavelength-dependent. Mie scattering is responsible for the light scattered by clouds, and also for the daytime halo of white light around the Sun (forward scattering of white light).
+
+Sunset colors are typically more brilliant than sunrise colors, because the evening air contains more particles than morning air.
+
+
+Peach sunrise over the sea, Sydney, Australia
+Ash from volcanic eruptions, trapped within the troposphere, tends to mute sunset and sunrise colors, while volcanic ejecta that is instead lofted into the stratosphere (as thin clouds of tiny sulfuric acid droplets), can yield beautiful post-sunset colors called afterglows and pre-sunrise glows. A number of eruptions, including those of Mount Pinatubo in 1991 and Krakatoa in 1883, have produced sufficiently high stratospheric sulfuric acid clouds to yield remarkable sunset afterglows (and pre-sunrise glows) around the world. The high altitude clouds serve to reflect strongly reddened sunlight still striking the stratosphere after sunset, down to the surface.
+
+--2254051f24547f988dec81a2a3393627_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletters</title>
+</head>
+<body><a href="http://iheatersoni.bid/mu2qQRL5ttIqbmzP8JfKcso7N9OWeCehUBuztRZmWUZtFxqV"><img src="http://iheatersoni.bid/0f1bfe158ed57e0a2e.jpg" /><img height="1" src="http://www.iheatersoni.bid/E3-LHKCRqb-9Capoi6MS9W3tmXcsZ6bU_9WjexFRM8seV82m" width="1" /></a><br />
+&nbsp;
+<div style="width: 600px;"><a href="http://iheatersoni.bid/PuL5bu0rFZ_t5Qp1-kerHDYfIUctVHKiUN3-P-65qsPYnEHN" style="font-size: 30px;font-family: Arial;font-weight: bold;color:#2580B5;"><b>Defrosting your frozen meat food quickly Durable and easy to use </b></a></div>
+
+<div style="width: 600px;font-family: Arial;font-size: 15px;padding: 15px;text-align: left;"><br />
+<a href="http://iheatersoni.bid/PuL5bu0rFZ_t5Qp1-kerHDYfIUctVHKiUN3-P-65qsPYnEHN"><img src="http://iheatersoni.bid/9b9d3b4052a3308a58.png" /></a><br />
+&nbsp;
+<p style="font-size:17px;"><b>Defrost smaller food</b> that absorbs the cold and releases heat.<i>such as burgers, sausages, prawns and bacon even faster.</i><br />
+<br />
+This defrosting tray is a faster and safer way to defrost food due to its excellent heat dissipation. <a href="http://iheatersoni.bid/PuL5bu0rFZ_t5Qp1-kerHDYfIUctVHKiUN3-P-65qsPYnEHN">The tray doesn&#39;t need extra electricity or batteries.</a><br />
+<br />
+The plate is easy to clean and reusable. With hanging hole for convenient storage. An essential gadget for home kitchen.<br />
+<br />
+<a href="http://iheatersoni.bid/PuL5bu0rFZ_t5Qp1-kerHDYfIUctVHKiUN3-P-65qsPYnEHN" style="color:#D84A38;"><b><i>Easy to use,</i></b> just put the meat at the board, no water or electricity needed, environmental-friendly and energy saving</a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;</p>
+<a href="http://iheatersoni.bid/DNnBrB-oKRPqKHOWXidpExsRldpW8rumTgovhu8Dx88Ipj5o" target="_blank"><img src="http://iheatersoni.bid/afd555d532b3d6fc39.jpg" /></a><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="color:#FFFFFF;">Air molecules and airborne particles scatter white sunlight as it passes through the Earth&#39;s atmosphere. This is done by a combination of Rayleigh scattering and Mie scattering. As a ray of white sunlight travels through the atmosphere to an observer, some of the colors are scattered out of the beam by air molecules and airborne particles, changing the final color of the beam the viewer sees. Because the shorter wavelength components, such as blue and green, scatter more strongly, these colors are preferentially removed from the beam. At sunrise and sunset, when the path through the atmosphere is longer, the blue and green components are removed almost completely leaving the longer wavelength orange and red hues seen at those times. The remaining reddened sunlight can then be scattered by cloud droplets and other relatively large particles to light up the horizon red and orange. The removal of the shorter wavelengths of light is due to Rayleigh scattering by air molecules and particles much smaller than the wavelength of visible light (less than 50 nm in diameter). The scattering by cloud droplets and other particles with diameters comparable to or larger than the sunlight&#39;s wavelengths (more than 600 nm) is due to Mie scattering and is not strongly wavelength-dependent. Mie scattering is responsible for the light scattered by clouds, and also for the daytime halo of white light around the Sun (forward scattering of white light). Sunset colors are typically more brilliant than sunrise colors, because the evening air contains more particles than morning air. Peach sunrise over the sea, Sydney, Australia Ash from volcanic eruptions, trapped within the troposphere, tends to mute sunset and sunrise colors, while volcanic ejecta that is instead lofted into the stratosphere (as thin clouds of tiny sulfuric acid droplets), can yield beautiful post-sunset colors called afterglows and pre-sunrise glows. A number of eruptions, including those of Mount Pinatubo in 1991 and Krakatoa in 1883, have produced sufficiently high stratospheric sulfuric acid clouds to yield remarkable sunset afterglows (and pre-sunrise glows) around the world. The high altitude clouds serve to reflect strongly reddened sunlight still striking the stratosphere after sunset, down to the surface. </span></div>
+</body>
+</html>
+
+--2254051f24547f988dec81a2a3393627_ba6_14e16--

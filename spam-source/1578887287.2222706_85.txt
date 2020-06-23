@@ -1,0 +1,148 @@
+Return-Path: <SRS0=tov/gw=3B=plaue.buzz=blood-sugar-fix-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 10147 invoked from network); 12 Jan 2020 18:35:59 -0000
+Received: (qmail 22254 invoked from network); 12 Jan 2020 18:35:58 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 12 Jan 2020 18:35:58 -0000
+Received: (qmail 19441 invoked by uid 48516); 12 Jan 2020 18:35:57 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 9582 invoked from network); 12 Jan 2020 18:35:57 -0000
+Received: from mail.plaue.buzz (208-187-163-46.nca.datanoc.com [208.187.163.46])
+  by pt01.futurequest.net ([69.5.6.170])
+  with ESMTP via TCP; 12 Jan 2020 18:35:56 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=plaue.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=blood-sugar-fix@plaue.buzz;
+ bh=LfuTGUTRGrz1bZ9XoNj1x7uWe4Q=;
+ b=pCC0MktE6z8ZQS5Gf+Zv8PX91QAQismW4b6fyeCxF9FJCLIQxadOAsuv/z+PEgeTnW6sS2s/1Dmb
+   Nva2PrfZOeeQTaznIfv73ICOOqSsHeaurw4v3vRfw6yWXwQ+bD95cTkWeyNfMlDe+QfHr63H+lL5
+   3XbDpFLlUpUX35nctnk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=plaue.buzz;
+ b=hpNh5F/Z+9h5tdnE/aseviDir/k1ca4TTj6uwbqD7RwM9b18kHOOcoHpN30HG+tMDXFD4mKFrZrg
+   V7FuA8DFoyjOBx59osuiyJuvsbDx1He5TZsJrGTzGFT3txU2rIyFfhxqFtCMK7Rlj29PmNabxfN0
+   xJjV1FA//W0wPw4G9ho=;
+Received: by mail.plaue.buzz id h3djgq0001gn for <bruce@untroubled.org>; Sun, 12 Jan 2020 13:31:25 -0500 (envelope-from <blood-sugar-fix-bruce=untroubled.org@plaue.buzz>)
+Date: Sun, 12 Jan 2020 13:31:25 -0500
+From: "Blood Sugar Fix" <blood-sugar-fix@plaue.buzz>
+To:   <bruce@untroubled.org>
+Subject: Watch: 1 Odd Trick That Can Destroy The Diabetes Industry (Try This Tonight)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_154_297745197.1578853878686"
+List-Unsubscribe: <http://www.plaue.buzz/7734P2395F8_S913Q1_ROG1q1a1fF21jFv4GIf4rxvs4FhIHEsvZ10YQ6RQKKos97DZxP1K06yTHN@i/slaves-speculates>
+Message-ID: <0.0.0.11.1D5C9767F66F1C0.3E45BC@mail.plaue.buzz>
+Content-Length: 6532
+
+------=_Part_154_297745197.1578853878686
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>wordily</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <table style=3D"caret-color: rgb(0, 0, 0); letter-spacing: normal; text-=
+indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-size-adj=
+ust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; orphans: =
+2; widows: 2; width: 600px; font-family: &quot; Sans Serif&quot; ; ">=20
+    <tbody>=20
+     <tr>=20
+      <td>=20
+       <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: &quot; Sans Serif&quot; , serif; font-size: 17px; " width=3D"100%=
+">=20
+        <tbody>=20
+         <tr>=20
+          <td>=20
+           <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" style=3D=
+"height: 535px; " width=3D"586">=20
+            <tbody>=20
+             <tr>=20
+              <td>=20
+               <div style=3D"font-family: &quot; Sans Serif&quot; ; font-si=
+ze: 16px; ">=20
+                <div style=3D"color: rgb(0, 0, 0); line-height: normal; fon=
+t-family: &quot; Sans Serif&quot; ; font-size: 12px; ">=20
+                 <h1 style=3D"margin: 20px 6px; color: rgb(34, 34, 34); lin=
+e-height: 32px; font-family: &quot; Sans Serif&quot; ; font-size: 40px; box=
+-sizing: border-box; text-align: center; "><span style=3D"font-family: &quo=
+t; Sans Serif&quot; ; "><span style=3D"color: rgb(0, 0, 0); "><strong>Diabe=
+tes Will Kill You (Do This To FIGHT It)</strong></span></span></h1>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; "><a href=3D"http://www.plaue.buzz/levee-Luzon/3f05O23p95uO8i613z7g2z12V1a1fj21KFv4GIf4rxvs4FhIHEsvZ10cQ6RQKKos96vO1Z0B5PyHiP"><img alt=3D"" src=3D"http://www.plaue.buzz/Noreen-improviser/6fc6yv2z395j7aCx13L7vk215y1a1fx21SFv4GIf4rxvs4FhIHEsvZ10KQ6RQKKos96nqYR105m@@Hi" style=3D=
+"width: 458px; height: 314px; " /></a><br /> <br /> <span style=3D"color: r=
+gb(14, 14, 184); "><span style=3D"font-size: 33px; font-family: &quot; Sans=
+ Serif&quot; ; "><strong><a href=3D"http://www.plaue.buzz/levee-Luzon/3f05O23p95uO8i613z7g2z12V1a1fj21KFv4GIf4rxvs4FhIHEsvZ10cQ6RQKKos96vO1Z0B5PyHiP" style=3D"color: rgb(14, 14,=
+ 184); ">{Watch ASAP}</a></strong></span></span></p>=20
+                 <p style=3D"margin: 0px; padding: 0px; text-align: center;=
+ color: rgb(34, 34, 34); line-height: 30px; font-family: &quot; Sans Serif&=
+quot; ; ">&nbsp; </p>=20
+                </div>=20
+               </div> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table> </td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+   <p style=3D"font-style: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; text-align: start; text-indent: 0px; text-tran=
+sform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adju=
+st: auto; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb=
+(0, 0, 0); font-family: &quot; Times New Roman&quot; ; font-size: medium; f=
+ont-variant-ligatures: normal; orphans: 2; widows: 2; ">&nbsp; </p> &nbsp;=
+=20
+   <center>=20
+    <div align=3D"center" style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-cap=
+s: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text=
+-indent: 0px; text-transform: none; white-space: normal; widows: auto; word=
+-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0=
+px; text-decoration: none; ">
+     <br />=20
+     <span style=3D"font-size:10px; "><font face=3D"Verdana, Arial, Helveti=
+ca, sans-serif">&nbsp; <font color=3D"#666666">lEAVE </font><a href=3D"=
+http://www.plaue.buzz/22d4F2395OC86q12H72R13T1a1fm21DFv4GIf4rxvs4FhIHEsvZ10vQ6RQKKos97WOTw1T05HAUHi/levee-Luzon"><font color=3D"#666666">Here</font></a>.<br /> PureHealth Research =
+| 5501 Merchants View Square #804 | Haymarket, VA 20169, USA</font><br /> <=
+br /> End&nbsp; <a href=3D"http://www.plaue.buzz/thuds-spades/9546sAy2395Q8XL913y7S2T14n1a1fC21UFv4GIf4rxvs4FhIHEsvZ10wQ6RQKKos95J10lZ5pAHXi"> Here</a><br /> <span style=
+=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; fon=
+t-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-i=
+ndent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -=
+moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration=
+: none; font-family: arial, helvetica, sans-serif; text-align: center; floa=
+t: none; display: inline !important; ">6547 N Academy Blvd #2128</span><spa=
+n style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -we=
+bkit-standard; font-style: normal; font-variant-caps: normal; font-weight: =
+normal; letter-spacing: normal; text-indent: 0px; text-transform: none; whi=
+te-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-t=
+ext-stroke-width: 0px; text-decoration: none; display: inline !important; f=
+loat: none; "> </span><br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0,=
+ 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal;=
+ letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: n=
+one; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-siz=
+e-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font=
+-family: arial, helvetica, sans-serif; font-size: 11px; text-align: center;=
+ " /> <span style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-s=
+tyle: normal; font-variant-caps: normal; font-weight: normal; letter-spacin=
+g: normal; text-indent: 0px; text-transform: none; white-space: normal; wor=
+d-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px=
+; text-decoration: none; font-family: arial, helvetica, sans-serif; text-al=
+ign: center; float: none; display: inline !important; ">COLORADO SPRINGS CO=
+ 80918</span></span>
+     <br />=20
+     <br />=20
+     <br /> &nbsp;=20
+    </div> <span lang="rinse"><font size="Staley"><font id="disablers"></font><font size="muddlehead"></font><span class="rainiest"></span></font></span>
+   </center>=20
+  </center>  =20
+ <img src=3D"http://www.plaue.buzz/de56gK239L5JM85O11f7216p1a1fX21jFv4GIf4rxvs4FhIHEsvZ10IQ6RQKKos95C10QP6XyH1i@/romancer-injection" alt=3D""/></body>
+</html>
+
+------=_Part_154_297745197.1578853878686--
+

@@ -1,0 +1,77 @@
+Return-Path: <SRS0=K6Ol5y=2X=pleyped.buzz=911tinnitus-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 14363 invoked from network); 2 Jan 2020 16:05:22 -0000
+Received: (qmail 10923 invoked from network); 2 Jan 2020 16:05:21 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 02 Jan 2020 16:05:21 -0000
+Received: (qmail 16548 invoked by uid 48516); 2 Jan 2020 16:05:20 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 5720 invoked from network); 2 Jan 2020 16:05:20 -0000
+Received: from mail.pleyped.buzz ([89.144.1.184])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 02 Jan 2020 16:05:19 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=pleyped.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=911tinnitus@pleyped.buzz;
+ bh=T0nLSFNwtAsKjp+Gs/xiLBdSRgY=;
+ b=WZ5nu3kHEKYSPQD6oHjXfWU3idxMpO4vuqyowUNN8+K5eXYS+/xDquTpS5hr0ebt0LqjahrdpG+a
+   +Foe1Rl+SWIQL/8oWsLZgz0V0ScH4yntUPgesKpxBGlfMRtg3hCboWDCfr1212TL4vt75tYd18Qo
+   xbZbAMCw6kzUd+Ofs/E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=pleyped.buzz;
+ b=HNOyz1EbO4Hf9XqP0X+bcbWRL/xUZMDu9HCMshtFbE7/YbeXmjxGegpccjYTi1O1Kc1n7/RwjBdM
+   7ie6BLe+5drKI+ENtgK9QSvWn6eWOapC3wg2Mlj4LqOSFj8NCxGfM5NLhTlx5XmynM+0MN973ZDg
+   eNoCbuzlQP+BudLR1WA=;
+Received: by mail.pleyped.buzz id h1oac00001gv for <bruce@untroubled.org>; Thu, 2 Jan 2020 10:59:47 -0500 (envelope-from <911tinnitus-bruce=untroubled.org@pleyped.buzz>)
+Date: Thu, 2 Jan 2020 10:59:47 -0500
+From: 911Tinnitus <911tinnitus@pleyped.buzz>
+To:   <bruce@untroubled.org>
+Subject: Live Tinnitus Free?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_202_784613823.1577980769686"
+List-Unsubscribe: <http://www.pleyped.buzz/cb95X23x95nq8R911QU1A1O3448s21tFv4GIf4rxvs4FhIHEsvZ11ARAndmKKoW97N1LXi0Y5tJlcY/sequences-connectives>
+Message-ID: <0.0.0.16.1D5C185A8715536.3FC1CE@mail.pleyped.buzz>
+Content-Length: 7362
+
+------=_Part_202_784613823.1577980769686
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>evidenced</title> 
+ </head> 
+ <body> 
+  <center> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:verdana,geneva,sans-serif; "><b>&quot; Pardon me?&quot; ... &quot; What!?&quot; ... </b>If you suffer from tinnitus, then those words are a frustrating reminder of your chronic hearing loss.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "><span style="font-family:verdana,geneva,sans-serif; ">But wouldn' t it be nice to finally be able to HEAR your family and loved ones this holiday season?</span></p> 
+   <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+   <a href="http://www.pleyped.buzz/be74O2395R8r6W11te810O3448I21YFv4GIf4rxvs4FhIHEsvZ11DRAndmKKoW95DD1x05D2WcY/ownerships-dusk" style="font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><img alt="speak up" src="http://www.pleyped.buzz/9cb6UI_2395Hr7ai11Ae813g3448h21SFv4GIf4rxvs4FhIHEsvZ11KRAndmKKoW95pK1r05pj2cY/fortunately-Goodrich" style="border-width: 0px; border-style: solid; width: 83%; " /></a>
+   <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; "> </span> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:trebuchet ms,helvetica,sans-serif; ">The good news is, there is a very simple method you can use to END the ringing once and for all.</span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: center; "><span style="font-family:trebuchet ms,helvetica,sans-serif; "><a href="http://www.pleyped.buzz/be74O2395R8r6W11te810O3448I21YFv4GIf4rxvs4FhIHEsvZ11DRAndmKKoW95DD1x05D2WcY/ownerships-dusk">Do THIS &quot; 10 second trick&quot; to restore your hearing for the holidays</a></span></p> 
+   <p style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">&nbsp; </p> 
+   <div align="center" style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; ">
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <br /> 
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.pleyped.buzz/9174U2395HTl8611De811x3448m21sFv4GIf4rxvs4FhIHEsvZ11wRAndmKKoW96L1ow0H5HklcY/ownerships-dusk"><font color="#666666">Vacate mail Here</font></a>.<br /> 1732 1st Avenue #28568 | New York, NY 10128</font>
+    <br /> 
+    <br /> 
+    <a href="http://www.pleyped.buzz/2fL4F2395zH89G11ie812A3448o21hFv4GIf4rxvs4FhIHEsvZ11KRAndmKKoW95s10uh6FBlcMY/ownerships-dusk">Exit Here</a>
+    <br /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">6547 N Academy Blvd #2128</span>
+    <br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; " /> 
+    <span style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; display: inline !important; float: none; ">COLORADO SPRINGS CO 80918</span>
+    <br /> &nbsp; 
+   </div> <small></small><font face="rousing"><font></font></font><font face="smarted"></font><span size="Jesus"><big></span></big><big></big><style></style>
+  </center>   
+ <img src="http://www.pleyped.buzz/5756SYo2395pQP8511Xe814o3448I21JFv4GIf4rxvs4FhIHEsvZ11wRAndmKKoW96mSK10F6IkcJYT/sequences-connectives" alt=""/></body>
+</html>
+
+------=_Part_202_784613823.1577980769686--
+

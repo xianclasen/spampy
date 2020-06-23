@@ -1,0 +1,338 @@
+Return-Path: <SRS0=eA48vc=2Y=mail.oxidzes.best=5760-2982-85526-1549-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 6733 invoked from network); 3 Jan 2020 11:47:02 -0000
+Received: (qmail 17746 invoked from network); 3 Jan 2020 11:47:01 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 03 Jan 2020 11:47:01 -0000
+Received: (qmail 28714 invoked by uid 48516); 3 Jan 2020 11:47:01 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 3568 invoked from network); 3 Jan 2020 11:47:01 -0000
+Received: from gert.oxidzes.best (joklq23xb.joker-side.space [170.130.172.217])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 03 Jan 2020 11:46:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=oxidzes.best;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=VAHomeownerSavings@oxidzes.best;
+ bh=/EBJFNg1Qq7EKt+AqUoo9NqaFU4=;
+ b=eVefhPOuZ5aaAi0lHtC0Wcj/o2SJQvgkY7Elj66wlvg6gC5Pa+FRC34MxYxH90cGV2xCRd0dLvXF
+   5iswtzVH2sNz6OzCO0xxleTRONdi/3L7AGLSX+r7qvFjrWXQVPqkjhO0zwOp//8N3zel7GkZqqxg
+   mLnAhWgr9L2Egx3TKH0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=oxidzes.best;
+ b=U9ad0YwwKZo/tNAnFIfjBWOgtXqc50M93RRkFl7nGJLcfI8ny4syFm147a8eTtruQtdS6cE7QexV
+   TD7Z+3lMR6hn7rLWatKchZJTSoQV9FVDYdJhtgvX08k/TF59Dpt1cSe6gx3w+tGMkhYnWxhXKfbq
+   LXduwbWEz04FyzDmlc8=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="4dee797971057a9d27ba775631e32f47_ba6_14e16"
+Date: Fri, 3 Jan 2020 06:46:02 -0500
+From: "VAReliefProgram" <VAHomeownerSavings@oxidzes.best>
+Reply-To: "VAReliefProgram" <VAReliefProgram@oxidzes.best>
+Subject: Exclusive savings available for those who served
+To: <bruce@untroubled.org>
+Message-ID: <dm9fc3iocb45poys-cewka00bkglpn11o-ba6-14e16@oxidzes.best>
+Content-Length: 17295
+
+--4dee797971057a9d27ba775631e32f47_ba6_14e16
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Exclusive savings available for those who served
+
+http://oxidzes.best/NMm66JPNrY9_Qc9Rt_j2DlKTULNrlUMULFUWBfFX-WdC25vI
+
+http://oxidzes.best/iOQoL3sEINJLO0OTJCzY-wkJVBJ_fFg4mSMF9c5r31RhEsXr
+
+    A hydathode is a type of pore, commonly found in angiosperms, that secretes water through pores in the epidermis or leaf margin, typically at the tip of a marginal tooth or serration. Hydathodes occur in the leaves of submerged aquatic plants such as Ranunculus fluitans as well as herbaceous plants of drier habitats such as Campanula rotundifolia. They are connected to the plant vascular system by a vascular bundle. Hydathodes are commonly seen in water lettuce, water hyacinth, rose, balsam, and many other species.
+
+Hydathodes are made of a group of living cells with numerous intercellular spaces filled with water, but few or no chloroplasts, and represent modified bundle-ends. These cells (called epithem cells) open out into one or more sub-epidermal chambers. These, in turn, communicate with the exterior through an open water stoma or open pore. The water stoma structurally resembles an ordinary stoma, but is usually larger and has lost the power of movement.
+
+Hydathodes are involved in the process of guttation, in which positive xylem pressure (due to root pressure) causes liquid to exude from the pores. Some halophytes possess glandular trichomes that actively secrete salt in order to reduce the concentration of cytotoxic inorganic ions in their cytoplasm; this may lead to the formation of a white powdery substance on the surface of the leaf.
+
+Hydathodes are of two types:
+
+    passive hydathodes, formed when a leaf vein terminates in an epithem (an area of thin-walled parenchyma).
+    active hydathodes, formed when epidermal cells lose water actively.
+
+--4dee797971057a9d27ba775631e32f47_ba6_14e16
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+	<style type="text/css">@import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap');
+body {
+	-webkit-text-size-adjust: 100% !important;
+	-ms-text-size-adjust: 100% !important;
+	-webkit-font-smoothing: antialiased !important;
+}
+img {
+	border: 0 !important;
+	outline: none !important;
+}
+table {
+	border-collapse: collapse;
+	mso-table-lspace: 0px;
+	mso-table-rspace: 0px;
+}
+td {
+	border-collapse: collapse;
+	mso-line-height-rule: exactly;
+}
+a {
+	border-collapse: collapse;
+	mso-line-height-rule: exactly;
+}
+span {
+	border-collapse: collapse;
+	mso-line-height-rule: exactly;
+}
+@media only screen and (max-width:480px) {
+*, br, img, td, table {
+	display:none!important; width:0px!important; max-height:0px!important; overflow:hidden!important;
+}
+img, td, table {
+	width: 200px !important;
+	max-width: 200px!important;
+  margin-bottom: 30px!important;
+}
+img, td, table {
+	width: 100% !important;
+	max-width: 100%!important;
+  margin: 10px!important;
+}
+img, td, table {
+	width: 100%!important;
+	height: auto!important;
+}
+img, td, table {
+	width: 100%!important;
+}
+img, td, table {
+	width: 310px !important;
+	max-width: 310px!important;
+}
+img, td, table {
+	width: 300px !important;
+	max-width: 300px!important;
+}
+img, td, table {
+	width: 280px !important;
+	max-width: 280px!important;
+}
+}/* {{campaign.id}} /480 */
+@media only screen and (max-width:320px) {
+/* {{campaign.id}} */
+}/* {{campaign.id}} /320 */
+	</style>
+</head>
+<body>
+<table align="center" bgcolor="#fdfdfd" border="0" cellpadding="0" cellspacing="0" data-id="{{campaign.id}}" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" data-id="{{campaign.id}}" valign="bottom">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="w{{campaign.id}}100p" data-id="{{campaign.id}}" style="table-layout: fixed;" width="548">
+				<tbody>
+					<tr>
+						<td data-id="{{campaign.id}}" height="10" style="font-size: 1px; line-height: 1px;"></td>
+					</tr>
+					<tr>
+						<td align="center" data-id="{{campaign.id}}" valign="bottom">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="center" class="hide_{{campaign.id}}_me" data-id="{{campaign.id}}" style="border: 0; margin: 0; padding: 0;" valign="bottom">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="hide_{{campaign.id}}_me" data-id="{{campaign.id}}" width="548">
+							<tbody>
+								<tr>
+									<td class="hide_{{campaign.id}}_me" data-id="{{campaign.id}}" style="line-height: 0px; font-size: 0px;" width="548"><img alt="spacer" border="0" class="hide_{{campaign.id}}_me" data-id="{{campaign.id}}" height="1" src="https://cdn.maropost.com/pro/uploads/account_1401/25/wp.gif" style="max-height: 1px; min-height: 1px; display: block; min-width: 548px;" width="548" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td data-id="{{campaign.id}}" height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="center" data-id="{{campaign.id}}" valign="bottom">&nbsp;</td>
+					</tr>
+					<tr>
+						<td data-id="{{campaign.id}}" height="44" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="center" data-id="{{campaign.id}}" style="border: 0; margin: 0; padding: 0;" valign="bottom">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="w{{campaign.id}}100pha" data-id="{{campaign.id}}" width="548">
+							<tbody>
+								<tr>
+									<td align="center" data-id="{{campaign.id}}" style="border: 0; margin: 0; padding: 0; text-align: center;" valign="bottom"><a data-mp-url-id="" href="http://oxidzes.best/NMm66JPNrY9_Qc9Rt_j2DlKTULNrlUMULFUWBfFX-WdC25vI" mp-encode="false"><img alt="VASurvey" data-id="{{campaign.id}}" src="http://oxidzes.best/5b611f8a6b4b5acfa5.jpg" width="174" /> </a></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td data-id="{{campaign.id}}" height="25.4" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="center" data-id="{{campaign.id}}" style="border: 0; margin: 0; padding: 0;" valign="bottom">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="w{{campaign.id}}100pha" data-id="{{campaign.id}}" width="548">
+							<tbody>
+								<tr>
+									<td align="center" data-id="{{campaign.id}}" style="text-align: center; font-weight: 600; text-decoration: none; color: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; font-size: 18.2px; line-height: 27px; letter-spacing: 0.21px;" valign="bottom"><br />
+									<span style="text-align: center; font-weight: 600; text-decoration: none; color: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; font-size: 17px; line-height: 29px; letter-spacing: 0.3px;">Your Verification Status:</span> <span style="text-align: center; font-weight: 600; text-decoration: none; color: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; font-size: 18.2px; line-height: 29px; letter-spacing: 0.3px;"> <a data-id="3258491574" data-mp-url-id="" href="http://oxidzes.best/NMm66JPNrY9_Qc9Rt_j2DlKTULNrlUMULFUWBfFX-WdC25vI" mp-encode="false" style="font-weight: 600; text-decoration: underline; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; font-size: 18.2px; line-height: 28px; letter-spacing: 0.21px;">Pending</a> </span></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td data-id="{{campaign.id}}" height="25.4" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="center" data-id="{{campaign.id}}" style="border: 0; margin: 0; padding: 0;" valign="bottom">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="w{{campaign.id}}100pha" data-id="{{campaign.id}}" width="548">
+							<tbody>
+								<tr>
+									<td align="center" data-id="{{campaign.id}}" style="text-align: left; font-weight: 450; text-decoration: none; font-size: 15.5px; color: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; letter-spacing: 0.52px; line-height: 24.3px;" valign="bottom">Many Veteran homeowners are now exploring additional benefits that are newly available. These VA homeowner benefits are already helping millions of Veterans and their families, and we believe they could be beneficial to you as well.</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td data-id="{{campaign.id}}" height="31" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="center" data-id="{{campaign.id}}" valign="bottom">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="mw_{{campaign.id}}_300" data-id="{{campaign.id}}" style="border-radius: 10px;" width="548">
+							<tbody>
+								<tr>
+									<td align="center" data-id="{{campaign.id}}" style="text-align: left; font-weight: 450; text-decoration: none; font-size: 15.5px; color: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; letter-spacing: 0.52px; line-height: 24.3px;" valign="bottom">
+									<hr data-id="{{campaign.id}}" style="color: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; font-size: 1.2px; line-height: 1px; letter-spacing: 0px; text-align: center; font-weight: 100; text-decoration: none; height: 1.2px; background: #1E1E26; border: none; border-spacing: 0px; border-color: #1E1E26!important;" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td data-id="{{campaign.id}}" height="32" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="center" data-id="{{campaign.id}}" style="border: 0; margin: 0; padding: 0;" valign="bottom">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="w{{campaign.id}}100pha" data-id="{{campaign.id}}" width="548">
+							<tbody>
+								<tr>
+									<td align="center" data-id="{{campaign.id}}" style="text-align: left; font-weight: 450; text-decoration: none; font-size: 15.5px; color: #1e1e26; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; letter-spacing: 0.52px; line-height: 24.3px;" valign="bottom">Please confirm your residential information to see what benefits you may be entitled to:</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td data-id="{{campaign.id}}" height="32" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="center" valign="top">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="mw_{{campaign.id}}_300" style="width: 515px; border: 1px solid #313132; background: #fffee4; height: 229px;">
+							<tbody>
+								<tr style="height: 15px;">
+									<td data-id="{{campaign.id}}" height="15" style="font-size: 1px; line-height: 1px; height: 15px; width: 548px;">&nbsp;</td>
+								</tr>
+								<tr style="height: 10px;">
+									<td data-id="{{campaign.id}}" height="15" style="font-size: 1px; line-height: 1px; height: 10px; width: 548px;">&nbsp;</td>
+								</tr>
+								<tr style="height: 22px;">
+									<td align="center" style="border: 0px; margin: 0px; padding: 0px; height: 22px; width: 548px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="mw_{{campaign.id}}_280" width="420">
+										<tbody>
+											<tr>
+												<td align="center" style="text-decoration: none; text-align: center; font-weight: 400; letter-spacing: 0.58px; line-height: 22px; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; font-size: 21.5px; color: #1e1e26;" valign="top">Residential Information: For You</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr style="height: 10px;">
+									<td data-id="{{campaign.id}}" height="23" style="font-size: 1px; line-height: 1px; height: 10px; width: 548px;">&nbsp;</td>
+								</tr>
+								<tr style="height: 17px;">
+									<td align="center" style="border: 0px; margin: 0px; padding: 0px; height: 17px; width: 548px;" valign="top">&nbsp;</td>
+								</tr>
+								<tr style="height: 10px;">
+									<td data-id="{{campaign.id}}" height="20" style="font-size: 1px; line-height: 1px; height: 10px; width: 548px;">&nbsp;</td>
+								</tr>
+								<tr style="height: 10px;">
+									<td align="center" style="border: 0px; margin: 0px; padding: 0px; height: 10px; width: 548px;" valign="top">&nbsp;</td>
+								</tr>
+								<tr style="height: 10px;">
+									<td data-id="{{campaign.id}}" height="20" style="font-size: 1px; line-height: 1px; height: 10px; width: 548px;">&nbsp;</td>
+								</tr>
+								<tr style="height: 17px;">
+									<td align="center" style="border: 0px; margin: 0px; padding: 0px; height: 17px; width: 548px;" valign="top">&nbsp;</td>
+								</tr>
+								<tr style="height: 25px;">
+									<td data-id="{{campaign.id}}" height="25" style="font-size: 1px; line-height: 1px; height: 25px; width: 548px;">&nbsp;</td>
+								</tr>
+								<tr style="height: 48px;">
+									<td align="center" style="height: 48px; width: 548px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="mw_{{campaign.id}}_200" style="width: 548px; max-width: 548px;" width="548">
+										<tbody>
+											<tr>
+												<td align="center" valign="top" width="100%">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="mw_{{campaign.id}}_300" width="440">
+													<tbody>
+														<tr>
+															<td align="center" style="font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; font-size: 21px; text-decoration: none; color: #fbfbfc; line-height: 22px; text-align: center; font-weight: 600; letter-spacing: 3.3px;" valign="top"><a class="mw_{{campaign.id}}_300" data-id="{{campaign.id}}" data-mp-url-id="98b0e4d9d397c6fa7420f42162fe8d51e6e03444" href="http://oxidzes.best/NMm66JPNrY9_Qc9Rt_j2DlKTULNrlUMULFUWBfFX-WdC25vI" mp-encode="false" rel="noopener" style="font-size: 21px; font-family: Constantia, 'DejaVu Serif', 'PT serif,' bookman, 'serif'; background-color: #3c3ca5; border-radius: 3.14px; color: #fbfbfc; display: block; font-weight: 600; line-height: normal; margin: 0 auto; text-decoration: none; width: 241px; letter-spacing: 3.3px; border: 11.5px solid #3C3CA5;" target="_blank">Confirm Details</a></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr style="height: 35px;">
+									<td data-id="{{campaign.id}}" height="35" style="font-size: 1px; line-height: 1px; height: 35px; width: 548px;">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td data-id="{{campaign.id}}" height="74" style="line-height: 1px; font-size: 1px;">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://oxidzes.best/EK2db3ZJ6sb6WUNIkEr1u55PYCgcKcSZGz88rSf7qDvGEYp0"><img src="http://oxidzes.best/9c9d9bc09f2aa84de3.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://oxidzes.best/iOQoL3sEINJLO0OTJCzY-wkJVBJ_fFg4mSMF9c5r31RhEsXr"><img src="http://oxidzes.best/78af81cb173aaf9448.jpg" /></a></center>
+<span style="color:#FFFFFF;font-size:6px;">A hydathode is a type of pore, commonly found in angiosperms, that secretes water through pores in the epidermis or leaf margin, typically at the tip of a marginal tooth or serration. Hydathodes occur in the leaves of submerged aquatic plants such as Ranunculus fluitans as well as herbaceous plants of drier habitats such as Campanula rotundifolia. They are connected to the plant vascular system by a vascular bundle. Hydathodes are commonly seen in water lettuce, water hyacinth, rose, balsam, and many other species. Hydathodes are made of a group of living cells with numerous intercellular spaces filled with water, but few or no chloroplasts, and represent modified bundle-ends. These cells (called epithem cells) open out into one or more sub-epidermal chambers. These, in turn, communicate with the exterior through an open water stoma or open pore. The water stoma structurally resembles an ordinary stoma, but is usually larger and has lost the power of movement. Hydathodes are involved in the process of guttation, in which positive xylem pressure (due to root pressure) causes liquid to exude from the pores. Some halophytes possess glandular trichomes that actively secrete salt in order to reduce the concentration of cytotoxic inorganic ions in their cytoplasm; this may lead to the formation of a white powdery substance on the surface of the leaf. Hydathodes are of two types: passive hydathodes, formed when a leaf vein terminates in an epithem (an area of thin-walled parenchyma). active hydathodes, formed when epidermal cells lose water actively.</span></body>
+</html>

@@ -1,0 +1,99 @@
+Return-Path: <SRS0=EymJrs=3D=dizelo.buzz=canvasprints-partner-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 493 invoked from network); 14 Jan 2020 16:40:32 -0000
+Received: (qmail 4423 invoked from network); 14 Jan 2020 16:40:31 -0000
+Received: from pt05.futurequest.net (pt05.futurequest.net [69.5.6.191])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 14 Jan 2020 16:40:31 -0000
+Received: (qmail 24625 invoked by uid 48516); 14 Jan 2020 16:40:31 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 734 invoked from network); 14 Jan 2020 16:40:30 -0000
+Received: from mail.dizelo.buzz ([193.201.140.178])
+  by pt05.futurequest.net ([69.5.6.191])
+  with ESMTP via TCP; 14 Jan 2020 16:40:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=dizelo.buzz;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=canvasprints-partner@dizelo.buzz;
+ bh=z6baItvtSums/stjCzSFB1640/A=;
+ b=M3GHVREgNQo6xi5QiAoAfRexeH1kdyk1XDoJU/v7NXVvIbdPVjhut+88ZLZGwwES7KqvsFLXe1+E
+   UtHvFFJLPMC9anVWXlbPo+liHWRtdSayrTRr9qmU6nrurnsstqYlu1hSXanUr4fIBpjqEgt1D1Ry
+   grpv7WQsuE/TljdyTh8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=dizelo.buzz;
+ b=Afff6mJ8sH2dgNJ1hH1jVmnrRGWx+d13Q+huRNpsXcXWHyKTO2MNw3KVMavRDDvuEPmfKKLP2hhb
+   3N1SgAXjEhOB+amv+pEM8LedmlxzEg+LqzJ5o5EjM3hj/LUa7iSWAyUUbANLaLzf9q7Hv2MODDpz
+   mEl3Xl4+fMjHcj/T4lI=;
+Received: by mail.dizelo.buzz id h3nnfs0001gg for <bruce@untroubled.org>; Tue, 14 Jan 2020 11:35:56 -0500 (envelope-from <canvasprints-partner-bruce=untroubled.org@dizelo.buzz>)
+Date: Tue, 14 Jan 2020 11:35:56 -0500
+From: "CanvasPrints Partner" <canvasprints-partner@dizelo.buzz>
+To:   <bruce@untroubled.org>
+Subject: Chocolates and Check Out These Deals on Custom Canvas Prints
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_430_1600312308.1579019740347"
+List-Unsubscribe: <http://www.dizelo.buzz/Malraux/b8e4r2395V89PN11J1jZ1G1a2eU21mFv4GIf4rxvs4FhIHEsvZ10IQ3RRndoHK6t1m0jK6v@HiM@>
+Message-ID: <0.0.0.2F.1D5CAF8B1E82B18.82DF4B@mail.dizelo.buzz>
+Content-Length: 4567
+
+------=_Part_430_1600312308.1579019740347
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>=20
+  <title>preallocating selfishly</title>=20
+ </head>=20
+ <body>=20
+  <center>=20
+   <p style=3D"text-align: center; "><span style=3D"font-family:arial,helve=
+tica,sans-serif; "><span style=3D"font-size:18px; "><a href=3D"http://www.dizelo.buzz/6476XK2M395Cu_8612RV725dN1a2eN21OFv4GIf4rxvs4FhIHEsvZ10WQ3RRndoHK7g1CUW0L6kzW2Hi/relater">=
+A Sale you will LOVE get 93% off &nbsp; </a></span></span><br /> <br /> <a =
+href=3D"http://www.dizelo.buzz/6476XK2M395Cu_8612RV725dN1a2eN21OFv4GIf4rxvs4FhIHEsvZ10WQ3RRndoHK7g1CUW0L6kzW2Hi/relater"><img alt=3D"easy canvas" src=3D"http://www.dizelo.buzz/8k96Q2h3I95R_7aj12U7260iQ1a2eW21qFv4GIf4rxvs4FhIHEsvZ10PQ3RRndoHK5KXF106GPHLi3/Galen" style=3D"w=
+idth: 669px; height: 732px; " /></a></p>=20
+  </center>=20
+  <center style=3D"text-align: center; ">
+   <br />=20
+   <br />=20
+   <br /> &nbsp;=20
+  </center>=20
+  <center>=20
+   <p style=3D"text-align: center; "><br /> <span style=3D"font-size:10px; =
+"><span style=3D"font-family:arial,helvetica,sans-serif; ">If you do not wi=
+sh to receive further promos from Easy Canvas Prints please Tap&nbsp; <a hr=
+ef=3D"http://www.dizelo.buzz/Ja74F2395sSt8612r725ueO1a2eL21IFv4GIf4rxvs4FhIHEsvZ10QQ3RRndoHK5e1I0w5I03Hi/woodwork">here&nbsp; </a><br /> Or Write to: 11525A Stonehollow Dr.=
+ Suite 100 Austin, TX 78758</span></span><br /> <br /> <span style=3D"font-=
+size:11px; "><span style=3D"color:#808080; ">13395 Voyager Pkwy Ste 130 #63=
+4<br style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12=
+px; font-style: normal; font-variant-caps: normal; font-weight: normal; let=
+ter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; t=
+ext-transform: none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decora=
+tion: none; font-family: Helvetica; " /> <span style=3D"caret-color: rgb(0,=
+ 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal;=
+ letter-spacing: normal; text-align: center; text-indent: 0px; text-transfo=
+rm: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: au=
+to; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Hel=
+vetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 8092=
+1</span></span></span><br /> <span style=3D"font-size:10px; "><span style=
+=3D"font-family:arial,helvetica,sans-serif; ">uNSUB <a href=3D"=
+http://www.dizelo.buzz/2e15cu2395B89wp13J725KUfI1a2eA21LFv4GIf4rxvs4FhIHEsvZ10FQ3RRndoHK6KWmg106spOlHi/Galen">Here</a><br /> <br /> <br /> <span lang="Lauderdale"></span><span id="buffeting"><style title="ambushes"><big><big></big></style></span></big><span><span size="entrepreneur"><font dir="bargain"></span></font><font></font></span></span></span><br /=
+> <br /> <span style=3D"color:#FFFFFF; ">Two men have pleaded guilty to the=
+ft and receiving stolen property charges after an alleged $8 million worth =
+of rare books, plates and maps were taken from a Pittsburgh library and sol=
+d to a rare book store owner, court documents show. The theft is among the =
+world' s largest losses to date, according to court documents. Gregory Prio=
+re, a former archivist at the Carnegie Library of Pittsburgh, was originall=
+y charged with 10 counts but pleaded down to theft of unlawful taking and r=
+eceiving stolen property. Both counts are felonies in Pennsylvania. John Sc=
+hulman, the owner of Caliban Book shop, originally received 20 charges but =
+pleaded guilty to a forgery charge in addition to theft by deception and re=
+ceiving stolen property. In a statement provided to CNN, Schulman' s attorn=
+ey, Albert Veverka, said his client was &quot; accepting responsibility for=
+ his association with books under circumstances whereby he should have know=
+n that the books had probably been stolen.&quot; Attorneys for Priore, as w=
+ell as the Carnegie Library, did not immediately respond to requests for co=
+mment.</span><br /> <br /> &nbsp; </p>=20
+  </center> <style color="gunmen"></style><font></font><font face="undeclared"><style><font id="Smucker"></style><small></font></small></font><span></span><font id="Maguire"><small></small></font><font size="authorize"></font><font face="humidifier"></font> =20
+ <img src=3D"http://www.dizelo.buzz/Galen/a444W2395V8Dg513P7261UMi1a2eT21vFv4GIf4rxvs4FhIHEsvZ10NQ3RRndoHK6d1pm0z5sWHiT" alt=3D""/></body>
+</html>
+
+------=_Part_430_1600312308.1579019740347--
+

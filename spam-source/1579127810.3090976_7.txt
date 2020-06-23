@@ -1,0 +1,70 @@
+Return-Path: <SRS0=WV+zAJ=3E=mosec.date=compressa_new_miracle_sock-bruce=untroubled.org@untroubled.org>
+Delivered-To: bruce@home.untroubled.org
+Received: (qmail 24480 invoked from network); 15 Jan 2020 16:58:27 -0000
+Received: (qmail 13723 invoked from network); 15 Jan 2020 16:58:26 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 15 Jan 2020 16:58:26 -0000
+Received: (qmail 24861 invoked by uid 48516); 15 Jan 2020 16:58:26 -0000
+Delivered-To: xuntroubled-bruce@untroubled.org
+Received: (qmail 8978 invoked from network); 15 Jan 2020 16:58:26 -0000
+Received: from mail.mosec.date ([144.172.80.103])
+  by pt02.futurequest.net ([69.5.6.173])
+  with ESMTP via TCP; 15 Jan 2020 16:57:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=mosec.date;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=compressa_new_miracle_sock@mosec.date;
+ bh=eiTEKyJAto9BDtSKLwIZL3cJ1yE=;
+ b=ZqgHZ/fBywtffJWQ6JqJVK4tYqDPKEjuIh1mA2BGSk7gmO+DSwzhezHlIJ63v2Q0jfjBVe2IYrgk
+   IAmvRoVybfLK0RHiH5cuACztX+THmgLm1vM3af77eOWyFpujUL1G0EUyTdCLTguYSoqiKBYZqpQv
+   WTaslKLZtKHGvSpGERQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=mosec.date;
+ b=GD8bMFWcO0b2joyEwZY8os3gwCzh4tFCsWiKS/TC+UY+/AKucmk4rcRt++S3H0vQ6iJe/KXEACKa
+   2Hb5FEMEO6XfeZwm/fNgrQ3xSw9sokcWQVETEkclEQ0lIgAbxastt3hvmV6rcQC3t0unSDyR01yn
+   k7KCthuW/vxHEyuX4yY=;
+Received: by mail.mosec.date id h3t28q0001ge for <bruce@untroubled.org>; Wed, 15 Jan 2020 11:43:42 -0500 (envelope-from <compressa_new_miracle_sock-bruce=untroubled.org@mosec.date>)
+Date: Wed, 15 Jan 2020 11:43:42 -0500
+From: "Compressa New Miracle Sock" <compressa_new_miracle_sock@mosec.date>
+To:   <bruce@untroubled.org>
+Subject: Compressa Socks - Your Foot-Pain Relief Solution
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_31_563360537.1579106607919"
+List-Unsubscribe: <http://www.mosec.date/cd74G2395GZp8913ziilu11o34cbx21QFv4GIf4rxvs4FhIHEsvZ11FRYndo99oW97zhAr10L6wNcqYW/apprenticed-farming>
+Message-ID: <0.0.0.3.1D5CBC2F2018ED6.32D90C@mail.mosec.date>
+Content-Length: 2870
+
+------=_Part_31_563360537.1579106607919
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title>lacked</title> 
+ </head> 
+ <body> 
+  <center>
+   &nbsp; 
+   <table style="caret-color: rgb(0, 0, 0); font-family: -webkit-standard; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; "> 
+    <tbody> 
+     <tr> 
+      <td align="center" class="preview-mid" colspan="2" valign="middle">&nbsp; 
+       <center>
+        <a href="http://www.mosec.date/apprenticed-farming/bca4g2395Ql8q611geaaaC34cbk21SFv4GIf4rxvs4FhIHEsvZ11DRYndo99oW96LC10uI5ONLcY"><img alt="" src="http://www.mosec.date/98f6A23hi95gZ7oa12yeaadZX34cbz21QFv4GIf4rxvs4FhIHEsvZ11eRYndo99oW96NVS1S05QpjcY/striving-label" style="border-width: 0px; border-style: solid; height: 1200px; width: 503px; " /></a>
+       </center> 
+       <div align="center">
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp; <a href="http://www.mosec.date/3ef6gO23v95tp8G612geaaibG34cbn21RFv4GIf4rxvs4FhIHEsvZ11gRYndo99oW96e10lWS5q0cBY/tensing-copyrights"><font color="#666666">End email Here</font></a>.<br /> 23000 Sussex Hwy Seaford, DE 19973</font>
+        <br /> 
+        <br /> 
+        <a href="http://www.mosec.date/striving-label/ada6R23U9y5eo8X911keaaco34cbo21AFv4GIf4rxvs4FhIHEsvZ11fRYndo99oW96VIP10i6S@PJcY">Leave Here</a>
+        <br /> 
+        <span style="font-size:11px; "><span style="color:#808080; ">13395 Voyager Pkwy Ste 130 #634<br style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; " /> <span style="caret-color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; font-family: Helvetica; float: none; display: inline !important; ">COLORADO SPRINGS CO 80921</span></span></span>
+       </div> </td> 
+     </tr> 
+    </tbody> 
+   </table> <big></big><span class="Nepali"></span><font class="unprovable"></font><span><style title="oratories"></style></span><span color="ineffective"></span>
+  </center>   
+ <img src="http://www.mosec.date/tensing-copyrights/7ce5b2h395C85Cm12O_eaaeT34cbg21YFv4GIf4rxvs4FhIHEsvZ11hRYndo99oW97Ep1zI0w5nAcYB" alt=""/></body>
+</html>
+
+------=_Part_31_563360537.1579106607919--
+
