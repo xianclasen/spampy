@@ -6,7 +6,7 @@ Spampy is designed for testing email security solutions by sending large amounts
 2. A working and initialized Metasploit installation to re-package the downloaded malware samples (or you can fill the malware-source folder yourself).
 3. An SMTP server which allows you to relay mail to the destination without authentication (local instances such as postfix or remote MTAs will work).
 
-<h1>The config file</h1>
+<h2>The config file</h2>
 
 You must specify a config file at runtime thusly:
 
@@ -14,7 +14,7 @@ You must specify a config file at runtime thusly:
 
 An example config file is provided and the values should be self-explanatory. You must add custom values before the script will work for you.
 
-Sourcing the spam and malware
+<h2>Sourcing the spam and malware</h2>
 
 The spam-source folder contains spam  messages that will be re-addressed to the recipient of choice and packed with malware. The folder is seeded with messages but I would suggest filling it with more. The source of my spam is Bruce's archive over at Untroubled (http://untroubled.org/spam/).
 
