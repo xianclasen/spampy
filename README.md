@@ -6,7 +6,7 @@ Spampy is designed for testing email security solutions by sending large amounts
 2. A working and initialized Metasploit installation to re-package the downloaded malware samples (or you can fill the malware-source folder yourself).
 3. An SMTP server which allows you to relay mail to the destination without authentication (local instances such as postfix or remote MTAs will work).
 
-The config file
+<h1>The config file</h1>
 
 You must specify a config file at runtime thusly:
 
