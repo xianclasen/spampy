@@ -180,7 +180,7 @@ def fire(msg_limit):
                 smtpObj = smtplib.SMTP(receiving_mta)
                 try:
                     if not (msg_count % 3 == 0):
-                        print('Sending message ' + str(msg_count) + ' of ' + msg_limit)
+                        print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit))
                     elif (msg_count % 3 == 0):
                         malware = random.choice(os.listdir(malware_folder + '/'))
                         print('Attaching malware file ' + malware + ' to message: ' + subject)
