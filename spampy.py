@@ -184,9 +184,9 @@ def fire(msg_limit):
                     if not (msg_count % 3 == 0):
                         print('Sending message ' + str(msg_count))
                     elif (msg_count % 3 == 0):
-                        malware = random.choice(os.listdir('malware-folder/'))
+                        malware = random.choice(os.listdir(malware_folder + '/'))
                         print('Attaching malware file ' + malware + ' to message: ' + subject)
-                        send_malware(sender, msg_recipient, subject, 'malware-folder/' + malware, receiving_mta)
+                        send_malware(sender, msg_recipient, subject, malware_folder + '/' + malware, receiving_mta)
                 except Exception as e:
                     print(e)
                 msg_count = msg_count + 1
