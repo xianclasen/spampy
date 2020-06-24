@@ -84,9 +84,7 @@ def malware_refresh(tg_api_key, tg_domain, malware_count):
         tg_api_key = input("Enter your Threat Grid API Key: ")
 
     tg_url = 'https://' + tg_domain + '/api/v2/search/submissions'
-
     tg_artifact_url = 'https://' + tg_domain + '/api/v2/samples/{}/sample.zip'
-
     tg_parameters = {'api_key': tg_api_key,
                      'advanced':'true',
                      'state':'succ',
@@ -116,7 +114,7 @@ def malware_refresh(tg_api_key, tg_domain, malware_count):
         payloadname = get_random_string()
         print('Calling msfvenom with filesname ' + payloadname + '.exe')
         try:
-            subprocess.call(['msfvenom p generic/custom PAYLOADFILE-' + filename + '.exe -a x86 --platform windows -e x86/shikata_ga_nai -f exe -o malware-folder/' + payloadname +'.exe'], shell=True)
+            subprocess.call(['msfvenom p generic/custom PAYLOADFILE-' + filename + '.exe -a x86 --platform windows -e x86/shikata_ga_nai -f exe -o ' + malware_folder + '/' + payloadname +'.exe'], shell=True)
         except Exception as e:
             print('Something went wrong when we asked MSFVenom to repack our malware. Is your install complete?\n' + e)
 
