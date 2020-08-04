@@ -109,7 +109,7 @@ def malware_refresh(tg_api_key, tg_domain, malware_count):
 
         filename = list_to_string(filenames)
 
-        os.rename(filename, filename + ".exe")
+        os.rename(filename, filename + '.exe')
         print('Repacking File: ' + filename)
         payloadname = get_random_string()
         print('Calling msfvenom with filesname ' + payloadname + '.exe')
@@ -119,6 +119,7 @@ def malware_refresh(tg_api_key, tg_domain, malware_count):
             print('Something went wrong when we asked MSFVenom to repack our malware. Is your install complete?\n' + str(e))
 
         os.remove(payloadname + '.exe')
+        os.remove(sampleid_value_zip)
 
 
 def send_malware(sender, msg_recipient, subject, malware, receiving_mta):
