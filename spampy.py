@@ -1,23 +1,11 @@
 import argparse
 import configparser
 import os
-from pathlib import Path
 import random
-import requests
-import smtplib
-import time
-from os.path import basename
-from email import encoders
-from email.mime.base import MIMEBase
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
-from email.mime.application import MIMEApplication
-from email.utils import COMMASPACE, formatdate
-import string
-import subprocess
+from spampy.helpers.SMTPHelper import SMTPHandler
+from spampy.helpers.MessageHelper import MessageHandler
+from spampy.helpers.TGHelper import TGHandler
 import sys
-from xml.etree import ElementTree
-from zipfile import ZipFile
 
 
 parser = argparse.ArgumentParser(description='Send lots of spam and malware to test email security solutions.')
@@ -53,76 +41,38 @@ malware_count = int(config['Integers']['malware_count'])
 msg_limit = int(config['Integers']['msg_limit'])
 delay = int(config['Integers']['delay'])
 
-def replaced(mode, sequence, old, new):
-    if mode == 'startswith':
-        return (new if x.startswith(old) else x for x in sequence)
-
-    if mode == 'in':
-        return (new if old in x else x for x in sequence)
-
 def fire(msg_limit):
     msg_count = 1
     failed_count = 0
+    MH = MessageHandler(msg_recipient, spam_folder)
     while msg_count < msg_limit:
-        spam = random.choice(os.listdir(spam_folder + '/'))
-        with open(spam_folder + '/' + spam, encoding = "ISO-8859-1") as m:
+        sender, subject = MH.createCurrentMessage()
+        SH = SMTPHandler(receiving_mta, msg_recipient, sender)
+        with open('message.current', 'r') as f:
+            message = f.read()
+            message = message.encode('UTF-8')
             try:
-                lines = m.readlines()
-                with open('message.current', 'w') as f:
-                    msg = replaced('startswith', lines, 'To: ', 'To: ' + msg_recipient + '\n')
-                    f.write("".join(msg))
-                    for line in lines:
-                        if 'From: ' in line:
-                            try:
-                                sender = line.split(':')[1]
-                                sender = sender.split('<')[1]
-                                sender = sender.split('>')[0]
-                            except Exception as e:
-                                print('Failed: ' + str(e))
-                                failed_count = failed_count + 1
-                                continue
-                        if 'Subject: ' in line:
-                            try:
-                                subject = line.split(':')[1]
-                            except Exception as e:
-                                print('Failed: ' + str(e))
-                                failed_count = failed_count + 1
-                                continue
-
+                if (msg_count % 3 == 0):
+                    malware = random.choice(os.listdir(malware_folder + '/'))
+                    print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit) + ' (Attaching malware file ' + malware + ')')
+                    SH.sendMalware(sender, subject, subject, malware)
+                else:
+                    print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit))
+                    SH.sendMessage(sender, subject, message)
+            
             except Exception as e:
                 print('Failed: ' + str(e))
                 failed_count = failed_count + 1
-                continue
-
-            with open('message.current', 'r') as f:
-                msg = f.read()
-                msg = msg.encode('UTF-8')
-                smtpObj = smtplib.SMTP(receiving_mta)
-                try:
-                    if (msg_count % 3 == 0):
-                        malware = random.choice(os.listdir(malware_folder + '/'))
-                        print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit) + ' (Attaching malware file ' + malware + ')')
-                        send_malware(sender, msg_recipient, subject, malware_folder + '/' + malware, receiving_mta)
-                    else:
-                        print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit))
-                        with smtplib.SMTP(receiving_mta) as server:
-                            server.sendmail(sender, msg_recipient, msg)
-                    #else:
-                    #    print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit))
-                    #    with smtplib.SMTP(receiving_mta) as server:
-                    #        server.sendmail(sender, msg_recipient, msg)
-                
-                except Exception as e:
-                    print('Failed: ' + str(e))
-                msg_count = msg_count + 1
-                if delay > 0:
-                    time.sleep(delay)
-                if msg_count == msg_limit:
-                    print('Messages sent: ' + str(msg_count) + '\nFailed: ' + str(failed_count))
-                    sys.exit()
+            msg_count = msg_count + 1
+            if delay > 0:
+                time.sleep(delay)
+            if msg_count == msg_limit:
+                print('Messages sent: ' + str(msg_count) + '\nFailed: ' + str(failed_count))
+                sys.exit()
 
 
 if __name__ == '__main__':
     if refresh_malware:
-        malware_refresh(tg_api_key, tg_domain, malware_count)
+        TH = TGHandler(tg_api_key, tg_domain, malware_folder)
+        TH.refreshMalware(malware_count)
     fire(msg_limit)

@@ -1,11 +1,9 @@
 from zipfile import ZipFile
-from dotenv import load_dotenv
-import json
 import os
 import requests
 import subprocess
 
-class TGHandler:
+class TGHandler(object):
     def __init__(self, api_key, domain, malware_folder):
         self.api_key = api_key
         self.domain = domain
