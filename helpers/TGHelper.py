@@ -13,7 +13,7 @@ class TGHandler(object):
         self.tg_url = 'https://' + domain + '/api/v2/search/submissions'
         self.tg_artifact_url = 'https://' + domain + '/api/v2/samples/{}/sample.zip'
     
-    def get_random_string(stringLength=8):
+    def get_random_string(self, stringLength=8):
         letters = string.ascii_lowercase
         
         return ''.join(random.choice(letters) for i in range(stringLength))
