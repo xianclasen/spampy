@@ -1,7 +1,9 @@
 from zipfile import ZipFile
 import os
+import random
 import requests
 import subprocess
+import string
 
 class TGHandler(object):
     def __init__(self, api_key, domain, malware_folder):
