@@ -6,7 +6,7 @@ from spampy.helpers.SMTPHelper import SMTPHandler
 from spampy.helpers.MessageHelper import MessageHandler
 from spampy.helpers.TGHelper import TGHandler
 import sys
-
+import time
 
 parser = argparse.ArgumentParser(description='Send lots of spam and malware to test email security solutions.')
 parser.add_argument('configfile', metavar='c', type=str, nargs='+',
