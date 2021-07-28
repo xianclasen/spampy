@@ -60,40 +60,6 @@ def replaced(mode, sequence, old, new):
     if mode == 'in':
         return (new if old in x else x for x in sequence)
 
-def send_malware(sender, msg_recipient, subject, malware, receiving_mta):
-     message = MIMEMultipart()
-     message["From"] = sender
-     message["To"] = msg_recipient
-     message["Subject"] = subject
-     body = "This is not malware. Open it plx"
-     message.attach(MIMEText(body, "plain"))
-
-     with open(malware, "rb") as attachment:
-         part = MIMEBase("application", "octet-stream")
-         part.set_payload(attachment.read())
-
-     encoders.encode_base64(part)
-     part.add_header(
-         "Content-Disposition",
-         f"attachment; filename= {malware.split('/')[1]}",
-        )
-
-     message.attach(part)
-     text = message.as_string()
-     with smtplib.SMTP(receiving_mta) as server:
-         server.sendmail(sender, msg_recipient, text)
-
-
-def send_phish(sender, msg_recipient, subject, phish, receiving_mta):
-     message = MIMEMultipart()
-     message["From"] = sender
-     message["To"] = msg_recipient
-     message["Subject"] = subject
-     body = phish
-     text = message.as_string()
-     with smtplib.SMTP(receiving_mta) as server:
-         server.sendmail(sender, msg_recipient, text)
-
 def fire(msg_limit):
     msg_count = 1
     failed_count = 0
