@@ -33,7 +33,7 @@ class TGHandler(object):
                     'sort_by':'submitted_at',
                     'sort_order':'desc'}
 
-        resp = requests.get(self.tg_url, params=self.tg_parameters)
+        resp = requests.get(self.tg_url, params=tg_parameters)
         json_resp = resp.json()
 
         for i in range(0,malware_count):
