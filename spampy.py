@@ -2,9 +2,9 @@ import argparse
 import configparser
 import os
 import random
-from spampy.helpers.SMTPHelper import SMTPHandler
-from spampy.helpers.MessageHelper import MessageHandler
-from spampy.helpers.TGHelper import TGHandler
+from helpers.SMTPHelper import SMTPHandler
+from helpers.MessageHelper import MessageHandler
+from helpers.TGHelper import TGHandler
 import sys
 import time
 
