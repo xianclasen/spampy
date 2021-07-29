@@ -32,7 +32,11 @@ class SMTPHandler(object):
         with smtplib.SMTP(self.receiving_mta) as server:
             server.sendmail(sender, self.msg_recipient, text)
 
-    def send_phish(self, subject, phish):
+    def sendMessage(self, sender, subject, message):
+        with smtplib.SMTP(self.receiving_mta) as server:
+            server.sendmail(sender, self.msg_recipient, message)
+    
+    def sendPhish(self, subject, phish):
         message = MIMEMultipart()
         message["From"] = self.sender
         message["To"] = self.msg_recipient
