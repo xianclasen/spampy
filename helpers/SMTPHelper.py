@@ -8,6 +8,7 @@ class SMTPHandler(object):
     def __init__(self, receiving_mta, msg_recipient, sender):
         self.receiving_mta = receiving_mta
         self.msg_recipient = msg_recipient
+        self.sender = sender
     
     def sendMalware(self, sender, subject, malware):
         message = MIMEMultipart()
@@ -30,11 +31,11 @@ class SMTPHandler(object):
         message.attach(part)
         text = message.as_string()
         with smtplib.SMTP(self.receiving_mta) as server:
-            server.sendmail(sender, self.msg_recipient, text)
+            server.sendmail(self.sender, self.msg_recipient, text)
 
-    def sendMessage(self, sender, subject, message):
+    def sendMessage(self, message):
         with smtplib.SMTP(self.receiving_mta) as server:
-            server.sendmail(sender, self.msg_recipient, message)
+            server.sendmail(self.sender, self.msg_recipient, message)
     
     def sendPhish(self, subject, phish):
         message = MIMEMultipart()
@@ -42,6 +43,7 @@ class SMTPHandler(object):
         message["To"] = self.msg_recipient
         message["Subject"] = subject
         body = phish
+        message.attach(MIMEText(body, "plain"))
         text = message.as_string()
         with smtplib.SMTP(self.receiving_mta) as server:
             server.sendmail(self.sender, self.msg_recipient, text)

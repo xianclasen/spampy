@@ -3,6 +3,7 @@ import configparser
 import os
 import random
 from helpers.SMTPHelper import SMTPHandler
+from helpers.PhishHelper import PhishHandler
 from helpers.MessageHelper import MessageHandler
 from helpers.TGHelper import TGHandler
 import sys
@@ -34,6 +35,7 @@ msg_recipient = str(config['Strings']['msg_recipient'])
 body = str(config['Strings']['body'])
 receiving_mta = str(config['Domains']['receiving_mta'])
 malware_folder = str(config['Paths and Files']['malware_folder'])
+phish_folder = str(config['Paths and Files']['phish_folder'])
 refresh_malware = config.getboolean('Booleans', 'refresh_malware') 
 tg_domain = str(config['Domains']['tg_domain'])
 tg_api_key = str(config['Paths and Files']['tg_api_key'])
@@ -57,9 +59,14 @@ def fire(msg_limit):
                     malware_path = malware_folder + '/' + malware
                     print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit) + ' (Attaching malware file ' + malware + ') to message "' + subject + '"')
                     SH.sendMalware(sender, subject, malware_path)
+                elif (msg_count % 2 == 0):
+                    with open(phish_folder + '/phishes.txt') as p:
+                        phish = random.choice(open(phish_folder + '/phishes.txt').readlines())
+                        print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit) + ' Adding phishing URL ' + phish + ' to message "' + subject.rstrip() + '"')
+                        SH.sendPhish(subject, phish)
                 else:
                     print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit))
-                    SH.sendMessage(sender, subject, message)
+                    SH.sendMessage(message)
             
             except Exception as e:
                 print('Failed: ' + str(e))
