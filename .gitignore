@@ -1,2 +1,4 @@
 message.current
 config.ini
+spam-source/*
+malware-source/*
