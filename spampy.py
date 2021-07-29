@@ -45,7 +45,7 @@ def fire(msg_limit):
     msg_count = 1
     failed_count = 0
     MH = MessageHandler(msg_recipient, spam_folder)
-    while msg_count < msg_limit:
+    while msg_count <= msg_limit:
         sender, subject = MH.createCurrentMessage()
         SH = SMTPHandler(receiving_mta, msg_recipient, sender)
         with open('message.current', 'r') as f:
@@ -54,8 +54,9 @@ def fire(msg_limit):
             try:
                 if (msg_count % 3 == 0):
                     malware = random.choice(os.listdir(malware_folder + '/'))
-                    print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit) + ' (Attaching malware file ' + malware + ')')
-                    SH.sendMalware(sender, subject, subject, malware)
+                    malware_path = malware_folder + '/' + malware
+                    print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit) + ' (Attaching malware file ' + malware + ') to message "' + subject + '"')
+                    SH.sendMalware(sender, subject, malware_path)
                 else:
                     print('Sending message ' + str(msg_count) + ' of ' + str(msg_limit))
                     SH.sendMessage(sender, subject, message)
@@ -63,12 +64,15 @@ def fire(msg_limit):
             except Exception as e:
                 print('Failed: ' + str(e))
                 failed_count = failed_count + 1
-            msg_count = msg_count + 1
+
             if delay > 0:
                 time.sleep(delay)
             if msg_count == msg_limit:
                 print('Messages sent: ' + str(msg_count) + '\nFailed: ' + str(failed_count))
                 sys.exit()
+            
+            else:
+                msg_count = msg_count + 1
 
 
 if __name__ == '__main__':
