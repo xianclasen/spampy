@@ -60,4 +60,4 @@ class TGHandler(object):
             except Exception as e:
                 print('Something went wrong when we asked MSFVenom to repack our malware. Is your install complete?\n' + str(e))
             
-            os.remove('./' + payloadname + '.exe')
+            os.remove('./' + filename + '.exe')
